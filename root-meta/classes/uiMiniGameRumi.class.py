@@ -1,6 +1,6 @@
 {'cur_page': None,
- 'game_page': <uiMiniGameRumi.RumiGamePage object at 0x2D0AB330>,
- 'hWnd': 838919008,
+ 'game_page': <uiMiniGameRumi.RumiGamePage object at 0x2E443750>,
+ 'hWnd': 790942008,
  'isLoaded': 1,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,
@@ -10,6 +10,6 @@
  'overOutFunc': None,
  'parentWindow': 0,
  'state': 1,
- 'waiting_page': <uiMiniGameRumi.RumiWaitingPage object at 0x2D0AB0B0>,
+ 'waiting_page': <uiMiniGameRumi.RumiWaitingPage object at 0x2E362FF0>,
  'window_horizontal_align': 0,
  'window_vertical_align': 0}

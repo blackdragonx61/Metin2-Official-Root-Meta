@@ -24,19 +24,19 @@ M2EMPIREICON,		{0: 'd:/ymir work/ui/public/battle/empire_empty.sub', 1: 'd:/ymir
 submodule.M2EMPIREICON
 
 
-_BattleFieldWindow__OnClickTabButton,		<cyfunction BattleFieldWindow.__OnClickTabButton at 0x099DDA28>
+_BattleFieldWindow__OnClickTabButton,		<cyfunction BattleFieldWindow.__OnClickTabButton at 0x0A6F07C0>
 	arg0: self
 	arg1: stateKey
 
 submodule._BattleFieldWindow__OnClickTabButton
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-ExitOnDeadEvent,		<cyfunction BattleFieldWindow.ExitOnDeadEvent at 0x099E6348>
+ExitOnDeadEvent,		<cyfunction BattleFieldWindow.ExitOnDeadEvent at 0x0A6B90E0>
 	arg0: self
 	arg1: arg
 
 submodule.ExitOnDeadEvent
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-SetPoint,		<cyfunction BattleFieldWindow.SetPoint at 0x099DDE48>
+SetPoint,		<cyfunction BattleFieldWindow.SetPoint at 0x0A6F0BE0>
 	arg0: self
 	arg1: point
 
@@ -47,7 +47,7 @@ __module__,		uiBattleField
 submodule.__module__
 
 
-SetBattleFieldLeftTime,		<cyfunction BattleFieldWindow.SetBattleFieldLeftTime at 0x099DDEA0>
+SetBattleFieldLeftTime,		<cyfunction BattleFieldWindow.SetBattleFieldLeftTime at 0x0A6F0C38>
 	arg0: self
 	arg1: leftOpen
 	arg2: leftEnd
@@ -56,43 +56,43 @@ submodule.SetBattleFieldLeftTime
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiBattleField.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-ExitQuestion,		<cyfunction BattleFieldWindow.ExitQuestion at 0x099E6240>
+ExitQuestion,		<cyfunction BattleFieldWindow.ExitQuestion at 0x0A6F0FA8>
 	arg0: self
 	arg1: point
 
 submodule.ExitQuestion
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction BattleFieldWindow.Destroy at 0x099E6030>
+Destroy,		<cyfunction BattleFieldWindow.Destroy at 0x0A6F0D98>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction BattleFieldWindow.__init__ at 0x099DD870>
+__init__,		<cyfunction BattleFieldWindow.__init__ at 0x0A6F0608>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-OverOutToolTipButton,		<cyfunction BattleFieldWindow.OverOutToolTipButton at 0x099DDAD8>
+OverOutToolTipButton,		<cyfunction BattleFieldWindow.OverOutToolTipButton at 0x0A6F0870>
 	arg0: self
 
 submodule.OverOutToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction BattleFieldWindow.OnUpdate at 0x099DDD98>
+OnUpdate,		<cyfunction BattleFieldWindow.OnUpdate at 0x0A6F0B30>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-_BattleFieldWindow__DescBattleField,		<cyfunction BattleFieldWindow.__DescBattleField at 0x099DDB88>
+_BattleFieldWindow__DescBattleField,		<cyfunction BattleFieldWindow.__DescBattleField at 0x0A6F0920>
 	arg0: self
 
 submodule._BattleFieldWindow__DescBattleField
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-NextDescriptionPage,		<cyfunction BattleFieldWindow.NextDescriptionPage at 0x099DDC38>
+NextDescriptionPage,		<cyfunction BattleFieldWindow.NextDescriptionPage at 0x0A6F09D0>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-OverInToolTipButton,		<cyfunction BattleFieldWindow.OverInToolTipButton at 0x099DDA80>
+OverInToolTipButton,		<cyfunction BattleFieldWindow.OverInToolTipButton at 0x0A6F0818>
 	arg0: self
 	arg1: btnText
 	arg2: text_len
@@ -100,35 +100,35 @@ OverInToolTipButton,		<cyfunction BattleFieldWindow.OverInToolTipButton at 0x099
 
 submodule.OverInToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-_BattleFieldWindow__MakeResultSlotCoverUI,		<cyfunction BattleFieldWindow.__MakeResultSlotCoverUI at 0x099E6190>
+_BattleFieldWindow__MakeResultSlotCoverUI,		<cyfunction BattleFieldWindow.__MakeResultSlotCoverUI at 0x0A6F0EF8>
 	arg0: self
 	arg1: yPos
 
 submodule._BattleFieldWindow__MakeResultSlotCoverUI
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-RefreshRankingList,		<cyfunction BattleFieldWindow.RefreshRankingList at 0x099E61E8>
+RefreshRankingList,		<cyfunction BattleFieldWindow.RefreshRankingList at 0x0A6F0F50>
 	arg0: self
 	arg1: type
 	arg2: category
 
 submodule.RefreshRankingList
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-EnterBattleField,		<cyfunction BattleFieldWindow.EnterBattleField at 0x099DDC90>
+EnterBattleField,		<cyfunction BattleFieldWindow.EnterBattleField at 0x0A6F0A28>
 	arg0: self
 
 submodule.EnterBattleField
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-DisableEnterButton,		<cyfunction BattleFieldWindow.DisableEnterButton at 0x099DDCE8>
+DisableEnterButton,		<cyfunction BattleFieldWindow.DisableEnterButton at 0x0A6F0A80>
 	arg0: self
 
 submodule.DisableEnterButton
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-PrevDescriptionPage,		<cyfunction BattleFieldWindow.PrevDescriptionPage at 0x099DDBE0>
+PrevDescriptionPage,		<cyfunction BattleFieldWindow.PrevDescriptionPage at 0x0A6F0978>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction BattleFieldWindow.__del__ at 0x099DD8C8>
+__del__,		<cyfunction BattleFieldWindow.__del__ at 0x0A6F0660>
 	arg0: self
 
 submodule.__del__
@@ -138,7 +138,7 @@ SHOW_LINE_COUNT_MAX,		18
 submodule.SHOW_LINE_COUNT_MAX
 
 
-SetNotice,		<cyfunction BattleFieldWindow.SetNotice at 0x099DDEF8>
+SetNotice,		<cyfunction BattleFieldWindow.SetNotice at 0x0A6F0C90>
 	arg0: self
 	arg1: enable
 
@@ -149,39 +149,39 @@ DEFAULT_DESC_Y,		7
 submodule.DEFAULT_DESC_Y
 
 
-_BattleFieldWindow__MakeResultSlotUI,		<cyfunction BattleFieldWindow.__MakeResultSlotUI at 0x099E6138>
+_BattleFieldWindow__MakeResultSlotUI,		<cyfunction BattleFieldWindow.__MakeResultSlotUI at 0x0A6F0EA0>
 	arg0: self
 	arg1: yPos
 
 submodule._BattleFieldWindow__MakeResultSlotUI
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-ButtonToolTipProgress,		<cyfunction BattleFieldWindow.ButtonToolTipProgress at 0x099DDB30>
+ButtonToolTipProgress,		<cyfunction BattleFieldWindow.ButtonToolTipProgress at 0x0A6F08C8>
 	arg0: self
 
 submodule.ButtonToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction BattleFieldWindow.OnPressEscapeKey at 0x099E6088>
+OnPressEscapeKey,		<cyfunction BattleFieldWindow.OnPressEscapeKey at 0x0A6F0DF0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-_BattleFieldWindow__MakeRankingUI,		<cyfunction BattleFieldWindow.__MakeRankingUI at 0x099E60E0>
+_BattleFieldWindow__MakeRankingUI,		<cyfunction BattleFieldWindow.__MakeRankingUI at 0x0A6F0E48>
 	arg0: self
 
 submodule._BattleFieldWindow__MakeRankingUI
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-EnableEnterButton,		<cyfunction BattleFieldWindow.EnableEnterButton at 0x099DDD40>
+EnableEnterButton,		<cyfunction BattleFieldWindow.EnableEnterButton at 0x0A6F0AD8>
 	arg0: self
 
 submodule.EnableEnterButton
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-ExitEvent,		<cyfunction BattleFieldWindow.ExitEvent at 0x099E62F0>
+ExitEvent,		<cyfunction BattleFieldWindow.ExitEvent at 0x0A6B9088>
 	arg0: self
 	arg1: arg
 
 submodule.ExitEvent
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-_BattleFieldWindow__BindObject,		<cyfunction BattleFieldWindow.__BindObject at 0x099DD978>
+_BattleFieldWindow__BindObject,		<cyfunction BattleFieldWindow.__BindObject at 0x0A6F0710>
 	arg0: self
 
 submodule._BattleFieldWindow__BindObject
@@ -196,33 +196,33 @@ __qualname__,		BattleFieldWindow
 submodule.__qualname__
 
 
-_BattleFieldWindow__LoadWindow,		<cyfunction BattleFieldWindow.__LoadWindow at 0x099DD920>
+_BattleFieldWindow__LoadWindow,		<cyfunction BattleFieldWindow.__LoadWindow at 0x0A6F06B8>
 	arg0: self
 
 submodule._BattleFieldWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-Close,		<cyfunction BattleFieldWindow.Close at 0x099DDFA8>
+Close,		<cyfunction BattleFieldWindow.Close at 0x0A6F0D40>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-SetState,		<cyfunction BattleFieldWindow.SetState at 0x099DDDF0>
+SetState,		<cyfunction BattleFieldWindow.SetState at 0x0A6F0B88>
 	arg0: self
 	arg1: stateKey
 
 submodule.SetState
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-Open,		<cyfunction BattleFieldWindow.Open at 0x099DDF50>
+Open,		<cyfunction BattleFieldWindow.Open at 0x0A6F0CE8>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-_BattleFieldWindow__BindEvent,		<cyfunction BattleFieldWindow.__BindEvent at 0x099DD9D0>
+_BattleFieldWindow__BindEvent,		<cyfunction BattleFieldWindow.__BindEvent at 0x0A6F0768>
 	arg0: self
 
 submodule._BattleFieldWindow__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with BattleFieldWindow instance as first argument (got nothing instead)
-ExitOnDeadQuestion,		<cyfunction BattleFieldWindow.ExitOnDeadQuestion at 0x099E6298>
+ExitOnDeadQuestion,		<cyfunction BattleFieldWindow.ExitOnDeadQuestion at 0x0A6B9030>
 	arg0: self
 	arg1: point
 

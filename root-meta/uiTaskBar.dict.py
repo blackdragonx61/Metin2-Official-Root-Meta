@@ -132,6 +132,7 @@
             'import': [],
             'var': [{'name': 'BUTTON_AUTO_WINDOW', 'type': 'int', 'value': 2},
                     {'name': 'BUTTON_DRAGON_SOUL', 'type': 'int', 'value': 0},
+                    {'name': 'BUTTON_MERCENARY_WINDOW', 'type': 'int', 'value': 6},
                     {'name': 'BUTTON_MONSTER_CARD_WINDOW', 'type': 'int', 'value': 3},
                     {'name': 'BUTTON_PARTY_MATCH_WINDOW', 'type': 'int', 'value': 4},
                     {'name': 'BUTTON_PET_INFO', 'type': 'int', 'value': 1},

@@ -24,7 +24,7 @@ key: ui, val: <module 'ui' (built-in)>
 
 
 class ShopDialog:
-OnBuy,		<cyfunction ShopDialog.OnBuy at 0x099C1AD8>
+OnBuy,		<cyfunction ShopDialog.OnBuy at 0x0A781B30>
 	arg0: self
 
 submodule.OnBuy
@@ -34,7 +34,7 @@ __module__,		uiShop
 submodule.__module__
 
 
-OnSellItem,		<cyfunction ShopDialog.OnSellItem at 0x099C1C90>
+OnSellItem,		<cyfunction ShopDialog.OnSellItem at 0x0A781CE8>
 	arg0: self
 	arg1: slotPos
 	arg2: count
@@ -42,24 +42,24 @@ OnSellItem,		<cyfunction ShopDialog.OnSellItem at 0x099C1C90>
 
 submodule.OnSellItem
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ShopDialog.OnPressEscapeKey at 0x099C1A28>
+OnPressEscapeKey,		<cyfunction ShopDialog.OnPressEscapeKey at 0x0A781A80>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction ShopDialog.SelectItemSlot at 0x099C1F50>
+SelectItemSlot,		<cyfunction ShopDialog.SelectItemSlot at 0x0A781FA8>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-UnselectItemSlot,		<cyfunction ShopDialog.UnselectItemSlot at 0x099C1EF8>
+UnselectItemSlot,		<cyfunction ShopDialog.UnselectItemSlot at 0x0A781F50>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.UnselectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OnAcceptSellItem,		<cyfunction ShopDialog.OnAcceptSellItem at 0x099C1D40>
+OnAcceptSellItem,		<cyfunction ShopDialog.OnAcceptSellItem at 0x0A781D98>
 	arg0: self
 	arg1: slotPos
 	arg2: count
@@ -72,93 +72,93 @@ BUY_QUESTION_DIALOG_MIN_YANG,		500000
 submodule.BUY_QUESTION_DIALOG_MIN_YANG
 
 
-OnClickTabButton,		<cyfunction ShopDialog.OnClickTabButton at 0x099C19D0>
+OnClickTabButton,		<cyfunction ShopDialog.OnClickTabButton at 0x0A781A28>
 	arg0: self
 	arg1: idx
 
 submodule.OnClickTabButton
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-DropToInventory,		<cyfunction ShopDialog.DropToInventory at 0x099C6030>
+DropToInventory,		<cyfunction ShopDialog.DropToInventory at 0x0A786088>
 	arg0: self
 
 submodule.DropToInventory
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__HideSmallTabs,		<cyfunction ShopDialog.__HideSmallTabs at 0x099C17C0>
+_ShopDialog__HideSmallTabs,		<cyfunction ShopDialog.__HideSmallTabs at 0x0A781818>
 	arg0: self
 
 submodule._ShopDialog__HideSmallTabs
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction ShopDialog.Destroy at 0x099C1870>
+Destroy,		<cyfunction ShopDialog.Destroy at 0x0A7818C8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction ShopDialog.__init__ at 0x099C13A0>
+__init__,		<cyfunction ShopDialog.__init__ at 0x0A7813F8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ShopDialog.OnUpdate at 0x099C6240>
+OnUpdate,		<cyfunction ShopDialog.OnUpdate at 0x0A786298>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__ShowMiddleTabs,		<cyfunction ShopDialog.__ShowMiddleTabs at 0x099C1660>
+_ShopDialog__ShowMiddleTabs,		<cyfunction ShopDialog.__ShowMiddleTabs at 0x0A7816B8>
 	arg0: self
 
 submodule._ShopDialog__ShowMiddleTabs
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__ShowBuySellButton,		<cyfunction ShopDialog.__ShowBuySellButton at 0x099C1608>
+_ShopDialog__ShowBuySellButton,		<cyfunction ShopDialog.__ShowBuySellButton at 0x0A781660>
 	arg0: self
 
 submodule._ShopDialog__ShowBuySellButton
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-ResetUsablePoint,		<cyfunction ShopDialog.ResetUsablePoint at 0x099C63A0>
+ResetUsablePoint,		<cyfunction ShopDialog.ResetUsablePoint at 0x0A7863F8>
 	arg0: self
 	arg1: coin_type
 
 submodule.ResetUsablePoint
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-ShopToInventory,		<cyfunction ShopDialog.ShopToInventory at 0x099C1FA8>
+ShopToInventory,		<cyfunction ShopDialog.ShopToInventory at 0x0A786030>
 	arg0: self
 	arg1: selected_shop_pos
 
 submodule.ShopToInventory
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__SetTabNames,		<cyfunction ShopDialog.__SetTabNames at 0x099C1818>
+_ShopDialog__SetTabNames,		<cyfunction ShopDialog.__SetTabNames at 0x0A781870>
 	arg0: self
 
 submodule._ShopDialog__SetTabNames
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction ShopDialog.__del__ at 0x099C13F8>
+__del__,		<cyfunction ShopDialog.__del__ at 0x0A781450>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-AnswerBuyItem,		<cyfunction ShopDialog.AnswerBuyItem at 0x099C60E0>
+AnswerBuyItem,		<cyfunction ShopDialog.AnswerBuyItem at 0x0A786138>
 	arg0: self
 	arg1: flag
 
 submodule.AnswerBuyItem
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__GetRealIndex,		<cyfunction ShopDialog.__GetRealIndex at 0x099C1450>
+_ShopDialog__GetRealIndex,		<cyfunction ShopDialog.__GetRealIndex at 0x0A7814A8>
 	arg0: self
 	arg1: i
 
 submodule._ShopDialog__GetRealIndex
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-SellAttachedItem,		<cyfunction ShopDialog.SellAttachedItem at 0x099C1C38>
+SellAttachedItem,		<cyfunction ShopDialog.SellAttachedItem at 0x0A781C90>
 	arg0: self
 
 submodule.SellAttachedItem
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction ShopDialog.SelectEmptySlot at 0x099C1EA0>
+SelectEmptySlot,		<cyfunction ShopDialog.SelectEmptySlot at 0x0A781EF8>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-CreateSecondConfirmQuestionDialog,		<cyfunction ShopDialog.CreateSecondConfirmQuestionDialog at 0x099C1CE8>
+CreateSecondConfirmQuestionDialog,		<cyfunction ShopDialog.CreateSecondConfirmQuestionDialog at 0x0A781D40>
 	arg0: self
 	arg1: slotPos
 	arg2: count
@@ -166,7 +166,7 @@ CreateSecondConfirmQuestionDialog,		<cyfunction ShopDialog.CreateSecondConfirmQu
 
 submodule.CreateSecondConfirmQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-SetItemData,		<cyfunction ShopDialog.SetItemData at 0x099C1558>
+SetItemData,		<cyfunction ShopDialog.SetItemData at 0x0A7815B0>
 	arg0: self
 	arg1: pos
 	arg2: itemID
@@ -175,81 +175,81 @@ SetItemData,		<cyfunction ShopDialog.SetItemData at 0x099C1558>
 
 submodule.SetItemData
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__RefreshSubBoard,		<cyfunction ShopDialog.__RefreshSubBoard at 0x099C1500>
+_ShopDialog__RefreshSubBoard,		<cyfunction ShopDialog.__RefreshSubBoard at 0x0A781558>
 	arg0: self
 	arg1: coin_type
 
 submodule._ShopDialog__RefreshSubBoard
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-AskBuyItem,		<cyfunction ShopDialog.AskBuyItem at 0x099C6088>
+AskBuyItem,		<cyfunction ShopDialog.AskBuyItem at 0x0A7860E0>
 	arg0: self
 	arg1: slotPos
 
 submodule.AskBuyItem
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__OnClosePopupDialog,		<cyfunction ShopDialog.__OnClosePopupDialog at 0x099C1BE0>
+_ShopDialog__OnClosePopupDialog,		<cyfunction ShopDialog.__OnClosePopupDialog at 0x0A781C38>
 	arg0: self
 
 submodule._ShopDialog__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction ShopDialog.LoadDialog at 0x099C15B0>
+LoadDialog,		<cyfunction ShopDialog.LoadDialog at 0x0A781608>
 	arg0: self
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__HideMiddleTabs,		<cyfunction ShopDialog.__HideMiddleTabs at 0x099C1768>
+_ShopDialog__HideMiddleTabs,		<cyfunction ShopDialog.__HideMiddleTabs at 0x0A7817C0>
 	arg0: self
 
 submodule._ShopDialog__HideMiddleTabs
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__HideBuySellButton,		<cyfunction ShopDialog.__HideBuySellButton at 0x099C1710>
+_ShopDialog__HideBuySellButton,		<cyfunction ShopDialog.__HideBuySellButton at 0x0A781768>
 	arg0: self
 
 submodule._ShopDialog__HideBuySellButton
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-CancelShopping,		<cyfunction ShopDialog.CancelShopping at 0x099C1B88>
+CancelShopping,		<cyfunction ShopDialog.CancelShopping at 0x0A781BE0>
 	arg0: self
 
 submodule.CancelShopping
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-Refresh,		<cyfunction ShopDialog.Refresh at 0x099C14A8>
+Refresh,		<cyfunction ShopDialog.Refresh at 0x0A781500>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OnDenySellItem,		<cyfunction ShopDialog.OnDenySellItem at 0x099C1D98>
+OnDenySellItem,		<cyfunction ShopDialog.OnDenySellItem at 0x0A781DF0>
 	arg0: self
 
 submodule.OnDenySellItem
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-Close,		<cyfunction ShopDialog.Close at 0x099C1920>
+Close,		<cyfunction ShopDialog.Close at 0x0A781978>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OnTop,		<cyfunction ShopDialog.OnTop at 0x099C6348>
+OnTop,		<cyfunction ShopDialog.OnTop at 0x0A7863A0>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-BindInterface,		<cyfunction ShopDialog.BindInterface at 0x099C62F0>
+BindInterface,		<cyfunction ShopDialog.BindInterface at 0x0A786348>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction ShopDialog.OnPressExitKey at 0x099C1A80>
+OnPressExitKey,		<cyfunction ShopDialog.OnPressExitKey at 0x0A781AD8>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction ShopDialog.SetItemToolTip at 0x099C6138>
+SetItemToolTip,		<cyfunction ShopDialog.SetItemToolTip at 0x0A786190>
 	arg0: self
 	arg1: tooltipItem
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-_ShopDialog__ShowSmallTabs,		<cyfunction ShopDialog.__ShowSmallTabs at 0x099C16B8>
+_ShopDialog__ShowSmallTabs,		<cyfunction ShopDialog.__ShowSmallTabs at 0x0A781710>
 	arg0: self
 
 submodule._ShopDialog__ShowSmallTabs
@@ -259,7 +259,7 @@ __qualname__,		ShopDialog
 submodule.__qualname__
 
 
-OnSell,		<cyfunction ShopDialog.OnSell at 0x099C1B30>
+OnSell,		<cyfunction ShopDialog.OnSell at 0x0A781B88>
 	arg0: self
 
 submodule.OnSell
@@ -269,41 +269,41 @@ __doc__,		None
 submodule.__doc__
 
 
-OnCloseQuestionDialog,		<cyfunction ShopDialog.OnCloseQuestionDialog at 0x099C1E48>
+OnCloseQuestionDialog,		<cyfunction ShopDialog.OnCloseQuestionDialog at 0x0A781EA0>
 	arg0: self
 
 submodule.OnCloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction ShopDialog.OverOutItem at 0x099C61E8>
+OverOutItem,		<cyfunction ShopDialog.OverOutItem at 0x0A786240>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OverInItem,		<cyfunction ShopDialog.OverInItem at 0x099C6190>
+OverInItem,		<cyfunction ShopDialog.OverInItem at 0x0A7861E8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-GetIndexFromSlotPos,		<cyfunction ShopDialog.GetIndexFromSlotPos at 0x099C1978>
+GetIndexFromSlotPos,		<cyfunction ShopDialog.GetIndexFromSlotPos at 0x0A7819D0>
 	arg0: self
 	arg1: slotPos
 
 submodule.GetIndexFromSlotPos
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-CantSellInvenItem,		<cyfunction ShopDialog.CantSellInvenItem at 0x099C6298>
+CantSellInvenItem,		<cyfunction ShopDialog.CantSellInvenItem at 0x0A7862F0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.CantSellInvenItem
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-Open,		<cyfunction ShopDialog.Open at 0x099C18C8>
+Open,		<cyfunction ShopDialog.Open at 0x0A781920>
 	arg0: self
 	arg1: vid
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with ShopDialog instance as first argument (got nothing instead)
-OnCloseSecondConfirmQuestionDialog,		<cyfunction ShopDialog.OnCloseSecondConfirmQuestionDialog at 0x099C1DF0>
+OnCloseSecondConfirmQuestionDialog,		<cyfunction ShopDialog.OnCloseSecondConfirmQuestionDialog at 0x0A781E48>
 	arg0: self
 
 submodule.OnCloseSecondConfirmQuestionDialog
@@ -316,7 +316,7 @@ __module__,		uiShop
 submodule.__module__
 
 
-__del__,		<cyfunction MallPageDialog.__del__ at 0x099C6450>
+__del__,		<cyfunction MallPageDialog.__del__ at 0x0A7864A8>
 	arg0: self
 
 submodule.__del__
@@ -326,22 +326,22 @@ __qualname__,		MallPageDialog
 submodule.__qualname__
 
 
-OnPressEscapeKey,		<cyfunction MallPageDialog.OnPressEscapeKey at 0x099C65B0>
+OnPressEscapeKey,		<cyfunction MallPageDialog.OnPressEscapeKey at 0x0A786608>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MallPageDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction MallPageDialog.Destroy at 0x099C64A8>
+Destroy,		<cyfunction MallPageDialog.Destroy at 0x0A786500>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MallPageDialog instance as first argument (got nothing instead)
-Close,		<cyfunction MallPageDialog.Close at 0x099C6558>
+Close,		<cyfunction MallPageDialog.Close at 0x0A7865B0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MallPageDialog instance as first argument (got nothing instead)
-Open,		<cyfunction MallPageDialog.Open at 0x099C6500>
+Open,		<cyfunction MallPageDialog.Open at 0x0A786558>
 	arg0: self
 
 submodule.Open
@@ -351,7 +351,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MallPageDialog.__init__ at 0x099C63F8>
+__init__,		<cyfunction MallPageDialog.__init__ at 0x0A786450>
 	arg0: self
 
 submodule.__init__

@@ -146,4 +146,4 @@
                     {'name': 'wndCostume', 'type': 'NoneType', 'value': None}]}],
  'func': [],
  'import': ['chatm2g', 'app', 'uiPrivateShopBuilder', 'uiPickMoney', 'm2netm2g', 'playerm2g2', 'uiRefine', 'constInfo', 'grp', 'uiToolTip', 'uiAttachMetin', 'uiPickETC', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', 'snd', '__builtin__', 'ime', 'wndMgr', 'uiPetInfo', 'item', 'ui'],
- 'var': [{'name': 'ITEM_FLAG_APPLICABLE', 'type': 'int', 'value': 16384}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiInventory'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}
+ 'var': [{'name': 'ITEM_FLAG_APPLICABLE', 'type': 'int', 'value': 8192}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiInventory'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}
