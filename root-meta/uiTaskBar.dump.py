@@ -1,10 +1,10 @@
 key: emotion, val: <module 'emotion' (built-in)>
-key: GetMouseButtonSettings, val: <cyfunction GetMouseButtonSettings at 0x0DC79030>
+key: GetMouseButtonSettings, val: <cyfunction GetMouseButtonSettings at 0x0ADD8FA8>
 key: GiftBox, val: <class 'uiTaskBar.GiftBox'>
 key: app, val: <module 'app' (built-in)>
 key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: playerm2g2, val: <module 'playerm2g2' (built-in)>
-key: SetMouseButtonSetting, val: <cyfunction SetMouseButtonSetting at 0x0DBEEFA8>
+key: SetMouseButtonSetting, val: <cyfunction SetMouseButtonSetting at 0x0ADD8F50>
 key: TaskBar, val: <class 'uiTaskBar.TaskBar'>
 key: skill, val: <module 'skill' (built-in)>
 key: constInfo, val: <module 'constInfo' (built-in)>
@@ -16,16 +16,16 @@ key: mouseModule, val: <module 'mouseModule' (built-in)>
 key: uiScriptLocale, val: <module 'uiScriptLocale' (built-in)>
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
-key: SaveMouseButtonSettings, val: <cyfunction SaveMouseButtonSettings at 0x0DC79088>
-key: LoadMouseButtonSettings, val: <cyfunction LoadMouseButtonSettings at 0x0DC790E0>
+key: SaveMouseButtonSettings, val: <cyfunction SaveMouseButtonSettings at 0x0AE21030>
+key: LoadMouseButtonSettings, val: <cyfunction LoadMouseButtonSettings at 0x0AE21088>
 key: __builtins__, val: <module '__builtin__' (built-in)>
 key: __test__, val: {}
 key: ExpandedTaskBar, val: <class 'uiTaskBar.ExpandedTaskBar'>
 key: wndMgr, val: <module 'wndMgr' (built-in)>
 key: __name__, val: uiTaskBar
-key: InitMouseButtonSettings, val: <cyfunction InitMouseButtonSettings at 0x0DBEEF50>
+key: InitMouseButtonSettings, val: <cyfunction InitMouseButtonSettings at 0x0ADD8EF8>
 key: EnergyBar, val: <class 'uiTaskBar.EnergyBar'>
-key: unsigned32, val: <cyfunction unsigned32 at 0x0DC79138>
+key: unsigned32, val: <cyfunction unsigned32 at 0x0AE210E0>
 key: item, val: <module 'item' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
 
@@ -43,17 +43,17 @@ submodule.__module__
 
 TextToolTip,		<class 'uiTaskBar.TextToolTip'>
 Skip: type object 'TextToolTip' has no attribute 'func_code'
-__del__,		<cyfunction GiftBox.__del__ at 0x0DC79348>
+__del__,		<cyfunction GiftBox.__del__ at 0x0AE212F0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GiftBox instance as first argument (got nothing instead)
-Destroy,		<cyfunction GiftBox.Destroy at 0x0DC793F8>
+Destroy,		<cyfunction GiftBox.Destroy at 0x0AE213A0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GiftBox instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction GiftBox.LoadWindow at 0x0DC793A0>
+LoadWindow,		<cyfunction GiftBox.LoadWindow at 0x0AE21348>
 	arg0: self
 
 submodule.LoadWindow
@@ -63,7 +63,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction GiftBox.__init__ at 0x0DC792F0>
+__init__,		<cyfunction GiftBox.__init__ at 0x0AE21298>
 	arg0: self
 
 submodule.__init__
@@ -71,25 +71,25 @@ Skipped: unbound method cython_function_or_method object must be called with Gif
 
 
 class TaskBar:
-OnUseSkill,		<cyfunction TaskBar.OnUseSkill at 0x0DC7B348>
+OnUseSkill,		<cyfunction TaskBar.OnUseSkill at 0x0AE252F0>
 	arg0: self
 	arg1: usedSlotIndex
 	arg2: coolTime
 
 submodule.OnUseSkill
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-RefreshStamina,		<cyfunction TaskBar.RefreshStamina at 0x0DC7AE48>
+RefreshStamina,		<cyfunction TaskBar.RefreshStamina at 0x0AE22DF0>
 	arg0: self
 
 submodule.RefreshStamina
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-OverInItem,		<cyfunction TaskBar.OverInItem at 0x0DC7B450>
+OverInItem,		<cyfunction TaskBar.OverInItem at 0x0AE253F8>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-ToggleLeftMouseButtonModeWindow,		<cyfunction TaskBar.ToggleLeftMouseButtonModeWindow at 0x0DC7B608>
+ToggleLeftMouseButtonModeWindow,		<cyfunction TaskBar.ToggleLeftMouseButtonModeWindow at 0x0AE255B0>
 	arg0: self
 
 submodule.ToggleLeftMouseButtonModeWindow
@@ -99,7 +99,7 @@ EVENT_ATTACK,		1
 submodule.EVENT_ATTACK
 
 
-RefreshSkill,		<cyfunction TaskBar.RefreshSkill at 0x0DC7AEA0>
+RefreshSkill,		<cyfunction TaskBar.RefreshSkill at 0x0AE22E48>
 	arg0: self
 
 submodule.RefreshSkill
@@ -109,7 +109,7 @@ EVENT_MOVE,		0
 submodule.EVENT_MOVE
 
 
-_TaskBar__SetCollTimePetItemSlot,		<cyfunction TaskBar.__SetCollTimePetItemSlot at 0x0DC7B818>
+_TaskBar__SetCollTimePetItemSlot,		<cyfunction TaskBar.__SetCollTimePetItemSlot at 0x0AE257C0>
 	arg0: self
 	arg1: slot
 	arg2: window
@@ -124,29 +124,29 @@ GAUGE_WIDTH,		95
 submodule.GAUGE_WIDTH
 
 
-OnDeactivateSkill,		<cyfunction TaskBar.OnDeactivateSkill at 0x0DC7B3F8>
+OnDeactivateSkill,		<cyfunction TaskBar.OnDeactivateSkill at 0x0AE253A0>
 	arg0: self
 	arg1: usedSlotIndex
 
 submodule.OnDeactivateSkill
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-OnChangeCurrentSkill,		<cyfunction TaskBar.OnChangeCurrentSkill at 0x0DC7B7C0>
+OnChangeCurrentSkill,		<cyfunction TaskBar.OnChangeCurrentSkill at 0x0AE25768>
 	arg0: self
 	arg1: skillSlotNumber
 
 submodule.OnChangeCurrentSkill
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-LeftMouseButtonIsShow,		<cyfunction TaskBar.LeftMouseButtonIsShow at 0x0DC7B558>
+LeftMouseButtonIsShow,		<cyfunction TaskBar.LeftMouseButtonIsShow at 0x0AE25500>
 	arg0: self
 
 submodule.LeftMouseButtonIsShow
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-ToggleRightMouseButtonModeWindow,		<cyfunction TaskBar.ToggleRightMouseButtonModeWindow at 0x0DC7B660>
+ToggleRightMouseButtonModeWindow,		<cyfunction TaskBar.ToggleRightMouseButtonModeWindow at 0x0AE25608>
 	arg0: self
 
 submodule.ToggleRightMouseButtonModeWindow
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-_TaskBar__RampageGauge_OverOut,		<cyfunction TaskBar.__RampageGauge_OverOut at 0x0DC7AA80>
+_TaskBar__RampageGauge_OverOut,		<cyfunction TaskBar.__RampageGauge_OverOut at 0x0AE22A28>
 	arg0: self
 
 submodule._TaskBar__RampageGauge_OverOut
@@ -166,18 +166,18 @@ QUICKPAGE_NUMBER_FILENAME,		['d:/ymir work/ui/game/taskbar/1.sub', 'd:/ymir work
 submodule.QUICKPAGE_NUMBER_FILENAME
 
 
-__del__,		<cyfunction TaskBar.__del__ at 0x0DC7A978>
+__del__,		<cyfunction TaskBar.__del__ at 0x0AE22920>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-AddQuickSlot,		<cyfunction TaskBar.AddQuickSlot at 0x0DC7B190>
+AddQuickSlot,		<cyfunction TaskBar.AddQuickSlot at 0x0AE25138>
 	arg0: self
 	arg1: localSlotIndex
 
 submodule.AddQuickSlot
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-SetSP,		<cyfunction TaskBar.SetSP at 0x0DC7AF50>
+SetSP,		<cyfunction TaskBar.SetSP at 0x0AE22EF8>
 	arg0: self
 	arg1: curPoint
 	arg2: recoveryPoint
@@ -190,12 +190,12 @@ MOUSE_BUTTON_LEFT,		0
 submodule.MOUSE_BUTTON_LEFT
 
 
-RefreshStatus,		<cyfunction TaskBar.RefreshStatus at 0x0DC7ADF0>
+RefreshStatus,		<cyfunction TaskBar.RefreshStatus at 0x0AE22D98>
 	arg0: self
 
 submodule.RefreshStatus
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-SetToggleButtonEvent,		<cyfunction TaskBar.SetToggleButtonEvent at 0x0DC7ACE8>
+SetToggleButtonEvent,		<cyfunction TaskBar.SetToggleButtonEvent at 0x0AE22C90>
 	arg0: self
 	arg1: eButton
 	arg2: kEventFunc
@@ -212,26 +212,26 @@ BUTTON_INVENTORY,		1
 submodule.BUTTON_INVENTORY
 
 
-SelectMouseButtonEvent,		<cyfunction TaskBar.SelectMouseButtonEvent at 0x0DC7B768>
+SelectMouseButtonEvent,		<cyfunction TaskBar.SelectMouseButtonEvent at 0x0AE25710>
 	arg0: self
 	arg1: dir
 	arg2: event
 
 submodule.SelectMouseButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-ShowGift,		<cyfunction TaskBar.ShowGift at 0x0DC7A1E8>
+ShowGift,		<cyfunction TaskBar.ShowGift at 0x0AE22190>
 	arg0: self
 
 submodule.ShowGift
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-SetExperience,		<cyfunction TaskBar.SetExperience at 0x0DC7B030>
+SetExperience,		<cyfunction TaskBar.SetExperience at 0x0AE22FA8>
 	arg0: self
 	arg1: curPoint
 	arg2: maxPoint
 
 submodule.SetExperience
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-SetHP,		<cyfunction TaskBar.SetHP at 0x0DC7AEF8>
+SetHP,		<cyfunction TaskBar.SetHP at 0x0AE22EA0>
 	arg0: self
 	arg1: curPoint
 	arg2: recoveryPoint
@@ -244,12 +244,12 @@ __qualname__,		TaskBar
 submodule.__qualname__
 
 
-OverOutItem,		<cyfunction TaskBar.OverOutItem at 0x0DC7B4A8>
+OverOutItem,		<cyfunction TaskBar.OverOutItem at 0x0AE25450>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-_TaskBar__RampageGauge_Click,		<cyfunction TaskBar.__RampageGauge_Click at 0x0DC7AAD8>
+_TaskBar__RampageGauge_Click,		<cyfunction TaskBar.__RampageGauge_Click at 0x0AE22A80>
 	arg0: self
 
 submodule._TaskBar__RampageGauge_Click
@@ -259,7 +259,7 @@ BUTTON_EXPAND,		4
 submodule.BUTTON_EXPAND
 
 
-OnActivateSkill,		<cyfunction TaskBar.OnActivateSkill at 0x0DC7B3A0>
+OnActivateSkill,		<cyfunction TaskBar.OnActivateSkill at 0x0AE25348>
 	arg0: self
 	arg1: usedSlotIndex
 
@@ -270,12 +270,12 @@ __module__,		uiTaskBar
 submodule.__module__
 
 
-_TaskBar__LoadMouseSettings,		<cyfunction TaskBar.__LoadMouseSettings at 0x0DC7AB30>
+_TaskBar__LoadMouseSettings,		<cyfunction TaskBar.__LoadMouseSettings at 0x0AE22AD8>
 	arg0: self
 
 submodule._TaskBar__LoadMouseSettings
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-_TaskBar__IsInSafeMouseButtonSettingRange,		<cyfunction TaskBar.__IsInSafeMouseButtonSettingRange at 0x0DC7AB88>
+_TaskBar__IsInSafeMouseButtonSettingRange,		<cyfunction TaskBar.__IsInSafeMouseButtonSettingRange at 0x0AE22B30>
 	arg0: self
 	arg1: arg
 
@@ -286,12 +286,12 @@ GAUGE_HEIGHT,		13
 submodule.GAUGE_HEIGHT
 
 
-RightMouseButtonIsShow,		<cyfunction TaskBar.RightMouseButtonIsShow at 0x0DC7B5B0>
+RightMouseButtonIsShow,		<cyfunction TaskBar.RightMouseButtonIsShow at 0x0AE25558>
 	arg0: self
 
 submodule.RightMouseButtonIsShow
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-RefreshSkillCoolTime,		<cyfunction TaskBar.RefreshSkillCoolTime at 0x0DC7B0E0>
+RefreshSkillCoolTime,		<cyfunction TaskBar.RefreshSkillCoolTime at 0x0AE25088>
 	arg0: self
 
 submodule.RefreshSkillCoolTime
@@ -303,17 +303,17 @@ submodule.BUTTON_EXPAND_MONEY
 
 SkillButton,		<class 'uiTaskBar.SkillButton'>
 Skip: type object 'SkillButton' has no attribute 'func_code'
-Destroy,		<cyfunction TaskBar.Destroy at 0x0DC7ABE0>
+Destroy,		<cyfunction TaskBar.Destroy at 0x0AE22B88>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-__init__,		<cyfunction TaskBar.__init__ at 0x0DC7A920>
+__init__,		<cyfunction TaskBar.__init__ at 0x0AE228C8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-SelectEmptyQuickSlot,		<cyfunction TaskBar.SelectEmptyQuickSlot at 0x0DC7B240>
+SelectEmptyQuickSlot,		<cyfunction TaskBar.SelectEmptyQuickSlot at 0x0AE251E8>
 	arg0: self
 	arg1: slotIndex
 
@@ -324,14 +324,14 @@ NONE,		255
 submodule.NONE
 
 
-SetST,		<cyfunction TaskBar.SetST at 0x0DC7AFA8>
+SetST,		<cyfunction TaskBar.SetST at 0x0AE22F50>
 	arg0: self
 	arg1: curPoint
 	arg2: maxPoint
 
 submodule.SetST
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-RefreshQuickSlot,		<cyfunction TaskBar.RefreshQuickSlot at 0x0DC7B088>
+RefreshQuickSlot,		<cyfunction TaskBar.RefreshQuickSlot at 0x0AE25030>
 	arg0: self
 
 submodule.RefreshQuickSlot
@@ -341,17 +341,17 @@ EVENT_AUTO,		5
 submodule.EVENT_AUTO
 
 
-_TaskBar__OnClickQuickPageUpButton,		<cyfunction TaskBar.__OnClickQuickPageUpButton at 0x0DC7AC38>
+_TaskBar__OnClickQuickPageUpButton,		<cyfunction TaskBar.__OnClickQuickPageUpButton at 0x0AE22BE0>
 	arg0: self
 
 submodule._TaskBar__OnClickQuickPageUpButton
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-HideGift,		<cyfunction TaskBar.HideGift at 0x0DC7A240>
+HideGift,		<cyfunction TaskBar.HideGift at 0x0AE221E8>
 	arg0: self
 
 submodule.HideGift
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-_TaskBar__OnClickQuickPageDownButton,		<cyfunction TaskBar.__OnClickQuickPageDownButton at 0x0DC7AC90>
+_TaskBar__OnClickQuickPageDownButton,		<cyfunction TaskBar.__OnClickQuickPageDownButton at 0x0AE22C38>
 	arg0: self
 
 submodule._TaskBar__OnClickQuickPageDownButton
@@ -366,14 +366,14 @@ EVENT_SKILL,		4
 submodule.EVENT_SKILL
 
 
-canAddQuickSlot,		<cyfunction TaskBar.canAddQuickSlot at 0x0DC7B138>
+canAddQuickSlot,		<cyfunction TaskBar.canAddQuickSlot at 0x0AE250E0>
 	arg0: self
 	arg1: Type
 	arg2: slotNumber
 
 submodule.canAddQuickSlot
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-OpenSelectSkill,		<cyfunction TaskBar.OpenSelectSkill at 0x0DC7B6B8>
+OpenSelectSkill,		<cyfunction TaskBar.OpenSelectSkill at 0x0AE25660>
 	arg0: self
 
 submodule.OpenSelectSkill
@@ -385,7 +385,7 @@ BUTTON_MESSENGER,		2
 submodule.BUTTON_MESSENGER
 
 
-SetItemToolTip,		<cyfunction TaskBar.SetItemToolTip at 0x0DC7AD40>
+SetItemToolTip,		<cyfunction TaskBar.SetItemToolTip at 0x0AE22CE8>
 	arg0: self
 	arg1: tooltipItem
 
@@ -396,7 +396,7 @@ EVENT_CAMERA,		3
 submodule.EVENT_CAMERA
 
 
-SetSkillToolTip,		<cyfunction TaskBar.SetSkillToolTip at 0x0DC7AD98>
+SetSkillToolTip,		<cyfunction TaskBar.SetSkillToolTip at 0x0AE22D40>
 	arg0: self
 	arg1: tooltipSkill
 
@@ -412,40 +412,40 @@ BUTTON_CHAT,		4
 submodule.BUTTON_CHAT
 
 
-OnUpdate,		<cyfunction TaskBar.OnUpdate at 0x0DC7B500>
+OnUpdate,		<cyfunction TaskBar.OnUpdate at 0x0AE254A8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-_TaskBar__RampageGauge_OverIn,		<cyfunction TaskBar.__RampageGauge_OverIn at 0x0DC7AA28>
+_TaskBar__RampageGauge_OverIn,		<cyfunction TaskBar.__RampageGauge_OverIn at 0x0AE229D0>
 	arg0: self
 
 submodule._TaskBar__RampageGauge_OverIn
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-UnselectItemQuickSlot,		<cyfunction TaskBar.UnselectItemQuickSlot at 0x0DC7B2F0>
+UnselectItemQuickSlot,		<cyfunction TaskBar.UnselectItemQuickSlot at 0x0AE25298>
 	arg0: self
 	arg1: localSlotIndex
 
 submodule.UnselectItemQuickSlot
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-RemoveQuickSlotIndex,		<cyfunction TaskBar.RemoveQuickSlotIndex at 0x0DC7B1E8>
+RemoveQuickSlotIndex,		<cyfunction TaskBar.RemoveQuickSlotIndex at 0x0AE25190>
 	arg0: self
 	arg1: slotIndex
 
 submodule.RemoveQuickSlotIndex
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-SelectItemQuickSlot,		<cyfunction TaskBar.SelectItemQuickSlot at 0x0DC7B298>
+SelectItemQuickSlot,		<cyfunction TaskBar.SelectItemQuickSlot at 0x0AE25240>
 	arg0: self
 	arg1: localQuickSlotIndex
 
 submodule.SelectItemQuickSlot
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction TaskBar.LoadWindow at 0x0DC7A9D0>
+LoadWindow,		<cyfunction TaskBar.LoadWindow at 0x0AE22978>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with TaskBar instance as first argument (got nothing instead)
-CloseSelectSkill,		<cyfunction TaskBar.CloseSelectSkill at 0x0DC7B710>
+CloseSelectSkill,		<cyfunction TaskBar.CloseSelectSkill at 0x0AE256B8>
 	arg0: self
 	arg1: slotIndex
 	default: -1
@@ -460,7 +460,7 @@ submodule.BUTTON_SYSTEM
 
 
 class ExpandedMoneyTaskBar:
-GetMoney,		<cyfunction ExpandedMoneyTaskBar.GetMoney at 0x0DC799D0>
+GetMoney,		<cyfunction ExpandedMoneyTaskBar.GetMoney at 0x0AE21978>
 	arg0: self
 
 submodule.GetMoney
@@ -470,62 +470,62 @@ __module__,		uiTaskBar
 submodule.__module__
 
 
-GetCheque,		<cyfunction ExpandedMoneyTaskBar.GetCheque at 0x0DC79A80>
+GetCheque,		<cyfunction ExpandedMoneyTaskBar.GetCheque at 0x0AE21A28>
 	arg0: self
 
 submodule.GetCheque
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-GetGem,		<cyfunction ExpandedMoneyTaskBar.GetGem at 0x0DC79B88>
+GetGem,		<cyfunction ExpandedMoneyTaskBar.GetGem at 0x0AE21B30>
 	arg0: self
 
 submodule.GetGem
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-__del__,		<cyfunction ExpandedMoneyTaskBar.__del__ at 0x0DC79870>
+__del__,		<cyfunction ExpandedMoneyTaskBar.__del__ at 0x0AE21818>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-GetGemSlot,		<cyfunction ExpandedMoneyTaskBar.GetGemSlot at 0x0DC79BE0>
+GetGemSlot,		<cyfunction ExpandedMoneyTaskBar.GetGemSlot at 0x0AE21B88>
 	arg0: self
 
 submodule.GetGemSlot
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ExpandedMoneyTaskBar.OnPressEscapeKey at 0x0DC79D40>
+OnPressEscapeKey,		<cyfunction ExpandedMoneyTaskBar.OnPressEscapeKey at 0x0AE21CE8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-Destroy,		<cyfunction ExpandedMoneyTaskBar.Destroy at 0x0DC798C8>
+Destroy,		<cyfunction ExpandedMoneyTaskBar.Destroy at 0x0AE21870>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-GetChequeSlot,		<cyfunction ExpandedMoneyTaskBar.GetChequeSlot at 0x0DC79AD8>
+GetChequeSlot,		<cyfunction ExpandedMoneyTaskBar.GetChequeSlot at 0x0AE21A80>
 	arg0: self
 
 submodule.GetChequeSlot
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-__init__,		<cyfunction ExpandedMoneyTaskBar.__init__ at 0x0DC79818>
+__init__,		<cyfunction ExpandedMoneyTaskBar.__init__ at 0x0AE217C0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-GetChequeIcon,		<cyfunction ExpandedMoneyTaskBar.GetChequeIcon at 0x0DC79B30>
+GetChequeIcon,		<cyfunction ExpandedMoneyTaskBar.GetChequeIcon at 0x0AE21AD8>
 	arg0: self
 
 submodule.GetChequeIcon
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-GetMoneySlot,		<cyfunction ExpandedMoneyTaskBar.GetMoneySlot at 0x0DC79978>
+GetMoneySlot,		<cyfunction ExpandedMoneyTaskBar.GetMoneySlot at 0x0AE21920>
 	arg0: self
 
 submodule.GetMoneySlot
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-Show,		<cyfunction ExpandedMoneyTaskBar.Show at 0x0DC79C90>
+Show,		<cyfunction ExpandedMoneyTaskBar.Show at 0x0AE21C38>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-GetGemIcon,		<cyfunction ExpandedMoneyTaskBar.GetGemIcon at 0x0DC79C38>
+GetGemIcon,		<cyfunction ExpandedMoneyTaskBar.GetGemIcon at 0x0AE21BE0>
 	arg0: self
 
 submodule.GetGemIcon
@@ -535,12 +535,12 @@ __qualname__,		ExpandedMoneyTaskBar
 submodule.__qualname__
 
 
-Close,		<cyfunction ExpandedMoneyTaskBar.Close at 0x0DC79CE8>
+Close,		<cyfunction ExpandedMoneyTaskBar.Close at 0x0AE21C90>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ExpandedMoneyTaskBar instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction ExpandedMoneyTaskBar.LoadWindow at 0x0DC79920>
+LoadWindow,		<cyfunction ExpandedMoneyTaskBar.LoadWindow at 0x0AE218C8>
 	arg0: self
 
 submodule.LoadWindow
@@ -550,7 +550,7 @@ __doc__,		None
 submodule.__doc__
 
 
-GetMoneyIcon,		<cyfunction ExpandedMoneyTaskBar.GetMoneyIcon at 0x0DC79A28>
+GetMoneyIcon,		<cyfunction ExpandedMoneyTaskBar.GetMoneyIcon at 0x0AE219D0>
 	arg0: self
 
 submodule.GetMoneyIcon
@@ -568,7 +568,7 @@ BUTTON_PARTY_MATCH_WINDOW,		4
 submodule.BUTTON_PARTY_MATCH_WINDOW
 
 
-__del__,		<cyfunction ExpandedTaskBar.__del__ at 0x0DC79DF0>
+__del__,		<cyfunction ExpandedTaskBar.__del__ at 0x0AE21D98>
 	arg0: self
 
 submodule.__del__
@@ -583,7 +583,7 @@ BUTTON_DRAGON_SOUL,		0
 submodule.BUTTON_DRAGON_SOUL
 
 
-OnPressEscapeKey,		<cyfunction ExpandedTaskBar.OnPressEscapeKey at 0x0DC7A190>
+OnPressEscapeKey,		<cyfunction ExpandedTaskBar.OnPressEscapeKey at 0x0AE22138>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -593,14 +593,14 @@ BUTTON_AUTO_WINDOW,		2
 submodule.BUTTON_AUTO_WINDOW
 
 
-SetToolTipText,		<cyfunction ExpandedTaskBar.SetToolTipText at 0x0DC7A0E0>
+SetToolTipText,		<cyfunction ExpandedTaskBar.SetToolTipText at 0x0AE22088>
 	arg0: self
 	arg1: eButton
 	arg2: text
 
 submodule.SetToolTipText
 Skipped: unbound method cython_function_or_method object must be called with ExpandedTaskBar instance as first argument (got nothing instead)
-PartyMatchOff,		<cyfunction ExpandedTaskBar.PartyMatchOff at 0x0DC7A030>
+PartyMatchOff,		<cyfunction ExpandedTaskBar.PartyMatchOff at 0x0AE21FA8>
 	arg0: self
 	arg1: off
 
@@ -611,30 +611,30 @@ BUTTON_PET_INFO,		1
 submodule.BUTTON_PET_INFO
 
 
-SetToggleButtonEvent,		<cyfunction ExpandedTaskBar.SetToggleButtonEvent at 0x0DC7A138>
+SetToggleButtonEvent,		<cyfunction ExpandedTaskBar.SetToggleButtonEvent at 0x0AE220E0>
 	arg0: self
 	arg1: eButton
 	arg2: kEventFunc
 
 submodule.SetToggleButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with ExpandedTaskBar instance as first argument (got nothing instead)
-Show,		<cyfunction ExpandedTaskBar.Show at 0x0DC79F50>
+Show,		<cyfunction ExpandedTaskBar.Show at 0x0AE21EF8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with ExpandedTaskBar instance as first argument (got nothing instead)
-EnableAutoButton,		<cyfunction ExpandedTaskBar.EnableAutoButton at 0x0DC79FA8>
+EnableAutoButton,		<cyfunction ExpandedTaskBar.EnableAutoButton at 0x0AE21F50>
 	arg0: self
 	arg1: enable
 
 submodule.EnableAutoButton
 Skipped: unbound method cython_function_or_method object must be called with ExpandedTaskBar instance as first argument (got nothing instead)
-RePositionButton,		<cyfunction ExpandedTaskBar.RePositionButton at 0x0DC79EA0>
+RePositionButton,		<cyfunction ExpandedTaskBar.RePositionButton at 0x0AE21E48>
 	arg0: self
 
 submodule.RePositionButton
 Skipped: unbound method cython_function_or_method object must be called with ExpandedTaskBar instance as first argument (got nothing instead)
-SetTop,		<cyfunction ExpandedTaskBar.SetTop at 0x0DC79EF8>
+SetTop,		<cyfunction ExpandedTaskBar.SetTop at 0x0AE21EA0>
 	arg0: self
 
 submodule.SetTop
@@ -644,17 +644,17 @@ __qualname__,		ExpandedTaskBar
 submodule.__qualname__
 
 
-__init__,		<cyfunction ExpandedTaskBar.__init__ at 0x0DC79D98>
+__init__,		<cyfunction ExpandedTaskBar.__init__ at 0x0AE21D40>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ExpandedTaskBar instance as first argument (got nothing instead)
-Close,		<cyfunction ExpandedTaskBar.Close at 0x0DC7A088>
+Close,		<cyfunction ExpandedTaskBar.Close at 0x0AE22030>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ExpandedTaskBar instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction ExpandedTaskBar.LoadWindow at 0x0DC79E48>
+LoadWindow,		<cyfunction ExpandedTaskBar.LoadWindow at 0x0AE21DF0>
 	arg0: self
 
 submodule.LoadWindow
@@ -667,7 +667,7 @@ submodule.__doc__
 
 
 class EnergyBar:
-OnUpdate,		<cyfunction EnergyBar.OnUpdate at 0x0DC797C0>
+OnUpdate,		<cyfunction EnergyBar.OnUpdate at 0x0AE21768>
 	arg0: self
 
 submodule.OnUpdate
@@ -677,7 +677,7 @@ __module__,		uiTaskBar
 submodule.__module__
 
 
-SetEnergy,		<cyfunction EnergyBar.SetEnergy at 0x0DC79768>
+SetEnergy,		<cyfunction EnergyBar.SetEnergy at 0x0AE21710>
 	arg0: self
 	arg1: point
 	arg2: leftTime
@@ -685,7 +685,7 @@ SetEnergy,		<cyfunction EnergyBar.SetEnergy at 0x0DC79768>
 
 submodule.SetEnergy
 Skipped: unbound method cython_function_or_method object must be called with EnergyBar instance as first argument (got nothing instead)
-__del__,		<cyfunction EnergyBar.__del__ at 0x0DC79608>
+__del__,		<cyfunction EnergyBar.__del__ at 0x0AE215B0>
 	arg0: self
 
 submodule.__del__
@@ -695,19 +695,19 @@ __qualname__,		EnergyBar
 submodule.__qualname__
 
 
-RefreshStatus,		<cyfunction EnergyBar.RefreshStatus at 0x0DC79710>
+RefreshStatus,		<cyfunction EnergyBar.RefreshStatus at 0x0AE216B8>
 	arg0: self
 
 submodule.RefreshStatus
 Skipped: unbound method cython_function_or_method object must be called with EnergyBar instance as first argument (got nothing instead)
 TextToolTip,		<class 'uiTaskBar.TextToolTip'>
 Skip: type object 'TextToolTip' has no attribute 'func_code'
-Destroy,		<cyfunction EnergyBar.Destroy at 0x0DC796B8>
+Destroy,		<cyfunction EnergyBar.Destroy at 0x0AE21660>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with EnergyBar instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction EnergyBar.LoadWindow at 0x0DC79660>
+LoadWindow,		<cyfunction EnergyBar.LoadWindow at 0x0AE21608>
 	arg0: self
 
 submodule.LoadWindow
@@ -717,7 +717,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction EnergyBar.__init__ at 0x0DC795B0>
+__init__,		<cyfunction EnergyBar.__init__ at 0x0AE21558>
 	arg0: self
 
 submodule.__init__

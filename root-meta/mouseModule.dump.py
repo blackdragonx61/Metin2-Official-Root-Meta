@@ -1,4 +1,4 @@
-key: mouseController, val: <mouseModule.CMouseController object at 0x0D955C50>
+key: mouseController, val: <mouseModule.CMouseController object at 0x07856D50>
 key: ui, val: <module 'ui' (built-in)>
 key: grp, val: <module 'grp' (built-in)>
 key: __builtins__, val: <module '__builtin__' (built-in)>
@@ -21,7 +21,7 @@ key: grpText, val: <module 'grpText' (built-in)>
 
 
 class CursorImage:
-IsImage,		<cyfunction CursorImage.IsImage at 0x0DA16CE8>
+IsImage,		<cyfunction CursorImage.IsImage at 0x0AC16CE8>
 	arg0: self
 
 submodule.IsImage
@@ -31,12 +31,12 @@ __module__,		mouseModule
 submodule.__module__
 
 
-Render,		<cyfunction CursorImage.Render at 0x0DA16D98>
+Render,		<cyfunction CursorImage.Render at 0x0AC16D98>
 	arg0: self
 
 submodule.Render
 Skipped: unbound method cython_function_or_method object must be called with CursorImage instance as first argument (got nothing instead)
-__del__,		<cyfunction CursorImage.__del__ at 0x0DA16B88>
+__del__,		<cyfunction CursorImage.__del__ at 0x0AC16B88>
 	arg0: self
 
 submodule.__del__
@@ -56,13 +56,13 @@ __dict__,		<attribute '__dict__' of 'CursorImage' objects>
 submodule.__dict__
 
 
-LoadImage,		<cyfunction CursorImage.LoadImage at 0x0DA16C38>
+LoadImage,		<cyfunction CursorImage.LoadImage at 0x0AC16C38>
 	arg0: self
 	arg1: imageName
 
 submodule.LoadImage
 Skipped: unbound method cython_function_or_method object must be called with CursorImage instance as first argument (got nothing instead)
-DeleteImage,		<cyfunction CursorImage.DeleteImage at 0x0DA16C90>
+DeleteImage,		<cyfunction CursorImage.DeleteImage at 0x0AC16C90>
 	arg0: self
 
 submodule.DeleteImage
@@ -72,14 +72,14 @@ __weakref__,		<attribute '__weakref__' of 'CursorImage' objects>
 submodule.__weakref__
 
 
-SetPosition,		<cyfunction CursorImage.SetPosition at 0x0DA16D40>
+SetPosition,		<cyfunction CursorImage.SetPosition at 0x0AC16D40>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.SetPosition
 Skipped: unbound method cython_function_or_method object must be called with CursorImage instance as first argument (got nothing instead)
-__init__,		<cyfunction CursorImage.__init__ at 0x0DA16BE0>
+__init__,		<cyfunction CursorImage.__init__ at 0x0AC16BE0>
 	arg0: self
 	arg1: imageName
 
@@ -93,33 +93,33 @@ __module__,		mouseModule
 submodule.__module__
 
 
-GetCheque,		<cyfunction CMouseController.GetCheque at 0x0DA171E8>
+GetCheque,		<cyfunction CMouseController.GetCheque at 0x0AC171E8>
 	arg0: self
 
 submodule.GetCheque
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-GetAttachedMoneyAmount,		<cyfunction CMouseController.GetAttachedMoneyAmount at 0x0DA170E0>
+GetAttachedMoneyAmount,		<cyfunction CMouseController.GetAttachedMoneyAmount at 0x0AC170E0>
 	arg0: self
 
 submodule.GetAttachedMoneyAmount
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-__del__,		<cyfunction CMouseController.__del__ at 0x0DA16E48>
+__del__,		<cyfunction CMouseController.__del__ at 0x0AC16E48>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-RunCallBack,		<cyfunction CMouseController.RunCallBack at 0x0DA17660>
+RunCallBack,		<cyfunction CMouseController.RunCallBack at 0x0AC17660>
 	arg0: self
 	arg1: type
 
 submodule.RunCallBack
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-Create,		<cyfunction CMouseController.Create at 0x0DA16F50>
+Create,		<cyfunction CMouseController.Create at 0x0AC16F50>
 	arg0: self
 
 submodule.Create
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-AttachFishPiece,		<cyfunction CMouseController.AttachFishPiece at 0x0DA17710>
+AttachFishPiece,		<cyfunction CMouseController.AttachFishPiece at 0x0AC17710>
 	arg0: self
 	arg1: owner
 	arg2: shape
@@ -136,29 +136,29 @@ __dict__,		<attribute '__dict__' of 'CMouseController' objects>
 submodule.__dict__
 
 
-SetAttachedIconRender,		<cyfunction CMouseController.SetAttachedIconRender at 0x0DA177C0>
+SetAttachedIconRender,		<cyfunction CMouseController.SetAttachedIconRender at 0x0AC177C0>
 	arg0: self
 	arg1: flag
 
 submodule.SetAttachedIconRender
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-GetAttachedIconRender,		<cyfunction CMouseController.GetAttachedIconRender at 0x0DA17818>
+GetAttachedIconRender,		<cyfunction CMouseController.GetAttachedIconRender at 0x0AC17818>
 	arg0: self
 
 submodule.GetAttachedIconRender
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-SetCheque,		<cyfunction CMouseController.SetCheque at 0x0DA17190>
+SetCheque,		<cyfunction CMouseController.SetCheque at 0x0AC17190>
 	arg0: self
 	arg1: cheque
 
 submodule.SetCheque
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-Destroy,		<cyfunction CMouseController.Destroy at 0x0DA16EA0>
+Destroy,		<cyfunction CMouseController.Destroy at 0x0AC16EA0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-GetAttachedItemIndex,		<cyfunction CMouseController.GetAttachedItemIndex at 0x0DA17450>
+GetAttachedItemIndex,		<cyfunction CMouseController.GetAttachedItemIndex at 0x0AC17450>
 	arg0: self
 
 submodule.GetAttachedItemIndex
@@ -168,22 +168,22 @@ __weakref__,		<attribute '__weakref__' of 'CMouseController' objects>
 submodule.__weakref__
 
 
-CreateNumberLine,		<cyfunction CMouseController.CreateNumberLine at 0x0DA16EF8>
+CreateNumberLine,		<cyfunction CMouseController.CreateNumberLine at 0x0AC16EF8>
 	arg0: self
 
 submodule.CreateNumberLine
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-__init__,		<cyfunction CMouseController.__init__ at 0x0DA16DF0>
+__init__,		<cyfunction CMouseController.__init__ at 0x0AC16DF0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-IsAttachedMoney,		<cyfunction CMouseController.IsAttachedMoney at 0x0DA17088>
+IsAttachedMoney,		<cyfunction CMouseController.IsAttachedMoney at 0x0AC17088>
 	arg0: self
 
 submodule.IsAttachedMoney
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-AttachObject,		<cyfunction CMouseController.AttachObject at 0x0DA17030>
+AttachObject,		<cyfunction CMouseController.AttachObject at 0x0AC17030>
 	arg0: self
 	arg1: Owner
 	arg2: Type
@@ -194,39 +194,39 @@ AttachObject,		<cyfunction CMouseController.AttachObject at 0x0DA17030>
 
 submodule.AttachObject
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-DeattachObjectPostProcess,		<cyfunction CMouseController.DeattachObjectPostProcess at 0x0DA17768>
+DeattachObjectPostProcess,		<cyfunction CMouseController.DeattachObjectPostProcess at 0x0AC17768>
 	arg0: self
 
 submodule.DeattachObjectPostProcess
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-Render,		<cyfunction CMouseController.Render at 0x0DA17558>
+Render,		<cyfunction CMouseController.Render at 0x0AC17558>
 	arg0: self
 
 submodule.Render
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-GetLastAttachedSlotNumber,		<cyfunction CMouseController.GetLastAttachedSlotNumber at 0x0DA173F8>
+GetLastAttachedSlotNumber,		<cyfunction CMouseController.GetLastAttachedSlotNumber at 0x0AC173F8>
 	arg0: self
 
 submodule.GetLastAttachedSlotNumber
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-DeattachObject,		<cyfunction CMouseController.DeattachObject at 0x0DA17240>
+DeattachObject,		<cyfunction CMouseController.DeattachObject at 0x0AC17240>
 	arg0: self
 
 submodule.DeattachObject
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-Update,		<cyfunction CMouseController.Update at 0x0DA17500>
+Update,		<cyfunction CMouseController.Update at 0x0AC17500>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.Update
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-GetAttachedItemCount,		<cyfunction CMouseController.GetAttachedItemCount at 0x0DA174A8>
+GetAttachedItemCount,		<cyfunction CMouseController.GetAttachedItemCount at 0x0AC174A8>
 	arg0: self
 
 submodule.GetAttachedItemCount
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-GetAttachedType,		<cyfunction CMouseController.GetAttachedType at 0x0DA17348>
+GetAttachedType,		<cyfunction CMouseController.GetAttachedType at 0x0AC17348>
 	arg0: self
 
 submodule.GetAttachedType
@@ -236,37 +236,37 @@ __qualname__,		CMouseController
 submodule.__qualname__
 
 
-ChangeCursor,		<cyfunction CMouseController.ChangeCursor at 0x0DA16FA8>
+ChangeCursor,		<cyfunction CMouseController.ChangeCursor at 0x0AC16FA8>
 	arg0: self
 	arg1: cursorNum
 
 submodule.ChangeCursor
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-GetAttachedSlotNumber,		<cyfunction CMouseController.GetAttachedSlotNumber at 0x0DA173A0>
+GetAttachedSlotNumber,		<cyfunction CMouseController.GetAttachedSlotNumber at 0x0AC173A0>
 	arg0: self
 
 submodule.GetAttachedSlotNumber
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-GetAttachedOwner,		<cyfunction CMouseController.GetAttachedOwner at 0x0DA172F0>
+GetAttachedOwner,		<cyfunction CMouseController.GetAttachedOwner at 0x0AC172F0>
 	arg0: self
 
 submodule.GetAttachedOwner
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-isAttached,		<cyfunction CMouseController.isAttached at 0x0DA17298>
+isAttached,		<cyfunction CMouseController.isAttached at 0x0AC17298>
 	arg0: self
 
 submodule.isAttached
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-ClearCallBack,		<cyfunction CMouseController.ClearCallBack at 0x0DA176B8>
+ClearCallBack,		<cyfunction CMouseController.ClearCallBack at 0x0AC176B8>
 	arg0: self
 
 submodule.ClearCallBack
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
-SetCallBack,		<cyfunction CMouseController.SetCallBack at 0x0DA175B0>
+SetCallBack,		<cyfunction CMouseController.SetCallBack at 0x0AC175B0>
 	arg0: self
 	arg1: type
 	arg2: event
-	default: <cyfunction CMouseController.<lambda> at 0x0DA17608>
+	default: <cyfunction CMouseController.<lambda> at 0x0AC17608>
 
 submodule.SetCallBack
 Skipped: unbound method cython_function_or_method object must be called with CMouseController instance as first argument (got nothing instead)
@@ -275,7 +275,7 @@ __doc__,		None
 submodule.__doc__
 
 
-AttachMoney,		<cyfunction CMouseController.AttachMoney at 0x0DA17138>
+AttachMoney,		<cyfunction CMouseController.AttachMoney at 0x0AC17138>
 	arg0: self
 	arg1: owner
 	arg2: type

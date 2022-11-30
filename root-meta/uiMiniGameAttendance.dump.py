@@ -24,33 +24,33 @@ key: __test__, val: {}
 
 
 class MiniGameAttendance:
-_MiniGameAttendance__LoadWindow,		<cyfunction MiniGameAttendance.__LoadWindow at 0x0D90AFA8>
+_MiniGameAttendance__LoadWindow,		<cyfunction MiniGameAttendance.__LoadWindow at 0x07810FA8>
 	arg0: self
 
 submodule._MiniGameAttendance__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__HideAllNumber,		<cyfunction MiniGameAttendance.__HideAllNumber at 0x0DD2C450>
+_MiniGameAttendance__HideAllNumber,		<cyfunction MiniGameAttendance.__HideAllNumber at 0x0AEFF450>
 	arg0: self
 
 submodule._MiniGameAttendance__HideAllNumber
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-MiniGameAttendanceSetMissionClear,		<cyfunction MiniGameAttendance.MiniGameAttendanceSetMissionClear at 0x0DD2C298>
+MiniGameAttendanceSetMissionClear,		<cyfunction MiniGameAttendance.MiniGameAttendanceSetMissionClear at 0x0AEFF298>
 	arg0: self
 	arg1: clear
 
 submodule.MiniGameAttendanceSetMissionClear
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-MiniGameAttendanceRequestRewardList,		<cyfunction MiniGameAttendance.MiniGameAttendanceRequestRewardList at 0x0DD2C348>
+MiniGameAttendanceRequestRewardList,		<cyfunction MiniGameAttendance.MiniGameAttendanceRequestRewardList at 0x0AEFF348>
 	arg0: self
 
 submodule.MiniGameAttendanceRequestRewardList
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__OnClickDescNextButton,		<cyfunction MiniGameAttendance.__OnClickDescNextButton at 0x0DD2C768>
+_MiniGameAttendance__OnClickDescNextButton,		<cyfunction MiniGameAttendance.__OnClickDescNextButton at 0x0AEFF768>
 	arg0: self
 
 submodule._MiniGameAttendance__OnClickDescNextButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameAttendance.__del__ at 0x0D90AEA0>
+__del__,		<cyfunction MiniGameAttendance.__del__ at 0x07810EA0>
 	arg0: self
 
 submodule.__del__
@@ -62,93 +62,93 @@ submodule.__module__
 
 DescriptionBox,		<class 'uiMiniGameAttendance.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-MiniGameAttendanceSetReward,		<cyfunction MiniGameAttendance.MiniGameAttendanceSetReward at 0x0DD2C2F0>
+MiniGameAttendanceSetReward,		<cyfunction MiniGameAttendance.MiniGameAttendanceSetReward at 0x0AEFF2F0>
 	arg0: self
 	arg1: reward
 
 submodule.MiniGameAttendanceSetReward
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__RewardCancel,		<cyfunction MiniGameAttendance.__RewardCancel at 0x0DD2C6B8>
+_MiniGameAttendance__RewardCancel,		<cyfunction MiniGameAttendance.__RewardCancel at 0x0AEFF6B8>
 	arg0: self
 
 submodule._MiniGameAttendance__RewardCancel
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MiniGameAttendance.OnPressEscapeKey at 0x0DD2C030>
+OnPressEscapeKey,		<cyfunction MiniGameAttendance.OnPressEscapeKey at 0x0AEFF030>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-MiniGameAttendanceSetShowMax,		<cyfunction MiniGameAttendance.MiniGameAttendanceSetShowMax at 0x0DD2C3A0>
+MiniGameAttendanceSetShowMax,		<cyfunction MiniGameAttendance.MiniGameAttendanceSetShowMax at 0x0AEFF3A0>
 	arg0: self
 	arg1: value
 
 submodule.MiniGameAttendanceSetShowMax
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-MiniGameAttendanceSetDay,		<cyfunction MiniGameAttendance.MiniGameAttendanceSetDay at 0x0DD2C240>
+MiniGameAttendanceSetDay,		<cyfunction MiniGameAttendance.MiniGameAttendanceSetDay at 0x0AEFF240>
 	arg0: self
 	arg1: day
 
 submodule.MiniGameAttendanceSetDay
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniGameAttendance.Destroy at 0x0D90AEF8>
+Destroy,		<cyfunction MiniGameAttendance.Destroy at 0x07810EF8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__OnClickNextButton,		<cyfunction MiniGameAttendance.__OnClickNextButton at 0x0DD2C5B0>
+_MiniGameAttendance__OnClickNextButton,		<cyfunction MiniGameAttendance.__OnClickNextButton at 0x0AEFF5B0>
 	arg0: self
 
 submodule._MiniGameAttendance__OnClickNextButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniGameAttendance.__init__ at 0x0D90AE48>
+__init__,		<cyfunction MiniGameAttendance.__init__ at 0x07810E48>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-OpenPopupDialog,		<cyfunction MiniGameAttendance.OpenPopupDialog at 0x0DD2C7C0>
+OpenPopupDialog,		<cyfunction MiniGameAttendance.OpenPopupDialog at 0x0AEFF7C0>
 	arg0: self
 	arg1: msg
 
 submodule.OpenPopupDialog
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-RefreshAttendanceBoard,		<cyfunction MiniGameAttendance.RefreshAttendanceBoard at 0x0DD2C3F8>
+RefreshAttendanceBoard,		<cyfunction MiniGameAttendance.RefreshAttendanceBoard at 0x0AEFF3F8>
 	arg0: self
 
 submodule.RefreshAttendanceBoard
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-NumberButtonOverCheck,		<cyfunction MiniGameAttendance.NumberButtonOverCheck at 0x0DD2C1E8>
+NumberButtonOverCheck,		<cyfunction MiniGameAttendance.NumberButtonOverCheck at 0x0AEFF1E8>
 	arg0: self
 
 submodule.NumberButtonOverCheck
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-Show,		<cyfunction MiniGameAttendance.Show at 0x0DD2C138>
+Show,		<cyfunction MiniGameAttendance.Show at 0x0AEFF138>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MiniGameAttendance.OnUpdate at 0x0DD2C190>
+OnUpdate,		<cyfunction MiniGameAttendance.OnUpdate at 0x0AEFF190>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__ShowCurPageNumber,		<cyfunction MiniGameAttendance.__ShowCurPageNumber at 0x0DD2C4A8>
+_MiniGameAttendance__ShowCurPageNumber,		<cyfunction MiniGameAttendance.__ShowCurPageNumber at 0x0AEFF4A8>
 	arg0: self
 
 submodule._MiniGameAttendance__ShowCurPageNumber
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__OnClickNumberButton,		<cyfunction MiniGameAttendance.__OnClickNumberButton at 0x0DD2C608>
+_MiniGameAttendance__OnClickNumberButton,		<cyfunction MiniGameAttendance.__OnClickNumberButton at 0x0AEFF608>
 	arg0: self
 	arg1: index
 
 submodule._MiniGameAttendance__OnClickNumberButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction MiniGameAttendance.SetItemToolTip at 0x0D90AF50>
+SetItemToolTip,		<cyfunction MiniGameAttendance.SetItemToolTip at 0x07810F50>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-Close,		<cyfunction MiniGameAttendance.Close at 0x0DD2C0E0>
+Close,		<cyfunction MiniGameAttendance.Close at 0x0AEFF0E0>
 	arg0: self
 
 submodule.Close
@@ -158,28 +158,28 @@ __qualname__,		MiniGameAttendance
 submodule.__qualname__
 
 
-_MiniGameAttendance__NumberFlash,		<cyfunction MiniGameAttendance.__NumberFlash at 0x0DD2C500>
+_MiniGameAttendance__NumberFlash,		<cyfunction MiniGameAttendance.__NumberFlash at 0x0AEFF500>
 	arg0: self
 	arg1: number
 
 submodule._MiniGameAttendance__NumberFlash
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__RewardAccept,		<cyfunction MiniGameAttendance.__RewardAccept at 0x0DD2C660>
+_MiniGameAttendance__RewardAccept,		<cyfunction MiniGameAttendance.__RewardAccept at 0x0AEFF660>
 	arg0: self
 
 submodule._MiniGameAttendance__RewardAccept
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__OnClickDescPrevButton,		<cyfunction MiniGameAttendance.__OnClickDescPrevButton at 0x0DD2C710>
+_MiniGameAttendance__OnClickDescPrevButton,		<cyfunction MiniGameAttendance.__OnClickDescPrevButton at 0x0AEFF710>
 	arg0: self
 
 submodule._MiniGameAttendance__OnClickDescPrevButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-_MiniGameAttendance__OnClickPrevButton,		<cyfunction MiniGameAttendance.__OnClickPrevButton at 0x0DD2C558>
+_MiniGameAttendance__OnClickPrevButton,		<cyfunction MiniGameAttendance.__OnClickPrevButton at 0x0AEFF558>
 	arg0: self
 
 submodule._MiniGameAttendance__OnClickPrevButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameAttendance instance as first argument (got nothing instead)
-Open,		<cyfunction MiniGameAttendance.Open at 0x0DD2C088>
+Open,		<cyfunction MiniGameAttendance.Open at 0x0AEFF088>
 	arg0: self
 
 submodule.Open

@@ -27,43 +27,43 @@ __module__,		uiAttr67Add
 submodule.__module__
 
 
-OverInRegistSlot,		<cyfunction Attr67AddWindow.OverInRegistSlot at 0x0DD9E818>
+OverInRegistSlot,		<cyfunction Attr67AddWindow.OverInRegistSlot at 0x0AF71818>
 	arg0: self
 	arg1: slot_index
 
 submodule.OverInRegistSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__SendAttr67AddPacket,		<cyfunction Attr67AddWindow.__SendAttr67AddPacket at 0x0DD9EAD8>
+_Attr67AddWindow__SendAttr67AddPacket,		<cyfunction Attr67AddWindow.__SendAttr67AddPacket at 0x0AF71AD8>
 	arg0: self
 
 submodule._Attr67AddWindow__SendAttr67AddPacket
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__BindEvent,		<cyfunction Attr67AddWindow.__BindEvent at 0x0DD9E138>
+_Attr67AddWindow__BindEvent,		<cyfunction Attr67AddWindow.__BindEvent at 0x0AF71138>
 	arg0: self
 
 submodule._Attr67AddWindow__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__LoadWindow,		<cyfunction Attr67AddWindow.__LoadWindow at 0x0DD9E030>
+_Attr67AddWindow__LoadWindow,		<cyfunction Attr67AddWindow.__LoadWindow at 0x0AF71030>
 	arg0: self
 
 submodule._Attr67AddWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__CheckCantMouseEvent,		<cyfunction Attr67AddWindow.__CheckCantMouseEvent at 0x0DD9E500>
+_Attr67AddWindow__CheckCantMouseEvent,		<cyfunction Attr67AddWindow.__CheckCantMouseEvent at 0x0AF71500>
 	arg0: self
 
 submodule._Attr67AddWindow__CheckCantMouseEvent
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__RangeCheck,		<cyfunction Attr67AddWindow.__RangeCheck at 0x0DD9E4A8>
+_Attr67AddWindow__RangeCheck,		<cyfunction Attr67AddWindow.__RangeCheck at 0x0AF714A8>
 	arg0: self
 
 submodule._Attr67AddWindow__RangeCheck
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction Attr67AddWindow.Destroy at 0x0DD9E088>
+Destroy,		<cyfunction Attr67AddWindow.Destroy at 0x0AF71088>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction Attr67AddWindow.__init__ at 0x0DD97EF8>
+__init__,		<cyfunction Attr67AddWindow.__init__ at 0x0AF6AEF8>
 	arg0: self
 
 submodule.__init__
@@ -73,30 +73,30 @@ __qualname__,		Attr67AddWindow
 submodule.__qualname__
 
 
-ClickMaterialButton,		<cyfunction Attr67AddWindow.ClickMaterialButton at 0x0DD9E9D0>
+ClickMaterialButton,		<cyfunction Attr67AddWindow.ClickMaterialButton at 0x0AF719D0>
 	arg0: self
 	arg1: is_up_button_click
 
 submodule.ClickMaterialButton
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__LoadScript,		<cyfunction Attr67AddWindow.__LoadScript at 0x0DD97FA8>
+_Attr67AddWindow__LoadScript,		<cyfunction Attr67AddWindow.__LoadScript at 0x0AF6AFA8>
 	arg0: self
 	arg1: fileName
 
 submodule._Attr67AddWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-SelectEmptySupportSlot,		<cyfunction Attr67AddWindow.SelectEmptySupportSlot at 0x0DD9E660>
+SelectEmptySupportSlot,		<cyfunction Attr67AddWindow.SelectEmptySupportSlot at 0x0AF71660>
 	arg0: self
 	arg1: slot_index
 
 submodule.SelectEmptySupportSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__ClearData,		<cyfunction Attr67AddWindow.__ClearData at 0x0DD9E710>
+_Attr67AddWindow__ClearData,		<cyfunction Attr67AddWindow.__ClearData at 0x0AF71710>
 	arg0: self
 
 submodule._Attr67AddWindow__ClearData
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-CantAttachToAttrSlot,		<cyfunction Attr67AddWindow.CantAttachToAttrSlot at 0x0DD9E558>
+CantAttachToAttrSlot,		<cyfunction Attr67AddWindow.CantAttachToAttrSlot at 0x0AF71558>
 	arg0: self
 	arg1: inven_slot
 
@@ -107,122 +107,122 @@ __doc__,		None
 submodule.__doc__
 
 
-_Attr67AddWindow__ClickAttrAddButton,		<cyfunction Attr67AddWindow.__ClickAttrAddButton at 0x0DD9EA80>
+_Attr67AddWindow__ClickAttrAddButton,		<cyfunction Attr67AddWindow.__ClickAttrAddButton at 0x0AF71A80>
 	arg0: self
 
 submodule._Attr67AddWindow__ClickAttrAddButton
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__CreateGameTypeToolTip,		<cyfunction Attr67AddWindow.__CreateGameTypeToolTip at 0x0DD9E190>
+_Attr67AddWindow__CreateGameTypeToolTip,		<cyfunction Attr67AddWindow.__CreateGameTypeToolTip at 0x0AF71190>
 	arg0: self
 	arg1: title
 	arg2: descList
 
 submodule._Attr67AddWindow__CreateGameTypeToolTip
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__ClearSupportSlot,		<cyfunction Attr67AddWindow.__ClearSupportSlot at 0x0DD9E7C0>
+_Attr67AddWindow__ClearSupportSlot,		<cyfunction Attr67AddWindow.__ClearSupportSlot at 0x0AF717C0>
 	arg0: self
 
 submodule._Attr67AddWindow__ClearSupportSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__BindObject,		<cyfunction Attr67AddWindow.__BindObject at 0x0DD9E0E0>
+_Attr67AddWindow__BindObject,		<cyfunction Attr67AddWindow.__BindObject at 0x0AF710E0>
 	arg0: self
 
 submodule._Attr67AddWindow__BindObject
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-SelectItemSupportSlot,		<cyfunction Attr67AddWindow.SelectItemSupportSlot at 0x0DD9E6B8>
+SelectItemSupportSlot,		<cyfunction Attr67AddWindow.SelectItemSupportSlot at 0x0AF716B8>
 	arg0: self
 	arg1: slot_index
 
 submodule.SelectItemSupportSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction Attr67AddWindow.__del__ at 0x0DD97F50>
+__del__,		<cyfunction Attr67AddWindow.__del__ at 0x0AF6AF50>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__ClearMaterialSlot,		<cyfunction Attr67AddWindow.__ClearMaterialSlot at 0x0DD9E768>
+_Attr67AddWindow__ClearMaterialSlot,		<cyfunction Attr67AddWindow.__ClearMaterialSlot at 0x0AF71768>
 	arg0: self
 
 submodule._Attr67AddWindow__ClearMaterialSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-SelectItemRegistSlot,		<cyfunction Attr67AddWindow.SelectItemRegistSlot at 0x0DD9E608>
+SelectItemRegistSlot,		<cyfunction Attr67AddWindow.SelectItemRegistSlot at 0x0AF71608>
 	arg0: self
 	arg1: slot_index
 
 submodule.SelectItemRegistSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-SelectEmptyRegistSlot,		<cyfunction Attr67AddWindow.SelectEmptyRegistSlot at 0x0DD9E5B0>
+SelectEmptyRegistSlot,		<cyfunction Attr67AddWindow.SelectEmptyRegistSlot at 0x0AF715B0>
 	arg0: self
 	arg1: slot_index
 
 submodule.SelectEmptyRegistSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction Attr67AddWindow.OnPressEscapeKey at 0x0DD9E348>
+OnPressEscapeKey,		<cyfunction Attr67AddWindow.OnPressEscapeKey at 0x0AF71348>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-SetInven,		<cyfunction Attr67AddWindow.SetInven at 0x0DD9E1E8>
+SetInven,		<cyfunction Attr67AddWindow.SetInven at 0x0AF711E8>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction Attr67AddWindow.OnTop at 0x0DD9E3F8>
+OnTop,		<cyfunction Attr67AddWindow.OnTop at 0x0AF713F8>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction Attr67AddWindow.BindInterface at 0x0DD9E240>
+BindInterface,		<cyfunction Attr67AddWindow.BindInterface at 0x0AF71240>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-Show,		<cyfunction Attr67AddWindow.Show at 0x0DD9E298>
+Show,		<cyfunction Attr67AddWindow.Show at 0x0AF71298>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction Attr67AddWindow.OnUpdate at 0x0DD9E450>
+OnUpdate,		<cyfunction Attr67AddWindow.OnUpdate at 0x0AF71450>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-ClickSuppotButton,		<cyfunction Attr67AddWindow.ClickSuppotButton at 0x0DD9EA28>
+ClickSuppotButton,		<cyfunction Attr67AddWindow.ClickSuppotButton at 0x0AF71A28>
 	arg0: self
 	arg1: is_up_button_click
 
 submodule.ClickSuppotButton
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-OverInSupportSlot,		<cyfunction Attr67AddWindow.OverInSupportSlot at 0x0DD9E8C8>
+OverInSupportSlot,		<cyfunction Attr67AddWindow.OverInSupportSlot at 0x0AF718C8>
 	arg0: self
 	arg1: slot_index
 
 submodule.OverInSupportSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__CalculateTotalSuccessPer,		<cyfunction Attr67AddWindow.__CalculateTotalSuccessPer at 0x0DD9E978>
+_Attr67AddWindow__CalculateTotalSuccessPer,		<cyfunction Attr67AddWindow.__CalculateTotalSuccessPer at 0x0AF71978>
 	arg0: self
 
 submodule._Attr67AddWindow__CalculateTotalSuccessPer
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction Attr67AddWindow.OverOutItem at 0x0DD9E920>
+OverOutItem,		<cyfunction Attr67AddWindow.OverOutItem at 0x0AF71920>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-OverInMaterialSlot,		<cyfunction Attr67AddWindow.OverInMaterialSlot at 0x0DD9E870>
+OverInMaterialSlot,		<cyfunction Attr67AddWindow.OverInMaterialSlot at 0x0AF71870>
 	arg0: self
 	arg1: slot_index
 
 submodule.OverInMaterialSlot
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-_Attr67AddWindow__SetOnTopWindowNone,		<cyfunction Attr67AddWindow.__SetOnTopWindowNone at 0x0DD9E3A0>
+_Attr67AddWindow__SetOnTopWindowNone,		<cyfunction Attr67AddWindow.__SetOnTopWindowNone at 0x0AF713A0>
 	arg0: self
 
 submodule._Attr67AddWindow__SetOnTopWindowNone
 Skipped: unbound method cython_function_or_method object must be called with Attr67AddWindow instance as first argument (got nothing instead)
-Close,		<cyfunction Attr67AddWindow.Close at 0x0DD9E2F0>
+Close,		<cyfunction Attr67AddWindow.Close at 0x0AF712F0>
 	arg0: self
 
 submodule.Close

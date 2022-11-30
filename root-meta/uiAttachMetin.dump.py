@@ -21,12 +21,12 @@ __module__,		uiAttachMetin
 submodule.__module__
 
 
-__del__,		<cyfunction AttachMetinDialog.__del__ at 0x0DB7B450>
+__del__,		<cyfunction AttachMetinDialog.__del__ at 0x0AD683F8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AttachMetinDialog instance as first argument (got nothing instead)
-Accept,		<cyfunction AttachMetinDialog.Accept at 0x0DB7B608>
+Accept,		<cyfunction AttachMetinDialog.Accept at 0x0AD685B0>
 	arg0: self
 
 submodule.Accept
@@ -36,34 +36,34 @@ __qualname__,		AttachMetinDialog
 submodule.__qualname__
 
 
-_AttachMetinDialog__LoadScript,		<cyfunction AttachMetinDialog.__LoadScript at 0x0DB7B3F8>
+_AttachMetinDialog__LoadScript,		<cyfunction AttachMetinDialog.__LoadScript at 0x0AD683A0>
 	arg0: self
 
 submodule._AttachMetinDialog__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with AttachMetinDialog instance as first argument (got nothing instead)
-CanAttachMetin,		<cyfunction AttachMetinDialog.CanAttachMetin at 0x0DB7B500>
+CanAttachMetin,		<cyfunction AttachMetinDialog.CanAttachMetin at 0x0AD684A8>
 	arg0: self
 	arg1: slot
 	arg2: metin
 
 submodule.CanAttachMetin
 Skipped: unbound method cython_function_or_method object must be called with AttachMetinDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction AttachMetinDialog.Destroy at 0x0DB7B4A8>
+Destroy,		<cyfunction AttachMetinDialog.Destroy at 0x0AD68450>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with AttachMetinDialog instance as first argument (got nothing instead)
-Close,		<cyfunction AttachMetinDialog.Close at 0x0DB7B660>
+Close,		<cyfunction AttachMetinDialog.Close at 0x0AD68608>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with AttachMetinDialog instance as first argument (got nothing instead)
-UpdateDialog,		<cyfunction AttachMetinDialog.UpdateDialog at 0x0DB7B5B0>
+UpdateDialog,		<cyfunction AttachMetinDialog.UpdateDialog at 0x0AD68558>
 	arg0: self
 
 submodule.UpdateDialog
 Skipped: unbound method cython_function_or_method object must be called with AttachMetinDialog instance as first argument (got nothing instead)
-Open,		<cyfunction AttachMetinDialog.Open at 0x0DB7B558>
+Open,		<cyfunction AttachMetinDialog.Open at 0x0AD68500>
 	arg0: self
 	arg1: metinItemWindow
 	arg2: metinItemPos
@@ -77,7 +77,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction AttachMetinDialog.__init__ at 0x0DB7B3A0>
+__init__,		<cyfunction AttachMetinDialog.__init__ at 0x0AD68348>
 	arg0: self
 
 submodule.__init__

@@ -20,7 +20,7 @@ key: uiGameOption, val: <module 'uiGameOption' (built-in)>
 
 
 class SystemDialog:
-_SystemDialog__ClickLogOutButton,		<cyfunction SystemDialog.__ClickLogOutButton at 0x0DCCBFA8>
+_SystemDialog__ClickLogOutButton,		<cyfunction SystemDialog.__ClickLogOutButton at 0x0AE65F50>
 	arg0: self
 
 submodule._SystemDialog__ClickLogOutButton
@@ -30,93 +30,93 @@ __module__,		uiSystem
 submodule.__module__
 
 
-__del__,		<cyfunction SystemDialog.__del__ at 0x0DCCBC38>
+__del__,		<cyfunction SystemDialog.__del__ at 0x0AE65BE0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-OnBlockMode,		<cyfunction SystemDialog.OnBlockMode at 0x0DCCC240>
+OnBlockMode,		<cyfunction SystemDialog.OnBlockMode at 0x0AE661E8>
 	arg0: self
 	arg1: mode
 
 submodule.OnBlockMode
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction SystemDialog.LoadDialog at 0x0DCCBCE8>
+LoadDialog,		<cyfunction SystemDialog.LoadDialog at 0x0AE65C90>
 	arg0: self
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-OnChangePKMode,		<cyfunction SystemDialog.OnChangePKMode at 0x0DCCC298>
+OnChangePKMode,		<cyfunction SystemDialog.OnChangePKMode at 0x0AE66240>
 	arg0: self
 
 submodule.OnChangePKMode
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__ClickExitButton,		<cyfunction SystemDialog.__ClickExitButton at 0x0DCCC030>
+_SystemDialog__ClickExitButton,		<cyfunction SystemDialog.__ClickExitButton at 0x0AE65FA8>
 	arg0: self
 
 submodule._SystemDialog__ClickExitButton
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction SystemDialog.OnPressExitKey at 0x0DCCC2F0>
+OnPressExitKey,		<cyfunction SystemDialog.OnPressExitKey at 0x0AE66298>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-LanguageChange,		<cyfunction SystemDialog.LanguageChange at 0x0DCCC500>
+LanguageChange,		<cyfunction SystemDialog.LanguageChange at 0x0AE664A8>
 	arg0: self
 
 submodule.LanguageChange
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction SystemDialog.OnPressEscapeKey at 0x0DCCC348>
+OnPressEscapeKey,		<cyfunction SystemDialog.OnPressEscapeKey at 0x0AE662F0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction SystemDialog.Destroy at 0x0DCCBDF0>
+Destroy,		<cyfunction SystemDialog.Destroy at 0x0AE65D98>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__Initialize,		<cyfunction SystemDialog.__Initialize at 0x0DCCBC90>
+_SystemDialog__Initialize,		<cyfunction SystemDialog.__Initialize at 0x0AE65C38>
 	arg0: self
 
 submodule._SystemDialog__Initialize
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-HideAllSystemOptioin,		<cyfunction SystemDialog.HideAllSystemOptioin at 0x0DCCC450>
+HideAllSystemOptioin,		<cyfunction SystemDialog.HideAllSystemOptioin at 0x0AE663F8>
 	arg0: self
 
 submodule.HideAllSystemOptioin
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction SystemDialog.__init__ at 0x0DCCBBE0>
+__init__,		<cyfunction SystemDialog.__init__ at 0x0AE65B88>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-ShowAllSystemOptioin,		<cyfunction SystemDialog.ShowAllSystemOptioin at 0x0DCCC4A8>
+ShowAllSystemOptioin,		<cyfunction SystemDialog.ShowAllSystemOptioin at 0x0AE66450>
 	arg0: self
 
 submodule.ShowAllSystemOptioin
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-GetSystemOption,		<cyfunction SystemDialog.GetSystemOption at 0x0DCCC3A0>
+GetSystemOption,		<cyfunction SystemDialog.GetSystemOption at 0x0AE66348>
 	arg0: self
 
 submodule.GetSystemOption
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__ClickMoveChannelButton,		<cyfunction SystemDialog.__ClickMoveChannelButton at 0x0DCCC3F8>
+_SystemDialog__ClickMoveChannelButton,		<cyfunction SystemDialog.__ClickMoveChannelButton at 0x0AE663A0>
 	arg0: self
 
 submodule._SystemDialog__ClickMoveChannelButton
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__LoadSystemMenu_Default,		<cyfunction SystemDialog.__LoadSystemMenu_Default at 0x0DCCBD40>
+_SystemDialog__LoadSystemMenu_Default,		<cyfunction SystemDialog.__LoadSystemMenu_Default at 0x0AE65CE8>
 	arg0: self
 
 submodule._SystemDialog__LoadSystemMenu_Default
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__ClickSystemOptionButton,		<cyfunction SystemDialog.__ClickSystemOptionButton at 0x0DCCC088>
+_SystemDialog__ClickSystemOptionButton,		<cyfunction SystemDialog.__ClickSystemOptionButton at 0x0AE66030>
 	arg0: self
 
 submodule._SystemDialog__ClickSystemOptionButton
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-SetOpenHelpWindowEvent,		<cyfunction SystemDialog.SetOpenHelpWindowEvent at 0x0DCCBE48>
+SetOpenHelpWindowEvent,		<cyfunction SystemDialog.SetOpenHelpWindowEvent at 0x0AE65DF0>
 	arg0: self
 	arg1: event
 
@@ -132,42 +132,42 @@ __qualname__,		SystemDialog
 submodule.__qualname__
 
 
-OpenDialog,		<cyfunction SystemDialog.OpenDialog at 0x0DCCBEA0>
+OpenDialog,		<cyfunction SystemDialog.OpenDialog at 0x0AE65E48>
 	arg0: self
 
 submodule.OpenDialog
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__ClickGameOptionButton,		<cyfunction SystemDialog.__ClickGameOptionButton at 0x0DCCC0E0>
+_SystemDialog__ClickGameOptionButton,		<cyfunction SystemDialog.__ClickGameOptionButton at 0x0AE66088>
 	arg0: self
 
 submodule._SystemDialog__ClickGameOptionButton
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__OnClosePopupDialog,		<cyfunction SystemDialog.__OnClosePopupDialog at 0x0DCCBF50>
+_SystemDialog__OnClosePopupDialog,		<cyfunction SystemDialog.__OnClosePopupDialog at 0x0AE65EF8>
 	arg0: self
 
 submodule._SystemDialog__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__ClickChangeCharacterButton,		<cyfunction SystemDialog.__ClickChangeCharacterButton at 0x0DCCBEF8>
+_SystemDialog__ClickChangeCharacterButton,		<cyfunction SystemDialog.__ClickChangeCharacterButton at 0x0AE65EA0>
 	arg0: self
 
 submodule._SystemDialog__ClickChangeCharacterButton
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__LoadSystemMenu_ForPortal,		<cyfunction SystemDialog.__LoadSystemMenu_ForPortal at 0x0DCCBD98>
+_SystemDialog__LoadSystemMenu_ForPortal,		<cyfunction SystemDialog.__LoadSystemMenu_ForPortal at 0x0AE65D40>
 	arg0: self
 
 submodule._SystemDialog__LoadSystemMenu_ForPortal
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-Close,		<cyfunction SystemDialog.Close at 0x0DCCC1E8>
+Close,		<cyfunction SystemDialog.Close at 0x0AE66190>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__ClickHelpButton,		<cyfunction SystemDialog.__ClickHelpButton at 0x0DCCC138>
+_SystemDialog__ClickHelpButton,		<cyfunction SystemDialog.__ClickHelpButton at 0x0AE660E0>
 	arg0: self
 
 submodule._SystemDialog__ClickHelpButton
 Skipped: unbound method cython_function_or_method object must be called with SystemDialog instance as first argument (got nothing instead)
-_SystemDialog__ClickInGameShopButton,		<cyfunction SystemDialog.__ClickInGameShopButton at 0x0DCCC190>
+_SystemDialog__ClickInGameShopButton,		<cyfunction SystemDialog.__ClickInGameShopButton at 0x0AE66138>
 	arg0: self
 
 submodule._SystemDialog__ClickInGameShopButton
@@ -180,28 +180,28 @@ __module__,		uiSystem
 submodule.__module__
 
 
-Show,		<cyfunction MoveChannelDialog.Show at 0x0DCCC710>
+Show,		<cyfunction MoveChannelDialog.Show at 0x0AE666B8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MoveChannelDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction MoveChannelDialog.__del__ at 0x0DCCC5B0>
+__del__,		<cyfunction MoveChannelDialog.__del__ at 0x0AE66558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MoveChannelDialog instance as first argument (got nothing instead)
-_MoveChannelDialog__SelectChannel,		<cyfunction MoveChannelDialog.__SelectChannel at 0x0DCCC660>
+_MoveChannelDialog__SelectChannel,		<cyfunction MoveChannelDialog.__SelectChannel at 0x0AE66608>
 	arg0: self
 	arg1: idx
 
 submodule._MoveChannelDialog__SelectChannel
 Skipped: unbound method cython_function_or_method object must be called with MoveChannelDialog instance as first argument (got nothing instead)
-IsShowWindow,		<cyfunction MoveChannelDialog.IsShowWindow at 0x0DCCC818>
+IsShowWindow,		<cyfunction MoveChannelDialog.IsShowWindow at 0x0AE667C0>
 	arg0: self
 
 submodule.IsShowWindow
 Skipped: unbound method cython_function_or_method object must be called with MoveChannelDialog instance as first argument (got nothing instead)
-_MoveChannelDialog__LoadDialog,		<cyfunction MoveChannelDialog.__LoadDialog at 0x0DCCC608>
+_MoveChannelDialog__LoadDialog,		<cyfunction MoveChannelDialog.__LoadDialog at 0x0AE665B0>
 	arg0: self
 
 submodule._MoveChannelDialog__LoadDialog
@@ -211,17 +211,17 @@ __qualname__,		MoveChannelDialog
 submodule.__qualname__
 
 
-OnPressEscapeKey,		<cyfunction MoveChannelDialog.OnPressEscapeKey at 0x0DCCC7C0>
+OnPressEscapeKey,		<cyfunction MoveChannelDialog.OnPressEscapeKey at 0x0AE66768>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MoveChannelDialog instance as first argument (got nothing instead)
-AcceptButton,		<cyfunction MoveChannelDialog.AcceptButton at 0x0DCCC6B8>
+AcceptButton,		<cyfunction MoveChannelDialog.AcceptButton at 0x0AE66660>
 	arg0: self
 
 submodule.AcceptButton
 Skipped: unbound method cython_function_or_method object must be called with MoveChannelDialog instance as first argument (got nothing instead)
-Close,		<cyfunction MoveChannelDialog.Close at 0x0DCCC768>
+Close,		<cyfunction MoveChannelDialog.Close at 0x0AE66710>
 	arg0: self
 
 submodule.Close
@@ -231,7 +231,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MoveChannelDialog.__init__ at 0x0DCCC558>
+__init__,		<cyfunction MoveChannelDialog.__init__ at 0x0AE66500>
 	arg0: self
 
 submodule.__init__

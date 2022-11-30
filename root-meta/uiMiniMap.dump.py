@@ -15,7 +15,7 @@ key: colorInfo, val: <module 'colorInfo' (built-in)>
 key: mail, val: <module 'mail' (built-in)>
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
-key: __RegisterMiniMapColor, val: <cyfunction __RegisterMiniMapColor at 0x0DCDDB88>
+key: __RegisterMiniMapColor, val: <cyfunction __RegisterMiniMapColor at 0x0AE78B30>
 key: AtlasWindow, val: <class 'uiMiniMap.AtlasWindow'>
 key: __builtins__, val: <module '__builtin__' (built-in)>
 key: __test__, val: {}
@@ -32,18 +32,18 @@ __module__,		uiMiniMap
 submodule.__module__
 
 
-__del__,		<cyfunction MapTextToolTip.__del__ at 0x0DCDD348>
+__del__,		<cyfunction MapTextToolTip.__del__ at 0x0AE782F0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-SetText,		<cyfunction MapTextToolTip.SetText at 0x0DCDD3A0>
+SetText,		<cyfunction MapTextToolTip.SetText at 0x0AE78348>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-SetHorizontalAlignLeft,		<cyfunction MapTextToolTip.SetHorizontalAlignLeft at 0x0DCDD500>
+SetHorizontalAlignLeft,		<cyfunction MapTextToolTip.SetHorizontalAlignLeft at 0x0AE784A8>
 	arg0: self
 
 submodule.SetHorizontalAlignLeft
@@ -58,24 +58,24 @@ __qualname__,		MapTextToolTip
 submodule.__qualname__
 
 
-GetTextSize,		<cyfunction MapTextToolTip.GetTextSize at 0x0DCDD4A8>
+GetTextSize,		<cyfunction MapTextToolTip.GetTextSize at 0x0AE78450>
 	arg0: self
 
 submodule.GetTextSize
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-__init__,		<cyfunction MapTextToolTip.__init__ at 0x0DCDD2F0>
+__init__,		<cyfunction MapTextToolTip.__init__ at 0x0AE78298>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-SetTooltipPosition,		<cyfunction MapTextToolTip.SetTooltipPosition at 0x0DCDD3F8>
+SetTooltipPosition,		<cyfunction MapTextToolTip.SetTooltipPosition at 0x0AE783A0>
 	arg0: self
 	arg1: PosX
 	arg2: PosY
 
 submodule.SetTooltipPosition
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-SetTextColor,		<cyfunction MapTextToolTip.SetTextColor at 0x0DCDD450>
+SetTextColor,		<cyfunction MapTextToolTip.SetTextColor at 0x0AE783F8>
 	arg0: self
 	arg1: TextColor
 
@@ -89,61 +89,61 @@ __module__,		uiMiniMap
 submodule.__module__
 
 
-HideMiniMapInGameEventButton,		<cyfunction MiniMap.HideMiniMapInGameEventButton at 0x0DCDDF50>
+HideMiniMapInGameEventButton,		<cyfunction MiniMap.HideMiniMapInGameEventButton at 0x0AE78EF8>
 	arg0: self
 
 submodule.HideMiniMapInGameEventButton
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ShowPartyMatchButton,		<cyfunction MiniMap.ShowPartyMatchButton at 0x0DCDE558>
+ShowPartyMatchButton,		<cyfunction MiniMap.ShowPartyMatchButton at 0x0AE7A500>
 	arg0: self
 
 submodule.ShowPartyMatchButton
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-OpenbattleField,		<cyfunction MiniMap.OpenbattleField at 0x0DCDDEA0>
+OpenbattleField,		<cyfunction MiniMap.OpenbattleField at 0x0AE78E48>
 	arg0: self
 
 submodule.OpenbattleField
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ShowAtlas,		<cyfunction MiniMap.ShowAtlas at 0x0DCDE3F8>
+ShowAtlas,		<cyfunction MiniMap.ShowAtlas at 0x0AE7A3A0>
 	arg0: self
 
 submodule.ShowAtlas
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-MiniMapMailProcess,		<cyfunction MiniMap.MiniMapMailProcess at 0x0DCDE7C0>
+MiniMapMailProcess,		<cyfunction MiniMap.MiniMapMailProcess at 0x0AE7A768>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.MiniMapMailProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-RefrashBattleButton,		<cyfunction MiniMap.RefrashBattleButton at 0x0DCDE4A8>
+RefrashBattleButton,		<cyfunction MiniMap.RefrashBattleButton at 0x0AE7A450>
 	arg0: self
 	arg1: isFlash
 	default: True
 
 submodule.RefrashBattleButton
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniMap.Destroy at 0x0DCDE088>
+Destroy,		<cyfunction MiniMap.Destroy at 0x0AE7A030>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-RefreshServerInfo,		<cyfunction MiniMap.RefreshServerInfo at 0x0DCDE500>
+RefreshServerInfo,		<cyfunction MiniMap.RefreshServerInfo at 0x0AE7A4A8>
 	arg0: self
 
 submodule.RefreshServerInfo
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniMap.__init__ at 0x0DCDDBE0>
+__init__,		<cyfunction MiniMap.__init__ at 0x0AE78B88>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ToggleAtlasWindow,		<cyfunction MiniMap.ToggleAtlasWindow at 0x0DCDE450>
+ToggleAtlasWindow,		<cyfunction MiniMap.ToggleAtlasWindow at 0x0AE7A3F8>
 	arg0: self
 
 submodule.ToggleAtlasWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ClientTimerProcess,		<cyfunction MiniMap.ClientTimerProcess at 0x0DCDEAD8>
+ClientTimerProcess,		<cyfunction MiniMap.ClientTimerProcess at 0x0AE7AA80>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -151,124 +151,124 @@ ClientTimerProcess,		<cyfunction MiniMap.ClientTimerProcess at 0x0DCDEAD8>
 
 submodule.ClientTimerProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-MiniMapMailSystemClose,		<cyfunction MiniMap.MiniMapMailSystemClose at 0x0DCDE870>
+MiniMapMailSystemClose,		<cyfunction MiniMap.MiniMapMailSystemClose at 0x0AE7A818>
 	arg0: self
 
 submodule.MiniMapMailSystemClose
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-MailBoxGMButtonVisible,		<cyfunction MiniMap.MailBoxGMButtonVisible at 0x0DCDE9D0>
+MailBoxGMButtonVisible,		<cyfunction MiniMap.MailBoxGMButtonVisible at 0x0AE7A978>
 	arg0: self
 	arg1: visible
 
 submodule.MailBoxGMButtonVisible
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-GuildTextUpdate,		<cyfunction MiniMap.GuildTextUpdate at 0x0DCDE768>
+GuildTextUpdate,		<cyfunction MiniMap.GuildTextUpdate at 0x0AE7A710>
 	arg0: self
 
 submodule.GuildTextUpdate
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-MailBoxGMButtonOverOutEvent,		<cyfunction MiniMap.MailBoxGMButtonOverOutEvent at 0x0DCDE978>
+MailBoxGMButtonOverOutEvent,		<cyfunction MiniMap.MailBoxGMButtonOverOutEvent at 0x0AE7A920>
 	arg0: self
 
 submodule.MailBoxGMButtonOverOutEvent
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-isShowMiniMap,		<cyfunction MiniMap.isShowMiniMap at 0x0DCDE2F0>
+isShowMiniMap,		<cyfunction MiniMap.isShowMiniMap at 0x0AE7A298>
 	arg0: self
 
 submodule.isShowMiniMap
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-HideMiniMap,		<cyfunction MiniMap.HideMiniMap at 0x0DCDE240>
+HideMiniMap,		<cyfunction MiniMap.HideMiniMap at 0x0AE7A1E8>
 	arg0: self
 
 submodule.HideMiniMap
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-SetGuildDragonLiarStart,		<cyfunction MiniMap.SetGuildDragonLiarStart at 0x0DCDE660>
+SetGuildDragonLiarStart,		<cyfunction MiniMap.SetGuildDragonLiarStart at 0x0AE7A608>
 	arg0: self
 
 submodule.SetGuildDragonLiarStart
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ClientTimerRefresh,		<cyfunction MiniMap.ClientTimerRefresh at 0x0DCDEB88>
+ClientTimerRefresh,		<cyfunction MiniMap.ClientTimerRefresh at 0x0AE7AB30>
 	arg0: self
 	arg1: end_time
 
 submodule.ClientTimerRefresh
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-MakeGmMailButton,		<cyfunction MiniMap.MakeGmMailButton at 0x0DCDE8C8>
+MakeGmMailButton,		<cyfunction MiniMap.MakeGmMailButton at 0x0AE7A870>
 	arg0: self
 
 submodule.MakeGmMailButton
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-_MiniMap__UpdateImprisonmentDurationText,		<cyfunction MiniMap.__UpdateImprisonmentDurationText at 0x0DCDDD98>
+_MiniMap__UpdateImprisonmentDurationText,		<cyfunction MiniMap.__UpdateImprisonmentDurationText at 0x0AE78D40>
 	arg0: self
 
 submodule._MiniMap__UpdateImprisonmentDurationText
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-BindPartyMatchEvent,		<cyfunction MiniMap.BindPartyMatchEvent at 0x0DCDE608>
+BindPartyMatchEvent,		<cyfunction MiniMap.BindPartyMatchEvent at 0x0AE7A5B0>
 	arg0: self
 	arg1: event
 
 submodule.BindPartyMatchEvent
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-OnRender,		<cyfunction MiniMap.OnRender at 0x0DCDE190>
+OnRender,		<cyfunction MiniMap.OnRender at 0x0AE7A138>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-SetGuildDragonLiarSuccess,		<cyfunction MiniMap.SetGuildDragonLiarSuccess at 0x0DCDE6B8>
+SetGuildDragonLiarSuccess,		<cyfunction MiniMap.SetGuildDragonLiarSuccess at 0x0AE7A660>
 	arg0: self
 
 submodule.SetGuildDragonLiarSuccess
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-SetMapName,		<cyfunction MiniMap.SetMapName at 0x0DCDDCE8>
+SetMapName,		<cyfunction MiniMap.SetMapName at 0x0AE78C90>
 	arg0: self
 	arg1: mapName
 
 submodule.SetMapName
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-UpdateObserverCount,		<cyfunction MiniMap.UpdateObserverCount at 0x0DCDE0E0>
+UpdateObserverCount,		<cyfunction MiniMap.UpdateObserverCount at 0x0AE7A088>
 	arg0: self
 	arg1: observerCount
 
 submodule.UpdateObserverCount
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-_MiniMap__LoadWindow,		<cyfunction MiniMap.__LoadWindow at 0x0DCDDE48>
+_MiniMap__LoadWindow,		<cyfunction MiniMap.__LoadWindow at 0x0AE78DF0>
 	arg0: self
 
 submodule._MiniMap__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniMap.__del__ at 0x0DCDDC38>
+__del__,		<cyfunction MiniMap.__del__ at 0x0AE78BE0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ScaleDown,		<cyfunction MiniMap.ScaleDown at 0x0DCDE3A0>
+ScaleDown,		<cyfunction MiniMap.ScaleDown at 0x0AE7A348>
 	arg0: self
 
 submodule.ScaleDown
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-MailBoxGMButtonOverInEvent,		<cyfunction MiniMap.MailBoxGMButtonOverInEvent at 0x0DCDE920>
+MailBoxGMButtonOverInEvent,		<cyfunction MiniMap.MailBoxGMButtonOverInEvent at 0x0AE7A8C8>
 	arg0: self
 
 submodule.MailBoxGMButtonOverInEvent
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-OpenInGameEvent,		<cyfunction MiniMap.OpenInGameEvent at 0x0DCDE030>
+OpenInGameEvent,		<cyfunction MiniMap.OpenInGameEvent at 0x0AE78FA8>
 	arg0: self
 
 submodule.OpenInGameEvent
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-MiniMapMailRefresh,		<cyfunction MiniMap.MiniMapMailRefresh at 0x0DCDE818>
+MiniMapMailRefresh,		<cyfunction MiniMap.MiniMapMailRefresh at 0x0AE7A7C0>
 	arg0: self
 	arg1: data
 
 submodule.MiniMapMailRefresh
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-SetGuildDragonLairFistGuildText,		<cyfunction MiniMap.SetGuildDragonLairFistGuildText at 0x0DCDE710>
+SetGuildDragonLairFistGuildText,		<cyfunction MiniMap.SetGuildDragonLairFistGuildText at 0x0AE7A6B8>
 	arg0: self
 	arg1: second
 
 submodule.SetGuildDragonLairFistGuildText
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-SetMistsIslandInfo,		<cyfunction MiniMap.SetMistsIslandInfo at 0x0DCDEA28>
+SetMistsIslandInfo,		<cyfunction MiniMap.SetMistsIslandInfo at 0x0AE7A9D0>
 	arg0: self
 	arg1: temple
 	arg2: score
@@ -277,53 +277,53 @@ SetMistsIslandInfo,		<cyfunction MiniMap.SetMistsIslandInfo at 0x0DCDEA28>
 
 submodule.SetMistsIslandInfo
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-_MiniMap__Initialize,		<cyfunction MiniMap.__Initialize at 0x0DCDDC90>
+_MiniMap__Initialize,		<cyfunction MiniMap.__Initialize at 0x0AE78C38>
 	arg0: self
 
 submodule._MiniMap__Initialize
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ShowMiniMap,		<cyfunction MiniMap.ShowMiniMap at 0x0DCDE298>
+ShowMiniMap,		<cyfunction MiniMap.ShowMiniMap at 0x0AE7A240>
 	arg0: self
 
 submodule.ShowMiniMap
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-BindInterface,		<cyfunction MiniMap.BindInterface at 0x0DCDDFA8>
+BindInterface,		<cyfunction MiniMap.BindInterface at 0x0AE78F50>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ShowMiniMapInGameEventButton,		<cyfunction MiniMap.ShowMiniMapInGameEventButton at 0x0DCDDEF8>
+ShowMiniMapInGameEventButton,		<cyfunction MiniMap.ShowMiniMapInGameEventButton at 0x0AE78EA0>
 	arg0: self
 
 submodule.ShowMiniMapInGameEventButton
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ScaleUp,		<cyfunction MiniMap.ScaleUp at 0x0DCDE348>
+ScaleUp,		<cyfunction MiniMap.ScaleUp at 0x0AE7A2F0>
 	arg0: self
 
 submodule.ScaleUp
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ClientTextUpdate,		<cyfunction MiniMap.ClientTextUpdate at 0x0DCDEC38>
+ClientTextUpdate,		<cyfunction MiniMap.ClientTextUpdate at 0x0AE7ABE0>
 	arg0: self
 
 submodule.ClientTextUpdate
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-Show,		<cyfunction MiniMap.Show at 0x0DCDDDF0>
+Show,		<cyfunction MiniMap.Show at 0x0AE78D98>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MiniMap.OnUpdate at 0x0DCDE138>
+OnUpdate,		<cyfunction MiniMap.OnUpdate at 0x0AE7A0E0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-HidePartyMatchButton,		<cyfunction MiniMap.HidePartyMatchButton at 0x0DCDE5B0>
+HidePartyMatchButton,		<cyfunction MiniMap.HidePartyMatchButton at 0x0AE7A558>
 	arg0: self
 
 submodule.HidePartyMatchButton
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-AddMistsIslandMessage,		<cyfunction MiniMap.AddMistsIslandMessage at 0x0DCDEA80>
+AddMistsIslandMessage,		<cyfunction MiniMap.AddMistsIslandMessage at 0x0AE7AA28>
 	arg0: self
 	arg1: add
 	arg2: type
@@ -332,7 +332,7 @@ AddMistsIslandMessage,		<cyfunction MiniMap.AddMistsIslandMessage at 0x0DCDEA80>
 
 submodule.AddMistsIslandMessage
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-SetImprisonmentDuration,		<cyfunction MiniMap.SetImprisonmentDuration at 0x0DCDDD40>
+SetImprisonmentDuration,		<cyfunction MiniMap.SetImprisonmentDuration at 0x0AE78CE8>
 	arg0: self
 	arg1: duration
 
@@ -353,17 +353,17 @@ CANNOT_SEE_INFO_MAP_DICT,		{'metin2_map_monkeydungeon_02': False, 'metin2_map_mo
 submodule.CANNOT_SEE_INFO_MAP_DICT
 
 
-ClientTimerDelete,		<cyfunction MiniMap.ClientTimerDelete at 0x0DCDEBE0>
+ClientTimerDelete,		<cyfunction MiniMap.ClientTimerDelete at 0x0AE7AB88>
 	arg0: self
 
 submodule.ClientTimerDelete
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-Close,		<cyfunction MiniMap.Close at 0x0DCDE1E8>
+Close,		<cyfunction MiniMap.Close at 0x0AE7A190>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniMap instance as first argument (got nothing instead)
-ClientTimerSet,		<cyfunction MiniMap.ClientTimerSet at 0x0DCDEB30>
+ClientTimerSet,		<cyfunction MiniMap.ClientTimerSet at 0x0AE7AAD8>
 	arg0: self
 	arg1: data
 
@@ -372,14 +372,14 @@ Skipped: unbound method cython_function_or_method object must be called with Min
 
 
 class AtlasWindow:
-SetCenterPositionAdjust,		<cyfunction AtlasWindow.SetCenterPositionAdjust at 0x0DCDDAD8>
+SetCenterPositionAdjust,		<cyfunction AtlasWindow.SetCenterPositionAdjust at 0x0AE78A80>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.SetCenterPositionAdjust
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction AtlasWindow.OnUpdate at 0x0DCDD920>
+OnUpdate,		<cyfunction AtlasWindow.OnUpdate at 0x0AE788C8>
 	arg0: self
 
 submodule.OnUpdate
@@ -389,22 +389,22 @@ __module__,		uiMiniMap
 submodule.__module__
 
 
-Hide,		<cyfunction AtlasWindow.Hide at 0x0DCDD978>
+Hide,		<cyfunction AtlasWindow.Hide at 0x0AE78920>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-Show,		<cyfunction AtlasWindow.Show at 0x0DCDD9D0>
+Show,		<cyfunction AtlasWindow.Show at 0x0AE78978>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction AtlasWindow.__del__ at 0x0DCDD7C0>
+__del__,		<cyfunction AtlasWindow.__del__ at 0x0AE78768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-IsShowWindow,		<cyfunction AtlasWindow.IsShowWindow at 0x0DCDDA80>
+IsShowWindow,		<cyfunction AtlasWindow.IsShowWindow at 0x0AE78A28>
 	arg0: self
 
 submodule.IsShowWindow
@@ -421,33 +421,33 @@ submodule.__qualname__
 
 AtlasRenderer,		<class 'uiMiniMap.AtlasRenderer'>
 Skip: type object 'AtlasRenderer' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction AtlasWindow.OnPressEscapeKey at 0x0DCDDB30>
+OnPressEscapeKey,		<cyfunction AtlasWindow.OnPressEscapeKey at 0x0AE78AD8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction AtlasWindow.Destroy at 0x0DCDD8C8>
+Destroy,		<cyfunction AtlasWindow.Destroy at 0x0AE78870>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-Close,		<cyfunction AtlasWindow.Close at 0x0DCDDA28>
+Close,		<cyfunction AtlasWindow.Close at 0x0AE789D0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction AtlasWindow.LoadWindow at 0x0DCDD870>
+LoadWindow,		<cyfunction AtlasWindow.LoadWindow at 0x0AE78818>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-SetMapName,		<cyfunction AtlasWindow.SetMapName at 0x0DCDD818>
+SetMapName,		<cyfunction AtlasWindow.SetMapName at 0x0AE787C0>
 	arg0: self
 	arg1: mapName
 
 submodule.SetMapName
 Skipped: unbound method cython_function_or_method object must be called with AtlasWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction AtlasWindow.__init__ at 0x0DCDD768>
+__init__,		<cyfunction AtlasWindow.__init__ at 0x0AE78710>
 	arg0: self
 
 submodule.__init__

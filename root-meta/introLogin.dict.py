@@ -16,6 +16,7 @@
                                'DE': 'd:/ymir work/ui/intro/login/server_flag_DE.sub',
                                'DK': 'd:/ymir work/ui/intro/login/server_flag_DK.sub',
                                'ES': 'd:/ymir work/ui/intro/login/server_flag_ES.sub',
+                               'EU': 'd:/ymir work/ui/intro/login/server_flag_EU.sub',
                                'FR': 'd:/ymir work/ui/intro/login/server_flag_FR.sub',
                                'GR': 'd:/ymir work/ui/intro/login/server_flag_GR.sub',
                                'HU': 'd:/ymir work/ui/intro/login/server_flag_HU.sub',

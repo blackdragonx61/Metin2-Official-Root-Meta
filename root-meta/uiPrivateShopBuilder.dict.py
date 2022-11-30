@@ -68,10 +68,4 @@
          {'name': '__test__', 'type': 'dict', 'value': {}},
          {'name': 'g_isBuildingPrivateShop', 'type': 'bool', 'value': False},
          {'name': 'g_itemPriceDict', 'type': 'dict', 'value': {}},
-         {'name': 'g_privateShopAdvertisementBoardDict',
-          'type': 'dict',
-          'value': {1653746: <uiPrivateShopBuilder.PrivateShopAdvertisementBoard object at 0x2F8416B0>,
-                    3592070: <uiPrivateShopBuilder.PrivateShopAdvertisementBoard object at 0x2F884790>,
-                    3737327: <uiPrivateShopBuilder.PrivateShopAdvertisementBoard object at 0x2F855770>,
-                    3777332: <uiPrivateShopBuilder.PrivateShopAdvertisementBoard object at 0x2F841290>,
-                    3927482: <uiPrivateShopBuilder.PrivateShopAdvertisementBoard object at 0x2F8AA2B0>}}]}
+         {'name': 'g_privateShopAdvertisementBoardDict', 'type': 'dict', 'value': {66748: <uiPrivateShopBuilder.PrivateShopAdvertisementBoard object at 0x2C3622B0>}}]}
