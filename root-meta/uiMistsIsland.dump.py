@@ -32,7 +32,7 @@ __module__,		uiMistsIsland
 submodule.__module__
 
 
-AddMessage,		<cyfunction MistsIsland_RankWindow.AddMessage at 0x0830BE48>
+AddMessage,		<cyfunction MistsIsland_RankWindow.AddMessage at 0x09957D98>
 	arg0: self
 	arg1: add
 	arg2: type
@@ -41,60 +41,60 @@ AddMessage,		<cyfunction MistsIsland_RankWindow.AddMessage at 0x0830BE48>
 
 submodule.AddMessage
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction MistsIsland_RankWindow.__del__ at 0x0830B9D0>
+__del__,		<cyfunction MistsIsland_RankWindow.__del__ at 0x09957920>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-_MistsIsland_RankWindow__LoadWindow,		<cyfunction MistsIsland_RankWindow.__LoadWindow at 0x0830BA80>
+_MistsIsland_RankWindow__LoadWindow,		<cyfunction MistsIsland_RankWindow.__LoadWindow at 0x099579D0>
 	arg0: self
 
 submodule._MistsIsland_RankWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction MistsIsland_RankWindow.BindControlWindow at 0x0830BB30>
+BindControlWindow,		<cyfunction MistsIsland_RankWindow.BindControlWindow at 0x09957A80>
 	arg0: self
 	arg1: control_window
 
 submodule.BindControlWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-_MistsIsland_RankWindow__InitWindow,		<cyfunction MistsIsland_RankWindow.__InitWindow at 0x0830BA28>
+_MistsIsland_RankWindow__InitWindow,		<cyfunction MistsIsland_RankWindow.__InitWindow at 0x09957978>
 	arg0: self
 
 submodule._MistsIsland_RankWindow__InitWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-OnScroll,		<cyfunction MistsIsland_RankWindow.OnScroll at 0x0830BC90>
+OnScroll,		<cyfunction MistsIsland_RankWindow.OnScroll at 0x09957BE0>
 	arg0: self
 
 submodule.OnScroll
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MistsIsland_RankWindow.OnPressEscapeKey at 0x0830BC38>
+OnPressEscapeKey,		<cyfunction MistsIsland_RankWindow.OnPressEscapeKey at 0x09957B88>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction MistsIsland_RankWindow.Destroy at 0x0830BAD8>
+Destroy,		<cyfunction MistsIsland_RankWindow.Destroy at 0x09957A28>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-ReplaceLoca,		<cyfunction MistsIsland_RankWindow.ReplaceLoca at 0x0830BDF0>
+ReplaceLoca,		<cyfunction MistsIsland_RankWindow.ReplaceLoca at 0x09957D40>
 	arg0: self
 	arg1: type
 	arg2: value
 
 submodule.ReplaceLoca
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction MistsIsland_RankWindow.OnMouseWheelButtonUp at 0x0830BCE8>
+OnMouseWheelButtonUp,		<cyfunction MistsIsland_RankWindow.OnMouseWheelButtonUp at 0x09957C38>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction MistsIsland_RankWindow.__init__ at 0x0830B978>
+__init__,		<cyfunction MistsIsland_RankWindow.__init__ at 0x099578C8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-SetInfo,		<cyfunction MistsIsland_RankWindow.SetInfo at 0x0830BD98>
+SetInfo,		<cyfunction MistsIsland_RankWindow.SetInfo at 0x09957CE8>
 	arg0: self
 	arg1: score
 	arg2: rank
@@ -107,12 +107,12 @@ __qualname__,		MistsIsland_RankWindow
 submodule.__qualname__
 
 
-Close,		<cyfunction MistsIsland_RankWindow.Close at 0x0830BBE0>
+Close,		<cyfunction MistsIsland_RankWindow.Close at 0x09957B30>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_RankWindow instance as first argument (got nothing instead)
-Open,		<cyfunction MistsIsland_RankWindow.Open at 0x0830BB88>
+Open,		<cyfunction MistsIsland_RankWindow.Open at 0x09957AD8>
 	arg0: self
 
 submodule.Open
@@ -122,7 +122,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseWheelButtonDown,		<cyfunction MistsIsland_RankWindow.OnMouseWheelButtonDown at 0x0830BD40>
+OnMouseWheelButtonDown,		<cyfunction MistsIsland_RankWindow.OnMouseWheelButtonDown at 0x09957C90>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
@@ -135,29 +135,29 @@ __module__,		uiMistsIsland
 submodule.__module__
 
 
-SetInfo,		<cyfunction MistsIsland_ScoreWindow.SetInfo at 0x0830B920>
+SetInfo,		<cyfunction MistsIsland_ScoreWindow.SetInfo at 0x09957870>
 	arg0: self
 	arg1: temple
 	arg2: score
 
 submodule.SetInfo
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_ScoreWindow instance as first argument (got nothing instead)
-_MistsIsland_ScoreWindow__InitWindow,		<cyfunction MistsIsland_ScoreWindow.__InitWindow at 0x0830B660>
+_MistsIsland_ScoreWindow__InitWindow,		<cyfunction MistsIsland_ScoreWindow.__InitWindow at 0x099575B0>
 	arg0: self
 
 submodule._MistsIsland_ScoreWindow__InitWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_ScoreWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction MistsIsland_ScoreWindow.__del__ at 0x0830B608>
+__del__,		<cyfunction MistsIsland_ScoreWindow.__del__ at 0x09957558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_ScoreWindow instance as first argument (got nothing instead)
-_MistsIsland_ScoreWindow__LoadWindow,		<cyfunction MistsIsland_ScoreWindow.__LoadWindow at 0x0830B6B8>
+_MistsIsland_ScoreWindow__LoadWindow,		<cyfunction MistsIsland_ScoreWindow.__LoadWindow at 0x09957608>
 	arg0: self
 
 submodule._MistsIsland_ScoreWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_ScoreWindow instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction MistsIsland_ScoreWindow.BindControlWindow at 0x0830B768>
+BindControlWindow,		<cyfunction MistsIsland_ScoreWindow.BindControlWindow at 0x099576B8>
 	arg0: self
 	arg1: control_window
 
@@ -168,28 +168,28 @@ __qualname__,		MistsIsland_ScoreWindow
 submodule.__qualname__
 
 
-ToolTipProgress,		<cyfunction MistsIsland_ScoreWindow.ToolTipProgress at 0x0830B8C8>
+ToolTipProgress,		<cyfunction MistsIsland_ScoreWindow.ToolTipProgress at 0x09957818>
 	arg0: self
 	arg1: type
 
 submodule.ToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_ScoreWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MistsIsland_ScoreWindow.OnPressEscapeKey at 0x0830B870>
+OnPressEscapeKey,		<cyfunction MistsIsland_ScoreWindow.OnPressEscapeKey at 0x099577C0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_ScoreWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction MistsIsland_ScoreWindow.Destroy at 0x0830B710>
+Destroy,		<cyfunction MistsIsland_ScoreWindow.Destroy at 0x09957660>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_ScoreWindow instance as first argument (got nothing instead)
-Close,		<cyfunction MistsIsland_ScoreWindow.Close at 0x0830B818>
+Close,		<cyfunction MistsIsland_ScoreWindow.Close at 0x09957768>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_ScoreWindow instance as first argument (got nothing instead)
-Open,		<cyfunction MistsIsland_ScoreWindow.Open at 0x0830B7C0>
+Open,		<cyfunction MistsIsland_ScoreWindow.Open at 0x09957710>
 	arg0: self
 
 submodule.Open
@@ -199,7 +199,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MistsIsland_ScoreWindow.__init__ at 0x0830B5B0>
+__init__,		<cyfunction MistsIsland_ScoreWindow.__init__ at 0x09957500>
 	arg0: self
 
 submodule.__init__
@@ -207,7 +207,7 @@ Skipped: unbound method cython_function_or_method object must be called with Mis
 
 
 class MistsIsland_AtlasWindow:
-MistsIslandScore,		<cyfunction MistsIsland_AtlasWindow.MistsIslandScore at 0x083124A8>
+MistsIslandScore,		<cyfunction MistsIsland_AtlasWindow.MistsIslandScore at 0x0995D3F8>
 	arg0: self
 
 submodule.MistsIslandScore
@@ -217,50 +217,50 @@ __module__,		uiMistsIsland
 submodule.__module__
 
 
-__del__,		<cyfunction MistsIsland_AtlasWindow.__del__ at 0x08312138>
+__del__,		<cyfunction MistsIsland_AtlasWindow.__del__ at 0x0995D088>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction MistsIsland_AtlasWindow.BindControlWindow at 0x08312298>
+BindControlWindow,		<cyfunction MistsIsland_AtlasWindow.BindControlWindow at 0x0995D1E8>
 	arg0: self
 	arg1: control_window
 
 submodule.BindControlWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-_MistsIsland_AtlasWindow__AcceptMistsIslandExit,		<cyfunction MistsIsland_AtlasWindow.__AcceptMistsIslandExit at 0x083125B0>
+_MistsIsland_AtlasWindow__AcceptMistsIslandExit,		<cyfunction MistsIsland_AtlasWindow.__AcceptMistsIslandExit at 0x0995D500>
 	arg0: self
 
 submodule._MistsIsland_AtlasWindow__AcceptMistsIslandExit
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
 AtlasRenderer,		<class 'uiMistsIsland.AtlasRenderer'>
 Skip: type object 'AtlasRenderer' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction MistsIsland_AtlasWindow.OnPressEscapeKey at 0x083123A0>
+OnPressEscapeKey,		<cyfunction MistsIsland_AtlasWindow.OnPressEscapeKey at 0x0995D2F0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction MistsIsland_AtlasWindow.Destroy at 0x08312240>
+Destroy,		<cyfunction MistsIsland_AtlasWindow.Destroy at 0x0995D190>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction MistsIsland_AtlasWindow.__init__ at 0x083120E0>
+__init__,		<cyfunction MistsIsland_AtlasWindow.__init__ at 0x0995D030>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-_MistsIsland_AtlasWindow__InitWindow,		<cyfunction MistsIsland_AtlasWindow.__InitWindow at 0x08312190>
+_MistsIsland_AtlasWindow__InitWindow,		<cyfunction MistsIsland_AtlasWindow.__InitWindow at 0x0995D0E0>
 	arg0: self
 
 submodule._MistsIsland_AtlasWindow__InitWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-MistsIslandRank,		<cyfunction MistsIsland_AtlasWindow.MistsIslandRank at 0x08312500>
+MistsIslandRank,		<cyfunction MistsIsland_AtlasWindow.MistsIslandRank at 0x0995D450>
 	arg0: self
 
 submodule.MistsIslandRank
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MistsIsland_AtlasWindow.OnUpdate at 0x083123F8>
+OnUpdate,		<cyfunction MistsIsland_AtlasWindow.OnUpdate at 0x0995D348>
 	arg0: self
 
 submodule.OnUpdate
@@ -275,28 +275,28 @@ __qualname__,		MistsIsland_AtlasWindow
 submodule.__qualname__
 
 
-Close,		<cyfunction MistsIsland_AtlasWindow.Close at 0x08312348>
+Close,		<cyfunction MistsIsland_AtlasWindow.Close at 0x0995D298>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-MistsIslandExit,		<cyfunction MistsIsland_AtlasWindow.MistsIslandExit at 0x08312558>
+MistsIslandExit,		<cyfunction MistsIsland_AtlasWindow.MistsIslandExit at 0x0995D4A8>
 	arg0: self
 
 submodule.MistsIslandExit
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-Open,		<cyfunction MistsIsland_AtlasWindow.Open at 0x083122F0>
+Open,		<cyfunction MistsIsland_AtlasWindow.Open at 0x0995D240>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-SetMapName,		<cyfunction MistsIsland_AtlasWindow.SetMapName at 0x08312450>
+SetMapName,		<cyfunction MistsIsland_AtlasWindow.SetMapName at 0x0995D3A0>
 	arg0: self
 	arg1: mapName
 
 submodule.SetMapName
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_AtlasWindow instance as first argument (got nothing instead)
-_MistsIsland_AtlasWindow__LoadWindow,		<cyfunction MistsIsland_AtlasWindow.__LoadWindow at 0x083121E8>
+_MistsIsland_AtlasWindow__LoadWindow,		<cyfunction MistsIsland_AtlasWindow.__LoadWindow at 0x0995D138>
 	arg0: self
 
 submodule._MistsIsland_AtlasWindow__LoadWindow
@@ -309,13 +309,13 @@ __module__,		uiMistsIsland
 submodule.__module__
 
 
-SetToolTip,		<cyfunction MistsIsland_Flag.SetToolTip at 0x0830B558>
+SetToolTip,		<cyfunction MistsIsland_Flag.SetToolTip at 0x099574A8>
 	arg0: self
 	arg1: plus
 
 submodule.SetToolTip
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_Flag instance as first argument (got nothing instead)
-__del__,		<cyfunction MistsIsland_Flag.__del__ at 0x0830B3A0>
+__del__,		<cyfunction MistsIsland_Flag.__del__ at 0x099572F0>
 	arg0: self
 
 submodule.__del__
@@ -330,7 +330,7 @@ __qualname__,		MistsIsland_Flag
 submodule.__qualname__
 
 
-_MistsIsland_Flag__InitWindow,		<cyfunction MistsIsland_Flag.__InitWindow at 0x0830B3F8>
+_MistsIsland_Flag__InitWindow,		<cyfunction MistsIsland_Flag.__InitWindow at 0x09957348>
 	arg0: self
 
 submodule._MistsIsland_Flag__InitWindow
@@ -340,7 +340,7 @@ FLAG_HEIGHT,		19
 submodule.FLAG_HEIGHT
 
 
-ToolTipProgress,		<cyfunction MistsIsland_Flag.ToolTipProgress at 0x0830B4A8>
+ToolTipProgress,		<cyfunction MistsIsland_Flag.ToolTipProgress at 0x099573F8>
 	arg0: self
 	arg1: type
 
@@ -351,7 +351,7 @@ FLAG_WIDTH,		26
 submodule.FLAG_WIDTH
 
 
-_MistsIsland_Flag__LoadWindow,		<cyfunction MistsIsland_Flag.__LoadWindow at 0x0830B450>
+_MistsIsland_Flag__LoadWindow,		<cyfunction MistsIsland_Flag.__LoadWindow at 0x099573A0>
 	arg0: self
 	arg1: parent
 	arg2: pos
@@ -364,7 +364,7 @@ BUFF_MSG,		('Energia +2', 'T\xe1rgy dob\xe1s es\xe9lye +10%', 'Er\xf5, Intellige
 submodule.BUFF_MSG
 
 
-__init__,		<cyfunction MistsIsland_Flag.__init__ at 0x0830B348>
+__init__,		<cyfunction MistsIsland_Flag.__init__ at 0x09957298>
 	arg0: self
 	arg1: parent
 	arg2: pos
@@ -372,7 +372,7 @@ __init__,		<cyfunction MistsIsland_Flag.__init__ at 0x0830B348>
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland_Flag instance as first argument (got nothing instead)
-SetEmpire,		<cyfunction MistsIsland_Flag.SetEmpire at 0x0830B500>
+SetEmpire,		<cyfunction MistsIsland_Flag.SetEmpire at 0x09957450>
 	arg0: self
 	arg1: empire
 	arg2: plus
@@ -388,28 +388,28 @@ __module__,		uiMistsIsland
 submodule.__module__
 
 
-_MistsIsland__InitWindow,		<cyfunction MistsIsland.__InitWindow at 0x083126B8>
+_MistsIsland__InitWindow,		<cyfunction MistsIsland.__InitWindow at 0x0995D608>
 	arg0: self
 
 submodule._MistsIsland__InitWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-WindowOnOff,		<cyfunction MistsIsland.WindowOnOff at 0x08312978>
+WindowOnOff,		<cyfunction MistsIsland.WindowOnOff at 0x0995D8C8>
 	arg0: self
 	arg1: type
 
 submodule.WindowOnOff
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-Show,		<cyfunction MistsIsland.Show at 0x083127C0>
+Show,		<cyfunction MistsIsland.Show at 0x0995D710>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-__del__,		<cyfunction MistsIsland.__del__ at 0x08312660>
+__del__,		<cyfunction MistsIsland.__del__ at 0x0995D5B0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-IsShowWindow,		<cyfunction MistsIsland.IsShowWindow at 0x08312870>
+IsShowWindow,		<cyfunction MistsIsland.IsShowWindow at 0x0995D7C0>
 	arg0: self
 
 submodule.IsShowWindow
@@ -424,12 +424,12 @@ __qualname__,		MistsIsland
 submodule.__qualname__
 
 
-SaveIsOpen,		<cyfunction MistsIsland.SaveIsOpen at 0x08312920>
+SaveIsOpen,		<cyfunction MistsIsland.SaveIsOpen at 0x0995D870>
 	arg0: self
 
 submodule.SaveIsOpen
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-AddMistsIslandMessage,		<cyfunction MistsIsland.AddMistsIslandMessage at 0x08312A28>
+AddMistsIslandMessage,		<cyfunction MistsIsland.AddMistsIslandMessage at 0x0995D978>
 	arg0: self
 	arg1: add
 	arg2: type
@@ -438,22 +438,22 @@ AddMistsIslandMessage,		<cyfunction MistsIsland.AddMistsIslandMessage at 0x08312
 
 submodule.AddMistsIslandMessage
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-Destroy,		<cyfunction MistsIsland.Destroy at 0x08312768>
+Destroy,		<cyfunction MistsIsland.Destroy at 0x0995D6B8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-Hide,		<cyfunction MistsIsland.Hide at 0x08312818>
+Hide,		<cyfunction MistsIsland.Hide at 0x0995D768>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction MistsIsland.LoadWindow at 0x08312710>
+LoadWindow,		<cyfunction MistsIsland.LoadWindow at 0x0995D660>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-SetMistsIslandInfo,		<cyfunction MistsIsland.SetMistsIslandInfo at 0x083129D0>
+SetMistsIslandInfo,		<cyfunction MistsIsland.SetMistsIslandInfo at 0x0995D920>
 	arg0: self
 	arg1: temple
 	arg2: score
@@ -462,13 +462,13 @@ SetMistsIslandInfo,		<cyfunction MistsIsland.SetMistsIslandInfo at 0x083129D0>
 
 submodule.SetMistsIslandInfo
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-SetMapName,		<cyfunction MistsIsland.SetMapName at 0x083128C8>
+SetMapName,		<cyfunction MistsIsland.SetMapName at 0x0995D818>
 	arg0: self
 	arg1: mapName
 
 submodule.SetMapName
 Skipped: unbound method cython_function_or_method object must be called with MistsIsland instance as first argument (got nothing instead)
-__init__,		<cyfunction MistsIsland.__init__ at 0x08312608>
+__init__,		<cyfunction MistsIsland.__init__ at 0x0995D558>
 	arg0: self
 
 submodule.__init__

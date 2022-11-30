@@ -19,61 +19,61 @@ __module__,		uiGuildPopup
 submodule.__module__
 
 
-SetNormalButton,		<cyfunction GuildPopupDialog.SetNormalButton at 0x07FD9190>
+SetNormalButton,		<cyfunction GuildPopupDialog.SetNormalButton at 0x095390E0>
 	arg0: self
 
 submodule.SetNormalButton
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetTitleBarText,		<cyfunction GuildPopupDialog.SetTitleBarText at 0x07FD9138>
+SetTitleBarText,		<cyfunction GuildPopupDialog.SetTitleBarText at 0x09539088>
 	arg0: self
 	arg1: text
 
 submodule.SetTitleBarText
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildPopupDialog.__del__ at 0x07FD4DF0>
+__del__,		<cyfunction GuildPopupDialog.__del__ at 0x09532D40>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-_GuildPopupDialog__LoadDialog,		<cyfunction GuildPopupDialog.__LoadDialog at 0x07FD4E48>
+_GuildPopupDialog__LoadDialog,		<cyfunction GuildPopupDialog.__LoadDialog at 0x09532D98>
 	arg0: self
 
 submodule._GuildPopupDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction GuildPopupDialog.SetAcceptEvent at 0x07FD91E8>
+SetAcceptEvent,		<cyfunction GuildPopupDialog.SetAcceptEvent at 0x09539138>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-CheckMessage,		<cyfunction GuildPopupDialog.CheckMessage at 0x07FD4EF8>
+CheckMessage,		<cyfunction GuildPopupDialog.CheckMessage at 0x09532E48>
 	arg0: self
 
 submodule.CheckMessage
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction GuildPopupDialog.Destroy at 0x07FD4FA8>
+Destroy,		<cyfunction GuildPopupDialog.Destroy at 0x09532EF8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetText2,		<cyfunction GuildPopupDialog.SetText2 at 0x07FD9088>
+SetText2,		<cyfunction GuildPopupDialog.SetText2 at 0x09532FA8>
 	arg0: self
 	arg1: text
 
 submodule.SetText2
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetText1,		<cyfunction GuildPopupDialog.SetText1 at 0x07FD9030>
+SetText1,		<cyfunction GuildPopupDialog.SetText1 at 0x09532F50>
 	arg0: self
 	arg1: text
 
 submodule.SetText1
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-Open,		<cyfunction GuildPopupDialog.Open at 0x07FD4EA0>
+Open,		<cyfunction GuildPopupDialog.Open at 0x09532DF0>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-_GuildPopupDialog__OnAcceptEventButton,		<cyfunction GuildPopupDialog.__OnAcceptEventButton at 0x07FD9240>
+_GuildPopupDialog__OnAcceptEventButton,		<cyfunction GuildPopupDialog.__OnAcceptEventButton at 0x09539190>
 	arg0: self
 
 submodule._GuildPopupDialog__OnAcceptEventButton
@@ -83,17 +83,17 @@ __qualname__,		GuildPopupDialog
 submodule.__qualname__
 
 
-__init__,		<cyfunction GuildPopupDialog.__init__ at 0x07FD4D98>
+__init__,		<cyfunction GuildPopupDialog.__init__ at 0x09532CE8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-Close,		<cyfunction GuildPopupDialog.Close at 0x07FD4F50>
+Close,		<cyfunction GuildPopupDialog.Close at 0x09532EA0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetWidth,		<cyfunction GuildPopupDialog.SetWidth at 0x07FD90E0>
+SetWidth,		<cyfunction GuildPopupDialog.SetWidth at 0x09539030>
 	arg0: self
 	arg1: width
 

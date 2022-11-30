@@ -322,6 +322,7 @@
          {'name': 'NEW_AFFECT_SUNGMA_IMMUNE', 'type': 'int', 'value': 626},
          {'name': 'NEW_AFFECT_SUNGMA_MOVE', 'type': 'int', 'value': 625},
          {'name': 'NEW_AFFECT_SUNGMA_STR', 'type': 'int', 'value': 623},
+         {'name': 'NEW_AFFECT_WHITE_DRAGON_CAVE_CURSE', 'type': 'int', 'value': 630},
          {'name': 'NEW_AFFECT_WORLD_BOSS_DAILY_REWARD', 'type': 'int', 'value': 610},
          {'name': 'NEW_AFFECT_WORLD_BOSS_REWARD', 'type': 'int', 'value': 609},
          {'name': 'PART_ACCE', 'type': 'int', 'value': 5},

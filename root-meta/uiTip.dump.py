@@ -10,9 +10,8 @@ key: MissionBoard, val: <class 'uiTip.MissionBoard'>
 key: wndMgr, val: <module 'wndMgr' (built-in)>
 key: __test__, val: {}
 key: __name__, val: uiTip
-key: BigTextBar, val: <class 'uiTip.BigTextBar'>
+key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
-key: TextBar, val: <class 'uiTip.TextBar'>
 
 
 class BigBoard:
@@ -26,19 +25,124 @@ TIP_DURATION,		10.0
 submodule.TIP_DURATION
 
 
-LINE_CHANGE_LIMIT_WIDTH,		350
+_BigBoard__set_pos_y,		<member '_BigBoard__set_pos_y' of 'BigBoard' objects>
+
+submodule._BigBoard__set_pos_y
+
+
+_BigBoard__tip_list,		<member '_BigBoard__tip_list' of 'BigBoard' objects>
+
+submodule._BigBoard__tip_list
+
+
+__module__,		uiTip
+
+submodule.__module__
+
+
+_BigBoard__CleanOldTip,		<cyfunction BigBoard.__CleanOldTip at 0x0997AFA8>
+	arg0: self
+
+submodule._BigBoard__CleanOldTip
+Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
+STEP_HEIGHT,		44
+
+submodule.STEP_HEIGHT
+
+
+_BigBoard__CreateTextBar,		<cyfunction BigBoard.__CreateTextBar at 0x0997AF50>
+	arg0: self
+
+submodule._BigBoard__CreateTextBar
+Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
+_BigBoard__RefreshBoard,		<cyfunction BigBoard.__RefreshBoard at 0x09987030>
+	arg0: self
+
+submodule._BigBoard__RefreshBoard
+Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
+__init__,		<cyfunction BigBoard.__init__ at 0x0997ADF0>
+	arg0: self
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
+OnUpdate,		<cyfunction BigBoard.OnUpdate at 0x09987190>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
+_BigBoard__cur_pos_y,		<member '_BigBoard__cur_pos_y' of 'BigBoard' objects>
+
+submodule._BigBoard__cur_pos_y
+
+
+CLIPPING_MASK_BLANK,		8
+
+submodule.CLIPPING_MASK_BLANK
+
+
+BIGBOARD_WINDOW_SIZE_WIDTH,		512
+
+submodule.BIGBOARD_WINDOW_SIZE_WIDTH
+
+
+BIGBOARD_WINDOW_POS_X,		0
+
+submodule.BIGBOARD_WINDOW_POS_X
+
+
+BIGBOARD_WINDOW_POS_Y,		40
+
+submodule.BIGBOARD_WINDOW_POS_Y
+
+
+_BigBoard__clean_pos_y,		<member '_BigBoard__clean_pos_y' of 'BigBoard' objects>
+
+submodule._BigBoard__clean_pos_y
+
+
+BIGBOARD_WINDOW_SIZE_HEIGHT,		55
+
+submodule.BIGBOARD_WINDOW_SIZE_HEIGHT
+
+
+_BigBoard__big_board_codepage_font,		<member '_BigBoard__big_board_codepage_font' of 'BigBoard' objects>
+
+submodule._BigBoard__big_board_codepage_font
+
+
+_BigBoard__all_text_line_count,		<member '_BigBoard__all_text_line_count' of 'BigBoard' objects>
+
+submodule._BigBoard__all_text_line_count
+
+
+SCROLL_WAIT_TIME_SECOND,		5.0
+
+submodule.SCROLL_WAIT_TIME_SECOND
+
+
+_BigBoard__next_scroll_time,		<member '_BigBoard__next_scroll_time' of 'BigBoard' objects>
+
+submodule._BigBoard__next_scroll_time
+
+
+_BigBoard__text_line,		<member '_BigBoard__text_line' of 'BigBoard' objects>
+
+submodule._BigBoard__text_line
+
+
+LINE_CHANGE_LIMIT_WIDTH,		470
 
 submodule.LINE_CHANGE_LIMIT_WIDTH
 
 
-__del__,		<cyfunction BigBoard.__del__ at 0x084372F0>
+__del__,		<cyfunction BigBoard.__del__ at 0x0997AEF8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
-__module__,		uiTip
+_BigBoard__text_window,		<member '_BigBoard__text_window' of 'BigBoard' objects>
 
-submodule.__module__
+submodule._BigBoard__text_window
 
 
 FRAME_IMAGE_FILE_NAME_LIST,		['d:/ymir work/ui/oxevent/frame_0.sub', 'd:/ymir work/ui/oxevent/frame_1.sub', 'd:/ymir work/ui/oxevent/frame_2.sub']
@@ -46,29 +150,22 @@ FRAME_IMAGE_FILE_NAME_LIST,		['d:/ymir work/ui/oxevent/frame_0.sub', 'd:/ymir wo
 submodule.FRAME_IMAGE_FILE_NAME_LIST
 
 
-_BigBoard__CleanOldTip,		<cyfunction BigBoard.__CleanOldTip at 0x084373A0>
+TEXT_WINDOW_INIT_POS_Y,		18
+
+submodule.TEXT_WINDOW_INIT_POS_Y
+
+
+TEXT_WINDOW_INIT_POS_X,		6
+
+submodule.TEXT_WINDOW_INIT_POS_X
+
+
+RefreshClippingMaskRect,		<cyfunction BigBoard.RefreshClippingMaskRect at 0x09987088>
 	arg0: self
 
-submodule._BigBoard__CleanOldTip
+submodule.RefreshClippingMaskRect
 Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
-STEP_HEIGHT,		46
-
-submodule.STEP_HEIGHT
-
-
-_BigBoard__AppendText,		<cyfunction BigBoard.__AppendText at 0x084374A8>
-	arg0: self
-	arg1: curTime
-	arg2: text
-
-submodule._BigBoard__AppendText
-Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
-_BigBoard__CreateTextBar,		<cyfunction BigBoard.__CreateTextBar at 0x08437348>
-	arg0: self
-
-submodule._BigBoard__CreateTextBar
-Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
-_BigBoard__LoadImage,		<cyfunction BigBoard.__LoadImage at 0x08437298>
+_BigBoard__LoadImage,		<cyfunction BigBoard.__LoadImage at 0x0997AEA0>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -86,53 +183,70 @@ FRAME_BASE_Y,		-12
 submodule.FRAME_BASE_Y
 
 
-_BigBoard__RefreshBoard,		<cyfunction BigBoard.__RefreshBoard at 0x084373F8>
+_BigBoard__AppendText,		<cyfunction BigBoard.__AppendText at 0x09987138>
 	arg0: self
+	arg1: curTime
+	arg2: text
 
-submodule._BigBoard__RefreshBoard
+submodule._BigBoard__AppendText
 Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
-__init__,		<cyfunction BigBoard.__init__ at 0x084371E8>
-	arg0: self
-
-submodule.__init__
-Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction BigBoard.OnUpdate at 0x08437500>
-	arg0: self
-
-submodule.OnUpdate
-Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
-SCROLL_WAIT_TIME,		5.0
-
-submodule.SCROLL_WAIT_TIME
-
-
 FONT_HEIGHT,		18
 
 submodule.FONT_HEIGHT
 
 
-SetTip,		<cyfunction BigBoard.SetTip at 0x08437450>
-	arg0: self
-	arg1: text
+_BigBoard__img_list,		<member '_BigBoard__img_list' of 'BigBoard' objects>
 
-submodule.SetTip
-Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
+submodule._BigBoard__img_list
+
+
 FRAME_IMAGE_STEP,		256
 
 submodule.FRAME_IMAGE_STEP
 
 
-_BigBoard__LoadFrameImages,		<cyfunction BigBoard.__LoadFrameImages at 0x08437240>
+_BigBoard__hide_ui_time__is_first_one_line,		<member '_BigBoard__hide_ui_time__is_first_one_line' of 'BigBoard' objects>
+
+submodule._BigBoard__hide_ui_time__is_first_one_line
+
+
+HIDE_UI_TIME_SECOND,		2
+
+submodule.HIDE_UI_TIME_SECOND
+
+
+_BigBoard__LoadFrameImages,		<cyfunction BigBoard.__LoadFrameImages at 0x0997AE48>
 	arg0: self
 
 submodule._BigBoard__LoadFrameImages
 Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
+__doc__,		None
+
+submodule.__doc__
+
+
 __qualname__,		BigBoard
 
 submodule.__qualname__
 
 
-LINE_HEIGHT,		23
+__slots__,		('__tip_list', '__img_list', '__cur_pos_y', '__dst_pos_y', '__next_scroll_time', '__text_window', '__text_line', '__all_text_line_count', '__set_pos_y', '__clean_pos_y', '__hide_ui_time__is_first_one_line', '__big_board_codepage_font')
+
+submodule.__slots__
+
+
+_BigBoard__dst_pos_y,		<member '_BigBoard__dst_pos_y' of 'BigBoard' objects>
+
+submodule._BigBoard__dst_pos_y
+
+
+SetTip,		<cyfunction BigBoard.SetTip at 0x099870E0>
+	arg0: self
+	arg1: text
+
+submodule.SetTip
+Skipped: unbound method cython_function_or_method object must be called with BigBoard instance as first argument (got nothing instead)
+LINE_HEIGHT,		22
 
 submodule.LINE_HEIGHT
 
@@ -140,11 +254,6 @@ submodule.LINE_HEIGHT
 FONT_WIDTH,		18
 
 submodule.FONT_WIDTH
-
-
-__doc__,		None
-
-submodule.__doc__
 
 
 
@@ -165,7 +274,12 @@ LINE_CHANGE_LIMIT_WIDTH,		450
 submodule.LINE_CHANGE_LIMIT_WIDTH
 
 
-__del__,		<cyfunction BigBoardControl.__del__ at 0x08437660>
+_BigBoardControl__text_line,		<member '_BigBoardControl__text_line' of 'BigBoardControl' objects>
+
+submodule._BigBoardControl__text_line
+
+
+__del__,		<cyfunction BigBoardControl.__del__ at 0x099872F0>
 	arg0: self
 
 submodule.__del__
@@ -175,12 +289,12 @@ FRAME_IMAGE_FILE_NAME_LIST,		['d:/ymir work/ui/oxevent/frame_new_0.sub', 'd:/ymi
 submodule.FRAME_IMAGE_FILE_NAME_LIST
 
 
-_BigBoardControl__CreateTextBar,		<cyfunction BigBoardControl.__CreateTextBar at 0x084376B8>
+_BigBoardControl__CreateTextBar,		<cyfunction BigBoardControl.__CreateTextBar at 0x09987348>
 	arg0: self
 
 submodule._BigBoardControl__CreateTextBar
 Skipped: unbound method cython_function_or_method object must be called with BigBoardControl instance as first argument (got nothing instead)
-_BigBoardControl__RefreshBoard,		<cyfunction BigBoardControl.__RefreshBoard at 0x08437818>
+_BigBoardControl__RefreshBoard,		<cyfunction BigBoardControl.__RefreshBoard at 0x099874A8>
 	arg0: self
 
 submodule._BigBoardControl__RefreshBoard
@@ -190,6 +304,11 @@ FRAME_BASE_X,		-20
 submodule.FRAME_BASE_X
 
 
+RefreshClippingMaskRect,		<cyfunction BigBoardControl.RefreshClippingMaskRect at 0x09987500>
+	arg0: self
+
+submodule.RefreshClippingMaskRect
+Skipped: unbound method cython_function_or_method object must be called with BigBoardControl instance as first argument (got nothing instead)
 STEP_HEIGHT,		46
 
 submodule.STEP_HEIGHT
@@ -205,12 +324,12 @@ FRAME_BASE_Y,		-12
 submodule.FRAME_BASE_Y
 
 
-__init__,		<cyfunction BigBoardControl.__init__ at 0x08437558>
+__init__,		<cyfunction BigBoardControl.__init__ at 0x099871E8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with BigBoardControl instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction BigBoardControl.OnUpdate at 0x08437920>
+OnUpdate,		<cyfunction BigBoardControl.OnUpdate at 0x09987608>
 	arg0: self
 
 submodule.OnUpdate
@@ -220,12 +339,12 @@ FONT_HEIGHT,		18
 submodule.FONT_HEIGHT
 
 
-_BigBoardControl__CleanOldTip,		<cyfunction BigBoardControl.__CleanOldTip at 0x084377C0>
+_BigBoardControl__CleanOldTip,		<cyfunction BigBoardControl.__CleanOldTip at 0x09987450>
 	arg0: self
 
 submodule._BigBoardControl__CleanOldTip
 Skipped: unbound method cython_function_or_method object must be called with BigBoardControl instance as first argument (got nothing instead)
-SetTip,		<cyfunction BigBoardControl.SetTip at 0x08437870>
+SetTip,		<cyfunction BigBoardControl.SetTip at 0x09987558>
 	arg0: self
 	arg1: text
 
@@ -236,12 +355,22 @@ FRAME_IMAGE_STEP,		256
 submodule.FRAME_IMAGE_STEP
 
 
+_BigBoardControl__text_window,		<member '_BigBoardControl__text_window' of 'BigBoardControl' objects>
+
+submodule._BigBoardControl__text_window
+
+
+__slots__,		('__text_window', '__text_line')
+
+submodule.__slots__
+
+
 __qualname__,		BigBoardControl
 
 submodule.__qualname__
 
 
-_BigBoardControl__LoadImage,		<cyfunction BigBoardControl.__LoadImage at 0x08437608>
+_BigBoardControl__LoadImage,		<cyfunction BigBoardControl.__LoadImage at 0x09987298>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -249,17 +378,17 @@ _BigBoardControl__LoadImage,		<cyfunction BigBoardControl.__LoadImage at 0x08437
 
 submodule._BigBoardControl__LoadImage
 Skipped: unbound method cython_function_or_method object must be called with BigBoardControl instance as first argument (got nothing instead)
-_BigBoardControl__CreateExitButton,		<cyfunction BigBoardControl.__CreateExitButton at 0x08437710>
+_BigBoardControl__CreateExitButton,		<cyfunction BigBoardControl.__CreateExitButton at 0x099873A0>
 	arg0: self
 
 submodule._BigBoardControl__CreateExitButton
 Skipped: unbound method cython_function_or_method object must be called with BigBoardControl instance as first argument (got nothing instead)
-_BigBoardControl__LoadFrameImages,		<cyfunction BigBoardControl.__LoadFrameImages at 0x084375B0>
+_BigBoardControl__LoadFrameImages,		<cyfunction BigBoardControl.__LoadFrameImages at 0x09987240>
 	arg0: self
 
 submodule._BigBoardControl__LoadFrameImages
 Skipped: unbound method cython_function_or_method object must be called with BigBoardControl instance as first argument (got nothing instead)
-Close,		<cyfunction BigBoardControl.Close at 0x08437768>
+Close,		<cyfunction BigBoardControl.Close at 0x099873F8>
 	arg0: self
 
 submodule.Close
@@ -279,7 +408,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_BigBoardControl__AppendText,		<cyfunction BigBoardControl.__AppendText at 0x084378C8>
+_BigBoardControl__AppendText,		<cyfunction BigBoardControl.__AppendText at 0x099875B0>
 	arg0: self
 	arg1: text
 
@@ -288,7 +417,7 @@ Skipped: unbound method cython_function_or_method object must be called with Big
 
 
 class TipBoard:
-OnUpdate,		<cyfunction TipBoard.OnUpdate at 0x084370E0>
+OnUpdate,		<cyfunction TipBoard.OnUpdate at 0x0997AD98>
 	arg0: self
 
 submodule.OnUpdate
@@ -303,22 +432,22 @@ SCROLL_WAIT_TIME,		3.0
 submodule.SCROLL_WAIT_TIME
 
 
-_TipBoard__CreateTextBar,		<cyfunction TipBoard.__CreateTextBar at 0x08432F50>
+_TipBoard__CreateTextBar,		<cyfunction TipBoard.__CreateTextBar at 0x0997ABE0>
 	arg0: self
 
 submodule._TipBoard__CreateTextBar
 Skipped: unbound method cython_function_or_method object must be called with TipBoard instance as first argument (got nothing instead)
-_TipBoard__CleanOldTip,		<cyfunction TipBoard.__CleanOldTip at 0x08432FA8>
+_TipBoard__CleanOldTip,		<cyfunction TipBoard.__CleanOldTip at 0x0997AC38>
 	arg0: self
 
 submodule._TipBoard__CleanOldTip
 Skipped: unbound method cython_function_or_method object must be called with TipBoard instance as first argument (got nothing instead)
-__del__,		<cyfunction TipBoard.__del__ at 0x08432EF8>
+__del__,		<cyfunction TipBoard.__del__ at 0x0997AB88>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with TipBoard instance as first argument (got nothing instead)
-SetTip,		<cyfunction TipBoard.SetTip at 0x08437088>
+SetTip,		<cyfunction TipBoard.SetTip at 0x0997AD40>
 	arg0: self
 	arg1: text
 
@@ -334,36 +463,56 @@ __qualname__,		TipBoard
 submodule.__qualname__
 
 
+RefreshClippingMaskRect,		<cyfunction TipBoard.RefreshClippingMaskRect at 0x0997ACE8>
+	arg0: self
+
+submodule.RefreshClippingMaskRect
+Skipped: unbound method cython_function_or_method object must be called with TipBoard instance as first argument (got nothing instead)
 STEP_HEIGHT,		17
 
 submodule.STEP_HEIGHT
 
 
-_TipBoard__RefreshBoard,		<cyfunction TipBoard.__RefreshBoard at 0x08437030>
+_TipBoard__RefreshBoard,		<cyfunction TipBoard.__RefreshBoard at 0x0997AC90>
 	arg0: self
 
 submodule._TipBoard__RefreshBoard
 Skipped: unbound method cython_function_or_method object must be called with TipBoard instance as first argument (got nothing instead)
+_TipBoard__text_line,		<member '_TipBoard__text_line' of 'TipBoard' objects>
+
+submodule._TipBoard__text_line
+
+
+__slots__,		('__text_window', '__text_line')
+
+submodule.__slots__
+
+
 __doc__,		None
 
 submodule.__doc__
 
 
-__init__,		<cyfunction TipBoard.__init__ at 0x08432EA0>
+__init__,		<cyfunction TipBoard.__init__ at 0x0997AB30>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with TipBoard instance as first argument (got nothing instead)
+_TipBoard__text_window,		<member '_TipBoard__text_window' of 'TipBoard' objects>
+
+submodule._TipBoard__text_window
+
+
 
 
 class MissionBoard:
-SetMission,		<cyfunction MissionBoard.SetMission at 0x08437B30>
+SetMission,		<cyfunction MissionBoard.SetMission at 0x09987870>
 	arg0: self
 	arg1: text
 
 submodule.SetMission
 Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
-SetSubMission,		<cyfunction MissionBoard.SetSubMission at 0x08437B88>
+SetSubMission,		<cyfunction MissionBoard.SetSubMission at 0x099878C8>
 	arg0: self
 	arg1: text
 
@@ -374,47 +523,57 @@ __module__,		uiTip
 submodule.__module__
 
 
-CleanMission,		<cyfunction MissionBoard.CleanMission at 0x08437A80>
+CleanMission,		<cyfunction MissionBoard.CleanMission at 0x09987768>
 	arg0: self
 
 submodule.CleanMission
 Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
-__del__,		<cyfunction MissionBoard.__del__ at 0x084379D0>
+__del__,		<cyfunction MissionBoard.__del__ at 0x099876B8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
-_MissionBoard__RefreshBoard,		<cyfunction MissionBoard.__RefreshBoard at 0x08437AD8>
+_MissionBoard__RefreshBoard,		<cyfunction MissionBoard.__RefreshBoard at 0x099877C0>
 	arg0: self
 
 submodule._MissionBoard__RefreshBoard
 Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
-_MissionBoard__CreateTextBar,		<cyfunction MissionBoard.__CreateTextBar at 0x08437A28>
+_MissionBoard__CreateTextBar,		<cyfunction MissionBoard.__CreateTextBar at 0x09987710>
 	arg0: self
 
 submodule._MissionBoard__CreateTextBar
+Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
+RefreshClippingMaskRect,		<cyfunction MissionBoard.RefreshClippingMaskRect at 0x09987818>
+	arg0: self
+
+submodule.RefreshClippingMaskRect
 Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
 STEP_HEIGHT,		25
 
 submodule.STEP_HEIGHT
 
 
-_MissionBoard__AppendText,		<cyfunction MissionBoard.__AppendText at 0x08437BE0>
+_MissionBoard__AppendText,		<cyfunction MissionBoard.__AppendText at 0x09987920>
 	arg0: self
 	arg1: text
 
 submodule._MissionBoard__AppendText
 Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
-__init__,		<cyfunction MissionBoard.__init__ at 0x08437978>
+__init__,		<cyfunction MissionBoard.__init__ at 0x09987660>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MissionBoard.OnUpdate at 0x08437C38>
+OnUpdate,		<cyfunction MissionBoard.OnUpdate at 0x09987978>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with MissionBoard instance as first argument (got nothing instead)
+_MissionBoard__text_line,		<member '_MissionBoard__text_line' of 'MissionBoard' objects>
+
+submodule._MissionBoard__text_line
+
+
 FONT_HEIGHT,		15
 
 submodule.FONT_HEIGHT
@@ -435,6 +594,16 @@ __qualname__,		MissionBoard
 submodule.__qualname__
 
 
+__slots__,		('__text_window', '__text_line')
+
+submodule.__slots__
+
+
+_MissionBoard__text_window,		<member '_MissionBoard__text_window' of 'MissionBoard' objects>
+
+submodule._MissionBoard__text_window
+
+
 LINE_HEIGHT,		20
 
 submodule.LINE_HEIGHT
@@ -445,107 +614,5 @@ LONG_TEXT_START_X,		300
 submodule.LONG_TEXT_START_X
 
 
-
-
-class BigTextBar:
-__del__,		<cyfunction BigTextBar.__del__ at 0x08437190>
-	arg0: self
-
-submodule.__del__
-Skipped: unbound method cython_function_or_method object must be called with BigTextBar instance as first argument (got nothing instead)
-__qualname__,		BigTextBar
-
-submodule.__qualname__
-
-
-__module__,		uiTip
-
-submodule.__module__
-
-
-__doc__,		None
-
-submodule.__doc__
-
-
-__init__,		<cyfunction BigTextBar.__init__ at 0x08437138>
-	arg0: self
-	arg1: width
-	arg2: height
-	arg3: fontSize
-
-submodule.__init__
-Skipped: unbound method cython_function_or_method object must be called with BigTextBar instance as first argument (got nothing instead)
-
-
-class TextBar:
-__module__,		uiTip
-
-submodule.__module__
-
-
-OnRender,		<cyfunction TextBar.OnRender at 0x08432D98>
-	arg0: self
-
-submodule.OnRender
-Skipped: unbound method cython_function_or_method object must be called with TextBar instance as first argument (got nothing instead)
-SetClipRect,		<cyfunction TextBar.SetClipRect at 0x08432CE8>
-	arg0: self
-	arg1: x1
-	arg2: y1
-	arg3: x2
-	arg4: y2
-
-submodule.SetClipRect
-Skipped: unbound method cython_function_or_method object must be called with TextBar instance as first argument (got nothing instead)
-__del__,		<cyfunction TextBar.__del__ at 0x08432C38>
-	arg0: self
-
-submodule.__del__
-Skipped: unbound method cython_function_or_method object must be called with TextBar instance as first argument (got nothing instead)
-ClearBar,		<cyfunction TextBar.ClearBar at 0x08432C90>
-	arg0: self
-
-submodule.ClearBar
-Skipped: unbound method cython_function_or_method object must be called with TextBar instance as first argument (got nothing instead)
-__qualname__,		TextBar
-
-submodule.__qualname__
-
-
-TextOut,		<cyfunction TextBar.TextOut at 0x08432D40>
-	arg0: self
-	arg1: x
-	arg2: y
-	arg3: text
-
-submodule.TextOut
-Skipped: unbound method cython_function_or_method object must be called with TextBar instance as first argument (got nothing instead)
-SetTextColor,		<cyfunction TextBar.SetTextColor at 0x08432DF0>
-	arg0: self
-	arg1: r
-	arg2: g
-	arg3: b
-
-submodule.SetTextColor
-Skipped: unbound method cython_function_or_method object must be called with TextBar instance as first argument (got nothing instead)
-GetTextExtent,		<cyfunction TextBar.GetTextExtent at 0x08432E48>
-	arg0: self
-	arg1: text
-
-submodule.GetTextExtent
-Skipped: unbound method cython_function_or_method object must be called with TextBar instance as first argument (got nothing instead)
-__doc__,		None
-
-submodule.__doc__
-
-
-__init__,		<cyfunction TextBar.__init__ at 0x08432BE0>
-	arg0: self
-	arg1: width
-	arg2: height
-
-submodule.__init__
-Skipped: unbound method cython_function_or_method object must be called with TextBar instance as first argument (got nothing instead)
 
 

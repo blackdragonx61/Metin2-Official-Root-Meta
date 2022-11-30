@@ -52,19 +52,19 @@ __module__,		uiMiniGame
 submodule.__module__
 
 
-SetItemToolTip,		<cyfunction InGameRewardDialog.SetItemToolTip at 0x1A0F3978>
+SetItemToolTip,		<cyfunction InGameRewardDialog.SetItemToolTip at 0x09A036B8>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with InGameRewardDialog instance as first argument (got nothing instead)
-_InGameRewardDialog__SlotOverInItem,		<cyfunction InGameRewardDialog.__SlotOverInItem at 0x1A0F39D0>
+_InGameRewardDialog__SlotOverInItem,		<cyfunction InGameRewardDialog.__SlotOverInItem at 0x09A03710>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InGameRewardDialog__SlotOverInItem
 Skipped: unbound method cython_function_or_method object must be called with InGameRewardDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction InGameRewardDialog.__del__ at 0x1A0F3870>
+__del__,		<cyfunction InGameRewardDialog.__del__ at 0x09A035B0>
 	arg0: self
 
 submodule.__del__
@@ -74,17 +74,17 @@ __qualname__,		InGameRewardDialog
 submodule.__qualname__
 
 
-_InGameRewardDialog__SlotOverOutItem,		<cyfunction InGameRewardDialog.__SlotOverOutItem at 0x1A0F3A28>
+_InGameRewardDialog__SlotOverOutItem,		<cyfunction InGameRewardDialog.__SlotOverOutItem at 0x09A03768>
 	arg0: self
 
 submodule._InGameRewardDialog__SlotOverOutItem
 Skipped: unbound method cython_function_or_method object must be called with InGameRewardDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction InGameRewardDialog.Destroy at 0x1A0F38C8>
+Destroy,		<cyfunction InGameRewardDialog.Destroy at 0x09A03608>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with InGameRewardDialog instance as first argument (got nothing instead)
-_InGameRewardDialog__LoadWindow,		<cyfunction InGameRewardDialog.__LoadWindow at 0x1A0F3920>
+_InGameRewardDialog__LoadWindow,		<cyfunction InGameRewardDialog.__LoadWindow at 0x09A03660>
 	arg0: self
 	arg1: eventname
 	arg2: eventfunc
@@ -103,7 +103,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction InGameRewardDialog.__init__ at 0x1A0F3818>
+__init__,		<cyfunction InGameRewardDialog.__init__ at 0x09A03558>
 	arg0: self
 	arg1: parent
 	arg2: eventname
@@ -121,7 +121,7 @@ Skipped: unbound method cython_function_or_method object must be called with InG
 
 
 class MiniGameDialog:
-RefreshDialog,		<cyfunction MiniGameDialog.RefreshDialog at 0x1A0F7450>
+RefreshDialog,		<cyfunction MiniGameDialog.RefreshDialog at 0x09A06190>
 	arg0: self
 
 submodule.RefreshDialog
@@ -131,22 +131,22 @@ __module__,		uiMiniGame
 submodule.__module__
 
 
-_MiniGameDialog__LoadWindow,		<cyfunction MiniGameDialog.__LoadWindow at 0x1A0F72F0>
+_MiniGameDialog__LoadWindow,		<cyfunction MiniGameDialog.__LoadWindow at 0x09A06030>
 	arg0: self
 
 submodule._MiniGameDialog__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameDialog instance as first argument (got nothing instead)
-Show,		<cyfunction MiniGameDialog.Show at 0x1A0F71E8>
+Show,		<cyfunction MiniGameDialog.Show at 0x09A03EF8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniGameDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameDialog.__del__ at 0x1A0F7138>
+__del__,		<cyfunction MiniGameDialog.__del__ at 0x09A03E48>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameDialog instance as first argument (got nothing instead)
-DeleteButton,		<cyfunction MiniGameDialog.DeleteButton at 0x1A0F73A0>
+DeleteButton,		<cyfunction MiniGameDialog.DeleteButton at 0x09A060E0>
 	arg0: self
 	arg1: name
 
@@ -157,24 +157,24 @@ __qualname__,		MiniGameDialog
 submodule.__qualname__
 
 
-AppendButton,		<cyfunction MiniGameDialog.AppendButton at 0x1A0F7348>
+AppendButton,		<cyfunction MiniGameDialog.AppendButton at 0x09A06088>
 	arg0: self
 	arg1: name
 	arg2: func
 
 submodule.AppendButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MiniGameDialog.OnPressEscapeKey at 0x1A0F7298>
+OnPressEscapeKey,		<cyfunction MiniGameDialog.OnPressEscapeKey at 0x09A03FA8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MiniGameDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniGameDialog.Destroy at 0x1A0F7190>
+Destroy,		<cyfunction MiniGameDialog.Destroy at 0x09A03EA0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MiniGameDialog instance as first argument (got nothing instead)
-Close,		<cyfunction MiniGameDialog.Close at 0x1A0F7240>
+Close,		<cyfunction MiniGameDialog.Close at 0x09A03F50>
 	arg0: self
 
 submodule.Close
@@ -184,12 +184,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MiniGameDialog.__init__ at 0x1A0F70E0>
+__init__,		<cyfunction MiniGameDialog.__init__ at 0x09A03DF0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameDialog instance as first argument (got nothing instead)
-DeleteAllButton,		<cyfunction MiniGameDialog.DeleteAllButton at 0x1A0F73F8>
+DeleteAllButton,		<cyfunction MiniGameDialog.DeleteAllButton at 0x09A06138>
 	arg0: self
 
 submodule.DeleteAllButton
@@ -202,81 +202,81 @@ __module__,		uiMiniGame
 submodule.__module__
 
 
-__del__,		<cyfunction InGameEventDialog.__del__ at 0x1A0F3AD8>
+__del__,		<cyfunction InGameEventDialog.__del__ at 0x09A03818>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-_InGameEventDialog__RefreshEventRewardListYPosition,		<cyfunction InGameEventDialog.__RefreshEventRewardListYPosition at 0x1A0F3F50>
+_InGameEventDialog__RefreshEventRewardListYPosition,		<cyfunction InGameEventDialog.__RefreshEventRewardListYPosition at 0x09A03C90>
 	arg0: self
 	arg1: index
 	arg2: rewarddialog
 
 submodule._InGameEventDialog__RefreshEventRewardListYPosition
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-RefreshDialog,		<cyfunction InGameEventDialog.RefreshDialog at 0x1A0F3D98>
+RefreshDialog,		<cyfunction InGameEventDialog.RefreshDialog at 0x09A03AD8>
 	arg0: self
 
 submodule.RefreshDialog
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-_InGameEventDialog__LoadWindow,		<cyfunction InGameEventDialog.__LoadWindow at 0x1A0F3C90>
+_InGameEventDialog__LoadWindow,		<cyfunction InGameEventDialog.__LoadWindow at 0x09A039D0>
 	arg0: self
 
 submodule._InGameEventDialog__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction InGameEventDialog.OnPressEscapeKey at 0x1A0F3C38>
+OnPressEscapeKey,		<cyfunction InGameEventDialog.OnPressEscapeKey at 0x09A03978>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction InGameEventDialog.Destroy at 0x1A0F3B30>
+Destroy,		<cyfunction InGameEventDialog.Destroy at 0x09A03870>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction InGameEventDialog.OnMouseWheelButtonUp at 0x1A0F3E48>
+OnMouseWheelButtonUp,		<cyfunction InGameEventDialog.OnMouseWheelButtonUp at 0x09A03B88>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction InGameEventDialog.__init__ at 0x1A0F3A80>
+__init__,		<cyfunction InGameEventDialog.__init__ at 0x09A037C0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-BindInterface,		<cyfunction InGameEventDialog.BindInterface at 0x1A0F7088>
+BindInterface,		<cyfunction InGameEventDialog.BindInterface at 0x09A03D98>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-_InGameEventDialog__OnScrollEventList,		<cyfunction InGameEventDialog.__OnScrollEventList at 0x1A0F3DF0>
+_InGameEventDialog__OnScrollEventList,		<cyfunction InGameEventDialog.__OnScrollEventList at 0x09A03B30>
 	arg0: self
 
 submodule._InGameEventDialog__OnScrollEventList
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction InGameEventDialog.SetItemToolTip at 0x1A0F3FA8>
+SetItemToolTip,		<cyfunction InGameEventDialog.SetItemToolTip at 0x09A03CE8>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-DeleteAllButton,		<cyfunction InGameEventDialog.DeleteAllButton at 0x1A0F3D40>
+DeleteAllButton,		<cyfunction InGameEventDialog.DeleteAllButton at 0x09A03A80>
 	arg0: self
 
 submodule.DeleteAllButton
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-Show,		<cyfunction InGameEventDialog.Show at 0x1A0F3B88>
+Show,		<cyfunction InGameEventDialog.Show at 0x09A038C8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-ClickCalendarButton,		<cyfunction InGameEventDialog.ClickCalendarButton at 0x1A0F7030>
+ClickCalendarButton,		<cyfunction InGameEventDialog.ClickCalendarButton at 0x09A03D40>
 	arg0: self
 
 submodule.ClickCalendarButton
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-_InGameEventDialog__RefreshEventRewardDict,		<cyfunction InGameEventDialog.__RefreshEventRewardDict at 0x1A0F3EF8>
+_InGameEventDialog__RefreshEventRewardDict,		<cyfunction InGameEventDialog.__RefreshEventRewardDict at 0x09A03C38>
 	arg0: self
 
 submodule._InGameEventDialog__RefreshEventRewardDict
@@ -286,7 +286,7 @@ __qualname__,		InGameEventDialog
 submodule.__qualname__
 
 
-AppendButton,		<cyfunction InGameEventDialog.AppendButton at 0x1A0F3CE8>
+AppendButton,		<cyfunction InGameEventDialog.AppendButton at 0x09A03A28>
 	arg0: self
 	arg1: name
 	arg2: func
@@ -301,7 +301,7 @@ AppendButton,		<cyfunction InGameEventDialog.AppendButton at 0x1A0F3CE8>
 
 submodule.AppendButton
 Skipped: unbound method cython_function_or_method object must be called with InGameEventDialog instance as first argument (got nothing instead)
-Close,		<cyfunction InGameEventDialog.Close at 0x1A0F3BE0>
+Close,		<cyfunction InGameEventDialog.Close at 0x09A03920>
 	arg0: self
 
 submodule.Close
@@ -311,7 +311,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseWheelButtonDown,		<cyfunction InGameEventDialog.OnMouseWheelButtonDown at 0x1A0F3EA0>
+OnMouseWheelButtonDown,		<cyfunction InGameEventDialog.OnMouseWheelButtonDown at 0x09A03BE0>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
@@ -319,7 +319,7 @@ Skipped: unbound method cython_function_or_method object must be called with InG
 
 
 class MiniGameWindow:
-BattleRoyaleProcess,		<cyfunction MiniGameWindow.BattleRoyaleProcess at 0x1A0F8450>
+BattleRoyaleProcess,		<cyfunction MiniGameWindow.BattleRoyaleProcess at 0x09A07190>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -327,7 +327,7 @@ BattleRoyaleProcess,		<cyfunction MiniGameWindow.BattleRoyaleProcess at 0x1A0F84
 
 submodule.BattleRoyaleProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-RumiMoveCard,		<cyfunction MiniGameWindow.RumiMoveCard at 0x1A0F7920>
+RumiMoveCard,		<cyfunction MiniGameWindow.RumiMoveCard at 0x09A06660>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
@@ -339,17 +339,17 @@ __module__,		uiMiniGame
 submodule.__module__
 
 
-MiniGameAttendanceRequestRewardList,		<cyfunction MiniGameWindow.MiniGameAttendanceRequestRewardList at 0x1A0F7B30>
+MiniGameAttendanceRequestRewardList,		<cyfunction MiniGameWindow.MiniGameAttendanceRequestRewardList at 0x09A06870>
 	arg0: self
 
 submodule.MiniGameAttendanceRequestRewardList
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-Hide,		<cyfunction MiniGameWindow.Hide at 0x1A0F7608>
+Hide,		<cyfunction MiniGameWindow.Hide at 0x09A06348>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-WorldBossProcess,		<cyfunction MiniGameWindow.WorldBossProcess at 0x1A0F8558>
+WorldBossProcess,		<cyfunction MiniGameWindow.WorldBossProcess at 0x09A07298>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -357,34 +357,34 @@ WorldBossProcess,		<cyfunction MiniGameWindow.WorldBossProcess at 0x1A0F8558>
 
 submodule.WorldBossProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__LoadScript,		<cyfunction MiniGameWindow.__LoadScript at 0x1A0F7768>
+_MiniGameWindow__LoadScript,		<cyfunction MiniGameWindow.__LoadScript at 0x09A064A8>
 	arg0: self
 	arg1: fileName
 
 submodule._MiniGameWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-CheckRemoveEventWindow,		<cyfunction MiniGameWindow.CheckRemoveEventWindow at 0x1A0F8500>
+CheckRemoveEventWindow,		<cyfunction MiniGameWindow.CheckRemoveEventWindow at 0x09A07240>
 	arg0: self
 	arg1: name
 
 submodule.CheckRemoveEventWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickBattleRoyaleButton,		<cyfunction MiniGameWindow.__ClickBattleRoyaleButton at 0x1A0F84A8>
+_MiniGameWindow__ClickBattleRoyaleButton,		<cyfunction MiniGameWindow.__ClickBattleRoyaleButton at 0x09A071E8>
 	arg0: self
 
 submodule._MiniGameWindow__ClickBattleRoyaleButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-SetOkeyNormalBG,		<cyfunction MiniGameWindow.SetOkeyNormalBG at 0x1A0F7C90>
+SetOkeyNormalBG,		<cyfunction MiniGameWindow.SetOkeyNormalBG at 0x09A069D0>
 	arg0: self
 
 submodule.SetOkeyNormalBG
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniGameWindow.Destroy at 0x1A0F7660>
+Destroy,		<cyfunction MiniGameWindow.Destroy at 0x09A063A0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-BNWProcess,		<cyfunction MiniGameWindow.BNWProcess at 0x1A0F83F8>
+BNWProcess,		<cyfunction MiniGameWindow.BNWProcess at 0x09A07138>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -392,12 +392,12 @@ BNWProcess,		<cyfunction MiniGameWindow.BNWProcess at 0x1A0F83F8>
 
 submodule.BNWProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniGameWindow.__init__ at 0x1A0F74A8>
+__init__,		<cyfunction MiniGameWindow.__init__ at 0x09A061E8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-RouletteProcess,		<cyfunction MiniGameWindow.RouletteProcess at 0x1A0F8348>
+RouletteProcess,		<cyfunction MiniGameWindow.RouletteProcess at 0x09A07088>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -409,22 +409,22 @@ __qualname__,		MiniGameWindow
 submodule.__qualname__
 
 
-_MiniGameWindow__ClickMiniBossButton,		<cyfunction MiniGameWindow.__ClickMiniBossButton at 0x1A0F8240>
+_MiniGameWindow__ClickMiniBossButton,		<cyfunction MiniGameWindow.__ClickMiniBossButton at 0x09A06F50>
 	arg0: self
 
 submodule._MiniGameWindow__ClickMiniBossButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameEnd,		<cyfunction MiniGameWindow.MiniGameEnd at 0x1A0F78C8>
+MiniGameEnd,		<cyfunction MiniGameWindow.MiniGameEnd at 0x09A06608>
 	arg0: self
 
 submodule.MiniGameEnd
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-hide_mini_game_dialog,		<cyfunction MiniGameWindow.hide_mini_game_dialog at 0x1A0F8190>
+hide_mini_game_dialog,		<cyfunction MiniGameWindow.hide_mini_game_dialog at 0x09A06EA0>
 	arg0: self
 
 submodule.hide_mini_game_dialog
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameFishUse,		<cyfunction MiniGameWindow.MiniGameFishUse at 0x1A0F7E48>
+MiniGameFishUse,		<cyfunction MiniGameWindow.MiniGameFishUse at 0x09A06B88>
 	arg0: self
 	arg1: window
 	arg2: pos
@@ -432,104 +432,104 @@ MiniGameFishUse,		<cyfunction MiniGameWindow.MiniGameFishUse at 0x1A0F7E48>
 
 submodule.MiniGameFishUse
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-ShowInGameEvent,		<cyfunction MiniGameWindow.ShowInGameEvent at 0x1A0F7B88>
+ShowInGameEvent,		<cyfunction MiniGameWindow.ShowInGameEvent at 0x09A068C8>
 	arg0: self
 
 submodule.ShowInGameEvent
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-Close,		<cyfunction MiniGameWindow.Close at 0x1A0F75B0>
+Close,		<cyfunction MiniGameWindow.Close at 0x09A062F0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickAttendanceButton,		<cyfunction MiniGameWindow.__ClickAttendanceButton at 0x1A0F7A80>
+_MiniGameWindow__ClickAttendanceButton,		<cyfunction MiniGameWindow.__ClickAttendanceButton at 0x09A067C0>
 	arg0: self
 
 submodule._MiniGameWindow__ClickAttendanceButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-CatchKingProcess,		<cyfunction MiniGameWindow.CatchKingProcess at 0x1A0F8138>
+CatchKingProcess,		<cyfunction MiniGameWindow.CatchKingProcess at 0x09A06E48>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.CatchKingProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-RefresInGameEvent,		<cyfunction MiniGameWindow.RefresInGameEvent at 0x1A0F7BE0>
+RefresInGameEvent,		<cyfunction MiniGameWindow.RefresInGameEvent at 0x09A06920>
 	arg0: self
 	arg1: IsRefresh
 
 submodule.RefresInGameEvent
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-GetMiniBossDungeon,		<cyfunction MiniGameWindow.GetMiniBossDungeon at 0x1A0F8298>
+GetMiniBossDungeon,		<cyfunction MiniGameWindow.GetMiniBossDungeon at 0x09A06FA8>
 	arg0: self
 
 submodule.GetMiniBossDungeon
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameAttendanceSetData,		<cyfunction MiniGameWindow.MiniGameAttendanceSetData at 0x1A0F7AD8>
+MiniGameAttendanceSetData,		<cyfunction MiniGameWindow.MiniGameAttendanceSetData at 0x09A06818>
 	arg0: self
 	arg1: type
 	arg2: value
 
 submodule.MiniGameAttendanceSetData
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameFishAdd,		<cyfunction MiniGameWindow.MiniGameFishAdd at 0x1A0F7EA0>
+MiniGameFishAdd,		<cyfunction MiniGameWindow.MiniGameFishAdd at 0x09A06BE0>
 	arg0: self
 	arg1: pos
 	arg2: shape
 
 submodule.MiniGameFishAdd
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameFishReward,		<cyfunction MiniGameWindow.MiniGameFishReward at 0x1A0F7EF8>
+MiniGameFishReward,		<cyfunction MiniGameWindow.MiniGameFishReward at 0x09A06C38>
 	arg0: self
 	arg1: vnum
 
 submodule.MiniGameFishReward
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-RumiIncreaseScore,		<cyfunction MiniGameWindow.RumiIncreaseScore at 0x1A0F79D0>
+RumiIncreaseScore,		<cyfunction MiniGameWindow.RumiIncreaseScore at 0x09A06710>
 	arg0: self
 	arg1: score
 	arg2: total_score
 
 submodule.RumiIncreaseScore
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-OnGameOver,		<cyfunction MiniGameWindow.OnGameOver at 0x1A0F82F0>
+OnGameOver,		<cyfunction MiniGameWindow.OnGameOver at 0x09A07030>
 	arg0: self
 
 submodule.OnGameOver
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickMonsterBackButton,		<cyfunction MiniGameWindow.__ClickMonsterBackButton at 0x1A0F7FA8>
+_MiniGameWindow__ClickMonsterBackButton,		<cyfunction MiniGameWindow.__ClickMonsterBackButton at 0x09A06CE8>
 	arg0: self
 
 submodule._MiniGameWindow__ClickMonsterBackButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameFishCount,		<cyfunction MiniGameWindow.MiniGameFishCount at 0x1A0F7F50>
+MiniGameFishCount,		<cyfunction MiniGameWindow.MiniGameFishCount at 0x09A06C90>
 	arg0: self
 	arg1: count
 
 submodule.MiniGameFishCount
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameWindow.__del__ at 0x1A0F7500>
+__del__,		<cyfunction MiniGameWindow.__del__ at 0x09A06240>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickMiniGameBNW,		<cyfunction MiniGameWindow.__ClickMiniGameBNW at 0x1A0F83A0>
+_MiniGameWindow__ClickMiniGameBNW,		<cyfunction MiniGameWindow.__ClickMiniGameBNW at 0x09A070E0>
 	arg0: self
 
 submodule._MiniGameWindow__ClickMiniGameBNW
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-CantFishEventSlot,		<cyfunction MiniGameWindow.CantFishEventSlot at 0x1A0F7D98>
+CantFishEventSlot,		<cyfunction MiniGameWindow.CantFishEventSlot at 0x09A06AD8>
 	arg0: self
 	arg1: InvenSlot
 
 submodule.CantFishEventSlot
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickRumiButton,		<cyfunction MiniGameWindow.__ClickRumiButton at 0x1A0F7818>
+_MiniGameWindow__ClickRumiButton,		<cyfunction MiniGameWindow.__ClickRumiButton at 0x09A06558>
 	arg0: self
 
 submodule._MiniGameWindow__ClickRumiButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-FlowerEventProcess,		<cyfunction MiniGameWindow.FlowerEventProcess at 0x1A0F8608>
+FlowerEventProcess,		<cyfunction MiniGameWindow.FlowerEventProcess at 0x09A07348>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -542,97 +542,97 @@ __doc__,		None
 submodule.__doc__
 
 
-_MiniGameWindow__CloseAll,		<cyfunction MiniGameWindow.__CloseAll at 0x1A0F7C38>
+_MiniGameWindow__CloseAll,		<cyfunction MiniGameWindow.__CloseAll at 0x09A06978>
 	arg0: self
 	arg1: except_game
 	default: 11
 
 submodule._MiniGameWindow__CloseAll
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickCatchKingButton,		<cyfunction MiniGameWindow.__ClickCatchKingButton at 0x1A0F80E0>
+_MiniGameWindow__ClickCatchKingButton,		<cyfunction MiniGameWindow.__ClickCatchKingButton at 0x09A06DF0>
 	arg0: self
 
 submodule._MiniGameWindow__ClickCatchKingButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-SetInven,		<cyfunction MiniGameWindow.SetInven at 0x1A0F7CE8>
+SetInven,		<cyfunction MiniGameWindow.SetInven at 0x09A06A28>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickFishEventButton,		<cyfunction MiniGameWindow.__ClickFishEventButton at 0x1A0F7DF0>
+_MiniGameWindow__ClickFishEventButton,		<cyfunction MiniGameWindow.__ClickFishEventButton at 0x09A06B30>
 	arg0: self
 
 submodule._MiniGameWindow__ClickFishEventButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameRumiSetDeckCount,		<cyfunction MiniGameWindow.MiniGameRumiSetDeckCount at 0x1A0F7978>
+MiniGameRumiSetDeckCount,		<cyfunction MiniGameWindow.MiniGameRumiSetDeckCount at 0x09A066B8>
 	arg0: self
 	arg1: deck_card_count
 
 submodule.MiniGameRumiSetDeckCount
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction MiniGameWindow.BindInterface at 0x1A0F7D40>
+BindInterface,		<cyfunction MiniGameWindow.BindInterface at 0x09A06A80>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction MiniGameWindow.SetItemToolTip at 0x1A0F76B8>
+SetItemToolTip,		<cyfunction MiniGameWindow.SetItemToolTip at 0x09A063F8>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__LoadWindow,		<cyfunction MiniGameWindow.__LoadWindow at 0x1A0F7710>
+_MiniGameWindow__LoadWindow,		<cyfunction MiniGameWindow.__LoadWindow at 0x09A06450>
 	arg0: self
 
 submodule._MiniGameWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-Show,		<cyfunction MiniGameWindow.Show at 0x1A0F7558>
+Show,		<cyfunction MiniGameWindow.Show at 0x09A06298>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameStart,		<cyfunction MiniGameWindow.MiniGameStart at 0x1A0F7870>
+MiniGameStart,		<cyfunction MiniGameWindow.MiniGameStart at 0x09A065B0>
 	arg0: self
 
 submodule.MiniGameStart
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickNoWorkButton,		<cyfunction MiniGameWindow.__ClickNoWorkButton at 0x1A0F81E8>
+_MiniGameWindow__ClickNoWorkButton,		<cyfunction MiniGameWindow.__ClickNoWorkButton at 0x09A06EF8>
 	arg0: self
 
 submodule._MiniGameWindow__ClickNoWorkButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickYutnoriButton,		<cyfunction MiniGameWindow.__ClickYutnoriButton at 0x1A0F8030>
+_MiniGameWindow__ClickYutnoriButton,		<cyfunction MiniGameWindow.__ClickYutnoriButton at 0x09A06D40>
 	arg0: self
 
 submodule._MiniGameWindow__ClickYutnoriButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickWorldBossButton,		<cyfunction MiniGameWindow.__ClickWorldBossButton at 0x1A0F85B0>
+_MiniGameWindow__ClickWorldBossButton,		<cyfunction MiniGameWindow.__ClickWorldBossButton at 0x09A072F0>
 	arg0: self
 
 submodule._MiniGameWindow__ClickWorldBossButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameAttendance,		<cyfunction MiniGameWindow.MiniGameAttendance at 0x1A0F7A28>
+MiniGameAttendance,		<cyfunction MiniGameWindow.MiniGameAttendance at 0x09A06768>
 	arg0: self
 	arg1: enable
 
 submodule.MiniGameAttendance
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-YutnoriProcess,		<cyfunction MiniGameWindow.YutnoriProcess at 0x1A0F8088>
+YutnoriProcess,		<cyfunction MiniGameWindow.YutnoriProcess at 0x09A06D98>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.YutnoriProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-MiniGameOkeyEvent,		<cyfunction MiniGameWindow.MiniGameOkeyEvent at 0x1A0F77C0>
+MiniGameOkeyEvent,		<cyfunction MiniGameWindow.MiniGameOkeyEvent at 0x09A06500>
 	arg0: self
 	arg1: enable
 
 submodule.MiniGameOkeyEvent
 Skipped: unbound method cython_function_or_method object must be called with MiniGameWindow instance as first argument (got nothing instead)
-_MiniGameWindow__ClickFlowerEventButton,		<cyfunction MiniGameWindow.__ClickFlowerEventButton at 0x1A0F8660>
+_MiniGameWindow__ClickFlowerEventButton,		<cyfunction MiniGameWindow.__ClickFlowerEventButton at 0x09A073A0>
 	arg0: self
 
 submodule._MiniGameWindow__ClickFlowerEventButton

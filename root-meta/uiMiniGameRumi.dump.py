@@ -49,7 +49,7 @@ key: BLUE_CARD, val: 20
 key: MID_TOTAL_SCORE, val: 400
 key: ui, val: <module 'ui' (built-in)>
 key: CARD_IMG_WIDTH, val: 38
-key: LoadScript, val: <cyfunction LoadScript at 0x08453660>
+key: LoadScript, val: <cyfunction LoadScript at 0x099A33A0>
 key: __test__, val: {}
 key: EMPTY_CARD, val: 0
 key: CARD_ROOT, val: d:/ymir work/ui/minigame/rumi/card/
@@ -57,74 +57,74 @@ key: CARD_POS_MAX, val: 4
 
 
 class RumiWaitingPage:
-CloseStartDlg,		<cyfunction RumiWaitingPage.CloseStartDlg at 0x08453B30>
+CloseStartDlg,		<cyfunction RumiWaitingPage.CloseStartDlg at 0x099A3870>
 	arg0: self
 
 submodule.CloseStartDlg
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-_RumiWaitingPage__LoadWindow,		<cyfunction RumiWaitingPage.__LoadWindow at 0x084538C8>
+_RumiWaitingPage__LoadWindow,		<cyfunction RumiWaitingPage.__LoadWindow at 0x099A3608>
 	arg0: self
 
 submodule._RumiWaitingPage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-GetConfirmWindowCheck,		<cyfunction RumiWaitingPage.GetConfirmWindowCheck at 0x08453A28>
+GetConfirmWindowCheck,		<cyfunction RumiWaitingPage.GetConfirmWindowCheck at 0x099A3768>
 	arg0: self
 
 submodule.GetConfirmWindowCheck
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-_RumiWaitingPage__ClickNextButton,		<cyfunction RumiWaitingPage.__ClickNextButton at 0x08453D40>
+_RumiWaitingPage__ClickNextButton,		<cyfunction RumiWaitingPage.__ClickNextButton at 0x099A3A80>
 	arg0: self
 
 submodule._RumiWaitingPage__ClickNextButton
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-__del__,		<cyfunction RumiWaitingPage.__del__ at 0x08453870>
+__del__,		<cyfunction RumiWaitingPage.__del__ at 0x099A35B0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-_RumiWaitingPage__ClickPrevButton,		<cyfunction RumiWaitingPage.__ClickPrevButton at 0x08453CE8>
+_RumiWaitingPage__ClickPrevButton,		<cyfunction RumiWaitingPage.__ClickPrevButton at 0x099A3A28>
 	arg0: self
 
 submodule._RumiWaitingPage__ClickPrevButton
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-_RumiWaitingPage__StartCancel,		<cyfunction RumiWaitingPage.__StartCancel at 0x08453BE0>
+_RumiWaitingPage__StartCancel,		<cyfunction RumiWaitingPage.__StartCancel at 0x099A3920>
 	arg0: self
 
 submodule._RumiWaitingPage__StartCancel
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiMiniGameRumi.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction RumiWaitingPage.OnPressEscapeKey at 0x084539D0>
+OnPressEscapeKey,		<cyfunction RumiWaitingPage.OnPressEscapeKey at 0x099A3710>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-Destroy,		<cyfunction RumiWaitingPage.Destroy at 0x08453978>
+Destroy,		<cyfunction RumiWaitingPage.Destroy at 0x099A36B8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-_RumiWaitingPage__StartAccept,		<cyfunction RumiWaitingPage.__StartAccept at 0x08453B88>
+_RumiWaitingPage__StartAccept,		<cyfunction RumiWaitingPage.__StartAccept at 0x099A38C8>
 	arg0: self
 
 submodule._RumiWaitingPage__StartAccept
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-_RumiWaitingPage__ClickConfirmCheckButton,		<cyfunction RumiWaitingPage.__ClickConfirmCheckButton at 0x08453A80>
+_RumiWaitingPage__ClickConfirmCheckButton,		<cyfunction RumiWaitingPage.__ClickConfirmCheckButton at 0x099A37C0>
 	arg0: self
 
 submodule._RumiWaitingPage__ClickConfirmCheckButton
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-__init__,		<cyfunction RumiWaitingPage.__init__ at 0x08453818>
+__init__,		<cyfunction RumiWaitingPage.__init__ at 0x099A3558>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-PrevDescriptionPage,		<cyfunction RumiWaitingPage.PrevDescriptionPage at 0x08453D98>
+PrevDescriptionPage,		<cyfunction RumiWaitingPage.PrevDescriptionPage at 0x099A3AD8>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction RumiWaitingPage.OnUpdate at 0x08453C38>
+OnUpdate,		<cyfunction RumiWaitingPage.OnUpdate at 0x099A3978>
 	arg0: self
 
 submodule.OnUpdate
@@ -134,12 +134,12 @@ __module__,		uiMiniGameRumi
 submodule.__module__
 
 
-Show,		<cyfunction RumiWaitingPage.Show at 0x08453C90>
+Show,		<cyfunction RumiWaitingPage.Show at 0x099A39D0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-_RumiWaitingPage__ClickStartButton,		<cyfunction RumiWaitingPage.__ClickStartButton at 0x08453AD8>
+_RumiWaitingPage__ClickStartButton,		<cyfunction RumiWaitingPage.__ClickStartButton at 0x099A3818>
 	arg0: self
 
 submodule._RumiWaitingPage__ClickStartButton
@@ -149,12 +149,12 @@ __qualname__,		RumiWaitingPage
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction RumiWaitingPage.NextDescriptionPage at 0x08453DF0>
+NextDescriptionPage,		<cyfunction RumiWaitingPage.NextDescriptionPage at 0x099A3B30>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with RumiWaitingPage instance as first argument (got nothing instead)
-Close,		<cyfunction RumiWaitingPage.Close at 0x08453920>
+Close,		<cyfunction RumiWaitingPage.Close at 0x099A3660>
 	arg0: self
 
 submodule.Close
@@ -167,7 +167,7 @@ submodule.__doc__
 
 
 class RumiGamePage:
-RumiIncreaseScore,		<cyfunction RumiGamePage.RumiIncreaseScore at 0x084654A8>
+RumiIncreaseScore,		<cyfunction RumiGamePage.RumiIncreaseScore at 0x099B41E8>
 	arg0: self
 	arg1: score
 	arg2: total_score
@@ -179,151 +179,151 @@ __module__,		uiMiniGameRumi
 submodule.__module__
 
 
-CardMoveStartEvent,		<cyfunction RumiGamePage.CardMoveStartEvent at 0x084650E0>
+CardMoveStartEvent,		<cyfunction RumiGamePage.CardMoveStartEvent at 0x099A3DF0>
 	arg0: self
 
 submodule.CardMoveStartEvent
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction RumiGamePage.OnPressEscapeKey at 0x08453FA8>
+OnPressEscapeKey,		<cyfunction RumiGamePage.OnPressEscapeKey at 0x099A3CE8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__SetScore,		<cyfunction RumiGamePage.__SetScore at 0x08465978>
+_RumiGamePage__SetScore,		<cyfunction RumiGamePage.__SetScore at 0x099B46B8>
 	arg0: self
 	arg1: score
 
 submodule._RumiGamePage__SetScore
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__StartDeckFlushEffect,		<cyfunction RumiGamePage.__StartDeckFlushEffect at 0x084653A0>
+_RumiGamePage__StartDeckFlushEffect,		<cyfunction RumiGamePage.__StartDeckFlushEffect at 0x099B40E0>
 	arg0: self
 
 submodule._RumiGamePage__StartDeckFlushEffect
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-LButtonClickDeck,		<cyfunction RumiGamePage.LButtonClickDeck at 0x08465CE8>
+LButtonClickDeck,		<cyfunction RumiGamePage.LButtonClickDeck at 0x099B4A28>
 	arg0: self
 
 submodule.LButtonClickDeck
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__DeleteCardImg,		<cyfunction RumiGamePage.__DeleteCardImg at 0x08453EF8>
+_RumiGamePage__DeleteCardImg,		<cyfunction RumiGamePage.__DeleteCardImg at 0x099A3C38>
 	arg0: self
 
 submodule._RumiGamePage__DeleteCardImg
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-MoveCardDeckToHand,		<cyfunction RumiGamePage.MoveCardDeckToHand at 0x08465558>
+MoveCardDeckToHand,		<cyfunction RumiGamePage.MoveCardDeckToHand at 0x099B4298>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
 
 submodule.MoveCardDeckToHand
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ScoreEffectEndFrameEvent3,		<cyfunction RumiGamePage.__ScoreEffectEndFrameEvent3 at 0x08466030>
+_RumiGamePage__ScoreEffectEndFrameEvent3,		<cyfunction RumiGamePage.__ScoreEffectEndFrameEvent3 at 0x099B4D40>
 	arg0: self
 
 submodule._RumiGamePage__ScoreEffectEndFrameEvent3
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-CardMoveEndEvnet,		<cyfunction RumiGamePage.CardMoveEndEvnet at 0x08465138>
+CardMoveEndEvnet,		<cyfunction RumiGamePage.CardMoveEndEvnet at 0x099A3E48>
 	arg0: self
 
 submodule.CardMoveEndEvnet
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__CloseDiscardConfirmDialog,		<cyfunction RumiGamePage.__CloseDiscardConfirmDialog at 0x08465C90>
+_RumiGamePage__CloseDiscardConfirmDialog,		<cyfunction RumiGamePage.__CloseDiscardConfirmDialog at 0x099B49D0>
 	arg0: self
 
 submodule._RumiGamePage__CloseDiscardConfirmDialog
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-SetConfirmWindowCheck,		<cyfunction RumiGamePage.SetConfirmWindowCheck at 0x08465030>
+SetConfirmWindowCheck,		<cyfunction RumiGamePage.SetConfirmWindowCheck at 0x099A3D40>
 	arg0: self
 	arg1: bFlag
 
 submodule.SetConfirmWindowCheck
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ClearFieldCardSlot,		<cyfunction RumiGamePage.__ClearFieldCardSlot at 0x08465298>
+_RumiGamePage__ClearFieldCardSlot,		<cyfunction RumiGamePage.__ClearFieldCardSlot at 0x099A3FA8>
 	arg0: self
 
 submodule._RumiGamePage__ClearFieldCardSlot
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-SetOkeyNormalBG,		<cyfunction RumiGamePage.SetOkeyNormalBG at 0x08466088>
+SetOkeyNormalBG,		<cyfunction RumiGamePage.SetOkeyNormalBG at 0x099B4D98>
 	arg0: self
 
 submodule.SetOkeyNormalBG
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-Destroy,		<cyfunction RumiGamePage.Destroy at 0x08465768>
+Destroy,		<cyfunction RumiGamePage.Destroy at 0x099B44A8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ClearHandCardSlot,		<cyfunction RumiGamePage.__ClearHandCardSlot at 0x08465240>
+_RumiGamePage__ClearHandCardSlot,		<cyfunction RumiGamePage.__ClearHandCardSlot at 0x099A3F50>
 	arg0: self
 
 submodule._RumiGamePage__ClearHandCardSlot
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-MoveCardHandToField,		<cyfunction RumiGamePage.MoveCardHandToField at 0x084655B0>
+MoveCardHandToField,		<cyfunction RumiGamePage.MoveCardHandToField at 0x099B42F0>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
 
 submodule.MoveCardHandToField
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-LButtonClickField,		<cyfunction RumiGamePage.LButtonClickField at 0x08465DF0>
+LButtonClickField,		<cyfunction RumiGamePage.LButtonClickField at 0x099B4B30>
 	arg0: self
 	arg1: index
 
 submodule.LButtonClickField
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-__init__,		<cyfunction RumiGamePage.__init__ at 0x08453E48>
+__init__,		<cyfunction RumiGamePage.__init__ at 0x099A3B88>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction RumiGamePage.OnUpdate at 0x08465088>
+OnUpdate,		<cyfunction RumiGamePage.OnUpdate at 0x099A3D98>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__DiscardConfirmDialog,		<cyfunction RumiGamePage.__DiscardConfirmDialog at 0x08465B88>
+_RumiGamePage__DiscardConfirmDialog,		<cyfunction RumiGamePage.__DiscardConfirmDialog at 0x099B48C8>
 	arg0: self
 	arg1: index
 
 submodule._RumiGamePage__DiscardConfirmDialog
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__SetTotalScore,		<cyfunction RumiGamePage.__SetTotalScore at 0x084659D0>
+_RumiGamePage__SetTotalScore,		<cyfunction RumiGamePage.__SetTotalScore at 0x099B4710>
 	arg0: self
 	arg1: total_score
 
 submodule._RumiGamePage__SetTotalScore
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__DeckFlushEffectCheck,		<cyfunction RumiGamePage.__DeckFlushEffectCheck at 0x084653F8>
+_RumiGamePage__DeckFlushEffectCheck,		<cyfunction RumiGamePage.__DeckFlushEffectCheck at 0x099B4138>
 	arg0: self
 
 submodule._RumiGamePage__DeckFlushEffectCheck
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ClearScoreCompletionEffect,		<cyfunction RumiGamePage.__ClearScoreCompletionEffect at 0x084652F0>
+_RumiGamePage__ClearScoreCompletionEffect,		<cyfunction RumiGamePage.__ClearScoreCompletionEffect at 0x099B4030>
 	arg0: self
 
 submodule._RumiGamePage__ClearScoreCompletionEffect
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__AcceptDiscard,		<cyfunction RumiGamePage.__AcceptDiscard at 0x08465BE0>
+_RumiGamePage__AcceptDiscard,		<cyfunction RumiGamePage.__AcceptDiscard at 0x099B4920>
 	arg0: self
 
 submodule._RumiGamePage__AcceptDiscard
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__HideAllDeckSlotBaseImage,		<cyfunction RumiGamePage.__HideAllDeckSlotBaseImage at 0x08465920>
+_RumiGamePage__HideAllDeckSlotBaseImage,		<cyfunction RumiGamePage.__HideAllDeckSlotBaseImage at 0x099B4660>
 	arg0: self
 
 submodule._RumiGamePage__HideAllDeckSlotBaseImage
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__CancelExit,		<cyfunction RumiGamePage.__CancelExit at 0x08465AD8>
+_RumiGamePage__CancelExit,		<cyfunction RumiGamePage.__CancelExit at 0x099B4818>
 	arg0: self
 
 submodule._RumiGamePage__CancelExit
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__LoadWindow,		<cyfunction RumiGamePage.__LoadWindow at 0x08453F50>
+_RumiGamePage__LoadWindow,		<cyfunction RumiGamePage.__LoadWindow at 0x099A3C90>
 	arg0: self
 
 submodule._RumiGamePage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__IsExistSlotIndex,		<cyfunction RumiGamePage.__IsExistSlotIndex at 0x084656B8>
+_RumiGamePage__IsExistSlotIndex,		<cyfunction RumiGamePage.__IsExistSlotIndex at 0x099B43F8>
 	arg0: self
 	arg1: card_pos
 	arg2: slot_index
@@ -337,100 +337,100 @@ __doc__,		None
 submodule.__doc__
 
 
-RumiMoveCard,		<cyfunction RumiGamePage.RumiMoveCard at 0x08465500>
+RumiMoveCard,		<cyfunction RumiGamePage.RumiMoveCard at 0x099B4240>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
 
 submodule.RumiMoveCard
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__CloseExitQuestionDialog,		<cyfunction RumiGamePage.__CloseExitQuestionDialog at 0x08465B30>
+_RumiGamePage__CloseExitQuestionDialog,		<cyfunction RumiGamePage.__CloseExitQuestionDialog at 0x099B4870>
 	arg0: self
 
 submodule._RumiGamePage__CloseExitQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-__del__,		<cyfunction RumiGamePage.__del__ at 0x08453EA0>
+__del__,		<cyfunction RumiGamePage.__del__ at 0x099A3BE0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-Clear,		<cyfunction RumiGamePage.Clear at 0x08465190>
+Clear,		<cyfunction RumiGamePage.Clear at 0x099A3EA0>
 	arg0: self
 
 submodule.Clear
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ShowDeckSlotBaseImage,		<cyfunction RumiGamePage.__ShowDeckSlotBaseImage at 0x084658C8>
+_RumiGamePage__ShowDeckSlotBaseImage,		<cyfunction RumiGamePage.__ShowDeckSlotBaseImage at 0x099B4608>
 	arg0: self
 	arg1: index
 
 submodule._RumiGamePage__ShowDeckSlotBaseImage
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__LoadCardImage,		<cyfunction RumiGamePage.__LoadCardImage at 0x08465450>
+_RumiGamePage__LoadCardImage,		<cyfunction RumiGamePage.__LoadCardImage at 0x099B4190>
 	arg0: self
 
 submodule._RumiGamePage__LoadCardImage
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-MoveCardHandToGrave,		<cyfunction RumiGamePage.MoveCardHandToGrave at 0x08465660>
+MoveCardHandToGrave,		<cyfunction RumiGamePage.MoveCardHandToGrave at 0x099B43A0>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
 
 submodule.MoveCardHandToGrave
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__AcceptExit,		<cyfunction RumiGamePage.__AcceptExit at 0x08465A80>
+_RumiGamePage__AcceptExit,		<cyfunction RumiGamePage.__AcceptExit at 0x099B47C0>
 	arg0: self
 
 submodule._RumiGamePage__AcceptExit
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ClearDeckFlushEffect,		<cyfunction RumiGamePage.__ClearDeckFlushEffect at 0x08465348>
+_RumiGamePage__ClearDeckFlushEffect,		<cyfunction RumiGamePage.__ClearDeckFlushEffect at 0x099B4088>
 	arg0: self
 
 submodule._RumiGamePage__ClearDeckFlushEffect
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-RButtonClickHand,		<cyfunction RumiGamePage.RButtonClickHand at 0x08465D98>
+RButtonClickHand,		<cyfunction RumiGamePage.RButtonClickHand at 0x099B4AD8>
 	arg0: self
 	arg1: index
 
 submodule.RButtonClickHand
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__CancelDiscard,		<cyfunction RumiGamePage.__CancelDiscard at 0x08465C38>
+_RumiGamePage__CancelDiscard,		<cyfunction RumiGamePage.__CancelDiscard at 0x099B4978>
 	arg0: self
 
 submodule._RumiGamePage__CancelDiscard
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ScoreEffectEndFrameEvent2,		<cyfunction RumiGamePage.__ScoreEffectEndFrameEvent2 at 0x08465FA8>
+_RumiGamePage__ScoreEffectEndFrameEvent2,		<cyfunction RumiGamePage.__ScoreEffectEndFrameEvent2 at 0x099B4CE8>
 	arg0: self
 
 submodule._RumiGamePage__ScoreEffectEndFrameEvent2
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ExitButtonClick,		<cyfunction RumiGamePage.__ExitButtonClick at 0x08465A28>
+_RumiGamePage__ExitButtonClick,		<cyfunction RumiGamePage.__ExitButtonClick at 0x099B4768>
 	arg0: self
 
 submodule._RumiGamePage__ExitButtonClick
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-Show,		<cyfunction RumiGamePage.Show at 0x084657C0>
+Show,		<cyfunction RumiGamePage.Show at 0x099B4500>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ScoreTextEffectEndFrameEvent,		<cyfunction RumiGamePage.__ScoreTextEffectEndFrameEvent at 0x08465E48>
+_RumiGamePage__ScoreTextEffectEndFrameEvent,		<cyfunction RumiGamePage.__ScoreTextEffectEndFrameEvent at 0x099B4B88>
 	arg0: self
 
 submodule._RumiGamePage__ScoreTextEffectEndFrameEvent
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-SetDeckCount,		<cyfunction RumiGamePage.SetDeckCount at 0x08465818>
+SetDeckCount,		<cyfunction RumiGamePage.SetDeckCount at 0x099B4558>
 	arg0: self
 	arg1: deck_card_count
 
 submodule.SetDeckCount
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ScoreEffectKeyFrameEvent1,		<cyfunction RumiGamePage.__ScoreEffectKeyFrameEvent1 at 0x08465EA0>
+_RumiGamePage__ScoreEffectKeyFrameEvent1,		<cyfunction RumiGamePage.__ScoreEffectKeyFrameEvent1 at 0x099B4BE0>
 	arg0: self
 	arg1: cur_frame
 
 submodule._RumiGamePage__ScoreEffectKeyFrameEvent1
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ScoreEffectKeyFrameEvent2,		<cyfunction RumiGamePage.__ScoreEffectKeyFrameEvent2 at 0x08465EF8>
+_RumiGamePage__ScoreEffectKeyFrameEvent2,		<cyfunction RumiGamePage.__ScoreEffectKeyFrameEvent2 at 0x099B4C38>
 	arg0: self
 	arg1: cur_frame
 
@@ -441,35 +441,35 @@ __qualname__,		RumiGamePage
 submodule.__qualname__
 
 
-MoveCardFieldToHand,		<cyfunction RumiGamePage.MoveCardFieldToHand at 0x08465608>
+MoveCardFieldToHand,		<cyfunction RumiGamePage.MoveCardFieldToHand at 0x099B4348>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
 
 submodule.MoveCardFieldToHand
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ScoreEffectEndFrameEvent1,		<cyfunction RumiGamePage.__ScoreEffectEndFrameEvent1 at 0x08465F50>
+_RumiGamePage__ScoreEffectEndFrameEvent1,		<cyfunction RumiGamePage.__ScoreEffectEndFrameEvent1 at 0x099B4C90>
 	arg0: self
 
 submodule._RumiGamePage__ScoreEffectEndFrameEvent1
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__ClearDeckCardSlot,		<cyfunction RumiGamePage.__ClearDeckCardSlot at 0x084651E8>
+_RumiGamePage__ClearDeckCardSlot,		<cyfunction RumiGamePage.__ClearDeckCardSlot at 0x099A3EF8>
 	arg0: self
 
 submodule._RumiGamePage__ClearDeckCardSlot
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-Close,		<cyfunction RumiGamePage.Close at 0x08465710>
+Close,		<cyfunction RumiGamePage.Close at 0x099B4450>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-_RumiGamePage__SetDeckImg,		<cyfunction RumiGamePage.__SetDeckImg at 0x08465870>
+_RumiGamePage__SetDeckImg,		<cyfunction RumiGamePage.__SetDeckImg at 0x099B45B0>
 	arg0: self
 	arg1: deck_cnt
 
 submodule._RumiGamePage__SetDeckImg
 Skipped: unbound method cython_function_or_method object must be called with RumiGamePage instance as first argument (got nothing instead)
-LButtonClickHand,		<cyfunction RumiGamePage.LButtonClickHand at 0x08465D40>
+LButtonClickHand,		<cyfunction RumiGamePage.LButtonClickHand at 0x099B4A80>
 	arg0: self
 	arg1: index
 
@@ -478,14 +478,14 @@ Skipped: unbound method cython_function_or_method object must be called with Rum
 
 
 class MiniGameRumi:
-RumiMoveCard,		<cyfunction MiniGameRumi.RumiMoveCard at 0x084663F8>
+RumiMoveCard,		<cyfunction MiniGameRumi.RumiMoveCard at 0x099B5138>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
 
 submodule.RumiMoveCard
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-RumiIncreaseScore,		<cyfunction MiniGameRumi.RumiIncreaseScore at 0x084664A8>
+RumiIncreaseScore,		<cyfunction MiniGameRumi.RumiIncreaseScore at 0x099B51E8>
 	arg0: self
 	arg1: score
 	arg2: total_score
@@ -497,33 +497,33 @@ __module__,		uiMiniGameRumi
 submodule.__module__
 
 
-Show,		<cyfunction MiniGameRumi.Show at 0x08466190>
+Show,		<cyfunction MiniGameRumi.Show at 0x099B4EA0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameRumi.__del__ at 0x08466138>
+__del__,		<cyfunction MiniGameRumi.__del__ at 0x099B4E48>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-GameStart,		<cyfunction MiniGameRumi.GameStart at 0x08466348>
+GameStart,		<cyfunction MiniGameRumi.GameStart at 0x099B5088>
 	arg0: self
 
 submodule.GameStart
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-SetDeckCount,		<cyfunction MiniGameRumi.SetDeckCount at 0x08466450>
+SetDeckCount,		<cyfunction MiniGameRumi.SetDeckCount at 0x099B5190>
 	arg0: self
 	arg1: deck_card_count
 
 submodule.SetDeckCount
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-_MiniGameRumi__LoadWindow,		<cyfunction MiniGameRumi.__LoadWindow at 0x08466298>
+_MiniGameRumi__LoadWindow,		<cyfunction MiniGameRumi.__LoadWindow at 0x099B4FA8>
 	arg0: self
 
 submodule._MiniGameRumi__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-Close,		<cyfunction MiniGameRumi.Close at 0x084661E8>
+Close,		<cyfunction MiniGameRumi.Close at 0x099B4EF8>
 	arg0: self
 
 submodule.Close
@@ -533,22 +533,22 @@ __qualname__,		MiniGameRumi
 submodule.__qualname__
 
 
-GameEnd,		<cyfunction MiniGameRumi.GameEnd at 0x084663A0>
+GameEnd,		<cyfunction MiniGameRumi.GameEnd at 0x099B50E0>
 	arg0: self
 
 submodule.GameEnd
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-SetOkeyNormalBG,		<cyfunction MiniGameRumi.SetOkeyNormalBG at 0x08466500>
+SetOkeyNormalBG,		<cyfunction MiniGameRumi.SetOkeyNormalBG at 0x099B5240>
 	arg0: self
 
 submodule.SetOkeyNormalBG
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniGameRumi.Destroy at 0x08466240>
+Destroy,		<cyfunction MiniGameRumi.Destroy at 0x099B4F50>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MiniGameRumi instance as first argument (got nothing instead)
-Open,		<cyfunction MiniGameRumi.Open at 0x084662F0>
+Open,		<cyfunction MiniGameRumi.Open at 0x099B5030>
 	arg0: self
 
 submodule.Open
@@ -558,7 +558,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MiniGameRumi.__init__ at 0x084660E0>
+__init__,		<cyfunction MiniGameRumi.__init__ at 0x099B4DF0>
 	arg0: self
 
 submodule.__init__

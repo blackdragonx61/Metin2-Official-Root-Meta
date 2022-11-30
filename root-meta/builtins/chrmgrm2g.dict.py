@@ -181,6 +181,8 @@
          {'name': 'EFFECT_THUNDER', 'type': 'int', 'value': 293},
          {'name': 'EFFECT_THUNDER_AREA', 'type': 'int', 'value': 292},
          {'name': 'EFFECT_WEAPON', 'type': 'int', 'value': 23},
+         {'name': 'EFFECT_WHITE_DRAGON_BERSERK', 'type': 'int', 'value': 364},
+         {'name': 'EFFECT_WHITE_DRAGON_COOLING', 'type': 'int', 'value': 365},
          {'name': 'NAMECOLOR_EMPIRE_MOB', 'type': 'int', 'value': 14},
          {'name': 'NAMECOLOR_EMPIRE_NPC', 'type': 'int', 'value': 15},
          {'name': 'NAMECOLOR_EMPIRE_PC', 'type': 'int', 'value': 16},

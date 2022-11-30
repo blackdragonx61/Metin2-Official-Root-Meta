@@ -18,7 +18,7 @@ key: __doc__, val: None
 
 
 class GuildDragonLairRankingDialog:
-OnScrollControl,		<cyfunction GuildDragonLairRankingDialog.OnScrollControl at 0x1A0FD818>
+OnScrollControl,		<cyfunction GuildDragonLairRankingDialog.OnScrollControl at 0x09A0D558>
 	arg0: self
 
 submodule.OnScrollControl
@@ -28,12 +28,12 @@ __module__,		uiGuildDragonLairRanking
 submodule.__module__
 
 
-CheckNowItemCount,		<cyfunction GuildDragonLairRankingDialog.CheckNowItemCount at 0x1A0FD7C0>
+CheckNowItemCount,		<cyfunction GuildDragonLairRankingDialog.CheckNowItemCount at 0x09A0D500>
 	arg0: self
 
 submodule.CheckNowItemCount
 Skipped: unbound method cython_function_or_method object must be called with GuildDragonLairRankingDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildDragonLairRankingDialog.__del__ at 0x1A0FD450>
+__del__,		<cyfunction GuildDragonLairRankingDialog.__del__ at 0x09A0D190>
 	arg0: self
 
 submodule.__del__
@@ -53,32 +53,32 @@ SLOT_CLEARTIME,		3
 submodule.SLOT_CLEARTIME
 
 
-OnPressEscapeKey,		<cyfunction GuildDragonLairRankingDialog.OnPressEscapeKey at 0x1A0FD870>
+OnPressEscapeKey,		<cyfunction GuildDragonLairRankingDialog.OnPressEscapeKey at 0x09A0D5B0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with GuildDragonLairRankingDialog instance as first argument (got nothing instead)
-MakeUiBoard,		<cyfunction GuildDragonLairRankingDialog.MakeUiBoard at 0x1A0FD608>
+MakeUiBoard,		<cyfunction GuildDragonLairRankingDialog.MakeUiBoard at 0x09A0D348>
 	arg0: self
 
 submodule.MakeUiBoard
 Skipped: unbound method cython_function_or_method object must be called with GuildDragonLairRankingDialog instance as first argument (got nothing instead)
-AllClear,		<cyfunction GuildDragonLairRankingDialog.AllClear at 0x1A0FD768>
+AllClear,		<cyfunction GuildDragonLairRankingDialog.AllClear at 0x09A0D4A8>
 	arg0: self
 
 submodule.AllClear
 Skipped: unbound method cython_function_or_method object must be called with GuildDragonLairRankingDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction GuildDragonLairRankingDialog.__init__ at 0x1A0FD3F8>
+__init__,		<cyfunction GuildDragonLairRankingDialog.__init__ at 0x09A0D138>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildDragonLairRankingDialog instance as first argument (got nothing instead)
-GetDragonLairType,		<cyfunction GuildDragonLairRankingDialog.GetDragonLairType at 0x1A0FD660>
+GetDragonLairType,		<cyfunction GuildDragonLairRankingDialog.GetDragonLairType at 0x09A0D3A0>
 	arg0: self
 
 submodule.GetDragonLairType
 Skipped: unbound method cython_function_or_method object must be called with GuildDragonLairRankingDialog instance as first argument (got nothing instead)
-GetClearTimeStr,		<cyfunction GuildDragonLairRankingDialog.GetClearTimeStr at 0x1A0FD710>
+GetClearTimeStr,		<cyfunction GuildDragonLairRankingDialog.GetClearTimeStr at 0x09A0D450>
 	arg0: self
 	arg1: min
 	arg2: sec
@@ -90,7 +90,7 @@ SLOT_GUILDNAME,		1
 submodule.SLOT_GUILDNAME
 
 
-Destory,		<cyfunction GuildDragonLairRankingDialog.Destory at 0x1A0FD4A8>
+Destory,		<cyfunction GuildDragonLairRankingDialog.Destory at 0x09A0D1E8>
 	arg0: self
 
 submodule.Destory
@@ -100,7 +100,7 @@ __qualname__,		GuildDragonLairRankingDialog
 submodule.__qualname__
 
 
-RefreshGuildDragonLairRanking,		<cyfunction GuildDragonLairRankingDialog.RefreshGuildDragonLairRanking at 0x1A0FD6B8>
+RefreshGuildDragonLairRanking,		<cyfunction GuildDragonLairRankingDialog.RefreshGuildDragonLairRanking at 0x09A0D3F8>
 	arg0: self
 	arg1: type
 
@@ -121,12 +121,12 @@ RANK_2,		1
 submodule.RANK_2
 
 
-Close,		<cyfunction GuildDragonLairRankingDialog.Close at 0x1A0FD558>
+Close,		<cyfunction GuildDragonLairRankingDialog.Close at 0x09A0D298>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildDragonLairRankingDialog instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction GuildDragonLairRankingDialog.LoadWindow at 0x1A0FD5B0>
+LoadWindow,		<cyfunction GuildDragonLairRankingDialog.LoadWindow at 0x09A0D2F0>
 	arg0: self
 
 submodule.LoadWindow
@@ -136,7 +136,7 @@ SLOT_RANKING,		0
 submodule.SLOT_RANKING
 
 
-Open,		<cyfunction GuildDragonLairRankingDialog.Open at 0x1A0FD500>
+Open,		<cyfunction GuildDragonLairRankingDialog.Open at 0x09A0D240>
 	arg0: self
 	arg1: type
 
