@@ -19,7 +19,7 @@ key: __doc__, val: None
 
 
 class PassiveAttr:
-RefreshPassiveAttrSubSlot,		<cyfunction PassiveAttr.RefreshPassiveAttrSubSlot at 0x194932F0>
+RefreshPassiveAttrSubSlot,		<cyfunction PassiveAttr.RefreshPassiveAttrSubSlot at 0x19C532F0>
 	arg0: self
 
 submodule.RefreshPassiveAttrSubSlot
@@ -34,7 +34,7 @@ _PassiveAttr__SLOT_PAGE_SIZE,		2
 submodule._PassiveAttr__SLOT_PAGE_SIZE
 
 
-_PassiveAttr__IsShowPopup,		<cyfunction PassiveAttr.__IsShowPopup at 0x1948EAD8>
+_PassiveAttr__IsShowPopup,		<cyfunction PassiveAttr.__IsShowPopup at 0x19C4EAD8>
 	arg0: self
 
 submodule._PassiveAttr__IsShowPopup
@@ -49,13 +49,13 @@ _PassiveAttr__activate_button,		<member '_PassiveAttr__activate_button' of 'Pass
 submodule._PassiveAttr__activate_button
 
 
-_PassiveAttr__SetOnTopWindow,		<cyfunction PassiveAttr.__SetOnTopWindow at 0x1948E8C8>
+_PassiveAttr__SetOnTopWindow,		<cyfunction PassiveAttr.__SetOnTopWindow at 0x19C4E8C8>
 	arg0: self
 	arg1: on_top_window
 
 submodule._PassiveAttr__SetOnTopWindow
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__SetInvenPos,		<cyfunction PassiveAttr.__SetInvenPos at 0x194934A8>
+_PassiveAttr__SetInvenPos,		<cyfunction PassiveAttr.__SetInvenPos at 0x19C534A8>
 	arg0: self
 	arg1: slot_index
 	arg2: inven_pos
@@ -87,13 +87,13 @@ _PassiveAttr__inven_pos_dict,		<member '_PassiveAttr__inven_pos_dict' of 'Passiv
 submodule._PassiveAttr__inven_pos_dict
 
 
-_PassiveAttr__ActivateDeactivateProcess,		<cyfunction PassiveAttr.__ActivateDeactivateProcess at 0x1948EC90>
+_PassiveAttr__ActivateDeactivateProcess,		<cyfunction PassiveAttr.__ActivateDeactivateProcess at 0x19C4EC90>
 	arg0: self
 	arg1: request_page
 
 submodule._PassiveAttr__ActivateDeactivateProcess
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__BindObject,		<cyfunction PassiveAttr.__BindObject at 0x1948E9D0>
+_PassiveAttr__BindObject,		<cyfunction PassiveAttr.__BindObject at 0x19C4E9D0>
 	arg0: self
 
 submodule._PassiveAttr__BindObject
@@ -118,7 +118,7 @@ _PassiveAttr__is_requesting_activate_deactivate,		<member '_PassiveAttr__is_requ
 submodule._PassiveAttr__is_requesting_activate_deactivate
 
 
-_PassiveAttr__CheckActivate,		<cyfunction PassiveAttr.__CheckActivate at 0x1948ECE8>
+_PassiveAttr__CheckActivate,		<cyfunction PassiveAttr.__CheckActivate at 0x19C4ECE8>
 	arg0: self
 	arg1: page
 
@@ -129,7 +129,7 @@ _PassiveAttr__SLOT_PAGE_NONE,		0
 submodule._PassiveAttr__SLOT_PAGE_NONE
 
 
-__del__,		<cyfunction PassiveAttr.__del__ at 0x1948E558>
+__del__,		<cyfunction PassiveAttr.__del__ at 0x19C4E558>
 	arg0: self
 
 submodule.__del__
@@ -149,34 +149,34 @@ _PassiveAttr__SLOT_INDEX_ACCE,		4
 submodule._PassiveAttr__SLOT_INDEX_ACCE
 
 
-_PassiveAttr__OverOutSlot,		<cyfunction PassiveAttr.__OverOutSlot at 0x1948EF50>
+_PassiveAttr__OverOutSlot,		<cyfunction PassiveAttr.__OverOutSlot at 0x19C4EF50>
 	arg0: self
 
 submodule._PassiveAttr__OverOutSlot
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction PassiveAttr.SetItemToolTip at 0x1948E7C0>
+SetItemToolTip,		<cyfunction PassiveAttr.SetItemToolTip at 0x19C4E7C0>
 	arg0: self
 	arg1: tooltip_item
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__PassiveAttrChargeReresultProcess,		<cyfunction PassiveAttr.__PassiveAttrChargeReresultProcess at 0x19493558>
+_PassiveAttr__PassiveAttrChargeReresultProcess,		<cyfunction PassiveAttr.__PassiveAttrChargeReresultProcess at 0x19C53558>
 	arg0: self
 
 submodule._PassiveAttr__PassiveAttrChargeReresultProcess
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-SetInven,		<cyfunction PassiveAttr.SetInven at 0x1948E870>
+SetInven,		<cyfunction PassiveAttr.SetInven at 0x19C4E870>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-OnTop,		<cyfunction PassiveAttr.OnTop at 0x1948E710>
+OnTop,		<cyfunction PassiveAttr.OnTop at 0x19C4E710>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-BindInterface,		<cyfunction PassiveAttr.BindInterface at 0x1948E818>
+BindInterface,		<cyfunction PassiveAttr.BindInterface at 0x19C4E818>
 	arg0: self
 	arg1: interface
 
@@ -187,25 +187,25 @@ _PassiveAttr__is_requesting_open,		<member '_PassiveAttr__is_requesting_open' of
 submodule._PassiveAttr__is_requesting_open
 
 
-CantAttachToPassiveSlot,		<classmethod object at 0x1948C7F0>
+CantAttachToPassiveSlot,		<classmethod object at 0x19C4C750>
 	arg0: cls
 	arg1: inven_slot
 
 submodule.CantAttachToPassiveSlot
 Skipped: CantAttachToPassiveSlot() takes exactly 2 positional arguments (1 given)
-_PassiveAttr__SelectEmptySlot,		<cyfunction PassiveAttr.__SelectEmptySlot at 0x19493190>
+_PassiveAttr__SelectEmptySlot,		<cyfunction PassiveAttr.__SelectEmptySlot at 0x19C53190>
 	arg0: self
 	arg1: slot_index
 
 submodule._PassiveAttr__SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-ClickActivateButton,		<cyfunction PassiveAttr.ClickActivateButton at 0x1948EC38>
+ClickActivateButton,		<cyfunction PassiveAttr.ClickActivateButton at 0x19C4EC38>
 	arg0: self
 	arg1: request_page
 
 submodule.ClickActivateButton
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-RefreshPassiveAttrActivateButton,		<cyfunction PassiveAttr.RefreshPassiveAttrActivateButton at 0x19493348>
+RefreshPassiveAttrActivateButton,		<cyfunction PassiveAttr.RefreshPassiveAttrActivateButton at 0x19C53348>
 	arg0: self
 
 submodule.RefreshPassiveAttrActivateButton
@@ -225,7 +225,7 @@ _PassiveAttr__SLOT_INDEX_WEAPON,		1
 submodule._PassiveAttr__SLOT_INDEX_WEAPON
 
 
-Close,		<cyfunction PassiveAttr.Close at 0x1948E6B8>
+Close,		<cyfunction PassiveAttr.Close at 0x19C4E6B8>
 	arg0: self
 	arg1: is_packet_send
 	default: True
@@ -237,7 +237,7 @@ _PassiveAttr__WRONG_VALUE,		-1
 submodule._PassiveAttr__WRONG_VALUE
 
 
-_PassiveAttr__GetWearPos,		<cyfunction PassiveAttr.__GetWearPos at 0x194933F8>
+_PassiveAttr__GetWearPos,		<cyfunction PassiveAttr.__GetWearPos at 0x19C533F8>
 	arg0: self
 	arg1: page
 
@@ -248,7 +248,7 @@ _PassiveAttr__COOLTIME_SECOND_EQUIPMENT,		5
 submodule._PassiveAttr__COOLTIME_SECOND_EQUIPMENT
 
 
-_PassiveAttr__SendItemUsePacket,		<cyfunction PassiveAttr.__SendItemUsePacket at 0x19493500>
+_PassiveAttr__SendItemUsePacket,		<cyfunction PassiveAttr.__SendItemUsePacket at 0x19C53500>
 	arg0: self
 	arg1: is_equipment
 	arg2: window
@@ -266,7 +266,7 @@ _PassiveAttr__SLOT_INDEX_MAX,		5
 submodule._PassiveAttr__SLOT_INDEX_MAX
 
 
-_PassiveAttr__SetPassiveAttrPage,		<cyfunction PassiveAttr.__SetPassiveAttrPage at 0x1948EE48>
+_PassiveAttr__SetPassiveAttrPage,		<cyfunction PassiveAttr.__SetPassiveAttrPage at 0x19C4EE48>
 	arg0: self
 	arg1: newPage
 
@@ -282,7 +282,7 @@ _PassiveAttr__SLOT_INDEX_JOB,		0
 submodule._PassiveAttr__SLOT_INDEX_JOB
 
 
-_PassiveAttr__ClickPassiveAttrChangePage,		<cyfunction PassiveAttr.__ClickPassiveAttrChangePage at 0x1948EDF0>
+_PassiveAttr__ClickPassiveAttrChangePage,		<cyfunction PassiveAttr.__ClickPassiveAttrChangePage at 0x19C4EDF0>
 	arg0: self
 	arg1: button_object
 	arg2: request_page
@@ -294,29 +294,29 @@ _PassiveAttr__COOLTIME_SECOND_UNEQUIPMENT,		5
 submodule._PassiveAttr__COOLTIME_SECOND_UNEQUIPMENT
 
 
-_PassiveAttr__AttachToPassiveAttrSlot,		<cyfunction PassiveAttr.__AttachToPassiveAttrSlot at 0x19493240>
+_PassiveAttr__AttachToPassiveAttrSlot,		<cyfunction PassiveAttr.__AttachToPassiveAttrSlot at 0x19C53240>
 	arg0: self
 	arg1: inven_window
 	arg2: inven_slot_index
 
 submodule._PassiveAttr__AttachToPassiveAttrSlot
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__CheckInvenCantMouseEvent,		<cyfunction PassiveAttr.__CheckInvenCantMouseEvent at 0x19493088>
+_PassiveAttr__CheckInvenCantMouseEvent,		<cyfunction PassiveAttr.__CheckInvenCantMouseEvent at 0x19C53088>
 	arg0: self
 
 submodule._PassiveAttr__CheckInvenCantMouseEvent
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-RefreshPassiveAttrJobSlot,		<cyfunction PassiveAttr.RefreshPassiveAttrJobSlot at 0x19493298>
+RefreshPassiveAttrJobSlot,		<cyfunction PassiveAttr.RefreshPassiveAttrJobSlot at 0x19C53298>
 	arg0: self
 
 submodule.RefreshPassiveAttrJobSlot
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__CheckPassiveJobSlotCantMouseEvent,		<cyfunction PassiveAttr.__CheckPassiveJobSlotCantMouseEvent at 0x19493030>
+_PassiveAttr__CheckPassiveJobSlotCantMouseEvent,		<cyfunction PassiveAttr.__CheckPassiveJobSlotCantMouseEvent at 0x19C53030>
 	arg0: self
 
 submodule._PassiveAttr__CheckPassiveJobSlotCantMouseEvent
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-Destroy,		<cyfunction PassiveAttr.Destroy at 0x1948E5B0>
+Destroy,		<cyfunction PassiveAttr.Destroy at 0x19C4E5B0>
 	arg0: self
 
 submodule.Destroy
@@ -326,12 +326,12 @@ _PassiveAttr__ITEM_ATTRIBUTE_PASSIVE_JOB_MAX,		4
 submodule._PassiveAttr__ITEM_ATTRIBUTE_PASSIVE_JOB_MAX
 
 
-__init__,		<cyfunction PassiveAttr.__init__ at 0x1948E500>
+__init__,		<cyfunction PassiveAttr.__init__ at 0x19C4E500>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__Show,		<cyfunction PassiveAttr.__Show at 0x1948E608>
+_PassiveAttr__Show,		<cyfunction PassiveAttr.__Show at 0x19C4E608>
 	arg0: self
 
 submodule._PassiveAttr__Show
@@ -341,12 +341,12 @@ _PassiveAttr__destroy_popup__charge_popup,		<member '_PassiveAttr__destroy_popup
 submodule._PassiveAttr__destroy_popup__charge_popup
 
 
-_PassiveAttr__CreateQuestionPopup,		<cyfunction PassiveAttr.__CreateQuestionPopup at 0x1948EA80>
+_PassiveAttr__CreateQuestionPopup,		<cyfunction PassiveAttr.__CreateQuestionPopup at 0x19C4EA80>
 	arg0: self
 
 submodule._PassiveAttr__CreateQuestionPopup
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__ClearCurPageSubSlot,		<cyfunction PassiveAttr.__ClearCurPageSubSlot at 0x194933A0>
+_PassiveAttr__ClearCurPageSubSlot,		<cyfunction PassiveAttr.__ClearCurPageSubSlot at 0x19C533A0>
 	arg0: self
 
 submodule._PassiveAttr__ClearCurPageSubSlot
@@ -356,7 +356,7 @@ _PassiveAttr__COOLTIME_SECOND_ACTIVATE,		5
 submodule._PassiveAttr__COOLTIME_SECOND_ACTIVATE
 
 
-_PassiveAttr__SendPassiveAttrActivateDeactivate,		<cyfunction PassiveAttr.__SendPassiveAttrActivateDeactivate at 0x1948ED98>
+_PassiveAttr__SendPassiveAttrActivateDeactivate,		<cyfunction PassiveAttr.__SendPassiveAttrActivateDeactivate at 0x19C4ED98>
 	arg0: self
 	arg1: is_activate
 	arg2: page
@@ -368,13 +368,13 @@ _PassiveAttr__cooltime_equip,		<member '_PassiveAttr__cooltime_equip' of 'Passiv
 submodule._PassiveAttr__cooltime_equip
 
 
-_PassiveAttr__CheckDeactivate,		<cyfunction PassiveAttr.__CheckDeactivate at 0x1948ED40>
+_PassiveAttr__CheckDeactivate,		<cyfunction PassiveAttr.__CheckDeactivate at 0x19C4ED40>
 	arg0: self
 	arg1: page
 
 submodule._PassiveAttr__CheckDeactivate
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__SendPassiveAttrCharge,		<cyfunction PassiveAttr.__SendPassiveAttrCharge at 0x1948EB88>
+_PassiveAttr__SendPassiveAttrCharge,		<cyfunction PassiveAttr.__SendPassiveAttrCharge at 0x19C4EB88>
 	arg0: self
 	arg1: result_tuple
 
@@ -385,7 +385,7 @@ _PassiveAttr__page_button_dict,		<member '_PassiveAttr__page_button_dict' of 'Pa
 submodule._PassiveAttr__page_button_dict
 
 
-_PassiveAttr__UnselectSubSlot,		<cyfunction PassiveAttr.__UnselectSubSlot at 0x19493138>
+_PassiveAttr__UnselectSubSlot,		<cyfunction PassiveAttr.__UnselectSubSlot at 0x19C53138>
 	arg0: self
 	arg1: slot_index
 
@@ -401,40 +401,40 @@ _PassiveAttr__add_button,		<member '_PassiveAttr__add_button' of 'PassiveAttr' o
 submodule._PassiveAttr__add_button
 
 
-_PassiveAttr__LoadWindow,		<cyfunction PassiveAttr.__LoadWindow at 0x1948E978>
+_PassiveAttr__LoadWindow,		<cyfunction PassiveAttr.__LoadWindow at 0x19C4E978>
 	arg0: self
 
 submodule._PassiveAttr__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-AttachToPassiveAttrSlot,		<cyfunction PassiveAttr.AttachToPassiveAttrSlot at 0x194931E8>
+AttachToPassiveAttrSlot,		<cyfunction PassiveAttr.AttachToPassiveAttrSlot at 0x19C531E8>
 	arg0: self
 	arg1: inven_window
 	arg2: inven_slot_index
 
 submodule.AttachToPassiveAttrSlot
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__ClickAddButton,		<cyfunction PassiveAttr.__ClickAddButton at 0x1948EBE0>
+_PassiveAttr__ClickAddButton,		<cyfunction PassiveAttr.__ClickAddButton at 0x19C4EBE0>
 	arg0: self
 
 submodule._PassiveAttr__ClickAddButton
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__OverInSubSlot,		<cyfunction PassiveAttr.__OverInSubSlot at 0x1948EEF8>
+_PassiveAttr__OverInSubSlot,		<cyfunction PassiveAttr.__OverInSubSlot at 0x19C4EEF8>
 	arg0: self
 	arg1: slot_index
 
 submodule._PassiveAttr__OverInSubSlot
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__ClickChargeButton,		<cyfunction PassiveAttr.__ClickChargeButton at 0x1948EB30>
+_PassiveAttr__ClickChargeButton,		<cyfunction PassiveAttr.__ClickChargeButton at 0x19C4EB30>
 	arg0: self
 
 submodule._PassiveAttr__ClickChargeButton
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PassiveAttr.OnPressEscapeKey at 0x1948E768>
+OnPressEscapeKey,		<cyfunction PassiveAttr.OnPressEscapeKey at 0x19C4E768>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__UnselectSlotPassiveJobSlot,		<cyfunction PassiveAttr.__UnselectSlotPassiveJobSlot at 0x194930E0>
+_PassiveAttr__UnselectSlotPassiveJobSlot,		<cyfunction PassiveAttr.__UnselectSlotPassiveJobSlot at 0x19C530E0>
 	arg0: self
 	arg1: slot_index
 
@@ -450,7 +450,7 @@ _PassiveAttr__charge_button,		<member '_PassiveAttr__charge_button' of 'PassiveA
 submodule._PassiveAttr__charge_button
 
 
-_PassiveAttr__LoadScript,		<cyfunction PassiveAttr.__LoadScript at 0x1948E920>
+_PassiveAttr__LoadScript,		<cyfunction PassiveAttr.__LoadScript at 0x19C4E920>
 	arg0: self
 	arg1: fileName
 
@@ -461,17 +461,17 @@ _PassiveAttr__interface,		<member '_PassiveAttr__interface' of 'PassiveAttr' obj
 submodule._PassiveAttr__interface
 
 
-Open,		<cyfunction PassiveAttr.Open at 0x1948E660>
+Open,		<cyfunction PassiveAttr.Open at 0x19C4E660>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__BindEvent,		<cyfunction PassiveAttr.__BindEvent at 0x1948EA28>
+_PassiveAttr__BindEvent,		<cyfunction PassiveAttr.__BindEvent at 0x19C4EA28>
 	arg0: self
 
 submodule._PassiveAttr__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__OverInPassiveJobSlot,		<cyfunction PassiveAttr.__OverInPassiveJobSlot at 0x1948EEA0>
+_PassiveAttr__OverInPassiveJobSlot,		<cyfunction PassiveAttr.__OverInPassiveJobSlot at 0x19C4EEA0>
 	arg0: self
 	arg1: slot_index
 
@@ -482,7 +482,7 @@ _PassiveAttr__is_requesting_charge,		<member '_PassiveAttr__is_requesting_charge
 submodule._PassiveAttr__is_requesting_charge
 
 
-OnUpdate,		<cyfunction PassiveAttr.OnUpdate at 0x1948EFA8>
+OnUpdate,		<cyfunction PassiveAttr.OnUpdate at 0x19C4EFA8>
 	arg0: self
 
 submodule.OnUpdate
@@ -492,14 +492,14 @@ __slots__,		('__is_loaded', '__inven_pos_dict', '__cur_page', '__activate_page__
 submodule.__slots__
 
 
-PassiveAttrProcess,		<cyfunction PassiveAttr.PassiveAttrProcess at 0x19493608>
+PassiveAttrProcess,		<cyfunction PassiveAttr.PassiveAttrProcess at 0x19C53608>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.PassiveAttrProcess
 Skipped: unbound method cython_function_or_method object must be called with PassiveAttr instance as first argument (got nothing instead)
-_PassiveAttr__GetInvenPos,		<cyfunction PassiveAttr.__GetInvenPos at 0x19493450>
+_PassiveAttr__GetInvenPos,		<cyfunction PassiveAttr.__GetInvenPos at 0x19C53450>
 	arg0: self
 	arg1: slot_index
 
@@ -510,7 +510,7 @@ _PassiveAttr__SLOT_INDEX_ELEMENT,		2
 submodule._PassiveAttr__SLOT_INDEX_ELEMENT
 
 
-_PassiveAttr__PassiveAttrAddReresultProcess,		<cyfunction PassiveAttr.__PassiveAttrAddReresultProcess at 0x194935B0>
+_PassiveAttr__PassiveAttrAddReresultProcess,		<cyfunction PassiveAttr.__PassiveAttrAddReresultProcess at 0x19C535B0>
 	arg0: self
 	arg1: is_success
 

@@ -1,7 +1,7 @@
 {'Children': [],
  'ElementDictionary': {},
  'eventClose': 0,
- 'hWnd': 787302696,
+ 'hWnd': 837505816,
  'isOpen': False,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,

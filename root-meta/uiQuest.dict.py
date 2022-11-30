@@ -126,7 +126,7 @@
             'import': [],
             'var': [{'name': 'QUEST_BUTTON_MAX_NUM', 'type': 'int', 'value': 8},
                     {'name': 'QUEST_CUT_WIDTH_LIMIT', 'type': 'int', 'value': 50},
-                    {'name': 'QuestCurtain', 'type': 'QuestCurtain', 'value': <uiQuest.QuestCurtain object at 0x2BF334D0>},
+                    {'name': 'QuestCurtain', 'type': 'QuestCurtain', 'value': <uiQuest.QuestCurtain object at 0x2CEFD2D0>},
                     {'name': 'SKIN_CINEMA', 'type': 'int', 'value': 5},
                     {'name': 'SKIN_NONE', 'type': 'int', 'value': 0},
                     {'name': 'TITLE_STATE_APPEAR', 'type': 'int', 'value': 1},

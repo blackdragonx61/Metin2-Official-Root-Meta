@@ -26,28 +26,28 @@ DEFAULT_BANNER_IMAGE_DOWN,		locale/hu/ui/web_linked_banner/btn_strame_long_003.t
 submodule.DEFAULT_BANNER_IMAGE_DOWN
 
 
-__del__,		<cyfunction WebLinkedBannerWindow.__del__ at 0x0BF47660>
+__del__,		<cyfunction WebLinkedBannerWindow.__del__ at 0x098F7660>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-_WebLinkedBannerWindow__RefreshButtonLineUp,		<cyfunction WebLinkedBannerWindow.__RefreshButtonLineUp at 0x0BF47920>
+_WebLinkedBannerWindow__RefreshButtonLineUp,		<cyfunction WebLinkedBannerWindow.__RefreshButtonLineUp at 0x098F7920>
 	arg0: self
 
 submodule._WebLinkedBannerWindow__RefreshButtonLineUp
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-_WebLinkedBannerWindow__LoadWebLinkedBannerData,		<cyfunction WebLinkedBannerWindow.__LoadWebLinkedBannerData at 0x0BF47870>
+_WebLinkedBannerWindow__LoadWebLinkedBannerData,		<cyfunction WebLinkedBannerWindow.__LoadWebLinkedBannerData at 0x098F7870>
 	arg0: self
 
 submodule._WebLinkedBannerWindow__LoadWebLinkedBannerData
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-_WebLinkedBannerWindow__LoadScript,		<cyfunction WebLinkedBannerWindow.__LoadScript at 0x0BF47768>
+_WebLinkedBannerWindow__LoadScript,		<cyfunction WebLinkedBannerWindow.__LoadScript at 0x098F7768>
 	arg0: self
 	arg1: fileName
 
 submodule._WebLinkedBannerWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction WebLinkedBannerWindow.Destroy at 0x0BF47710>
+Destroy,		<cyfunction WebLinkedBannerWindow.Destroy at 0x098F7710>
 	arg0: self
 
 submodule.Destroy
@@ -57,17 +57,17 @@ DEFAULT_BANNER_IMAGE_UP,		locale/hu/ui/web_linked_banner/btn_strame_long_001.tga
 submodule.DEFAULT_BANNER_IMAGE_UP
 
 
-__init__,		<cyfunction WebLinkedBannerWindow.__init__ at 0x0BF47608>
+__init__,		<cyfunction WebLinkedBannerWindow.__init__ at 0x098F7608>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-_WebLinkedBannerWindow__LoadWindow,		<cyfunction WebLinkedBannerWindow.__LoadWindow at 0x0BF477C0>
+_WebLinkedBannerWindow__LoadWindow,		<cyfunction WebLinkedBannerWindow.__LoadWindow at 0x098F77C0>
 	arg0: self
 
 submodule._WebLinkedBannerWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-_WebLinkedBannerWindow__ButtonOverOut,		<cyfunction WebLinkedBannerWindow.__ButtonOverOut at 0x0BF47A80>
+_WebLinkedBannerWindow__ButtonOverOut,		<cyfunction WebLinkedBannerWindow.__ButtonOverOut at 0x098F7A80>
 	arg0: self
 
 submodule._WebLinkedBannerWindow__ButtonOverOut
@@ -77,7 +77,7 @@ DEFAULT_BANNER_IMAGE_OVER,		locale/hu/ui/web_linked_banner/btn_strame_long_002.t
 submodule.DEFAULT_BANNER_IMAGE_OVER
 
 
-_WebLinkedBannerWindow__ButtonOverIn,		<cyfunction WebLinkedBannerWindow.__ButtonOverIn at 0x0BF47A28>
+_WebLinkedBannerWindow__ButtonOverIn,		<cyfunction WebLinkedBannerWindow.__ButtonOverIn at 0x098F7A28>
 	arg0: self
 	arg1: text
 
@@ -88,29 +88,29 @@ __qualname__,		WebLinkedBannerWindow
 submodule.__qualname__
 
 
-_WebLinkedBannerWindow__CreateBannerButton,		<cyfunction WebLinkedBannerWindow.__CreateBannerButton at 0x0BF478C8>
+_WebLinkedBannerWindow__CreateBannerButton,		<cyfunction WebLinkedBannerWindow.__CreateBannerButton at 0x098F78C8>
 	arg0: self
 	arg1: banner_index
 
 submodule._WebLinkedBannerWindow__CreateBannerButton
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-_WebLinkedBannerWindow__ClickButton,		<cyfunction WebLinkedBannerWindow.__ClickButton at 0x0BF479D0>
+_WebLinkedBannerWindow__ClickButton,		<cyfunction WebLinkedBannerWindow.__ClickButton at 0x098F79D0>
 	arg0: self
 	arg1: data_index
 
 submodule._WebLinkedBannerWindow__ClickButton
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-Close,		<cyfunction WebLinkedBannerWindow.Close at 0x0BF476B8>
+Close,		<cyfunction WebLinkedBannerWindow.Close at 0x098F76B8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-_WebLinkedBannerWindow__BindObject,		<cyfunction WebLinkedBannerWindow.__BindObject at 0x0BF47818>
+_WebLinkedBannerWindow__BindObject,		<cyfunction WebLinkedBannerWindow.__BindObject at 0x098F7818>
 	arg0: self
 
 submodule._WebLinkedBannerWindow__BindObject
 Skipped: unbound method cython_function_or_method object must be called with WebLinkedBannerWindow instance as first argument (got nothing instead)
-Open,		<cyfunction WebLinkedBannerWindow.Open at 0x0BF47978>
+Open,		<cyfunction WebLinkedBannerWindow.Open at 0x098F7978>
 	arg0: self
 
 submodule.Open

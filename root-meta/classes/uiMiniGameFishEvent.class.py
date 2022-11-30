@@ -1,6 +1,6 @@
 {'cur_page': None,
- 'game_page': <uiMiniGameFishEvent.FishEventGamePage object at 0x2C2CD110>,
- 'hWnd': 791572176,
+ 'game_page': <uiMiniGameFishEvent.FishEventGamePage object at 0x2D0AB4D0>,
+ 'hWnd': 838911968,
  'inven': None,
  'isLoaded': 1,
  'onMouseLeftButtonUpEvent': None,
@@ -11,6 +11,6 @@
  'overOutFunc': None,
  'parentWindow': 0,
  'tooltipitem': None,
- 'waiting_page': <uiMiniGameFishEvent.FishEventGameWaitingPage object at 0x2C2CD6D0>,
+ 'waiting_page': <uiMiniGameFishEvent.FishEventGameWaitingPage object at 0x2D0AB310>,
  'window_horizontal_align': 0,
  'window_vertical_align': 0}

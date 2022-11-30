@@ -20,7 +20,7 @@ key: __doc__, val: None
 
 
 class GuildListDialog:
-SearchGuildForName,		<cyfunction GuildListDialog.SearchGuildForName at 0x0C4939D0>
+SearchGuildForName,		<cyfunction GuildListDialog.SearchGuildForName at 0x096239D0>
 	arg0: self
 
 submodule.SearchGuildForName
@@ -35,22 +35,22 @@ PAGEBUTTON_NUMBER_SIZE,		5
 submodule.PAGEBUTTON_NUMBER_SIZE
 
 
-SetRankingResultNameText,		<cyfunction GuildListDialog.SetRankingResultNameText at 0x0C4937C0>
+SetRankingResultNameText,		<cyfunction GuildListDialog.SetRankingResultNameText at 0x096237C0>
 	arg0: self
 
 submodule.SetRankingResultNameText
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-firstprevbutton,		<cyfunction GuildListDialog.firstprevbutton at 0x0C493CE8>
+firstprevbutton,		<cyfunction GuildListDialog.firstprevbutton at 0x09623CE8>
 	arg0: self
 
 submodule.firstprevbutton
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-ClearBase,		<cyfunction GuildListDialog.ClearBase at 0x0C493F50>
+ClearBase,		<cyfunction GuildListDialog.ClearBase at 0x09623F50>
 	arg0: self
 
 submodule.ClearBase
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-Pagebutton,		<cyfunction GuildListDialog.Pagebutton at 0x0C493C38>
+Pagebutton,		<cyfunction GuildListDialog.Pagebutton at 0x09623C38>
 	arg0: self
 	arg1: number
 
@@ -61,12 +61,12 @@ MAX_LINE_COUNT,		8
 submodule.MAX_LINE_COUNT
 
 
-ShowPromoteGuild,		<cyfunction GuildListDialog.ShowPromoteGuild at 0x0C493A28>
+ShowPromoteGuild,		<cyfunction GuildListDialog.ShowPromoteGuild at 0x09623A28>
 	arg0: self
 
 submodule.ShowPromoteGuild
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction GuildListDialog.Destroy at 0x0C493500>
+Destroy,		<cyfunction GuildListDialog.Destroy at 0x09623500>
 	arg0: self
 
 submodule.Destroy
@@ -76,28 +76,28 @@ PAGEBUTTON_MAX_SIZE,		9
 submodule.PAGEBUTTON_MAX_SIZE
 
 
-SelectPage,		<cyfunction GuildListDialog.SelectPage at 0x0C493A80>
+SelectPage,		<cyfunction GuildListDialog.SelectPage at 0x09623A80>
 	arg0: self
 	arg1: arg
 
 submodule.SelectPage
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-nextbutton,		<cyfunction GuildListDialog.nextbutton at 0x0C493DF0>
+nextbutton,		<cyfunction GuildListDialog.nextbutton at 0x09623DF0>
 	arg0: self
 
 submodule.nextbutton
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction GuildListDialog.__init__ at 0x0C493450>
+__init__,		<cyfunction GuildListDialog.__init__ at 0x09623450>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-OverOutToolTipButton,		<cyfunction GuildListDialog.OverOutToolTipButton at 0x0C493710>
+OverOutToolTipButton,		<cyfunction GuildListDialog.OverOutToolTipButton at 0x09623710>
 	arg0: self
 
 submodule.OverOutToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction GuildListDialog.OnUpdate at 0x0C4938C8>
+OnUpdate,		<cyfunction GuildListDialog.OnUpdate at 0x096238C8>
 	arg0: self
 
 submodule.OnUpdate
@@ -107,23 +107,23 @@ SPECIAL_TITLE_COLOR,		4283317552
 submodule.SPECIAL_TITLE_COLOR
 
 
-_GuildListDialog__LoadWindow,		<cyfunction GuildListDialog.__LoadWindow at 0x0C493660>
+_GuildListDialog__LoadWindow,		<cyfunction GuildListDialog.__LoadWindow at 0x09623660>
 	arg0: self
 
 submodule._GuildListDialog__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-_GuildListDialog__SelectItem,		<cyfunction GuildListDialog.__SelectItem at 0x0C493AD8>
+_GuildListDialog__SelectItem,		<cyfunction GuildListDialog.__SelectItem at 0x09623AD8>
 	arg0: self
 	arg1: arg
 
 submodule._GuildListDialog__SelectItem
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-SendRequestList,		<cyfunction GuildListDialog.SendRequestList at 0x0C493C90>
+SendRequestList,		<cyfunction GuildListDialog.SendRequestList at 0x09623C90>
 	arg0: self
 
 submodule.SendRequestList
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-_GuildListDialog__MakeResultUI,		<cyfunction GuildListDialog.__MakeResultUI at 0x0C493870>
+_GuildListDialog__MakeResultUI,		<cyfunction GuildListDialog.__MakeResultUI at 0x09623870>
 	arg0: self
 
 submodule._GuildListDialog__MakeResultUI
@@ -133,7 +133,7 @@ CLICK_LIMIT_TIME,		3
 submodule.CLICK_LIMIT_TIME
 
 
-prevbutton,		<cyfunction GuildListDialog.prevbutton at 0x0C493D98>
+prevbutton,		<cyfunction GuildListDialog.prevbutton at 0x09623D98>
 	arg0: self
 
 submodule.prevbutton
@@ -143,7 +143,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OverInToolTipButton,		<cyfunction GuildListDialog.OverInToolTipButton at 0x0C4936B8>
+OverInToolTipButton,		<cyfunction GuildListDialog.OverInToolTipButton at 0x096236B8>
 	arg0: self
 	arg1: arg
 
@@ -154,18 +154,18 @@ EMPIRE_ALL,		0
 submodule.EMPIRE_ALL
 
 
-AllResultSlotButtonUp,		<cyfunction GuildListDialog.AllResultSlotButtonUp at 0x0C493EF8>
+AllResultSlotButtonUp,		<cyfunction GuildListDialog.AllResultSlotButtonUp at 0x09623EF8>
 	arg0: self
 
 submodule.AllResultSlotButtonUp
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-RefreshGuildRankingList,		<cyfunction GuildListDialog.RefreshGuildRankingList at 0x0C493B30>
+RefreshGuildRankingList,		<cyfunction GuildListDialog.RefreshGuildRankingList at 0x09623B30>
 	arg0: self
 	arg1: issearch
 
 submodule.RefreshGuildRankingList
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildListDialog.__del__ at 0x0C4934A8>
+__del__,		<cyfunction GuildListDialog.__del__ at 0x096234A8>
 	arg0: self
 
 submodule.__del__
@@ -175,39 +175,39 @@ APPLICANT,		4
 submodule.APPLICANT
 
 
-SetPageButton,		<cyfunction GuildListDialog.SetPageButton at 0x0C493B88>
+SetPageButton,		<cyfunction GuildListDialog.SetPageButton at 0x09623B88>
 	arg0: self
 	arg1: maxsize
 	arg2: page
 
 submodule.SetPageButton
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-IsShow,		<cyfunction GuildListDialog.IsShow at 0x0C4935B0>
+IsShow,		<cyfunction GuildListDialog.IsShow at 0x096235B0>
 	arg0: self
 
 submodule.IsShow
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-ApplicantGuild,		<cyfunction GuildListDialog.ApplicantGuild at 0x0C493920>
+ApplicantGuild,		<cyfunction GuildListDialog.ApplicantGuild at 0x09623920>
 	arg0: self
 
 submodule.ApplicantGuild
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-ButtonToolTipProgress,		<cyfunction GuildListDialog.ButtonToolTipProgress at 0x0C493768>
+ButtonToolTipProgress,		<cyfunction GuildListDialog.ButtonToolTipProgress at 0x09623768>
 	arg0: self
 
 submodule.ButtonToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction GuildListDialog.OnPressEscapeKey at 0x0C493FA8>
+OnPressEscapeKey,		<cyfunction GuildListDialog.OnPressEscapeKey at 0x09623FA8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-Close,		<cyfunction GuildListDialog.Close at 0x0C493608>
+Close,		<cyfunction GuildListDialog.Close at 0x09623608>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-clearPagebuttoncolor,		<cyfunction GuildListDialog.clearPagebuttoncolor at 0x0C493E48>
+clearPagebuttoncolor,		<cyfunction GuildListDialog.clearPagebuttoncolor at 0x09623E48>
 	arg0: self
 
 submodule.clearPagebuttoncolor
@@ -217,13 +217,13 @@ PAGEONE_MAX_SIZE,		50
 submodule.PAGEONE_MAX_SIZE
 
 
-ApplicantGuildDialog,		<cyfunction GuildListDialog.ApplicantGuildDialog at 0x0C493978>
+ApplicantGuildDialog,		<cyfunction GuildListDialog.ApplicantGuildDialog at 0x09623978>
 	arg0: self
 	arg1: arg
 
 submodule.ApplicantGuildDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-HidePageButton,		<cyfunction GuildListDialog.HidePageButton at 0x0C493EA0>
+HidePageButton,		<cyfunction GuildListDialog.HidePageButton at 0x09623EA0>
 	arg0: self
 
 submodule.HidePageButton
@@ -233,22 +233,22 @@ __qualname__,		GuildListDialog
 submodule.__qualname__
 
 
-SetApplicantResultNameText,		<cyfunction GuildListDialog.SetApplicantResultNameText at 0x0C493818>
+SetApplicantResultNameText,		<cyfunction GuildListDialog.SetApplicantResultNameText at 0x09623818>
 	arg0: self
 
 submodule.SetApplicantResultNameText
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-lastnextbutton,		<cyfunction GuildListDialog.lastnextbutton at 0x0C493D40>
+lastnextbutton,		<cyfunction GuildListDialog.lastnextbutton at 0x09623D40>
 	arg0: self
 
 submodule.lastnextbutton
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-HideItemButton,		<cyfunction GuildListDialog.HideItemButton at 0x0C493BE0>
+HideItemButton,		<cyfunction GuildListDialog.HideItemButton at 0x09623BE0>
 	arg0: self
 
 submodule.HideItemButton
 Skipped: unbound method cython_function_or_method object must be called with GuildListDialog instance as first argument (got nothing instead)
-Open,		<cyfunction GuildListDialog.Open at 0x0C493558>
+Open,		<cyfunction GuildListDialog.Open at 0x09623558>
 	arg0: self
 
 submodule.Open

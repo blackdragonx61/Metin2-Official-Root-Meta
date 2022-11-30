@@ -21,7 +21,7 @@ key: PartyMemberInfoBoard, val: <class 'uiParty.PartyMemberInfoBoard'>
 
 
 class PartyWindow:
-PartyHealReady,		<cyfunction PartyWindow.PartyHealReady at 0x0C45FCE8>
+PartyHealReady,		<cyfunction PartyWindow.PartyHealReady at 0x095EFCE8>
 	arg0: self
 
 submodule.PartyHealReady
@@ -31,59 +31,59 @@ __module__,		uiParty
 submodule.__module__
 
 
-Hide,		<cyfunction PartyWindow.Hide at 0x0C45FDF0>
+Hide,		<cyfunction PartyWindow.Hide at 0x095EFDF0>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-ChangePartyParameter,		<cyfunction PartyWindow.ChangePartyParameter at 0x0C45FD40>
+ChangePartyParameter,		<cyfunction PartyWindow.ChangePartyParameter at 0x095EFD40>
 	arg0: self
 	arg1: distributionMode
 
 submodule.ChangePartyParameter
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-_PartyWindow__CreatePartyMenuButton,		<cyfunction PartyWindow.__CreatePartyMenuButton at 0x0C45FA80>
+_PartyWindow__CreatePartyMenuButton,		<cyfunction PartyWindow.__CreatePartyMenuButton at 0x095EFA80>
 	arg0: self
 
 submodule._PartyWindow__CreatePartyMenuButton
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction PartyWindow.__del__ at 0x0C45F978>
+__del__,		<cyfunction PartyWindow.__del__ at 0x095EF978>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-_PartyWindow__FindPartyMemberInfoBoardByPID,		<cyfunction PartyWindow.__FindPartyMemberInfoBoardByPID at 0x0C45FC90>
+_PartyWindow__FindPartyMemberInfoBoardByPID,		<cyfunction PartyWindow.__FindPartyMemberInfoBoardByPID at 0x095EFC90>
 	arg0: self
 	arg1: pid
 
 submodule._PartyWindow__FindPartyMemberInfoBoardByPID
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-_PartyWindow__ArrangePartyMemberInfoBoard,		<cyfunction PartyWindow.__ArrangePartyMemberInfoBoard at 0x0C45FBE0>
+_PartyWindow__ArrangePartyMemberInfoBoard,		<cyfunction PartyWindow.__ArrangePartyMemberInfoBoard at 0x095EFBE0>
 	arg0: self
 
 submodule._PartyWindow__ArrangePartyMemberInfoBoard
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-OnTogglePartyMenu,		<cyfunction PartyWindow.OnTogglePartyMenu at 0x0C45FD98>
+OnTogglePartyMenu,		<cyfunction PartyWindow.OnTogglePartyMenu at 0x095EFD98>
 	arg0: self
 
 submodule.OnTogglePartyMenu
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction PartyWindow.Destroy at 0x0C45F9D0>
+Destroy,		<cyfunction PartyWindow.Destroy at 0x095EF9D0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction PartyWindow.__init__ at 0x0C45F920>
+__init__,		<cyfunction PartyWindow.__init__ at 0x095EF920>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-_PartyWindow__CreatePartyMenu,		<cyfunction PartyWindow.__CreatePartyMenu at 0x0C45FAD8>
+_PartyWindow__CreatePartyMenu,		<cyfunction PartyWindow.__CreatePartyMenu at 0x095EFAD8>
 	arg0: self
 
 submodule._PartyWindow__CreatePartyMenu
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-DestroyPartyMemberInfoBoard,		<cyfunction PartyWindow.DestroyPartyMemberInfoBoard at 0x0C45FA28>
+DestroyPartyMemberInfoBoard,		<cyfunction PartyWindow.DestroyPartyMemberInfoBoard at 0x095EFA28>
 	arg0: self
 
 submodule.DestroyPartyMemberInfoBoard
@@ -93,13 +93,13 @@ __qualname__,		PartyWindow
 submodule.__qualname__
 
 
-_PartyWindow__FindPartyMemberInfoBoardByVID,		<cyfunction PartyWindow.__FindPartyMemberInfoBoardByVID at 0x0C45FC38>
+_PartyWindow__FindPartyMemberInfoBoardByVID,		<cyfunction PartyWindow.__FindPartyMemberInfoBoardByVID at 0x095EFC38>
 	arg0: self
 	arg1: vid
 
 submodule._PartyWindow__FindPartyMemberInfoBoardByVID
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-PartyProcess,		<cyfunction PartyWindow.PartyProcess at 0x0C45FB30>
+PartyProcess,		<cyfunction PartyWindow.PartyProcess at 0x095EFB30>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -107,7 +107,7 @@ PartyProcess,		<cyfunction PartyWindow.PartyProcess at 0x0C45FB30>
 
 submodule.PartyProcess
 Skipped: unbound method cython_function_or_method object must be called with PartyWindow instance as first argument (got nothing instead)
-ExitParty,		<cyfunction PartyWindow.ExitParty at 0x0C45FB88>
+ExitParty,		<cyfunction PartyWindow.ExitParty at 0x095EFB88>
 	arg0: self
 
 submodule.ExitParty
@@ -120,7 +120,7 @@ submodule.__doc__
 
 
 class PartyMenu:
-PartyHealReady,		<cyfunction PartyMenu.PartyHealReady at 0x0C45F710>
+PartyHealReady,		<cyfunction PartyMenu.PartyHealReady at 0x095EF710>
 	arg0: self
 
 submodule.PartyHealReady
@@ -130,86 +130,86 @@ __module__,		uiParty
 submodule.__module__
 
 
-_PartyMenu__HideButton,		<cyfunction PartyMenu.__HideButton at 0x0C45F5B0>
+_PartyMenu__HideButton,		<cyfunction PartyMenu.__HideButton at 0x095EF5B0>
 	arg0: self
 	arg1: name
 
 submodule._PartyMenu__HideButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-ChangePartyParameter,		<cyfunction PartyMenu.ChangePartyParameter at 0x0C45F8C8>
+ChangePartyParameter,		<cyfunction PartyMenu.ChangePartyParameter at 0x095EF8C8>
 	arg0: self
 	arg1: distributionMode
 
 submodule.ChangePartyParameter
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-OnPartyUseSkill,		<cyfunction PartyMenu.OnPartyUseSkill at 0x0C45F6B8>
+OnPartyUseSkill,		<cyfunction PartyMenu.OnPartyUseSkill at 0x095EF6B8>
 	arg0: self
 
 submodule.OnPartyUseSkill
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-_PartyMenu__ShowButton,		<cyfunction PartyMenu.__ShowButton at 0x0C45F558>
+_PartyMenu__ShowButton,		<cyfunction PartyMenu.__ShowButton at 0x095EF558>
 	arg0: self
 	arg1: name
 
 submodule._PartyMenu__ShowButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-__del__,		<cyfunction PartyMenu.__del__ at 0x0C45F348>
+__del__,		<cyfunction PartyMenu.__del__ at 0x095EF348>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-_PartyMenu__CreateButtons,		<cyfunction PartyMenu.__CreateButtons at 0x0C45F450>
+_PartyMenu__CreateButtons,		<cyfunction PartyMenu.__CreateButtons at 0x095EF450>
 	arg0: self
 
 submodule._PartyMenu__CreateButtons
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-OnClickEXPDistributeParity,		<cyfunction PartyMenu.OnClickEXPDistributeParity at 0x0C45F870>
+OnClickEXPDistributeParity,		<cyfunction PartyMenu.OnClickEXPDistributeParity at 0x095EF870>
 	arg0: self
 
 submodule.OnClickEXPDistributeParity
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-_PartyMenu__ArrangeButtons,		<cyfunction PartyMenu.__ArrangeButtons at 0x0C45F500>
+_PartyMenu__ArrangeButtons,		<cyfunction PartyMenu.__ArrangeButtons at 0x095EF500>
 	arg0: self
 
 submodule._PartyMenu__ArrangeButtons
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-ShowLeaderButton,		<cyfunction PartyMenu.ShowLeaderButton at 0x0C45F608>
+ShowLeaderButton,		<cyfunction PartyMenu.ShowLeaderButton at 0x095EF608>
 	arg0: self
 
 submodule.ShowLeaderButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-Destroy,		<cyfunction PartyMenu.Destroy at 0x0C45F3A0>
+Destroy,		<cyfunction PartyMenu.Destroy at 0x095EF3A0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-__init__,		<cyfunction PartyMenu.__init__ at 0x0C45F2F0>
+__init__,		<cyfunction PartyMenu.__init__ at 0x095EF2F0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-_PartyMenu__SetModeButton,		<cyfunction PartyMenu.__SetModeButton at 0x0C45F7C0>
+_PartyMenu__SetModeButton,		<cyfunction PartyMenu.__SetModeButton at 0x095EF7C0>
 	arg0: self
 	arg1: mode
 
 submodule._PartyMenu__SetModeButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-_PartyMenu__CreateModeButtons,		<cyfunction PartyMenu.__CreateModeButtons at 0x0C45F3F8>
+_PartyMenu__CreateModeButtons,		<cyfunction PartyMenu.__CreateModeButtons at 0x095EF3F8>
 	arg0: self
 
 submodule._PartyMenu__CreateModeButtons
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-OnClickEXPLevel,		<cyfunction PartyMenu.OnClickEXPLevel at 0x0C45F818>
+OnClickEXPLevel,		<cyfunction PartyMenu.OnClickEXPLevel at 0x095EF818>
 	arg0: self
 
 submodule.OnClickEXPLevel
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-ShowMemberButton,		<cyfunction PartyMenu.ShowMemberButton at 0x0C45F660>
+ShowMemberButton,		<cyfunction PartyMenu.ShowMemberButton at 0x095EF660>
 	arg0: self
 
 submodule.ShowMemberButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMenu instance as first argument (got nothing instead)
-_PartyMenu__UpAllModeButtons,		<cyfunction PartyMenu.__UpAllModeButtons at 0x0C45F768>
+_PartyMenu__UpAllModeButtons,		<cyfunction PartyMenu.__UpAllModeButtons at 0x095EF768>
 	arg0: self
 
 submodule._PartyMenu__UpAllModeButtons
@@ -219,7 +219,7 @@ __qualname__,		PartyMenu
 submodule.__qualname__
 
 
-_PartyMenu__ClearShowingButtons,		<cyfunction PartyMenu.__ClearShowingButtons at 0x0C45F4A8>
+_PartyMenu__ClearShowingButtons,		<cyfunction PartyMenu.__ClearShowingButtons at 0x095EF4A8>
 	arg0: self
 
 submodule._PartyMenu__ClearShowingButtons
@@ -242,34 +242,34 @@ BOARD_COLOR,		2130706432
 submodule.BOARD_COLOR
 
 
-_PartyMemberInfoBoard__CreateAffectToolTip,		<cyfunction PartyMemberInfoBoard.__CreateAffectToolTip at 0x0C458920>
+_PartyMemberInfoBoard__CreateAffectToolTip,		<cyfunction PartyMemberInfoBoard.__CreateAffectToolTip at 0x095E8920>
 	arg0: self
 
 submodule._PartyMemberInfoBoard__CreateAffectToolTip
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-_PartyMemberInfoBoard__LoadBoard,		<cyfunction PartyMemberInfoBoard.__LoadBoard at 0x0C4587C0>
+_PartyMemberInfoBoard__LoadBoard,		<cyfunction PartyMemberInfoBoard.__LoadBoard at 0x095E87C0>
 	arg0: self
 
 submodule._PartyMemberInfoBoard__LoadBoard
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-_PartyMemberInfoBoard__GetAffectNumber,		<cyfunction PartyMemberInfoBoard.__GetAffectNumber at 0x0C458B30>
+_PartyMemberInfoBoard__GetAffectNumber,		<cyfunction PartyMemberInfoBoard.__GetAffectNumber at 0x095E8B30>
 	arg0: self
 	arg1: img
 
 submodule._PartyMemberInfoBoard__GetAffectNumber
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-SetCharacterPID,		<cyfunction PartyMemberInfoBoard.SetCharacterPID at 0x0C458C38>
+SetCharacterPID,		<cyfunction PartyMemberInfoBoard.SetCharacterPID at 0x095E8C38>
 	arg0: self
 	arg1: pid
 
 submodule.SetCharacterPID
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-Destroy,		<cyfunction PartyMemberInfoBoard.Destroy at 0x0C458818>
+Destroy,		<cyfunction PartyMemberInfoBoard.Destroy at 0x095E8818>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-_PartyMemberInfoBoard__AppendStateButton,		<cyfunction PartyMemberInfoBoard.__AppendStateButton at 0x0C458A28>
+_PartyMemberInfoBoard__AppendStateButton,		<cyfunction PartyMemberInfoBoard.__AppendStateButton at 0x095E8A28>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -277,17 +277,17 @@ _PartyMemberInfoBoard__AppendStateButton,		<cyfunction PartyMemberInfoBoard.__Ap
 
 submodule._PartyMemberInfoBoard__AppendStateButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-__init__,		<cyfunction PartyMemberInfoBoard.__init__ at 0x0C458710>
+__init__,		<cyfunction PartyMemberInfoBoard.__init__ at 0x095E8710>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-_PartyMemberInfoBoard__ShowStateButton,		<cyfunction PartyMemberInfoBoard.__ShowStateButton at 0x0C458A80>
+_PartyMemberInfoBoard__ShowStateButton,		<cyfunction PartyMemberInfoBoard.__ShowStateButton at 0x095E8A80>
 	arg0: self
 
 submodule._PartyMemberInfoBoard__ShowStateButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-OnMouseRightButtonDown,		<cyfunction PartyMemberInfoBoard.OnMouseRightButtonDown at 0x0C45F0E0>
+OnMouseRightButtonDown,		<cyfunction PartyMemberInfoBoard.OnMouseRightButtonDown at 0x095EF0E0>
 	arg0: self
 
 submodule.OnMouseRightButtonDown
@@ -297,23 +297,23 @@ __qualname__,		PartyMemberInfoBoard
 submodule.__qualname__
 
 
-OnMouseLeftButtonDown,		<cyfunction PartyMemberInfoBoard.OnMouseLeftButtonDown at 0x0C45F088>
+OnMouseLeftButtonDown,		<cyfunction PartyMemberInfoBoard.OnMouseLeftButtonDown at 0x095EF088>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-_PartyMemberInfoBoard__GetPartySkillLevel,		<cyfunction PartyMemberInfoBoard.__GetPartySkillLevel at 0x0C4589D0>
+_PartyMemberInfoBoard__GetPartySkillLevel,		<cyfunction PartyMemberInfoBoard.__GetPartySkillLevel at 0x095E89D0>
 	arg0: self
 
 submodule._PartyMemberInfoBoard__GetPartySkillLevel
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-OnAffectOverOut,		<cyfunction PartyMemberInfoBoard.OnAffectOverOut at 0x0C45F190>
+OnAffectOverOut,		<cyfunction PartyMemberInfoBoard.OnAffectOverOut at 0x095EF190>
 	arg0: self
 	arg1: index
 
 submodule.OnAffectOverOut
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-_PartyMemberInfoBoard__SetAffectsMouseEvent,		<cyfunction PartyMemberInfoBoard.__SetAffectsMouseEvent at 0x0C458870>
+_PartyMemberInfoBoard__SetAffectsMouseEvent,		<cyfunction PartyMemberInfoBoard.__SetAffectsMouseEvent at 0x095E8870>
 	arg0: self
 
 submodule._PartyMemberInfoBoard__SetAffectsMouseEvent
@@ -323,23 +323,23 @@ LINK_COLOR,		-4079167
 submodule.LINK_COLOR
 
 
-SetCharacterHP,		<cyfunction PartyMemberInfoBoard.SetCharacterHP at 0x0C458D98>
+SetCharacterHP,		<cyfunction PartyMemberInfoBoard.SetCharacterHP at 0x095E8D98>
 	arg0: self
 	arg1: hpPercentage
 
 submodule.SetCharacterHP
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-OnExpel,		<cyfunction PartyMemberInfoBoard.OnExpel at 0x0C45F030>
+OnExpel,		<cyfunction PartyMemberInfoBoard.OnExpel at 0x095EF030>
 	arg0: self
 
 submodule.OnExpel
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-__del__,		<cyfunction PartyMemberInfoBoard.__del__ at 0x0C458768>
+__del__,		<cyfunction PartyMemberInfoBoard.__del__ at 0x095E8768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-Link,		<cyfunction PartyMemberInfoBoard.Link at 0x0C458EA0>
+Link,		<cyfunction PartyMemberInfoBoard.Link at 0x095E8EA0>
 	arg0: self
 
 submodule.Link
@@ -349,7 +349,7 @@ BOARD_WIDTH,		106
 submodule.BOARD_WIDTH
 
 
-Unlink,		<cyfunction PartyMemberInfoBoard.Unlink at 0x0C458EF8>
+Unlink,		<cyfunction PartyMemberInfoBoard.Unlink at 0x095E8EF8>
 	arg0: self
 
 submodule.Unlink
@@ -364,27 +364,27 @@ GAUGE_OUT_LINE_COLOR,		1291845631
 submodule.GAUGE_OUT_LINE_COLOR
 
 
-OnMouseOverOut,		<cyfunction PartyMemberInfoBoard.OnMouseOverOut at 0x0C45F298>
+OnMouseOverOut,		<cyfunction PartyMemberInfoBoard.OnMouseOverOut at 0x095EF298>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-_PartyMemberInfoBoard__CreateStateButton,		<cyfunction PartyMemberInfoBoard.__CreateStateButton at 0x0C458978>
+_PartyMemberInfoBoard__CreateStateButton,		<cyfunction PartyMemberInfoBoard.__CreateStateButton at 0x095E8978>
 	arg0: self
 
 submodule._PartyMemberInfoBoard__CreateStateButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-GetCharacterName,		<cyfunction PartyMemberInfoBoard.GetCharacterName at 0x0C458BE0>
+GetCharacterName,		<cyfunction PartyMemberInfoBoard.GetCharacterName at 0x095E8BE0>
 	arg0: self
 
 submodule.GetCharacterName
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-_PartyMemberInfoBoard__HideAllAffects,		<cyfunction PartyMemberInfoBoard.__HideAllAffects at 0x0C4588C8>
+_PartyMemberInfoBoard__HideAllAffects,		<cyfunction PartyMemberInfoBoard.__HideAllAffects at 0x095E88C8>
 	arg0: self
 
 submodule._PartyMemberInfoBoard__HideAllAffects
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-SetAffect,		<cyfunction PartyMemberInfoBoard.SetAffect at 0x0C458E48>
+SetAffect,		<cyfunction PartyMemberInfoBoard.SetAffect at 0x095E8E48>
 	arg0: self
 	arg1: affectSlotIndex
 	arg2: affectValue
@@ -396,46 +396,46 @@ UNLINK_COLOR,		-8421505
 submodule.UNLINK_COLOR
 
 
-GetCharacterPID,		<cyfunction PartyMemberInfoBoard.GetCharacterPID at 0x0C458CE8>
+GetCharacterPID,		<cyfunction PartyMemberInfoBoard.GetCharacterPID at 0x095E8CE8>
 	arg0: self
 
 submodule.GetCharacterPID
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-SetCurrentMapName,		<cyfunction PartyMemberInfoBoard.SetCurrentMapName at 0x0C45F1E8>
+SetCurrentMapName,		<cyfunction PartyMemberInfoBoard.SetCurrentMapName at 0x095EF1E8>
 	arg0: self
 	arg1: MapName
 
 submodule.SetCurrentMapName
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-GetCharacterVID,		<cyfunction PartyMemberInfoBoard.GetCharacterVID at 0x0C458D40>
+GetCharacterVID,		<cyfunction PartyMemberInfoBoard.GetCharacterVID at 0x095E8D40>
 	arg0: self
 
 submodule.GetCharacterVID
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-SetCharacterVID,		<cyfunction PartyMemberInfoBoard.SetCharacterVID at 0x0C458C90>
+SetCharacterVID,		<cyfunction PartyMemberInfoBoard.SetCharacterVID at 0x095E8C90>
 	arg0: self
 	arg1: vid
 
 submodule.SetCharacterVID
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-HideStateButton,		<cyfunction PartyMemberInfoBoard.HideStateButton at 0x0C458AD8>
+HideStateButton,		<cyfunction PartyMemberInfoBoard.HideStateButton at 0x095E8AD8>
 	arg0: self
 
 submodule.HideStateButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-SetCharacterState,		<cyfunction PartyMemberInfoBoard.SetCharacterState at 0x0C458DF0>
+SetCharacterState,		<cyfunction PartyMemberInfoBoard.SetCharacterState at 0x095E8DF0>
 	arg0: self
 	arg1: state
 
 submodule.SetCharacterState
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-SetCharacterName,		<cyfunction PartyMemberInfoBoard.SetCharacterName at 0x0C458B88>
+SetCharacterName,		<cyfunction PartyMemberInfoBoard.SetCharacterName at 0x095E8B88>
 	arg0: self
 	arg1: name
 
 submodule.SetCharacterName
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-OnAffectOverIn,		<cyfunction PartyMemberInfoBoard.OnAffectOverIn at 0x0C45F138>
+OnAffectOverIn,		<cyfunction PartyMemberInfoBoard.OnAffectOverIn at 0x095EF138>
 	arg0: self
 	arg1: index
 
@@ -443,18 +443,18 @@ submodule.OnAffectOverIn
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
 TextToolTip,		<class 'uiParty.TextToolTip'>
 Skip: type object 'TextToolTip' has no attribute 'func_code'
-OnMouseOverIn,		<cyfunction PartyMemberInfoBoard.OnMouseOverIn at 0x0C45F240>
+OnMouseOverIn,		<cyfunction PartyMemberInfoBoard.OnMouseOverIn at 0x095EF240>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-OnSelectState,		<cyfunction PartyMemberInfoBoard.OnSelectState at 0x0C458F50>
+OnSelectState,		<cyfunction PartyMemberInfoBoard.OnSelectState at 0x095E8F50>
 	arg0: self
 	arg1: state
 
 submodule.OnSelectState
 Skipped: unbound method cython_function_or_method object must be called with PartyMemberInfoBoard instance as first argument (got nothing instead)
-OnWarp,		<cyfunction PartyMemberInfoBoard.OnWarp at 0x0C458FA8>
+OnWarp,		<cyfunction PartyMemberInfoBoard.OnWarp at 0x095E8FA8>
 	arg0: self
 
 submodule.OnWarp

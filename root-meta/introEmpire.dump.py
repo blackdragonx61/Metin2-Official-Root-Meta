@@ -32,12 +32,12 @@ __module__,		introEmpire
 submodule.__module__
 
 
-ClickExitButton,		<cyfunction ReselectEmpireWindow.ClickExitButton at 0x2BFBEC38>
+ClickExitButton,		<cyfunction ReselectEmpireWindow.ClickExitButton at 0x2CEAD608>
 	arg0: self
 
 submodule.ClickExitButton
 Skipped: unbound method cython_function_or_method object must be called with ReselectEmpireWindow instance as first argument (got nothing instead)
-ClickSelectButton,		<cyfunction ReselectEmpireWindow.ClickSelectButton at 0x2BFBEBE0>
+ClickSelectButton,		<cyfunction ReselectEmpireWindow.ClickSelectButton at 0x2CEAD5B0>
 	arg0: self
 
 submodule.ClickSelectButton
@@ -55,12 +55,12 @@ __module__,		introEmpire
 submodule.__module__
 
 
-PrevDescriptionPage,		<cyfunction SelectEmpireWindow.PrevDescriptionPage at 0x2BFBE710>
+PrevDescriptionPage,		<cyfunction SelectEmpireWindow.PrevDescriptionPage at 0x2CEAD0E0>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-_SelectEmpireWindow__UpdateAlpha,		<cyfunction SelectEmpireWindow.__UpdateAlpha at 0x2BFBE9D0>
+_SelectEmpireWindow__UpdateAlpha,		<cyfunction SelectEmpireWindow.__UpdateAlpha at 0x2CEAD3A0>
 	arg0: self
 	arg1: dict
 	arg2: curAlphaDict
@@ -68,17 +68,17 @@ _SelectEmpireWindow__UpdateAlpha,		<cyfunction SelectEmpireWindow.__UpdateAlpha 
 
 submodule._SelectEmpireWindow__UpdateAlpha
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction SelectEmpireWindow.__del__ at 0x2BFBE450>
+__del__,		<cyfunction SelectEmpireWindow.__del__ at 0x2CEB0DF0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-ClickExitButton,		<cyfunction SelectEmpireWindow.ClickExitButton at 0x2BFBE920>
+ClickExitButton,		<cyfunction SelectEmpireWindow.ClickExitButton at 0x2CEAD2F0>
 	arg0: self
 
 submodule.ClickExitButton
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-OnOverOutEmpire,		<cyfunction SelectEmpireWindow.OnOverOutEmpire at 0x2BFBE660>
+OnOverOutEmpire,		<cyfunction SelectEmpireWindow.OnOverOutEmpire at 0x2CEAD030>
 	arg0: self
 	arg1: arg
 
@@ -91,23 +91,23 @@ __doc__,		None
 submodule.__doc__
 
 
-OnPressEscapeKey,		<cyfunction SelectEmpireWindow.OnPressEscapeKey at 0x2BFBEA28>
+OnPressEscapeKey,		<cyfunction SelectEmpireWindow.OnPressEscapeKey at 0x2CEAD3F8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-_SelectEmpireWindow__LoadScript,		<cyfunction SelectEmpireWindow.__LoadScript at 0x2BFBE7C0>
+_SelectEmpireWindow__LoadScript,		<cyfunction SelectEmpireWindow.__LoadScript at 0x2CEAD190>
 	arg0: self
 	arg1: fileName
 
 submodule._SelectEmpireWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-OverOutToolTip,		<cyfunction SelectEmpireWindow.OverOutToolTip at 0x2BFBEAD8>
+OverOutToolTip,		<cyfunction SelectEmpireWindow.OverOutToolTip at 0x2CEAD4A8>
 	arg0: self
 
 submodule.OverOutToolTip
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-OnOverInEmpire,		<cyfunction SelectEmpireWindow.OnOverInEmpire at 0x2BFBE608>
+OnOverInEmpire,		<cyfunction SelectEmpireWindow.OnOverInEmpire at 0x2CEB0FA8>
 	arg0: self
 	arg1: arg
 
@@ -118,51 +118,51 @@ EMPIRE_NAME_COLOR,		{1: (0.745, 0, 0), 2: (0.8666, 0.6156, 0.1843), 3: (0.2235, 
 submodule.EMPIRE_NAME_COLOR
 
 
-__init__,		<cyfunction SelectEmpireWindow.__init__ at 0x2BFBE3F8>
+__init__,		<cyfunction SelectEmpireWindow.__init__ at 0x2CEB0D98>
 	arg0: self
 	arg1: stream
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-ClickLeftButton,		<cyfunction SelectEmpireWindow.ClickLeftButton at 0x2BFBE818>
+ClickLeftButton,		<cyfunction SelectEmpireWindow.ClickLeftButton at 0x2CEAD1E8>
 	arg0: self
 
 submodule.ClickLeftButton
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction SelectEmpireWindow.OnUpdate at 0x2BFBE978>
+OnUpdate,		<cyfunction SelectEmpireWindow.OnUpdate at 0x2CEAD348>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-_SelectEmpireWindow__CreateButtons,		<cyfunction SelectEmpireWindow.__CreateButtons at 0x2BFBE558>
+_SelectEmpireWindow__CreateButtons,		<cyfunction SelectEmpireWindow.__CreateButtons at 0x2CEB0EF8>
 	arg0: self
 
 submodule._SelectEmpireWindow__CreateButtons
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction SelectEmpireWindow.OnPressExitKey at 0x2BFBEB88>
+OnPressExitKey,		<cyfunction SelectEmpireWindow.OnPressExitKey at 0x2CEAD558>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-ClickRightButton,		<cyfunction SelectEmpireWindow.ClickRightButton at 0x2BFBE870>
+ClickRightButton,		<cyfunction SelectEmpireWindow.ClickRightButton at 0x2CEAD240>
 	arg0: self
 
 submodule.ClickRightButton
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-_SelectEmpireWindow__CreateDescriptionBox,		<cyfunction SelectEmpireWindow.__CreateDescriptionBox at 0x2BFBE5B0>
+_SelectEmpireWindow__CreateDescriptionBox,		<cyfunction SelectEmpireWindow.__CreateDescriptionBox at 0x2CEB0F50>
 	arg0: self
 
 submodule._SelectEmpireWindow__CreateDescriptionBox
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
 EmpireButton,		<class 'introEmpire.EmpireButton'>
 Skip: type object 'EmpireButton' has no attribute 'func_code'
-OverInToolTip,		<cyfunction SelectEmpireWindow.OverInToolTip at 0x2BFBEA80>
+OverInToolTip,		<cyfunction SelectEmpireWindow.OverInToolTip at 0x2CEAD450>
 	arg0: self
 	arg1: arg
 
 submodule.OverInToolTip
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-OnSelectEmpire,		<cyfunction SelectEmpireWindow.OnSelectEmpire at 0x2BFBE6B8>
+OnSelectEmpire,		<cyfunction SelectEmpireWindow.OnSelectEmpire at 0x2CEAD088>
 	arg0: self
 	arg1: arg
 
@@ -173,12 +173,12 @@ __qualname__,		SelectEmpireWindow
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction SelectEmpireWindow.NextDescriptionPage at 0x2BFBE768>
+NextDescriptionPage,		<cyfunction SelectEmpireWindow.NextDescriptionPage at 0x2CEAD138>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-ToolTipProgress,		<cyfunction SelectEmpireWindow.ToolTipProgress at 0x2BFBEB30>
+ToolTipProgress,		<cyfunction SelectEmpireWindow.ToolTipProgress at 0x2CEAD500>
 	arg0: self
 
 submodule.ToolTipProgress
@@ -188,7 +188,7 @@ EMPIRE_NAME,		{1: 'Shinsoo birodalom', 2: 'Chunjo birodalom', 3: 'Jinno birodalo
 submodule.EMPIRE_NAME
 
 
-Close,		<cyfunction SelectEmpireWindow.Close at 0x2BFBE4A8>
+Close,		<cyfunction SelectEmpireWindow.Close at 0x2CEB0E48>
 	arg0: self
 
 submodule.Close
@@ -198,12 +198,12 @@ EMPIRE_DESCRIPTION_TEXT_FILE_NAME,		{1: 'locale/hu/empiredesc_a.txt', 2: 'locale
 submodule.EMPIRE_DESCRIPTION_TEXT_FILE_NAME
 
 
-Open,		<cyfunction SelectEmpireWindow.Open at 0x2BFBE500>
+Open,		<cyfunction SelectEmpireWindow.Open at 0x2CEB0EA0>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with SelectEmpireWindow instance as first argument (got nothing instead)
-ClickSelectButton,		<cyfunction SelectEmpireWindow.ClickSelectButton at 0x2BFBE8C8>
+ClickSelectButton,		<cyfunction SelectEmpireWindow.ClickSelectButton at 0x2CEAD298>
 	arg0: self
 
 submodule.ClickSelectButton

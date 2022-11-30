@@ -13,7 +13,7 @@ key: __doc__, val: None
 
 
 class DutchAuctionWindow:
-CloseWhenOpenQuest,		<cyfunction DutchAuctionWindow.CloseWhenOpenQuest at 0x19482298>
+CloseWhenOpenQuest,		<cyfunction DutchAuctionWindow.CloseWhenOpenQuest at 0x19C42298>
 	arg0: self
 
 submodule.CloseWhenOpenQuest
@@ -28,17 +28,17 @@ WEB_IMG_HEIGHT,		98
 submodule.WEB_IMG_HEIGHT
 
 
-_DutchAuctionWindow__LoadWindow,		<cyfunction DutchAuctionWindow.__LoadWindow at 0x19482088>
+_DutchAuctionWindow__LoadWindow,		<cyfunction DutchAuctionWindow.__LoadWindow at 0x19C42088>
 	arg0: self
 
 submodule._DutchAuctionWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with DutchAuctionWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction DutchAuctionWindow.__del__ at 0x19482030>
+__del__,		<cyfunction DutchAuctionWindow.__del__ at 0x19C42030>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with DutchAuctionWindow instance as first argument (got nothing instead)
-RequestOpenDutchAuctionWindow,		<cyfunction DutchAuctionWindow.RequestOpenDutchAuctionWindow at 0x19482240>
+RequestOpenDutchAuctionWindow,		<cyfunction DutchAuctionWindow.RequestOpenDutchAuctionWindow at 0x19C42240>
 	arg0: self
 
 submodule.RequestOpenDutchAuctionWindow
@@ -48,7 +48,7 @@ WEB_IMG_WIDTH,		98
 submodule.WEB_IMG_WIDTH
 
 
-OpenWhenOpenQuest,		<cyfunction DutchAuctionWindow.OpenWhenOpenQuest at 0x194822F0>
+OpenWhenOpenQuest,		<cyfunction DutchAuctionWindow.OpenWhenOpenQuest at 0x19C422F0>
 	arg0: self
 
 submodule.OpenWhenOpenQuest
@@ -58,17 +58,17 @@ __qualname__,		DutchAuctionWindow
 submodule.__qualname__
 
 
-__init__,		<cyfunction DutchAuctionWindow.__init__ at 0x1947FFA8>
+__init__,		<cyfunction DutchAuctionWindow.__init__ at 0x19C3EFA8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with DutchAuctionWindow instance as first argument (got nothing instead)
-Close,		<cyfunction DutchAuctionWindow.Close at 0x19482190>
+Close,		<cyfunction DutchAuctionWindow.Close at 0x19C42190>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with DutchAuctionWindow instance as first argument (got nothing instead)
-Open,		<cyfunction DutchAuctionWindow.Open at 0x19482138>
+Open,		<cyfunction DutchAuctionWindow.Open at 0x19C42138>
 	arg0: self
 	arg1: url
 
@@ -79,12 +79,12 @@ __doc__,		None
 submodule.__doc__
 
 
-InitWebPage,		<cyfunction DutchAuctionWindow.InitWebPage at 0x194820E0>
+InitWebPage,		<cyfunction DutchAuctionWindow.InitWebPage at 0x19C420E0>
 	arg0: self
 
 submodule.InitWebPage
 Skipped: unbound method cython_function_or_method object must be called with DutchAuctionWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction DutchAuctionWindow.BindInterface at 0x194821E8>
+BindInterface,		<cyfunction DutchAuctionWindow.BindInterface at 0x19C421E8>
 	arg0: self
 	arg1: interface
 

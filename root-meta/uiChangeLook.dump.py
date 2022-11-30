@@ -27,13 +27,13 @@ key: ui, val: <module 'ui' (built-in)>
 
 
 class ChangeLookWindow:
-SetChangeLookType,		<cyfunction ChangeLookWindow.SetChangeLookType at 0x19451C90>
+SetChangeLookType,		<cyfunction ChangeLookWindow.SetChangeLookType at 0x19C10C90>
 	arg0: self
 	arg1: type
 
 submodule.SetChangeLookType
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction ChangeLookWindow.SelectEmptySlot at 0x19451A80>
+SelectEmptySlot,		<cyfunction ChangeLookWindow.SelectEmptySlot at 0x19C10A80>
 	arg0: self
 	arg1: selectedSlotPos
 
@@ -44,24 +44,24 @@ __module__,		uiChangeLook
 submodule.__module__
 
 
-_ChangeLookWindow__OnClosePopupDialog,		<cyfunction ChangeLookWindow.__OnClosePopupDialog at 0x19451C38>
+_ChangeLookWindow__OnClosePopupDialog,		<cyfunction ChangeLookWindow.__OnClosePopupDialog at 0x19C10C38>
 	arg0: self
 
 submodule._ChangeLookWindow__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-SelectEmptySlotFreepass,		<cyfunction ChangeLookWindow.SelectEmptySlotFreepass at 0x19451A28>
+SelectEmptySlotFreepass,		<cyfunction ChangeLookWindow.SelectEmptySlotFreepass at 0x19C10A28>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectEmptySlotFreepass
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction ChangeLookWindow.SelectItemSlot at 0x19451B30>
+SelectItemSlot,		<cyfunction ChangeLookWindow.SelectItemSlot at 0x19C10B30>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction ChangeLookWindow.OverInItem at 0x19451870>
+OverInItem,		<cyfunction ChangeLookWindow.OverInItem at 0x19C10870>
 	arg0: self
 	arg1: slotIndex
 
@@ -72,45 +72,45 @@ CHANGELOOK_SLOT_RIGHT,		1
 submodule.CHANGELOOK_SLOT_RIGHT
 
 
-_ChangeLookWindow__LoadWindow,		<cyfunction ChangeLookWindow.__LoadWindow at 0x19451500>
+_ChangeLookWindow__LoadWindow,		<cyfunction ChangeLookWindow.__LoadWindow at 0x19C10500>
 	arg0: self
 
 submodule._ChangeLookWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-_ChangeLookWindow__ShowToolTip_FreeItem,		<cyfunction ChangeLookWindow.__ShowToolTip_FreeItem at 0x19451978>
+_ChangeLookWindow__ShowToolTip_FreeItem,		<cyfunction ChangeLookWindow.__ShowToolTip_FreeItem at 0x19C10978>
 	arg0: self
 	arg1: slotIndex
 
 submodule._ChangeLookWindow__ShowToolTip_FreeItem
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-SendAccept,		<cyfunction ChangeLookWindow.SendAccept at 0x19451768>
+SendAccept,		<cyfunction ChangeLookWindow.SendAccept at 0x19C10768>
 	arg0: self
 
 submodule.SendAccept
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-_ChangeLookWindow__ShowToolTip,		<cyfunction ChangeLookWindow.__ShowToolTip at 0x19451818>
+_ChangeLookWindow__ShowToolTip,		<cyfunction ChangeLookWindow.__ShowToolTip at 0x19C10818>
 	arg0: self
 	arg1: slotIndex
 
 submodule._ChangeLookWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction ChangeLookWindow.UseItemSlot at 0x19451AD8>
+UseItemSlot,		<cyfunction ChangeLookWindow.UseItemSlot at 0x19C10AD8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-Accept,		<cyfunction ChangeLookWindow.Accept at 0x19451710>
+Accept,		<cyfunction ChangeLookWindow.Accept at 0x19C10710>
 	arg0: self
 
 submodule.Accept
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ChangeLookWindow.OnPressEscapeKey at 0x19451608>
+OnPressEscapeKey,		<cyfunction ChangeLookWindow.OnPressEscapeKey at 0x19C10608>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-RefreshChangeLookWindow,		<cyfunction ChangeLookWindow.RefreshChangeLookWindow at 0x19451B88>
+RefreshChangeLookWindow,		<cyfunction ChangeLookWindow.RefreshChangeLookWindow at 0x19C10B88>
 	arg0: self
 
 submodule.RefreshChangeLookWindow
@@ -120,23 +120,23 @@ CHANGELOOK_SLOT_LEFT,		0
 submodule.CHANGELOOK_SLOT_LEFT
 
 
-__init__,		<cyfunction ChangeLookWindow.__init__ at 0x19451450>
+__init__,		<cyfunction ChangeLookWindow.__init__ at 0x19C10450>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-OverInItemFreeYang,		<cyfunction ChangeLookWindow.OverInItemFreeYang at 0x19451920>
+OverInItemFreeYang,		<cyfunction ChangeLookWindow.OverInItemFreeYang at 0x19C10920>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItemFreeYang
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-RefreshGameTypeToolTip,		<cyfunction ChangeLookWindow.RefreshGameTypeToolTip at 0x19451CE8>
+RefreshGameTypeToolTip,		<cyfunction ChangeLookWindow.RefreshGameTypeToolTip at 0x19C10CE8>
 	arg0: self
 
 submodule.RefreshGameTypeToolTip
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction ChangeLookWindow.SetItemToolTip at 0x194517C0>
+SetItemToolTip,		<cyfunction ChangeLookWindow.SetItemToolTip at 0x19C107C0>
 	arg0: self
 	arg1: tooltip
 
@@ -147,17 +147,17 @@ CHANGELOOK_SLOT_MAX,		2
 submodule.CHANGELOOK_SLOT_MAX
 
 
-OnCloseEvent,		<cyfunction ChangeLookWindow.OnCloseEvent at 0x19451BE0>
+OnCloseEvent,		<cyfunction ChangeLookWindow.OnCloseEvent at 0x19C10BE0>
 	arg0: self
 
 submodule.OnCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ChangeLookWindow.OnUpdate at 0x194515B0>
+OnUpdate,		<cyfunction ChangeLookWindow.OnUpdate at 0x19C105B0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-UseItemSlotFreepass,		<cyfunction ChangeLookWindow.UseItemSlotFreepass at 0x194519D0>
+UseItemSlotFreepass,		<cyfunction ChangeLookWindow.UseItemSlotFreepass at 0x19C109D0>
 	arg0: self
 	arg1: slotIndex
 
@@ -168,22 +168,22 @@ __qualname__,		ChangeLookWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction ChangeLookWindow.__del__ at 0x194514A8>
+__del__,		<cyfunction ChangeLookWindow.__del__ at 0x19C104A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction ChangeLookWindow.OverOutItem at 0x194518C8>
+OverOutItem,		<cyfunction ChangeLookWindow.OverOutItem at 0x19C108C8>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-Close,		<cyfunction ChangeLookWindow.Close at 0x194516B8>
+Close,		<cyfunction ChangeLookWindow.Close at 0x19C106B8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ChangeLookWindow instance as first argument (got nothing instead)
-Open,		<cyfunction ChangeLookWindow.Open at 0x19451660>
+Open,		<cyfunction ChangeLookWindow.Open at 0x19C10660>
 	arg0: self
 
 submodule.Open
@@ -193,7 +193,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_ChangeLookWindow__CreateGameTypeToolTip,		<cyfunction ChangeLookWindow.__CreateGameTypeToolTip at 0x19451558>
+_ChangeLookWindow__CreateGameTypeToolTip,		<cyfunction ChangeLookWindow.__CreateGameTypeToolTip at 0x19C10558>
 	arg0: self
 	arg1: title
 	arg2: descList

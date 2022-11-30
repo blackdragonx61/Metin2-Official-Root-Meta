@@ -19,7 +19,7 @@ key: grp, val: <module 'grp' (built-in)>
 key: ITEM_VNUM_LIST_TIGER_COIN_VOUCHER, val: (38015, 38016, 38017, 38018)
 key: uiToolTip, val: <module 'uiToolTip' (built-in)>
 key: uiAttachMetin, val: <module 'uiAttachMetin' (built-in)>
-key: ReprGetItemIndex, val: <cyfunction ReprGetItemIndex at 0x0BF2FDF0>
+key: ReprGetItemIndex, val: <cyfunction ReprGetItemIndex at 0x098DFDF0>
 key: __package__, val: None
 key: uiPickETC, val: <module 'uiPickETC' (built-in)>
 key: mouseModule, val: <module 'mouseModule' (built-in)>
@@ -30,7 +30,7 @@ key: uiCommon, val: <module 'uiCommon' (built-in)>
 key: snd, val: <module 'snd' (built-in)>
 key: __builtins__, val: <module '__builtin__' (built-in)>
 key: BeltInventoryWindow, val: <class 'uiNewInventory.BeltInventoryWindow'>
-key: ReprGetItemCount, val: <cyfunction ReprGetItemCount at 0x0BF2FE48>
+key: ReprGetItemCount, val: <cyfunction ReprGetItemCount at 0x098DFE48>
 key: ime, val: <module 'ime' (built-in)>
 key: ITEM_FLAG_APPLICABLE, val: 16384
 key: __test__, val: {}
@@ -53,12 +53,12 @@ __module__,		uiNewInventory
 submodule.__module__
 
 
-Show,		<cyfunction CostumeWindow.Show at 0x0BF2FF50>
+Show,		<cyfunction CostumeWindow.Show at 0x098DFF50>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with CostumeWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction CostumeWindow.__del__ at 0x0BF2FEF8>
+__del__,		<cyfunction CostumeWindow.__del__ at 0x098DFEF8>
 	arg0: self
 
 submodule.__del__
@@ -68,12 +68,12 @@ __qualname__,		CostumeWindow
 submodule.__qualname__
 
 
-Close,		<cyfunction CostumeWindow.Close at 0x0BF2FFA8>
+Close,		<cyfunction CostumeWindow.Close at 0x098DFFA8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with CostumeWindow instance as first argument (got nothing instead)
-RefreshCostumeSlot,		<cyfunction CostumeWindow.RefreshCostumeSlot at 0x0BF3B088>
+RefreshCostumeSlot,		<cyfunction CostumeWindow.RefreshCostumeSlot at 0x098EB088>
 	arg0: self
 
 submodule.RefreshCostumeSlot
@@ -83,13 +83,13 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction CostumeWindow.__init__ at 0x0BF2FEA0>
+__init__,		<cyfunction CostumeWindow.__init__ at 0x098DFEA0>
 	arg0: self
 	arg1: wndInventory
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CostumeWindow instance as first argument (got nothing instead)
-_CostumeWindow__LoadWindow,		<cyfunction CostumeWindow.__LoadWindow at 0x0BF3B030>
+_CostumeWindow__LoadWindow,		<cyfunction CostumeWindow.__LoadWindow at 0x098EB030>
 	arg0: self
 
 submodule._CostumeWindow__LoadWindow
@@ -97,12 +97,12 @@ Skipped: unbound method cython_function_or_method object must be called with Cos
 
 
 class InventoryWindow:
-_InventoryWindow__QuestionDialog2Accept,		<cyfunction InventoryWindow.__QuestionDialog2Accept at 0x0BF3D818>
+_InventoryWindow__QuestionDialog2Accept,		<cyfunction InventoryWindow.__QuestionDialog2Accept at 0x098ED818>
 	arg0: self
 
 submodule._InventoryWindow__QuestionDialog2Accept
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ExInvenItemUseMsg,		<cyfunction InventoryWindow.ExInvenItemUseMsg at 0x0BF3BAD8>
+ExInvenItemUseMsg,		<cyfunction InventoryWindow.ExInvenItemUseMsg at 0x098EBAD8>
 	arg0: self
 	arg1: item_vnum
 	arg2: msg
@@ -110,12 +110,12 @@ ExInvenItemUseMsg,		<cyfunction InventoryWindow.ExInvenItemUseMsg at 0x0BF3BAD8>
 
 submodule.ExInvenItemUseMsg
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__UseItemMonsterCardOnCancel,		<cyfunction InventoryWindow.__UseItemMonsterCardOnCancel at 0x0BF3D500>
+_InventoryWindow__UseItemMonsterCardOnCancel,		<cyfunction InventoryWindow.__UseItemMonsterCardOnCancel at 0x098ED500>
 	arg0: self
 
 submodule._InventoryWindow__UseItemMonsterCardOnCancel
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-Hide,		<cyfunction InventoryWindow.Hide at 0x0BF3B7C0>
+Hide,		<cyfunction InventoryWindow.Hide at 0x098EB7C0>
 	arg0: self
 
 submodule.Hide
@@ -125,7 +125,7 @@ sellingSlotWindow,		1
 submodule.sellingSlotWindow
 
 
-OverInItem,		<cyfunction InventoryWindow.OverInItem at 0x0BF3CC90>
+OverInItem,		<cyfunction InventoryWindow.OverInItem at 0x098ECC90>
 	arg0: self
 	arg1: overSlotPos
 	arg2: window_type
@@ -142,12 +142,12 @@ isLoaded,		0
 submodule.isLoaded
 
 
-ClickCostumeButton,		<cyfunction InventoryWindow.ClickCostumeButton at 0x0BF3BDF0>
+ClickCostumeButton,		<cyfunction InventoryWindow.ClickCostumeButton at 0x098EBDF0>
 	arg0: self
 
 submodule.ClickCostumeButton
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__DropSrcItemToDestItemInInventory,		<cyfunction InventoryWindow.__DropSrcItemToDestItemInInventory at 0x0BF3C5B0>
+_InventoryWindow__DropSrcItemToDestItemInInventory,		<cyfunction InventoryWindow.__DropSrcItemToDestItemInInventory at 0x098EC5B0>
 	arg0: self
 	arg1: srcItemVID
 	arg2: srcItemSlotWindow
@@ -157,12 +157,12 @@ _InventoryWindow__DropSrcItemToDestItemInInventory,		<cyfunction InventoryWindow
 
 submodule._InventoryWindow__DropSrcItemToDestItemInInventory
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnDetachMetinFromItem,		<cyfunction InventoryWindow.OnDetachMetinFromItem at 0x0BF3C450>
+OnDetachMetinFromItem,		<cyfunction InventoryWindow.OnDetachMetinFromItem at 0x098EC450>
 	arg0: self
 
 submodule.OnDetachMetinFromItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanUseSrcPetItemToDstPetItem,		<cyfunction InventoryWindow.__CanUseSrcPetItemToDstPetItem at 0x0BF3E608>
+_InventoryWindow__CanUseSrcPetItemToDstPetItem,		<cyfunction InventoryWindow.__CanUseSrcPetItemToDstPetItem at 0x098EE608>
 	arg0: self
 	arg1: srcItemVNum
 	arg2: srcSlotWindow
@@ -172,7 +172,7 @@ _InventoryWindow__CanUseSrcPetItemToDstPetItem,		<cyfunction InventoryWindow.__C
 
 submodule._InventoryWindow__CanUseSrcPetItemToDstPetItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__UseItemQuestionDialog_OnCancel,		<cyfunction InventoryWindow.__UseItemQuestionDialog_OnCancel at 0x0BF3DAD8>
+_InventoryWindow__UseItemQuestionDialog_OnCancel,		<cyfunction InventoryWindow.__UseItemQuestionDialog_OnCancel at 0x098EDAD8>
 	arg0: self
 
 submodule._InventoryWindow__UseItemQuestionDialog_OnCancel
@@ -182,33 +182,33 @@ dlgPickETC,		None
 submodule.dlgPickETC
 
 
-_InventoryWindow__CanResetCostumeAttr,		<cyfunction InventoryWindow.__CanResetCostumeAttr at 0x0BF3D190>
+_InventoryWindow__CanResetCostumeAttr,		<cyfunction InventoryWindow.__CanResetCostumeAttr at 0x098ED190>
 	arg0: self
 	arg1: dstSlotWindow
 	arg2: dstSlotPos
 
 submodule._InventoryWindow__CanResetCostumeAttr
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ShowExtendInvenButton,		<cyfunction InventoryWindow.ShowExtendInvenButton at 0x0BF3BA80>
+ShowExtendInvenButton,		<cyfunction InventoryWindow.ShowExtendInvenButton at 0x098EBA80>
 	arg0: self
 	arg1: cur_stage
 
 submodule.ShowExtendInvenButton
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ClickExtendInvenButton,		<cyfunction InventoryWindow.ClickExtendInvenButton at 0x0BF3B9D0>
+ClickExtendInvenButton,		<cyfunction InventoryWindow.ClickExtendInvenButton at 0x098EB9D0>
 	arg0: self
 	arg1: index
 
 submodule.ClickExtendInvenButton
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanAddAttr,		<cyfunction InventoryWindow.__CanAddAttr at 0x0BF3CFA8>
+_InventoryWindow__CanAddAttr,		<cyfunction InventoryWindow.__CanAddAttr at 0x098ECFA8>
 	arg0: self
 	arg1: dest_slot_window
 	arg2: dest_slot_pos
 
 submodule._InventoryWindow__CanAddAttr
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__SendUseItemPacket,		<cyfunction InventoryWindow.__SendUseItemPacket at 0x0BF3DBE0>
+_InventoryWindow__SendUseItemPacket,		<cyfunction InventoryWindow.__SendUseItemPacket at 0x098EDBE0>
 	arg0: self
 	arg1: slotPos
 	arg2: slotWindow
@@ -216,38 +216,38 @@ _InventoryWindow__SendUseItemPacket,		<cyfunction InventoryWindow.__SendUseItemP
 
 submodule._InventoryWindow__SendUseItemPacket
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanAddAttrBlessing,		<cyfunction InventoryWindow.__CanAddAttrBlessing at 0x0BF3D030>
+_InventoryWindow__CanAddAttrBlessing,		<cyfunction InventoryWindow.__CanAddAttrBlessing at 0x098ED030>
 	arg0: self
 	arg1: dest_slot_window
 	arg2: dest_slot_pos
 
 submodule._InventoryWindow__CanAddAttrBlessing
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetUseItemMode,		<cyfunction InventoryWindow.SetUseItemMode at 0x0BF3E348>
+SetUseItemMode,		<cyfunction InventoryWindow.SetUseItemMode at 0x098EE348>
 	arg0: self
 	arg1: bUse
 
 submodule.SetUseItemMode
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OpenExInvenMsgDlg,		<cyfunction InventoryWindow.__OpenExInvenMsgDlg at 0x0BF3BB30>
+_InventoryWindow__OpenExInvenMsgDlg,		<cyfunction InventoryWindow.__OpenExInvenMsgDlg at 0x098EBB30>
 	arg0: self
 	arg1: msg
 
 submodule._InventoryWindow__OpenExInvenMsgDlg
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__AddHighlightSlotChangeLook,		<cyfunction InventoryWindow.__AddHighlightSlotChangeLook at 0x0BF3DDF0>
+_InventoryWindow__AddHighlightSlotChangeLook,		<cyfunction InventoryWindow.__AddHighlightSlotChangeLook at 0x098EDDF0>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__AddHighlightSlotChangeLook
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__ActivePetHighlightSlot,		<cyfunction InventoryWindow.__ActivePetHighlightSlot at 0x0BF3E3A0>
+_InventoryWindow__ActivePetHighlightSlot,		<cyfunction InventoryWindow.__ActivePetHighlightSlot at 0x098EE3A0>
 	arg0: self
 	arg1: slotNumber
 
 submodule._InventoryWindow__ActivePetHighlightSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OpenSetClearItemQuestionDialog,		<cyfunction InventoryWindow.__OpenSetClearItemQuestionDialog at 0x0BF3C608>
+_InventoryWindow__OpenSetClearItemQuestionDialog,		<cyfunction InventoryWindow.__OpenSetClearItemQuestionDialog at 0x098EC608>
 	arg0: self
 	arg1: srcItemWindow
 	arg2: srcItemPos
@@ -256,26 +256,26 @@ _InventoryWindow__OpenSetClearItemQuestionDialog,		<cyfunction InventoryWindow._
 
 submodule._InventoryWindow__OpenSetClearItemQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetDragonSoulRefineWindow,		<cyfunction InventoryWindow.SetDragonSoulRefineWindow at 0x0BF3DC90>
+SetDragonSoulRefineWindow,		<cyfunction InventoryWindow.SetDragonSoulRefineWindow at 0x098EDC90>
 	arg0: self
 	arg1: DragonSoulRefine
 
 submodule.SetDragonSoulRefineWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction InventoryWindow.SelectEmptySlot at 0x0BF3C500>
+SelectEmptySlot,		<cyfunction InventoryWindow.SelectEmptySlot at 0x098EC500>
 	arg0: self
 	arg1: selectedSlotPos
 	arg2: selectedSlotWindow
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetEquipmentPage,		<cyfunction InventoryWindow.SetEquipmentPage at 0x0BF3B920>
+SetEquipmentPage,		<cyfunction InventoryWindow.SetEquipmentPage at 0x098EB920>
 	arg0: self
 	arg1: page
 
 submodule.SetEquipmentPage
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OpenQuestionDialog,		<cyfunction InventoryWindow.__OpenQuestionDialog at 0x0BF3C978>
+_InventoryWindow__OpenQuestionDialog,		<cyfunction InventoryWindow.__OpenQuestionDialog at 0x098EC978>
 	arg0: self
 	arg1: srcItemWindow
 	arg2: srcItemPos
@@ -284,7 +284,7 @@ _InventoryWindow__OpenQuestionDialog,		<cyfunction InventoryWindow.__OpenQuestio
 
 submodule._InventoryWindow__OpenQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanAddAttrBewitch,		<cyfunction InventoryWindow.__CanAddAttrBewitch at 0x0BF3D088>
+_InventoryWindow__CanAddAttrBewitch,		<cyfunction InventoryWindow.__CanAddAttrBewitch at 0x098ED088>
 	arg0: self
 	arg1: dest_slot_window
 	arg2: dest_slot_pos
@@ -296,7 +296,7 @@ petNameChangeWindow,		None
 submodule.petNameChangeWindow
 
 
-ShowCostumeInventory,		<cyfunction InventoryWindow.ShowCostumeInventory at 0x0BF3BE48>
+ShowCostumeInventory,		<cyfunction InventoryWindow.ShowCostumeInventory at 0x098EBE48>
 	arg0: self
 
 submodule.ShowCostumeInventory
@@ -306,60 +306,60 @@ USE_TYPE_TUPLE,		('USE_CLEAN_SOCKET', 'USE_CHANGE_ATTRIBUTE', 'USE_ADD_ATTRIBUTE
 submodule.USE_TYPE_TUPLE
 
 
-UseItemSlot,		<cyfunction InventoryWindow.UseItemSlot at 0x0BF3D348>
+UseItemSlot,		<cyfunction InventoryWindow.UseItemSlot at 0x098ED348>
 	arg0: self
 	arg1: slotIndex
 	arg2: window
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__PetItemAccept,		<cyfunction InventoryWindow.__PetItemAccept at 0x0BF3C8C8>
+_InventoryWindow__PetItemAccept,		<cyfunction InventoryWindow.__PetItemAccept at 0x098EC8C8>
 	arg0: self
 
 submodule._InventoryWindow__PetItemAccept
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnDenySellItem,		<cyfunction InventoryWindow.OnDenySellItem at 0x0BF3C3A0>
+OnDenySellItem,		<cyfunction InventoryWindow.OnDenySellItem at 0x098EC3A0>
 	arg0: self
 
 submodule.OnDenySellItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetCantMouseEventSlot,		<cyfunction InventoryWindow.SetCantMouseEventSlot at 0x0BF3D768>
+SetCantMouseEventSlot,		<cyfunction InventoryWindow.SetCantMouseEventSlot at 0x098ED768>
 	arg0: self
 	arg1: inven_slot_index
 
 submodule.SetCantMouseEventSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction InventoryWindow.OnTop at 0x0BF3D298>
+OnTop,		<cyfunction InventoryWindow.OnTop at 0x098ED298>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetExpandedMoneyBar,		<cyfunction InventoryWindow.SetExpandedMoneyBar at 0x0BF3B870>
+SetExpandedMoneyBar,		<cyfunction InventoryWindow.SetExpandedMoneyBar at 0x098EB870>
 	arg0: self
 	arg1: wndBar
 
 submodule.SetExpandedMoneyBar
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__UseItemAcce,		<cyfunction InventoryWindow.__UseItemAcce at 0x0BF3D8C8>
+_InventoryWindow__UseItemAcce,		<cyfunction InventoryWindow.__UseItemAcce at 0x098ED8C8>
 	arg0: self
 	arg1: slotIndex
 	arg2: slotWindow
 
 submodule._InventoryWindow__UseItemAcce
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-Show,		<cyfunction InventoryWindow.Show at 0x0BF3B660>
+Show,		<cyfunction InventoryWindow.Show at 0x098EB660>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanCleanMetinStone,		<cyfunction InventoryWindow.__CanCleanMetinStone at 0x0BF3D1E8>
+_InventoryWindow__CanCleanMetinStone,		<cyfunction InventoryWindow.__CanCleanMetinStone at 0x098ED1E8>
 	arg0: self
 	arg1: dst_slot_window
 	arg2: dst_slot_pos
 
 submodule._InventoryWindow__CanCleanMetinStone
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__PetBagTakeOutDialogAccept,		<cyfunction InventoryWindow.__PetBagTakeOutDialogAccept at 0x0BF3D5B0>
+_InventoryWindow__PetBagTakeOutDialogAccept,		<cyfunction InventoryWindow.__PetBagTakeOutDialogAccept at 0x098ED5B0>
 	arg0: self
 
 submodule._InventoryWindow__PetBagTakeOutDialogAccept
@@ -369,17 +369,17 @@ __qualname__,		InventoryWindow
 submodule.__qualname__
 
 
-OverOutItem,		<cyfunction InventoryWindow.OverOutItem at 0x0BF3CC38>
+OverOutItem,		<cyfunction InventoryWindow.OverOutItem at 0x098ECC38>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-GetInventoryPageIndex,		<cyfunction InventoryWindow.GetInventoryPageIndex at 0x0BF3E450>
+GetInventoryPageIndex,		<cyfunction InventoryWindow.GetInventoryPageIndex at 0x098EE450>
 	arg0: self
 
 submodule.GetInventoryPageIndex
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetCanMouseEventSlot,		<cyfunction InventoryWindow.SetCanMouseEventSlot at 0x0BF3D710>
+SetCanMouseEventSlot,		<cyfunction InventoryWindow.SetCanMouseEventSlot at 0x098ED710>
 	arg0: self
 	arg1: inven_slot_index
 
@@ -390,7 +390,7 @@ sellingSlotNumber,		-1
 submodule.sellingSlotNumber
 
 
-_InventoryWindow__OpenCheckAttrOrMetinSocketQuestionDialog,		<cyfunction InventoryWindow.__OpenCheckAttrOrMetinSocketQuestionDialog at 0x0BF3C710>
+_InventoryWindow__OpenCheckAttrOrMetinSocketQuestionDialog,		<cyfunction InventoryWindow.__OpenCheckAttrOrMetinSocketQuestionDialog at 0x098EC710>
 	arg0: self
 	arg1: dstItemWindow
 	arg2: dstItemPos
@@ -402,38 +402,38 @@ __module__,		uiNewInventory
 submodule.__module__
 
 
-_InventoryWindow__DelHighlightSlotCube,		<cyfunction InventoryWindow.__DelHighlightSlotCube at 0x0BF3E088>
+_InventoryWindow__DelHighlightSlotCube,		<cyfunction InventoryWindow.__DelHighlightSlotCube at 0x098EE088>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__DelHighlightSlotCube
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanChangeItemAttrList,		<cyfunction InventoryWindow.__CanChangeItemAttrList at 0x0BF3CDF0>
+_InventoryWindow__CanChangeItemAttrList,		<cyfunction InventoryWindow.__CanChangeItemAttrList at 0x098ECDF0>
 	arg0: self
 	arg1: dstSlotWindow
 	arg2: dstSlotPos
 
 submodule._InventoryWindow__CanChangeItemAttrList
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CancelExInvenItemUse,		<cyfunction InventoryWindow.__CancelExInvenItemUse at 0x0BF3BC90>
+_InventoryWindow__CancelExInvenItemUse,		<cyfunction InventoryWindow.__CancelExInvenItemUse at 0x098EBC90>
 	arg0: self
 
 submodule._InventoryWindow__CancelExInvenItemUse
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction InventoryWindow.SelectItemSlot at 0x0BF3C558>
+SelectItemSlot,		<cyfunction InventoryWindow.SelectItemSlot at 0x098EC558>
 	arg0: self
 	arg1: itemSlotIndex
 	arg2: window_type
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__AddHighlightSlotAcce,		<cyfunction InventoryWindow.__AddHighlightSlotAcce at 0x0BF3DEA0>
+_InventoryWindow__AddHighlightSlotAcce,		<cyfunction InventoryWindow.__AddHighlightSlotAcce at 0x098EDEA0>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__AddHighlightSlotAcce
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OpenExInvenQuestionDlg,		<cyfunction InventoryWindow.__OpenExInvenQuestionDlg at 0x0BF3BBE0>
+_InventoryWindow__OpenExInvenQuestionDlg,		<cyfunction InventoryWindow.__OpenExInvenQuestionDlg at 0x098EBBE0>
 	arg0: self
 	arg1: enough_count
 
@@ -444,20 +444,20 @@ wndBelt,		None
 submodule.wndBelt
 
 
-OnAuraAcceptEvent,		<cyfunction InventoryWindow.OnAuraAcceptEvent at 0x0BF3DA28>
+OnAuraAcceptEvent,		<cyfunction InventoryWindow.OnAuraAcceptEvent at 0x098EDA28>
 	arg0: self
 	arg1: slotIndex
 	arg2: AuraSlot
 
 submodule.OnAuraAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__UseItemPet,		<cyfunction InventoryWindow.__UseItemPet at 0x0BF3D558>
+_InventoryWindow__UseItemPet,		<cyfunction InventoryWindow.__UseItemPet at 0x098ED558>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__UseItemPet
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-CreateSecondConfirmQuestionDialog,		<cyfunction InventoryWindow.CreateSecondConfirmQuestionDialog at 0x0BF3C2F0>
+CreateSecondConfirmQuestionDialog,		<cyfunction InventoryWindow.CreateSecondConfirmQuestionDialog at 0x098EC2F0>
 	arg0: self
 	arg1: slotPos
 	arg2: count
@@ -465,18 +465,18 @@ CreateSecondConfirmQuestionDialog,		<cyfunction InventoryWindow.CreateSecondConf
 
 submodule.CreateSecondConfirmQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ClearActivatedSlots,		<cyfunction InventoryWindow.ClearActivatedSlots at 0x0BF3E138>
+ClearActivatedSlots,		<cyfunction InventoryWindow.ClearActivatedSlots at 0x098EE138>
 	arg0: self
 	arg1: type
 
 submodule.ClearActivatedSlots
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SellItem,		<cyfunction InventoryWindow.SellItem at 0x0BF3C298>
+SellItem,		<cyfunction InventoryWindow.SellItem at 0x098EC298>
 	arg0: self
 
 submodule.SellItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__HighlightSlot_Refresh,		<cyfunction InventoryWindow.__HighlightSlot_Refresh at 0x0BF3E0E0>
+_InventoryWindow__HighlightSlot_Refresh,		<cyfunction InventoryWindow.__HighlightSlot_Refresh at 0x098EE0E0>
 	arg0: self
 
 submodule._InventoryWindow__HighlightSlot_Refresh
@@ -486,19 +486,19 @@ isOpenedBeltWindowWhenClosingInventory,		0
 submodule.isOpenedBeltWindowWhenClosingInventory
 
 
-OnCloseQuestionDialog,		<cyfunction InventoryWindow.OnCloseQuestionDialog at 0x0BF3C4A8>
+OnCloseQuestionDialog,		<cyfunction InventoryWindow.OnCloseQuestionDialog at 0x098EC4A8>
 	arg0: self
 
 submodule.OnCloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__IsUsableItemToItem,		<cyfunction InventoryWindow.__IsUsableItemToItem at 0x0BF3CCE8>
+_InventoryWindow__IsUsableItemToItem,		<cyfunction InventoryWindow.__IsUsableItemToItem at 0x098ECCE8>
 	arg0: self
 	arg1: srcItemVNum
 	arg2: srcSlotPos
 
 submodule._InventoryWindow__IsUsableItemToItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-RefineItem,		<cyfunction InventoryWindow.RefineItem at 0x0BF3CB30>
+RefineItem,		<cyfunction InventoryWindow.RefineItem at 0x098ECB30>
 	arg0: self
 	arg1: scrollSlotWindow
 	arg2: scrollSlotPos
@@ -507,41 +507,41 @@ RefineItem,		<cyfunction InventoryWindow.RefineItem at 0x0BF3CB30>
 
 submodule.RefineItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CheckAttrOrMetinSocketAccept,		<cyfunction InventoryWindow.__CheckAttrOrMetinSocketAccept at 0x0BF3C768>
+_InventoryWindow__CheckAttrOrMetinSocketAccept,		<cyfunction InventoryWindow.__CheckAttrOrMetinSocketAccept at 0x098EC768>
 	arg0: self
 
 submodule._InventoryWindow__CheckAttrOrMetinSocketAccept
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__AcceptExInvenItemUse,		<cyfunction InventoryWindow.__AcceptExInvenItemUse at 0x0BF3BC38>
+_InventoryWindow__AcceptExInvenItemUse,		<cyfunction InventoryWindow.__AcceptExInvenItemUse at 0x098EBC38>
 	arg0: self
 
 submodule._InventoryWindow__AcceptExInvenItemUse
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__PetBagTakeOutDialogCancel,		<cyfunction InventoryWindow.__PetBagTakeOutDialogCancel at 0x0BF3D608>
+_InventoryWindow__PetBagTakeOutDialogCancel,		<cyfunction InventoryWindow.__PetBagTakeOutDialogCancel at 0x098ED608>
 	arg0: self
 
 submodule._InventoryWindow__PetBagTakeOutDialogCancel
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanUseGrowthPet,		<cyfunction InventoryWindow.__CanUseGrowthPet at 0x0BF3E660>
+_InventoryWindow__CanUseGrowthPet,		<cyfunction InventoryWindow.__CanUseGrowthPet at 0x098EE660>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__CanUseGrowthPet
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanChangeItemAttr67List,		<cyfunction InventoryWindow.__CanChangeItemAttr67List at 0x0BF3EA28>
+_InventoryWindow__CanChangeItemAttr67List,		<cyfunction InventoryWindow.__CanChangeItemAttr67List at 0x098EEA28>
 	arg0: self
 	arg1: dstSlotWindow
 	arg2: dstSlotPos
 
 submodule._InventoryWindow__CanChangeItemAttr67List
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__AddHighlightSlotAura,		<cyfunction InventoryWindow.__AddHighlightSlotAura at 0x0BF3DF50>
+_InventoryWindow__AddHighlightSlotAura,		<cyfunction InventoryWindow.__AddHighlightSlotAura at 0x098EDF50>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__AddHighlightSlotAura
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanUseSrcItemToDstItem,		<cyfunction InventoryWindow.__CanUseSrcItemToDstItem at 0x0BF3CD40>
+_InventoryWindow__CanUseSrcItemToDstItem,		<cyfunction InventoryWindow.__CanUseSrcItemToDstItem at 0x098ECD40>
 	arg0: self
 	arg1: srcItemVNum
 	arg2: srcSlotWindow
@@ -551,7 +551,7 @@ _InventoryWindow__CanUseSrcItemToDstItem,		<cyfunction InventoryWindow.__CanUseS
 
 submodule._InventoryWindow__CanUseSrcItemToDstItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__SendMoveItemPacket,		<cyfunction InventoryWindow.__SendMoveItemPacket at 0x0BF3DC38>
+_InventoryWindow__SendMoveItemPacket,		<cyfunction InventoryWindow.__SendMoveItemPacket at 0x098EDC38>
 	arg0: self
 	arg1: srcSlotWindow
 	arg2: srcSlotPos
@@ -561,91 +561,91 @@ _InventoryWindow__SendMoveItemPacket,		<cyfunction InventoryWindow.__SendMoveIte
 
 submodule._InventoryWindow__SendMoveItemPacket
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnGameOver,		<cyfunction InventoryWindow.OnGameOver at 0x0BF3E9D0>
+OnGameOver,		<cyfunction InventoryWindow.OnGameOver at 0x098EE9D0>
 	arg0: self
 
 submodule.OnGameOver
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__UseItemAura,		<cyfunction InventoryWindow.__UseItemAura at 0x0BF3D9D0>
+_InventoryWindow__UseItemAura,		<cyfunction InventoryWindow.__UseItemAura at 0x098ED9D0>
 	arg0: self
 	arg1: slotIndex
 	arg2: slotWindow
 
 submodule._InventoryWindow__UseItemAura
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ClickMallButton,		<cyfunction InventoryWindow.ClickMallButton at 0x0BF3BCE8>
+ClickMallButton,		<cyfunction InventoryWindow.ClickMallButton at 0x098EBCE8>
 	arg0: self
 
 submodule.ClickMallButton
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__SetClearItemCancel,		<cyfunction InventoryWindow.__SetClearItemCancel at 0x0BF3C6B8>
+_InventoryWindow__SetClearItemCancel,		<cyfunction InventoryWindow.__SetClearItemCancel at 0x098EC6B8>
 	arg0: self
 
 submodule._InventoryWindow__SetClearItemCancel
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-RefreshBagSlotWindow,		<cyfunction InventoryWindow.RefreshBagSlotWindow at 0x0BF3C030>
+RefreshBagSlotWindow,		<cyfunction InventoryWindow.RefreshBagSlotWindow at 0x098EC030>
 	arg0: self
 
 submodule.RefreshBagSlotWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-CancelDlgQuestion,		<cyfunction InventoryWindow.CancelDlgQuestion at 0x0BF3E2F0>
+CancelDlgQuestion,		<cyfunction InventoryWindow.CancelDlgQuestion at 0x098EE2F0>
 	arg0: self
 
 submodule.CancelDlgQuestion
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-HighlightSlot,		<cyfunction InventoryWindow.HighlightSlot at 0x0BF3E1E8>
+HighlightSlot,		<cyfunction InventoryWindow.HighlightSlot at 0x098EE1E8>
 	arg0: self
 	arg1: slot
 
 submodule.HighlightSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ActivateSlot,		<cyfunction InventoryWindow.ActivateSlot at 0x0BF3DD98>
+ActivateSlot,		<cyfunction InventoryWindow.ActivateSlot at 0x098EDD98>
 	arg0: self
 	arg1: slotindex
 	arg2: type
 
 submodule.ActivateSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__UseItem,		<cyfunction InventoryWindow.__UseItem at 0x0BF3D3A0>
+_InventoryWindow__UseItem,		<cyfunction InventoryWindow.__UseItem at 0x098ED3A0>
 	arg0: self
 	arg1: slotIndex
 	arg2: slotWindow
 
 submodule._InventoryWindow__UseItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanAddAccessorySocket,		<cyfunction InventoryWindow.__CanAddAccessorySocket at 0x0BF3CEA0>
+_InventoryWindow__CanAddAccessorySocket,		<cyfunction InventoryWindow.__CanAddAccessorySocket at 0x098ECEA0>
 	arg0: self
 	arg1: dstSlotWindow
 	arg2: dstSlotPos
 
 submodule._InventoryWindow__CanAddAccessorySocket
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__GotoMistsIslandImmediately,		<cyfunction InventoryWindow.__GotoMistsIslandImmediately at 0x0BF3EAD8>
+_InventoryWindow__GotoMistsIslandImmediately,		<cyfunction InventoryWindow.__GotoMistsIslandImmediately at 0x098EEAD8>
 	arg0: self
 	arg1: fee
 	arg2: index
 
 submodule._InventoryWindow__GotoMistsIslandImmediately
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetClickBeltInventory,		<cyfunction InventoryWindow.SetClickBeltInventory at 0x0BF3B608>
+SetClickBeltInventory,		<cyfunction InventoryWindow.SetClickBeltInventory at 0x098EB608>
 	arg0: self
 	arg1: isclick
 
 submodule.SetClickBeltInventory
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__PetItemCancel,		<cyfunction InventoryWindow.__PetItemCancel at 0x0BF3C920>
+_InventoryWindow__PetItemCancel,		<cyfunction InventoryWindow.__PetItemCancel at 0x098EC920>
 	arg0: self
 
 submodule._InventoryWindow__PetItemCancel
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnMoveWindow,		<cyfunction InventoryWindow.OnMoveWindow at 0x0BF3DCE8>
+OnMoveWindow,		<cyfunction InventoryWindow.OnMoveWindow at 0x098EDCE8>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.OnMoveWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__InventoryLocalSlotPosToGlobalSlotPos,		<cyfunction InventoryWindow.__InventoryLocalSlotPosToGlobalSlotPos at 0x0BF3BFA8>
+_InventoryWindow__InventoryLocalSlotPosToGlobalSlotPos,		<cyfunction InventoryWindow.__InventoryLocalSlotPosToGlobalSlotPos at 0x098EBFA8>
 	arg0: self
 	arg1: local
 	arg2: window_type
@@ -658,33 +658,33 @@ petHatchingWindow,		None
 submodule.petHatchingWindow
 
 
-_InventoryWindow__UseItemConfirmByVnum,		<cyfunction InventoryWindow.__UseItemConfirmByVnum at 0x0BF3D3F8>
+_InventoryWindow__UseItemConfirmByVnum,		<cyfunction InventoryWindow.__UseItemConfirmByVnum at 0x098ED3F8>
 	arg0: self
 	arg1: slotIndex
 	arg2: slotWindow
 
 submodule._InventoryWindow__UseItemConfirmByVnum
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnPickItem,		<cyfunction InventoryWindow.OnPickItem at 0x0BF3BF50>
+OnPickItem,		<cyfunction InventoryWindow.OnPickItem at 0x098EBF50>
 	arg0: self
 	arg1: count
 
 submodule.OnPickItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetPetHatchingWindow,		<cyfunction InventoryWindow.SetPetHatchingWindow at 0x0BF3E768>
+SetPetHatchingWindow,		<cyfunction InventoryWindow.SetPetHatchingWindow at 0x098EE768>
 	arg0: self
 	arg1: window
 
 submodule.SetPetHatchingWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__SetCollTimePetItemSlot,		<cyfunction InventoryWindow.__SetCollTimePetItemSlot at 0x0BF3E3F8>
+_InventoryWindow__SetCollTimePetItemSlot,		<cyfunction InventoryWindow.__SetCollTimePetItemSlot at 0x098EE3F8>
 	arg0: self
 	arg1: slotNumber
 	arg2: itemVnum
 
 submodule._InventoryWindow__SetCollTimePetItemSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OpenExInvenFallShortCountMsgDlg,		<cyfunction InventoryWindow.__OpenExInvenFallShortCountMsgDlg at 0x0BF3BB88>
+_InventoryWindow__OpenExInvenFallShortCountMsgDlg,		<cyfunction InventoryWindow.__OpenExInvenFallShortCountMsgDlg at 0x098EBB88>
 	arg0: self
 	arg1: enough_count
 
@@ -695,12 +695,12 @@ petFeedWindow,		None
 submodule.petFeedWindow
 
 
-OnAuraCloseEvent,		<cyfunction InventoryWindow.OnAuraCloseEvent at 0x0BF3DA80>
+OnAuraCloseEvent,		<cyfunction InventoryWindow.OnAuraCloseEvent at 0x098EDA80>
 	arg0: self
 
 submodule.OnAuraCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-AttachMetinToItem,		<cyfunction InventoryWindow.AttachMetinToItem at 0x0BF3CBE0>
+AttachMetinToItem,		<cyfunction InventoryWindow.AttachMetinToItem at 0x098ECBE0>
 	arg0: self
 	arg1: metinSlotWindow
 	arg2: metinSlotPos
@@ -709,7 +709,7 @@ AttachMetinToItem,		<cyfunction InventoryWindow.AttachMetinToItem at 0x0BF3CBE0>
 
 submodule.AttachMetinToItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnAcceptSellItem,		<cyfunction InventoryWindow.OnAcceptSellItem at 0x0BF3C348>
+OnAcceptSellItem,		<cyfunction InventoryWindow.OnAcceptSellItem at 0x098EC348>
 	arg0: self
 	arg1: slotPos
 	arg2: count
@@ -717,7 +717,7 @@ OnAcceptSellItem,		<cyfunction InventoryWindow.OnAcceptSellItem at 0x0BF3C348>
 
 submodule.OnAcceptSellItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-IsDlgQuestionShow,		<cyfunction InventoryWindow.IsDlgQuestionShow at 0x0BF3E298>
+IsDlgQuestionShow,		<cyfunction InventoryWindow.IsDlgQuestionShow at 0x098EE298>
 	arg0: self
 
 submodule.IsDlgQuestionShow
@@ -732,7 +732,7 @@ interface,		None
 submodule.interface
 
 
-_InventoryWindow__UseItemPetNameChange,		<cyfunction InventoryWindow.__UseItemPetNameChange at 0x0BF3E558>
+_InventoryWindow__UseItemPetNameChange,		<cyfunction InventoryWindow.__UseItemPetNameChange at 0x098EE558>
 	arg0: self
 	arg1: srcSlotWindow
 	arg2: srcSlotPos
@@ -741,13 +741,13 @@ _InventoryWindow__UseItemPetNameChange,		<cyfunction InventoryWindow.__UseItemPe
 
 submodule._InventoryWindow__UseItemPetNameChange
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__DelHighlightSlotAura,		<cyfunction InventoryWindow.__DelHighlightSlotAura at 0x0BF3DFA8>
+_InventoryWindow__DelHighlightSlotAura,		<cyfunction InventoryWindow.__DelHighlightSlotAura at 0x098EDFA8>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__DelHighlightSlotAura
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OpenPetItemQuestionDialog,		<cyfunction InventoryWindow.__OpenPetItemQuestionDialog at 0x0BF3C870>
+_InventoryWindow__OpenPetItemQuestionDialog,		<cyfunction InventoryWindow.__OpenPetItemQuestionDialog at 0x098EC870>
 	arg0: self
 	arg1: srcItemWindow
 	arg2: srcItemPos
@@ -756,14 +756,14 @@ _InventoryWindow__OpenPetItemQuestionDialog,		<cyfunction InventoryWindow.__Open
 
 submodule._InventoryWindow__OpenPetItemQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnAcceAcceptEvent,		<cyfunction InventoryWindow.OnAcceAcceptEvent at 0x0BF3D920>
+OnAcceAcceptEvent,		<cyfunction InventoryWindow.OnAcceAcceptEvent at 0x098ED920>
 	arg0: self
 	arg1: slotIndex
 	arg2: AcceSlot
 
 submodule.OnAcceAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanPutAccessorySocket,		<cyfunction InventoryWindow.__CanPutAccessorySocket at 0x0BF3CE48>
+_InventoryWindow__CanPutAccessorySocket,		<cyfunction InventoryWindow.__CanPutAccessorySocket at 0x098ECE48>
 	arg0: self
 	arg1: dstSlotWindow
 	arg2: dstSlotPos
@@ -771,28 +771,28 @@ _InventoryWindow__CanPutAccessorySocket,		<cyfunction InventoryWindow.__CanPutAc
 
 submodule._InventoryWindow__CanPutAccessorySocket
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ItemMoveFeedWindow,		<cyfunction InventoryWindow.ItemMoveFeedWindow at 0x0BF3E870>
+ItemMoveFeedWindow,		<cyfunction InventoryWindow.ItemMoveFeedWindow at 0x098EE870>
 	arg0: self
 	arg1: slotWindow
 	arg2: slotIndex
 
 submodule.ItemMoveFeedWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ShowToolTip,		<cyfunction InventoryWindow.ShowToolTip at 0x0BF3D240>
+ShowToolTip,		<cyfunction InventoryWindow.ShowToolTip at 0x098ED240>
 	arg0: self
 	arg1: slotIndex
 	arg2: window_type
 
 submodule.ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanChangeCostumeAttrList,		<cyfunction InventoryWindow.__CanChangeCostumeAttrList at 0x0BF3D138>
+_InventoryWindow__CanChangeCostumeAttrList,		<cyfunction InventoryWindow.__CanChangeCostumeAttrList at 0x098ED138>
 	arg0: self
 	arg1: dstSlotWindow
 	arg2: dstSlotPos
 
 submodule._InventoryWindow__CanChangeCostumeAttrList
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-DetachMetinFromItem,		<cyfunction InventoryWindow.DetachMetinFromItem at 0x0BF3CB88>
+DetachMetinFromItem,		<cyfunction InventoryWindow.DetachMetinFromItem at 0x098ECB88>
 	arg0: self
 	arg1: scrollSlotWindow
 	arg2: scrollSlotPos
@@ -801,92 +801,92 @@ DetachMetinFromItem,		<cyfunction InventoryWindow.DetachMetinFromItem at 0x0BF3C
 
 submodule.DetachMetinFromItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__PetSkillDeleteQuestionDialogCancel,		<cyfunction InventoryWindow.__PetSkillDeleteQuestionDialogCancel at 0x0BF3D6B8>
+_InventoryWindow__PetSkillDeleteQuestionDialogCancel,		<cyfunction InventoryWindow.__PetSkillDeleteQuestionDialogCancel at 0x098ED6B8>
 	arg0: self
 
 submodule._InventoryWindow__PetSkillDeleteQuestionDialogCancel
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-EventProgress,		<cyfunction InventoryWindow.EventProgress at 0x0BF3E978>
+EventProgress,		<cyfunction InventoryWindow.EventProgress at 0x098EE978>
 	arg0: self
 	arg1: event_type
 	arg2: idx
 
 submodule.EventProgress
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetInventoryPage,		<cyfunction InventoryWindow.SetInventoryPage at 0x0BF3B8C8>
+SetInventoryPage,		<cyfunction InventoryWindow.SetInventoryPage at 0x098EB8C8>
 	arg0: self
 	arg1: page
 
 submodule.SetInventoryPage
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanCleanBrokenMetinStone,		<cyfunction InventoryWindow.__CanCleanBrokenMetinStone at 0x0BF3CD98>
+_InventoryWindow__CanCleanBrokenMetinStone,		<cyfunction InventoryWindow.__CanCleanBrokenMetinStone at 0x098ECD98>
 	arg0: self
 	arg1: dstSlotWindow
 	arg2: dstSlotPos
 
 submodule._InventoryWindow__CanCleanBrokenMetinStone
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanAttachGrowthPetItem,		<cyfunction InventoryWindow.__CanAttachGrowthPetItem at 0x0BF3E710>
+_InventoryWindow__CanAttachGrowthPetItem,		<cyfunction InventoryWindow.__CanAttachGrowthPetItem at 0x098EE710>
 	arg0: self
 	arg1: itemVNum
 	arg2: itemSlotIndex
 
 submodule._InventoryWindow__CanAttachGrowthPetItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__QuestionDialog2Cancel,		<cyfunction InventoryWindow.__QuestionDialog2Cancel at 0x0BF3D870>
+_InventoryWindow__QuestionDialog2Cancel,		<cyfunction InventoryWindow.__QuestionDialog2Cancel at 0x098ED870>
 	arg0: self
 
 submodule._InventoryWindow__QuestionDialog2Cancel
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction InventoryWindow.__del__ at 0x0BF3B5B0>
+__del__,		<cyfunction InventoryWindow.__del__ at 0x098EB5B0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OpenQuestionDialog2,		<cyfunction InventoryWindow.__OpenQuestionDialog2 at 0x0BF3D7C0>
+_InventoryWindow__OpenQuestionDialog2,		<cyfunction InventoryWindow.__OpenQuestionDialog2 at 0x098ED7C0>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__OpenQuestionDialog2
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__Cancel,		<cyfunction InventoryWindow.__Cancel at 0x0BF3CA28>
+_InventoryWindow__Cancel,		<cyfunction InventoryWindow.__Cancel at 0x098ECA28>
 	arg0: self
 
 submodule._InventoryWindow__Cancel
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-RefreshStatus,		<cyfunction InventoryWindow.RefreshStatus at 0x0BF3C1E8>
+RefreshStatus,		<cyfunction InventoryWindow.RefreshStatus at 0x098EC1E8>
 	arg0: self
 
 submodule.RefreshStatus
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__RefreshExinvenSlotState,		<cyfunction InventoryWindow.__RefreshExinvenSlotState at 0x0BF3C190>
+_InventoryWindow__RefreshExinvenSlotState,		<cyfunction InventoryWindow.__RefreshExinvenSlotState at 0x098EC190>
 	arg0: self
 
 submodule._InventoryWindow__RefreshExinvenSlotState
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__SellItem,		<cyfunction InventoryWindow.__SellItem at 0x0BF3CA80>
+_InventoryWindow__SellItem,		<cyfunction InventoryWindow.__SellItem at 0x098ECA80>
 	arg0: self
 	arg1: window_type
 	arg2: itemSlotPos
 
 submodule._InventoryWindow__SellItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OverOutToolTip,		<cyfunction InventoryWindow.OverOutToolTip at 0x0BF3E920>
+OverOutToolTip,		<cyfunction InventoryWindow.OverOutToolTip at 0x098EE920>
 	arg0: self
 
 submodule.OverOutToolTip
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__PetSkillDeleteQuestionDialogAccept,		<cyfunction InventoryWindow.__PetSkillDeleteQuestionDialogAccept at 0x0BF3D660>
+_InventoryWindow__PetSkillDeleteQuestionDialogAccept,		<cyfunction InventoryWindow.__PetSkillDeleteQuestionDialogAccept at 0x098ED660>
 	arg0: self
 
 submodule._InventoryWindow__PetSkillDeleteQuestionDialogAccept
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CreateExtendInvenButton,		<cyfunction InventoryWindow.__CreateExtendInvenButton at 0x0BF3B978>
+_InventoryWindow__CreateExtendInvenButton,		<cyfunction InventoryWindow.__CreateExtendInvenButton at 0x098EB978>
 	arg0: self
 
 submodule._InventoryWindow__CreateExtendInvenButton
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-GetConfirmQuestion,		<cyfunction InventoryWindow.GetConfirmQuestion at 0x0BF3D450>
+GetConfirmQuestion,		<cyfunction InventoryWindow.GetConfirmQuestion at 0x098ED450>
 	arg0: self
 	arg1: vnum
 
@@ -897,7 +897,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_InventoryWindow__SendUseTypeItemToItemPacket,		<cyfunction InventoryWindow.__SendUseTypeItemToItemPacket at 0x0BF3EA80>
+_InventoryWindow__SendUseTypeItemToItemPacket,		<cyfunction InventoryWindow.__SendUseTypeItemToItemPacket at 0x098EEA80>
 	arg0: self
 	arg1: use_type
 	arg2: src_window
@@ -912,97 +912,97 @@ wndCostume,		None
 submodule.wndCostume
 
 
-OpenPickMoneyDialog,		<cyfunction InventoryWindow.OpenPickMoneyDialog at 0x0BF3BEA0>
+OpenPickMoneyDialog,		<cyfunction InventoryWindow.OpenPickMoneyDialog at 0x098EBEA0>
 	arg0: self
 	arg1: focus_idx
 	default: 0
 
 submodule.OpenPickMoneyDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-Close,		<cyfunction InventoryWindow.Close at 0x0BF3B818>
+Close,		<cyfunction InventoryWindow.Close at 0x098EB818>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanAddAttrGreen,		<cyfunction InventoryWindow.__CanAddAttrGreen at 0x0BF3CEF8>
+_InventoryWindow__CanAddAttrGreen,		<cyfunction InventoryWindow.__CanAddAttrGreen at 0x098ECEF8>
 	arg0: self
 	arg1: dest_slot_window
 	arg2: dest_slot_pos
 
 submodule._InventoryWindow__CanAddAttrGreen
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-RefreshEquipSlotWindow,		<cyfunction InventoryWindow.RefreshEquipSlotWindow at 0x0BF3C088>
+RefreshEquipSlotWindow,		<cyfunction InventoryWindow.RefreshEquipSlotWindow at 0x098EC088>
 	arg0: self
 
 submodule.RefreshEquipSlotWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetPetNameChangeWindow,		<cyfunction InventoryWindow.SetPetNameChangeWindow at 0x0BF3E7C0>
+SetPetNameChangeWindow,		<cyfunction InventoryWindow.SetPetNameChangeWindow at 0x098EE7C0>
 	arg0: self
 	arg1: window
 
 submodule.SetPetNameChangeWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanUsePetBagItem,		<cyfunction InventoryWindow.__CanUsePetBagItem at 0x0BF3E6B8>
+_InventoryWindow__CanUsePetBagItem,		<cyfunction InventoryWindow.__CanUsePetBagItem at 0x098EE6B8>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__CanUsePetBagItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanChangeItemAttrListGreen,		<cyfunction InventoryWindow.__CanChangeItemAttrListGreen at 0x0BF3CF50>
+_InventoryWindow__CanChangeItemAttrListGreen,		<cyfunction InventoryWindow.__CanChangeItemAttrListGreen at 0x098ECF50>
 	arg0: self
 	arg1: dest_slot_window
 	arg2: dest_slot_pos
 
 submodule._InventoryWindow__CanChangeItemAttrListGreen
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OnClosePopupDialog,		<cyfunction InventoryWindow.__OnClosePopupDialog at 0x0BF3CAD8>
+_InventoryWindow__OnClosePopupDialog,		<cyfunction InventoryWindow.__OnClosePopupDialog at 0x098ECAD8>
 	arg0: self
 
 submodule._InventoryWindow__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__RefreshExinvenCoverSlot,		<cyfunction InventoryWindow.__RefreshExinvenCoverSlot at 0x0BF3C138>
+_InventoryWindow__RefreshExinvenCoverSlot,		<cyfunction InventoryWindow.__RefreshExinvenCoverSlot at 0x098EC138>
 	arg0: self
 
 submodule._InventoryWindow__RefreshExinvenCoverSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__UseItemQuestionDialog_OnAccept,		<cyfunction InventoryWindow.__UseItemQuestionDialog_OnAccept at 0x0BF3DB30>
+_InventoryWindow__UseItemQuestionDialog_OnAccept,		<cyfunction InventoryWindow.__UseItemQuestionDialog_OnAccept at 0x098EDB30>
 	arg0: self
 
 submodule._InventoryWindow__UseItemQuestionDialog_OnAccept
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__HideAllExtendInvenButton,		<cyfunction InventoryWindow.__HideAllExtendInvenButton at 0x0BF3BA28>
+_InventoryWindow__HideAllExtendInvenButton,		<cyfunction InventoryWindow.__HideAllExtendInvenButton at 0x098EBA28>
 	arg0: self
 
 submodule._InventoryWindow__HideAllExtendInvenButton
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction InventoryWindow.Destroy at 0x0BF3B768>
+Destroy,		<cyfunction InventoryWindow.Destroy at 0x098EB768>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__ClickPremiumPrivateShopButton,		<cyfunction InventoryWindow.__ClickPremiumPrivateShopButton at 0x0BF3BD98>
+_InventoryWindow__ClickPremiumPrivateShopButton,		<cyfunction InventoryWindow.__ClickPremiumPrivateShopButton at 0x098EBD98>
 	arg0: self
 
 submodule._InventoryWindow__ClickPremiumPrivateShopButton
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction InventoryWindow.__init__ at 0x0BF3B558>
+__init__,		<cyfunction InventoryWindow.__init__ at 0x098EB558>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnCloseSecondConfirmQuestionDialog,		<cyfunction InventoryWindow.OnCloseSecondConfirmQuestionDialog at 0x0BF3C3F8>
+OnCloseSecondConfirmQuestionDialog,		<cyfunction InventoryWindow.OnCloseSecondConfirmQuestionDialog at 0x098EC3F8>
 	arg0: self
 
 submodule.OnCloseSecondConfirmQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__OpenPetBagQuestionDialog,		<cyfunction InventoryWindow.__OpenPetBagQuestionDialog at 0x0BF3C818>
+_InventoryWindow__OpenPetBagQuestionDialog,		<cyfunction InventoryWindow.__OpenPetBagQuestionDialog at 0x098EC818>
 	arg0: self
 	arg1: srcItemSlotPos
 	arg2: dstItemSlotPos
 
 submodule._InventoryWindow__OpenPetBagQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__SendUseItemToItemPacket,		<cyfunction InventoryWindow.__SendUseItemToItemPacket at 0x0BF3DB88>
+_InventoryWindow__SendUseItemToItemPacket,		<cyfunction InventoryWindow.__SendUseItemToItemPacket at 0x098EDB88>
 	arg0: self
 	arg1: srcSlotWindow
 	arg2: srcSlotPos
@@ -1011,7 +1011,7 @@ _InventoryWindow__SendUseItemToItemPacket,		<cyfunction InventoryWindow.__SendUs
 
 submodule._InventoryWindow__SendUseItemToItemPacket
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OverInToolTip,		<cyfunction InventoryWindow.OverInToolTip at 0x0BF3E8C8>
+OverInToolTip,		<cyfunction InventoryWindow.OverInToolTip at 0x098EE8C8>
 	arg0: self
 	arg1: arg
 
@@ -1022,39 +1022,39 @@ tooltipItem,		None
 submodule.tooltipItem
 
 
-BindInterfaceClass,		<cyfunction InventoryWindow.BindInterfaceClass at 0x0BF3B6B8>
+BindInterfaceClass,		<cyfunction InventoryWindow.BindInterfaceClass at 0x098EB6B8>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterfaceClass
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__DelHighlightSlotChangeLook,		<cyfunction InventoryWindow.__DelHighlightSlotChangeLook at 0x0BF3DE48>
+_InventoryWindow__DelHighlightSlotChangeLook,		<cyfunction InventoryWindow.__DelHighlightSlotChangeLook at 0x098EDE48>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__DelHighlightSlotChangeLook
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__AccecptGotoMistsIslandImmediately,		<cyfunction InventoryWindow.__AccecptGotoMistsIslandImmediately at 0x0BF3EB30>
+_InventoryWindow__AccecptGotoMistsIslandImmediately,		<cyfunction InventoryWindow.__AccecptGotoMistsIslandImmediately at 0x098EEB30>
 	arg0: self
 	arg1: fee
 	arg2: index
 
 submodule._InventoryWindow__AccecptGotoMistsIslandImmediately
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__AddHighlightSlotCube,		<cyfunction InventoryWindow.__AddHighlightSlotCube at 0x0BF3E030>
+_InventoryWindow__AddHighlightSlotCube,		<cyfunction InventoryWindow.__AddHighlightSlotCube at 0x098EE030>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__AddHighlightSlotCube
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnPickMoney,		<cyfunction InventoryWindow.OnPickMoney at 0x0BF3BEF8>
+OnPickMoney,		<cyfunction InventoryWindow.OnPickMoney at 0x098EBEF8>
 	arg0: self
 	arg1: money
 	arg2: cheque
 
 submodule.OnPickMoney
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__IsPetItem,		<cyfunction InventoryWindow.__IsPetItem at 0x0BF3E4A8>
+_InventoryWindow__IsPetItem,		<cyfunction InventoryWindow.__IsPetItem at 0x098EE4A8>
 	arg0: self
 	arg1: srcItemVID
 
@@ -1065,24 +1065,24 @@ isOpenedCostumeWindowWhenClosingInventory,		0
 submodule.isOpenedCostumeWindowWhenClosingInventory
 
 
-_InventoryWindow__CheckAttrOrMetinSocketCancel,		<cyfunction InventoryWindow.__CheckAttrOrMetinSocketCancel at 0x0BF3C7C0>
+_InventoryWindow__CheckAttrOrMetinSocketCancel,		<cyfunction InventoryWindow.__CheckAttrOrMetinSocketCancel at 0x098EC7C0>
 	arg0: self
 
 submodule._InventoryWindow__CheckAttrOrMetinSocketCancel
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-DelHighlightSlot,		<cyfunction InventoryWindow.DelHighlightSlot at 0x0BF3E240>
+DelHighlightSlot,		<cyfunction InventoryWindow.DelHighlightSlot at 0x098EE240>
 	arg0: self
 	arg1: inventorylocalslot
 
 submodule.DelHighlightSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetPetFeedWindow,		<cyfunction InventoryWindow.SetPetFeedWindow at 0x0BF3E818>
+SetPetFeedWindow,		<cyfunction InventoryWindow.SetPetFeedWindow at 0x098EE818>
 	arg0: self
 	arg1: window
 
 submodule.SetPetFeedWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-RefreshItemSlot,		<cyfunction InventoryWindow.RefreshItemSlot at 0x0BF3C0E0>
+RefreshItemSlot,		<cyfunction InventoryWindow.RefreshItemSlot at 0x098EC0E0>
 	arg0: self
 
 submodule.RefreshItemSlot
@@ -1092,62 +1092,62 @@ dlgPickMoney,		None
 submodule.dlgPickMoney
 
 
-_InventoryWindow__GotoMistsIsland,		<cyfunction InventoryWindow.__GotoMistsIsland at 0x0BF3EB88>
+_InventoryWindow__GotoMistsIsland,		<cyfunction InventoryWindow.__GotoMistsIsland at 0x098EEB88>
 	arg0: self
 
 submodule._InventoryWindow__GotoMistsIsland
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__DelHighlightSlotAcce,		<cyfunction InventoryWindow.__DelHighlightSlotAcce at 0x0BF3DEF8>
+_InventoryWindow__DelHighlightSlotAcce,		<cyfunction InventoryWindow.__DelHighlightSlotAcce at 0x098EDEF8>
 	arg0: self
 	arg1: slotIndex
 
 submodule._InventoryWindow__DelHighlightSlotAcce
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction InventoryWindow.OnPressEscapeKey at 0x0BF3D2F0>
+OnPressEscapeKey,		<cyfunction InventoryWindow.OnPressEscapeKey at 0x098ED2F0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__CanAddAttrBless,		<cyfunction InventoryWindow.__CanAddAttrBless at 0x0BF3D0E0>
+_InventoryWindow__CanAddAttrBless,		<cyfunction InventoryWindow.__CanAddAttrBless at 0x098ED0E0>
 	arg0: self
 	arg1: dest_slot_window
 	arg2: dest_slot_pos
 
 submodule._InventoryWindow__CanAddAttrBless
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__UseItemMonsterCardOnAccept,		<cyfunction InventoryWindow.__UseItemMonsterCardOnAccept at 0x0BF3D4A8>
+_InventoryWindow__UseItemMonsterCardOnAccept,		<cyfunction InventoryWindow.__UseItemMonsterCardOnAccept at 0x098ED4A8>
 	arg0: self
 
 submodule._InventoryWindow__UseItemMonsterCardOnAccept
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__Accept,		<cyfunction InventoryWindow.__Accept at 0x0BF3C9D0>
+_InventoryWindow__Accept,		<cyfunction InventoryWindow.__Accept at 0x098EC9D0>
 	arg0: self
 
 submodule._InventoryWindow__Accept
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__LoadWindow,		<cyfunction InventoryWindow.__LoadWindow at 0x0BF3B710>
+_InventoryWindow__LoadWindow,		<cyfunction InventoryWindow.__LoadWindow at 0x098EB710>
 	arg0: self
 
 submodule._InventoryWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction InventoryWindow.SetItemToolTip at 0x0BF3C240>
+SetItemToolTip,		<cyfunction InventoryWindow.SetItemToolTip at 0x098EC240>
 	arg0: self
 	arg1: tooltipItemvalue
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__SetClearItemAccept,		<cyfunction InventoryWindow.__SetClearItemAccept at 0x0BF3C660>
+_InventoryWindow__SetClearItemAccept,		<cyfunction InventoryWindow.__SetClearItemAccept at 0x098EC660>
 	arg0: self
 
 submodule._InventoryWindow__SetClearItemAccept
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__IsUsablePetItem,		<cyfunction InventoryWindow.__IsUsablePetItem at 0x0BF3E5B0>
+_InventoryWindow__IsUsablePetItem,		<cyfunction InventoryWindow.__IsUsablePetItem at 0x098EE5B0>
 	arg0: self
 	arg1: srcItemVNum
 
 submodule._InventoryWindow__IsUsablePetItem
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__SendUsePetItemToItemPacket,		<cyfunction InventoryWindow.__SendUsePetItemToItemPacket at 0x0BF3E500>
+_InventoryWindow__SendUsePetItemToItemPacket,		<cyfunction InventoryWindow.__SendUsePetItemToItemPacket at 0x098EE500>
 	arg0: self
 	arg1: srcItemVID
 	arg2: srcItemSlotWindow
@@ -1157,24 +1157,24 @@ _InventoryWindow__SendUsePetItemToItemPacket,		<cyfunction InventoryWindow.__Sen
 
 submodule._InventoryWindow__SendUsePetItemToItemPacket
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-OnAcceCloseEvent,		<cyfunction InventoryWindow.OnAcceCloseEvent at 0x0BF3D978>
+OnAcceCloseEvent,		<cyfunction InventoryWindow.OnAcceCloseEvent at 0x098ED978>
 	arg0: self
 
 submodule.OnAcceCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-ClickDSSButton,		<cyfunction InventoryWindow.ClickDSSButton at 0x0BF3BD40>
+ClickDSSButton,		<cyfunction InventoryWindow.ClickDSSButton at 0x098EBD40>
 	arg0: self
 
 submodule.ClickDSSButton
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-DeactivateSlot,		<cyfunction InventoryWindow.DeactivateSlot at 0x0BF3DD40>
+DeactivateSlot,		<cyfunction InventoryWindow.DeactivateSlot at 0x098EDD40>
 	arg0: self
 	arg1: slotindex
 	arg2: type
 
 submodule.DeactivateSlot
 Skipped: unbound method cython_function_or_method object must be called with InventoryWindow instance as first argument (got nothing instead)
-_InventoryWindow__HighlightSlot_Clear,		<cyfunction InventoryWindow.__HighlightSlot_Clear at 0x0BF3E190>
+_InventoryWindow__HighlightSlot_Clear,		<cyfunction InventoryWindow.__HighlightSlot_Clear at 0x098EE190>
 	arg0: self
 
 submodule._InventoryWindow__HighlightSlot_Clear
@@ -1192,24 +1192,24 @@ __module__,		uiNewInventory
 submodule.__module__
 
 
-ShowExtendInvenButton,		<cyfunction BattleRoyaleInventoryWindow.ShowExtendInvenButton at 0x0BF3EC90>
+ShowExtendInvenButton,		<cyfunction BattleRoyaleInventoryWindow.ShowExtendInvenButton at 0x098EEC90>
 	arg0: self
 	arg1: cur_stage
 
 submodule.ShowExtendInvenButton
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleInventoryWindow instance as first argument (got nothing instead)
-ClickExtendInvenButton,		<cyfunction BattleRoyaleInventoryWindow.ClickExtendInvenButton at 0x0BF3ED40>
+ClickExtendInvenButton,		<cyfunction BattleRoyaleInventoryWindow.ClickExtendInvenButton at 0x098EED40>
 	arg0: self
 	arg1: index
 
 submodule.ClickExtendInvenButton
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleInventoryWindow instance as first argument (got nothing instead)
-_BattleRoyaleInventoryWindow__LoadWindow,		<cyfunction BattleRoyaleInventoryWindow.__LoadWindow at 0x0BF3EC38>
+_BattleRoyaleInventoryWindow__LoadWindow,		<cyfunction BattleRoyaleInventoryWindow.__LoadWindow at 0x098EEC38>
 	arg0: self
 
 submodule._BattleRoyaleInventoryWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleInventoryWindow instance as first argument (got nothing instead)
-ClickMallButton,		<cyfunction BattleRoyaleInventoryWindow.ClickMallButton at 0x0BF3ECE8>
+ClickMallButton,		<cyfunction BattleRoyaleInventoryWindow.ClickMallButton at 0x098EECE8>
 	arg0: self
 
 submodule.ClickMallButton
@@ -1219,7 +1219,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction BattleRoyaleInventoryWindow.__init__ at 0x0BF3EBE0>
+__init__,		<cyfunction BattleRoyaleInventoryWindow.__init__ at 0x098EEBE0>
 	arg0: self
 
 submodule.__init__
@@ -1232,39 +1232,39 @@ __module__,		uiNewInventory
 submodule.__module__
 
 
-GetBasePosition,		<cyfunction BeltInventoryWindow.GetBasePosition at 0x0BF3B348>
+GetBasePosition,		<cyfunction BeltInventoryWindow.GetBasePosition at 0x098EB348>
 	arg0: self
 
 submodule.GetBasePosition
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-IsOpeningInventory,		<cyfunction BeltInventoryWindow.IsOpeningInventory at 0x0BF3B240>
+IsOpeningInventory,		<cyfunction BeltInventoryWindow.IsOpeningInventory at 0x098EB240>
 	arg0: self
 
 submodule.IsOpeningInventory
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-Show,		<cyfunction BeltInventoryWindow.Show at 0x0BF3B190>
+Show,		<cyfunction BeltInventoryWindow.Show at 0x098EB190>
 	arg0: self
 	arg1: openBeltSlot
 	default: 0
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction BeltInventoryWindow.__del__ at 0x0BF3B138>
+__del__,		<cyfunction BeltInventoryWindow.__del__ at 0x098EB138>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-AdjustPositionAndSize,		<cyfunction BeltInventoryWindow.AdjustPositionAndSize at 0x0BF3B3A0>
+AdjustPositionAndSize,		<cyfunction BeltInventoryWindow.AdjustPositionAndSize at 0x098EB3A0>
 	arg0: self
 
 submodule.AdjustPositionAndSize
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-RefreshSlot,		<cyfunction BeltInventoryWindow.RefreshSlot at 0x0BF3B450>
+RefreshSlot,		<cyfunction BeltInventoryWindow.RefreshSlot at 0x098EB450>
 	arg0: self
 
 submodule.RefreshSlot
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-_BeltInventoryWindow__LoadWindow,		<cyfunction BeltInventoryWindow.__LoadWindow at 0x0BF3B3F8>
+_BeltInventoryWindow__LoadWindow,		<cyfunction BeltInventoryWindow.__LoadWindow at 0x098EB3F8>
 	arg0: self
 
 submodule._BeltInventoryWindow__LoadWindow
@@ -1279,28 +1279,28 @@ __qualname__,		BeltInventoryWindow
 submodule.__qualname__
 
 
-__init__,		<cyfunction BeltInventoryWindow.__init__ at 0x0BF3B0E0>
+__init__,		<cyfunction BeltInventoryWindow.__init__ at 0x098EB0E0>
 	arg0: self
 	arg1: wndInventory
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-Close,		<cyfunction BeltInventoryWindow.Close at 0x0BF3B1E8>
+Close,		<cyfunction BeltInventoryWindow.Close at 0x098EB1E8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-OpenInventory,		<cyfunction BeltInventoryWindow.OpenInventory at 0x0BF3B298>
+OpenInventory,		<cyfunction BeltInventoryWindow.OpenInventory at 0x098EB298>
 	arg0: self
 
 submodule.OpenInventory
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction BeltInventoryWindow.OnTop at 0x0BF3B4A8>
+OnTop,		<cyfunction BeltInventoryWindow.OnTop at 0x098EB4A8>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with BeltInventoryWindow instance as first argument (got nothing instead)
-CloseInventory,		<cyfunction BeltInventoryWindow.CloseInventory at 0x0BF3B2F0>
+CloseInventory,		<cyfunction BeltInventoryWindow.CloseInventory at 0x098EB2F0>
 	arg0: self
 
 submodule.CloseInventory

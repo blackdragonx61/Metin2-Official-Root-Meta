@@ -14,12 +14,12 @@ key: __doc__, val: None
 
 
 class PopupDialog:
-_PopupDialog__Bind,		<cyfunction PopupDialog.__Bind at 0x0C02F1E8>
+_PopupDialog__Bind,		<cyfunction PopupDialog.__Bind at 0x099D61E8>
 	arg0: self
 
 submodule._PopupDialog__Bind
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction PopupDialog.__del__ at 0x0C02F138>
+__del__,		<cyfunction PopupDialog.__del__ at 0x099D6138>
 	arg0: self
 
 submodule.__del__
@@ -34,17 +34,17 @@ __qualname__,		PopupDialog
 submodule.__qualname__
 
 
-_PopupDialog__OnOK,		<cyfunction PopupDialog.__OnOK at 0x0C02F298>
+_PopupDialog__OnOK,		<cyfunction PopupDialog.__OnOK at 0x099D6298>
 	arg0: self
 
 submodule._PopupDialog__OnOK
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-_PopupDialog__Load,		<cyfunction PopupDialog.__Load at 0x0C02F190>
+_PopupDialog__Load,		<cyfunction PopupDialog.__Load at 0x099D6190>
 	arg0: self
 
 submodule._PopupDialog__Load
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-Open,		<cyfunction PopupDialog.Open at 0x0C02F240>
+Open,		<cyfunction PopupDialog.Open at 0x099D6240>
 	arg0: self
 	arg1: msg
 
@@ -55,7 +55,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction PopupDialog.__init__ at 0x0C02F0E0>
+__init__,		<cyfunction PopupDialog.__init__ at 0x099D60E0>
 	arg0: self
 	arg1: parent
 
@@ -74,31 +74,31 @@ __module__,		uiSelectMusic
 submodule.__module__
 
 
-__init__,		<cyfunction Item.__init__ at 0x0C027EF8>
+__init__,		<cyfunction Item.__init__ at 0x099CEEF8>
 	arg0: self
 	arg1: fileName
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with Item instance as first argument (got nothing instead)
-__del__,		<cyfunction Item.__del__ at 0x0C027F50>
+__del__,		<cyfunction Item.__del__ at 0x099CEF50>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with Item instance as first argument (got nothing instead)
-SetSize,		<cyfunction Item.SetSize at 0x0C02F030>
+SetSize,		<cyfunction Item.SetSize at 0x099D6030>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with Item instance as first argument (got nothing instead)
-_Item__CreateTextLine,		<cyfunction Item.__CreateTextLine at 0x0C02F088>
+_Item__CreateTextLine,		<cyfunction Item.__CreateTextLine at 0x099D6088>
 	arg0: self
 	arg1: fileName
 
 submodule._Item__CreateTextLine
 Skipped: unbound method cython_function_or_method object must be called with Item instance as first argument (got nothing instead)
-GetText,		<cyfunction Item.GetText at 0x0C027FA8>
+GetText,		<cyfunction Item.GetText at 0x099CEFA8>
 	arg0: self
 
 submodule.GetText
@@ -111,7 +111,7 @@ submodule.__doc__
 
 
 class FileListDialog:
-_FileListDialog__PopupMessage,		<cyfunction FileListDialog.__PopupMessage at 0x0C02F6B8>
+_FileListDialog__PopupMessage,		<cyfunction FileListDialog.__PopupMessage at 0x099D66B8>
 	arg0: self
 	arg1: msg
 
@@ -122,74 +122,74 @@ __module__,		uiSelectMusic
 submodule.__module__
 
 
-__del__,		<cyfunction FileListDialog.__del__ at 0x0C02F348>
+__del__,		<cyfunction FileListDialog.__del__ at 0x099D6348>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__RefreshFileList,		<cyfunction FileListDialog.__RefreshFileList at 0x0C02F818>
+_FileListDialog__RefreshFileList,		<cyfunction FileListDialog.__RefreshFileList at 0x099D6818>
 	arg0: self
 
 submodule._FileListDialog__RefreshFileList
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__Load,		<cyfunction FileListDialog.__Load at 0x0C02F5B0>
+_FileListDialog__Load,		<cyfunction FileListDialog.__Load at 0x099D65B0>
 	arg0: self
 
 submodule._FileListDialog__Load
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__OnCancel,		<cyfunction FileListDialog.__OnCancel at 0x0C02F768>
+_FileListDialog__OnCancel,		<cyfunction FileListDialog.__OnCancel at 0x099D6768>
 	arg0: self
 
 submodule._FileListDialog__OnCancel
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__ClearFileList,		<cyfunction FileListDialog.__ClearFileList at 0x0C02F870>
+_FileListDialog__ClearFileList,		<cyfunction FileListDialog.__ClearFileList at 0x099D6870>
 	arg0: self
 
 submodule._FileListDialog__ClearFileList
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__Load_LoadScript,		<cyfunction FileListDialog.__Load_LoadScript at 0x0C02F608>
+_FileListDialog__Load_LoadScript,		<cyfunction FileListDialog.__Load_LoadScript at 0x099D6608>
 	arg0: self
 	arg1: fileName
 
 submodule._FileListDialog__Load_LoadScript
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction FileListDialog.OnPressEscapeKey at 0x0C02F4A8>
+OnPressEscapeKey,		<cyfunction FileListDialog.OnPressEscapeKey at 0x099D64A8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__AppendFileList,		<cyfunction FileListDialog.__AppendFileList at 0x0C02F8C8>
+_FileListDialog__AppendFileList,		<cyfunction FileListDialog.__AppendFileList at 0x099D68C8>
 	arg0: self
 	arg1: filter
 
 submodule._FileListDialog__AppendFileList
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction FileListDialog.__init__ at 0x0C02F2F0>
+__init__,		<cyfunction FileListDialog.__init__ at 0x099D62F0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__Load_BindObject,		<cyfunction FileListDialog.__Load_BindObject at 0x0C02F660>
+_FileListDialog__Load_BindObject,		<cyfunction FileListDialog.__Load_BindObject at 0x099D6660>
 	arg0: self
 
 submodule._FileListDialog__Load_BindObject
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__CreateFileListBox,		<cyfunction FileListDialog.__CreateFileListBox at 0x0C02F558>
+_FileListDialog__CreateFileListBox,		<cyfunction FileListDialog.__CreateFileListBox at 0x099D6558>
 	arg0: self
 
 submodule._FileListDialog__CreateFileListBox
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-Show,		<cyfunction FileListDialog.Show at 0x0C02F3A0>
+Show,		<cyfunction FileListDialog.Show at 0x099D63A0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__OnOK,		<cyfunction FileListDialog.__OnOK at 0x0C02F710>
+_FileListDialog__OnOK,		<cyfunction FileListDialog.__OnOK at 0x099D6710>
 	arg0: self
 
 submodule._FileListDialog__OnOK
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__AppendFile,		<cyfunction FileListDialog.__AppendFile at 0x0C02F920>
+_FileListDialog__AppendFile,		<cyfunction FileListDialog.__AppendFile at 0x099D6920>
 	arg0: self
 	arg1: fileName
 
@@ -200,23 +200,23 @@ __qualname__,		FileListDialog
 submodule.__qualname__
 
 
-SAFE_SetSelectEvent,		<cyfunction FileListDialog.SAFE_SetSelectEvent at 0x0C02F500>
+SAFE_SetSelectEvent,		<cyfunction FileListDialog.SAFE_SetSelectEvent at 0x099D6500>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetSelectEvent
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-Close,		<cyfunction FileListDialog.Close at 0x0C02F450>
+Close,		<cyfunction FileListDialog.Close at 0x099D6450>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-_FileListDialog__OnRefresh,		<cyfunction FileListDialog.__OnRefresh at 0x0C02F7C0>
+_FileListDialog__OnRefresh,		<cyfunction FileListDialog.__OnRefresh at 0x099D67C0>
 	arg0: self
 
 submodule._FileListDialog__OnRefresh
 Skipped: unbound method cython_function_or_method object must be called with FileListDialog instance as first argument (got nothing instead)
-Open,		<cyfunction FileListDialog.Open at 0x0C02F3F8>
+Open,		<cyfunction FileListDialog.Open at 0x099D63F8>
 	arg0: self
 
 submodule.Open
