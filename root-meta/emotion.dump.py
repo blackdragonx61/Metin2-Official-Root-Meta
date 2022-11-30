@@ -7,8 +7,8 @@ key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: EMOTION_CELEBRATION, val: 115
 key: ANI_DICT, val: {306: 'clap.msa', 307: 'cheers_1.msa', 308: 'cheers_2.msa', 309: 'kiss_with_warrior.msa', 310: 'kiss_with_assassin.msa', 311: 'kiss_with_sura.msa', 312: 'kiss_with_shaman.msa', 313: 'kiss_with_wolfman.msa', 314: 'french_kiss_with_warrior.msa', 315: 'french_kiss_with_assassin.msa', 316: 'french_kiss_with_sura.msa', 317: 'french_kiss_with_shaman.msa', 318: 'french_kiss_with_wolfman.msa', 319: 'slap_hit.msa', 320: 'slap_hit.msa', 321: 'slap_hit.msa', 322: 'slap_hit.msa', 323: 'slap_hit.msa', 324: 'slap_hurt.msa', 325: 'slap_hurt.msa', 326: 'slap_hurt.msa', 327: 'slap_hurt.msa', 328: 'slap_hurt.msa', 330: 'dance_1.msa', 331: 'dance_2.msa', 332: 'dance_3.msa', 333: 'dance_4.msa', 334: 'dance_5.msa', 335: 'dance_6.msa', 347: 'congratulation.msa', 348: 'forgive.msa', 349: 'angry.msa', 350: 'attractive.msa', 351: 'sad.msa', 352: 'shy.msa', 353: 'cheerup.msa', 354: 'banter.msa', 355: 'joy.msa', 356: 'pushup.msa', 357: 'dance_7.msa', 358: 'exercise.msa', 359: 'doze.msa', 360: 'selfie.msa', 361: 'charging.msa', 362: 'nosay.msa', 363: 'weather1.msa', 364: 'weather2.msa', 365: 'weather3.msa', 366: 'hungry.msa', 367: 'siren.msa', 368: 'letter.msa', 369: 'call.msa', 370: 'celebration.msa', 371: 'alcohol.msa', 372: 'busy.msa', 373: 'whirl.msa'}
-key: RegisterEmotionIcons, val: <cyfunction RegisterEmotionIcons at 0x09A30138>
-key: RegisterEmotionAnis, val: <cyfunction RegisterEmotionAnis at 0x09A300E0>
+key: RegisterEmotionIcons, val: <cyfunction RegisterEmotionIcons at 0x0DA17FA8>
+key: RegisterEmotionAnis, val: <cyfunction RegisterEmotionAnis at 0x0DA17F50>
 key: EMOTION_DOZE, val: 104
 key: EMOTION_PUSH_UP, val: 101
 key: EMOTION_CONGRATULATION, val: 2
@@ -30,10 +30,10 @@ key: ICON_DICT, val: {1: 'd:/ymir work/ui/game/windows/emotion_clap.sub', 2: 'ic
 key: EMOTION_BUSY, val: 117
 key: __builtins__, val: <module '__builtin__' (built-in)>
 key: EMOTION_ANGRY, val: 4
-key: __RegisterSharedEmotionAnis, val: <cyfunction __RegisterSharedEmotionAnis at 0x09A30088>
+key: __RegisterSharedEmotionAnis, val: <cyfunction __RegisterSharedEmotionAnis at 0x0DA17EF8>
 key: EMOTION_BANTER, val: 9
 key: EMOTION_ALCOHOL, val: 116
-key: ReloadEmotionDict, val: <cyfunction ReloadEmotionDict at 0x09A30030>
+key: ReloadEmotionDict, val: <cyfunction ReloadEmotionDict at 0x0DA17EA0>
 key: EMOTION_DANCE_5, val: 17
 key: EMOTION_DANCE_4, val: 16
 key: EMOTION_DANCE_7, val: 102

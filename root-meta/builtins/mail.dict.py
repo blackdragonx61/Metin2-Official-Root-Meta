@@ -1,5 +1,7 @@
 {'class': [],
  'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemChangeLookVnum'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemRefineElement'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemSetValue'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetMailAddData'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetMailData'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetMailDict'},

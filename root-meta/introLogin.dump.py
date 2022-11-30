@@ -1,16 +1,16 @@
 key: ServerListBox, val: <class 'introLogin.ServerListBox'>
 key: uiWebLinkedBanner, val: <module 'uiWebLinkedBanner' (built-in)>
-key: Suffle, val: <cyfunction Suffle at 0x09B9CCE8>
+key: Suffle, val: <cyfunction Suffle at 0x0DBBB138>
 key: app, val: <module 'app' (built-in)>
 key: SKIP_LOGIN_PHASE_SUPPORT_CHANNEL, val: False
 key: PASSPOD_MSG_DICT, val: {}
 key: dbg, val: <module 'dbg' (built-in)>
-key: GetLoginDelay, val: <cyfunction GetLoginDelay at 0x09B9CE48>
+key: GetLoginDelay, val: <cyfunction GetLoginDelay at 0x0DBBB298>
 key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: __name__, val: introLogin
-key: IsRunupMatrixAuth, val: <cyfunction IsRunupMatrixAuth at 0x09B9CDF0>
-key: IsLoginDelay, val: <cyfunction IsLoginDelay at 0x09B9CD98>
-key: IsFullBackImage, val: <cyfunction IsFullBackImage at 0x09B9CD40>
+key: IsRunupMatrixAuth, val: <cyfunction IsRunupMatrixAuth at 0x0DBBB240>
+key: IsLoginDelay, val: <cyfunction IsLoginDelay at 0x0DBBB1E8>
+key: IsFullBackImage, val: <cyfunction IsFullBackImage at 0x0DBBB190>
 key: LOGIN_DELAY_SEC, val: 0.0
 key: ime, val: <module 'ime' (built-in)>
 key: FULL_BACK_IMAGE, val: False
@@ -49,22 +49,36 @@ __module__,		introLogin
 submodule.__module__
 
 
-ClearItem,		<cyfunction ServerListBox.ClearItem at 0x09B9D348>
+ClearItem,		<cyfunction ServerListBox.ClearItem at 0x0DBBB768>
 	arg0: self
 
 submodule.ClearItem
 Skipped: unbound method cython_function_or_method object must be called with ServerListBox instance as first argument (got nothing instead)
-InsertItem,		<cyfunction ServerListBox.InsertItem at 0x09B9D4A8>
+FlagImageEventProgress,		<cyfunction ServerListBox.FlagImageEventProgress at 0x0DBBB818>
+	arg0: self
+	arg1: event_type
+	arg2: arg
+
+submodule.FlagImageEventProgress
+Skipped: unbound method cython_function_or_method object must be called with ServerListBox instance as first argument (got nothing instead)
+InsertItem,		<cyfunction ServerListBox.InsertItem at 0x0DBBB920>
 	arg0: self
 	arg1: number
 	arg2: text
-	arg3: state
-	arg4: state2
+	arg3: flag
+	arg4: state
+	arg5: state2
+	default: ALL
 	default: 0
 	default: 0
 
 submodule.InsertItem
 Skipped: unbound method cython_function_or_method object must be called with ServerListBox instance as first argument (got nothing instead)
+SERVER_FLAG_IMAGE_PATH_DICT,		{'ALL': 'd:/ymir work/ui/intro/login/server_flag_ALL.sub', 'RU': 'd:/ymir work/ui/intro/login/server_flag_RU.sub', 'FR': 'd:/ymir work/ui/intro/login/server_flag_FR.sub', 'NL': 'd:/ymir work/ui/intro/login/server_flag_NL.sub', 'GR': 'd:/ymir work/ui/intro/login/server_flag_GR.sub', 'PT': 'd:/ymir work/ui/intro/login/server_flag_PT.sub', 'KR': 'd:/ymir work/ui/intro/login/server_flag_KR.sub', 'BR': 'd:/ymir work/ui/intro/login/server_flag_BR.sub', 'DE': 'd:/ymir work/ui/intro/login/server_flag_DE.sub', 'TR': 'd:/ymir work/ui/intro/login/server_flag_TR.sub', 'IT': 'd:/ymir work/ui/intro/login/server_flag_IT.sub', 'HU': 'd:/ymir work/ui/intro/login/server_flag_HU.sub', 'CZ': 'd:/ymir work/ui/intro/login/server_flag_CZ.sub', 'PL': 'd:/ymir work/ui/intro/login/server_flag_PL.sub', 'UK': 'd:/ymir work/ui/intro/login/server_flag_UK.sub', 'AE': 'd:/ymir work/ui/intro/login/server_flag_AE.sub', 'RO': 'd:/ymir work/ui/intro/login/server_flag_RO.sub', 'ES': 'd:/ymir work/ui/intro/login/server_flag_ES.sub', 'DK': 'd:/ymir work/ui/intro/login/server_flag_DK.sub'}
+
+submodule.SERVER_FLAG_IMAGE_PATH_DICT
+
+
 __qualname__,		ServerListBox
 
 submodule.__qualname__
@@ -75,13 +89,13 @@ STATE_IMAGE_PATH,		('', 'locale/hu/ui/login/choise_new.tga', 'locale/hu/ui/login
 submodule.STATE_IMAGE_PATH
 
 
-GetState,		<cyfunction ServerListBox.GetState at 0x09B9D3F8>
+GetState,		<cyfunction ServerListBox.GetState at 0x0DBBB870>
 	arg0: self
 	arg1: line
 
 submodule.GetState
 Skipped: unbound method cython_function_or_method object must be called with ServerListBox instance as first argument (got nothing instead)
-StateImageEventProgress,		<cyfunction ServerListBox.StateImageEventProgress at 0x09B9D3A0>
+StateImageEventProgress,		<cyfunction ServerListBox.StateImageEventProgress at 0x0DBBB7C0>
 	arg0: self
 	arg1: event_type
 	arg2: arg
@@ -93,7 +107,7 @@ STATE_IMAGE_TOOLTIP,		('', '\xdaJ', 'SPECI\xc1LIS', 'LEZ\xc1RT')
 submodule.STATE_IMAGE_TOOLTIP
 
 
-_LocateItem,		<cyfunction ServerListBox._LocateItem at 0x09B9D450>
+_LocateItem,		<cyfunction ServerListBox._LocateItem at 0x0DBBB8C8>
 	arg0: self
 
 submodule._LocateItem
@@ -103,7 +117,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ServerListBox.__init__ at 0x09B9D2F0>
+__init__,		<cyfunction ServerListBox.__init__ at 0x0DBBB710>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -113,61 +127,61 @@ Skipped: unbound method cython_function_or_method object must be called with Ser
 
 
 class LoginWindow:
-NotifyChannelState,		<cyfunction LoginWindow.NotifyChannelState at 0x09B9EAD8>
+NotifyChannelState,		<cyfunction LoginWindow.NotifyChannelState at 0x0DBBCF50>
 	arg0: self
 	arg1: addrKey
 	arg2: state
 
 submodule.NotifyChannelState
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-BINARY_OnRunupMatrixQuiz,		<cyfunction LoginWindow.BINARY_OnRunupMatrixQuiz at 0x09B9E190>
+BINARY_OnRunupMatrixQuiz,		<cyfunction LoginWindow.BINARY_OnRunupMatrixQuiz at 0x0DBBC608>
 	arg0: self
 	arg1: quiz
 
 submodule.BINARY_OnRunupMatrixQuiz
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_SetKeys,		<cyfunction LoginWindow.__VirtualKeyboard_SetKeys at 0x09B9DC38>
+_LoginWindow__VirtualKeyboard_SetKeys,		<cyfunction LoginWindow.__VirtualKeyboard_SetKeys at 0x0DBBC0E0>
 	arg0: self
 	arg1: keyCodes
 
 submodule._LoginWindow__VirtualKeyboard_SetKeys
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__GetChannelID,		<cyfunction LoginWindow.__GetChannelID at 0x09B9E660>
+_LoginWindow__GetChannelID,		<cyfunction LoginWindow.__GetChannelID at 0x0DBBCAD8>
 	arg0: self
 
 submodule._LoginWindow__GetChannelID
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnSelectServer,		<cyfunction LoginWindow.__OnSelectServer at 0x09B9E920>
+_LoginWindow__OnSelectServer,		<cyfunction LoginWindow.__OnSelectServer at 0x0DBBCD98>
 	arg0: self
 
 submodule._LoginWindow__OnSelectServer
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__ExitGame,		<cyfunction LoginWindow.__ExitGame at 0x09B9D818>
+_LoginWindow__ExitGame,		<cyfunction LoginWindow.__ExitGame at 0x0DBBBC90>
 	arg0: self
 
 submodule._LoginWindow__ExitGame
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnClickSelectRegionButton,		<cyfunction LoginWindow.__OnClickSelectRegionButton at 0x09B9EB88>
+_LoginWindow__OnClickSelectRegionButton,		<cyfunction LoginWindow.__OnClickSelectRegionButton at 0x0DBBD030>
 	arg0: self
 
 submodule._LoginWindow__OnClickSelectRegionButton
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__RequestServerStateList,		<cyfunction LoginWindow.__RequestServerStateList at 0x09B9E978>
+_LoginWindow__RequestServerStateList,		<cyfunction LoginWindow.__RequestServerStateList at 0x0DBBCDF0>
 	arg0: self
 
 submodule._LoginWindow__RequestServerStateList
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-SameLogin_OpenUI,		<cyfunction LoginWindow.SameLogin_OpenUI at 0x09B9ECE8>
+SameLogin_OpenUI,		<cyfunction LoginWindow.SameLogin_OpenUI at 0x0DBBD190>
 	arg0: self
 
 submodule.SameLogin_OpenUI
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-AutoSelectChannel,		<cyfunction LoginWindow.AutoSelectChannel at 0x09B9EA28>
+AutoSelectChannel,		<cyfunction LoginWindow.AutoSelectChannel at 0x0DBBCEA0>
 	arg0: self
 
 submodule.AutoSelectChannel
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnMatrixCard,		<cyfunction LoginWindow.OnMatrixCard at 0x09B9E298>
+OnMatrixCard,		<cyfunction LoginWindow.OnMatrixCard at 0x0DBBC710>
 	arg0: self
 	arg1: row1
 	arg2: row2
@@ -180,7 +194,7 @@ OnMatrixCard,		<cyfunction LoginWindow.OnMatrixCard at 0x09B9E298>
 
 submodule.OnMatrixCard
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnSelectSettlementArea,		<cyfunction LoginWindow.__OnSelectSettlementArea at 0x09B9E870>
+_LoginWindow__OnSelectSettlementArea,		<cyfunction LoginWindow.__OnSelectSettlementArea at 0x0DBBCCE8>
 	arg0: self
 
 submodule._LoginWindow__OnSelectSettlementArea
@@ -190,37 +204,37 @@ __doc__,		None
 submodule.__doc__
 
 
-_LoginWindow__OnSelectRegionGroup,		<cyfunction LoginWindow.__OnSelectRegionGroup at 0x09B9E818>
+_LoginWindow__OnSelectRegionGroup,		<cyfunction LoginWindow.__OnSelectRegionGroup at 0x0DBBCC90>
 	arg0: self
 
 submodule._LoginWindow__OnSelectRegionGroup
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OpenServerBoard,		<cyfunction LoginWindow.__OpenServerBoard at 0x09B9E768>
+_LoginWindow__OpenServerBoard,		<cyfunction LoginWindow.__OpenServerBoard at 0x0DBBCBE0>
 	arg0: self
 
 submodule._LoginWindow__OpenServerBoard
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__GetServerID,		<cyfunction LoginWindow.__GetServerID at 0x09B9E608>
+_LoginWindow__GetServerID,		<cyfunction LoginWindow.__GetServerID at 0x0DBBCA80>
 	arg0: self
 
 submodule._LoginWindow__GetServerID
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnLoginStart,		<cyfunction LoginWindow.OnLoginStart at 0x09B9DA28>
+OnLoginStart,		<cyfunction LoginWindow.OnLoginStart at 0x0DBBBEA0>
 	arg0: self
 
 submodule.OnLoginStart
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnCloseInputDialog,		<cyfunction LoginWindow.__OnCloseInputDialog at 0x09B9E3A0>
+_LoginWindow__OnCloseInputDialog,		<cyfunction LoginWindow.__OnCloseInputDialog at 0x0DBBC818>
 	arg0: self
 
 submodule._LoginWindow__OnCloseInputDialog
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction LoginWindow.__del__ at 0x09B9D660>
+__del__,		<cyfunction LoginWindow.__del__ at 0x0DBBBAD8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__DisconnectAndInputMatrix,		<cyfunction LoginWindow.__DisconnectAndInputMatrix at 0x09B9DB88>
+_LoginWindow__DisconnectAndInputMatrix,		<cyfunction LoginWindow.__DisconnectAndInputMatrix at 0x0DBBC030>
 	arg0: self
 
 submodule._LoginWindow__DisconnectAndInputMatrix
@@ -230,39 +244,39 @@ IS_TEST,		0
 submodule.IS_TEST
 
 
-_LoginWindow__OpenLoginBoard,		<cyfunction LoginWindow.__OpenLoginBoard at 0x09B9E7C0>
+_LoginWindow__OpenLoginBoard,		<cyfunction LoginWindow.__OpenLoginBoard at 0x0DBBCC38>
 	arg0: self
 
 submodule._LoginWindow__OpenLoginBoard
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__ServerBoard_OnKeyUp,		<cyfunction LoginWindow.__ServerBoard_OnKeyUp at 0x09B9E558>
+_LoginWindow__ServerBoard_OnKeyUp,		<cyfunction LoginWindow.__ServerBoard_OnKeyUp at 0x0DBBC9D0>
 	arg0: self
 	arg1: key
 
 submodule._LoginWindow__ServerBoard_OnKeyUp
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__LoadScript,		<cyfunction LoginWindow.__LoadScript at 0x09B9DBE0>
+_LoginWindow__LoadScript,		<cyfunction LoginWindow.__LoadScript at 0x0DBBC088>
 	arg0: self
 	arg1: fileName
 
 submodule._LoginWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnEndCountDown,		<cyfunction LoginWindow.OnEndCountDown at 0x09B9D920>
+OnEndCountDown,		<cyfunction LoginWindow.OnEndCountDown at 0x0DBBBD98>
 	arg0: self
 
 submodule.OnEndCountDown
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__LoadChannelInfo,		<cyfunction LoginWindow.__LoadChannelInfo at 0x09B9D7C0>
+_LoginWindow__LoadChannelInfo,		<cyfunction LoginWindow.__LoadChannelInfo at 0x0DBBBC38>
 	arg0: self
 
 submodule._LoginWindow__LoadChannelInfo
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_SetLowerMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetLowerMode at 0x09B9DDF0>
+_LoginWindow__VirtualKeyboard_SetLowerMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetLowerMode at 0x0DBBC298>
 	arg0: self
 
 submodule._LoginWindow__VirtualKeyboard_SetLowerMode
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_SetNumberMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetNumberMode at 0x09B9DEA0>
+_LoginWindow__VirtualKeyboard_SetNumberMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetNumberMode at 0x0DBBC348>
 	arg0: self
 
 submodule._LoginWindow__VirtualKeyboard_SetNumberMode
@@ -272,14 +286,14 @@ __qualname__,		LoginWindow
 submodule.__qualname__
 
 
-Connect,		<cyfunction LoginWindow.Connect at 0x09B9DF50>
+Connect,		<cyfunction LoginWindow.Connect at 0x0DBBC3F8>
 	arg0: self
 	arg1: id
 	arg2: pwd
 
 submodule.Connect
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-PopupNotifyMessage,		<cyfunction LoginWindow.PopupNotifyMessage at 0x09B9E138>
+PopupNotifyMessage,		<cyfunction LoginWindow.PopupNotifyMessage at 0x0DBBC5B0>
 	arg0: self
 	arg1: msg
 	arg2: func
@@ -287,37 +301,37 @@ PopupNotifyMessage,		<cyfunction LoginWindow.PopupNotifyMessage at 0x09B9E138>
 
 submodule.PopupNotifyMessage
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-Close,		<cyfunction LoginWindow.Close at 0x09B9D710>
+Close,		<cyfunction LoginWindow.Close at 0x0DBBBB88>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__RefreshServerStateList,		<cyfunction LoginWindow.__RefreshServerStateList at 0x09B9E9D0>
+_LoginWindow__RefreshServerStateList,		<cyfunction LoginWindow.__RefreshServerStateList at 0x0DBBCE48>
 	arg0: self
 
 submodule._LoginWindow__RefreshServerStateList
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-Open,		<cyfunction LoginWindow.Open at 0x09B9D6B8>
+Open,		<cyfunction LoginWindow.Open at 0x0DBBBB30>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_SetSymbolMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetSymbolMode at 0x09B9DEF8>
+_LoginWindow__VirtualKeyboard_SetSymbolMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetSymbolMode at 0x0DBBC3A0>
 	arg0: self
 
 submodule._LoginWindow__VirtualKeyboard_SetSymbolMode
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_PressBackspace,		<cyfunction LoginWindow.__VirtualKeyboard_PressBackspace at 0x09B9DCE8>
+_LoginWindow__VirtualKeyboard_PressBackspace,		<cyfunction LoginWindow.__VirtualKeyboard_PressBackspace at 0x0DBBC190>
 	arg0: self
 
 submodule._LoginWindow__VirtualKeyboard_PressBackspace
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnClickLoginButton,		<cyfunction LoginWindow.__OnClickLoginButton at 0x09B9EC90>
+_LoginWindow__OnClickLoginButton,		<cyfunction LoginWindow.__OnClickLoginButton at 0x0DBBD138>
 	arg0: self
 
 submodule._LoginWindow__OnClickLoginButton
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnClickExitServerButton,		<cyfunction LoginWindow.__OnClickExitServerButton at 0x09B9EB30>
+_LoginWindow__OnClickExitServerButton,		<cyfunction LoginWindow.__OnClickExitServerButton at 0x0DBBCFA8>
 	arg0: self
 
 submodule._LoginWindow__OnClickExitServerButton
@@ -327,71 +341,71 @@ __module__,		introLogin
 submodule.__module__
 
 
-_LoginWindow__LoadLoginInfo,		<cyfunction LoginWindow.__LoadLoginInfo at 0x09B9E088>
+_LoginWindow__LoadLoginInfo,		<cyfunction LoginWindow.__LoadLoginInfo at 0x0DBBC500>
 	arg0: self
 	arg1: loginInfoFileName
 
 submodule._LoginWindow__LoadLoginInfo
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnExit,		<cyfunction LoginWindow.OnExit at 0x09B9E450>
+OnExit,		<cyfunction LoginWindow.OnExit at 0x0DBBC8C8>
 	arg0: self
 
 submodule.OnExit
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnAcceptMatrixCardData,		<cyfunction LoginWindow.__OnAcceptMatrixCardData at 0x09B9E2F0>
+_LoginWindow__OnAcceptMatrixCardData,		<cyfunction LoginWindow.__OnAcceptMatrixCardData at 0x0DBBC768>
 	arg0: self
 
 submodule._LoginWindow__OnAcceptMatrixCardData
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-EmptyFunc,		<cyfunction LoginWindow.EmptyFunc at 0x09B9E500>
+EmptyFunc,		<cyfunction LoginWindow.EmptyFunc at 0x0DBBC978>
 	arg0: self
 
 submodule.EmptyFunc
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnLoginFailure,		<cyfunction LoginWindow.OnLoginFailure at 0x09B9DA80>
+OnLoginFailure,		<cyfunction LoginWindow.OnLoginFailure at 0x0DBBBEF8>
 	arg0: self
 	arg1: error
 
 submodule.OnLoginFailure
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-SetPasswordEditLineFocus,		<cyfunction LoginWindow.SetPasswordEditLineFocus at 0x09B9D8C8>
+SetPasswordEditLineFocus,		<cyfunction LoginWindow.SetPasswordEditLineFocus at 0x0DBBBD40>
 	arg0: self
 
 submodule.SetPasswordEditLineFocus
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__DisconnectAndInputID,		<cyfunction LoginWindow.__DisconnectAndInputID at 0x09B9DAD8>
+_LoginWindow__DisconnectAndInputID,		<cyfunction LoginWindow.__DisconnectAndInputID at 0x0DBBBF50>
 	arg0: self
 
 submodule._LoginWindow__DisconnectAndInputID
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__ChannelIDToChannelIndex,		<cyfunction LoginWindow.__ChannelIDToChannelIndex at 0x09B9E710>
+_LoginWindow__ChannelIDToChannelIndex,		<cyfunction LoginWindow.__ChannelIDToChannelIndex at 0x0DBBCB88>
 	arg0: self
 	arg1: channelID
 
 submodule._LoginWindow__ChannelIDToChannelIndex
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction LoginWindow.__init__ at 0x09B9D608>
+__init__,		<cyfunction LoginWindow.__init__ at 0x0DBBBA80>
 	arg0: self
 	arg1: stream
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnClickSelectServerButton,		<cyfunction LoginWindow.__OnClickSelectServerButton at 0x09B9EBE0>
+_LoginWindow__OnClickSelectServerButton,		<cyfunction LoginWindow.__OnClickSelectServerButton at 0x0DBBD088>
 	arg0: self
 
 submodule._LoginWindow__OnClickSelectServerButton
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__SaveChannelInfo,		<cyfunction LoginWindow.__SaveChannelInfo at 0x09B9D768>
+_LoginWindow__SaveChannelInfo,		<cyfunction LoginWindow.__SaveChannelInfo at 0x0DBBBBE0>
 	arg0: self
 
 submodule._LoginWindow__SaveChannelInfo
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnHandShake,		<cyfunction LoginWindow.OnHandShake at 0x09B9D9D0>
+OnHandShake,		<cyfunction LoginWindow.OnHandShake at 0x0DBBBE48>
 	arg0: self
 
 submodule.OnHandShake
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-PopupDisplayMessage,		<cyfunction LoginWindow.PopupDisplayMessage at 0x09B9E0E0>
+PopupDisplayMessage,		<cyfunction LoginWindow.PopupDisplayMessage at 0x0DBBC558>
 	arg0: self
 	arg1: msg
 	arg2: event
@@ -401,64 +415,64 @@ PopupDisplayMessage,		<cyfunction LoginWindow.PopupDisplayMessage at 0x09B9E0E0>
 
 submodule.PopupDisplayMessage
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnCancelMatrixCardData,		<cyfunction LoginWindow.__OnCancelMatrixCardData at 0x09B9E348>
+_LoginWindow__OnCancelMatrixCardData,		<cyfunction LoginWindow.__OnCancelMatrixCardData at 0x0DBBC7C0>
 	arg0: self
 
 submodule._LoginWindow__OnCancelMatrixCardData
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnClickMatrixAnswerOK,		<cyfunction LoginWindow.__OnClickMatrixAnswerOK at 0x09B9E1E8>
+_LoginWindow__OnClickMatrixAnswerOK,		<cyfunction LoginWindow.__OnClickMatrixAnswerOK at 0x0DBBC660>
 	arg0: self
 
 submodule._LoginWindow__OnClickMatrixAnswerOK
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_PressKey,		<cyfunction LoginWindow.__VirtualKeyboard_PressKey at 0x09B9DC90>
+_LoginWindow__VirtualKeyboard_PressKey,		<cyfunction LoginWindow.__VirtualKeyboard_PressKey at 0x0DBBC138>
 	arg0: self
 	arg1: code
 
 submodule._LoginWindow__VirtualKeyboard_PressKey
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_PressReturn,		<cyfunction LoginWindow.__VirtualKeyboard_PressReturn at 0x09B9DD40>
+_LoginWindow__VirtualKeyboard_PressReturn,		<cyfunction LoginWindow.__VirtualKeyboard_PressReturn at 0x0DBBC1E8>
 	arg0: self
 
 submodule._LoginWindow__VirtualKeyboard_PressReturn
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnClickSelectConnectButton,		<cyfunction LoginWindow.__OnClickSelectConnectButton at 0x09B9EC38>
+_LoginWindow__OnClickSelectConnectButton,		<cyfunction LoginWindow.__OnClickSelectConnectButton at 0x0DBBD0E0>
 	arg0: self
 
 submodule._LoginWindow__OnClickSelectConnectButton
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__GetRegionID,		<cyfunction LoginWindow.__GetRegionID at 0x09B9E5B0>
+_LoginWindow__GetRegionID,		<cyfunction LoginWindow.__GetRegionID at 0x0DBBCA28>
 	arg0: self
 
 submodule._LoginWindow__GetRegionID
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_SetUpperMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetUpperMode at 0x09B9DD98>
+_LoginWindow__VirtualKeyboard_SetUpperMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetUpperMode at 0x0DBBC240>
 	arg0: self
 
 submodule._LoginWindow__VirtualKeyboard_SetUpperMode
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__SetServerInfo,		<cyfunction LoginWindow.__SetServerInfo at 0x09B9E030>
+_LoginWindow__SetServerInfo,		<cyfunction LoginWindow.__SetServerInfo at 0x0DBBC4A8>
 	arg0: self
 	arg1: name
 
 submodule._LoginWindow__SetServerInfo
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnClickMatrixAnswerCancel,		<cyfunction LoginWindow.__OnClickMatrixAnswerCancel at 0x09B9E240>
+_LoginWindow__OnClickMatrixAnswerCancel,		<cyfunction LoginWindow.__OnClickMatrixAnswerCancel at 0x0DBBC6B8>
 	arg0: self
 
 submodule._LoginWindow__OnClickMatrixAnswerCancel
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__DisconnectAndInputPassword,		<cyfunction LoginWindow.__DisconnectAndInputPassword at 0x09B9DB30>
+_LoginWindow__DisconnectAndInputPassword,		<cyfunction LoginWindow.__DisconnectAndInputPassword at 0x0DBBBFA8>
 	arg0: self
 
 submodule._LoginWindow__DisconnectAndInputPassword
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction LoginWindow.OnPressExitKey at 0x09B9E3F8>
+OnPressExitKey,		<cyfunction LoginWindow.OnPressExitKey at 0x0DBBC870>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__GetChannelName,		<cyfunction LoginWindow.__GetChannelName at 0x09B9EA80>
+_LoginWindow__GetChannelName,		<cyfunction LoginWindow.__GetChannelName at 0x0DBBCEF8>
 	arg0: self
 	arg1: regionID
 	arg2: selServerID
@@ -466,39 +480,39 @@ _LoginWindow__GetChannelName,		<cyfunction LoginWindow.__GetChannelName at 0x09B
 
 submodule._LoginWindow__GetChannelName
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__RefreshServerList,		<cyfunction LoginWindow.__RefreshServerList at 0x09B9E8C8>
+_LoginWindow__RefreshServerList,		<cyfunction LoginWindow.__RefreshServerList at 0x0DBBCD40>
 	arg0: self
 
 submodule._LoginWindow__RefreshServerList
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__OnClickExitButton,		<cyfunction LoginWindow.__OnClickExitButton at 0x09B9DFA8>
+_LoginWindow__OnClickExitButton,		<cyfunction LoginWindow.__OnClickExitButton at 0x0DBBC450>
 	arg0: self
 
 submodule._LoginWindow__OnClickExitButton
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction LoginWindow.OnUpdate at 0x09B9E4A8>
+OnUpdate,		<cyfunction LoginWindow.OnUpdate at 0x0DBBC920>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-OnConnectFailure,		<cyfunction LoginWindow.OnConnectFailure at 0x09B9D978>
+OnConnectFailure,		<cyfunction LoginWindow.OnConnectFailure at 0x0DBBBDF0>
 	arg0: self
 
 submodule.OnConnectFailure
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__VirtualKeyboard_SetAlphabetMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetAlphabetMode at 0x09B9DE48>
+_LoginWindow__VirtualKeyboard_SetAlphabetMode,		<cyfunction LoginWindow.__VirtualKeyboard_SetAlphabetMode at 0x0DBBC2F0>
 	arg0: self
 
 submodule._LoginWindow__VirtualKeyboard_SetAlphabetMode
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-_LoginWindow__ServerIDToServerIndex,		<cyfunction LoginWindow.__ServerIDToServerIndex at 0x09B9E6B8>
+_LoginWindow__ServerIDToServerIndex,		<cyfunction LoginWindow.__ServerIDToServerIndex at 0x0DBBCB30>
 	arg0: self
 	arg1: regionID
 	arg2: targetServerID
 
 submodule._LoginWindow__ServerIDToServerIndex
 Skipped: unbound method cython_function_or_method object must be called with LoginWindow instance as first argument (got nothing instead)
-SetIDEditLineFocus,		<cyfunction LoginWindow.SetIDEditLineFocus at 0x09B9D870>
+SetIDEditLineFocus,		<cyfunction LoginWindow.SetIDEditLineFocus at 0x0DBBBCE8>
 	arg0: self
 
 submodule.SetIDEditLineFocus
@@ -506,7 +520,7 @@ Skipped: unbound method cython_function_or_method object must be called with Log
 
 
 class ConnectingDialog:
-OnUpdate,		<cyfunction ConnectingDialog.OnUpdate at 0x09B9D240>
+OnUpdate,		<cyfunction ConnectingDialog.OnUpdate at 0x0DBBB660>
 	arg0: self
 
 submodule.OnUpdate
@@ -516,34 +530,34 @@ __module__,		introLogin
 submodule.__module__
 
 
-OnPressExitKey,		<cyfunction ConnectingDialog.OnPressExitKey at 0x09B9D298>
+OnPressExitKey,		<cyfunction ConnectingDialog.OnPressExitKey at 0x0DBBB6B8>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with ConnectingDialog instance as first argument (got nothing instead)
-SetCountDownMessage,		<cyfunction ConnectingDialog.SetCountDownMessage at 0x09B9D138>
+SetCountDownMessage,		<cyfunction ConnectingDialog.SetCountDownMessage at 0x0DBBB558>
 	arg0: self
 	arg1: waitTime
 
 submodule.SetCountDownMessage
 Skipped: unbound method cython_function_or_method object must be called with ConnectingDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction ConnectingDialog.__del__ at 0x09B9CEF8>
+__del__,		<cyfunction ConnectingDialog.__del__ at 0x0DBBB348>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ConnectingDialog instance as first argument (got nothing instead)
-SetText,		<cyfunction ConnectingDialog.SetText at 0x09B9D0E0>
+SetText,		<cyfunction ConnectingDialog.SetText at 0x0DBBB500>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with ConnectingDialog instance as first argument (got nothing instead)
-_ConnectingDialog__LoadDialog,		<cyfunction ConnectingDialog.__LoadDialog at 0x09B9CF50>
+_ConnectingDialog__LoadDialog,		<cyfunction ConnectingDialog.__LoadDialog at 0x0DBBB3A0>
 	arg0: self
 
 submodule._ConnectingDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with ConnectingDialog instance as first argument (got nothing instead)
-Close,		<cyfunction ConnectingDialog.Close at 0x09B9D030>
+Close,		<cyfunction ConnectingDialog.Close at 0x0DBBB450>
 	arg0: self
 
 submodule.Close
@@ -553,24 +567,24 @@ __qualname__,		ConnectingDialog
 submodule.__qualname__
 
 
-SAFE_SetTimeOverEvent,		<cyfunction ConnectingDialog.SAFE_SetTimeOverEvent at 0x09B9D190>
+SAFE_SetTimeOverEvent,		<cyfunction ConnectingDialog.SAFE_SetTimeOverEvent at 0x0DBBB5B0>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetTimeOverEvent
 Skipped: unbound method cython_function_or_method object must be called with ConnectingDialog instance as first argument (got nothing instead)
-SAFE_SetExitEvent,		<cyfunction ConnectingDialog.SAFE_SetExitEvent at 0x09B9D1E8>
+SAFE_SetExitEvent,		<cyfunction ConnectingDialog.SAFE_SetExitEvent at 0x0DBBB608>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetExitEvent
 Skipped: unbound method cython_function_or_method object must be called with ConnectingDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction ConnectingDialog.Destroy at 0x09B9D088>
+Destroy,		<cyfunction ConnectingDialog.Destroy at 0x0DBBB4A8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ConnectingDialog instance as first argument (got nothing instead)
-Open,		<cyfunction ConnectingDialog.Open at 0x09B9CFA8>
+Open,		<cyfunction ConnectingDialog.Open at 0x0DBBB3F8>
 	arg0: self
 	arg1: waitTime
 
@@ -581,7 +595,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ConnectingDialog.__init__ at 0x09B9CEA0>
+__init__,		<cyfunction ConnectingDialog.__init__ at 0x0DBBB2F0>
 	arg0: self
 
 submodule.__init__
@@ -599,7 +613,7 @@ __module__,		introLogin
 submodule.__module__
 
 
-ClearItem,		<cyfunction ChannelListBox.ClearItem at 0x09B9D558>
+ClearItem,		<cyfunction ChannelListBox.ClearItem at 0x0DBBB9D0>
 	arg0: self
 
 submodule.ClearItem
@@ -609,7 +623,7 @@ TEMPORARY_PLACE,		3
 submodule.TEMPORARY_PLACE
 
 
-InsertItem,		<cyfunction ChannelListBox.InsertItem at 0x09B9D5B0>
+InsertItem,		<cyfunction ChannelListBox.InsertItem at 0x0DBBBA28>
 	arg0: self
 	arg1: number
 	arg2: text
@@ -624,7 +638,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ChannelListBox.__init__ at 0x09B9D500>
+__init__,		<cyfunction ChannelListBox.__init__ at 0x0DBBB978>
 	arg0: self
 	arg1: layer
 	default: UI

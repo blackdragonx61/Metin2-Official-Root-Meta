@@ -31,6 +31,7 @@
           {'args': [], 'defaults': [], 'name': '__LoadGameWolfman'},
           {'args': ['race', 'path'], 'defaults': [], 'name': '__LoadGameWolfmanEx'},
           {'args': [], 'defaults': [], 'name': '__LoadRaceHeight'},
+          {'args': [], 'defaults': [], 'name': '__LoadSetItemName'},
           {'args': [], 'defaults': [], 'name': '__LoadShopDeco'}],
  'import': ['skill', 'constInfo', 'localeInfo', 'item', '__builtin__', 'effect', 'emotion', 'app', 'chrmgrm2g', 'chr', 'guild', 'm2netm2g', 'playerm2g2'],
  'var': [{'name': 'ACTIVE_GUILD_SKILL_INDEX_LIST', 'type': 'tuple', 'value': (152, 153, 154, 155, 156, 157)},
@@ -80,4 +81,4 @@
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
          {'name': 'isInitData', 'type': 'int', 'value': 1},
-         {'name': 'loadGameDataDict', 'type': 'dict', 'value': {'ASSASSIN': 0, 'EFFECT': 0, 'ENEMY': 0, 'INIT': 0, 'NPC': 0, 'RACE_HEIGHT': None, 'SHAMAN': 0, 'SHOP': None, 'SKILL': 0, 'SOUND': 0, 'SURA': 0, 'WARRIOR': 0, 'WOLFMAN': 0}}]}
+         {'name': 'loadGameDataDict', 'type': 'dict', 'value': {'ASSASSIN': 0, 'EFFECT': 0, 'ENEMY': 0, 'INIT': 0, 'NPC': 0, 'RACE_HEIGHT': None, 'SET_ITEM': None, 'SHAMAN': 0, 'SHOP': None, 'SKILL': 0, 'SOUND': 0, 'SURA': 0, 'WARRIOR': 0, 'WOLFMAN': 0}}]}

@@ -56,6 +56,7 @@
                      {'args': ['self'], 'defaults': [], 'name': '__OnClickViewChatOnButton'},
                      {'args': ['self'], 'defaults': [], 'name': '__RefreshPVPButtonList'},
                      {'args': ['self'], 'defaults': [], 'name': '__RefreshStructViewMode'},
+                     {'args': ['self'], 'defaults': [], 'name': '__SetFreePKMode'},
                      {'args': ['self', 'index'], 'defaults': [], 'name': '__SetNameColorMode'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__SetPKMode'},
                      {'args': ['self'], 'defaults': [], 'name': '__SetPeacePKMode'},
@@ -70,5 +71,5 @@
          {'name': '__name__', 'type': 'str', 'value': 'uiGameOption'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'blockMode', 'type': 'int', 'value': 51},
+         {'name': 'blockMode', 'type': 'int', 'value': 48},
          {'name': 'viewChatMode', 'type': 'int', 'value': 0}]}

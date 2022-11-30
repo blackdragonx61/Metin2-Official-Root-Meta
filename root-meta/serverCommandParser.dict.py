@@ -15,11 +15,13 @@
                      {'args': ['self'], 'defaults': [], 'name': '__ItemMall_Open'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__LateSummerEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniBossDungeon'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameBNW'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameCatchKing'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameFindM'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameOkeyEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameOkeyNormalEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameYutnori'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__MistsIsland'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MonsterBack'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__PartyMatchOff'},
                      {'args': ['self', 'line'], 'defaults': [], 'name': '__PreserveCommand'},
@@ -42,4 +44,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x09AE8A30>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0DAF5730>}]}

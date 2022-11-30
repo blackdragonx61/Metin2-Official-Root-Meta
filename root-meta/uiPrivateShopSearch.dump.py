@@ -22,23 +22,23 @@ key: __doc__, val: None
 
 
 class CheckBox:
-SetCheck,		<cyfunction CheckBox.SetCheck at 0x098EB240>
+SetCheck,		<cyfunction CheckBox.SetCheck at 0x0D8F2A80>
 	arg0: self
 	arg1: flag
 
 submodule.SetCheck
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction CheckBox.OnMouseLeftButtonDown at 0x098EB3A0>
+OnMouseLeftButtonDown,		<cyfunction CheckBox.OnMouseLeftButtonDown at 0x0D8F2BE0>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction CheckBox.OnMouseOverOut at 0x098EB348>
+OnMouseOverOut,		<cyfunction CheckBox.OnMouseOverOut at 0x0D8F2B88>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-__del__,		<cyfunction CheckBox.__del__ at 0x098EB1E8>
+__del__,		<cyfunction CheckBox.__del__ at 0x0D8F2A28>
 	arg0: self
 
 submodule.__del__
@@ -53,17 +53,17 @@ __qualname__,		CheckBox
 submodule.__qualname__
 
 
-Disable,		<cyfunction CheckBox.Disable at 0x098EB298>
+Disable,		<cyfunction CheckBox.Disable at 0x0D8F2AD8>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction CheckBox.OnMouseOverIn at 0x098EB2F0>
+OnMouseOverIn,		<cyfunction CheckBox.OnMouseOverIn at 0x0D8F2B30>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction CheckBox.OnMouseLeftButtonUp at 0x098EB3F8>
+OnMouseLeftButtonUp,		<cyfunction CheckBox.OnMouseLeftButtonUp at 0x0D8F2C38>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
@@ -73,7 +73,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction CheckBox.__init__ at 0x098EB190>
+__init__,		<cyfunction CheckBox.__init__ at 0x0D8F29D0>
 	arg0: self
 	arg1: parent
 	arg2: x
@@ -97,12 +97,12 @@ PAGEBUTTON_NUMBER_SIZE,		5
 submodule.PAGEBUTTON_NUMBER_SIZE
 
 
-firstprevbutton,		<cyfunction PrivateShopSeachWindow.firstprevbutton at 0x098EB818>
+firstprevbutton,		<cyfunction PrivateShopSeachWindow.firstprevbutton at 0x0D8F9088>
 	arg0: self
 
 submodule.firstprevbutton
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-Pagebutton,		<cyfunction PrivateShopSeachWindow.Pagebutton at 0x098EB7C0>
+Pagebutton,		<cyfunction PrivateShopSeachWindow.Pagebutton at 0x0D8F9030>
 	arg0: self
 	arg1: number
 
@@ -113,7 +113,7 @@ MAX_LINE_COUNT,		10
 submodule.MAX_LINE_COUNT
 
 
-Destroy,		<cyfunction PrivateShopSeachWindow.Destroy at 0x098EB608>
+Destroy,		<cyfunction PrivateShopSeachWindow.Destroy at 0x0D8F2E48>
 	arg0: self
 
 submodule.Destroy
@@ -128,28 +128,28 @@ PAGEBUTTON_MAX_SIZE,		9
 submodule.PAGEBUTTON_MAX_SIZE
 
 
-_PrivateShopSeachWindow__SelectItem,		<cyfunction PrivateShopSeachWindow.__SelectItem at 0x098EBC38>
+_PrivateShopSeachWindow__SelectItem,		<cyfunction PrivateShopSeachWindow.__SelectItem at 0x0D8F94A8>
 	arg0: self
 	arg1: arg
 
 submodule._PrivateShopSeachWindow__SelectItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-nextbutton,		<cyfunction PrivateShopSeachWindow.nextbutton at 0x098EB920>
+nextbutton,		<cyfunction PrivateShopSeachWindow.nextbutton at 0x0D8F9190>
 	arg0: self
 
 submodule.nextbutton
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction PrivateShopSeachWindow.__init__ at 0x098EB450>
+__init__,		<cyfunction PrivateShopSeachWindow.__init__ at 0x0D8F2C90>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PrivateShopSeachWindow.OnUpdate at 0x098EBA80>
+OnUpdate,		<cyfunction PrivateShopSeachWindow.OnUpdate at 0x0D8F92F0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-Buy,		<cyfunction PrivateShopSeachWindow.Buy at 0x098EBB30>
+Buy,		<cyfunction PrivateShopSeachWindow.Buy at 0x0D8F93A0>
 	arg0: self
 
 submodule.Buy
@@ -159,18 +159,18 @@ SPECIAL_TITLE_COLOR,		4283317552
 submodule.SPECIAL_TITLE_COLOR
 
 
-OnBuyAcceptEvent,		<cyfunction PrivateShopSeachWindow.OnBuyAcceptEvent at 0x098EBB88>
+OnBuyAcceptEvent,		<cyfunction PrivateShopSeachWindow.OnBuyAcceptEvent at 0x0D8F93F8>
 	arg0: self
 
 submodule.OnBuyAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-OverInToolTip,		<cyfunction PrivateShopSeachWindow.OverInToolTip at 0x098EBDF0>
+OverInToolTip,		<cyfunction PrivateShopSeachWindow.OverInToolTip at 0x0D8F9660>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInToolTip
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-_PrivateShopSeachWindow__ClearItemSlotButtonList,		<cyfunction PrivateShopSeachWindow.__ClearItemSlotButtonList at 0x098EBC90>
+_PrivateShopSeachWindow__ClearItemSlotButtonList,		<cyfunction PrivateShopSeachWindow.__ClearItemSlotButtonList at 0x0D8F9500>
 	arg0: self
 
 submodule._PrivateShopSeachWindow__ClearItemSlotButtonList
@@ -180,50 +180,50 @@ CLICK_LIMIT_TIME,		3
 submodule.CLICK_LIMIT_TIME
 
 
-prevbutton,		<cyfunction PrivateShopSeachWindow.prevbutton at 0x098EB8C8>
+prevbutton,		<cyfunction PrivateShopSeachWindow.prevbutton at 0x0D8F9138>
 	arg0: self
 
 submodule.prevbutton
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-OnChangeItemSubTypeSlot,		<cyfunction PrivateShopSeachWindow.OnChangeItemSubTypeSlot at 0x098EBEA0>
+OnChangeItemSubTypeSlot,		<cyfunction PrivateShopSeachWindow.OnChangeItemSubTypeSlot at 0x0D8F9710>
 	arg0: self
 	arg1: Masksubtypenumber
 
 submodule.OnChangeItemSubTypeSlot
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-_PrivateShopSeachWindow__MakeResultSlot,		<cyfunction PrivateShopSeachWindow.__MakeResultSlot at 0x098EB6B8>
+_PrivateShopSeachWindow__MakeResultSlot,		<cyfunction PrivateShopSeachWindow.__MakeResultSlot at 0x0D8F2EF8>
 	arg0: self
 
 submodule._PrivateShopSeachWindow__MakeResultSlot
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-_PrivateShopSeachWindow__LoadWindow,		<cyfunction PrivateShopSeachWindow.__LoadWindow at 0x098EB500>
+_PrivateShopSeachWindow__LoadWindow,		<cyfunction PrivateShopSeachWindow.__LoadWindow at 0x0D8F2D40>
 	arg0: self
 
 submodule._PrivateShopSeachWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-clearEffectEtc,		<cyfunction PrivateShopSeachWindow.clearEffectEtc at 0x098EBFA8>
+clearEffectEtc,		<cyfunction PrivateShopSeachWindow.clearEffectEtc at 0x0D8F9818>
 	arg0: self
 
 submodule.clearEffectEtc
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-Search,		<cyfunction PrivateShopSeachWindow.Search at 0x098EBAD8>
+Search,		<cyfunction PrivateShopSeachWindow.Search at 0x0D8F9348>
 	arg0: self
 
 submodule.Search
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-OnChangeJobSlot,		<cyfunction PrivateShopSeachWindow.OnChangeJobSlot at 0x098EBEF8>
+OnChangeJobSlot,		<cyfunction PrivateShopSeachWindow.OnChangeJobSlot at 0x0D8F9768>
 	arg0: self
 	arg1: jobnumber
 
 submodule.OnChangeJobSlot
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-OnChangeItemTypeSlot,		<cyfunction PrivateShopSeachWindow.OnChangeItemTypeSlot at 0x098EBF50>
+OnChangeItemTypeSlot,		<cyfunction PrivateShopSeachWindow.OnChangeItemTypeSlot at 0x0D8F97C0>
 	arg0: self
 	arg1: Masktypenumber
 
 submodule.OnChangeItemTypeSlot
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction PrivateShopSeachWindow.__del__ at 0x098EB4A8>
+__del__,		<cyfunction PrivateShopSeachWindow.__del__ at 0x0D8F2CE8>
 	arg0: self
 
 submodule.__del__
@@ -233,33 +233,33 @@ __doc__,		None
 submodule.__doc__
 
 
-OnPressEscapeKey,		<cyfunction PrivateShopSeachWindow.OnPressEscapeKey at 0x098EB660>
+OnPressEscapeKey,		<cyfunction PrivateShopSeachWindow.OnPressEscapeKey at 0x0D8F2EA0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-lastnextbutton,		<cyfunction PrivateShopSeachWindow.lastnextbutton at 0x098EB870>
+lastnextbutton,		<cyfunction PrivateShopSeachWindow.lastnextbutton at 0x0D8F90E0>
 	arg0: self
 
 submodule.lastnextbutton
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-OverOutToolTip,		<cyfunction PrivateShopSeachWindow.OverOutToolTip at 0x098EBE48>
+OverOutToolTip,		<cyfunction PrivateShopSeachWindow.OverOutToolTip at 0x0D8F96B8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverOutToolTip
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-RefreshList,		<cyfunction PrivateShopSeachWindow.RefreshList at 0x098EB710>
+RefreshList,		<cyfunction PrivateShopSeachWindow.RefreshList at 0x0D8F2F50>
 	arg0: self
 
 submodule.RefreshList
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction PrivateShopSeachWindow.OnTop at 0x098EC030>
+OnTop,		<cyfunction PrivateShopSeachWindow.OnTop at 0x0D8F9870>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-clearPagebuttoncolor,		<cyfunction PrivateShopSeachWindow.clearPagebuttoncolor at 0x098EB978>
+clearPagebuttoncolor,		<cyfunction PrivateShopSeachWindow.clearPagebuttoncolor at 0x0D8F91E8>
 	arg0: self
 
 submodule.clearPagebuttoncolor
@@ -269,19 +269,19 @@ PAGEONE_MAX_SIZE,		50
 submodule.PAGEONE_MAX_SIZE
 
 
-SetItemToolTip,		<cyfunction PrivateShopSeachWindow.SetItemToolTip at 0x098EBD40>
+SetItemToolTip,		<cyfunction PrivateShopSeachWindow.SetItemToolTip at 0x0D8F95B0>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-_PrivateShopSeachWindow__ShowToolTip,		<cyfunction PrivateShopSeachWindow.__ShowToolTip at 0x098EBD98>
+_PrivateShopSeachWindow__ShowToolTip,		<cyfunction PrivateShopSeachWindow.__ShowToolTip at 0x0D8F9608>
 	arg0: self
 	arg1: slotIndex
 
 submodule._PrivateShopSeachWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-HidePageButton,		<cyfunction PrivateShopSeachWindow.HidePageButton at 0x098EB9D0>
+HidePageButton,		<cyfunction PrivateShopSeachWindow.HidePageButton at 0x0D8F9240>
 	arg0: self
 
 submodule.HidePageButton
@@ -291,36 +291,36 @@ __qualname__,		PrivateShopSeachWindow
 submodule.__qualname__
 
 
-NumberToMoneyString,		<cyfunction PrivateShopSeachWindow.NumberToMoneyString at 0x098EB768>
+NumberToMoneyString,		<cyfunction PrivateShopSeachWindow.NumberToMoneyString at 0x0D8F2FA8>
 	arg0: self
 	arg1: n
 
 submodule.NumberToMoneyString
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-ShowPageButton,		<cyfunction PrivateShopSeachWindow.ShowPageButton at 0x098EBA28>
+ShowPageButton,		<cyfunction PrivateShopSeachWindow.ShowPageButton at 0x0D8F9298>
 	arg0: self
 	arg1: maxsize
 	arg2: page
 
 submodule.ShowPageButton
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-Close,		<cyfunction PrivateShopSeachWindow.Close at 0x098EB5B0>
+Close,		<cyfunction PrivateShopSeachWindow.Close at 0x0D8F2DF0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-OnBuyCloseEvent,		<cyfunction PrivateShopSeachWindow.OnBuyCloseEvent at 0x098EBBE0>
+OnBuyCloseEvent,		<cyfunction PrivateShopSeachWindow.OnBuyCloseEvent at 0x0D8F9450>
 	arg0: self
 
 submodule.OnBuyCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-_PrivateShopSeachWindow__SelectItemSlotButtonList,		<cyfunction PrivateShopSeachWindow.__SelectItemSlotButtonList at 0x098EBCE8>
+_PrivateShopSeachWindow__SelectItemSlotButtonList,		<cyfunction PrivateShopSeachWindow.__SelectItemSlotButtonList at 0x0D8F9558>
 	arg0: self
 	arg1: index
 
 submodule._PrivateShopSeachWindow__SelectItemSlotButtonList
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopSeachWindow instance as first argument (got nothing instead)
-Open,		<cyfunction PrivateShopSeachWindow.Open at 0x098EB558>
+Open,		<cyfunction PrivateShopSeachWindow.Open at 0x0D8F2D98>
 	arg0: self
 	arg1: iscash
 
@@ -329,29 +329,29 @@ Skipped: unbound method cython_function_or_method object must be called with Pri
 
 
 class ActionTextSlot:
-SetEvent,		<cyfunction ActionTextSlot.SetEvent at 0x09D3ED98>
+SetEvent,		<cyfunction ActionTextSlot.SetEvent at 0x0D8F2608>
 	arg0: self
 	arg1: event
 	arg2: arg
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with ActionTextSlot instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction ActionTextSlot.OnMouseLeftButtonDown at 0x09D3EEF8>
+OnMouseLeftButtonDown,		<cyfunction ActionTextSlot.OnMouseLeftButtonDown at 0x0D8F2768>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with ActionTextSlot instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction ActionTextSlot.OnMouseOverOut at 0x09D3EEA0>
+OnMouseOverOut,		<cyfunction ActionTextSlot.OnMouseOverOut at 0x0D8F2710>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with ActionTextSlot instance as first argument (got nothing instead)
-__del__,		<cyfunction ActionTextSlot.__del__ at 0x09D3ECE8>
+__del__,		<cyfunction ActionTextSlot.__del__ at 0x0D8F2558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ActionTextSlot instance as first argument (got nothing instead)
-SetText,		<cyfunction ActionTextSlot.SetText at 0x09D3ED40>
+SetText,		<cyfunction ActionTextSlot.SetText at 0x0D8F25B0>
 	arg0: self
 	arg1: text
 
@@ -367,17 +367,17 @@ __qualname__,		ActionTextSlot
 submodule.__qualname__
 
 
-Disable,		<cyfunction ActionTextSlot.Disable at 0x09D3EDF0>
+Disable,		<cyfunction ActionTextSlot.Disable at 0x0D8F2660>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with ActionTextSlot instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction ActionTextSlot.OnMouseOverIn at 0x09D3EE48>
+OnMouseOverIn,		<cyfunction ActionTextSlot.OnMouseOverIn at 0x0D8F26B8>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with ActionTextSlot instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction ActionTextSlot.OnMouseLeftButtonUp at 0x09D3EF50>
+OnMouseLeftButtonUp,		<cyfunction ActionTextSlot.OnMouseLeftButtonUp at 0x0D8F27C0>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
@@ -387,7 +387,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ActionTextSlot.__init__ at 0x09D3EC90>
+__init__,		<cyfunction ActionTextSlot.__init__ at 0x0D8F2500>
 	arg0: self
 	arg1: parent
 	arg2: x
@@ -403,7 +403,7 @@ __qualname__,		MouseReflector
 submodule.__qualname__
 
 
-Down,		<cyfunction MouseReflector.Down at 0x098EB088>
+Down,		<cyfunction MouseReflector.Down at 0x0D8F28C8>
 	arg0: self
 
 submodule.Down
@@ -413,22 +413,22 @@ __module__,		uiPrivateShopSearch
 submodule.__module__
 
 
-OnRender,		<cyfunction MouseReflector.OnRender at 0x098EB138>
+OnRender,		<cyfunction MouseReflector.OnRender at 0x0D8F2978>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-__del__,		<cyfunction MouseReflector.__del__ at 0x098EB030>
+__del__,		<cyfunction MouseReflector.__del__ at 0x0D8F2870>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-Up,		<cyfunction MouseReflector.Up at 0x098EB0E0>
+Up,		<cyfunction MouseReflector.Up at 0x0D8F2920>
 	arg0: self
 
 submodule.Up
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-__init__,		<cyfunction MouseReflector.__init__ at 0x09D3EFA8>
+__init__,		<cyfunction MouseReflector.__init__ at 0x0D8F2818>
 	arg0: self
 	arg1: parent
 

@@ -8,6 +8,8 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemFlags'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemID'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemMetinSocket'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemRefineElement'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemSetValue'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'OpenGuildBank'}],
  'import': [],
  'var': [{'name': 'GUILDBANK_PAGE_SIZE', 'type': 'int', 'value': 40},

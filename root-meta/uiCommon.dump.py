@@ -29,46 +29,46 @@ __module__,		uiCommon
 submodule.__module__
 
 
-__del__,		<cyfunction PopupDialog2.__del__ at 0x09A53A28>
+__del__,		<cyfunction PopupDialog2.__del__ at 0x0DA4F768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction PopupDialog2.SetAcceptEvent at 0x09A53CE8>
+SetAcceptEvent,		<cyfunction PopupDialog2.SetAcceptEvent at 0x0DA4FA28>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PopupDialog2.OnPressEscapeKey at 0x09A53D98>
+OnPressEscapeKey,		<cyfunction PopupDialog2.OnPressEscapeKey at 0x0DA4FAD8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-SetButtonName,		<cyfunction PopupDialog2.SetButtonName at 0x09A53D40>
+SetButtonName,		<cyfunction PopupDialog2.SetButtonName at 0x0DA4FA80>
 	arg0: self
 	arg1: name
 
 submodule.SetButtonName
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-Destroy,		<cyfunction PopupDialog2.Destroy at 0x09A53B88>
+Destroy,		<cyfunction PopupDialog2.Destroy at 0x0DA4F8C8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-SetText2,		<cyfunction PopupDialog2.SetText2 at 0x09A53C90>
+SetText2,		<cyfunction PopupDialog2.SetText2 at 0x0DA4F9D0>
 	arg0: self
 	arg1: text
 
 submodule.SetText2
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-SetText1,		<cyfunction PopupDialog2.SetText1 at 0x09A53C38>
+SetText1,		<cyfunction PopupDialog2.SetText1 at 0x0DA4F978>
 	arg0: self
 	arg1: text
 
 submodule.SetText1
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-Open,		<cyfunction PopupDialog2.Open at 0x09A53AD8>
+Open,		<cyfunction PopupDialog2.Open at 0x0DA4F818>
 	arg0: self
 
 submodule.Open
@@ -78,37 +78,37 @@ __qualname__,		PopupDialog2
 submodule.__qualname__
 
 
-_PopupDialog2__LoadDialog,		<cyfunction PopupDialog2.__LoadDialog at 0x09A53A80>
+_PopupDialog2__LoadDialog,		<cyfunction PopupDialog2.__LoadDialog at 0x0DA4F7C0>
 	arg0: self
 
 submodule._PopupDialog2__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-__init__,		<cyfunction PopupDialog2.__init__ at 0x09A539D0>
+__init__,		<cyfunction PopupDialog2.__init__ at 0x0DA4F710>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-GetTextLineCount,		<cyfunction PopupDialog2.GetTextLineCount at 0x09A53F50>
+GetTextLineCount,		<cyfunction PopupDialog2.GetTextLineCount at 0x0DA4FC90>
 	arg0: self
 
 submodule.GetTextLineCount
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-Close,		<cyfunction PopupDialog2.Close at 0x09A53B30>
+Close,		<cyfunction PopupDialog2.Close at 0x0DA4F870>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-GetLineHeight,		<cyfunction PopupDialog2.GetLineHeight at 0x09A53EA0>
+GetLineHeight,		<cyfunction PopupDialog2.GetLineHeight at 0x0DA4FBE0>
 	arg0: self
 
 submodule.GetLineHeight
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction PopupDialog2.OnIMEReturn at 0x09A53DF0>
+OnIMEReturn,		<cyfunction PopupDialog2.OnIMEReturn at 0x0DA4FB30>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-SetWidth,		<cyfunction PopupDialog2.SetWidth at 0x09A53BE0>
+SetWidth,		<cyfunction PopupDialog2.SetWidth at 0x0DA4F920>
 	arg0: self
 	arg1: width
 
@@ -119,13 +119,13 @@ __doc__,		None
 submodule.__doc__
 
 
-SetLineHeight,		<cyfunction PopupDialog2.SetLineHeight at 0x09A53EF8>
+SetLineHeight,		<cyfunction PopupDialog2.SetLineHeight at 0x0DA4FC38>
 	arg0: self
 	arg1: Height
 
 submodule.SetLineHeight
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog2 instance as first argument (got nothing instead)
-GetTextSize,		<cyfunction PopupDialog2.GetTextSize at 0x09A53E48>
+GetTextSize,		<cyfunction PopupDialog2.GetTextSize at 0x0DA4FB88>
 	arg0: self
 
 submodule.GetTextSize
@@ -143,24 +143,24 @@ __module__,		uiCommon
 submodule.__module__
 
 
-SetDescription1,		<cyfunction InputDialogWithDescription2.SetDescription1 at 0x09A767C0>
+SetDescription1,		<cyfunction InputDialogWithDescription2.SetDescription1 at 0x0DA67500>
 	arg0: self
 	arg1: text
 
 submodule.SetDescription1
 Skipped: unbound method cython_function_or_method object must be called with InputDialogWithDescription2 instance as first argument (got nothing instead)
-_InputDialogWithDescription2__CreateDialog,		<cyfunction InputDialogWithDescription2.__CreateDialog at 0x09A76768>
+_InputDialogWithDescription2__CreateDialog,		<cyfunction InputDialogWithDescription2.__CreateDialog at 0x0DA674A8>
 	arg0: self
 
 submodule._InputDialogWithDescription2__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with InputDialogWithDescription2 instance as first argument (got nothing instead)
-SetDescription2,		<cyfunction InputDialogWithDescription2.SetDescription2 at 0x09A76818>
+SetDescription2,		<cyfunction InputDialogWithDescription2.SetDescription2 at 0x0DA67558>
 	arg0: self
 	arg1: text
 
 submodule.SetDescription2
 Skipped: unbound method cython_function_or_method object must be called with InputDialogWithDescription2 instance as first argument (got nothing instead)
-__del__,		<cyfunction InputDialogWithDescription2.__del__ at 0x09A76710>
+__del__,		<cyfunction InputDialogWithDescription2.__del__ at 0x0DA67450>
 	arg0: self
 
 submodule.__del__
@@ -170,7 +170,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction InputDialogWithDescription2.__init__ at 0x09A766B8>
+__init__,		<cyfunction InputDialogWithDescription2.__init__ at 0x0DA673F8>
 	arg0: self
 
 submodule.__init__
@@ -183,59 +183,59 @@ __module__,		uiCommon
 submodule.__module__
 
 
-SetWidth,		<cyfunction ExQuestionDialog.SetWidth at 0x09A78298>
+SetWidth,		<cyfunction ExQuestionDialog.SetWidth at 0x0DA69138>
 	arg0: self
 	arg1: width
 
 submodule.SetWidth
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-SetCancelText,		<cyfunction ExQuestionDialog.SetCancelText at 0x09A78500>
+SetCancelText,		<cyfunction ExQuestionDialog.SetCancelText at 0x0DA693A0>
 	arg0: self
 	arg1: text
 
 submodule.SetCancelText
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction ExQuestionDialog.__del__ at 0x09A78138>
+__del__,		<cyfunction ExQuestionDialog.__del__ at 0x0DA68FA8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-SetText,		<cyfunction ExQuestionDialog.SetText at 0x09A78450>
+SetText,		<cyfunction ExQuestionDialog.SetText at 0x0DA692F0>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-_ExQuestionDialog__CreateDialog,		<cyfunction ExQuestionDialog.__CreateDialog at 0x09A78190>
+_ExQuestionDialog__CreateDialog,		<cyfunction ExQuestionDialog.__CreateDialog at 0x0DA69030>
 	arg0: self
 
 submodule._ExQuestionDialog__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction ExQuestionDialog.SetAcceptEvent at 0x09A783A0>
+SetAcceptEvent,		<cyfunction ExQuestionDialog.SetAcceptEvent at 0x0DA69240>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-SAFE_SetAcceptEvent,		<cyfunction ExQuestionDialog.SAFE_SetAcceptEvent at 0x09A782F0>
+SAFE_SetAcceptEvent,		<cyfunction ExQuestionDialog.SAFE_SetAcceptEvent at 0x0DA69190>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ExQuestionDialog.OnPressEscapeKey at 0x09A78558>
+OnPressEscapeKey,		<cyfunction ExQuestionDialog.OnPressEscapeKey at 0x0DA693F8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction ExQuestionDialog.__init__ at 0x09A780E0>
+__init__,		<cyfunction ExQuestionDialog.__init__ at 0x0DA68F50>
 	arg0: self
 	arg1: layer
 	default: UI
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-Open,		<cyfunction ExQuestionDialog.Open at 0x09A781E8>
+Open,		<cyfunction ExQuestionDialog.Open at 0x0DA69088>
 	arg0: self
 
 submodule.Open
@@ -245,39 +245,39 @@ __qualname__,		ExQuestionDialog
 submodule.__qualname__
 
 
-SetAcceptText,		<cyfunction ExQuestionDialog.SetAcceptText at 0x09A784A8>
+SetAcceptText,		<cyfunction ExQuestionDialog.SetAcceptText at 0x0DA69348>
 	arg0: self
 	arg1: text
 
 submodule.SetAcceptText
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-GetTextSize,		<cyfunction ExQuestionDialog.GetTextSize at 0x09A785B0>
+GetTextSize,		<cyfunction ExQuestionDialog.GetTextSize at 0x0DA69450>
 	arg0: self
 
 submodule.GetTextSize
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-SAFE_SetCancelEvent,		<cyfunction ExQuestionDialog.SAFE_SetCancelEvent at 0x09A78348>
+SAFE_SetCancelEvent,		<cyfunction ExQuestionDialog.SAFE_SetCancelEvent at 0x0DA691E8>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetCancelEvent
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-GetTextLineCount,		<cyfunction ExQuestionDialog.GetTextLineCount at 0x09A786B8>
+GetTextLineCount,		<cyfunction ExQuestionDialog.GetTextLineCount at 0x0DA69558>
 	arg0: self
 
 submodule.GetTextLineCount
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-Close,		<cyfunction ExQuestionDialog.Close at 0x09A78240>
+Close,		<cyfunction ExQuestionDialog.Close at 0x0DA690E0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-GetLineHeight,		<cyfunction ExQuestionDialog.GetLineHeight at 0x09A78608>
+GetLineHeight,		<cyfunction ExQuestionDialog.GetLineHeight at 0x0DA694A8>
 	arg0: self
 
 submodule.GetLineHeight
 Skipped: unbound method cython_function_or_method object must be called with ExQuestionDialog instance as first argument (got nothing instead)
-SetCancelEvent,		<cyfunction ExQuestionDialog.SetCancelEvent at 0x09A783F8>
+SetCancelEvent,		<cyfunction ExQuestionDialog.SetCancelEvent at 0x0DA69298>
 	arg0: self
 	arg1: event
 
@@ -288,7 +288,7 @@ __doc__,		None
 submodule.__doc__
 
 
-SetLineHeight,		<cyfunction ExQuestionDialog.SetLineHeight at 0x09A78660>
+SetLineHeight,		<cyfunction ExQuestionDialog.SetLineHeight at 0x0DA69500>
 	arg0: self
 	arg1: Height
 
@@ -297,7 +297,7 @@ Skipped: unbound method cython_function_or_method object must be called with ExQ
 
 
 class InputDialog:
-SetFocus,		<cyfunction InputDialog.SetFocus at 0x09A762F0>
+SetFocus,		<cyfunction InputDialog.SetFocus at 0x0DA67030>
 	arg0: self
 
 submodule.SetFocus
@@ -307,63 +307,63 @@ __module__,		uiCommon
 submodule.__module__
 
 
-SetUseCodePage,		<cyfunction InputDialog.SetUseCodePage at 0x09A76240>
+SetUseCodePage,		<cyfunction InputDialog.SetUseCodePage at 0x0DA4FF50>
 	arg0: self
 	arg1: bUse
 	default: True
 
 submodule.SetUseCodePage
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-Open,		<cyfunction InputDialog.Open at 0x09A760E0>
+Open,		<cyfunction InputDialog.Open at 0x0DA4FDF0>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-SetNumberMode,		<cyfunction InputDialog.SetNumberMode at 0x09A761E8>
+SetNumberMode,		<cyfunction InputDialog.SetNumberMode at 0x0DA4FEF8>
 	arg0: self
 
 submodule.SetNumberMode
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction InputDialog.__del__ at 0x09A76030>
+__del__,		<cyfunction InputDialog.__del__ at 0x0DA4FD40>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-_InputDialog__CreateDialog,		<cyfunction InputDialog.__CreateDialog at 0x09A76088>
+_InputDialog__CreateDialog,		<cyfunction InputDialog.__CreateDialog at 0x0DA4FD98>
 	arg0: self
 
 submodule._InputDialog__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction InputDialog.SetAcceptEvent at 0x09A76450>
+SetAcceptEvent,		<cyfunction InputDialog.SetAcceptEvent at 0x0DA67190>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-SetMaxLength,		<cyfunction InputDialog.SetMaxLength at 0x09A76348>
+SetMaxLength,		<cyfunction InputDialog.SetMaxLength at 0x0DA67088>
 	arg0: self
 	arg1: length
 
 submodule.SetMaxLength
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction InputDialog.__init__ at 0x09A53FA8>
+__init__,		<cyfunction InputDialog.__init__ at 0x0DA4FCE8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-SetBoardWidth,		<cyfunction InputDialog.SetBoardWidth at 0x09A763F8>
+SetBoardWidth,		<cyfunction InputDialog.SetBoardWidth at 0x0DA67138>
 	arg0: self
 	arg1: width
 
 submodule.SetBoardWidth
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-SetTitle,		<cyfunction InputDialog.SetTitle at 0x09A76190>
+SetTitle,		<cyfunction InputDialog.SetTitle at 0x0DA4FEA0>
 	arg0: self
 	arg1: name
 
 submodule.SetTitle
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-GetText,		<cyfunction InputDialog.GetText at 0x09A76500>
+GetText,		<cyfunction InputDialog.GetText at 0x0DA67240>
 	arg0: self
 
 submodule.GetText
@@ -373,23 +373,23 @@ __qualname__,		InputDialog
 submodule.__qualname__
 
 
-SetSlotWidth,		<cyfunction InputDialog.SetSlotWidth at 0x09A763A0>
+SetSlotWidth,		<cyfunction InputDialog.SetSlotWidth at 0x0DA670E0>
 	arg0: self
 	arg1: width
 
 submodule.SetSlotWidth
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-SetSecretMode,		<cyfunction InputDialog.SetSecretMode at 0x09A76298>
+SetSecretMode,		<cyfunction InputDialog.SetSecretMode at 0x0DA4FFA8>
 	arg0: self
 
 submodule.SetSecretMode
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-Close,		<cyfunction InputDialog.Close at 0x09A76138>
+Close,		<cyfunction InputDialog.Close at 0x0DA4FE48>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with InputDialog instance as first argument (got nothing instead)
-SetCancelEvent,		<cyfunction InputDialog.SetCancelEvent at 0x09A764A8>
+SetCancelEvent,		<cyfunction InputDialog.SetCancelEvent at 0x0DA671E8>
 	arg0: self
 	arg1: event
 
@@ -403,7 +403,7 @@ submodule.__doc__
 
 
 class QuestionDialog:
-SetAutoControlSize,		<cyfunction QuestionDialog.SetAutoControlSize at 0x09A76EA0>
+SetAutoControlSize,		<cyfunction QuestionDialog.SetAutoControlSize at 0x0DA67BE0>
 	arg0: self
 	arg1: defaultWidth
 
@@ -414,111 +414,135 @@ __module__,		uiCommon
 submodule.__module__
 
 
-SetCancelText,		<cyfunction QuestionDialog.SetCancelText at 0x09A76C90>
+SetCancelText,		<cyfunction QuestionDialog.SetCancelText at 0x0DA679D0>
 	arg0: self
 	arg1: text
 
 submodule.SetCancelText
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SetAcceptText,		<cyfunction QuestionDialog.SetAcceptText at 0x09A76C38>
+SetAcceptText,		<cyfunction QuestionDialog.SetAcceptText at 0x0DA67978>
 	arg0: self
 	arg1: text
 
 submodule.SetAcceptText
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SetText,		<cyfunction QuestionDialog.SetText at 0x09A76BE0>
+SetText,		<cyfunction QuestionDialog.SetText at 0x0DA67920>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-_QuestionDialog__CreateDialog,		<cyfunction QuestionDialog.__CreateDialog at 0x09A76920>
+_QuestionDialog__CreateDialog,		<cyfunction QuestionDialog.__CreateDialog at 0x0DA67660>
 	arg0: self
 
 submodule._QuestionDialog__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SAFE_SetAcceptEvent,		<cyfunction QuestionDialog.SAFE_SetAcceptEvent at 0x09A76A80>
+SAFE_SetAcceptEvent,		<cyfunction QuestionDialog.SAFE_SetAcceptEvent at 0x0DA677C0>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction QuestionDialog.SetAcceptEvent at 0x09A76B30>
+SetAcceptEvent,		<cyfunction QuestionDialog.SetAcceptEvent at 0x0DA67870>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-Open,		<cyfunction QuestionDialog.Open at 0x09A76978>
+Open,		<cyfunction QuestionDialog.Open at 0x0DA676B8>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction QuestionDialog.OnPressEscapeKey at 0x09A76CE8>
+SetAcceptButtonDisable,		<cyfunction QuestionDialog.SetAcceptButtonDisable at 0x0DA67DF0>
+	arg0: self
+	arg1: color
+	default: 4288848546
+
+submodule.SetAcceptButtonDisable
+Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
+OnPressEscapeKey,		<cyfunction QuestionDialog.OnPressEscapeKey at 0x0DA67A28>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction QuestionDialog.__init__ at 0x09A76870>
+ResetButtonText,		<cyfunction QuestionDialog.ResetButtonText at 0x0DA67D40>
+	arg0: self
+
+submodule.ResetButtonText
+Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
+__init__,		<cyfunction QuestionDialog.__init__ at 0x0DA675B0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SetWidth,		<cyfunction QuestionDialog.SetWidth at 0x09A76A28>
+SetWidth,		<cyfunction QuestionDialog.SetWidth at 0x0DA67768>
 	arg0: self
 	arg1: width
 
 submodule.SetWidth
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SetCancelAutolSizeText,		<cyfunction QuestionDialog.SetCancelAutolSizeText at 0x09A76F50>
+SetAcceptButtonEnable,		<cyfunction QuestionDialog.SetAcceptButtonEnable at 0x0DA67D98>
+	arg0: self
+	arg1: color
+	default: 4290953922
+
+submodule.SetAcceptButtonEnable
+Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
+SetCancelAutolSizeText,		<cyfunction QuestionDialog.SetCancelAutolSizeText at 0x0DA67CE8>
 	arg0: self
 	arg1: text
 
 submodule.SetCancelAutolSizeText
+Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
+AutoControlSizeRefresh,		<cyfunction QuestionDialog.AutoControlSizeRefresh at 0x0DA67C38>
+	arg0: self
+
+submodule.AutoControlSizeRefresh
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
 __qualname__,		QuestionDialog
 
 submodule.__qualname__
 
 
-__del__,		<cyfunction QuestionDialog.__del__ at 0x09A768C8>
+__del__,		<cyfunction QuestionDialog.__del__ at 0x0DA67608>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SetAcceptAutolSizeText,		<cyfunction QuestionDialog.SetAcceptAutolSizeText at 0x09A76EF8>
+SetAcceptAutolSizeText,		<cyfunction QuestionDialog.SetAcceptAutolSizeText at 0x0DA67C90>
 	arg0: self
 	arg1: text
 
 submodule.SetAcceptAutolSizeText
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-GetTextSize,		<cyfunction QuestionDialog.GetTextSize at 0x09A76D40>
+GetTextSize,		<cyfunction QuestionDialog.GetTextSize at 0x0DA67A80>
 	arg0: self
 
 submodule.GetTextSize
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SAFE_SetCancelEvent,		<cyfunction QuestionDialog.SAFE_SetCancelEvent at 0x09A76AD8>
+SAFE_SetCancelEvent,		<cyfunction QuestionDialog.SAFE_SetCancelEvent at 0x0DA67818>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetCancelEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-GetTextLineCount,		<cyfunction QuestionDialog.GetTextLineCount at 0x09A76E48>
+GetTextLineCount,		<cyfunction QuestionDialog.GetTextLineCount at 0x0DA67B88>
 	arg0: self
 
 submodule.GetTextLineCount
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-Close,		<cyfunction QuestionDialog.Close at 0x09A769D0>
+Close,		<cyfunction QuestionDialog.Close at 0x0DA67710>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-GetLineHeight,		<cyfunction QuestionDialog.GetLineHeight at 0x09A76D98>
+GetLineHeight,		<cyfunction QuestionDialog.GetLineHeight at 0x0DA67AD8>
 	arg0: self
 
 submodule.GetLineHeight
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog instance as first argument (got nothing instead)
-SetCancelEvent,		<cyfunction QuestionDialog.SetCancelEvent at 0x09A76B88>
+SetCancelEvent,		<cyfunction QuestionDialog.SetCancelEvent at 0x0DA678C8>
 	arg0: self
 	arg1: event
 
@@ -529,7 +553,7 @@ __doc__,		None
 submodule.__doc__
 
 
-SetLineHeight,		<cyfunction QuestionDialog.SetLineHeight at 0x09A76DF0>
+SetLineHeight,		<cyfunction QuestionDialog.SetLineHeight at 0x0DA67B30>
 	arg0: self
 	arg1: Height
 
@@ -543,17 +567,17 @@ __module__,		uiCommon
 submodule.__module__
 
 
-GetTextSize2,		<cyfunction QuestionDialog2.GetTextSize2 at 0x09A77240>
+GetTextSize2,		<cyfunction QuestionDialog2.GetTextSize2 at 0x0DA680E0>
 	arg0: self
 
 submodule.GetTextSize2
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog2 instance as first argument (got nothing instead)
-GetTextSize1,		<cyfunction QuestionDialog2.GetTextSize1 at 0x09A771E8>
+GetTextSize1,		<cyfunction QuestionDialog2.GetTextSize1 at 0x0DA68088>
 	arg0: self
 
 submodule.GetTextSize1
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog2 instance as first argument (got nothing instead)
-__del__,		<cyfunction QuestionDialog2.__del__ at 0x09A77030>
+__del__,		<cyfunction QuestionDialog2.__del__ at 0x0DA67EA0>
 	arg0: self
 
 submodule.__del__
@@ -568,29 +592,29 @@ __qualname__,		QuestionDialog2
 submodule.__qualname__
 
 
-SetText1,		<cyfunction QuestionDialog2.SetText1 at 0x09A77138>
+SetText1,		<cyfunction QuestionDialog2.SetText1 at 0x0DA67FA8>
 	arg0: self
 	arg1: text
 
 submodule.SetText1
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog2 instance as first argument (got nothing instead)
-_QuestionDialog2__CreateDialog,		<cyfunction QuestionDialog2.__CreateDialog at 0x09A77088>
+_QuestionDialog2__CreateDialog,		<cyfunction QuestionDialog2.__CreateDialog at 0x0DA67EF8>
 	arg0: self
 
 submodule._QuestionDialog2__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog2 instance as first argument (got nothing instead)
-Open,		<cyfunction QuestionDialog2.Open at 0x09A770E0>
+Open,		<cyfunction QuestionDialog2.Open at 0x0DA67F50>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog2 instance as first argument (got nothing instead)
-SetText2,		<cyfunction QuestionDialog2.SetText2 at 0x09A77190>
+SetText2,		<cyfunction QuestionDialog2.SetText2 at 0x0DA68030>
 	arg0: self
 	arg1: text
 
 submodule.SetText2
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialog2 instance as first argument (got nothing instead)
-__init__,		<cyfunction QuestionDialog2.__init__ at 0x09A76FA8>
+__init__,		<cyfunction QuestionDialog2.__init__ at 0x0DA67E48>
 	arg0: self
 
 submodule.__init__
@@ -603,52 +627,52 @@ __module__,		uiCommon
 submodule.__module__
 
 
-_ExPopupDialog__LoadDialog,		<cyfunction ExPopupDialog.__LoadDialog at 0x09A77BE0>
+_ExPopupDialog__LoadDialog,		<cyfunction ExPopupDialog.__LoadDialog at 0x0DA68A80>
 	arg0: self
 
 submodule._ExPopupDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction ExPopupDialog.__del__ at 0x09A77B88>
+__del__,		<cyfunction ExPopupDialog.__del__ at 0x0DA68A28>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-SetText,		<cyfunction ExPopupDialog.SetText at 0x09A77D98>
+SetText,		<cyfunction ExPopupDialog.SetText at 0x0DA68C38>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction ExPopupDialog.SetAcceptEvent at 0x09A77DF0>
+SetAcceptEvent,		<cyfunction ExPopupDialog.SetAcceptEvent at 0x0DA68C90>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ExPopupDialog.OnPressEscapeKey at 0x09A77EA0>
+OnPressEscapeKey,		<cyfunction ExPopupDialog.OnPressEscapeKey at 0x0DA68D40>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-SetButtonName,		<cyfunction ExPopupDialog.SetButtonName at 0x09A77E48>
+SetButtonName,		<cyfunction ExPopupDialog.SetButtonName at 0x0DA68CE8>
 	arg0: self
 	arg1: name
 
 submodule.SetButtonName
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction ExPopupDialog.Destroy at 0x09A77CE8>
+Destroy,		<cyfunction ExPopupDialog.Destroy at 0x0DA68B88>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction ExPopupDialog.__init__ at 0x09A77B30>
+__init__,		<cyfunction ExPopupDialog.__init__ at 0x0DA689D0>
 	arg0: self
 	arg1: layer
 	default: UI
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-Open,		<cyfunction ExPopupDialog.Open at 0x09A77C38>
+Open,		<cyfunction ExPopupDialog.Open at 0x0DA68AD8>
 	arg0: self
 
 submodule.Open
@@ -658,32 +682,32 @@ __qualname__,		ExPopupDialog
 submodule.__qualname__
 
 
-GetTextSize,		<cyfunction ExPopupDialog.GetTextSize at 0x09A77F50>
+GetTextSize,		<cyfunction ExPopupDialog.GetTextSize at 0x0DA68DF0>
 	arg0: self
 
 submodule.GetTextSize
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-GetTextLineCount,		<cyfunction ExPopupDialog.GetTextLineCount at 0x09A78088>
+GetTextLineCount,		<cyfunction ExPopupDialog.GetTextLineCount at 0x0DA68EF8>
 	arg0: self
 
 submodule.GetTextLineCount
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-Close,		<cyfunction ExPopupDialog.Close at 0x09A77C90>
+Close,		<cyfunction ExPopupDialog.Close at 0x0DA68B30>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-GetLineHeight,		<cyfunction ExPopupDialog.GetLineHeight at 0x09A77FA8>
+GetLineHeight,		<cyfunction ExPopupDialog.GetLineHeight at 0x0DA68E48>
 	arg0: self
 
 submodule.GetLineHeight
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction ExPopupDialog.OnIMEReturn at 0x09A77EF8>
+OnIMEReturn,		<cyfunction ExPopupDialog.OnIMEReturn at 0x0DA68D98>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with ExPopupDialog instance as first argument (got nothing instead)
-SetWidth,		<cyfunction ExPopupDialog.SetWidth at 0x09A77D40>
+SetWidth,		<cyfunction ExPopupDialog.SetWidth at 0x0DA68BE0>
 	arg0: self
 	arg1: width
 
@@ -694,7 +718,7 @@ __doc__,		None
 submodule.__doc__
 
 
-SetLineHeight,		<cyfunction ExPopupDialog.SetLineHeight at 0x09A78030>
+SetLineHeight,		<cyfunction ExPopupDialog.SetLineHeight at 0x0DA68EA0>
 	arg0: self
 	arg1: Height
 
@@ -703,7 +727,7 @@ Skipped: unbound method cython_function_or_method object must be called with ExP
 
 
 class QuestionDialogWithTimeLimit:
-_QuestionDialogWithTimeLimit__CreateDialog,		<cyfunction QuestionDialogWithTimeLimit.__CreateDialog at 0x09A77348>
+_QuestionDialogWithTimeLimit__CreateDialog,		<cyfunction QuestionDialogWithTimeLimit.__CreateDialog at 0x0DA681E8>
 	arg0: self
 
 submodule._QuestionDialogWithTimeLimit__CreateDialog
@@ -713,23 +737,23 @@ __module__,		uiCommon
 submodule.__module__
 
 
-__del__,		<cyfunction QuestionDialogWithTimeLimit.__del__ at 0x09A772F0>
+__del__,		<cyfunction QuestionDialogWithTimeLimit.__del__ at 0x0DA68190>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialogWithTimeLimit instance as first argument (got nothing instead)
-SetTimeOverMsg,		<cyfunction QuestionDialogWithTimeLimit.SetTimeOverMsg at 0x09A77450>
+SetTimeOverMsg,		<cyfunction QuestionDialogWithTimeLimit.SetTimeOverMsg at 0x0DA682F0>
 	arg0: self
 	arg1: msg
 
 submodule.SetTimeOverMsg
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialogWithTimeLimit instance as first argument (got nothing instead)
-SetCancelOnTimeOver,		<cyfunction QuestionDialogWithTimeLimit.SetCancelOnTimeOver at 0x09A774A8>
+SetCancelOnTimeOver,		<cyfunction QuestionDialogWithTimeLimit.SetCancelOnTimeOver at 0x0DA68348>
 	arg0: self
 
 submodule.SetCancelOnTimeOver
 Skipped: unbound method cython_function_or_method object must be called with QuestionDialogWithTimeLimit instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction QuestionDialogWithTimeLimit.OnUpdate at 0x09A773F8>
+OnUpdate,		<cyfunction QuestionDialogWithTimeLimit.OnUpdate at 0x0DA68298>
 	arg0: self
 
 submodule.OnUpdate
@@ -739,7 +763,7 @@ __qualname__,		QuestionDialogWithTimeLimit
 submodule.__qualname__
 
 
-Open,		<cyfunction QuestionDialogWithTimeLimit.Open at 0x09A773A0>
+Open,		<cyfunction QuestionDialogWithTimeLimit.Open at 0x0DA68240>
 	arg0: self
 	arg1: msg
 	arg2: timeout
@@ -751,7 +775,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction QuestionDialogWithTimeLimit.__init__ at 0x09A77298>
+__init__,		<cyfunction QuestionDialogWithTimeLimit.__init__ at 0x0DA68138>
 	arg0: self
 
 submodule.__init__
@@ -764,73 +788,73 @@ __module__,		uiCommon
 submodule.__module__
 
 
-__del__,		<cyfunction PopupDialog.__del__ at 0x09A38E48>
+__del__,		<cyfunction PopupDialog.__del__ at 0x0DA315B0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetText,		<cyfunction PopupDialog.SetText at 0x09A53500>
+SetText,		<cyfunction PopupDialog.SetText at 0x0DA4F240>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction PopupDialog.SetAcceptEvent at 0x09A53558>
+SetAcceptEvent,		<cyfunction PopupDialog.SetAcceptEvent at 0x0DA4F298>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-_PopupDialog__LoadDialog,		<cyfunction PopupDialog.__LoadDialog at 0x09A531E8>
+_PopupDialog__LoadDialog,		<cyfunction PopupDialog.__LoadDialog at 0x0DA31BE0>
 	arg0: self
 
 submodule._PopupDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PopupDialog.OnPressEscapeKey at 0x09A53608>
+OnPressEscapeKey,		<cyfunction PopupDialog.OnPressEscapeKey at 0x0DA4F348>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetButtonName,		<cyfunction PopupDialog.SetButtonName at 0x09A535B0>
+SetButtonName,		<cyfunction PopupDialog.SetButtonName at 0x0DA4F2F0>
 	arg0: self
 	arg1: name
 
 submodule.SetButtonName
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction PopupDialog.Destroy at 0x09A53450>
+Destroy,		<cyfunction PopupDialog.Destroy at 0x0DA4F190>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction PopupDialog.__init__ at 0x09A38818>
+__init__,		<cyfunction PopupDialog.__init__ at 0x0DA31F50>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetButtonNameAutoSize,		<cyfunction PopupDialog.SetButtonNameAutoSize at 0x09A53818>
+SetButtonNameAutoSize,		<cyfunction PopupDialog.SetButtonNameAutoSize at 0x0DA4F558>
 	arg0: self
 	arg1: name
 
 submodule.SetButtonNameAutoSize
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetButtonUpVisual,		<cyfunction PopupDialog.SetButtonUpVisual at 0x09A538C8>
+SetButtonUpVisual,		<cyfunction PopupDialog.SetButtonUpVisual at 0x0DA4F608>
 	arg0: self
 	arg1: filename
 
 submodule.SetButtonUpVisual
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetButtonDownVisual,		<cyfunction PopupDialog.SetButtonDownVisual at 0x09A53978>
+SetButtonDownVisual,		<cyfunction PopupDialog.SetButtonDownVisual at 0x0DA4F6B8>
 	arg0: self
 	arg1: filename
 
 submodule.SetButtonDownVisual
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-Open,		<cyfunction PopupDialog.Open at 0x09A533A0>
+Open,		<cyfunction PopupDialog.Open at 0x0DA4F0E0>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetButtonOverVisual,		<cyfunction PopupDialog.SetButtonOverVisual at 0x09A53920>
+SetButtonOverVisual,		<cyfunction PopupDialog.SetButtonOverVisual at 0x0DA4F660>
 	arg0: self
 	arg1: filename
 
@@ -841,37 +865,37 @@ __qualname__,		PopupDialog
 submodule.__qualname__
 
 
-GetTextSize,		<cyfunction PopupDialog.GetTextSize at 0x09A536B8>
+GetTextSize,		<cyfunction PopupDialog.GetTextSize at 0x0DA4F3F8>
 	arg0: self
 
 submodule.GetTextSize
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetButtonHorizontalAlignCenter,		<cyfunction PopupDialog.SetButtonHorizontalAlignCenter at 0x09A53870>
+SetButtonHorizontalAlignCenter,		<cyfunction PopupDialog.SetButtonHorizontalAlignCenter at 0x0DA4F5B0>
 	arg0: self
 
 submodule.SetButtonHorizontalAlignCenter
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-GetTextLineCount,		<cyfunction PopupDialog.GetTextLineCount at 0x09A537C0>
+GetTextLineCount,		<cyfunction PopupDialog.GetTextLineCount at 0x0DA4F500>
 	arg0: self
 
 submodule.GetTextLineCount
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-Close,		<cyfunction PopupDialog.Close at 0x09A533F8>
+Close,		<cyfunction PopupDialog.Close at 0x0DA4F138>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-GetLineHeight,		<cyfunction PopupDialog.GetLineHeight at 0x09A53710>
+GetLineHeight,		<cyfunction PopupDialog.GetLineHeight at 0x0DA4F450>
 	arg0: self
 
 submodule.GetLineHeight
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction PopupDialog.OnIMEReturn at 0x09A53660>
+OnIMEReturn,		<cyfunction PopupDialog.OnIMEReturn at 0x0DA4F3A0>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-SetWidth,		<cyfunction PopupDialog.SetWidth at 0x09A534A8>
+SetWidth,		<cyfunction PopupDialog.SetWidth at 0x0DA4F1E8>
 	arg0: self
 	arg1: width
 
@@ -882,7 +906,7 @@ __doc__,		None
 submodule.__doc__
 
 
-SetLineHeight,		<cyfunction PopupDialog.SetLineHeight at 0x09A53768>
+SetLineHeight,		<cyfunction PopupDialog.SetLineHeight at 0x0DA4F4A8>
 	arg0: self
 	arg1: Height
 
@@ -891,7 +915,7 @@ Skipped: unbound method cython_function_or_method object must be called with Pop
 
 
 class InputDialogWithDescription:
-SetDescription,		<cyfunction InputDialogWithDescription.SetDescription at 0x09A76660>
+SetDescription,		<cyfunction InputDialogWithDescription.SetDescription at 0x0DA673A0>
 	arg0: self
 	arg1: text
 
@@ -907,12 +931,12 @@ __module__,		uiCommon
 submodule.__module__
 
 
-_InputDialogWithDescription__CreateDialog,		<cyfunction InputDialogWithDescription.__CreateDialog at 0x09A76608>
+_InputDialogWithDescription__CreateDialog,		<cyfunction InputDialogWithDescription.__CreateDialog at 0x0DA67348>
 	arg0: self
 
 submodule._InputDialogWithDescription__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with InputDialogWithDescription instance as first argument (got nothing instead)
-__del__,		<cyfunction InputDialogWithDescription.__del__ at 0x09A765B0>
+__del__,		<cyfunction InputDialogWithDescription.__del__ at 0x0DA672F0>
 	arg0: self
 
 submodule.__del__
@@ -922,7 +946,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction InputDialogWithDescription.__init__ at 0x09A76558>
+__init__,		<cyfunction InputDialogWithDescription.__init__ at 0x0DA67298>
 	arg0: self
 
 submodule.__init__
@@ -930,22 +954,22 @@ Skipped: unbound method cython_function_or_method object must be called with Inp
 
 
 class MoneyInputDialog:
-SetFocus,		<cyfunction MoneyInputDialog.SetFocus at 0x09A77710>
+SetFocus,		<cyfunction MoneyInputDialog.SetFocus at 0x0DA685B0>
 	arg0: self
 
 submodule.SetFocus
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-_MoneyInputDialog__ClickChequeEditLine,		<cyfunction MoneyInputDialog.__ClickChequeEditLine at 0x09A779D0>
+_MoneyInputDialog__ClickChequeEditLine,		<cyfunction MoneyInputDialog.__ClickChequeEditLine at 0x0DA68870>
 	arg0: self
 
 submodule._MoneyInputDialog__ClickChequeEditLine
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-GetCheque,		<cyfunction MoneyInputDialog.GetCheque at 0x09A77A80>
+GetCheque,		<cyfunction MoneyInputDialog.GetCheque at 0x0DA68920>
 	arg0: self
 
 submodule.GetCheque
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction MoneyInputDialog.__del__ at 0x09A77558>
+__del__,		<cyfunction MoneyInputDialog.__del__ at 0x0DA683F8>
 	arg0: self
 
 submodule.__del__
@@ -955,58 +979,58 @@ __module__,		uiCommon
 submodule.__module__
 
 
-SetAcceptEvent,		<cyfunction MoneyInputDialog.SetAcceptEvent at 0x09A77818>
+SetAcceptEvent,		<cyfunction MoneyInputDialog.SetAcceptEvent at 0x0DA686B8>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-SetMaxLength,		<cyfunction MoneyInputDialog.SetMaxLength at 0x09A77768>
+SetMaxLength,		<cyfunction MoneyInputDialog.SetMaxLength at 0x0DA68608>
 	arg0: self
 	arg1: length
 
 submodule.SetMaxLength
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-SetMoneyHeaderText,		<cyfunction MoneyInputDialog.SetMoneyHeaderText at 0x09A777C0>
+SetMoneyHeaderText,		<cyfunction MoneyInputDialog.SetMoneyHeaderText at 0x0DA68660>
 	arg0: self
 	arg1: text
 
 submodule.SetMoneyHeaderText
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-SetCheque,		<cyfunction MoneyInputDialog.SetCheque at 0x09A77978>
+SetCheque,		<cyfunction MoneyInputDialog.SetCheque at 0x0DA68818>
 	arg0: self
 	arg1: cheque
 
 submodule.SetCheque
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-_MoneyInputDialog__ClickValueEditLine,		<cyfunction MoneyInputDialog.__ClickValueEditLine at 0x09A77A28>
+_MoneyInputDialog__ClickValueEditLine,		<cyfunction MoneyInputDialog.__ClickValueEditLine at 0x0DA688C8>
 	arg0: self
 
 submodule._MoneyInputDialog__ClickValueEditLine
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction MoneyInputDialog.__init__ at 0x09A77500>
+__init__,		<cyfunction MoneyInputDialog.__init__ at 0x0DA683A0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-SetValue,		<cyfunction MoneyInputDialog.SetValue at 0x09A778C8>
+SetValue,		<cyfunction MoneyInputDialog.SetValue at 0x0DA68768>
 	arg0: self
 	arg1: value
 
 submodule.SetValue
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-Open,		<cyfunction MoneyInputDialog.Open at 0x09A77608>
+Open,		<cyfunction MoneyInputDialog.Open at 0x0DA684A8>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-SetTitle,		<cyfunction MoneyInputDialog.SetTitle at 0x09A776B8>
+SetTitle,		<cyfunction MoneyInputDialog.SetTitle at 0x0DA68558>
 	arg0: self
 	arg1: name
 
 submodule.SetTitle
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-GetText,		<cyfunction MoneyInputDialog.GetText at 0x09A77920>
+GetText,		<cyfunction MoneyInputDialog.GetText at 0x0DA687C0>
 	arg0: self
 
 submodule.GetText
@@ -1016,17 +1040,17 @@ __qualname__,		MoneyInputDialog
 submodule.__qualname__
 
 
-_MoneyInputDialog__CreateDialog,		<cyfunction MoneyInputDialog.__CreateDialog at 0x09A775B0>
+_MoneyInputDialog__CreateDialog,		<cyfunction MoneyInputDialog.__CreateDialog at 0x0DA68450>
 	arg0: self
 
 submodule._MoneyInputDialog__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-Close,		<cyfunction MoneyInputDialog.Close at 0x09A77660>
+Close,		<cyfunction MoneyInputDialog.Close at 0x0DA68500>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MoneyInputDialog instance as first argument (got nothing instead)
-SetCancelEvent,		<cyfunction MoneyInputDialog.SetCancelEvent at 0x09A77870>
+SetCancelEvent,		<cyfunction MoneyInputDialog.SetCancelEvent at 0x0DA68710>
 	arg0: self
 	arg1: event
 
@@ -1037,7 +1061,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_MoneyInputDialog__OnValueUpdate,		<cyfunction MoneyInputDialog.__OnValueUpdate at 0x09A77AD8>
+_MoneyInputDialog__OnValueUpdate,		<cyfunction MoneyInputDialog.__OnValueUpdate at 0x0DA68978>
 	arg0: self
 
 submodule._MoneyInputDialog__OnValueUpdate

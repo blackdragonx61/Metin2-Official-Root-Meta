@@ -46,6 +46,7 @@
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],
             'import': [],
             'var': [{'name': 'GUILD_GOLD_TYPE_BUY_GUILD_LAND', 'type': 'int', 'value': 7},
+                    {'name': 'GUILD_GOLD_TYPE_CHANGE_BLACKSMITH', 'type': 'int', 'value': 12},
                     {'name': 'GUILD_GOLD_TYPE_CHANGE_SMELTER', 'type': 'int', 'value': 8},
                     {'name': 'GUILD_GOLD_TYPE_DEAL_GUILD_LAND', 'type': 'int', 'value': 11},
                     {'name': 'GUILD_GOLD_TYPE_DRAGON_SP_RECOVER', 'type': 'int', 'value': 6},
