@@ -3,7 +3,6 @@
                      {'args': ['self', 'enable'], 'defaults': [], 'name': 'Guild_War_Check'},
                      {'args': ['self'], 'defaults': [], 'name': 'PassGuildCommand'},
                      {'args': ['self'], 'defaults': [], 'name': 'PassGuildDragonCommand'},
-                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__2017RamaDanEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__AutoOff'},
                      {'args': ['self', 'enable', 'start', 'end'], 'defaults': [], 'name': '__BattleFieldEventInfo'},
                      {'args': ['self', 'open'], 'defaults': [], 'name': '__BattleFieldEventOpen'},
@@ -30,6 +29,7 @@
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__OtherWorldEve'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__PartyMatchOff'},
                      {'args': ['self', 'line'], 'defaults': [], 'name': '__PreserveCommand'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__RamadanEvent'},
                      {'args': ['self'], 'defaults': [], 'name': '__ServerCommand_Build'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__SummerEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__ValentineEvent'},
@@ -50,4 +50,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0A588F30>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0B2E9F10>}]}

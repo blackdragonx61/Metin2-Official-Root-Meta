@@ -26,13 +26,13 @@ __module__,		uiOtherWorld
 submodule.__module__
 
 
-UpdateTwoItemCount,		<cyfunction OtherWorldWispBoard.UpdateTwoItemCount at 0x0A81EEF8>
+UpdateTwoItemCount,		<cyfunction OtherWorldWispBoard.UpdateTwoItemCount at 0x0B5B9088>
 	arg0: self
 	arg1: data
 
 submodule.UpdateTwoItemCount
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldWispBoard instance as first argument (got nothing instead)
-__del__,		<cyfunction OtherWorldWispBoard.__del__ at 0x0A81EBE0>
+__del__,		<cyfunction OtherWorldWispBoard.__del__ at 0x0B5B1D40>
 	arg0: self
 
 submodule.__del__
@@ -42,7 +42,7 @@ DROP_DOWN_INDEX_X5,		2
 submodule.DROP_DOWN_INDEX_X5
 
 
-_OtherWorldWispBoard__ClickDropDownTextButton,		<cyfunction OtherWorldWispBoard.__ClickDropDownTextButton at 0x0A828088>
+_OtherWorldWispBoard__ClickDropDownTextButton,		<cyfunction OtherWorldWispBoard.__ClickDropDownTextButton at 0x0B5B91E8>
 	arg0: self
 	arg1: index
 
@@ -63,23 +63,23 @@ _OtherWorldWispBoard__drop_down_text,		<member '_OtherWorldWispBoard__drop_down_
 submodule._OtherWorldWispBoard__drop_down_text
 
 
-_OtherWorldWispBoard__DropDownSelectMenu,		<cyfunction OtherWorldWispBoard.__DropDownSelectMenu at 0x0A8280E0>
+_OtherWorldWispBoard__DropDownSelectMenu,		<cyfunction OtherWorldWispBoard.__DropDownSelectMenu at 0x0B5B9240>
 	arg0: self
 	arg1: is_show
 
 submodule._OtherWorldWispBoard__DropDownSelectMenu
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldWispBoard instance as first argument (got nothing instead)
-_OtherWorldWispBoard__ClickDropDownSelectButton,		<cyfunction OtherWorldWispBoard.__ClickDropDownSelectButton at 0x0A828030>
+_OtherWorldWispBoard__ClickDropDownSelectButton,		<cyfunction OtherWorldWispBoard.__ClickDropDownSelectButton at 0x0B5B9190>
 	arg0: self
 
 submodule._OtherWorldWispBoard__ClickDropDownSelectButton
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldWispBoard instance as first argument (got nothing instead)
-_OtherWorldWispBoard__Initialize,		<cyfunction OtherWorldWispBoard.__Initialize at 0x0A81EC38>
+_OtherWorldWispBoard__Initialize,		<cyfunction OtherWorldWispBoard.__Initialize at 0x0B5B1D98>
 	arg0: self
 
 submodule._OtherWorldWispBoard__Initialize
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldWispBoard instance as first argument (got nothing instead)
-Destroy,		<cyfunction OtherWorldWispBoard.Destroy at 0x0A81EC90>
+Destroy,		<cyfunction OtherWorldWispBoard.Destroy at 0x0B5B1DF0>
 	arg0: self
 
 submodule.Destroy
@@ -89,7 +89,7 @@ _OtherWorldWispBoard__drop_down_list_img,		<member '_OtherWorldWispBoard__drop_d
 submodule._OtherWorldWispBoard__drop_down_list_img
 
 
-__init__,		<cyfunction OtherWorldWispBoard.__init__ at 0x0A81EB88>
+__init__,		<cyfunction OtherWorldWispBoard.__init__ at 0x0B5B1CE8>
 	arg0: self
 
 submodule.__init__
@@ -109,7 +109,7 @@ _OtherWorldWispBoard__item_need_count_text_list,		<member '_OtherWorldWispBoard_
 submodule._OtherWorldWispBoard__item_need_count_text_list
 
 
-_OtherWorldWispBoard__LoadWindow,		<cyfunction OtherWorldWispBoard.__LoadWindow at 0x0A81ECE8>
+_OtherWorldWispBoard__LoadWindow,		<cyfunction OtherWorldWispBoard.__LoadWindow at 0x0B5B1E48>
 	arg0: self
 
 submodule._OtherWorldWispBoard__LoadWindow
@@ -119,7 +119,7 @@ _OtherWorldWispBoard__item_need_count_dict,		<member '_OtherWorldWispBoard__item
 submodule._OtherWorldWispBoard__item_need_count_dict
 
 
-UpdateItemCount,		<cyfunction OtherWorldWispBoard.UpdateItemCount at 0x0A81EEA0>
+UpdateItemCount,		<cyfunction OtherWorldWispBoard.UpdateItemCount at 0x0B5B9030>
 	arg0: self
 	arg1: data
 
@@ -130,7 +130,7 @@ _OtherWorldWispBoard__is_loaded,		<member '_OtherWorldWispBoard__is_loaded' of '
 submodule._OtherWorldWispBoard__is_loaded
 
 
-OnPressEscapeKey,		<cyfunction OtherWorldWispBoard.OnPressEscapeKey at 0x0A81EDF0>
+OnPressEscapeKey,		<cyfunction OtherWorldWispBoard.OnPressEscapeKey at 0x0B5B1F50>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -140,7 +140,7 @@ _OtherWorldWispBoard__drop_down_x_button_list,		<member '_OtherWorldWispBoard__d
 submodule._OtherWorldWispBoard__drop_down_x_button_list
 
 
-_OtherWorldWispBoard__OnClickExchangeButton,		<cyfunction OtherWorldWispBoard.__OnClickExchangeButton at 0x0A81EFA8>
+_OtherWorldWispBoard__OnClickExchangeButton,		<cyfunction OtherWorldWispBoard.__OnClickExchangeButton at 0x0B5B9138>
 	arg0: self
 	arg1: type
 
@@ -151,7 +151,7 @@ __qualname__,		OtherWorldWispBoard
 submodule.__qualname__
 
 
-_OtherWorldWispBoard__ItemMessage,		<cyfunction OtherWorldWispBoard.__ItemMessage at 0x0A81EF50>
+_OtherWorldWispBoard__ItemMessage,		<cyfunction OtherWorldWispBoard.__ItemMessage at 0x0B5B90E0>
 	arg0: self
 	arg1: type
 	arg2: count
@@ -173,18 +173,18 @@ _OtherWorldWispBoard__drop_down_arrow_button,		<member '_OtherWorldWispBoard__dr
 submodule._OtherWorldWispBoard__drop_down_arrow_button
 
 
-UpdateAllItemCount,		<cyfunction OtherWorldWispBoard.UpdateAllItemCount at 0x0A81EE48>
+UpdateAllItemCount,		<cyfunction OtherWorldWispBoard.UpdateAllItemCount at 0x0B5B1FA8>
 	arg0: self
 	arg1: data
 
 submodule.UpdateAllItemCount
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldWispBoard instance as first argument (got nothing instead)
-Close,		<cyfunction OtherWorldWispBoard.Close at 0x0A81ED98>
+Close,		<cyfunction OtherWorldWispBoard.Close at 0x0B5B1EF8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldWispBoard instance as first argument (got nothing instead)
-Open,		<cyfunction OtherWorldWispBoard.Open at 0x0A81ED40>
+Open,		<cyfunction OtherWorldWispBoard.Open at 0x0B5B1EA0>
 	arg0: self
 
 submodule.Open
@@ -212,7 +212,7 @@ __module__,		uiOtherWorld
 submodule.__module__
 
 
-_OtherWorldInformationBoard__LoadWindow,		<cyfunction OtherWorldInformationBoard.__LoadWindow at 0x0A828450>
+_OtherWorldInformationBoard__LoadWindow,		<cyfunction OtherWorldInformationBoard.__LoadWindow at 0x0B5B95B0>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__LoadWindow
@@ -232,12 +232,12 @@ _OtherWorldInformationBoard__tooltip_item,		<member '_OtherWorldInformationBoard
 submodule._OtherWorldInformationBoard__tooltip_item
 
 
-Destroy,		<cyfunction OtherWorldInformationBoard.Destroy at 0x0A8283A0>
+Destroy,		<cyfunction OtherWorldInformationBoard.Destroy at 0x0B5B9500>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__RemoveAffect,		<cyfunction OtherWorldInformationBoard.__RemoveAffect at 0x0A828920>
+_OtherWorldInformationBoard__RemoveAffect,		<cyfunction OtherWorldInformationBoard.__RemoveAffect at 0x0B5B9A80>
 	arg0: self
 	arg1: erase_affect_type
 	arg2: erase_point_type
@@ -245,53 +245,53 @@ _OtherWorldInformationBoard__RemoveAffect,		<cyfunction OtherWorldInformationBoa
 
 submodule._OtherWorldInformationBoard__RemoveAffect
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__SetSituationBoardText,		<cyfunction OtherWorldInformationBoard.__SetSituationBoardText at 0x0A828660>
+_OtherWorldInformationBoard__SetSituationBoardText,		<cyfunction OtherWorldInformationBoard.__SetSituationBoardText at 0x0B5B97C0>
 	arg0: self
 	arg1: type
 
 submodule._OtherWorldInformationBoard__SetSituationBoardText
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-__init__,		<cyfunction OtherWorldInformationBoard.__init__ at 0x0A8282F0>
+__init__,		<cyfunction OtherWorldInformationBoard.__init__ at 0x0B5B9450>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction OtherWorldInformationBoard.OnUpdate at 0x0A828710>
+OnUpdate,		<cyfunction OtherWorldInformationBoard.OnUpdate at 0x0B5B9870>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__SituationBoardTypeTextUpdate,		<cyfunction OtherWorldInformationBoard.__SituationBoardTypeTextUpdate at 0x0A828768>
+_OtherWorldInformationBoard__SituationBoardTypeTextUpdate,		<cyfunction OtherWorldInformationBoard.__SituationBoardTypeTextUpdate at 0x0B5B98C8>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__SituationBoardTypeTextUpdate
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__SetTimeGauge,		<cyfunction OtherWorldInformationBoard.__SetTimeGauge at 0x0A8286B8>
+_OtherWorldInformationBoard__SetTimeGauge,		<cyfunction OtherWorldInformationBoard.__SetTimeGauge at 0x0B5B9818>
 	arg0: self
 	arg1: cur_gauge
 	arg2: max_gauge
 
 submodule._OtherWorldInformationBoard__SetTimeGauge
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-OtherWorldAffectProcess,		<cyfunction OtherWorldInformationBoard.OtherWorldAffectProcess at 0x0A828B30>
+OtherWorldAffectProcess,		<cyfunction OtherWorldInformationBoard.OtherWorldAffectProcess at 0x0B5B9C90>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.OtherWorldAffectProcess
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__SetReduceTime,		<cyfunction OtherWorldInformationBoard.__SetReduceTime at 0x0A828A80>
+_OtherWorldInformationBoard__SetReduceTime,		<cyfunction OtherWorldInformationBoard.__SetReduceTime at 0x0B5B9BE0>
 	arg0: self
 	arg1: data
 
 submodule._OtherWorldInformationBoard__SetReduceTime
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__ArrangeAffectList,		<cyfunction OtherWorldInformationBoard.__ArrangeAffectList at 0x0A828978>
+_OtherWorldInformationBoard__ArrangeAffectList,		<cyfunction OtherWorldInformationBoard.__ArrangeAffectList at 0x0B5B9AD8>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__ArrangeAffectList
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__SettingData,		<cyfunction OtherWorldInformationBoard.__SettingData at 0x0A828558>
+_OtherWorldInformationBoard__SettingData,		<cyfunction OtherWorldInformationBoard.__SettingData at 0x0B5B96B8>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__SettingData
@@ -316,17 +316,17 @@ __slots__,		('__is_loaded', '__is_requesting_exit', '__dungeon_end_time', '__dun
 submodule.__slots__
 
 
-_OtherWorldInformationBoard__TimeTextUpdate,		<cyfunction OtherWorldInformationBoard.__TimeTextUpdate at 0x0A828818>
+_OtherWorldInformationBoard__TimeTextUpdate,		<cyfunction OtherWorldInformationBoard.__TimeTextUpdate at 0x0B5B9978>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__TimeTextUpdate
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__BindObject,		<cyfunction OtherWorldInformationBoard.__BindObject at 0x0A8284A8>
+_OtherWorldInformationBoard__BindObject,		<cyfunction OtherWorldInformationBoard.__BindObject at 0x0B5B9608>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__BindObject
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-__del__,		<cyfunction OtherWorldInformationBoard.__del__ at 0x0A828348>
+__del__,		<cyfunction OtherWorldInformationBoard.__del__ at 0x0B5B94A8>
 	arg0: self
 
 submodule.__del__
@@ -346,7 +346,7 @@ AFFECT_START_GAP,		10
 submodule.AFFECT_START_GAP
 
 
-_OtherWorldInformationBoard__BindEvent,		<cyfunction OtherWorldInformationBoard.__BindEvent at 0x0A828500>
+_OtherWorldInformationBoard__BindEvent,		<cyfunction OtherWorldInformationBoard.__BindEvent at 0x0B5B9660>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__BindEvent
@@ -356,7 +356,7 @@ _OtherWorldInformationBoard__dungeon_end_time,		<member '_OtherWorldInformationB
 submodule._OtherWorldInformationBoard__dungeon_end_time
 
 
-_OtherWorldInformationBoard__OnClickExitButton,		<cyfunction OtherWorldInformationBoard.__OnClickExitButton at 0x0A8285B0>
+_OtherWorldInformationBoard__OnClickExitButton,		<cyfunction OtherWorldInformationBoard.__OnClickExitButton at 0x0B5B9710>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__OnClickExitButton
@@ -386,13 +386,13 @@ _OtherWorldInformationBoard__TEXT_MOVE_X,		1
 submodule._OtherWorldInformationBoard__TEXT_MOVE_X
 
 
-SetItemToolTip,		<cyfunction OtherWorldInformationBoard.SetItemToolTip at 0x0A8283F8>
+SetItemToolTip,		<cyfunction OtherWorldInformationBoard.SetItemToolTip at 0x0B5B9558>
 	arg0: self
 	arg1: tooltip_item
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__DungeonExit,		<cyfunction OtherWorldInformationBoard.__DungeonExit at 0x0A828608>
+_OtherWorldInformationBoard__DungeonExit,		<cyfunction OtherWorldInformationBoard.__DungeonExit at 0x0B5B9768>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__DungeonExit
@@ -414,7 +414,7 @@ __qualname__,		OtherWorldInformationBoard
 submodule.__qualname__
 
 
-_OtherWorldInformationBoard__SetTimeStopped,		<cyfunction OtherWorldInformationBoard.__SetTimeStopped at 0x0A828A28>
+_OtherWorldInformationBoard__SetTimeStopped,		<cyfunction OtherWorldInformationBoard.__SetTimeStopped at 0x0B5B9B88>
 	arg0: self
 	arg1: data
 
@@ -425,19 +425,19 @@ BOARD_HEIGHT,		135
 submodule.BOARD_HEIGHT
 
 
-OtherWorldDungeonProcess,		<cyfunction OtherWorldInformationBoard.OtherWorldDungeonProcess at 0x0A828AD8>
+OtherWorldDungeonProcess,		<cyfunction OtherWorldInformationBoard.OtherWorldDungeonProcess at 0x0B5B9C38>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.OtherWorldDungeonProcess
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__DungeonExitResultProcess,		<cyfunction OtherWorldInformationBoard.__DungeonExitResultProcess at 0x0A828870>
+_OtherWorldInformationBoard__DungeonExitResultProcess,		<cyfunction OtherWorldInformationBoard.__DungeonExitResultProcess at 0x0B5B99D0>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__DungeonExitResultProcess
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__SetTimeText,		<cyfunction OtherWorldInformationBoard.__SetTimeText at 0x0A8287C0>
+_OtherWorldInformationBoard__SetTimeText,		<cyfunction OtherWorldInformationBoard.__SetTimeText at 0x0B5B9920>
 	arg0: self
 
 submodule._OtherWorldInformationBoard__SetTimeText
@@ -452,7 +452,7 @@ _OtherWorldInformationBoard__is_loaded,		<member '_OtherWorldInformationBoard__i
 submodule._OtherWorldInformationBoard__is_loaded
 
 
-_OtherWorldInformationBoard__AddAffect,		<cyfunction OtherWorldInformationBoard.__AddAffect at 0x0A8288C8>
+_OtherWorldInformationBoard__AddAffect,		<cyfunction OtherWorldInformationBoard.__AddAffect at 0x0B5B9A28>
 	arg0: self
 	arg1: affect_type
 	arg2: point_type
@@ -462,7 +462,7 @@ _OtherWorldInformationBoard__AddAffect,		<cyfunction OtherWorldInformationBoard.
 
 submodule._OtherWorldInformationBoard__AddAffect
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldInformationBoard instance as first argument (got nothing instead)
-_OtherWorldInformationBoard__SetInformationBoard,		<cyfunction OtherWorldInformationBoard.__SetInformationBoard at 0x0A8289D0>
+_OtherWorldInformationBoard__SetInformationBoard,		<cyfunction OtherWorldInformationBoard.__SetInformationBoard at 0x0B5B9B30>
 	arg0: self
 	arg1: data
 
@@ -486,7 +486,7 @@ __module__,		uiOtherWorld
 submodule.__module__
 
 
-_OtherWorldEvent__Initialize,		<cyfunction OtherWorldEvent.__Initialize at 0x0A81E768>
+_OtherWorldEvent__Initialize,		<cyfunction OtherWorldEvent.__Initialize at 0x0B5B18C8>
 	arg0: self
 
 submodule._OtherWorldEvent__Initialize
@@ -511,12 +511,12 @@ _OtherWorldEvent__main_event_time_text,		<member '_OtherWorldEvent__main_event_t
 submodule._OtherWorldEvent__main_event_time_text
 
 
-__del__,		<cyfunction OtherWorldEvent.__del__ at 0x0A81E710>
+__del__,		<cyfunction OtherWorldEvent.__del__ at 0x0B5B1870>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldEvent instance as first argument (got nothing instead)
-OtherWorldEventProcess,		<cyfunction OtherWorldEvent.OtherWorldEventProcess at 0x0A81EAD8>
+OtherWorldEventProcess,		<cyfunction OtherWorldEvent.OtherWorldEventProcess at 0x0B5B1C38>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -535,37 +535,37 @@ submodule._OtherWorldEvent__wisp_tooltip
 
 DescriptionBox,		<class 'uiOtherWorld.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction OtherWorldEvent.OnPressEscapeKey at 0x0A81E920>
+OnPressEscapeKey,		<cyfunction OtherWorldEvent.OnPressEscapeKey at 0x0B5B1A80>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldEvent instance as first argument (got nothing instead)
-_OtherWorldEvent__LoadWindow,		<cyfunction OtherWorldEvent.__LoadWindow at 0x0A81E818>
+_OtherWorldEvent__LoadWindow,		<cyfunction OtherWorldEvent.__LoadWindow at 0x0B5B1978>
 	arg0: self
 
 submodule._OtherWorldEvent__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldEvent instance as first argument (got nothing instead)
-Destroy,		<cyfunction OtherWorldEvent.Destroy at 0x0A81E7C0>
+Destroy,		<cyfunction OtherWorldEvent.Destroy at 0x0B5B1920>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldEvent instance as first argument (got nothing instead)
-_OtherWorldEvent__OnClickWispButton,		<cyfunction OtherWorldEvent.__OnClickWispButton at 0x0A81EA80>
+_OtherWorldEvent__OnClickWispButton,		<cyfunction OtherWorldEvent.__OnClickWispButton at 0x0B5B1BE0>
 	arg0: self
 
 submodule._OtherWorldEvent__OnClickWispButton
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldEvent instance as first argument (got nothing instead)
-__init__,		<cyfunction OtherWorldEvent.__init__ at 0x0A81E6B8>
+__init__,		<cyfunction OtherWorldEvent.__init__ at 0x0B5B1818>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldEvent instance as first argument (got nothing instead)
-_OtherWorldEvent__PrevDescriptionPage,		<cyfunction OtherWorldEvent.__PrevDescriptionPage at 0x0A81E9D0>
+_OtherWorldEvent__PrevDescriptionPage,		<cyfunction OtherWorldEvent.__PrevDescriptionPage at 0x0B5B1B30>
 	arg0: self
 
 submodule._OtherWorldEvent__PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldEvent instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction OtherWorldEvent.OnUpdate at 0x0A81E978>
+OnUpdate,		<cyfunction OtherWorldEvent.OnUpdate at 0x0B5B1AD8>
 	arg0: self
 
 submodule.OnUpdate
@@ -600,7 +600,7 @@ _OtherWorldEvent__desc_index,		<member '_OtherWorldEvent__desc_index' of 'OtherW
 submodule._OtherWorldEvent__desc_index
 
 
-_OtherWorldEvent__NextDescriptionPage,		<cyfunction OtherWorldEvent.__NextDescriptionPage at 0x0A81EA28>
+_OtherWorldEvent__NextDescriptionPage,		<cyfunction OtherWorldEvent.__NextDescriptionPage at 0x0B5B1B88>
 	arg0: self
 
 submodule._OtherWorldEvent__NextDescriptionPage
@@ -615,12 +615,12 @@ _OtherWorldEvent__description_box,		<member '_OtherWorldEvent__description_box' 
 submodule._OtherWorldEvent__description_box
 
 
-Close,		<cyfunction OtherWorldEvent.Close at 0x0A81E8C8>
+Close,		<cyfunction OtherWorldEvent.Close at 0x0B5B1A28>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with OtherWorldEvent instance as first argument (got nothing instead)
-Open,		<cyfunction OtherWorldEvent.Open at 0x0A81E870>
+Open,		<cyfunction OtherWorldEvent.Open at 0x0B5B19D0>
 	arg0: self
 
 submodule.Open

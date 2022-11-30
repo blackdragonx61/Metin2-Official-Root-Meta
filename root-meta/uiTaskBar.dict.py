@@ -158,5 +158,5 @@
           {'args': [], 'defaults': [], 'name': 'SaveMouseButtonSettings'},
           {'args': ['dir', 'event'], 'defaults': [], 'name': 'SetMouseButtonSetting'},
           {'args': ['n'], 'defaults': [], 'name': 'unsigned32'}],
- 'import': ['emotion', 'app', 'm2netm2g', 'playerm2g2', 'skill', 'constInfo', 'uiToolTip', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', '__builtin__', 'wndMgr', 'item', 'ui'],
+ 'import': ['emotion', 'chatm2g', 'app', 'm2netm2g', 'playerm2g2', 'skill', 'constInfo', 'uiToolTip', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', '__builtin__', 'wndMgr', 'item', 'ui'],
  'var': [{'name': 'MOUSE_SETTINGS', 'type': 'list', 'value': [5, 3]}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiTaskBar'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

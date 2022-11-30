@@ -102,7 +102,6 @@
             'event',
             'uiMapNameShower',
             'grp',
-            'uiInventory',
             'uiToolTip',
             'systemSetting',
             'chr',

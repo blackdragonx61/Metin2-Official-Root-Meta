@@ -5,7 +5,7 @@
  'buttonList': [],
  'button_text_dict': {},
  'gift_box_img': None,
- 'hWnd': 791903040,
+ 'hWnd': 825767792,
  'iconList': [],
  'interface': None,
  'isLoaded': 0,

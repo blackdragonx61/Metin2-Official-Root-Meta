@@ -2,7 +2,7 @@
  'args': -1,
  'curAlpha': 0.0,
  'event': 0,
- 'hWnd': 790149384,
+ 'hWnd': 682674072,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,
  'overArgs': None,

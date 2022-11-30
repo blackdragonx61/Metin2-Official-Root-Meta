@@ -8,7 +8,6 @@ key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: uiRefine, val: <module 'uiRefine' (built-in)>
 key: constInfo, val: <module 'constInfo' (built-in)>
 key: grp, val: <module 'grp' (built-in)>
-key: uiInventory, val: <module 'uiInventory' (built-in)>
 key: uiToolTip, val: <module 'uiToolTip' (built-in)>
 key: uiAttachMetin, val: <module 'uiAttachMetin' (built-in)>
 key: __package__, val: None
@@ -32,7 +31,7 @@ key: ui, val: <module 'ui' (built-in)>
 
 
 class DragonSoulRefineWindow:
-_DragonSoulRefineWindow__ToggleDownGradeButton,		<cyfunction DragonSoulRefineWindow.__ToggleDownGradeButton at 0x0A651818>
+_DragonSoulRefineWindow__ToggleDownGradeButton,		<cyfunction DragonSoulRefineWindow.__ToggleDownGradeButton at 0x0B3B2B30>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__ToggleDownGradeButton
@@ -42,12 +41,12 @@ __module__,		uiDragonSoul
 submodule.__module__
 
 
-_DragonSoulRefineWindow__LoadWindow,		<cyfunction DragonSoulRefineWindow.__LoadWindow at 0x0A651500>
+_DragonSoulRefineWindow__LoadWindow,		<cyfunction DragonSoulRefineWindow.__LoadWindow at 0x0B3B2818>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__GetRefineGradeRecipe,		<cyfunction DragonSoulRefineWindow.__GetRefineGradeRecipe at 0x0A651B30>
+_DragonSoulRefineWindow__GetRefineGradeRecipe,		<cyfunction DragonSoulRefineWindow.__GetRefineGradeRecipe at 0x0B3B2E48>
 	arg0: self
 	arg1: vnum
 
@@ -58,29 +57,29 @@ REFINE_STONE_SLOT,		0
 submodule.REFINE_STONE_SLOT
 
 
-_DragonSoulRefineWindow__IsDragonSoul,		<cyfunction DragonSoulRefineWindow.__IsDragonSoul at 0x0A651C38>
+_DragonSoulRefineWindow__IsDragonSoul,		<cyfunction DragonSoulRefineWindow.__IsDragonSoul at 0x0B3B2F50>
 	arg0: self
 	arg1: vnum
 
 submodule._DragonSoulRefineWindow__IsDragonSoul
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction DragonSoulRefineWindow.Destroy at 0x0A651608>
+Destroy,		<cyfunction DragonSoulRefineWindow.Destroy at 0x0B3B2920>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__CanRefineGrade,		<cyfunction DragonSoulRefineWindow.__CanRefineGrade at 0x0A651A28>
+_DragonSoulRefineWindow__CanRefineGrade,		<cyfunction DragonSoulRefineWindow.__CanRefineGrade at 0x0B3B2D40>
 	arg0: self
 	arg1: vnum
 
 submodule._DragonSoulRefineWindow__CanRefineGrade
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__ToggleDownStepButton,		<cyfunction DragonSoulRefineWindow.__ToggleDownStepButton at 0x0A651870>
+_DragonSoulRefineWindow__ToggleDownStepButton,		<cyfunction DragonSoulRefineWindow.__ToggleDownStepButton at 0x0B3B2B88>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__ToggleDownStepButton
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__ToggleUpButton,		<cyfunction DragonSoulRefineWindow.__ToggleUpButton at 0x0A6517C0>
+_DragonSoulRefineWindow__ToggleUpButton,		<cyfunction DragonSoulRefineWindow.__ToggleUpButton at 0x0B3B2AD8>
 	arg0: self
 	arg1: idx
 
@@ -96,7 +95,7 @@ REFINE_TYPE_STRENGTH,		2
 submodule.REFINE_TYPE_STRENGTH
 
 
-_DragonSoulRefineWindow__CanRefineStep,		<cyfunction DragonSoulRefineWindow.__CanRefineStep at 0x0A651A80>
+_DragonSoulRefineWindow__CanRefineStep,		<cyfunction DragonSoulRefineWindow.__CanRefineStep at 0x0B3B2D98>
 	arg0: self
 	arg1: vnum
 
@@ -112,65 +111,65 @@ REFINE_TYPE_GRADE,		0
 submodule.REFINE_TYPE_GRADE
 
 
-SetInventoryWindows,		<cyfunction DragonSoulRefineWindow.SetInventoryWindows at 0x0A652298>
+SetInventoryWindows,		<cyfunction DragonSoulRefineWindow.SetInventoryWindows at 0x0B3B35B0>
 	arg0: self
 	arg1: Inventory
 	arg2: DragonSoul
 
 submodule.SetInventoryWindows
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__GetRefineStepRecipe,		<cyfunction DragonSoulRefineWindow.__GetRefineStepRecipe at 0x0A651B88>
+_DragonSoulRefineWindow__GetRefineStepRecipe,		<cyfunction DragonSoulRefineWindow.__GetRefineStepRecipe at 0x0B3B2EA0>
 	arg0: self
 	arg1: vnum
 
 submodule._DragonSoulRefineWindow__GetRefineStepRecipe
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__OverInRefineItem,		<cyfunction DragonSoulRefineWindow.__OverInRefineItem at 0x0A651DF0>
+_DragonSoulRefineWindow__OverInRefineItem,		<cyfunction DragonSoulRefineWindow.__OverInRefineItem at 0x0B3B3138>
 	arg0: self
 	arg1: slotIndex
 
 submodule._DragonSoulRefineWindow__OverInRefineItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction DragonSoulRefineWindow.SetItemToolTip at 0x0A6514A8>
+SetItemToolTip,		<cyfunction DragonSoulRefineWindow.SetItemToolTip at 0x0B3B27C0>
 	arg0: self
 	arg1: tooltipItem
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__ClearResultItemSlot,		<cyfunction DragonSoulRefineWindow.__ClearResultItemSlot at 0x0A652190>
+_DragonSoulRefineWindow__ClearResultItemSlot,		<cyfunction DragonSoulRefineWindow.__ClearResultItemSlot at 0x0B3B34A8>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__ClearResultItemSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-AutoSetItem,		<cyfunction DragonSoulRefineWindow.AutoSetItem at 0x0A652138>
+AutoSetItem,		<cyfunction DragonSoulRefineWindow.AutoSetItem at 0x0B3B3450>
 	arg0: self
 	arg1: inven
 	arg2: itemCount
 
 submodule.AutoSetItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__CanRefineChangeAttr,		<cyfunction DragonSoulRefineWindow.__CanRefineChangeAttr at 0x0A652348>
+_DragonSoulRefineWindow__CanRefineChangeAttr,		<cyfunction DragonSoulRefineWindow.__CanRefineChangeAttr at 0x0B3B3660>
 	arg0: self
 	arg1: vnum
 
 submodule._DragonSoulRefineWindow__CanRefineChangeAttr
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction DragonSoulRefineWindow.__init__ at 0x0A6513F8>
+__init__,		<cyfunction DragonSoulRefineWindow.__init__ at 0x0B3B2710>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__CheckDoRefine,		<cyfunction DragonSoulRefineWindow.__CheckDoRefine at 0x0A651F50>
+_DragonSoulRefineWindow__CheckDoRefine,		<cyfunction DragonSoulRefineWindow.__CheckDoRefine at 0x0B3B3298>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__CheckDoRefine
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__Initialize,		<cyfunction DragonSoulRefineWindow.__Initialize at 0x0A651710>
+_DragonSoulRefineWindow__Initialize,		<cyfunction DragonSoulRefineWindow.__Initialize at 0x0B3B2A28>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__Initialize
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__GetEmptySlot,		<cyfunction DragonSoulRefineWindow.__GetEmptySlot at 0x0A6520E0>
+_DragonSoulRefineWindow__GetEmptySlot,		<cyfunction DragonSoulRefineWindow.__GetEmptySlot at 0x0B3B33F8>
 	arg0: self
 	arg1: itemVnum
 	default: 0
@@ -182,7 +181,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_DragonSoulRefineWindow__PressDoRefineButton,		<cyfunction DragonSoulRefineWindow.__PressDoRefineButton at 0x0A651EF8>
+_DragonSoulRefineWindow__PressDoRefineButton,		<cyfunction DragonSoulRefineWindow.__PressDoRefineButton at 0x0B3B3240>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__PressDoRefineButton
@@ -192,7 +191,7 @@ DS_SUB_HEADER_DIC,		{0: 2, 1: 3, 2: 4, 3: 13}
 submodule.DS_SUB_HEADER_DIC
 
 
-_DragonSoulRefineWindow__SelectRefineItemSlot,		<cyfunction DragonSoulRefineWindow.__SelectRefineItemSlot at 0x0A651D98>
+_DragonSoulRefineWindow__SelectRefineItemSlot,		<cyfunction DragonSoulRefineWindow.__SelectRefineItemSlot at 0x0B3B30E0>
 	arg0: self
 	arg1: selectedSlotPos
 
@@ -203,50 +202,50 @@ REFINE_TYPE_STEP,		1
 submodule.REFINE_TYPE_STEP
 
 
-__del__,		<cyfunction DragonSoulRefineWindow.__del__ at 0x0A651450>
+__del__,		<cyfunction DragonSoulRefineWindow.__del__ at 0x0B3B2768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__OverInResultItem,		<cyfunction DragonSoulRefineWindow.__OverInResultItem at 0x0A651E48>
+_DragonSoulRefineWindow__OverInResultItem,		<cyfunction DragonSoulRefineWindow.__OverInResultItem at 0x0B3B3190>
 	arg0: self
 	arg1: slotIndex
 
 submodule._DragonSoulRefineWindow__OverInResultItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-Refresh,		<cyfunction DragonSoulRefineWindow.Refresh at 0x0A652030>
+Refresh,		<cyfunction DragonSoulRefineWindow.Refresh at 0x0B3B3348>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__CheckDoRefineChangeAttr,		<cyfunction DragonSoulRefineWindow.__CheckDoRefineChangeAttr at 0x0A6523A0>
+_DragonSoulRefineWindow__CheckDoRefineChangeAttr,		<cyfunction DragonSoulRefineWindow.__CheckDoRefineChangeAttr at 0x0B3B36B8>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__CheckDoRefineChangeAttr
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__GetRefineStrengthInfo,		<cyfunction DragonSoulRefineWindow.__GetRefineStrengthInfo at 0x0A651BE0>
+_DragonSoulRefineWindow__GetRefineStrengthInfo,		<cyfunction DragonSoulRefineWindow.__GetRefineStrengthInfo at 0x0B3B2EF8>
 	arg0: self
 	arg1: itemVnum
 
 submodule._DragonSoulRefineWindow__GetRefineStrengthInfo
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-SetWindowType,		<cyfunction DragonSoulRefineWindow.SetWindowType at 0x0A6522F0>
+SetWindowType,		<cyfunction DragonSoulRefineWindow.SetWindowType at 0x0B3B3608>
 	arg0: self
 	arg1: type
 
 submodule.SetWindowType
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction DragonSoulRefineWindow.OnPressEscapeKey at 0x0A651FA8>
+OnPressEscapeKey,		<cyfunction DragonSoulRefineWindow.OnPressEscapeKey at 0x0B3B32F0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__ToggleDownStrengthButton,		<cyfunction DragonSoulRefineWindow.__ToggleDownStrengthButton at 0x0A6518C8>
+_DragonSoulRefineWindow__ToggleDownStrengthButton,		<cyfunction DragonSoulRefineWindow.__ToggleDownStrengthButton at 0x0B3B2BE0>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__ToggleDownStrengthButton
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__SelectRefineEmptySlot,		<cyfunction DragonSoulRefineWindow.__SelectRefineEmptySlot at 0x0A651D40>
+_DragonSoulRefineWindow__SelectRefineEmptySlot,		<cyfunction DragonSoulRefineWindow.__SelectRefineEmptySlot at 0x0B3B3088>
 	arg0: self
 	arg1: selectedSlotPos
 
@@ -257,13 +256,13 @@ REFINE_TYPE_CHANGE_ATTR,		3
 submodule.REFINE_TYPE_CHANGE_ATTR
 
 
-_DragonSoulRefineWindow__PopUp,		<cyfunction DragonSoulRefineWindow.__PopUp at 0x0A651920>
+_DragonSoulRefineWindow__PopUp,		<cyfunction DragonSoulRefineWindow.__PopUp at 0x0B3B2C38>
 	arg0: self
 	arg1: message
 
 submodule._DragonSoulRefineWindow__PopUp
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__SetItem,		<cyfunction DragonSoulRefineWindow.__SetItem at 0x0A651978>
+_DragonSoulRefineWindow__SetItem,		<cyfunction DragonSoulRefineWindow.__SetItem at 0x0B3B2C90>
 	arg0: self
 	arg1: inven
 	arg2: dstSlotIndex
@@ -271,39 +270,39 @@ _DragonSoulRefineWindow__SetItem,		<cyfunction DragonSoulRefineWindow.__SetItem 
 
 submodule._DragonSoulRefineWindow__SetItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__CheckCanRefine,		<cyfunction DragonSoulRefineWindow.__CheckCanRefine at 0x0A6519D0>
+_DragonSoulRefineWindow__CheckCanRefine,		<cyfunction DragonSoulRefineWindow.__CheckCanRefine at 0x0B3B2CE8>
 	arg0: self
 	arg1: vnum
 
 submodule._DragonSoulRefineWindow__CheckCanRefine
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__OverOutItem,		<cyfunction DragonSoulRefineWindow.__OverOutItem at 0x0A651EA0>
+_DragonSoulRefineWindow__OverOutItem,		<cyfunction DragonSoulRefineWindow.__OverOutItem at 0x0B3B31E8>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__GetDragonSoulTypeInfo,		<cyfunction DragonSoulRefineWindow.__GetDragonSoulTypeInfo at 0x0A651C90>
+_DragonSoulRefineWindow__GetDragonSoulTypeInfo,		<cyfunction DragonSoulRefineWindow.__GetDragonSoulTypeInfo at 0x0B3B2FA8>
 	arg0: self
 	arg1: vnum
 
 submodule._DragonSoulRefineWindow__GetDragonSoulTypeInfo
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__FlushRefineItemSlot,		<cyfunction DragonSoulRefineWindow.__FlushRefineItemSlot at 0x0A651768>
+_DragonSoulRefineWindow__FlushRefineItemSlot,		<cyfunction DragonSoulRefineWindow.__FlushRefineItemSlot at 0x0B3B2A80>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__FlushRefineItemSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-Show,		<cyfunction DragonSoulRefineWindow.Show at 0x0A6516B8>
+Show,		<cyfunction DragonSoulRefineWindow.Show at 0x0B3B29D0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction DragonSoulRefineWindow.OnUpdate at 0x0A6515B0>
+OnUpdate,		<cyfunction DragonSoulRefineWindow.OnUpdate at 0x0B3B28C8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__MakeDragonSoulVnum,		<cyfunction DragonSoulRefineWindow.__MakeDragonSoulVnum at 0x0A651CE8>
+_DragonSoulRefineWindow__MakeDragonSoulVnum,		<cyfunction DragonSoulRefineWindow.__MakeDragonSoulVnum at 0x0B3B3030>
 	arg0: self
 	arg1: ds_type
 	arg2: grade
@@ -317,7 +316,7 @@ INVALID_DRAGON_SOUL_INFO,		-1
 submodule.INVALID_DRAGON_SOUL_INFO
 
 
-RefineFail,		<cyfunction DragonSoulRefineWindow.RefineFail at 0x0A652240>
+RefineFail,		<cyfunction DragonSoulRefineWindow.RefineFail at 0x0B3B3558>
 	arg0: self
 	arg1: reason
 	arg2: inven_type
@@ -325,30 +324,30 @@ RefineFail,		<cyfunction DragonSoulRefineWindow.RefineFail at 0x0A652240>
 
 submodule.RefineFail
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-RefineSucceed,		<cyfunction DragonSoulRefineWindow.RefineSucceed at 0x0A6521E8>
+RefineSucceed,		<cyfunction DragonSoulRefineWindow.RefineSucceed at 0x0B3B3500>
 	arg0: self
 	arg1: inven_type
 	arg2: inven_pos
 
 submodule.RefineSucceed
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-Close,		<cyfunction DragonSoulRefineWindow.Close at 0x0A651660>
+Close,		<cyfunction DragonSoulRefineWindow.Close at 0x0B3B2978>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__CanRefineStrength,		<cyfunction DragonSoulRefineWindow.__CanRefineStrength at 0x0A651AD8>
+_DragonSoulRefineWindow__CanRefineStrength,		<cyfunction DragonSoulRefineWindow.__CanRefineStrength at 0x0B3B2DF0>
 	arg0: self
 	arg1: vnum
 
 submodule._DragonSoulRefineWindow__CanRefineStrength
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-Open,		<cyfunction DragonSoulRefineWindow.Open at 0x0A651558>
+Open,		<cyfunction DragonSoulRefineWindow.Open at 0x0B3B2870>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulRefineWindow instance as first argument (got nothing instead)
-_DragonSoulRefineWindow__RefreshRefineItemSlot,		<cyfunction DragonSoulRefineWindow.__RefreshRefineItemSlot at 0x0A652088>
+_DragonSoulRefineWindow__RefreshRefineItemSlot,		<cyfunction DragonSoulRefineWindow.__RefreshRefineItemSlot at 0x0B3B33A0>
 	arg0: self
 
 submodule._DragonSoulRefineWindow__RefreshRefineItemSlot
@@ -356,44 +355,44 @@ Skipped: unbound method cython_function_or_method object must be called with Dra
 
 
 class DragonSoulWindow:
-_DragonSoulWindow__Accept,		<cyfunction DragonSoulWindow.__Accept at 0x0A650CE8>
+_DragonSoulWindow__Accept,		<cyfunction DragonSoulWindow.__Accept at 0x0B3B2030>
 	arg0: self
 
 submodule._DragonSoulWindow__Accept
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-OverInEquipItem,		<cyfunction DragonSoulWindow.OverInEquipItem at 0x0A650A28>
+OverInEquipItem,		<cyfunction DragonSoulWindow.OverInEquipItem at 0x0B3AAD40>
 	arg0: self
 	arg1: overSlotPos
 
 submodule.OverInEquipItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__HighlightSlot_RefreshCurrentPage,		<cyfunction DragonSoulWindow.__HighlightSlot_RefreshCurrentPage at 0x0A651138>
+_DragonSoulWindow__HighlightSlot_RefreshCurrentPage,		<cyfunction DragonSoulWindow.__HighlightSlot_RefreshCurrentPage at 0x0B3B2450>
 	arg0: self
 
 submodule._DragonSoulWindow__HighlightSlot_RefreshCurrentPage
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction DragonSoulWindow.OverInItem at 0x0A6505B0>
+OverInItem,		<cyfunction DragonSoulWindow.OverInItem at 0x0B3AA8C8>
 	arg0: self
 	arg1: overSlotPos
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-DeactivateDragonSoul,		<cyfunction DragonSoulWindow.DeactivateDragonSoul at 0x0A650F50>
+DeactivateDragonSoul,		<cyfunction DragonSoulWindow.DeactivateDragonSoul at 0x0B3B2298>
 	arg0: self
 
 submodule.DeactivateDragonSoul
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-GetDSSetGrade,		<cyfunction DragonSoulWindow.GetDSSetGrade at 0x0A650EA0>
+GetDSSetGrade,		<cyfunction DragonSoulWindow.GetDSSetGrade at 0x0B3B21E8>
 	arg0: self
 
 submodule.GetDSSetGrade
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__Accept_DS_Equip,		<cyfunction DragonSoulWindow.__Accept_DS_Equip at 0x0A650C38>
+_DragonSoulWindow__Accept_DS_Equip,		<cyfunction DragonSoulWindow.__Accept_DS_Equip at 0x0B3AAF50>
 	arg0: self
 
 submodule._DragonSoulWindow__Accept_DS_Equip
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-IsDlgQuestionShow,		<cyfunction DragonSoulWindow.IsDlgQuestionShow at 0x0A651298>
+IsDlgQuestionShow,		<cyfunction DragonSoulWindow.IsDlgQuestionShow at 0x0B3B25B0>
 	arg0: self
 
 submodule.IsDlgQuestionShow
@@ -403,12 +402,12 @@ interface,		None
 submodule.interface
 
 
-_DragonSoulWindow__CanActivateDeck,		<cyfunction DragonSoulWindow.__CanActivateDeck at 0x0A651030>
+_DragonSoulWindow__CanActivateDeck,		<cyfunction DragonSoulWindow.__CanActivateDeck at 0x0B3B2348>
 	arg0: self
 
 submodule._DragonSoulWindow__CanActivateDeck
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__OpenQuestionDialog,		<cyfunction DragonSoulWindow.__OpenQuestionDialog at 0x0A650C90>
+_DragonSoulWindow__OpenQuestionDialog,		<cyfunction DragonSoulWindow.__OpenQuestionDialog at 0x0B3AAFA8>
 	arg0: self
 	arg1: srcItemInvenType
 	arg2: srcItemPos
@@ -417,43 +416,43 @@ _DragonSoulWindow__OpenQuestionDialog,		<cyfunction DragonSoulWindow.__OpenQuest
 
 submodule._DragonSoulWindow__OpenQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-ShowToolTip,		<cyfunction DragonSoulWindow.ShowToolTip at 0x0A650450>
+ShowToolTip,		<cyfunction DragonSoulWindow.ShowToolTip at 0x0B3AA768>
 	arg0: self
 	arg1: window_type
 	arg2: slotIndex
 
 submodule.ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__UseEquipItem,		<cyfunction DragonSoulWindow.__UseEquipItem at 0x0A650AD8>
+_DragonSoulWindow__UseEquipItem,		<cyfunction DragonSoulWindow.__UseEquipItem at 0x0B3AADF0>
 	arg0: self
 	arg1: slotIndex
 
 submodule._DragonSoulWindow__UseEquipItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SetDSSetGrade,		<cyfunction DragonSoulWindow.SetDSSetGrade at 0x0A650E48>
+SetDSSetGrade,		<cyfunction DragonSoulWindow.SetDSSetGrade at 0x0B3B2190>
 	arg0: self
 	arg1: grade
 
 submodule.SetDSSetGrade
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SetInventoryPage,		<cyfunction DragonSoulWindow.SetInventoryPage at 0x0A650138>
+SetInventoryPage,		<cyfunction DragonSoulWindow.SetInventoryPage at 0x0B3AA450>
 	arg0: self
 	arg1: page
 
 submodule.SetInventoryPage
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__LoadWindow,		<cyfunction DragonSoulWindow.__LoadWindow at 0x0A64FFA8>
+_DragonSoulWindow__LoadWindow,		<cyfunction DragonSoulWindow.__LoadWindow at 0x0B3AA2F0>
 	arg0: self
 
 submodule._DragonSoulWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__GetEquipSlotPos,		<cyfunction DragonSoulWindow.__GetEquipSlotPos at 0x0A650348>
+_DragonSoulWindow__GetEquipSlotPos,		<cyfunction DragonSoulWindow.__GetEquipSlotPos at 0x0B3AA660>
 	arg0: self
 	arg1: pos
 
 submodule._DragonSoulWindow__GetEquipSlotPos
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__HighlightSlot_ClearCurrentPage,		<cyfunction DragonSoulWindow.__HighlightSlot_ClearCurrentPage at 0x0A6510E0>
+_DragonSoulWindow__HighlightSlot_ClearCurrentPage,		<cyfunction DragonSoulWindow.__HighlightSlot_ClearCurrentPage at 0x0B3B23F8>
 	arg0: self
 
 submodule._DragonSoulWindow__HighlightSlot_ClearCurrentPage
@@ -463,64 +462,64 @@ __doc__,		None
 submodule.__doc__
 
 
-SetDragonSoulRefineWindow,		<cyfunction DragonSoulWindow.SetDragonSoulRefineWindow at 0x0A6511E8>
+SetDragonSoulRefineWindow,		<cyfunction DragonSoulWindow.SetDragonSoulRefineWindow at 0x0B3B2500>
 	arg0: self
 	arg1: DragonSoulRefine
 
 submodule.SetDragonSoulRefineWindow
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction DragonSoulWindow.SelectEmptySlot at 0x0A6508C8>
+SelectEmptySlot,		<cyfunction DragonSoulWindow.SelectEmptySlot at 0x0B3AABE0>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-UseEquipItemSlot,		<cyfunction DragonSoulWindow.UseEquipItemSlot at 0x0A650A80>
+UseEquipItemSlot,		<cyfunction DragonSoulWindow.UseEquipItemSlot at 0x0B3AAD98>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UseEquipItemSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction DragonSoulWindow.__del__ at 0x0A64FEF8>
+__del__,		<cyfunction DragonSoulWindow.__del__ at 0x0B3AA240>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__InventoryLocalSlotPosToGlobalSlotPos,		<cyfunction DragonSoulWindow.__InventoryLocalSlotPosToGlobalSlotPos at 0x0A6503A0>
+_DragonSoulWindow__InventoryLocalSlotPosToGlobalSlotPos,		<cyfunction DragonSoulWindow.__InventoryLocalSlotPosToGlobalSlotPos at 0x0B3AA6B8>
 	arg0: self
 	arg1: window_type
 	arg2: local_slot_pos
 
 submodule._DragonSoulWindow__InventoryLocalSlotPosToGlobalSlotPos
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-RefreshStatus,		<cyfunction DragonSoulWindow.RefreshStatus at 0x0A6502F0>
+RefreshStatus,		<cyfunction DragonSoulWindow.RefreshStatus at 0x0B3AA608>
 	arg0: self
 
 submodule.RefreshStatus
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction DragonSoulWindow.UseItemSlot at 0x0A650920>
+UseItemSlot,		<cyfunction DragonSoulWindow.UseItemSlot at 0x0B3AAC38>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-ActivateButtonClick,		<cyfunction DragonSoulWindow.ActivateButtonClick at 0x0A650FA8>
+ActivateButtonClick,		<cyfunction DragonSoulWindow.ActivateButtonClick at 0x0B3B22F0>
 	arg0: self
 
 submodule.ActivateButtonClick
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SetCantMouseEventSlot,		<cyfunction DragonSoulWindow.SetCantMouseEventSlot at 0x0A650710>
+SetCantMouseEventSlot,		<cyfunction DragonSoulWindow.SetCantMouseEventSlot at 0x0B3AAA28>
 	arg0: self
 	arg1: index
 
 submodule.SetCantMouseEventSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction DragonSoulWindow.OnTop at 0x0A650500>
+OnTop,		<cyfunction DragonSoulWindow.OnTop at 0x0B3AA818>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-Show,		<cyfunction DragonSoulWindow.Show at 0x0A64FF50>
+Show,		<cyfunction DragonSoulWindow.Show at 0x0B3AA298>
 	arg0: self
 
 submodule.Show
@@ -530,33 +529,33 @@ __qualname__,		DragonSoulWindow
 submodule.__qualname__
 
 
-OverOutItem,		<cyfunction DragonSoulWindow.OverOutItem at 0x0A650558>
+OverOutItem,		<cyfunction DragonSoulWindow.OverOutItem at 0x0B3AA870>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-GetInventoryPageIndex,		<cyfunction DragonSoulWindow.GetInventoryPageIndex at 0x0A650190>
+GetInventoryPageIndex,		<cyfunction DragonSoulWindow.GetInventoryPageIndex at 0x0B3AA4A8>
 	arg0: self
 
 submodule.GetInventoryPageIndex
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-Close,		<cyfunction DragonSoulWindow.Close at 0x0A650088>
+Close,		<cyfunction DragonSoulWindow.Close at 0x0B3AA3A0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__OnClosePopupDialog,		<cyfunction DragonSoulWindow.__OnClosePopupDialog at 0x0A650870>
+_DragonSoulWindow__OnClosePopupDialog,		<cyfunction DragonSoulWindow.__OnClosePopupDialog at 0x0B3AAB88>
 	arg0: self
 
 submodule._DragonSoulWindow__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__UseItem,		<cyfunction DragonSoulWindow.__UseItem at 0x0A650608>
+_DragonSoulWindow__UseItem,		<cyfunction DragonSoulWindow.__UseItem at 0x0B3AA920>
 	arg0: self
 	arg1: slotIndex
 
 submodule._DragonSoulWindow__UseItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-ActivateDragonSoulByExtern,		<cyfunction DragonSoulWindow.ActivateDragonSoulByExtern at 0x0A650EF8>
+ActivateDragonSoulByExtern,		<cyfunction DragonSoulWindow.ActivateDragonSoulByExtern at 0x0B3B2240>
 	arg0: self
 	arg1: deck
 
@@ -567,44 +566,44 @@ __module__,		uiDragonSoul
 submodule.__module__
 
 
-SelectEmptyEquipSlot,		<cyfunction DragonSoulWindow.SelectEmptyEquipSlot at 0x0A650B88>
+SelectEmptyEquipSlot,		<cyfunction DragonSoulWindow.SelectEmptyEquipSlot at 0x0B3AAEA0>
 	arg0: self
 	arg1: selectedSlot
 
 submodule.SelectEmptyEquipSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction DragonSoulWindow.SelectItemSlot at 0x0A6506B8>
+SelectItemSlot,		<cyfunction DragonSoulWindow.SelectItemSlot at 0x0B3AA9D0>
 	arg0: self
 	arg1: itemSlotIndex
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__Cancel,		<cyfunction DragonSoulWindow.__Cancel at 0x0A650D40>
+_DragonSoulWindow__Cancel,		<cyfunction DragonSoulWindow.__Cancel at 0x0B3B2088>
 	arg0: self
 
 submodule._DragonSoulWindow__Cancel
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-RefreshEquipSlotWindow,		<cyfunction DragonSoulWindow.RefreshEquipSlotWindow at 0x0A650298>
+RefreshEquipSlotWindow,		<cyfunction DragonSoulWindow.RefreshEquipSlotWindow at 0x0B3AA5B0>
 	arg0: self
 
 submodule.RefreshEquipSlotWindow
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction DragonSoulWindow.Destroy at 0x0A650030>
+Destroy,		<cyfunction DragonSoulWindow.Destroy at 0x0B3AA348>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SellItem,		<cyfunction DragonSoulWindow.SellItem at 0x0A6507C0>
+SellItem,		<cyfunction DragonSoulWindow.SellItem at 0x0B3AAAD8>
 	arg0: self
 
 submodule.SellItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction DragonSoulWindow.__init__ at 0x0A64FEA0>
+__init__,		<cyfunction DragonSoulWindow.__init__ at 0x0B3AA1E8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__OpenQuestionDialog_DS_Equip,		<cyfunction DragonSoulWindow.__OpenQuestionDialog_DS_Equip at 0x0A650BE0>
+_DragonSoulWindow__OpenQuestionDialog_DS_Equip,		<cyfunction DragonSoulWindow.__OpenQuestionDialog_DS_Equip at 0x0B3AAEF8>
 	arg0: self
 	arg1: Equip
 	arg2: srcItemPos
@@ -612,42 +611,42 @@ _DragonSoulWindow__OpenQuestionDialog_DS_Equip,		<cyfunction DragonSoulWindow.__
 
 submodule._DragonSoulWindow__OpenQuestionDialog_DS_Equip
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-OnCloseQuestionDialog,		<cyfunction DragonSoulWindow.OnCloseQuestionDialog at 0x0A650818>
+OnCloseQuestionDialog,		<cyfunction DragonSoulWindow.OnCloseQuestionDialog at 0x0B3AAB30>
 	arg0: self
 
 submodule.OnCloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SetDeckPage,		<cyfunction DragonSoulWindow.SetDeckPage at 0x0A650DF0>
+SetDeckPage,		<cyfunction DragonSoulWindow.SetDeckPage at 0x0B3B2138>
 	arg0: self
 	arg1: page
 
 submodule.SetDeckPage
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-BindInterfaceClass,		<cyfunction DragonSoulWindow.BindInterfaceClass at 0x0A651240>
+BindInterfaceClass,		<cyfunction DragonSoulWindow.BindInterfaceClass at 0x0B3B2558>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterfaceClass
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SetUseItemMode,		<cyfunction DragonSoulWindow.SetUseItemMode at 0x0A651348>
+SetUseItemMode,		<cyfunction DragonSoulWindow.SetUseItemMode at 0x0B3B2660>
 	arg0: self
 	arg1: bUse
 
 submodule.SetUseItemMode
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__EquipItem,		<cyfunction DragonSoulWindow.__EquipItem at 0x0A650660>
+_DragonSoulWindow__EquipItem,		<cyfunction DragonSoulWindow.__EquipItem at 0x0B3AA978>
 	arg0: self
 	arg1: slotIndex
 
 submodule._DragonSoulWindow__EquipItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-ActivateDragonSoulByKey,		<cyfunction DragonSoulWindow.ActivateDragonSoulByKey at 0x0A651088>
+ActivateDragonSoulByKey,		<cyfunction DragonSoulWindow.ActivateDragonSoulByKey at 0x0B3B23A0>
 	arg0: self
 	arg1: deck
 
 submodule.ActivateDragonSoulByKey
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__SendMoveItemPacket,		<cyfunction DragonSoulWindow.__SendMoveItemPacket at 0x0A650978>
+_DragonSoulWindow__SendMoveItemPacket,		<cyfunction DragonSoulWindow.__SendMoveItemPacket at 0x0B3AAC90>
 	arg0: self
 	arg1: srcSlotWindow
 	arg2: srcSlotPos
@@ -657,70 +656,70 @@ _DragonSoulWindow__SendMoveItemPacket,		<cyfunction DragonSoulWindow.__SendMoveI
 
 submodule._DragonSoulWindow__SendMoveItemPacket
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-RefreshItemSlot,		<cyfunction DragonSoulWindow.RefreshItemSlot at 0x0A650240>
+RefreshItemSlot,		<cyfunction DragonSoulWindow.RefreshItemSlot at 0x0B3AA558>
 	arg0: self
 
 submodule.RefreshItemSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-toolTipProgress,		<cyfunction DragonSoulWindow.toolTipProgress at 0x0A6513A0>
+toolTipProgress,		<cyfunction DragonSoulWindow.toolTipProgress at 0x0B3B26B8>
 	arg0: self
 	arg1: msg
 	default: 
 
 submodule.toolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SetDSKindIndex,		<cyfunction DragonSoulWindow.SetDSKindIndex at 0x0A650D98>
+SetDSKindIndex,		<cyfunction DragonSoulWindow.SetDSKindIndex at 0x0B3B20E0>
 	arg0: self
 	arg1: kindIndex
 
 submodule.SetDSKindIndex
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction DragonSoulWindow.OnPressEscapeKey at 0x0A6504A8>
+OnPressEscapeKey,		<cyfunction DragonSoulWindow.OnPressEscapeKey at 0x0B3AA7C0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-RefreshBagSlotWindow,		<cyfunction DragonSoulWindow.RefreshBagSlotWindow at 0x0A6503F8>
+RefreshBagSlotWindow,		<cyfunction DragonSoulWindow.RefreshBagSlotWindow at 0x0B3AA710>
 	arg0: self
 
 submodule.RefreshBagSlotWindow
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-CancelDlgQuestion,		<cyfunction DragonSoulWindow.CancelDlgQuestion at 0x0A6512F0>
+CancelDlgQuestion,		<cyfunction DragonSoulWindow.CancelDlgQuestion at 0x0B3B2608>
 	arg0: self
 
 submodule.CancelDlgQuestion
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-HighlightSlot,		<cyfunction DragonSoulWindow.HighlightSlot at 0x0A651190>
+HighlightSlot,		<cyfunction DragonSoulWindow.HighlightSlot at 0x0B3B24A8>
 	arg0: self
 	arg1: slot
 
 submodule.HighlightSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__SellItem,		<cyfunction DragonSoulWindow.__SellItem at 0x0A650768>
+_DragonSoulWindow__SellItem,		<cyfunction DragonSoulWindow.__SellItem at 0x0B3AAA80>
 	arg0: self
 	arg1: itemSlotPos
 
 submodule._DragonSoulWindow__SellItem
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-_DragonSoulWindow__DeckButtonDown,		<cyfunction DragonSoulWindow.__DeckButtonDown at 0x0A6500E0>
+_DragonSoulWindow__DeckButtonDown,		<cyfunction DragonSoulWindow.__DeckButtonDown at 0x0B3AA3F8>
 	arg0: self
 	arg1: deck
 
 submodule._DragonSoulWindow__DeckButtonDown
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction DragonSoulWindow.SetItemToolTip at 0x0A6501E8>
+SetItemToolTip,		<cyfunction DragonSoulWindow.SetItemToolTip at 0x0B3AA500>
 	arg0: self
 	arg1: tooltipItem
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-SelectEquipItemSlot,		<cyfunction DragonSoulWindow.SelectEquipItemSlot at 0x0A650B30>
+SelectEquipItemSlot,		<cyfunction DragonSoulWindow.SelectEquipItemSlot at 0x0B3AAE48>
 	arg0: self
 	arg1: itemSlotIndex
 
 submodule.SelectEquipItemSlot
 Skipped: unbound method cython_function_or_method object must be called with DragonSoulWindow instance as first argument (got nothing instead)
-OverOutEquipItem,		<cyfunction DragonSoulWindow.OverOutEquipItem at 0x0A6509D0>
+OverOutEquipItem,		<cyfunction DragonSoulWindow.OverOutEquipItem at 0x0B3AACE8>
 	arg0: self
 
 submodule.OverOutEquipItem

@@ -32,6 +32,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
                      {'args': ['self'], 'defaults': [], 'name': 'HidePageButton'},
+                     {'args': ['self'], 'defaults': [], 'name': 'IsFindItemPopUpShow'},
                      {'args': ['self', 'n'], 'defaults': [], 'name': 'NumberToMoneyString'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnBuyAcceptEvent'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnBuyCloseEvent'},

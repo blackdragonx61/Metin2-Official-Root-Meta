@@ -124,6 +124,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetCanMouseEventSlot'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetCantMouseEventSlot'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetClippingMaskRect'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetClippingMaskWindow'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetColor'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetCoolTimeImageBox'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetCorverButtonScale'},

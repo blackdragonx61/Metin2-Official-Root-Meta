@@ -122,7 +122,7 @@
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiDragonSoul'}, {'name': '__qualname__', 'type': 'str', 'value': 'DragonSoulWindow'}, {'name': 'interface', 'type': 'NoneType', 'value': None}]}],
  'func': [],
- 'import': ['uiNewInventory', 'chatm2g', 'app', 'uiPrivateShopBuilder', 'uiPickMoney', 'm2netm2g', 'playerm2g2', 'uiRefine', 'constInfo', 'grp', 'uiInventory', 'uiToolTip', 'uiAttachMetin', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', 'snd', '__builtin__', 'ime', 'sys', 'item', 'ui'],
+ 'import': ['uiNewInventory', 'chatm2g', 'app', 'uiPrivateShopBuilder', 'uiPickMoney', 'm2netm2g', 'playerm2g2', 'uiRefine', 'constInfo', 'grp', 'uiToolTip', 'uiAttachMetin', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', 'snd', '__builtin__', 'ime', 'sys', 'item', 'ui'],
  'var': [{'name': 'DISABLE_ALL_INDEX', 'type': 'int', 'value': -1},
          {'name': 'ITEM_FLAG_APPLICABLE', 'type': 'int', 'value': 8192},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
