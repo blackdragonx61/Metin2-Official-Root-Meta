@@ -13,7 +13,7 @@ key: chr, val: <module 'chr' (built-in)>
 key: uiScriptLocale, val: <module 'uiScriptLocale' (built-in)>
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
-key: SecondToHM, val: <cyfunction SecondToHM at 0x09B77E48>
+key: SecondToHM, val: <cyfunction SecondToHM at 0x0C13D1E8>
 key: ranking, val: <module 'ranking' (built-in)>
 key: MiniBossDungeon, val: <class 'uiMiniBossDungeon.MiniBossDungeon'>
 key: __builtins__, val: <module '__builtin__' (built-in)>
@@ -22,7 +22,7 @@ key: __test__, val: {}
 key: proxy, val: <built-in function proxy>
 key: wndMgr, val: <module 'wndMgr' (built-in)>
 key: __name__, val: uiMiniBossDungeon
-key: SecondToMS, val: <cyfunction SecondToMS at 0x09B77DF0>
+key: SecondToMS, val: <cyfunction SecondToMS at 0x0C13D190>
 key: ui, val: <module 'ui' (built-in)>
 key: STATE_MAIN, val: 2
 key: DungeonLimitTimeWindow, val: <class 'uiMiniBossDungeon.DungeonLimitTimeWindow'>
@@ -35,45 +35,45 @@ __module__,		uiMiniBossDungeon
 submodule.__module__
 
 
-PrevDescriptionPage,		<cyfunction MiniBossDungeonDescription.PrevDescriptionPage at 0x09B7C348>
+PrevDescriptionPage,		<cyfunction MiniBossDungeonDescription.PrevDescriptionPage at 0x0C13D6B8>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniBossDungeonDescription.__del__ at 0x09B7C088>
+__del__,		<cyfunction MiniBossDungeonDescription.__del__ at 0x0C13D3F8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction MiniBossDungeonDescription.BindControlWindow at 0x09B7C0E0>
+BindControlWindow,		<cyfunction MiniBossDungeonDescription.BindControlWindow at 0x0C13D450>
 	arg0: self
 	arg1: control_window
 
 submodule.BindControlWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-ClickStartButton,		<cyfunction MiniBossDungeonDescription.ClickStartButton at 0x09B7C3F8>
+ClickStartButton,		<cyfunction MiniBossDungeonDescription.ClickStartButton at 0x0C13D768>
 	arg0: self
 
 submodule.ClickStartButton
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-toolTipProgress,		<cyfunction MiniBossDungeonDescription.toolTipProgress at 0x09B7C450>
+toolTipProgress,		<cyfunction MiniBossDungeonDescription.toolTipProgress at 0x0C13D7C0>
 	arg0: self
 	arg1: msg
 	default: 
 
 submodule.toolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MiniBossDungeonDescription.OnPressEscapeKey at 0x09B7C298>
+OnPressEscapeKey,		<cyfunction MiniBossDungeonDescription.OnPressEscapeKey at 0x0C13D608>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniBossDungeonDescription.__init__ at 0x09B7C030>
+__init__,		<cyfunction MiniBossDungeonDescription.__init__ at 0x0C13D3A0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MiniBossDungeonDescription.OnUpdate at 0x09B7C2F0>
+OnUpdate,		<cyfunction MiniBossDungeonDescription.OnUpdate at 0x0C13D660>
 	arg0: self
 
 submodule.OnUpdate
@@ -83,29 +83,29 @@ __qualname__,		MiniBossDungeonDescription
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction MiniBossDungeonDescription.NextDescriptionPage at 0x09B7C3A0>
+NextDescriptionPage,		<cyfunction MiniBossDungeonDescription.NextDescriptionPage at 0x0C13D710>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiMiniBossDungeon.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-Initialize,		<cyfunction MiniBossDungeonDescription.Initialize at 0x09B7C138>
+Initialize,		<cyfunction MiniBossDungeonDescription.Initialize at 0x0C13D4A8>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-Close,		<cyfunction MiniBossDungeonDescription.Close at 0x09B7C240>
+Close,		<cyfunction MiniBossDungeonDescription.Close at 0x0C13D5B0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction MiniBossDungeonDescription.LoadWindow at 0x09B7C190>
+LoadWindow,		<cyfunction MiniBossDungeonDescription.LoadWindow at 0x0C13D500>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonDescription instance as first argument (got nothing instead)
-Open,		<cyfunction MiniBossDungeonDescription.Open at 0x09B7C1E8>
+Open,		<cyfunction MiniBossDungeonDescription.Open at 0x0C13D558>
 	arg0: self
 
 submodule.Open
@@ -118,7 +118,7 @@ submodule.__doc__
 
 
 class MiniBossDungeonMainUI:
-EnterDungeon,		<cyfunction MiniBossDungeonMainUI.EnterDungeon at 0x09B7C9D0>
+EnterDungeon,		<cyfunction MiniBossDungeonMainUI.EnterDungeon at 0x0C13DD40>
 	arg0: self
 
 submodule.EnterDungeon
@@ -128,12 +128,12 @@ __module__,		uiMiniBossDungeon
 submodule.__module__
 
 
-__del__,		<cyfunction MiniBossDungeonMainUI.__del__ at 0x09B7C500>
+__del__,		<cyfunction MiniBossDungeonMainUI.__del__ at 0x0C13D870>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction MiniBossDungeonMainUI.BindControlWindow at 0x09B7C558>
+BindControlWindow,		<cyfunction MiniBossDungeonMainUI.BindControlWindow at 0x0C13D8C8>
 	arg0: self
 	arg1: control_window
 
@@ -144,18 +144,18 @@ BOSS_INFO,		1
 submodule.BOSS_INFO
 
 
-ClickDescButton,		<cyfunction MiniBossDungeonMainUI.ClickDescButton at 0x09B7CA28>
+ClickDescButton,		<cyfunction MiniBossDungeonMainUI.ClickDescButton at 0x0C13DD98>
 	arg0: self
 
 submodule.ClickDescButton
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-ShowToolTipMsg,		<cyfunction MiniBossDungeonMainUI.ShowToolTipMsg at 0x09B7C608>
+ShowToolTipMsg,		<cyfunction MiniBossDungeonMainUI.ShowToolTipMsg at 0x0C13D978>
 	arg0: self
 	arg1: msg
 
 submodule.ShowToolTipMsg
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-toolTipProgress,		<cyfunction MiniBossDungeonMainUI.toolTipProgress at 0x09B7C8C8>
+toolTipProgress,		<cyfunction MiniBossDungeonMainUI.toolTipProgress at 0x0C13DC38>
 	arg0: self
 	arg1: type
 	arg2: key
@@ -165,12 +165,12 @@ toolTipProgress,		<cyfunction MiniBossDungeonMainUI.toolTipProgress at 0x09B7C8C
 
 submodule.toolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MiniBossDungeonMainUI.OnPressEscapeKey at 0x09B7C7C0>
+OnPressEscapeKey,		<cyfunction MiniBossDungeonMainUI.OnPressEscapeKey at 0x0C13DB30>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-RefreshBossInfo,		<cyfunction MiniBossDungeonMainUI.RefreshBossInfo at 0x09B7C920>
+RefreshBossInfo,		<cyfunction MiniBossDungeonMainUI.RefreshBossInfo at 0x0C13DC90>
 	arg0: self
 	arg1: type
 	arg2: time
@@ -182,7 +182,7 @@ RefreshBossInfo,		<cyfunction MiniBossDungeonMainUI.RefreshBossInfo at 0x09B7C92
 
 submodule.RefreshBossInfo
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniBossDungeonMainUI.__init__ at 0x09B7C4A8>
+__init__,		<cyfunction MiniBossDungeonMainUI.__init__ at 0x0C13D818>
 	arg0: self
 
 submodule.__init__
@@ -197,7 +197,7 @@ RANK_BLUE,		2
 submodule.RANK_BLUE
 
 
-OpenPopupMsg,		<cyfunction MiniBossDungeonMainUI.OpenPopupMsg at 0x09B7C5B0>
+OpenPopupMsg,		<cyfunction MiniBossDungeonMainUI.OpenPopupMsg at 0x0C13D920>
 	arg0: self
 	arg1: msg
 
@@ -208,27 +208,27 @@ RANK_RED,		3
 submodule.RANK_RED
 
 
-OnUpdate,		<cyfunction MiniBossDungeonMainUI.OnUpdate at 0x09B7C818>
+OnUpdate,		<cyfunction MiniBossDungeonMainUI.OnUpdate at 0x0C13DB88>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-Initialize,		<cyfunction MiniBossDungeonMainUI.Initialize at 0x09B7C660>
+Initialize,		<cyfunction MiniBossDungeonMainUI.Initialize at 0x0C13D9D0>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-Close,		<cyfunction MiniBossDungeonMainUI.Close at 0x09B7C768>
+Close,		<cyfunction MiniBossDungeonMainUI.Close at 0x0C13DAD8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction MiniBossDungeonMainUI.LoadWindow at 0x09B7C6B8>
+LoadWindow,		<cyfunction MiniBossDungeonMainUI.LoadWindow at 0x0C13DA28>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-Open,		<cyfunction MiniBossDungeonMainUI.Open at 0x09B7C710>
+Open,		<cyfunction MiniBossDungeonMainUI.Open at 0x0C13DA80>
 	arg0: self
 
 submodule.Open
@@ -238,13 +238,13 @@ __doc__,		None
 submodule.__doc__
 
 
-SetPage,		<cyfunction MiniBossDungeonMainUI.SetPage at 0x09B7C870>
+SetPage,		<cyfunction MiniBossDungeonMainUI.SetPage at 0x0C13DBE0>
 	arg0: self
 	arg1: key
 
 submodule.SetPage
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeonMainUI instance as first argument (got nothing instead)
-RefreshRankingList,		<cyfunction MiniBossDungeonMainUI.RefreshRankingList at 0x09B7C978>
+RefreshRankingList,		<cyfunction MiniBossDungeonMainUI.RefreshRankingList at 0x0C13DCE8>
 	arg0: self
 
 submodule.RefreshRankingList
@@ -257,7 +257,7 @@ __module__,		uiMiniBossDungeon
 submodule.__module__
 
 
-__del__,		<cyfunction MiniBossDungeon.__del__ at 0x09B7CAD8>
+__del__,		<cyfunction MiniBossDungeon.__del__ at 0x0C13DE48>
 	arg0: self
 
 submodule.__del__
@@ -267,23 +267,23 @@ __qualname__,		MiniBossDungeon
 submodule.__qualname__
 
 
-ChangeState,		<cyfunction MiniBossDungeon.ChangeState at 0x09B7CC90>
+ChangeState,		<cyfunction MiniBossDungeon.ChangeState at 0x0C140030>
 	arg0: self
 	arg1: state
 
 submodule.ChangeState
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeon instance as first argument (got nothing instead)
-Close,		<cyfunction MiniBossDungeon.Close at 0x09B7CC38>
+Close,		<cyfunction MiniBossDungeon.Close at 0x0C13DFA8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeon instance as first argument (got nothing instead)
-Initialize,		<cyfunction MiniBossDungeon.Initialize at 0x09B7CB30>
+Initialize,		<cyfunction MiniBossDungeon.Initialize at 0x0C13DEA0>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeon instance as first argument (got nothing instead)
-RefreshBossInfo,		<cyfunction MiniBossDungeon.RefreshBossInfo at 0x09B7CCE8>
+RefreshBossInfo,		<cyfunction MiniBossDungeon.RefreshBossInfo at 0x0C140088>
 	arg0: self
 	arg1: type
 	arg2: time
@@ -295,12 +295,12 @@ RefreshBossInfo,		<cyfunction MiniBossDungeon.RefreshBossInfo at 0x09B7CCE8>
 
 submodule.RefreshBossInfo
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeon instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction MiniBossDungeon.LoadWindow at 0x09B7CB88>
+LoadWindow,		<cyfunction MiniBossDungeon.LoadWindow at 0x0C13DEF8>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeon instance as first argument (got nothing instead)
-Open,		<cyfunction MiniBossDungeon.Open at 0x09B7CBE0>
+Open,		<cyfunction MiniBossDungeon.Open at 0x0C13DF50>
 	arg0: self
 
 submodule.Open
@@ -310,12 +310,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MiniBossDungeon.__init__ at 0x09B7CA80>
+__init__,		<cyfunction MiniBossDungeon.__init__ at 0x0C13DDF0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniBossDungeon instance as first argument (got nothing instead)
-RefreshRankingList,		<cyfunction MiniBossDungeon.RefreshRankingList at 0x09B7CD40>
+RefreshRankingList,		<cyfunction MiniBossDungeon.RefreshRankingList at 0x0C1400E0>
 	arg0: self
 
 submodule.RefreshRankingList
@@ -323,7 +323,7 @@ Skipped: unbound method cython_function_or_method object must be called with Min
 
 
 class DungeonLimitTimeWindow:
-OnUpdate,		<cyfunction DungeonLimitTimeWindow.OnUpdate at 0x09B7CFA8>
+OnUpdate,		<cyfunction DungeonLimitTimeWindow.OnUpdate at 0x0C140348>
 	arg0: self
 
 submodule.OnUpdate
@@ -333,14 +333,14 @@ __module__,		uiMiniBossDungeon
 submodule.__module__
 
 
-SetTimer,		<cyfunction DungeonLimitTimeWindow.SetTimer at 0x09B7D030>
+SetTimer,		<cyfunction DungeonLimitTimeWindow.SetTimer at 0x0C1403A0>
 	arg0: self
 	arg1: time
 	arg2: mapIdx
 
 submodule.SetTimer
 Skipped: unbound method cython_function_or_method object must be called with DungeonLimitTimeWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction DungeonLimitTimeWindow.__del__ at 0x09B7CDF0>
+__del__,		<cyfunction DungeonLimitTimeWindow.__del__ at 0x0C140190>
 	arg0: self
 
 submodule.__del__
@@ -350,22 +350,22 @@ __qualname__,		DungeonLimitTimeWindow
 submodule.__qualname__
 
 
-Initialize,		<cyfunction DungeonLimitTimeWindow.Initialize at 0x09B7CE48>
+Initialize,		<cyfunction DungeonLimitTimeWindow.Initialize at 0x0C1401E8>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with DungeonLimitTimeWindow instance as first argument (got nothing instead)
-Close,		<cyfunction DungeonLimitTimeWindow.Close at 0x09B7CF50>
+Close,		<cyfunction DungeonLimitTimeWindow.Close at 0x0C1402F0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with DungeonLimitTimeWindow instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction DungeonLimitTimeWindow.LoadWindow at 0x09B7CEA0>
+LoadWindow,		<cyfunction DungeonLimitTimeWindow.LoadWindow at 0x0C140240>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with DungeonLimitTimeWindow instance as first argument (got nothing instead)
-Open,		<cyfunction DungeonLimitTimeWindow.Open at 0x09B7CEF8>
+Open,		<cyfunction DungeonLimitTimeWindow.Open at 0x0C140298>
 	arg0: self
 
 submodule.Open
@@ -375,7 +375,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction DungeonLimitTimeWindow.__init__ at 0x09B7CD98>
+__init__,		<cyfunction DungeonLimitTimeWindow.__init__ at 0x0C140138>
 	arg0: self
 
 submodule.__init__

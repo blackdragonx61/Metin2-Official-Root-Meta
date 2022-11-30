@@ -20,7 +20,7 @@ __module__,		uiWhiteDragonCave
 submodule.__module__
 
 
-_WhiteDragonCave__RemoveAffect,		<cyfunction WhiteDragonCave.__RemoveAffect at 0x15CC3138>
+_WhiteDragonCave__RemoveAffect,		<cyfunction WhiteDragonCave.__RemoveAffect at 0x194A42F0>
 	arg0: self
 	arg1: erase_affect_type
 	arg2: erase_point_type
@@ -28,14 +28,14 @@ _WhiteDragonCave__RemoveAffect,		<cyfunction WhiteDragonCave.__RemoveAffect at 0
 
 submodule._WhiteDragonCave__RemoveAffect
 Skipped: unbound method cython_function_or_method object must be called with WhiteDragonCave instance as first argument (got nothing instead)
-__del__,		<cyfunction WhiteDragonCave.__del__ at 0x15CC0EF8>
+__del__,		<cyfunction WhiteDragonCave.__del__ at 0x194A40E0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with WhiteDragonCave instance as first argument (got nothing instead)
 _WhiteDragonCave__WhiteDragonCaveAffect,		<class 'uiWhiteDragonCave.__WhiteDragonCaveAffect'>
 Skip: type object '__WhiteDragonCaveAffect' has no attribute 'func_code'
-SetEvent,		<cyfunction WhiteDragonCave.SetEvent at 0x15CC0FA8>
+SetEvent,		<cyfunction WhiteDragonCave.SetEvent at 0x194A4190>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -47,7 +47,7 @@ EVENT_TYPE_DELAY,		2
 submodule.EVENT_TYPE_DELAY
 
 
-_WhiteDragonCave__AddAffect,		<cyfunction WhiteDragonCave.__AddAffect at 0x15CC30E0>
+_WhiteDragonCave__AddAffect,		<cyfunction WhiteDragonCave.__AddAffect at 0x194A4298>
 	arg0: self
 	arg1: affect_type
 	arg2: point_type
@@ -57,7 +57,7 @@ _WhiteDragonCave__AddAffect,		<cyfunction WhiteDragonCave.__AddAffect at 0x15CC3
 
 submodule._WhiteDragonCave__AddAffect
 Skipped: unbound method cython_function_or_method object must be called with WhiteDragonCave instance as first argument (got nothing instead)
-_WhiteDragonCave__UpdateAffect,		<cyfunction WhiteDragonCave.__UpdateAffect at 0x15CC3190>
+_WhiteDragonCave__UpdateAffect,		<cyfunction WhiteDragonCave.__UpdateAffect at 0x194A4348>
 	arg0: self
 	arg1: update_affect_type
 	arg2: update_point_type
@@ -66,17 +66,17 @@ _WhiteDragonCave__UpdateAffect,		<cyfunction WhiteDragonCave.__UpdateAffect at 0
 
 submodule._WhiteDragonCave__UpdateAffect
 Skipped: unbound method cython_function_or_method object must be called with WhiteDragonCave instance as first argument (got nothing instead)
-CoolingDamageOnScreen,		<cyfunction WhiteDragonCave.CoolingDamageOnScreen at 0x15CC0F50>
+CoolingDamageOnScreen,		<cyfunction WhiteDragonCave.CoolingDamageOnScreen at 0x194A4138>
 	arg0: self
 
 submodule.CoolingDamageOnScreen
 Skipped: unbound method cython_function_or_method object must be called with WhiteDragonCave instance as first argument (got nothing instead)
-__init__,		<cyfunction WhiteDragonCave.__init__ at 0x15CC0EA0>
+__init__,		<cyfunction WhiteDragonCave.__init__ at 0x194A4088>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with WhiteDragonCave instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction WhiteDragonCave.OnUpdate at 0x15CC3030>
+OnUpdate,		<cyfunction WhiteDragonCave.OnUpdate at 0x194A41E8>
 	arg0: self
 
 submodule.OnUpdate
@@ -106,7 +106,7 @@ _WhiteDragonCave__event_deque,		<member '_WhiteDragonCave__event_deque' of 'Whit
 submodule._WhiteDragonCave__event_deque
 
 
-WhiteDragonCaveProcess,		<cyfunction WhiteDragonCave.WhiteDragonCaveProcess at 0x15CC3240>
+WhiteDragonCaveProcess,		<cyfunction WhiteDragonCave.WhiteDragonCaveProcess at 0x194A43F8>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -135,7 +135,7 @@ AFFECT_BAORD_GAP,		3
 submodule.AFFECT_BAORD_GAP
 
 
-_WhiteDragonCave__GetCurseLoca,		<cyfunction WhiteDragonCave.__GetCurseLoca at 0x15CC3088>
+_WhiteDragonCave__GetCurseLoca,		<cyfunction WhiteDragonCave.__GetCurseLoca at 0x194A4240>
 	arg0: self
 	arg1: point_value
 
@@ -156,7 +156,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_WhiteDragonCave__ArrangeAffectList,		<cyfunction WhiteDragonCave.__ArrangeAffectList at 0x15CC31E8>
+_WhiteDragonCave__ArrangeAffectList,		<cyfunction WhiteDragonCave.__ArrangeAffectList at 0x194A43A0>
 	arg0: self
 
 submodule._WhiteDragonCave__ArrangeAffectList

@@ -36,19 +36,19 @@ key: __name__, val: uiPetInfo
 key: uiAffectShower, val: <module 'uiAffectShower' (built-in)>
 key: PetInformationWindow, val: <class 'uiPetInfo.PetInformationWindow'>
 key: PetNameChangeWindow, val: <class 'uiPetInfo.PetNameChangeWindow'>
-key: unsigned32, val: <cyfunction unsigned32 at 0x09950348>
+key: unsigned32, val: <cyfunction unsigned32 at 0x0BEF3DF0>
 key: item, val: <module 'item' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
 key: TextToolTip, val: <class 'uiPetInfo.TextToolTip'>
 
 
 class PetHatchingWindow:
-_PetHatchingWindow__OpenHatchingQuestionDialog,		<cyfunction PetHatchingWindow.__OpenHatchingQuestionDialog at 0x09950F50>
+_PetHatchingWindow__OpenHatchingQuestionDialog,		<cyfunction PetHatchingWindow.__OpenHatchingQuestionDialog at 0x0BF27A28>
 	arg0: self
 
 submodule._PetHatchingWindow__OpenHatchingQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-OnMouseLeftButtonUpEvent,		<cyfunction PetHatchingWindow.OnMouseLeftButtonUpEvent at 0x09950D40>
+OnMouseLeftButtonUpEvent,		<cyfunction PetHatchingWindow.OnMouseLeftButtonUpEvent at 0x0BF27818>
 	arg0: self
 
 submodule.OnMouseLeftButtonUpEvent
@@ -58,18 +58,18 @@ __module__,		uiPetInfo
 submodule.__module__
 
 
-_PetHatchingWindow__LoadScript,		<cyfunction PetHatchingWindow.__LoadScript at 0x09950BE0>
+_PetHatchingWindow__LoadScript,		<cyfunction PetHatchingWindow.__LoadScript at 0x0BF276B8>
 	arg0: self
 	arg1: fileName
 
 submodule._PetHatchingWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-_PetHatchingWindow__LoadWindow,		<cyfunction PetHatchingWindow.__LoadWindow at 0x09950B88>
+_PetHatchingWindow__LoadWindow,		<cyfunction PetHatchingWindow.__LoadWindow at 0x0BF27660>
 	arg0: self
 
 submodule._PetHatchingWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-PetHatchingWindowCommand,		<cyfunction PetHatchingWindow.PetHatchingWindowCommand at 0x099810E0>
+PetHatchingWindowCommand,		<cyfunction PetHatchingWindow.PetHatchingWindowCommand at 0x0BF27B88>
 	arg0: self
 	arg1: command
 	arg2: window
@@ -77,38 +77,38 @@ PetHatchingWindowCommand,		<cyfunction PetHatchingWindow.PetHatchingWindowComman
 
 submodule.PetHatchingWindowCommand
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-_PetHatchingWindow__MakeQuestionDialog,		<cyfunction PetHatchingWindow.__MakeQuestionDialog at 0x09950C38>
+_PetHatchingWindow__MakeQuestionDialog,		<cyfunction PetHatchingWindow.__MakeQuestionDialog at 0x0BF27710>
 	arg0: self
 
 submodule._PetHatchingWindow__MakeQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction PetHatchingWindow.__del__ at 0x09950A28>
+__del__,		<cyfunction PetHatchingWindow.__del__ at 0x0BF27500>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-_PetHatchingWindow__MakePopupDialog,		<cyfunction PetHatchingWindow.__MakePopupDialog at 0x09950C90>
+_PetHatchingWindow__MakePopupDialog,		<cyfunction PetHatchingWindow.__MakePopupDialog at 0x0BF27768>
 	arg0: self
 
 submodule._PetHatchingWindow__MakePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction PetHatchingWindow.Destroy at 0x09950B30>
+Destroy,		<cyfunction PetHatchingWindow.Destroy at 0x0BF27608>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-_PetHatchingWindow__OpenPopupDialog,		<cyfunction PetHatchingWindow.__OpenPopupDialog at 0x09981088>
+_PetHatchingWindow__OpenPopupDialog,		<cyfunction PetHatchingWindow.__OpenPopupDialog at 0x0BF27B30>
 	arg0: self
 	arg1: str
 
 submodule._PetHatchingWindow__OpenPopupDialog
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-_PetHatchingWindow__HatchingQuestionDialogCancel,		<cyfunction PetHatchingWindow.__HatchingQuestionDialogCancel at 0x09981030>
+_PetHatchingWindow__HatchingQuestionDialogCancel,		<cyfunction PetHatchingWindow.__HatchingQuestionDialogCancel at 0x0BF27AD8>
 	arg0: self
 
 submodule._PetHatchingWindow__HatchingQuestionDialogCancel
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-HatchingWindowOpen,		<cyfunction PetHatchingWindow.HatchingWindowOpen at 0x09950EF8>
+HatchingWindowOpen,		<cyfunction PetHatchingWindow.HatchingWindowOpen at 0x0BF279D0>
 	arg0: self
 	arg1: slotWindow
 	arg2: slotIndex
@@ -120,49 +120,49 @@ __qualname__,		PetHatchingWindow
 submodule.__qualname__
 
 
-Show,		<cyfunction PetHatchingWindow.Show at 0x09950A80>
+Show,		<cyfunction PetHatchingWindow.Show at 0x0BF27558>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-_PetHatchingWindow__HatchingQuestionDialogAccept,		<cyfunction PetHatchingWindow.__HatchingQuestionDialogAccept at 0x09950FA8>
+_PetHatchingWindow__HatchingQuestionDialogAccept,		<cyfunction PetHatchingWindow.__HatchingQuestionDialogAccept at 0x0BF27A80>
 	arg0: self
 
 submodule._PetHatchingWindow__HatchingQuestionDialogAccept
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-ClickHatchingButton,		<cyfunction PetHatchingWindow.ClickHatchingButton at 0x09950CE8>
+ClickHatchingButton,		<cyfunction PetHatchingWindow.ClickHatchingButton at 0x0BF277C0>
 	arg0: self
 
 submodule.ClickHatchingButton
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PetHatchingWindow.OnUpdate at 0x09950EA0>
+OnUpdate,		<cyfunction PetHatchingWindow.OnUpdate at 0x0BF27978>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-ClearMouseEventEggItem,		<cyfunction PetHatchingWindow.ClearMouseEventEggItem at 0x09950E48>
+ClearMouseEventEggItem,		<cyfunction PetHatchingWindow.ClearMouseEventEggItem at 0x0BF27920>
 	arg0: self
 
 submodule.ClearMouseEventEggItem
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction PetHatchingWindow.OverOutItem at 0x09950DF0>
+OverOutItem,		<cyfunction PetHatchingWindow.OverOutItem at 0x0BF278C8>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction PetHatchingWindow.__init__ at 0x099509D0>
+__init__,		<cyfunction PetHatchingWindow.__init__ at 0x0BF274A8>
 	arg0: self
 	arg1: wndPetInformation
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction PetHatchingWindow.OverInItem at 0x09950D98>
+OverInItem,		<cyfunction PetHatchingWindow.OverInItem at 0x0BF27870>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with PetHatchingWindow instance as first argument (got nothing instead)
-Close,		<cyfunction PetHatchingWindow.Close at 0x09950AD8>
+Close,		<cyfunction PetHatchingWindow.Close at 0x0BF275B0>
 	arg0: self
 
 submodule.Close
@@ -175,7 +175,7 @@ submodule.__doc__
 
 
 class PetMiniInfomationWindow:
-_PetMiniInfomationWindow__LoadWindow,		<cyfunction PetMiniInfomationWindow.__LoadWindow at 0x09950558>
+_PetMiniInfomationWindow__LoadWindow,		<cyfunction PetMiniInfomationWindow.__LoadWindow at 0x0BF27030>
 	arg0: self
 
 submodule._PetMiniInfomationWindow__LoadWindow
@@ -185,28 +185,28 @@ __module__,		uiPetInfo
 submodule.__module__
 
 
-SetAlwaysRenderCoverButton,		<cyfunction PetMiniInfomationWindow.SetAlwaysRenderCoverButton at 0x099507C0>
+SetAlwaysRenderCoverButton,		<cyfunction PetMiniInfomationWindow.SetAlwaysRenderCoverButton at 0x0BF27298>
 	arg0: self
 	arg1: slotNumber
 
 submodule.SetAlwaysRenderCoverButton
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction PetMiniInfomationWindow.SelectItemSlot at 0x09950818>
+SelectItemSlot,		<cyfunction PetMiniInfomationWindow.SelectItemSlot at 0x0BF272F0>
 	arg0: self
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction PetMiniInfomationWindow.__del__ at 0x099503F8>
+__del__,		<cyfunction PetMiniInfomationWindow.__del__ at 0x0BEF3EA0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-OffFlashEvent,		<cyfunction PetMiniInfomationWindow.OffFlashEvent at 0x09950978>
+OffFlashEvent,		<cyfunction PetMiniInfomationWindow.OffFlashEvent at 0x0BF27450>
 	arg0: self
 
 submodule.OffFlashEvent
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-SetSkillSlot,		<cyfunction PetMiniInfomationWindow.SetSkillSlot at 0x099506B8>
+SetSkillSlot,		<cyfunction PetMiniInfomationWindow.SetSkillSlot at 0x0BF27190>
 	arg0: self
 	arg1: slotNumber
 	arg2: slotIndex
@@ -214,12 +214,12 @@ SetSkillSlot,		<cyfunction PetMiniInfomationWindow.SetSkillSlot at 0x099506B8>
 
 submodule.SetSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-ClearSkillSlot,		<cyfunction PetMiniInfomationWindow.ClearSkillSlot at 0x09950768>
+ClearSkillSlot,		<cyfunction PetMiniInfomationWindow.ClearSkillSlot at 0x0BF27240>
 	arg0: self
 
 submodule.ClearSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-SetSkillCoolTime,		<cyfunction PetMiniInfomationWindow.SetSkillCoolTime at 0x09950710>
+SetSkillCoolTime,		<cyfunction PetMiniInfomationWindow.SetSkillCoolTime at 0x0BF271E8>
 	arg0: self
 	arg1: slotNumber
 	arg2: slotIndex
@@ -228,18 +228,18 @@ SetSkillCoolTime,		<cyfunction PetMiniInfomationWindow.SetSkillCoolTime at 0x099
 
 submodule.SetSkillCoolTime
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction PetMiniInfomationWindow.Destroy at 0x09950500>
+Destroy,		<cyfunction PetMiniInfomationWindow.Destroy at 0x0BEF3FA8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-SetItemSlot,		<cyfunction PetMiniInfomationWindow.SetItemSlot at 0x09950660>
+SetItemSlot,		<cyfunction PetMiniInfomationWindow.SetItemSlot at 0x0BF27138>
 	arg0: self
 	arg1: CurPetItemVNum
 
 submodule.SetItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction PetMiniInfomationWindow.__init__ at 0x099503A0>
+__init__,		<cyfunction PetMiniInfomationWindow.__init__ at 0x0BEF3E48>
 	arg0: self
 	arg1: wndPetInformation
 
@@ -250,12 +250,12 @@ __qualname__,		PetMiniInfomationWindow
 submodule.__qualname__
 
 
-Show,		<cyfunction PetMiniInfomationWindow.Show at 0x09950450>
+Show,		<cyfunction PetMiniInfomationWindow.Show at 0x0BEF3EF8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-SetExperience,		<cyfunction PetMiniInfomationWindow.SetExperience at 0x099508C8>
+SetExperience,		<cyfunction PetMiniInfomationWindow.SetExperience at 0x0BF273A0>
 	arg0: self
 	arg1: curPoint
 	arg2: maxPoint
@@ -264,28 +264,28 @@ SetExperience,		<cyfunction PetMiniInfomationWindow.SetExperience at 0x099508C8>
 
 submodule.SetExperience
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-_PetMiniInfomationWindow__LoadScript,		<cyfunction PetMiniInfomationWindow.__LoadScript at 0x099505B0>
+_PetMiniInfomationWindow__LoadScript,		<cyfunction PetMiniInfomationWindow.__LoadScript at 0x0BF27088>
 	arg0: self
 	arg1: fileName
 
 submodule._PetMiniInfomationWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PetMiniInfomationWindow.OnUpdate at 0x09950608>
+OnUpdate,		<cyfunction PetMiniInfomationWindow.OnUpdate at 0x0BF270E0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-OnFlashEvent,		<cyfunction PetMiniInfomationWindow.OnFlashEvent at 0x09950920>
+OnFlashEvent,		<cyfunction PetMiniInfomationWindow.OnFlashEvent at 0x0BF273F8>
 	arg0: self
 
 submodule.OnFlashEvent
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-Close,		<cyfunction PetMiniInfomationWindow.Close at 0x099504A8>
+Close,		<cyfunction PetMiniInfomationWindow.Close at 0x0BEF3F50>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PetMiniInfomationWindow instance as first argument (got nothing instead)
-SetLifeTime,		<cyfunction PetMiniInfomationWindow.SetLifeTime at 0x09950870>
+SetLifeTime,		<cyfunction PetMiniInfomationWindow.SetLifeTime at 0x0BF27348>
 	arg0: self
 	arg1: curPoint
 	arg2: maxPoint
@@ -300,12 +300,12 @@ submodule.__doc__
 
 
 class PetFeedWindow:
-CreatePetFeedQuestionDialog,		<cyfunction PetFeedWindow.CreatePetFeedQuestionDialog at 0x09981FA8>
+CreatePetFeedQuestionDialog,		<cyfunction PetFeedWindow.CreatePetFeedQuestionDialog at 0x0BF29A80>
 	arg0: self
 
 submodule.CreatePetFeedQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction PetFeedWindow.SelectEmptySlot at 0x09981E48>
+SelectEmptySlot,		<cyfunction PetFeedWindow.SelectEmptySlot at 0x0BF29920>
 	arg0: self
 	arg1: slotIndex
 
@@ -316,30 +316,30 @@ __module__,		uiPetInfo
 submodule.__module__
 
 
-BackUpSucceedFeedItems,		<cyfunction PetFeedWindow.BackUpSucceedFeedItems at 0x09982190>
+BackUpSucceedFeedItems,		<cyfunction PetFeedWindow.BackUpSucceedFeedItems at 0x0BF29C38>
 	arg0: self
 
 submodule.BackUpSucceedFeedItems
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction PetFeedWindow.SelectItemSlot at 0x09981CE8>
+SelectItemSlot,		<cyfunction PetFeedWindow.SelectItemSlot at 0x0BF297C0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-DeleteDataDummySlot,		<cyfunction PetFeedWindow.DeleteDataDummySlot at 0x09981EF8>
+DeleteDataDummySlot,		<cyfunction PetFeedWindow.DeleteDataDummySlot at 0x0BF299D0>
 	arg0: self
 	arg1: slotIndex
 	arg2: InvenPos
 
 submodule.DeleteDataDummySlot
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction PetFeedWindow.__del__ at 0x099818C8>
+__del__,		<cyfunction PetFeedWindow.__del__ at 0x0BF293A0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-ClearFeedItems,		<cyfunction PetFeedWindow.ClearFeedItems at 0x09981978>
+ClearFeedItems,		<cyfunction PetFeedWindow.ClearFeedItems at 0x0BF29450>
 	arg0: self
 
 submodule.ClearFeedItems
@@ -349,68 +349,68 @@ __doc__,		None
 submodule.__doc__
 
 
-SerachEmptySlot,		<cyfunction PetFeedWindow.SerachEmptySlot at 0x09981D98>
+SerachEmptySlot,		<cyfunction PetFeedWindow.SerachEmptySlot at 0x0BF29870>
 	arg0: self
 	arg1: size
 
 submodule.SerachEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-OnCloseFeedQuestionDialog,		<cyfunction PetFeedWindow.OnCloseFeedQuestionDialog at 0x099820E0>
+OnCloseFeedQuestionDialog,		<cyfunction PetFeedWindow.OnCloseFeedQuestionDialog at 0x0BF29B88>
 	arg0: self
 
 submodule.OnCloseFeedQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction PetFeedWindow.Destroy at 0x09981A80>
+Destroy,		<cyfunction PetFeedWindow.Destroy at 0x0BF29558>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-_PetFeedWindow__LoadScript,		<cyfunction PetFeedWindow.__LoadScript at 0x09981B30>
+_PetFeedWindow__LoadScript,		<cyfunction PetFeedWindow.__LoadScript at 0x0BF29608>
 	arg0: self
 	arg1: fileName
 
 submodule._PetFeedWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-ClickPetFeedButton,		<cyfunction PetFeedWindow.ClickPetFeedButton at 0x09981F50>
+ClickPetFeedButton,		<cyfunction PetFeedWindow.ClickPetFeedButton at 0x0BF29A28>
 	arg0: self
 
 submodule.ClickPetFeedButton
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-InsertDataDummySlot,		<cyfunction PetFeedWindow.InsertDataDummySlot at 0x09981EA0>
+InsertDataDummySlot,		<cyfunction PetFeedWindow.InsertDataDummySlot at 0x0BF29978>
 	arg0: self
 	arg1: slotIndex
 	arg2: vnum
 
 submodule.InsertDataDummySlot
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-OnDenyFeedPet,		<cyfunction PetFeedWindow.OnDenyFeedPet at 0x09982088>
+OnDenyFeedPet,		<cyfunction PetFeedWindow.OnDenyFeedPet at 0x0BF29B30>
 	arg0: self
 
 submodule.OnDenyFeedPet
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-OnAcceptFeedPet,		<cyfunction PetFeedWindow.OnAcceptFeedPet at 0x09982030>
+OnAcceptFeedPet,		<cyfunction PetFeedWindow.OnAcceptFeedPet at 0x0BF29AD8>
 	arg0: self
 
 submodule.OnAcceptFeedPet
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-ItemMoveFeedWindow,		<cyfunction PetFeedWindow.ItemMoveFeedWindow at 0x09981DF0>
+ItemMoveFeedWindow,		<cyfunction PetFeedWindow.ItemMoveFeedWindow at 0x0BF298C8>
 	arg0: self
 	arg1: slotWindow
 	arg2: slotIndex
 
 submodule.ItemMoveFeedWindow
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-Show,		<cyfunction PetFeedWindow.Show at 0x09981920>
+Show,		<cyfunction PetFeedWindow.Show at 0x0BF293F8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PetFeedWindow.OnUpdate at 0x099821E8>
+OnUpdate,		<cyfunction PetFeedWindow.OnUpdate at 0x0BF29C90>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction PetFeedWindow.OnTop at 0x09982240>
+OnTop,		<cyfunction PetFeedWindow.OnTop at 0x0BF29CE8>
 	arg0: self
 
 submodule.OnTop
@@ -420,57 +420,57 @@ __qualname__,		PetFeedWindow
 submodule.__qualname__
 
 
-UnselectItemSlot,		<cyfunction PetFeedWindow.UnselectItemSlot at 0x09981C90>
+UnselectItemSlot,		<cyfunction PetFeedWindow.UnselectItemSlot at 0x0BF29768>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UnselectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-_PetFeedWindow__LoadWindow,		<cyfunction PetFeedWindow.__LoadWindow at 0x09981AD8>
+_PetFeedWindow__LoadWindow,		<cyfunction PetFeedWindow.__LoadWindow at 0x0BF295B0>
 	arg0: self
 
 submodule._PetFeedWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction PetFeedWindow.UseItemSlot at 0x09981C38>
+UseItemSlot,		<cyfunction PetFeedWindow.UseItemSlot at 0x0BF29710>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction PetFeedWindow.OverOutItem at 0x09981BE0>
+OverOutItem,		<cyfunction PetFeedWindow.OverOutItem at 0x0BF296B8>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction PetFeedWindow.__init__ at 0x09981870>
+__init__,		<cyfunction PetFeedWindow.__init__ at 0x0BF29348>
 	arg0: self
 	arg1: wndPetInformation
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction PetFeedWindow.OverInItem at 0x09981B88>
+OverInItem,		<cyfunction PetFeedWindow.OverInItem at 0x0BF29660>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-RemoveItemSlot,		<cyfunction PetFeedWindow.RemoveItemSlot at 0x09981D40>
+RemoveItemSlot,		<cyfunction PetFeedWindow.RemoveItemSlot at 0x0BF29818>
 	arg0: self
 	arg1: slotIndex
 
 submodule.RemoveItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-Close,		<cyfunction PetFeedWindow.Close at 0x09981A28>
+Close,		<cyfunction PetFeedWindow.Close at 0x0BF29500>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-ClearMouseEventFeedItems,		<cyfunction PetFeedWindow.ClearMouseEventFeedItems at 0x09982138>
+ClearMouseEventFeedItems,		<cyfunction PetFeedWindow.ClearMouseEventFeedItems at 0x0BF29BE0>
 	arg0: self
 
 submodule.ClearMouseEventFeedItems
 Skipped: unbound method cython_function_or_method object must be called with PetFeedWindow instance as first argument (got nothing instead)
-SetOnTopWindowNone,		<cyfunction PetFeedWindow.SetOnTopWindowNone at 0x099819D0>
+SetOnTopWindowNone,		<cyfunction PetFeedWindow.SetOnTopWindowNone at 0x0BF294A8>
 	arg0: self
 
 submodule.SetOnTopWindowNone
@@ -478,62 +478,62 @@ Skipped: unbound method cython_function_or_method object must be called with Pet
 
 
 class PetInformationWindow:
-Hide,		<cyfunction PetInformationWindow.Hide at 0x09982500>
+Hide,		<cyfunction PetInformationWindow.Hide at 0x0BF29FA8>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectEmptySkillSlot,		<cyfunction PetInformationWindow.SelectEmptySkillSlot at 0x09983240>
+SelectEmptySkillSlot,		<cyfunction PetInformationWindow.SelectEmptySkillSlot at 0x0BF2ACE8>
 	arg0: self
 	arg1: skillSlotIndex
 
 submodule.SelectEmptySkillSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__ClosePetPrimiumFeedstuffDescBox,		<cyfunction PetInformationWindow.__ClosePetPrimiumFeedstuffDescBox at 0x09984A80>
+_PetInformationWindow__ClosePetPrimiumFeedstuffDescBox,		<cyfunction PetInformationWindow.__ClosePetPrimiumFeedstuffDescBox at 0x0BF2C558>
 	arg0: self
 
 submodule._PetInformationWindow__ClosePetPrimiumFeedstuffDescBox
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction PetInformationWindow.OverInItem at 0x099848C8>
+OverInItem,		<cyfunction PetInformationWindow.OverInItem at 0x0BF2C3A0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__ClearPetSkillSlot,		<cyfunction PetInformationWindow.__ClearPetSkillSlot at 0x099826B8>
+_PetInformationWindow__ClearPetSkillSlot,		<cyfunction PetInformationWindow.__ClearPetSkillSlot at 0x0BF2A190>
 	arg0: self
 
 submodule._PetInformationWindow__ClearPetSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectPetReviveMaterialItemSlot,		<cyfunction PetInformationWindow.SelectPetReviveMaterialItemSlot at 0x09985190>
+SelectPetReviveMaterialItemSlot,		<cyfunction PetInformationWindow.SelectPetReviveMaterialItemSlot at 0x0BF2CC38>
 	arg0: self
 	arg1: slot_index
 
 submodule.SelectPetReviveMaterialItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__PetAttrChangeAccept,		<cyfunction PetInformationWindow.__PetAttrChangeAccept at 0x09982818>
+_PetInformationWindow__PetAttrChangeAccept,		<cyfunction PetInformationWindow.__PetAttrChangeAccept at 0x0BF2A2F0>
 	arg0: self
 
 submodule._PetInformationWindow__PetAttrChangeAccept
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiPetInfo.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OverOutPetReviveResultSlot,		<cyfunction PetInformationWindow.OverOutPetReviveResultSlot at 0x09985088>
+OverOutPetReviveResultSlot,		<cyfunction PetInformationWindow.OverOutPetReviveResultSlot at 0x0BF2CB30>
 	arg0: self
 
 submodule.OverOutPetReviveResultSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__ClearPetPrimiumFeedstuffSlot,		<cyfunction PetInformationWindow.__ClearPetPrimiumFeedstuffSlot at 0x09984E48>
+_PetInformationWindow__ClearPetPrimiumFeedstuffSlot,		<cyfunction PetInformationWindow.__ClearPetPrimiumFeedstuffSlot at 0x0BF2C920>
 	arg0: self
 
 submodule._PetInformationWindow__ClearPetPrimiumFeedstuffSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__PetAttrChangeCancel,		<cyfunction PetInformationWindow.__PetAttrChangeCancel at 0x09982870>
+_PetInformationWindow__PetAttrChangeCancel,		<cyfunction PetInformationWindow.__PetAttrChangeCancel at 0x0BF2A348>
 	arg0: self
 
 submodule._PetInformationWindow__PetAttrChangeCancel
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-CanInvenSlot,		<cyfunction PetInformationWindow.CanInvenSlot at 0x09983870>
+CanInvenSlot,		<cyfunction PetInformationWindow.CanInvenSlot at 0x0BF2B348>
 	arg0: self
 	arg1: invenIndex
 
@@ -544,37 +544,37 @@ state,		PETINFO
 submodule.state
 
 
-_PetInformationWindow__AttachPetMaterialSlot,		<cyfunction PetInformationWindow.__AttachPetMaterialSlot at 0x09985138>
+_PetInformationWindow__AttachPetMaterialSlot,		<cyfunction PetInformationWindow.__AttachPetMaterialSlot at 0x0BF2CBE0>
 	arg0: self
 	arg1: slot_index
 	arg2: inven_slot
 
 submodule._PetInformationWindow__AttachPetMaterialSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetInfoBindAffectShower,		<cyfunction PetInformationWindow.PetInfoBindAffectShower at 0x099840E0>
+PetInfoBindAffectShower,		<cyfunction PetInformationWindow.PetInfoBindAffectShower at 0x0BF2BB88>
 	arg0: self
 	arg1: affect_shower
 
 submodule.PetInfoBindAffectShower
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-GetPetNameChangeWindow,		<cyfunction PetInformationWindow.GetPetNameChangeWindow at 0x09983EA0>
+GetPetNameChangeWindow,		<cyfunction PetInformationWindow.GetPetNameChangeWindow at 0x0BF2B978>
 	arg0: self
 
 submodule.GetPetNameChangeWindow
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetState,		<cyfunction PetInformationWindow.SetState at 0x09984348>
+SetState,		<cyfunction PetInformationWindow.SetState at 0x0BF2BDF0>
 	arg0: self
 	arg1: stateKey
 
 submodule.SetState
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction PetInformationWindow.SelectEmptySlot at 0x09984608>
+SelectEmptySlot,		<cyfunction PetInformationWindow.SelectEmptySlot at 0x0BF2C0E0>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OnPressedSkill2SlotButton,		<cyfunction PetInformationWindow.OnPressedSkill2SlotButton at 0x09982920>
+OnPressedSkill2SlotButton,		<cyfunction PetInformationWindow.OnPressedSkill2SlotButton at 0x0BF2A3F8>
 	arg0: self
 	arg1: slotIndex
 
@@ -585,7 +585,7 @@ DEFAULT_DESC_Y,		7
 submodule.DEFAULT_DESC_Y
 
 
-CanAttachSlot,		<cyfunction PetInformationWindow.CanAttachSlot at 0x09984710>
+CanAttachSlot,		<cyfunction PetInformationWindow.CanAttachSlot at 0x0BF2C1E8>
 	arg0: self
 	arg1: selectedSlotPos
 	arg2: attachedSlotType
@@ -598,41 +598,41 @@ pageDict,		None
 submodule.pageDict
 
 
-UseItemSlot,		<cyfunction PetInformationWindow.UseItemSlot at 0x099844A8>
+UseItemSlot,		<cyfunction PetInformationWindow.UseItemSlot at 0x0BF2BF50>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ChangeSlot,		<cyfunction PetInformationWindow.ChangeSlot at 0x09984818>
+ChangeSlot,		<cyfunction PetInformationWindow.ChangeSlot at 0x0BF2C2F0>
 	arg0: self
 
 submodule.ChangeSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-DisableFlashButtonEvent,		<cyfunction PetInformationWindow.DisableFlashButtonEvent at 0x09983C38>
+DisableFlashButtonEvent,		<cyfunction PetInformationWindow.DisableFlashButtonEvent at 0x0BF2B710>
 	arg0: self
 	arg1: index
 
 submodule.DisableFlashButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__CantEvolFeedItem,		<cyfunction PetInformationWindow.__CantEvolFeedItem at 0x09984030>
+_PetInformationWindow__CantEvolFeedItem,		<cyfunction PetInformationWindow.__CantEvolFeedItem at 0x0BF2BAD8>
 	arg0: self
 	arg1: InvenSlot
 
 submodule._PetInformationWindow__CantEvolFeedItem
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetInven,		<cyfunction PetInformationWindow.SetInven at 0x09983D98>
+SetInven,		<cyfunction PetInformationWindow.SetInven at 0x0BF2B870>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction PetInformationWindow.OnTop at 0x09984A28>
+OnTop,		<cyfunction PetInformationWindow.OnTop at 0x0BF2C500>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__ShowToolTip,		<cyfunction PetInformationWindow.__ShowToolTip at 0x099849D0>
+_PetInformationWindow__ShowToolTip,		<cyfunction PetInformationWindow.__ShowToolTip at 0x0BF2C4A8>
 	arg0: self
 	arg1: slotIndex
 
@@ -643,22 +643,22 @@ feedIndex,		3
 submodule.feedIndex
 
 
-feedButton,		[<ui.ToggleButton object at 0x15FE69F0>, <ui.ToggleButton object at 0x15FE6A50>, <ui.ToggleButton object at 0x15FE6A90>]
+feedButton,		[<ui.ToggleButton object at 0x197649F0>, <ui.ToggleButton object at 0x19764A50>, <ui.ToggleButton object at 0x19764A90>]
 
 submodule.feedButton
 
 
-_PetInformationWindow__ClearSkillDeleteBookEvent,		<cyfunction PetInformationWindow.__ClearSkillDeleteBookEvent at 0x09982E48>
+_PetInformationWindow__ClearSkillDeleteBookEvent,		<cyfunction PetInformationWindow.__ClearSkillDeleteBookEvent at 0x0BF2A920>
 	arg0: self
 
 submodule._PetInformationWindow__ClearSkillDeleteBookEvent
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-Show,		<cyfunction PetInformationWindow.Show at 0x099824A8>
+Show,		<cyfunction PetInformationWindow.Show at 0x0BF29F50>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetExperience,		<cyfunction PetInformationWindow.SetExperience at 0x09983C90>
+SetExperience,		<cyfunction PetInformationWindow.SetExperience at 0x0BF2B768>
 	arg0: self
 	arg1: curPoint
 	arg2: maxPoint
@@ -667,12 +667,12 @@ SetExperience,		<cyfunction PetInformationWindow.SetExperience at 0x09983C90>
 
 submodule.SetExperience
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-AllOffPetInfoFlashEvent,		<cyfunction PetInformationWindow.AllOffPetInfoFlashEvent at 0x09983B88>
+AllOffPetInfoFlashEvent,		<cyfunction PetInformationWindow.AllOffPetInfoFlashEvent at 0x0BF2B660>
 	arg0: self
 
 submodule.AllOffPetInfoFlashEvent
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-IsActivateEvolButton,		<cyfunction PetInformationWindow.IsActivateEvolButton at 0x09983710>
+IsActivateEvolButton,		<cyfunction PetInformationWindow.IsActivateEvolButton at 0x0BF2B1E8>
 	arg0: self
 	arg1: pet_id
 
@@ -683,22 +683,22 @@ __qualname__,		PetInformationWindow
 submodule.__qualname__
 
 
-ClickFeedEvolButtonDown,		<cyfunction PetInformationWindow.ClickFeedEvolButtonDown at 0x09983558>
+ClickFeedEvolButtonDown,		<cyfunction PetInformationWindow.ClickFeedEvolButtonDown at 0x0BF2B030>
 	arg0: self
 
 submodule.ClickFeedEvolButtonDown
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction PetInformationWindow.OverOutItem at 0x09984920>
+OverOutItem,		<cyfunction PetInformationWindow.OverOutItem at 0x0BF2C3F8>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__SkillLearnQuestionDialogCancel,		<cyfunction PetInformationWindow.__SkillLearnQuestionDialogCancel at 0x099832F0>
+_PetInformationWindow__SkillLearnQuestionDialogCancel,		<cyfunction PetInformationWindow.__SkillLearnQuestionDialogCancel at 0x0BF2AD98>
 	arg0: self
 
 submodule._PetInformationWindow__SkillLearnQuestionDialogCancel
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__ClearSkillBookLearnEvent,		<cyfunction PetInformationWindow.__ClearSkillBookLearnEvent at 0x09983348>
+_PetInformationWindow__ClearSkillBookLearnEvent,		<cyfunction PetInformationWindow.__ClearSkillBookLearnEvent at 0x0BF2ADF0>
 	arg0: self
 
 submodule._PetInformationWindow__ClearSkillBookLearnEvent
@@ -713,7 +713,7 @@ __module__,		uiPetInfo
 submodule.__module__
 
 
-SelectItemSlot,		<cyfunction PetInformationWindow.SelectItemSlot at 0x09984500>
+SelectItemSlot,		<cyfunction PetInformationWindow.SelectItemSlot at 0x0BF2BFA8>
 	arg0: self
 	arg1: selectedSlotPos
 
@@ -724,39 +724,39 @@ evolInfo,		{0: 0, 1: 0, 2: 0, 3: 0}
 submodule.evolInfo
 
 
-ClickFeedLifeTimeButtonUp,		<cyfunction PetInformationWindow.ClickFeedLifeTimeButtonUp at 0x09983500>
+ClickFeedLifeTimeButtonUp,		<cyfunction PetInformationWindow.ClickFeedLifeTimeButtonUp at 0x0BF2AFA8>
 	arg0: self
 
 submodule.ClickFeedLifeTimeButtonUp
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__SkillUpgradeQuestionDialogCancel,		<cyfunction PetInformationWindow.__SkillUpgradeQuestionDialogCancel at 0x09982B88>
+_PetInformationWindow__SkillUpgradeQuestionDialogCancel,		<cyfunction PetInformationWindow.__SkillUpgradeQuestionDialogCancel at 0x0BF2A660>
 	arg0: self
 
 submodule._PetInformationWindow__SkillUpgradeQuestionDialogCancel
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction PetInformationWindow.Destroy at 0x09982608>
+Destroy,		<cyfunction PetInformationWindow.Destroy at 0x0BF2A0E0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClickPetFeedButton,		<cyfunction PetInformationWindow.ClickPetFeedButton at 0x09983768>
+ClickPetFeedButton,		<cyfunction PetInformationWindow.ClickPetFeedButton at 0x0BF2B240>
 	arg0: self
 	arg1: index
 
 submodule.ClickPetFeedButton
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClearStatus,		<cyfunction PetInformationWindow.ClearStatus at 0x09983978>
+ClearStatus,		<cyfunction PetInformationWindow.ClearStatus at 0x0BF2B450>
 	arg0: self
 
 submodule.ClearStatus
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OnPressedSkill1SlotButton,		<cyfunction PetInformationWindow.OnPressedSkill1SlotButton at 0x099828C8>
+OnPressedSkill1SlotButton,		<cyfunction PetInformationWindow.OnPressedSkill1SlotButton at 0x0BF2A3A0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OnPressedSkill1SlotButton
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__MakePopupDialog,		<cyfunction PetInformationWindow.__MakePopupDialog at 0x09982A28>
+_PetInformationWindow__MakePopupDialog,		<cyfunction PetInformationWindow.__MakePopupDialog at 0x0BF2A500>
 	arg0: self
 
 submodule._PetInformationWindow__MakePopupDialog
@@ -771,7 +771,7 @@ wndPetMiniInfo,		None
 submodule.wndPetMiniInfo
 
 
-OpenPetSkillUpGradeQuestionDialog,		<cyfunction PetInformationWindow.OpenPetSkillUpGradeQuestionDialog at 0x09982AD8>
+OpenPetSkillUpGradeQuestionDialog,		<cyfunction PetInformationWindow.OpenPetSkillUpGradeQuestionDialog at 0x0BF2A5B0>
 	arg0: self
 	arg1: slot
 	arg2: index
@@ -789,69 +789,69 @@ wndPetFeed,		None
 submodule.wndPetFeed
 
 
-SetSelectItemSlotEvent2,		<cyfunction PetInformationWindow.SetSelectItemSlotEvent2 at 0x09982C90>
+SetSelectItemSlotEvent2,		<cyfunction PetInformationWindow.SetSelectItemSlotEvent2 at 0x0BF2A768>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetSelectItemSlotEvent2
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetSelectItemSlotEvent3,		<cyfunction PetInformationWindow.SetSelectItemSlotEvent3 at 0x09982CE8>
+SetSelectItemSlotEvent3,		<cyfunction PetInformationWindow.SetSelectItemSlotEvent3 at 0x0BF2A7C0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetSelectItemSlotEvent3
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetSelectItemSlotEvent1,		<cyfunction PetInformationWindow.SetSelectItemSlotEvent1 at 0x09982C38>
+SetSelectItemSlotEvent1,		<cyfunction PetInformationWindow.SetSelectItemSlotEvent1 at 0x0BF2A710>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetSelectItemSlotEvent1
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__ClearSkillUpgradeEvnet,		<cyfunction PetInformationWindow.__ClearSkillUpgradeEvnet at 0x09982BE0>
+_PetInformationWindow__ClearSkillUpgradeEvnet,		<cyfunction PetInformationWindow.__ClearSkillUpgradeEvnet at 0x0BF2A6B8>
 	arg0: self
 
 submodule._PetInformationWindow__ClearSkillUpgradeEvnet
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverOutPetReviveSlot,		<cyfunction PetInformationWindow.OverOutPetReviveSlot at 0x09984FA8>
+OverOutPetReviveSlot,		<cyfunction PetInformationWindow.OverOutPetReviveSlot at 0x0BF2CA80>
 	arg0: self
 
 submodule.OverOutPetReviveSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-CantInvenSlot,		<cyfunction PetInformationWindow.CantInvenSlot at 0x09983818>
+CantInvenSlot,		<cyfunction PetInformationWindow.CantInvenSlot at 0x0BF2B2F0>
 	arg0: self
 	arg1: invenIndex
 
 submodule.CantInvenSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__SkillUpgradeQuestionDialogAccept,		<cyfunction PetInformationWindow.__SkillUpgradeQuestionDialogAccept at 0x09982B30>
+_PetInformationWindow__SkillUpgradeQuestionDialogAccept,		<cyfunction PetInformationWindow.__SkillUpgradeQuestionDialogAccept at 0x0BF2A608>
 	arg0: self
 
 submodule._PetInformationWindow__SkillUpgradeQuestionDialogAccept
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverInSkillSlot2,		<cyfunction PetInformationWindow.OverInSkillSlot2 at 0x09982EF8>
+OverInSkillSlot2,		<cyfunction PetInformationWindow.OverInSkillSlot2 at 0x0BF2A9D0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInSkillSlot2
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverInSkillSlot3,		<cyfunction PetInformationWindow.OverInSkillSlot3 at 0x09982F50>
+OverInSkillSlot3,		<cyfunction PetInformationWindow.OverInSkillSlot3 at 0x0BF2AA28>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInSkillSlot3
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverInSkillSlot1,		<cyfunction PetInformationWindow.OverInSkillSlot1 at 0x09982EA0>
+OverInSkillSlot1,		<cyfunction PetInformationWindow.OverInSkillSlot1 at 0x0BF2A978>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInSkillSlot1
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-Close,		<cyfunction PetInformationWindow.Close at 0x09982660>
+Close,		<cyfunction PetInformationWindow.Close at 0x0BF2A138>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-GetEvolInfo,		<cyfunction PetInformationWindow.GetEvolInfo at 0x099841E8>
+GetEvolInfo,		<cyfunction PetInformationWindow.GetEvolInfo at 0x0BF2BC90>
 	arg0: self
 	arg1: index
 
@@ -862,18 +862,18 @@ wndPetHatching,		None
 submodule.wndPetHatching
 
 
-PetFeedReuslt,		<cyfunction PetInformationWindow.PetFeedReuslt at 0x09984240>
+PetFeedReuslt,		<cyfunction PetInformationWindow.PetFeedReuslt at 0x0BF2BCE8>
 	arg0: self
 	arg1: result
 
 submodule.PetFeedReuslt
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__ClearPetReviveSlot,		<cyfunction PetInformationWindow.__ClearPetReviveSlot at 0x09984EA0>
+_PetInformationWindow__ClearPetReviveSlot,		<cyfunction PetInformationWindow.__ClearPetReviveSlot at 0x0BF2C978>
 	arg0: self
 
 submodule._PetInformationWindow__ClearPetReviveSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__CantLifeTimeFeedItem,		<cyfunction PetInformationWindow.__CantLifeTimeFeedItem at 0x09983FA8>
+_PetInformationWindow__CantLifeTimeFeedItem,		<cyfunction PetInformationWindow.__CantLifeTimeFeedItem at 0x0BF2BA80>
 	arg0: self
 	arg1: InvenSlot
 
@@ -884,20 +884,20 @@ attrChangeDialog,		None
 submodule.attrChangeDialog
 
 
-OverInPetSkillSlot,		<cyfunction PetInformationWindow.OverInPetSkillSlot at 0x09982FA8>
+OverInPetSkillSlot,		<cyfunction PetInformationWindow.OverInPetSkillSlot at 0x0BF2AA80>
 	arg0: self
 	arg1: slot
 	arg2: index
 
 submodule.OverInPetSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetPetChangeToolTip,		<cyfunction PetInformationWindow.SetPetChangeToolTip at 0x09984978>
+SetPetChangeToolTip,		<cyfunction PetInformationWindow.SetPetChangeToolTip at 0x0BF2C450>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetPetChangeToolTip
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__OpenPopupDialog,		<cyfunction PetInformationWindow.__OpenPopupDialog at 0x09982A80>
+_PetInformationWindow__OpenPopupDialog,		<cyfunction PetInformationWindow.__OpenPopupDialog at 0x0BF2A558>
 	arg0: self
 	arg1: str
 
@@ -908,12 +908,12 @@ SkillBookInvenIndex,		-1
 submodule.SkillBookInvenIndex
 
 
-OnUpdate,		<cyfunction PetInformationWindow.OnUpdate at 0x099837C0>
+OnUpdate,		<cyfunction PetInformationWindow.OnUpdate at 0x0BF2B298>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetLifeTime,		<cyfunction PetInformationWindow.SetLifeTime at 0x09983CE8>
+SetLifeTime,		<cyfunction PetInformationWindow.SetLifeTime at 0x0BF2B7C0>
 	arg0: self
 	arg1: curPoint
 	arg2: maxPoint
@@ -925,38 +925,38 @@ VISIBLE_LINE_COUNT,		4
 submodule.VISIBLE_LINE_COUNT
 
 
-ClickDetermineButton,		<cyfunction PetInformationWindow.ClickDetermineButton at 0x099836B8>
+ClickDetermineButton,		<cyfunction PetInformationWindow.ClickDetermineButton at 0x0BF2B190>
 	arg0: self
 
 submodule.ClickDetermineButton
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__SkillLearnQuestionDialogAccept,		<cyfunction PetInformationWindow.__SkillLearnQuestionDialogAccept at 0x09983298>
+_PetInformationWindow__SkillLearnQuestionDialogAccept,		<cyfunction PetInformationWindow.__SkillLearnQuestionDialogAccept at 0x0BF2AD40>
 	arg0: self
 
 submodule._PetInformationWindow__SkillLearnQuestionDialogAccept
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__OnClosePopupDialog,		<cyfunction PetInformationWindow.__OnClosePopupDialog at 0x099827C0>
+_PetInformationWindow__OnClosePopupDialog,		<cyfunction PetInformationWindow.__OnClosePopupDialog at 0x0BF2A298>
 	arg0: self
 
 submodule._PetInformationWindow__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClickFeedEvolButtonUp,		<cyfunction PetInformationWindow.ClickFeedEvolButtonUp at 0x099835B0>
+ClickFeedEvolButtonUp,		<cyfunction PetInformationWindow.ClickFeedEvolButtonUp at 0x0BF2B088>
 	arg0: self
 
 submodule.ClickFeedEvolButtonUp
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetPrimiumFeedStuffNextDescriptionPage,		<cyfunction PetInformationWindow.PetPrimiumFeedStuffNextDescriptionPage at 0x09984B88>
+PetPrimiumFeedStuffNextDescriptionPage,		<cyfunction PetInformationWindow.PetPrimiumFeedStuffNextDescriptionPage at 0x0BF2C660>
 	arg0: self
 
 submodule.PetPrimiumFeedStuffNextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-EnableFlashButtonEvent,		<cyfunction PetInformationWindow.EnableFlashButtonEvent at 0x09983BE0>
+EnableFlashButtonEvent,		<cyfunction PetInformationWindow.EnableFlashButtonEvent at 0x0BF2B6B8>
 	arg0: self
 	arg1: index
 
 submodule.EnableFlashButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__LoadWindow,		<cyfunction PetInformationWindow.__LoadWindow at 0x099825B0>
+_PetInformationWindow__LoadWindow,		<cyfunction PetInformationWindow.__LoadWindow at 0x0BF2A088>
 	arg0: self
 
 submodule._PetInformationWindow__LoadWindow
@@ -966,54 +966,54 @@ SkillBookSlotIndex,		-1
 submodule.SkillBookSlotIndex
 
 
-PetPrimiumFeedStuffPrevDescriptionPage,		<cyfunction PetInformationWindow.PetPrimiumFeedStuffPrevDescriptionPage at 0x09984B30>
+PetPrimiumFeedStuffPrevDescriptionPage,		<cyfunction PetInformationWindow.PetPrimiumFeedStuffPrevDescriptionPage at 0x0BF2C608>
 	arg0: self
 
 submodule.PetPrimiumFeedStuffPrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverInPetReviveResultSlot,		<cyfunction PetInformationWindow.OverInPetReviveResultSlot at 0x09985030>
+OverInPetReviveResultSlot,		<cyfunction PetInformationWindow.OverInPetReviveResultSlot at 0x0BF2CAD8>
 	arg0: self
 
 submodule.OverInPetReviveResultSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClickPetReviveButton,		<cyfunction PetInformationWindow.ClickPetReviveButton at 0x099851E8>
+ClickPetReviveButton,		<cyfunction PetInformationWindow.ClickPetReviveButton at 0x0BF2CC90>
 	arg0: self
 
 submodule.ClickPetReviveButton
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-CantFeedItem,		<cyfunction PetInformationWindow.CantFeedItem at 0x09983F50>
+CantFeedItem,		<cyfunction PetInformationWindow.CantFeedItem at 0x0BF2BA28>
 	arg0: self
 	arg1: InvenSlot
 
 submodule.CantFeedItem
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OnPressedSkillSlotButton,		<cyfunction PetInformationWindow.OnPressedSkillSlotButton at 0x099829D0>
+OnPressedSkillSlotButton,		<cyfunction PetInformationWindow.OnPressedSkillSlotButton at 0x0BF2A4A8>
 	arg0: self
 	arg1: slotPos
 	arg2: slotIndex
 
 submodule.OnPressedSkillSlotButton
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__GetEvolName,		<cyfunction PetInformationWindow.__GetEvolName at 0x09983920>
+_PetInformationWindow__GetEvolName,		<cyfunction PetInformationWindow.__GetEvolName at 0x0BF2B3F8>
 	arg0: self
 	arg1: evol_level
 
 submodule._PetInformationWindow__GetEvolName
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-RemoveItemSlot,		<cyfunction PetInformationWindow.RemoveItemSlot at 0x09984558>
+RemoveItemSlot,		<cyfunction PetInformationWindow.RemoveItemSlot at 0x0BF2C030>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.RemoveItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetFeedToggleButtonUpAll,		<cyfunction PetInformationWindow.PetFeedToggleButtonUpAll at 0x09983450>
+PetFeedToggleButtonUpAll,		<cyfunction PetInformationWindow.PetFeedToggleButtonUpAll at 0x0BF2AEF8>
 	arg0: self
 	arg1: exclusion_index
 	default: 3
 
 submodule.PetFeedToggleButtonUpAll
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-IsFilledAllSlots,		<cyfunction PetInformationWindow.IsFilledAllSlots at 0x099847C0>
+IsFilledAllSlots,		<cyfunction PetInformationWindow.IsFilledAllSlots at 0x0BF2C298>
 	arg0: self
 
 submodule.IsFilledAllSlots
@@ -1023,117 +1023,117 @@ __doc__,		None
 submodule.__doc__
 
 
-_PetInformationWindow__OnClickTabButton,		<cyfunction PetInformationWindow.__OnClickTabButton at 0x09984298>
+_PetInformationWindow__OnClickTabButton,		<cyfunction PetInformationWindow.__OnClickTabButton at 0x0BF2BD40>
 	arg0: self
 	arg1: stateKey
 
 submodule._PetInformationWindow__OnClickTabButton
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__CantAttachToPetReviveSlot,		<cyfunction PetInformationWindow.__CantAttachToPetReviveSlot at 0x09984D40>
+_PetInformationWindow__CantAttachToPetReviveSlot,		<cyfunction PetInformationWindow.__CantAttachToPetReviveSlot at 0x0BF2C818>
 	arg0: self
 	arg1: inven_slot
 
 submodule._PetInformationWindow__CantAttachToPetReviveSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__SkillDeleteQuestionDialogCancel,		<cyfunction PetInformationWindow.__SkillDeleteQuestionDialogCancel at 0x09982DF0>
+_PetInformationWindow__SkillDeleteQuestionDialogCancel,		<cyfunction PetInformationWindow.__SkillDeleteQuestionDialogCancel at 0x0BF2A8C8>
 	arg0: self
 
 submodule._PetInformationWindow__SkillDeleteQuestionDialogCancel
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClickPetReviveCancelButton,		<cyfunction PetInformationWindow.ClickPetReviveCancelButton at 0x09985240>
+ClickPetReviveCancelButton,		<cyfunction PetInformationWindow.ClickPetReviveCancelButton at 0x0BF2CCE8>
 	arg0: self
 
 submodule.ClickPetReviveCancelButton
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClickFeedLifeTimeButtonDown,		<cyfunction PetInformationWindow.ClickFeedLifeTimeButtonDown at 0x099834A8>
+ClickFeedLifeTimeButtonDown,		<cyfunction PetInformationWindow.ClickFeedLifeTimeButtonDown at 0x0BF2AF50>
 	arg0: self
 
 submodule.ClickFeedLifeTimeButtonDown
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OnPressedSkill3SlotButton,		<cyfunction PetInformationWindow.OnPressedSkill3SlotButton at 0x09982978>
+OnPressedSkill3SlotButton,		<cyfunction PetInformationWindow.OnPressedSkill3SlotButton at 0x0BF2A450>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OnPressedSkill3SlotButton
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-GetPetHatchingWindow,		<cyfunction PetInformationWindow.GetPetHatchingWindow at 0x09983E48>
+GetPetHatchingWindow,		<cyfunction PetInformationWindow.GetPetHatchingWindow at 0x0BF2B920>
 	arg0: self
 
 submodule.GetPetHatchingWindow
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-RefreshStatus,		<cyfunction PetInformationWindow.RefreshStatus at 0x099838C8>
+RefreshStatus,		<cyfunction PetInformationWindow.RefreshStatus at 0x0BF2B3A0>
 	arg0: self
 
 submodule.RefreshStatus
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OnPetInfoFlashEvent,		<cyfunction PetInformationWindow.OnPetInfoFlashEvent at 0x09983B30>
+OnPetInfoFlashEvent,		<cyfunction PetInformationWindow.OnPetInfoFlashEvent at 0x0BF2B608>
 	arg0: self
 	arg1: index
 
 submodule.OnPetInfoFlashEvent
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-GetPetFeedWindow,		<cyfunction PetInformationWindow.GetPetFeedWindow at 0x09983EF8>
+GetPetFeedWindow,		<cyfunction PetInformationWindow.GetPetFeedWindow at 0x0BF2B9D0>
 	arg0: self
 
 submodule.GetPetFeedWindow
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-CantAttachToPetAttrChangeSlot,		<cyfunction PetInformationWindow.CantAttachToPetAttrChangeSlot at 0x09984450>
+CantAttachToPetAttrChangeSlot,		<cyfunction PetInformationWindow.CantAttachToPetAttrChangeSlot at 0x0BF2BEF8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.CantAttachToPetAttrChangeSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectEmptySkillSlot3,		<cyfunction PetInformationWindow.SelectEmptySkillSlot3 at 0x099831E8>
+SelectEmptySkillSlot3,		<cyfunction PetInformationWindow.SelectEmptySkillSlot3 at 0x0BF2AC90>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SelectEmptySkillSlot3
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectEmptySkillSlot2,		<cyfunction PetInformationWindow.SelectEmptySkillSlot2 at 0x09983190>
+SelectEmptySkillSlot2,		<cyfunction PetInformationWindow.SelectEmptySkillSlot2 at 0x0BF2AC38>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SelectEmptySkillSlot2
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectEmptySkillSlot1,		<cyfunction PetInformationWindow.SelectEmptySkillSlot1 at 0x09983138>
+SelectEmptySkillSlot1,		<cyfunction PetInformationWindow.SelectEmptySkillSlot1 at 0x0BF2ABE0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SelectEmptySkillSlot1
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectPetReviveEmptySlot,		<cyfunction PetInformationWindow.SelectPetReviveEmptySlot at 0x09984C38>
+SelectPetReviveEmptySlot,		<cyfunction PetInformationWindow.SelectPetReviveEmptySlot at 0x0BF2C710>
 	arg0: self
 	arg1: slot_index
 
 submodule.SelectPetReviveEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetSpecialEvolFlashEventCheck,		<cyfunction PetInformationWindow.PetSpecialEvolFlashEventCheck at 0x09983A28>
+PetSpecialEvolFlashEventCheck,		<cyfunction PetInformationWindow.PetSpecialEvolFlashEventCheck at 0x0BF2B500>
 	arg0: self
 	arg1: evol_level
 	arg2: birthSec
 
 submodule.PetSpecialEvolFlashEventCheck
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-StringDependOnType,		<cyfunction PetInformationWindow.StringDependOnType at 0x09982768>
+StringDependOnType,		<cyfunction PetInformationWindow.StringDependOnType at 0x0BF2A240>
 	arg0: self
 	arg1: byType
 
 submodule.StringDependOnType
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetAttrChangeResult,		<cyfunction PetInformationWindow.PetAttrChangeResult at 0x099843A0>
+PetAttrChangeResult,		<cyfunction PetInformationWindow.PetAttrChangeResult at 0x0BF2BE48>
 	arg0: self
 	arg1: slotIndex
 	arg2: byType
 
 submodule.PetAttrChangeResult
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetPetWindowType,		<cyfunction PetInformationWindow.SetPetWindowType at 0x099842F0>
+SetPetWindowType,		<cyfunction PetInformationWindow.SetPetWindowType at 0x0BF2BD98>
 	arg0: self
 	arg1: pet_window_type
 
 submodule.SetPetWindowType
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectPetReviveMaterialEmptySlot,		<cyfunction PetInformationWindow.SelectPetReviveMaterialEmptySlot at 0x099850E0>
+SelectPetReviveMaterialEmptySlot,		<cyfunction PetInformationWindow.SelectPetReviveMaterialEmptySlot at 0x0BF2CB88>
 	arg0: self
 	arg1: slot_index
 
@@ -1144,7 +1144,7 @@ wndPetNameChange,		None
 submodule.wndPetNameChange
 
 
-AttachItemToSelectSlot,		<cyfunction PetInformationWindow.AttachItemToSelectSlot at 0x09984768>
+AttachItemToSelectSlot,		<cyfunction PetInformationWindow.AttachItemToSelectSlot at 0x0BF2C240>
 	arg0: self
 	arg1: selectSlot
 	arg2: slotType
@@ -1152,7 +1152,7 @@ AttachItemToSelectSlot,		<cyfunction PetInformationWindow.AttachItemToSelectSlot
 
 submodule.AttachItemToSelectSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-RefreshCantMouseEventSlot,		<cyfunction PetInformationWindow.RefreshCantMouseEventSlot at 0x099843F8>
+RefreshCantMouseEventSlot,		<cyfunction PetInformationWindow.RefreshCantMouseEventSlot at 0x0BF2BEA0>
 	arg0: self
 
 submodule.RefreshCantMouseEventSlot
@@ -1162,31 +1162,31 @@ tooltipPetChange,		None
 submodule.tooltipPetChange
 
 
-_PetInformationWindow__ClearPetReviveMaterialSlot,		<cyfunction PetInformationWindow.__ClearPetReviveMaterialSlot at 0x09984EF8>
+_PetInformationWindow__ClearPetReviveMaterialSlot,		<cyfunction PetInformationWindow.__ClearPetReviveMaterialSlot at 0x0BF2C9D0>
 	arg0: self
 
 submodule._PetInformationWindow__ClearPetReviveMaterialSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetEvolInfo,		<cyfunction PetInformationWindow.PetEvolInfo at 0x09984190>
+PetEvolInfo,		<cyfunction PetInformationWindow.PetEvolInfo at 0x0BF2BC38>
 	arg0: self
 	arg1: index
 	arg2: value
 
 submodule.PetEvolInfo
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SelectPetReviveItemSlot,		<cyfunction PetInformationWindow.SelectPetReviveItemSlot at 0x09984DF0>
+SelectPetReviveItemSlot,		<cyfunction PetInformationWindow.SelectPetReviveItemSlot at 0x0BF2C8C8>
 	arg0: self
 	arg1: slot_index
 
 submodule.SelectPetReviveItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetAttrDetermineResult,		<cyfunction PetInformationWindow.PetAttrDetermineResult at 0x09982710>
+PetAttrDetermineResult,		<cyfunction PetInformationWindow.PetAttrDetermineResult at 0x0BF2A1E8>
 	arg0: self
 	arg1: byType
 
 submodule.PetAttrDetermineResult
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-AttachItemToSelectSlotWithOtherSlot,		<cyfunction PetInformationWindow.AttachItemToSelectSlotWithOtherSlot at 0x099846B8>
+AttachItemToSelectSlotWithOtherSlot,		<cyfunction PetInformationWindow.AttachItemToSelectSlotWithOtherSlot at 0x0BF2C190>
 	arg0: self
 	arg1: selectSlot
 	arg2: slotType
@@ -1194,7 +1194,7 @@ AttachItemToSelectSlotWithOtherSlot,		<cyfunction PetInformationWindow.AttachIte
 
 submodule.AttachItemToSelectSlotWithOtherSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-CantAttachToPetPrimiumFeedStuff,		<cyfunction PetInformationWindow.CantAttachToPetPrimiumFeedStuff at 0x09984CE8>
+CantAttachToPetPrimiumFeedStuff,		<cyfunction PetInformationWindow.CantAttachToPetPrimiumFeedStuff at 0x0BF2C7C0>
 	arg0: self
 	arg1: inven_slot
 
@@ -1205,33 +1205,33 @@ tabButtonDict,		None
 submodule.tabButtonDict
 
 
-__init__,		<cyfunction PetInformationWindow.__init__ at 0x099823F8>
+__init__,		<cyfunction PetInformationWindow.__init__ at 0x0BF29EA0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetFlashEvent,		<cyfunction PetInformationWindow.PetFlashEvent at 0x09983AD8>
+PetFlashEvent,		<cyfunction PetInformationWindow.PetFlashEvent at 0x0BF2B5B0>
 	arg0: self
 	arg1: index
 
 submodule.PetFlashEvent
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetAffectShowerRefresh,		<cyfunction PetInformationWindow.PetAffectShowerRefresh at 0x099839D0>
+PetAffectShowerRefresh,		<cyfunction PetInformationWindow.PetAffectShowerRefresh at 0x0BF2B4A8>
 	arg0: self
 
 submodule.PetAffectShowerRefresh
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverOutSkillSlot2,		<cyfunction PetInformationWindow.OverOutSkillSlot2 at 0x09983088>
+OverOutSkillSlot2,		<cyfunction PetInformationWindow.OverOutSkillSlot2 at 0x0BF2AB30>
 	arg0: self
 
 submodule.OverOutSkillSlot2
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverOutSkillSlot3,		<cyfunction PetInformationWindow.OverOutSkillSlot3 at 0x099830E0>
+OverOutSkillSlot3,		<cyfunction PetInformationWindow.OverOutSkillSlot3 at 0x0BF2AB88>
 	arg0: self
 
 submodule.OverOutSkillSlot3
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverOutSkillSlot1,		<cyfunction PetInformationWindow.OverOutSkillSlot1 at 0x09983030>
+OverOutSkillSlot1,		<cyfunction PetInformationWindow.OverOutSkillSlot1 at 0x0BF2AAD8>
 	arg0: self
 
 submodule.OverOutSkillSlot1
@@ -1241,40 +1241,40 @@ tooltipItem,		None
 submodule.tooltipItem
 
 
-BindInterfaceClass,		<cyfunction PetInformationWindow.BindInterfaceClass at 0x09982558>
+BindInterfaceClass,		<cyfunction PetInformationWindow.BindInterfaceClass at 0x0BF2A030>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterfaceClass
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction PetInformationWindow.__del__ at 0x09982450>
+__del__,		<cyfunction PetInformationWindow.__del__ at 0x0BF29EF8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClickFeedExpButtonUp,		<cyfunction PetInformationWindow.ClickFeedExpButtonUp at 0x09983660>
+ClickFeedExpButtonUp,		<cyfunction PetInformationWindow.ClickFeedExpButtonUp at 0x0BF2B138>
 	arg0: self
 
 submodule.ClickFeedExpButtonUp
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__CantExpFeedItem,		<cyfunction PetInformationWindow.__CantExpFeedItem at 0x09984088>
+_PetInformationWindow__CantExpFeedItem,		<cyfunction PetInformationWindow.__CantExpFeedItem at 0x0BF2BB30>
 	arg0: self
 	arg1: InvenSlot
 
 submodule._PetInformationWindow__CantExpFeedItem
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetPetSkillToolTip,		<cyfunction PetInformationWindow.SetPetSkillToolTip at 0x09984138>
+SetPetSkillToolTip,		<cyfunction PetInformationWindow.SetPetSkillToolTip at 0x0BF2BBE0>
 	arg0: self
 	arg1: tooltipPetSkill
 
 submodule.SetPetSkillToolTip
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClearSlot,		<cyfunction PetInformationWindow.ClearSlot at 0x099845B0>
+ClearSlot,		<cyfunction PetInformationWindow.ClearSlot at 0x0BF2C088>
 	arg0: self
 
 submodule.ClearSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-skillSlot,		[<ui.SlotWindow object at 0x15FE6CF0>, <ui.SlotWindow object at 0x15FE6D10>, <ui.SlotWindow object at 0x15FE6D30>]
+skillSlot,		[<ui.SlotWindow object at 0x19764D10>, <ui.SlotWindow object at 0x19764D30>, <ui.SlotWindow object at 0x19764D50>]
 
 submodule.skillSlot
 
@@ -1284,30 +1284,30 @@ DESC_WIDTH_COUNT,		50
 submodule.DESC_WIDTH_COUNT
 
 
-_PetInformationWindow__LoadScript,		<cyfunction PetInformationWindow.__LoadScript at 0x099833F8>
+_PetInformationWindow__LoadScript,		<cyfunction PetInformationWindow.__LoadScript at 0x0BF2AEA0>
 	arg0: self
 	arg1: fileName
 
 submodule._PetInformationWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__CantAttachToPetReviveMaterialSlot,		<cyfunction PetInformationWindow.__CantAttachToPetReviveMaterialSlot at 0x09984D98>
+_PetInformationWindow__CantAttachToPetReviveMaterialSlot,		<cyfunction PetInformationWindow.__CantAttachToPetReviveMaterialSlot at 0x0BF2C870>
 	arg0: self
 	arg1: inven_slot
 
 submodule._PetInformationWindow__CantAttachToPetReviveMaterialSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-ClickFeedExpButtonDown,		<cyfunction PetInformationWindow.ClickFeedExpButtonDown at 0x09983608>
+ClickFeedExpButtonDown,		<cyfunction PetInformationWindow.ClickFeedExpButtonDown at 0x0BF2B0E0>
 	arg0: self
 
 submodule.ClickFeedExpButtonDown
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__AttachPetReviveSlot,		<cyfunction PetInformationWindow.__AttachPetReviveSlot at 0x09984C90>
+_PetInformationWindow__AttachPetReviveSlot,		<cyfunction PetInformationWindow.__AttachPetReviveSlot at 0x0BF2C768>
 	arg0: self
 	arg1: slot_index
 
 submodule._PetInformationWindow__AttachPetReviveSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OverInPetReviveSlot,		<cyfunction PetInformationWindow.OverInPetReviveSlot at 0x09984F50>
+OverInPetReviveSlot,		<cyfunction PetInformationWindow.OverInPetReviveSlot at 0x0BF2CA28>
 	arg0: self
 	arg1: slot_index
 
@@ -1318,58 +1318,58 @@ inven,		None
 submodule.inven
 
 
-_PetInformationWindow__SkillDeleteQuestionDialogAccept,		<cyfunction PetInformationWindow.__SkillDeleteQuestionDialogAccept at 0x09982D98>
+_PetInformationWindow__SkillDeleteQuestionDialogAccept,		<cyfunction PetInformationWindow.__SkillDeleteQuestionDialogAccept at 0x0BF2A870>
 	arg0: self
 
 submodule._PetInformationWindow__SkillDeleteQuestionDialogAccept
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PetInformationWindow.OnPressEscapeKey at 0x099833A0>
+OnPressEscapeKey,		<cyfunction PetInformationWindow.OnPressEscapeKey at 0x0BF2AE48>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-_PetInformationWindow__ShowPetPrimiumFeedstuffDescBox,		<cyfunction PetInformationWindow.__ShowPetPrimiumFeedstuffDescBox at 0x09984AD8>
+_PetInformationWindow__ShowPetPrimiumFeedstuffDescBox,		<cyfunction PetInformationWindow.__ShowPetPrimiumFeedstuffDescBox at 0x0BF2C5B0>
 	arg0: self
 
 submodule._PetInformationWindow__ShowPetPrimiumFeedstuffDescBox
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction PetInformationWindow.SetItemToolTip at 0x09983D40>
+SetItemToolTip,		<cyfunction PetInformationWindow.SetItemToolTip at 0x0BF2B818>
 	arg0: self
 	arg1: tooltipItem
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-SetSelectItemSlotEvent,		<cyfunction PetInformationWindow.SetSelectItemSlotEvent at 0x09982D40>
+SetSelectItemSlotEvent,		<cyfunction PetInformationWindow.SetSelectItemSlotEvent at 0x0BF2A818>
 	arg0: self
 	arg1: skillSlotIndex
 
 submodule.SetSelectItemSlotEvent
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-IsFeedWindowOpen,		<cyfunction PetInformationWindow.IsFeedWindowOpen at 0x09983DF0>
+IsFeedWindowOpen,		<cyfunction PetInformationWindow.IsFeedWindowOpen at 0x0BF2B8C8>
 	arg0: self
 
 submodule.IsFeedWindowOpen
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-AttachToPetAttrChangeSlot,		<cyfunction PetInformationWindow.AttachToPetAttrChangeSlot at 0x09984660>
+AttachToPetAttrChangeSlot,		<cyfunction PetInformationWindow.AttachToPetAttrChangeSlot at 0x0BF2C138>
 	arg0: self
 	arg1: slotType
 	arg2: slotIndex
 
 submodule.AttachToPetAttrChangeSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-OKSlot,		<cyfunction PetInformationWindow.OKSlot at 0x09984870>
+OKSlot,		<cyfunction PetInformationWindow.OKSlot at 0x0BF2C348>
 	arg0: self
 
 submodule.OKSlot
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-AttachToPetPrimiumFeedStuff,		<cyfunction PetInformationWindow.AttachToPetPrimiumFeedStuff at 0x09984BE0>
+AttachToPetPrimiumFeedStuff,		<cyfunction PetInformationWindow.AttachToPetPrimiumFeedStuff at 0x0BF2C6B8>
 	arg0: self
 	arg1: slot_window
 	arg2: inven_slot
 
 submodule.AttachToPetPrimiumFeedStuff
 Skipped: unbound method cython_function_or_method object must be called with PetInformationWindow instance as first argument (got nothing instead)
-PetLifeTimeFlashEventCheck,		<cyfunction PetInformationWindow.PetLifeTimeFlashEventCheck at 0x09983A80>
+PetLifeTimeFlashEventCheck,		<cyfunction PetInformationWindow.PetLifeTimeFlashEventCheck at 0x0BF2B558>
 	arg0: self
 	arg1: lifeTime
 
@@ -1378,28 +1378,28 @@ Skipped: unbound method cython_function_or_method object must be called with Pet
 
 
 class PetNameChangeWindow:
-ClickNameChangeButton,		<cyfunction PetNameChangeWindow.ClickNameChangeButton at 0x09981450>
+ClickNameChangeButton,		<cyfunction PetNameChangeWindow.ClickNameChangeButton at 0x0BF27EF8>
 	arg0: self
 
 submodule.ClickNameChangeButton
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-_PetNameChangeWindow__MakePopupDialog,		<cyfunction PetNameChangeWindow.__MakePopupDialog at 0x099813F8>
+_PetNameChangeWindow__MakePopupDialog,		<cyfunction PetNameChangeWindow.__MakePopupDialog at 0x0BF27EA0>
 	arg0: self
 
 submodule._PetNameChangeWindow__MakePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-_PetNameChangeWindow__MakeQuestionDialog,		<cyfunction PetNameChangeWindow.__MakeQuestionDialog at 0x099813A0>
+_PetNameChangeWindow__MakeQuestionDialog,		<cyfunction PetNameChangeWindow.__MakeQuestionDialog at 0x0BF27E48>
 	arg0: self
 
 submodule._PetNameChangeWindow__MakeQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction PetNameChangeWindow.OverInItem at 0x09981500>
+OverInItem,		<cyfunction PetNameChangeWindow.OverInItem at 0x0BF27FA8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-PetNameChangeWindowCommand,		<cyfunction PetNameChangeWindow.PetNameChangeWindowCommand at 0x09981818>
+PetNameChangeWindowCommand,		<cyfunction PetNameChangeWindow.PetNameChangeWindowCommand at 0x0BF292F0>
 	arg0: self
 	arg1: command
 	arg2: srcWindow
@@ -1414,65 +1414,65 @@ __module__,		uiPetInfo
 submodule.__module__
 
 
-_PetNameChangeWindow__NameChangeQuestionDialogCancel,		<cyfunction PetNameChangeWindow.__NameChangeQuestionDialogCancel at 0x09981768>
+_PetNameChangeWindow__NameChangeQuestionDialogCancel,		<cyfunction PetNameChangeWindow.__NameChangeQuestionDialogCancel at 0x0BF29240>
 	arg0: self
 
 submodule._PetNameChangeWindow__NameChangeQuestionDialogCancel
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-_PetNameChangeWindow__OpenNameChangeQuestionDialog,		<cyfunction PetNameChangeWindow.__OpenNameChangeQuestionDialog at 0x099816B8>
+_PetNameChangeWindow__OpenNameChangeQuestionDialog,		<cyfunction PetNameChangeWindow.__OpenNameChangeQuestionDialog at 0x0BF29190>
 	arg0: self
 
 submodule._PetNameChangeWindow__OpenNameChangeQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction PetNameChangeWindow.Destroy at 0x09981298>
+Destroy,		<cyfunction PetNameChangeWindow.Destroy at 0x0BF27D40>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-ClearMouseEventItem,		<cyfunction PetNameChangeWindow.ClearMouseEventItem at 0x099815B0>
+ClearMouseEventItem,		<cyfunction PetNameChangeWindow.ClearMouseEventItem at 0x0BF29088>
 	arg0: self
 
 submodule.ClearMouseEventItem
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-_PetNameChangeWindow__OpenPopupDialog,		<cyfunction PetNameChangeWindow.__OpenPopupDialog at 0x099817C0>
+_PetNameChangeWindow__OpenPopupDialog,		<cyfunction PetNameChangeWindow.__OpenPopupDialog at 0x0BF29298>
 	arg0: self
 	arg1: str
 
 submodule._PetNameChangeWindow__OpenPopupDialog
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction PetNameChangeWindow.__init__ at 0x09981138>
+__init__,		<cyfunction PetNameChangeWindow.__init__ at 0x0BF27BE0>
 	arg0: self
 	arg1: wndPetInformation
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-OnMouseLeftButtonUpEvent,		<cyfunction PetNameChangeWindow.OnMouseLeftButtonUpEvent at 0x099814A8>
+OnMouseLeftButtonUpEvent,		<cyfunction PetNameChangeWindow.OnMouseLeftButtonUpEvent at 0x0BF27F50>
 	arg0: self
 
 submodule.OnMouseLeftButtonUpEvent
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PetNameChangeWindow.OnUpdate at 0x09981608>
+OnUpdate,		<cyfunction PetNameChangeWindow.OnUpdate at 0x0BF290E0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-Show,		<cyfunction PetNameChangeWindow.Show at 0x099811E8>
+Show,		<cyfunction PetNameChangeWindow.Show at 0x0BF27C90>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-_PetNameChangeWindow__LoadWindow,		<cyfunction PetNameChangeWindow.__LoadWindow at 0x099812F0>
+_PetNameChangeWindow__LoadWindow,		<cyfunction PetNameChangeWindow.__LoadWindow at 0x0BF27D98>
 	arg0: self
 
 submodule._PetNameChangeWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-_PetNameChangeWindow__LoadScript,		<cyfunction PetNameChangeWindow.__LoadScript at 0x09981348>
+_PetNameChangeWindow__LoadScript,		<cyfunction PetNameChangeWindow.__LoadScript at 0x0BF27DF0>
 	arg0: self
 	arg1: fileName
 
 submodule._PetNameChangeWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-NameChangeWindowOpen,		<cyfunction PetNameChangeWindow.NameChangeWindowOpen at 0x09981660>
+NameChangeWindowOpen,		<cyfunction PetNameChangeWindow.NameChangeWindowOpen at 0x0BF29138>
 	arg0: self
 	arg1: srcSlotWindow
 	arg2: srcSlotIndex
@@ -1486,22 +1486,22 @@ __qualname__,		PetNameChangeWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction PetNameChangeWindow.__del__ at 0x09981190>
+__del__,		<cyfunction PetNameChangeWindow.__del__ at 0x0BF27C38>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction PetNameChangeWindow.OverOutItem at 0x09981558>
+OverOutItem,		<cyfunction PetNameChangeWindow.OverOutItem at 0x0BF29030>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-_PetNameChangeWindow__NameChangeQuestionDialogAccept,		<cyfunction PetNameChangeWindow.__NameChangeQuestionDialogAccept at 0x09981710>
+_PetNameChangeWindow__NameChangeQuestionDialogAccept,		<cyfunction PetNameChangeWindow.__NameChangeQuestionDialogAccept at 0x0BF291E8>
 	arg0: self
 
 submodule._PetNameChangeWindow__NameChangeQuestionDialogAccept
 Skipped: unbound method cython_function_or_method object must be called with PetNameChangeWindow instance as first argument (got nothing instead)
-Close,		<cyfunction PetNameChangeWindow.Close at 0x09981240>
+Close,		<cyfunction PetNameChangeWindow.Close at 0x0BF27CE8>
 	arg0: self
 
 submodule.Close
@@ -1524,17 +1524,17 @@ __module__,		uiPetInfo
 submodule.__module__
 
 
-OnRender,		<cyfunction TextToolTip.OnRender at 0x099853A0>
+OnRender,		<cyfunction TextToolTip.OnRender at 0x0BF2CE48>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with TextToolTip instance as first argument (got nothing instead)
-__del__,		<cyfunction TextToolTip.__del__ at 0x099852F0>
+__del__,		<cyfunction TextToolTip.__del__ at 0x0BF2CD98>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with TextToolTip instance as first argument (got nothing instead)
-SetText,		<cyfunction TextToolTip.SetText at 0x09985348>
+SetText,		<cyfunction TextToolTip.SetText at 0x0BF2CDF0>
 	arg0: self
 	arg1: text
 
@@ -1545,7 +1545,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction TextToolTip.__init__ at 0x09985298>
+__init__,		<cyfunction TextToolTip.__init__ at 0x0BF2CD40>
 	arg0: self
 
 submodule.__init__

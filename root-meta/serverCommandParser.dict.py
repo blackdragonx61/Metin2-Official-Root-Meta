@@ -26,6 +26,8 @@
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameYutnori'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MistsIsland'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MonsterBack'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__OtherWorld'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__OtherWorldEve'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__PartyMatchOff'},
                      {'args': ['self', 'line'], 'defaults': [], 'name': '__PreserveCommand'},
                      {'args': ['self'], 'defaults': [], 'name': '__ServerCommand_Build'},
@@ -48,4 +50,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x098A7890>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0BE7CF10>}]}

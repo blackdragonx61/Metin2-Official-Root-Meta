@@ -1,6 +1,6 @@
 {'Children': [],
  'ElementDictionary': {},
- 'hWnd': 759752728,
+ 'hWnd': 792711288,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,
  'overArgs': None,
@@ -8,6 +8,6 @@
  'overOutArgs': None,
  'overOutFunc': None,
  'parentWindow': 0,
- 'tooltipEnergy': <uiTaskBar.TextToolTip object at 0x28FEE490>,
+ 'tooltipEnergy': <uiTaskBar.TextToolTip object at 0x2C615E10>,
  'window_horizontal_align': 0,
  'window_vertical_align': 0}

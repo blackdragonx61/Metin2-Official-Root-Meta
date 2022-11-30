@@ -31,6 +31,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetPointApply'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetRefineLevel'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetRefinedVnum'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetTimePrintOnToolTip'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetUnlimitedSealDate'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetUseType'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetValue'},

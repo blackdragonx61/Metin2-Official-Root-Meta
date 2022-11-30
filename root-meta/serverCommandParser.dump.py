@@ -6,7 +6,7 @@ key: __package__, val: None
 key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: stringCommander, val: <module 'stringCommander' (built-in)>
 key: background, val: <module 'background' (built-in)>
-key: parserWnd, val: <serverCommandParser.ServerCommandParser object at 0x098A7890>
+key: parserWnd, val: <serverCommandParser.ServerCommandParser object at 0x0BE7CF10>
 key: __test__, val: {}
 key: __name__, val: serverCommandParser
 key: localeInfo, val: <module 'localeInfo' (built-in)>
@@ -14,13 +14,13 @@ key: __doc__, val: None
 
 
 class ServerCommandParser:
-_ServerCommandParser__XMasSnow_Enable,		<cyfunction ServerCommandParser.__XMasSnow_Enable at 0x098E0138>
+_ServerCommandParser__OtherWorldEve,		<cyfunction ServerCommandParser.__OtherWorldEve at 0x0BE876B8>
 	arg0: self
-	arg1: mode
+	arg1: enable
 
-submodule._ServerCommandParser__XMasSnow_Enable
+submodule._ServerCommandParser__OtherWorldEve
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__BattleFieldEventInfo,		<cyfunction ServerCommandParser.__BattleFieldEventInfo at 0x09895A80>
+_ServerCommandParser__BattleFieldEventInfo,		<cyfunction ServerCommandParser.__BattleFieldEventInfo at 0x0BE871E8>
 	arg0: self
 	arg1: enable
 	arg2: start
@@ -28,36 +28,42 @@ _ServerCommandParser__BattleFieldEventInfo,		<cyfunction ServerCommandParser.__B
 
 submodule._ServerCommandParser__BattleFieldEventInfo
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__FishEvent,		<cyfunction ServerCommandParser.__FishEvent at 0x09895B30>
+_ServerCommandParser__FishEvent,		<cyfunction ServerCommandParser.__FishEvent at 0x0BE87298>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__FishEvent
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__MiniGameBNW,		<cyfunction ServerCommandParser.__MiniGameBNW at 0x09895DF0>
+_ServerCommandParser__MiniGameBNW,		<cyfunction ServerCommandParser.__MiniGameBNW at 0x0BE87558>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__MiniGameBNW
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__LateSummerEvent,		<cyfunction ServerCommandParser.__LateSummerEvent at 0x09895D40>
+_ServerCommandParser__LateSummerEvent,		<cyfunction ServerCommandParser.__LateSummerEvent at 0x0BE874A8>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__LateSummerEvent
+Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
+_ServerCommandParser__XMasSnow_Enable,		<cyfunction ServerCommandParser.__XMasSnow_Enable at 0x0BE87920>
+	arg0: self
+	arg1: mode
+
+submodule._ServerCommandParser__XMasSnow_Enable
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
 __module__,		serverCommandParser
 
 submodule.__module__
 
 
-_ServerCommandParser__MiniGameOkeyNormalEvent,		<cyfunction ServerCommandParser.__MiniGameOkeyNormalEvent at 0x098958C8>
+_ServerCommandParser__MiniGameOkeyNormalEvent,		<cyfunction ServerCommandParser.__MiniGameOkeyNormalEvent at 0x0BE87030>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__MiniGameOkeyNormalEvent
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-PassGuildCommand,		<cyfunction ServerCommandParser.PassGuildCommand at 0x098956B8>
+PassGuildCommand,		<cyfunction ServerCommandParser.PassGuildCommand at 0x0BE1EDF0>
 	arg0: self
 
 submodule.PassGuildCommand
@@ -67,24 +73,24 @@ __dict__,		<attribute '__dict__' of 'ServerCommandParser' objects>
 submodule.__dict__
 
 
-_ServerCommandParser__MiniBossDungeon,		<cyfunction ServerCommandParser.__MiniBossDungeon at 0x09895CE8>
+_ServerCommandParser__MiniBossDungeon,		<cyfunction ServerCommandParser.__MiniBossDungeon at 0x0BE87450>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__MiniBossDungeon
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__MonsterBack,		<cyfunction ServerCommandParser.__MonsterBack at 0x09895870>
+_ServerCommandParser__MonsterBack,		<cyfunction ServerCommandParser.__MonsterBack at 0x0BE1EFA8>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__MonsterBack
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-__init__,		<cyfunction ServerCommandParser.__init__ at 0x09847A80>
+__init__,		<cyfunction ServerCommandParser.__init__ at 0x0BE1EA28>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__XMasTree_Enable,		<cyfunction ServerCommandParser.__XMasTree_Enable at 0x098E0190>
+_ServerCommandParser__XMasTree_Enable,		<cyfunction ServerCommandParser.__XMasTree_Enable at 0x0BE87978>
 	arg0: self
 	arg1: grade
 
@@ -95,25 +101,25 @@ __weakref__,		<attribute '__weakref__' of 'ServerCommandParser' objects>
 submodule.__weakref__
 
 
-_ServerCommandParser__MiniGameYutnori,		<cyfunction ServerCommandParser.__MiniGameYutnori at 0x09895C38>
+_ServerCommandParser__MiniGameYutnori,		<cyfunction ServerCommandParser.__MiniGameYutnori at 0x0BE873A0>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__MiniGameYutnori
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__DayMode_Update,		<cyfunction ServerCommandParser.__DayMode_Update at 0x098E0030>
+_ServerCommandParser__DayMode_Update,		<cyfunction ServerCommandParser.__DayMode_Update at 0x0BE87818>
 	arg0: self
 	arg1: mode
 
 submodule._ServerCommandParser__DayMode_Update
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-BINARY_ServerCommand_Run,		<cyfunction ServerCommandParser.BINARY_ServerCommand_Run at 0x09895F50>
+BINARY_ServerCommand_Run,		<cyfunction ServerCommandParser.BINARY_ServerCommand_Run at 0x0BE87768>
 	arg0: self
 	arg1: line
 
 submodule.BINARY_ServerCommand_Run
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__GuildSiteAuctionNotice,		<cyfunction ServerCommandParser.__GuildSiteAuctionNotice at 0x098E01E8>
+_ServerCommandParser__GuildSiteAuctionNotice,		<cyfunction ServerCommandParser.__GuildSiteAuctionNotice at 0x0BE879D0>
 	arg0: self
 	arg1: state
 	arg2: running_time
@@ -124,38 +130,38 @@ _ServerCommandParser__GuildSiteAuctionNotice,		<cyfunction ServerCommandParser._
 
 submodule._ServerCommandParser__GuildSiteAuctionNotice
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__GuildSiteTaxInfo,		<cyfunction ServerCommandParser.__GuildSiteTaxInfo at 0x098E0240>
+_ServerCommandParser__GuildSiteTaxInfo,		<cyfunction ServerCommandParser.__GuildSiteTaxInfo at 0x0BE87A28>
 	arg0: self
 	arg1: abndon_time
 	arg2: interval_sec
 
 submodule._ServerCommandParser__GuildSiteTaxInfo
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__MiniGameOkeyEvent,		<cyfunction ServerCommandParser.__MiniGameOkeyEvent at 0x098957C0>
+_ServerCommandParser__MiniGameOkeyEvent,		<cyfunction ServerCommandParser.__MiniGameOkeyEvent at 0x0BE1EEF8>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__MiniGameOkeyEvent
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__AutoOff,		<cyfunction ServerCommandParser.__AutoOff at 0x09895920>
+_ServerCommandParser__AutoOff,		<cyfunction ServerCommandParser.__AutoOff at 0x0BE87088>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__AutoOff
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__BattleFieldInfo,		<cyfunction ServerCommandParser.__BattleFieldInfo at 0x098959D0>
+_ServerCommandParser__BattleFieldInfo,		<cyfunction ServerCommandParser.__BattleFieldInfo at 0x0BE87138>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__BattleFieldInfo
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__ValentineEvent,		<cyfunction ServerCommandParser.__ValentineEvent at 0x09895818>
+_ServerCommandParser__ValentineEvent,		<cyfunction ServerCommandParser.__ValentineEvent at 0x0BE1EF50>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__ValentineEvent
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__BattleRoyale,		<cyfunction ServerCommandParser.__BattleRoyale at 0x09895E48>
+_ServerCommandParser__BattleRoyale,		<cyfunction ServerCommandParser.__BattleRoyale at 0x0BE875B0>
 	arg0: self
 	arg1: enable
 
@@ -166,77 +172,83 @@ __doc__,		None
 submodule.__doc__
 
 
-_ServerCommandParser__SummerEvent,		<cyfunction ServerCommandParser.__SummerEvent at 0x09895978>
+_ServerCommandParser__SummerEvent,		<cyfunction ServerCommandParser.__SummerEvent at 0x0BE870E0>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__SummerEvent
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__PartyMatchOff,		<cyfunction ServerCommandParser.__PartyMatchOff at 0x09895BE0>
+_ServerCommandParser__PartyMatchOff,		<cyfunction ServerCommandParser.__PartyMatchOff at 0x0BE87348>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__PartyMatchOff
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__ServerCommand_Build,		<cyfunction ServerCommandParser.__ServerCommand_Build at 0x098952F0>
+_ServerCommandParser__ServerCommand_Build,		<cyfunction ServerCommandParser.__ServerCommand_Build at 0x0BE1E1E8>
 	arg0: self
 
 submodule._ServerCommandParser__ServerCommand_Build
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__Halloween_box_event,		<cyfunction ServerCommandParser.__Halloween_box_event at 0x09895768>
+_ServerCommandParser__Halloween_box_event,		<cyfunction ServerCommandParser.__Halloween_box_event at 0x0BE1EEA0>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__Halloween_box_event
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__FlowerEvent,		<cyfunction ServerCommandParser.__FlowerEvent at 0x09895EF8>
+_ServerCommandParser__FlowerEvent,		<cyfunction ServerCommandParser.__FlowerEvent at 0x0BE87660>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__FlowerEvent
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__ItemMall_Open,		<cyfunction ServerCommandParser.__ItemMall_Open at 0x098E0088>
+_ServerCommandParser__OtherWorld,		<cyfunction ServerCommandParser.__OtherWorld at 0x0BE87710>
+	arg0: self
+	arg1: enable
+
+submodule._ServerCommandParser__OtherWorld
+Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
+_ServerCommandParser__ItemMall_Open,		<cyfunction ServerCommandParser.__ItemMall_Open at 0x0BE87870>
 	arg0: self
 
 submodule._ServerCommandParser__ItemMall_Open
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__2017RamaDanEvent,		<cyfunction ServerCommandParser.__2017RamaDanEvent at 0x09895B88>
+_ServerCommandParser__2017RamaDanEvent,		<cyfunction ServerCommandParser.__2017RamaDanEvent at 0x0BE872F0>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__2017RamaDanEvent
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__MistsIsland,		<cyfunction ServerCommandParser.__MistsIsland at 0x09895D98>
+_ServerCommandParser__MistsIsland,		<cyfunction ServerCommandParser.__MistsIsland at 0x0BE87500>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__MistsIsland
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__WorldBoss,		<cyfunction ServerCommandParser.__WorldBoss at 0x09895EA0>
+_ServerCommandParser__WorldBoss,		<cyfunction ServerCommandParser.__WorldBoss at 0x0BE87608>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__WorldBoss
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__PreserveCommand,		<cyfunction ServerCommandParser.__PreserveCommand at 0x09895FA8>
+_ServerCommandParser__PreserveCommand,		<cyfunction ServerCommandParser.__PreserveCommand at 0x0BE877C0>
 	arg0: self
 	arg1: line
 
 submodule._ServerCommandParser__PreserveCommand
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__MiniGameCatchKing,		<cyfunction ServerCommandParser.__MiniGameCatchKing at 0x09895C90>
+_ServerCommandParser__MiniGameCatchKing,		<cyfunction ServerCommandParser.__MiniGameCatchKing at 0x0BE873F8>
 	arg0: self
 	arg1: enable
 
 submodule._ServerCommandParser__MiniGameCatchKing
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__XMasBoom_Enable,		<cyfunction ServerCommandParser.__XMasBoom_Enable at 0x098E00E0>
+_ServerCommandParser__XMasBoom_Enable,		<cyfunction ServerCommandParser.__XMasBoom_Enable at 0x0BE878C8>
 	arg0: self
 	arg1: mode
 
 submodule._ServerCommandParser__XMasBoom_Enable
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-PassGuildDragonCommand,		<cyfunction ServerCommandParser.PassGuildDragonCommand at 0x09895710>
+PassGuildDragonCommand,		<cyfunction ServerCommandParser.PassGuildDragonCommand at 0x0BE1EE48>
 	arg0: self
 
 submodule.PassGuildDragonCommand
@@ -246,19 +258,19 @@ __qualname__,		ServerCommandParser
 submodule.__qualname__
 
 
-_ServerCommandParser__BattleFieldOpen,		<cyfunction ServerCommandParser.__BattleFieldOpen at 0x09895A28>
+_ServerCommandParser__BattleFieldOpen,		<cyfunction ServerCommandParser.__BattleFieldOpen at 0x0BE87190>
 	arg0: self
 	arg1: open
 
 submodule._ServerCommandParser__BattleFieldOpen
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-_ServerCommandParser__BattleFieldEventOpen,		<cyfunction ServerCommandParser.__BattleFieldEventOpen at 0x09895AD8>
+_ServerCommandParser__BattleFieldEventOpen,		<cyfunction ServerCommandParser.__BattleFieldEventOpen at 0x0BE87240>
 	arg0: self
 	arg1: open
 
 submodule._ServerCommandParser__BattleFieldEventOpen
 Skipped: unbound method cython_function_or_method object must be called with ServerCommandParser instance as first argument (got nothing instead)
-Guild_War_Check,		<cyfunction ServerCommandParser.Guild_War_Check at 0x09895660>
+Guild_War_Check,		<cyfunction ServerCommandParser.Guild_War_Check at 0x0BE1ED98>
 	arg0: self
 	arg1: enable
 

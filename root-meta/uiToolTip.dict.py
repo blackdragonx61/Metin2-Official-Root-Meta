@@ -76,6 +76,7 @@
                      {'args': ['self', 'invenType', 'invenPos', 'privateShopSlotIndex'], 'defaults': [], 'name': 'SetPrivateShopBuilderItem'},
                      {'args': ['self', 'item_vnum'], 'defaults': [], 'name': 'SetQuestItemToolTip'},
                      {'args': ['self', 'baseSlotIndex', 'materialSlotIndex', 'window_type'], 'defaults': [1], 'name': 'SetResulItemAttrMove'},
+                     {'args': ['self', 'item_vnum'], 'defaults': [], 'name': 'SetRouletteItem'},
                      {'args': ['self', 'slotIndex'], 'defaults': [], 'name': 'SetSafeBoxItem'},
                      {'args': ['self', 'slotIndex'], 'defaults': [], 'name': 'SetShopItem'},
                      {'args': ['self', 'slotIndex', 'cointype'], 'defaults': [], 'name': 'SetShopItemBySecondaryCoin'},

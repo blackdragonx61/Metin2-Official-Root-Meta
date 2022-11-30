@@ -20,7 +20,7 @@
  'bigpagecount': 1,
  'board': None,
  'buttontooltip': None,
- 'hWnd': 759759240,
+ 'hWnd': 792720792,
  'isGuildMember': False,
  'isLoaded': 0,
  'isSearchResult': False,
