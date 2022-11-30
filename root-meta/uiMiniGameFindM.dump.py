@@ -26,12 +26,12 @@ key: MiniGameFindM, val: <class 'uiMiniGameFindM.MiniGameFindM'>
 
 
 class FindMCard:
-SetEffect,		<cyfunction FindMCard.SetEffect at 0x0AF508C8>
+SetEffect,		<cyfunction FindMCard.SetEffect at 0x0C7656B8>
 	arg0: self
 
 submodule.SetEffect
 Skipped: unbound method cython_function_or_method object must be called with FindMCard instance as first argument (got nothing instead)
-__del__,		<cyfunction FindMCard.__del__ at 0x0AF506B8>
+__del__,		<cyfunction FindMCard.__del__ at 0x0C7654A8>
 	arg0: self
 
 submodule.__del__
@@ -61,12 +61,12 @@ __doc__,		None
 submodule.__doc__
 
 
-Initialize,		<cyfunction FindMCard.Initialize at 0x0AF50710>
+Initialize,		<cyfunction FindMCard.Initialize at 0x0C765500>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with FindMCard instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction FindMCard.LoadWindow at 0x0AF50768>
+LoadWindow,		<cyfunction FindMCard.LoadWindow at 0x0C765558>
 	arg0: self
 	arg1: parent
 	arg2: pos
@@ -76,18 +76,18 @@ LoadWindow,		<cyfunction FindMCard.LoadWindow at 0x0AF50768>
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with FindMCard instance as first argument (got nothing instead)
-GetCardVnum,		<cyfunction FindMCard.GetCardVnum at 0x0AF50818>
+GetCardVnum,		<cyfunction FindMCard.GetCardVnum at 0x0C765608>
 	arg0: self
 
 submodule.GetCardVnum
 Skipped: unbound method cython_function_or_method object must be called with FindMCard instance as first argument (got nothing instead)
-SetCard,		<cyfunction FindMCard.SetCard at 0x0AF507C0>
+SetCard,		<cyfunction FindMCard.SetCard at 0x0C7655B0>
 	arg0: self
 	arg1: vnum
 
 submodule.SetCard
 Skipped: unbound method cython_function_or_method object must be called with FindMCard instance as first argument (got nothing instead)
-__init__,		<cyfunction FindMCard.__init__ at 0x0AF50660>
+__init__,		<cyfunction FindMCard.__init__ at 0x0C765450>
 	arg0: self
 	arg1: parent
 	arg2: pos
@@ -98,7 +98,7 @@ __init__,		<cyfunction FindMCard.__init__ at 0x0AF50660>
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with FindMCard instance as first argument (got nothing instead)
-SetCardSelect,		<cyfunction FindMCard.SetCardSelect at 0x0AF50870>
+SetCardSelect,		<cyfunction FindMCard.SetCardSelect at 0x0C765660>
 	arg0: self
 	arg1: show
 	default: True
@@ -113,50 +113,50 @@ __module__,		uiMiniGameFindM
 submodule.__module__
 
 
-PrevDescriptionPage,		<cyfunction MiniGameFindMDescription.PrevDescriptionPage at 0x0AF504A8>
+PrevDescriptionPage,		<cyfunction MiniGameFindMDescription.PrevDescriptionPage at 0x0C765298>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameFindMDescription.__del__ at 0x0AF50190>
+__del__,		<cyfunction MiniGameFindMDescription.__del__ at 0x0C75FF50>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction MiniGameFindMDescription.BindControlWindow at 0x0AF501E8>
+BindControlWindow,		<cyfunction MiniGameFindMDescription.BindControlWindow at 0x0C75FFA8>
 	arg0: self
 	arg1: control_window
 
 submodule.BindControlWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-ClickStartButton,		<cyfunction MiniGameFindMDescription.ClickStartButton at 0x0AF50558>
+ClickStartButton,		<cyfunction MiniGameFindMDescription.ClickStartButton at 0x0C765348>
 	arg0: self
 
 submodule.ClickStartButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiMiniGameFindM.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction MiniGameFindMDescription.OnPressEscapeKey at 0x0AF503F8>
+OnPressEscapeKey,		<cyfunction MiniGameFindMDescription.OnPressEscapeKey at 0x0C7651E8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniGameFindMDescription.__init__ at 0x0AF50138>
+__init__,		<cyfunction MiniGameFindMDescription.__init__ at 0x0C75FEF8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MiniGameFindMDescription.OnUpdate at 0x0AF50450>
+OnUpdate,		<cyfunction MiniGameFindMDescription.OnUpdate at 0x0C765240>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-AcceptStart,		<cyfunction MiniGameFindMDescription.AcceptStart at 0x0AF505B0>
+AcceptStart,		<cyfunction MiniGameFindMDescription.AcceptStart at 0x0C7653A0>
 	arg0: self
 
 submodule.AcceptStart
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-OpenPopupMsg,		<cyfunction MiniGameFindMDescription.OpenPopupMsg at 0x0AF50240>
+OpenPopupMsg,		<cyfunction MiniGameFindMDescription.OpenPopupMsg at 0x0C765030>
 	arg0: self
 	arg1: msg
 
@@ -172,32 +172,32 @@ __qualname__,		MiniGameFindMDescription
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction MiniGameFindMDescription.NextDescriptionPage at 0x0AF50500>
+NextDescriptionPage,		<cyfunction MiniGameFindMDescription.NextDescriptionPage at 0x0C7652F0>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-Initialize,		<cyfunction MiniGameFindMDescription.Initialize at 0x0AF50298>
+Initialize,		<cyfunction MiniGameFindMDescription.Initialize at 0x0C765088>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-Close,		<cyfunction MiniGameFindMDescription.Close at 0x0AF503A0>
+Close,		<cyfunction MiniGameFindMDescription.Close at 0x0C765190>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction MiniGameFindMDescription.LoadWindow at 0x0AF502F0>
+LoadWindow,		<cyfunction MiniGameFindMDescription.LoadWindow at 0x0C7650E0>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-Open,		<cyfunction MiniGameFindMDescription.Open at 0x0AF50348>
+Open,		<cyfunction MiniGameFindMDescription.Open at 0x0C765138>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMDescription instance as first argument (got nothing instead)
-CancelStart,		<cyfunction MiniGameFindMDescription.CancelStart at 0x0AF50608>
+CancelStart,		<cyfunction MiniGameFindMDescription.CancelStart at 0x0C7653F8>
 	arg0: self
 
 submodule.CancelStart
@@ -210,7 +210,7 @@ __module__,		uiMiniGameFindM
 submodule.__module__
 
 
-__del__,		<cyfunction FindMUpgrade.__del__ at 0x0AF50978>
+__del__,		<cyfunction FindMUpgrade.__del__ at 0x0C765768>
 	arg0: self
 
 submodule.__del__
@@ -220,29 +220,29 @@ __qualname__,		FindMUpgrade
 submodule.__qualname__
 
 
-OverInItem,		<cyfunction FindMUpgrade.OverInItem at 0x0AF50A80>
+OverInItem,		<cyfunction FindMUpgrade.OverInItem at 0x0C765870>
 	arg0: self
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with FindMUpgrade instance as first argument (got nothing instead)
-ShowUpgradeBox,		<cyfunction FindMUpgrade.ShowUpgradeBox at 0x0AF50B30>
+ShowUpgradeBox,		<cyfunction FindMUpgrade.ShowUpgradeBox at 0x0C765920>
 	arg0: self
 	arg1: vnum
 	arg2: money
 
 submodule.ShowUpgradeBox
 Skipped: unbound method cython_function_or_method object must be called with FindMUpgrade instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction FindMUpgrade.OverOutItem at 0x0AF50AD8>
+OverOutItem,		<cyfunction FindMUpgrade.OverOutItem at 0x0C7658C8>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with FindMUpgrade instance as first argument (got nothing instead)
-Initialize,		<cyfunction FindMUpgrade.Initialize at 0x0AF509D0>
+Initialize,		<cyfunction FindMUpgrade.Initialize at 0x0C7657C0>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with FindMUpgrade instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction FindMUpgrade.LoadWindow at 0x0AF50A28>
+LoadWindow,		<cyfunction FindMUpgrade.LoadWindow at 0x0C765818>
 	arg0: self
 	arg1: getFunc
 	arg2: upFunc
@@ -255,7 +255,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction FindMUpgrade.__init__ at 0x0AF50920>
+__init__,		<cyfunction FindMUpgrade.__init__ at 0x0C765710>
 	arg0: self
 	arg1: getFunc
 	arg2: upFunc
@@ -276,7 +276,7 @@ __module__,		uiMiniGameFindM
 submodule.__module__
 
 
-UpgradeReward,		<cyfunction MiniGameFindMMainUI.UpgradeReward at 0x0AF51558>
+UpgradeReward,		<cyfunction MiniGameFindMMainUI.UpgradeReward at 0x0C76B348>
 	arg0: self
 
 submodule.UpgradeReward
@@ -296,7 +296,7 @@ CARD_CLOSE,		0.3
 submodule.CARD_CLOSE
 
 
-ShowUpgrade,		<cyfunction MiniGameFindMMainUI.ShowUpgrade at 0x0AF51500>
+ShowUpgrade,		<cyfunction MiniGameFindMMainUI.ShowUpgrade at 0x0C76B2F0>
 	arg0: self
 
 submodule.ShowUpgrade
@@ -306,24 +306,24 @@ COUNT_DOWN,		10
 submodule.COUNT_DOWN
 
 
-BindItemToolTip,		<cyfunction MiniGameFindMMainUI.BindItemToolTip at 0x0AF50C90>
+BindItemToolTip,		<cyfunction MiniGameFindMMainUI.BindItemToolTip at 0x0C765A80>
 	arg0: self
 	arg1: tooltip
 
 submodule.BindItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-UseHint,		<cyfunction MiniGameFindMMainUI.UseHint at 0x0AF51348>
+UseHint,		<cyfunction MiniGameFindMMainUI.UseHint at 0x0C76B138>
 	arg0: self
 	arg1: result
 
 submodule.UseHint
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-PlayTime,		<cyfunction MiniGameFindMMainUI.PlayTime at 0x0AF51240>
+PlayTime,		<cyfunction MiniGameFindMMainUI.PlayTime at 0x0C76B030>
 	arg0: self
 
 submodule.PlayTime
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniGameFindMMainUI.__init__ at 0x0AF50B88>
+__init__,		<cyfunction MiniGameFindMMainUI.__init__ at 0x0C765978>
 	arg0: self
 
 submodule.__init__
@@ -333,7 +333,7 @@ STATE_SET_CARD,		2
 submodule.STATE_SET_CARD
 
 
-ClickCard,		<cyfunction MiniGameFindMMainUI.ClickCard at 0x0AF510E0>
+ClickCard,		<cyfunction MiniGameFindMMainUI.ClickCard at 0x0C765EA0>
 	arg0: self
 	arg1: type
 	arg2: index
@@ -345,7 +345,7 @@ HINT_WAIT,		1
 submodule.HINT_WAIT
 
 
-SetVnumIndex,		<cyfunction MiniGameFindMMainUI.SetVnumIndex at 0x0AF51030>
+SetVnumIndex,		<cyfunction MiniGameFindMMainUI.SetVnumIndex at 0x0C765DF0>
 	arg0: self
 	arg1: list
 
@@ -356,12 +356,12 @@ STATE_INIT,		0
 submodule.STATE_INIT
 
 
-SetGiveUp,		<cyfunction MiniGameFindMMainUI.SetGiveUp at 0x0AF51710>
+SetGiveUp,		<cyfunction MiniGameFindMMainUI.SetGiveUp at 0x0C76B500>
 	arg0: self
 
 submodule.SetGiveUp
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-SetUpgrade,		<cyfunction MiniGameFindMMainUI.SetUpgrade at 0x0AF51608>
+SetUpgrade,		<cyfunction MiniGameFindMMainUI.SetUpgrade at 0x0C76B3F8>
 	arg0: self
 	arg1: list
 
@@ -377,17 +377,17 @@ HINT_CLOSE,		0
 submodule.HINT_CLOSE
 
 
-AcceptHint,		<cyfunction MiniGameFindMMainUI.AcceptHint at 0x0AF512F0>
+AcceptHint,		<cyfunction MiniGameFindMMainUI.AcceptHint at 0x0C76B0E0>
 	arg0: self
 
 submodule.AcceptHint
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-CardUpdate,		<cyfunction MiniGameFindMMainUI.CardUpdate at 0x0AF513A0>
+CardUpdate,		<cyfunction MiniGameFindMMainUI.CardUpdate at 0x0C76B190>
 	arg0: self
 
 submodule.CardUpdate
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-Initialize,		<cyfunction MiniGameFindMMainUI.Initialize at 0x0AF50D98>
+Initialize,		<cyfunction MiniGameFindMMainUI.Initialize at 0x0C765B88>
 	arg0: self
 
 submodule.Initialize
@@ -402,50 +402,50 @@ STATE_LOAD,		1
 submodule.STATE_LOAD
 
 
-CheckTime,		<cyfunction MiniGameFindMMainUI.CheckTime at 0x0AF51190>
+CheckTime,		<cyfunction MiniGameFindMMainUI.CheckTime at 0x0C765F50>
 	arg0: self
 
 submodule.CheckTime
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-SetComplete,		<cyfunction MiniGameFindMMainUI.SetComplete at 0x0AF51450>
+SetComplete,		<cyfunction MiniGameFindMMainUI.SetComplete at 0x0C76B240>
 	arg0: self
 	arg1: rating
 
 submodule.SetComplete
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameFindMMainUI.__del__ at 0x0AF50BE0>
+__del__,		<cyfunction MiniGameFindMMainUI.__del__ at 0x0C7659D0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-CountDown,		<cyfunction MiniGameFindMMainUI.CountDown at 0x0AF511E8>
+CountDown,		<cyfunction MiniGameFindMMainUI.CountDown at 0x0C765FA8>
 	arg0: self
 
 submodule.CountDown
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction MiniGameFindMMainUI.BindControlWindow at 0x0AF50C38>
+BindControlWindow,		<cyfunction MiniGameFindMMainUI.BindControlWindow at 0x0C765A28>
 	arg0: self
 	arg1: control_window
 
 submodule.BindControlWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-AcceptGiveUp,		<cyfunction MiniGameFindMMainUI.AcceptGiveUp at 0x0AF516B8>
+AcceptGiveUp,		<cyfunction MiniGameFindMMainUI.AcceptGiveUp at 0x0C76B4A8>
 	arg0: self
 
 submodule.AcceptGiveUp
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-AcceptUpgrade,		<cyfunction MiniGameFindMMainUI.AcceptUpgrade at 0x0AF515B0>
+AcceptUpgrade,		<cyfunction MiniGameFindMMainUI.AcceptUpgrade at 0x0C76B3A0>
 	arg0: self
 
 submodule.AcceptUpgrade
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-SetStartTime,		<cyfunction MiniGameFindMMainUI.SetStartTime at 0x0AF51088>
+SetStartTime,		<cyfunction MiniGameFindMMainUI.SetStartTime at 0x0C765E48>
 	arg0: self
 	arg1: time
 
 submodule.SetStartTime
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MiniGameFindMMainUI.OnPressEscapeKey at 0x0AF50EF8>
+OnPressEscapeKey,		<cyfunction MiniGameFindMMainUI.OnPressEscapeKey at 0x0C765CE8>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -455,7 +455,7 @@ STATE_COMPLETE,		3
 submodule.STATE_COMPLETE
 
 
-RefreshHintCount,		<cyfunction MiniGameFindMMainUI.RefreshHintCount at 0x0AF513F8>
+RefreshHintCount,		<cyfunction MiniGameFindMMainUI.RefreshHintCount at 0x0C76B1E8>
 	arg0: self
 
 submodule.RefreshHintCount
@@ -465,34 +465,34 @@ NEXT_CARD_OPEN2,		0.1
 submodule.NEXT_CARD_OPEN2
 
 
-SetCardImage,		<cyfunction MiniGameFindMMainUI.SetCardImage at 0x0AF50FA8>
+SetCardImage,		<cyfunction MiniGameFindMMainUI.SetCardImage at 0x0C765D98>
 	arg0: self
 
 submodule.SetCardImage
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-GetReward,		<cyfunction MiniGameFindMMainUI.GetReward at 0x0AF514A8>
+GetReward,		<cyfunction MiniGameFindMMainUI.GetReward at 0x0C76B298>
 	arg0: self
 
 submodule.GetReward
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-ShowToolTipMsg,		<cyfunction MiniGameFindMMainUI.ShowToolTipMsg at 0x0AF50D40>
+ShowToolTipMsg,		<cyfunction MiniGameFindMMainUI.ShowToolTipMsg at 0x0C765B30>
 	arg0: self
 	arg1: msg
 
 submodule.ShowToolTipMsg
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-OpenPopupMsg,		<cyfunction MiniGameFindMMainUI.OpenPopupMsg at 0x0AF50CE8>
+OpenPopupMsg,		<cyfunction MiniGameFindMMainUI.OpenPopupMsg at 0x0C765AD8>
 	arg0: self
 	arg1: msg
 
 submodule.OpenPopupMsg
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-CheckOpenCard,		<cyfunction MiniGameFindMMainUI.CheckOpenCard at 0x0AF51138>
+CheckOpenCard,		<cyfunction MiniGameFindMMainUI.CheckOpenCard at 0x0C765EF8>
 	arg0: self
 
 submodule.CheckOpenCard
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MiniGameFindMMainUI.OnUpdate at 0x0AF50F50>
+OnUpdate,		<cyfunction MiniGameFindMMainUI.OnUpdate at 0x0C765D40>
 	arg0: self
 
 submodule.OnUpdate
@@ -502,28 +502,28 @@ __qualname__,		MiniGameFindMMainUI
 submodule.__qualname__
 
 
-toolTipProgress,		<cyfunction MiniGameFindMMainUI.toolTipProgress at 0x0AF51660>
+toolTipProgress,		<cyfunction MiniGameFindMMainUI.toolTipProgress at 0x0C76B450>
 	arg0: self
 	arg1: type
 
 submodule.toolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-ClickHintButton,		<cyfunction MiniGameFindMMainUI.ClickHintButton at 0x0AF51298>
+ClickHintButton,		<cyfunction MiniGameFindMMainUI.ClickHintButton at 0x0C76B088>
 	arg0: self
 
 submodule.ClickHintButton
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-Close,		<cyfunction MiniGameFindMMainUI.Close at 0x0AF50EA0>
+Close,		<cyfunction MiniGameFindMMainUI.Close at 0x0C765C90>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction MiniGameFindMMainUI.LoadWindow at 0x0AF50DF0>
+LoadWindow,		<cyfunction MiniGameFindMMainUI.LoadWindow at 0x0C765BE0>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindMMainUI instance as first argument (got nothing instead)
-Open,		<cyfunction MiniGameFindMMainUI.Open at 0x0AF50E48>
+Open,		<cyfunction MiniGameFindMMainUI.Open at 0x0C765C38>
 	arg0: self
 
 submodule.Open
@@ -536,13 +536,13 @@ __module__,		uiMiniGameFindM
 submodule.__module__
 
 
-SetComplete,		<cyfunction MiniGameFindM.SetComplete at 0x0AF51C38>
+SetComplete,		<cyfunction MiniGameFindM.SetComplete at 0x0C76BA28>
 	arg0: self
 	arg1: rating
 
 submodule.SetComplete
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameFindM.__del__ at 0x0AF517C0>
+__del__,		<cyfunction MiniGameFindM.__del__ at 0x0C76B5B0>
 	arg0: self
 
 submodule.__del__
@@ -552,35 +552,35 @@ STATE_DESC,		1
 submodule.STATE_DESC
 
 
-UseHint,		<cyfunction MiniGameFindM.UseHint at 0x0AF51B88>
+UseHint,		<cyfunction MiniGameFindM.UseHint at 0x0C76B978>
 	arg0: self
 	arg1: result
 
 submodule.UseHint
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-SetStartTime,		<cyfunction MiniGameFindM.SetStartTime at 0x0AF51B30>
+SetStartTime,		<cyfunction MiniGameFindM.SetStartTime at 0x0C76B920>
 	arg0: self
 
 submodule.SetStartTime
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-ChangeState,		<cyfunction MiniGameFindM.ChangeState at 0x0AF51978>
+ChangeState,		<cyfunction MiniGameFindM.ChangeState at 0x0C76B768>
 	arg0: self
 	arg1: state
 
 submodule.ChangeState
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-BindItemToolTip,		<cyfunction MiniGameFindM.BindItemToolTip at 0x0AF519D0>
+BindItemToolTip,		<cyfunction MiniGameFindM.BindItemToolTip at 0x0C76B7C0>
 	arg0: self
 	arg1: tooltip
 
 submodule.BindItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniGameFindM.__init__ at 0x0AF51768>
+__init__,		<cyfunction MiniGameFindM.__init__ at 0x0C76B558>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-ResultCheckCard,		<cyfunction MiniGameFindM.ResultCheckCard at 0x0AF51BE0>
+ResultCheckCard,		<cyfunction MiniGameFindM.ResultCheckCard at 0x0C76B9D0>
 	arg0: self
 	arg1: result
 
@@ -591,25 +591,25 @@ STATE_NONE,		0
 submodule.STATE_NONE
 
 
-SetVnumIndex,		<cyfunction MiniGameFindM.SetVnumIndex at 0x0AF51AD8>
+SetVnumIndex,		<cyfunction MiniGameFindM.SetVnumIndex at 0x0C76B8C8>
 	arg0: self
 	arg1: list
 
 submodule.SetVnumIndex
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-FindMProcess,		<cyfunction MiniGameFindM.FindMProcess at 0x0AF51A28>
+FindMProcess,		<cyfunction MiniGameFindM.FindMProcess at 0x0C76B818>
 	arg0: self
 	arg1: type
 	arg2: value
 
 submodule.FindMProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-SetGiveUp,		<cyfunction MiniGameFindM.SetGiveUp at 0x0AF51CE8>
+SetGiveUp,		<cyfunction MiniGameFindM.SetGiveUp at 0x0C76BAD8>
 	arg0: self
 
 submodule.SetGiveUp
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-SetUpgrade,		<cyfunction MiniGameFindM.SetUpgrade at 0x0AF51C90>
+SetUpgrade,		<cyfunction MiniGameFindM.SetUpgrade at 0x0C76BA80>
 	arg0: self
 	arg1: list
 
@@ -625,27 +625,27 @@ STATE_MAIN,		2
 submodule.STATE_MAIN
 
 
-Initialize,		<cyfunction MiniGameFindM.Initialize at 0x0AF51818>
+Initialize,		<cyfunction MiniGameFindM.Initialize at 0x0C76B608>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-Close,		<cyfunction MiniGameFindM.Close at 0x0AF51920>
+Close,		<cyfunction MiniGameFindM.Close at 0x0C76B710>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction MiniGameFindM.LoadWindow at 0x0AF51870>
+LoadWindow,		<cyfunction MiniGameFindM.LoadWindow at 0x0C76B660>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-IsPlaying,		<cyfunction MiniGameFindM.IsPlaying at 0x0AF51A80>
+IsPlaying,		<cyfunction MiniGameFindM.IsPlaying at 0x0C76B870>
 	arg0: self
 
 submodule.IsPlaying
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFindM instance as first argument (got nothing instead)
-Open,		<cyfunction MiniGameFindM.Open at 0x0AF518C8>
+Open,		<cyfunction MiniGameFindM.Open at 0x0C76B6B8>
 	arg0: self
 
 submodule.Open

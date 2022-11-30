@@ -24,7 +24,7 @@ key: chr, val: <module 'chr' (built-in)>
 key: BuildGuildBuildingWindow, val: <class 'uiGuild.BuildGuildBuildingWindow'>
 key: mouseModule, val: <module 'mouseModule' (built-in)>
 key: uiScriptLocale, val: <module 'uiScriptLocale' (built-in)>
-key: NumberToMoneyString, val: <cyfunction NumberToMoneyString at 0x0AF06CE8>
+key: NumberToMoneyString, val: <cyfunction NumberToMoneyString at 0x0C711AD8>
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
 key: MATERIAL_LOG_ID, val: 90011
@@ -48,9 +48,9 @@ key: GuildDonateDialog, val: <class 'uiGuild.GuildDonateDialog'>
 key: DeclareGuildWarDialog, val: <class 'uiGuild.DeclareGuildWarDialog'>
 key: guild, val: <module 'guild' (built-in)>
 key: BUILDING_DATA_LIST, val: [{'X_ROT_LIMIT': 0, 'NAME': 'jedan', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['20', '30', '20'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fegyverkov\xe1cs', 'VNUM': 14013, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'jedan', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['20', '30', '20'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'P\xe1nc\xe9lkov\xe1cs', 'VNUM': 14014, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'jedan', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['20', '30', '20'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': '\xc9kszer\xe9sz', 'VNUM': 14015, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'suryeonjang', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['25', '25', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Kik\xe9pz\xf5 k\xf6zpont', 'VNUM': 14033, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Gy\xe9m\xe1nt-koh\xf3', 'VNUM': 14043, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Megk\xf6v. fa-koh\xf3', 'VNUM': 14045, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'R\xe9z-koh\xf3', 'VNUM': 14046, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Ez\xfcst-koh\xf3', 'VNUM': 14047, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Arany-koh\xf3', 'VNUM': 14048, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'J\xe1de-koh\xf3', 'VNUM': 14049, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': '\xc9benfa-koh\xf3', 'VNUM': 14050, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Gy\xf6ngy-koh\xf3', 'VNUM': 14051, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Feh\xe9rarany-koh\xf3', 'VNUM': 14052, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Krist\xe1ly-koh\xf3', 'VNUM': 14053, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Ametiszt-koh\xf3', 'VNUM': 14054, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Mennyei k\xf6nny-koh\xf3', 'VNUM': 14055, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'himuijedan_01', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '25000000', 'MATERIAL': ['25', '25', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Az Er\xf5 olt\xe1ra', 'VNUM': 14061, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'himuijedan_02', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '500000000', 'MATERIAL': ['50', '50', '50'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Az Er\xf5 olt\xe1ra', 'VNUM': 14062, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'himuijedan_03', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '750000000', 'MATERIAL': ['75', '75', '75'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Az Er\xf5 olt\xe1ra', 'VNUM': 14063, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'guildbank_01', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '25000000', 'MATERIAL': ['25', '25', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'C\xe9hrakt\xe1r', 'VNUM': 14071, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'guildbank_02', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '500000000', 'MATERIAL': ['50', '50', '50'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'C\xe9hrakt\xe1r', 'VNUM': 14072, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'guildbank_03', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '750000000', 'MATERIAL': ['75', '75', '75'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'C\xe9hrakt\xe1r', 'VNUM': 14073, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'L\xe9lekkrist\xe1ly-koh\xf3', 'VNUM': 14074, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Rubin-koh\xf3', 'VNUM': 14075, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Gr\xe1n\xe1t-koh\xf3', 'VNUM': 14076, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Smaragd-koh\xf3', 'VNUM': 14077, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Zaf\xedr-koh\xf3', 'VNUM': 14078, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'yonggwangro', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['15', '20', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Turmalin-koh\xf3', 'VNUM': 14079, 'TYPE': 'FACILITY'}, {'X_ROT_LIMIT': 0, 'NAME': 'a1-011-workhouse', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['20', '30', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'H\xe1z (1)', 'VNUM': 14100, 'TYPE': 'HEADQUARTER'}, {'X_ROT_LIMIT': 0, 'NAME': 'a1-038-wall-corner', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (1-1)', 'VNUM': 14101, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'a1-038-wall-lin', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (1-2)', 'VNUM': 14102, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'a1-038-wall-lin2', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (1-3)', 'VNUM': 14103, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'a1-038-wall-door', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '2500000', 'MATERIAL': ['5', '15', '10'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Kapu (1)', 'VNUM': 14104, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'a1-set', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2500000', 'MATERIAL': ['5', '15', '10'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fal (1)', 'VNUM': 14105, 'TYPE': 'BUILDIN'}, {'X_ROT_LIMIT': 0, 'NAME': 'b1-011-workhouse', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['20', '30', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'H\xe1z (2)', 'VNUM': 14110, 'TYPE': 'HEADQUARTER'}, {'X_ROT_LIMIT': 0, 'NAME': 'b1-038-wall-corner', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (2-1)', 'VNUM': 14111, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'b1-038-wall-lin', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (2-2)', 'VNUM': 14112, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'b1-038-wall-lin2', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (2-3)', 'VNUM': 14113, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'b1-038-wall-door', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '2500000', 'MATERIAL': ['5', '15', '10'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Kapu (2)', 'VNUM': 14114, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'b1-set', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2500000', 'MATERIAL': ['5', '15', '10'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fal (2)', 'VNUM': 14115, 'TYPE': 'BUILDIN'}, {'X_ROT_LIMIT': 0, 'NAME': 'c1-011-workhouse', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '20000000', 'MATERIAL': ['20', '30', '25'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'H\xe1z (3)', 'VNUM': 14120, 'TYPE': 'HEADQUARTER'}, {'X_ROT_LIMIT': 0, 'NAME': 'c1-038-wall-corner', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (3-1)', 'VNUM': 14121, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'c1-038-wall-lin', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (3-2)', 'VNUM': 14122, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'c1-038-wall-lin2', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['15', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5fal (3-3)', 'VNUM': 14123, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'c1-038-wall-door', 'SHOW': False, 'Y_ROT_LIMIT': 0, 'PRICE': '2500000', 'MATERIAL': ['5', '15', '10'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Kapu (3)', 'VNUM': 14124, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'c1-set', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2500000', 'MATERIAL': ['5', '15', '10'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fal (3)', 'VNUM': 14125, 'TYPE': 'BUILDIN'}, {'X_ROT_LIMIT': 0, 'NAME': 'guild_symbol', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '3000000', 'MATERIAL': ['0', '5', '5'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'C\xe9h-jelv\xe9ny', 'VNUM': 14200, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'fence01_door01', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '3000000', 'MATERIAL': ['0', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Homlokzati fal', 'VNUM': 14201, 'TYPE': 'WALL'}, {'X_ROT_LIMIT': 0, 'NAME': 'fence01_back01', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '3000000', 'MATERIAL': ['0', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'H\xe1ts\xf3 fal', 'VNUM': 14202, 'TYPE': 'WALL'}, {'X_ROT_LIMIT': 0, 'NAME': 'fence01_left01', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '3000000', 'MATERIAL': ['0', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Bal oldali fal', 'VNUM': 14203, 'TYPE': 'WALL'}, {'X_ROT_LIMIT': 0, 'NAME': 'fence01_right01', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '3000000', 'MATERIAL': ['0', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Jobb oldali fal', 'VNUM': 14204, 'TYPE': 'WALL'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone01', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['5', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (1)', 'VNUM': 14300, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone02', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['5', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (2)', 'VNUM': 14301, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone03', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['7', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (3)', 'VNUM': 14302, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone04', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['7', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (4)', 'VNUM': 14303, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone05', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['7', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (5)', 'VNUM': 14304, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone06', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['8', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (6)', 'VNUM': 14305, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone07', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['8', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (7)', 'VNUM': 14306, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone08', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['8', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (8)', 'VNUM': 14307, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone09', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['9', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (9)', 'VNUM': 14308, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'general_obj_stone10', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '300000', 'MATERIAL': ['9', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'K\xf5 (10)', 'VNUM': 14309, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B1_PagodaTree_RT', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '5', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (1)', 'VNUM': 14400, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B1_PagodaTree_RT3', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '5', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (2)', 'VNUM': 14401, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B1_Sassafras_RT_Fall', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '7', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (3)', 'VNUM': 14402, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B1_Sassafras_RT_Fall2', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '7', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (4)', 'VNUM': 14403, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B3_ShingleOak_RT2', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '7', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (5)', 'VNUM': 14404, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B2_IvySpy_RT', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '9', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (6)', 'VNUM': 14405, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B2_IvySpy_RT4', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '9', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (7)', 'VNUM': 14406, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B2_JapaneseMaple_RT_Fall', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '9', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (8)', 'VNUM': 14407, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'B2_JapaneseMaple_RT_Fall2', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '2000000', 'MATERIAL': ['0', '9', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'Fa (9)', 'VNUM': 14408, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'flag_a', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['0', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'C\xe9h Lobog\xf3 (lila)', 'VNUM': 20139, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'flag_b', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['0', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'C\xe9h Lobog\xf3 (k\xe9k/z\xf6ld)', 'VNUM': 20140, 'TYPE': 'OBJECT'}, {'X_ROT_LIMIT': 0, 'NAME': 'flag_c', 'SHOW': True, 'Y_ROT_LIMIT': 0, 'PRICE': '1000000', 'MATERIAL': ['0', '0', '0'], 'Z_ROT_LIMIT': 360, 'LOCAL_NAME': 'C\xe9h Lobog\xf3 (piros/arany)', 'VNUM': 20141, 'TYPE': 'OBJECT'}]
-key: unsigned32, val: <cyfunction unsigned32 at 0x0AF06D40>
+key: unsigned32, val: <cyfunction unsigned32 at 0x0C711B30>
 key: ui, val: <module 'ui' (built-in)>
-key: GetGVGKey, val: <cyfunction GetGVGKey at 0x0AF06C90>
+key: GetGVGKey, val: <cyfunction GetGVGKey at 0x0C711A80>
 key: BuildGuildBuildingChangeWindow, val: <class 'uiGuild.BuildGuildBuildingChangeWindow'>
 key: __test__, val: {}
 key: guildbank, val: <module 'guildbank' (built-in)>
@@ -66,12 +66,12 @@ __module__,		uiGuild
 submodule.__module__
 
 
-__del__,		<cyfunction ChangeGradeNameDialog.__del__ at 0x0AF0F138>
+__del__,		<cyfunction ChangeGradeNameDialog.__del__ at 0x0C2FCEF8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ChangeGradeNameDialog instance as first argument (got nothing instead)
-Open,		<cyfunction ChangeGradeNameDialog.Open at 0x0AF0F190>
+Open,		<cyfunction ChangeGradeNameDialog.Open at 0x0C2FCF50>
 	arg0: self
 
 submodule.Open
@@ -81,27 +81,27 @@ __qualname__,		ChangeGradeNameDialog
 submodule.__qualname__
 
 
-GetGradeNumber,		<cyfunction ChangeGradeNameDialog.GetGradeNumber at 0x0AF0F298>
+GetGradeNumber,		<cyfunction ChangeGradeNameDialog.GetGradeNumber at 0x0C2FD088>
 	arg0: self
 
 submodule.GetGradeNumber
 Skipped: unbound method cython_function_or_method object must be called with ChangeGradeNameDialog instance as first argument (got nothing instead)
-GetGradeName,		<cyfunction ChangeGradeNameDialog.GetGradeName at 0x0AF0F2F0>
+GetGradeName,		<cyfunction ChangeGradeNameDialog.GetGradeName at 0x0C2FD0E0>
 	arg0: self
 
 submodule.GetGradeName
 Skipped: unbound method cython_function_or_method object must be called with ChangeGradeNameDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ChangeGradeNameDialog.OnPressEscapeKey at 0x0AF0F348>
+OnPressEscapeKey,		<cyfunction ChangeGradeNameDialog.OnPressEscapeKey at 0x0C2FD138>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ChangeGradeNameDialog instance as first argument (got nothing instead)
-Close,		<cyfunction ChangeGradeNameDialog.Close at 0x0AF0F1E8>
+Close,		<cyfunction ChangeGradeNameDialog.Close at 0x0C2FCFA8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ChangeGradeNameDialog instance as first argument (got nothing instead)
-SetGradeNumber,		<cyfunction ChangeGradeNameDialog.SetGradeNumber at 0x0AF0F240>
+SetGradeNumber,		<cyfunction ChangeGradeNameDialog.SetGradeNumber at 0x0C2FD030>
 	arg0: self
 	arg1: gradeNumber
 
@@ -112,7 +112,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ChangeGradeNameDialog.__init__ at 0x0AF0F0E0>
+__init__,		<cyfunction ChangeGradeNameDialog.__init__ at 0x0C2FCEA0>
 	arg0: self
 
 submodule.__init__
@@ -125,7 +125,7 @@ __qualname__,		MouseReflector
 submodule.__qualname__
 
 
-Down,		<cyfunction MouseReflector.Down at 0x0AF0E660>
+Down,		<cyfunction MouseReflector.Down at 0x0C2FC450>
 	arg0: self
 
 submodule.Down
@@ -135,22 +135,22 @@ __module__,		uiGuild
 submodule.__module__
 
 
-OnRender,		<cyfunction MouseReflector.OnRender at 0x0AF0E710>
+OnRender,		<cyfunction MouseReflector.OnRender at 0x0C2FC500>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-__del__,		<cyfunction MouseReflector.__del__ at 0x0AF0E608>
+__del__,		<cyfunction MouseReflector.__del__ at 0x0C2FC3F8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-Up,		<cyfunction MouseReflector.Up at 0x0AF0E6B8>
+Up,		<cyfunction MouseReflector.Up at 0x0C2FC4A8>
 	arg0: self
 
 submodule.Up
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-__init__,		<cyfunction MouseReflector.__init__ at 0x0AF0E5B0>
+__init__,		<cyfunction MouseReflector.__init__ at 0x0C2FC3A0>
 	arg0: self
 	arg1: parent
 
@@ -164,29 +164,29 @@ submodule.__doc__
 
 
 class EditableTextSlot:
-SetEvent,		<cyfunction EditableTextSlot.SetEvent at 0x0AF0EBE0>
+SetEvent,		<cyfunction EditableTextSlot.SetEvent at 0x0C2FC9D0>
 	arg0: self
 	arg1: event
 	arg2: arg
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with EditableTextSlot instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction EditableTextSlot.OnMouseLeftButtonDown at 0x0AF0ED40>
+OnMouseLeftButtonDown,		<cyfunction EditableTextSlot.OnMouseLeftButtonDown at 0x0C2FCB30>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with EditableTextSlot instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction EditableTextSlot.OnMouseOverOut at 0x0AF0ECE8>
+OnMouseOverOut,		<cyfunction EditableTextSlot.OnMouseOverOut at 0x0C2FCAD8>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with EditableTextSlot instance as first argument (got nothing instead)
-__del__,		<cyfunction EditableTextSlot.__del__ at 0x0AF0EB30>
+__del__,		<cyfunction EditableTextSlot.__del__ at 0x0C2FC920>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with EditableTextSlot instance as first argument (got nothing instead)
-SetText,		<cyfunction EditableTextSlot.SetText at 0x0AF0EB88>
+SetText,		<cyfunction EditableTextSlot.SetText at 0x0C2FC978>
 	arg0: self
 	arg1: text
 
@@ -202,17 +202,17 @@ __qualname__,		EditableTextSlot
 submodule.__qualname__
 
 
-Disable,		<cyfunction EditableTextSlot.Disable at 0x0AF0EC38>
+Disable,		<cyfunction EditableTextSlot.Disable at 0x0C2FCA28>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with EditableTextSlot instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction EditableTextSlot.OnMouseOverIn at 0x0AF0EC90>
+OnMouseOverIn,		<cyfunction EditableTextSlot.OnMouseOverIn at 0x0C2FCA80>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with EditableTextSlot instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction EditableTextSlot.OnMouseLeftButtonUp at 0x0AF0ED98>
+OnMouseLeftButtonUp,		<cyfunction EditableTextSlot.OnMouseLeftButtonUp at 0x0C2FCB88>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
@@ -222,7 +222,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction EditableTextSlot.__init__ at 0x0AF0EAD8>
+__init__,		<cyfunction EditableTextSlot.__init__ at 0x0C2FC8C8>
 	arg0: self
 	arg1: parent
 	arg2: x
@@ -238,17 +238,17 @@ __module__,		uiGuild
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction CommentSlot.OnMouseOverOut at 0x0AF0F500>
+OnMouseOverOut,		<cyfunction CommentSlot.OnMouseOverOut at 0x0C2FD2F0>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with CommentSlot instance as first argument (got nothing instead)
-__del__,		<cyfunction CommentSlot.__del__ at 0x0AF0F3F8>
+__del__,		<cyfunction CommentSlot.__del__ at 0x0C2FD1E8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CommentSlot instance as first argument (got nothing instead)
-SetText,		<cyfunction CommentSlot.SetText at 0x0AF0F450>
+SetText,		<cyfunction CommentSlot.SetText at 0x0C2FD240>
 	arg0: self
 	arg1: text
 
@@ -264,7 +264,7 @@ TEXT_LIMIT,		35
 submodule.TEXT_LIMIT
 
 
-OnMouseOverIn,		<cyfunction CommentSlot.OnMouseOverIn at 0x0AF0F4A8>
+OnMouseOverIn,		<cyfunction CommentSlot.OnMouseOverIn at 0x0C2FD298>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -274,7 +274,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction CommentSlot.__init__ at 0x0AF0F3A0>
+__init__,		<cyfunction CommentSlot.__init__ at 0x0C2FD190>
 	arg0: self
 	arg1: width
 	arg2: height
@@ -284,12 +284,12 @@ Skipped: unbound method cython_function_or_method object must be called with Com
 
 
 class GuildWarScoreBoard:
-_GuildWarScoreBoard__RefreshName,		<cyfunction GuildWarScoreBoard.__RefreshName at 0x0AF0E558>
+_GuildWarScoreBoard__RefreshName,		<cyfunction GuildWarScoreBoard.__RefreshName at 0x0C2FC348>
 	arg0: self
 
 submodule._GuildWarScoreBoard__RefreshName
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreBoard instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildWarScoreBoard.__del__ at 0x0AF0E348>
+__del__,		<cyfunction GuildWarScoreBoard.__del__ at 0x0C2FC138>
 	arg0: self
 
 submodule.__del__
@@ -304,7 +304,7 @@ __qualname__,		GuildWarScoreBoard
 submodule.__qualname__
 
 
-UpdateMemberCount,		<cyfunction GuildWarScoreBoard.UpdateMemberCount at 0x0AF0E500>
+UpdateMemberCount,		<cyfunction GuildWarScoreBoard.UpdateMemberCount at 0x0C2FC2F0>
 	arg0: self
 	arg1: guildID1
 	arg2: memberCount1
@@ -313,7 +313,7 @@ UpdateMemberCount,		<cyfunction GuildWarScoreBoard.UpdateMemberCount at 0x0AF0E5
 
 submodule.UpdateMemberCount
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreBoard instance as first argument (got nothing instead)
-SetScore,		<cyfunction GuildWarScoreBoard.SetScore at 0x0AF0E4A8>
+SetScore,		<cyfunction GuildWarScoreBoard.SetScore at 0x0C2FC298>
 	arg0: self
 	arg1: gainGuildID
 	arg2: opponetGuildID
@@ -321,18 +321,18 @@ SetScore,		<cyfunction GuildWarScoreBoard.SetScore at 0x0AF0E4A8>
 
 submodule.SetScore
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreBoard instance as first argument (got nothing instead)
-Initialize,		<cyfunction GuildWarScoreBoard.Initialize at 0x0AF0E3A0>
+Initialize,		<cyfunction GuildWarScoreBoard.Initialize at 0x0C2FC190>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreBoard instance as first argument (got nothing instead)
-_GuildWarScoreBoard__GetDataDict,		<cyfunction GuildWarScoreBoard.__GetDataDict at 0x0AF0E450>
+_GuildWarScoreBoard__GetDataDict,		<cyfunction GuildWarScoreBoard.__GetDataDict at 0x0C2FC240>
 	arg0: self
 	arg1: ID
 
 submodule._GuildWarScoreBoard__GetDataDict
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreBoard instance as first argument (got nothing instead)
-Open,		<cyfunction GuildWarScoreBoard.Open at 0x0AF0E3F8>
+Open,		<cyfunction GuildWarScoreBoard.Open at 0x0C2FC1E8>
 	arg0: self
 	arg1: allyGuildID
 	arg2: enemyGuildID
@@ -344,7 +344,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction GuildWarScoreBoard.__init__ at 0x0AF0E2F0>
+__init__,		<cyfunction GuildWarScoreBoard.__init__ at 0x0C2FC0E0>
 	arg0: self
 
 submodule.__init__
@@ -352,29 +352,29 @@ Skipped: unbound method cython_function_or_method object must be called with Gui
 
 
 class SelectTextSlot:
-SetEvent,		<cyfunction SelectTextSlot.SetEvent at 0x0AF0E8C8>
+SetEvent,		<cyfunction SelectTextSlot.SetEvent at 0x0C2FC6B8>
 	arg0: self
 	arg1: event
 	arg2: arg
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction SelectTextSlot.OnMouseLeftButtonDown at 0x0AF0EA28>
+OnMouseLeftButtonDown,		<cyfunction SelectTextSlot.OnMouseLeftButtonDown at 0x0C2FC818>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction SelectTextSlot.OnMouseOverOut at 0x0AF0E9D0>
+OnMouseOverOut,		<cyfunction SelectTextSlot.OnMouseOverOut at 0x0C2FC7C0>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-__del__,		<cyfunction SelectTextSlot.__del__ at 0x0AF0E7C0>
+__del__,		<cyfunction SelectTextSlot.__del__ at 0x0C2FC5B0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-SetText,		<cyfunction SelectTextSlot.SetText at 0x0AF0E818>
+SetText,		<cyfunction SelectTextSlot.SetText at 0x0C2FC608>
 	arg0: self
 	arg1: text
 
@@ -385,7 +385,7 @@ __module__,		uiGuild
 submodule.__module__
 
 
-GetText,		<cyfunction SelectTextSlot.GetText at 0x0AF0E870>
+GetText,		<cyfunction SelectTextSlot.GetText at 0x0C2FC660>
 	arg0: self
 
 submodule.GetText
@@ -395,17 +395,17 @@ __qualname__,		SelectTextSlot
 submodule.__qualname__
 
 
-Disable,		<cyfunction SelectTextSlot.Disable at 0x0AF0E920>
+Disable,		<cyfunction SelectTextSlot.Disable at 0x0C2FC710>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction SelectTextSlot.OnMouseOverIn at 0x0AF0E978>
+OnMouseOverIn,		<cyfunction SelectTextSlot.OnMouseOverIn at 0x0C2FC768>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction SelectTextSlot.OnMouseLeftButtonUp at 0x0AF0EA80>
+OnMouseLeftButtonUp,		<cyfunction SelectTextSlot.OnMouseLeftButtonUp at 0x0C2FC870>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
@@ -415,7 +415,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction SelectTextSlot.__init__ at 0x0AF0E768>
+__init__,		<cyfunction SelectTextSlot.__init__ at 0x0C2FC558>
 	arg0: self
 	arg1: parent
 	arg2: x
@@ -432,7 +432,7 @@ __module__,		uiGuild
 submodule.__module__
 
 
-SettleCurrentPosition,		<cyfunction BuildGuildBuildingWindow.SettleCurrentPosition at 0x0AAFB500>
+SettleCurrentPosition,		<cyfunction BuildGuildBuildingWindow.SettleCurrentPosition at 0x0C3022F0>
 	arg0: self
 
 submodule.SettleCurrentPosition
@@ -442,17 +442,17 @@ MODE_VIEW,		0
 submodule.MODE_VIEW
 
 
-_BuildGuildBuildingWindow__OnClosePopupDialog,		<cyfunction BuildGuildBuildingWindow.__OnClosePopupDialog at 0x0AF12E48>
+_BuildGuildBuildingWindow__OnClosePopupDialog,		<cyfunction BuildGuildBuildingWindow.__OnClosePopupDialog at 0x0C301C38>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__GetBuildInPosition,		<cyfunction BuildGuildBuildingWindow.__GetBuildInPosition at 0x0AF12978>
+_BuildGuildBuildingWindow__GetBuildInPosition,		<cyfunction BuildGuildBuildingWindow.__GetBuildInPosition at 0x0C301768>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__GetBuildInPosition
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__DeleteInstance,		<cyfunction BuildGuildBuildingWindow.__DeleteInstance at 0x0AF12A28>
+_BuildGuildBuildingWindow__DeleteInstance,		<cyfunction BuildGuildBuildingWindow.__DeleteInstance at 0x0C301818>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__DeleteInstance
@@ -462,29 +462,29 @@ BUILDINGLIST_BASE_WIDTH,		135
 submodule.BUILDINGLIST_BASE_WIDTH
 
 
-_BuildGuildBuildingWindow__OnSelectCategory,		<cyfunction BuildGuildBuildingWindow.__OnSelectCategory at 0x0AAFB240>
+_BuildGuildBuildingWindow__OnSelectCategory,		<cyfunction BuildGuildBuildingWindow.__OnSelectCategory at 0x0C302030>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__OnSelectCategory
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-ChangeShow,		<cyfunction BuildGuildBuildingWindow.ChangeShow at 0x0AF12C38>
+ChangeShow,		<cyfunction BuildGuildBuildingWindow.ChangeShow at 0x0C301A28>
 	arg0: self
 
 submodule.ChangeShow
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__GetObjectSize,		<cyfunction BuildGuildBuildingWindow.__GetObjectSize at 0x0AF12920>
+_BuildGuildBuildingWindow__GetObjectSize,		<cyfunction BuildGuildBuildingWindow.__GetObjectSize at 0x0C301710>
 	arg0: self
 	arg1: race
 
 submodule._BuildGuildBuildingWindow__GetObjectSize
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__CreateBuildInInstance,		<cyfunction BuildGuildBuildingWindow.__CreateBuildInInstance at 0x0AF129D0>
+_BuildGuildBuildingWindow__CreateBuildInInstance,		<cyfunction BuildGuildBuildingWindow.__CreateBuildInInstance at 0x0C3017C0>
 	arg0: self
 	arg1: race
 
 submodule._BuildGuildBuildingWindow__CreateBuildInInstance
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-Build,		<cyfunction BuildGuildBuildingWindow.Build at 0x0AF12BE0>
+Build,		<cyfunction BuildGuildBuildingWindow.Build at 0x0C3019D0>
 	arg0: self
 
 submodule.Build
@@ -499,58 +499,58 @@ MODE_POSITIONING,		1
 submodule.MODE_POSITIONING
 
 
-_BuildGuildBuildingWindow__OnSelectBuilding,		<cyfunction BuildGuildBuildingWindow.__OnSelectBuilding at 0x0AAFB2F0>
+_BuildGuildBuildingWindow__OnSelectBuilding,		<cyfunction BuildGuildBuildingWindow.__OnSelectBuilding at 0x0C3020E0>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__OnSelectBuilding
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__OnSelectPositioningMode,		<cyfunction BuildGuildBuildingWindow.__OnSelectPositioningMode at 0x0AF12F50>
+_BuildGuildBuildingWindow__OnSelectPositioningMode,		<cyfunction BuildGuildBuildingWindow.__OnSelectPositioningMode at 0x0C301D40>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__OnSelectPositioningMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction BuildGuildBuildingWindow.__init__ at 0x0AF12660>
+__init__,		<cyfunction BuildGuildBuildingWindow.__init__ at 0x0C301450>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__RestoreViewMode,		<cyfunction BuildGuildBuildingWindow.__RestoreViewMode at 0x0AAFB088>
+_BuildGuildBuildingWindow__RestoreViewMode,		<cyfunction BuildGuildBuildingWindow.__RestoreViewMode at 0x0C301E48>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__RestoreViewMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__IsEnoughMoney,		<cyfunction BuildGuildBuildingWindow.__IsEnoughMoney at 0x0AAFB0E0>
+_BuildGuildBuildingWindow__IsEnoughMoney,		<cyfunction BuildGuildBuildingWindow.__IsEnoughMoney at 0x0C301EA0>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__IsEnoughMoney
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__OnLeavePreviewMode,		<cyfunction BuildGuildBuildingWindow.__OnLeavePreviewMode at 0x0AAFB030>
+_BuildGuildBuildingWindow__OnLeavePreviewMode,		<cyfunction BuildGuildBuildingWindow.__OnLeavePreviewMode at 0x0C301DF0>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__OnLeavePreviewMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__IsEnoughMaterialPlywood,		<cyfunction BuildGuildBuildingWindow.__IsEnoughMaterialPlywood at 0x0AAFB1E8>
+_BuildGuildBuildingWindow__IsEnoughMaterialPlywood,		<cyfunction BuildGuildBuildingWindow.__IsEnoughMaterialPlywood at 0x0C301FA8>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__IsEnoughMaterialPlywood
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction BuildGuildBuildingWindow.__del__ at 0x0AF126B8>
+__del__,		<cyfunction BuildGuildBuildingWindow.__del__ at 0x0C3014A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__SetBuildingData,		<cyfunction BuildGuildBuildingWindow.__SetBuildingData at 0x0AAFB298>
+_BuildGuildBuildingWindow__SetBuildingData,		<cyfunction BuildGuildBuildingWindow.__SetBuildingData at 0x0C302088>
 	arg0: self
 	arg1: data
 
 submodule._BuildGuildBuildingWindow__SetBuildingData
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__LoadWindow,		<cyfunction BuildGuildBuildingWindow.__LoadWindow at 0x0AF12710>
+_BuildGuildBuildingWindow__LoadWindow,		<cyfunction BuildGuildBuildingWindow.__LoadWindow at 0x0C301500>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__TenthEventDialog,		<cyfunction BuildGuildBuildingWindow.__TenthEventDialog at 0x0AF12B30>
+_BuildGuildBuildingWindow__TenthEventDialog,		<cyfunction BuildGuildBuildingWindow.__TenthEventDialog at 0x0C301920>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__TenthEventDialog
@@ -565,22 +565,22 @@ __doc__,		None
 submodule.__doc__
 
 
-_BuildGuildBuildingWindow__RefreshItem,		<cyfunction BuildGuildBuildingWindow.__RefreshItem at 0x0AAFB4A8>
+_BuildGuildBuildingWindow__RefreshItem,		<cyfunction BuildGuildBuildingWindow.__RefreshItem at 0x0C302298>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__RefreshItem
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-ChangeWindowUpdate,		<cyfunction BuildGuildBuildingWindow.ChangeWindowUpdate at 0x0AF12870>
+ChangeWindowUpdate,		<cyfunction BuildGuildBuildingWindow.ChangeWindowUpdate at 0x0C301660>
 	arg0: self
 
 submodule.ChangeWindowUpdate
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__IsTenthEventObject,		<cyfunction BuildGuildBuildingWindow.__IsTenthEventObject at 0x0AF12AD8>
+_BuildGuildBuildingWindow__IsTenthEventObject,		<cyfunction BuildGuildBuildingWindow.__IsTenthEventObject at 0x0C3018C8>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__IsTenthEventObject
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__CreateWallBlock,		<cyfunction BuildGuildBuildingWindow.__CreateWallBlock at 0x0AF128C8>
+_BuildGuildBuildingWindow__CreateWallBlock,		<cyfunction BuildGuildBuildingWindow.__CreateWallBlock at 0x0C3016B8>
 	arg0: self
 	arg1: race
 	arg2: x
@@ -590,44 +590,44 @@ _BuildGuildBuildingWindow__CreateWallBlock,		<cyfunction BuildGuildBuildingWindo
 
 submodule._BuildGuildBuildingWindow__CreateWallBlock
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__DisablePCBlocker,		<cyfunction BuildGuildBuildingWindow.__DisablePCBlocker at 0x0AF12EF8>
+_BuildGuildBuildingWindow__DisablePCBlocker,		<cyfunction BuildGuildBuildingWindow.__DisablePCBlocker at 0x0C301CE8>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__DisablePCBlocker
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-SetCloseEvent,		<cyfunction BuildGuildBuildingWindow.SetCloseEvent at 0x0AF12D98>
+SetCloseEvent,		<cyfunction BuildGuildBuildingWindow.SetCloseEvent at 0x0C301B88>
 	arg0: self
 	arg1: event
 
 submodule.SetCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__ChangeWindowOpen,		<cyfunction BuildGuildBuildingWindow.__ChangeWindowOpen at 0x0AF12768>
+_BuildGuildBuildingWindow__ChangeWindowOpen,		<cyfunction BuildGuildBuildingWindow.__ChangeWindowOpen at 0x0C301558>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__ChangeWindowOpen
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__PopupDialog,		<cyfunction BuildGuildBuildingWindow.__PopupDialog at 0x0AF12DF0>
+_BuildGuildBuildingWindow__PopupDialog,		<cyfunction BuildGuildBuildingWindow.__PopupDialog at 0x0C301BE0>
 	arg0: self
 	arg1: text
 
 submodule._BuildGuildBuildingWindow__PopupDialog
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__OnEnterPreviewMode,		<cyfunction BuildGuildBuildingWindow.__OnEnterPreviewMode at 0x0AF12FA8>
+_BuildGuildBuildingWindow__OnEnterPreviewMode,		<cyfunction BuildGuildBuildingWindow.__OnEnterPreviewMode at 0x0C301D98>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__OnEnterPreviewMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-IsPositioningMode,		<cyfunction BuildGuildBuildingWindow.IsPositioningMode at 0x0AAFB5B0>
+IsPositioningMode,		<cyfunction BuildGuildBuildingWindow.IsPositioningMode at 0x0C3023A0>
 	arg0: self
 
 submodule.IsPositioningMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-EndPositionChangeMode,		<cyfunction BuildGuildBuildingWindow.EndPositionChangeMode at 0x0AF12818>
+EndPositionChangeMode,		<cyfunction BuildGuildBuildingWindow.EndPositionChangeMode at 0x0C301608>
 	arg0: self
 
 submodule.EndPositionChangeMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction BuildGuildBuildingWindow.OnPressEscapeKey at 0x0AAFB660>
+OnPressEscapeKey,		<cyfunction BuildGuildBuildingWindow.OnPressEscapeKey at 0x0C302450>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -637,17 +637,17 @@ BUILDING_ALPHA,		0.55
 submodule.BUILDING_ALPHA
 
 
-_BuildGuildBuildingWindow__AskExchangeTenth,		<cyfunction BuildGuildBuildingWindow.__AskExchangeTenth at 0x0AF12B88>
+_BuildGuildBuildingWindow__AskExchangeTenth,		<cyfunction BuildGuildBuildingWindow.__AskExchangeTenth at 0x0C301978>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__AskExchangeTenth
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-IsPositionChangeMode,		<cyfunction BuildGuildBuildingWindow.IsPositionChangeMode at 0x0AF127C0>
+IsPositionChangeMode,		<cyfunction BuildGuildBuildingWindow.IsPositionChangeMode at 0x0C3015B0>
 	arg0: self
 
 submodule.IsPositionChangeMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__OnChangeRotation,		<cyfunction BuildGuildBuildingWindow.__OnChangeRotation at 0x0AAFB3A0>
+_BuildGuildBuildingWindow__OnChangeRotation,		<cyfunction BuildGuildBuildingWindow.__OnChangeRotation at 0x0C302190>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__OnChangeRotation
@@ -657,38 +657,38 @@ START_INSTANCE_INDEX,		123450
 submodule.START_INSTANCE_INDEX
 
 
-_BuildGuildBuildingWindow__CreateInstance,		<cyfunction BuildGuildBuildingWindow.__CreateInstance at 0x0AF12A80>
+_BuildGuildBuildingWindow__CreateInstance,		<cyfunction BuildGuildBuildingWindow.__CreateInstance at 0x0C301870>
 	arg0: self
 	arg1: race
 
 submodule._BuildGuildBuildingWindow__CreateInstance
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__EnablePCBlocker,		<cyfunction BuildGuildBuildingWindow.__EnablePCBlocker at 0x0AF12EA0>
+_BuildGuildBuildingWindow__EnablePCBlocker,		<cyfunction BuildGuildBuildingWindow.__EnablePCBlocker at 0x0C301C90>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__EnablePCBlocker
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-IsPreviewMode,		<cyfunction BuildGuildBuildingWindow.IsPreviewMode at 0x0AAFB608>
+IsPreviewMode,		<cyfunction BuildGuildBuildingWindow.IsPreviewMode at 0x0C3023F8>
 	arg0: self
 
 submodule.IsPreviewMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-Destory,		<cyfunction BuildGuildBuildingWindow.Destory at 0x0AF12D40>
+Destory,		<cyfunction BuildGuildBuildingWindow.Destory at 0x0C301B30>
 	arg0: self
 
 submodule.Destory
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__IsEnoughMaterialLog,		<cyfunction BuildGuildBuildingWindow.__IsEnoughMaterialLog at 0x0AAFB190>
+_BuildGuildBuildingWindow__IsEnoughMaterialLog,		<cyfunction BuildGuildBuildingWindow.__IsEnoughMaterialLog at 0x0C301F50>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__IsEnoughMaterialLog
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__OnScrollBuildingList,		<cyfunction BuildGuildBuildingWindow.__OnScrollBuildingList at 0x0AAFB348>
+_BuildGuildBuildingWindow__OnScrollBuildingList,		<cyfunction BuildGuildBuildingWindow.__OnScrollBuildingList at 0x0C302138>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__OnScrollBuildingList
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__IsEnoughMaterialStone,		<cyfunction BuildGuildBuildingWindow.__IsEnoughMaterialStone at 0x0AAFB138>
+_BuildGuildBuildingWindow__IsEnoughMaterialStone,		<cyfunction BuildGuildBuildingWindow.__IsEnoughMaterialStone at 0x0C301EF8>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__IsEnoughMaterialStone
@@ -703,22 +703,22 @@ ENABLE_COLOR,		-4079167
 submodule.ENABLE_COLOR
 
 
-_BuildGuildBuildingWindow__LockCameraMoving,		<cyfunction BuildGuildBuildingWindow.__LockCameraMoving at 0x0AAFB3F8>
+_BuildGuildBuildingWindow__LockCameraMoving,		<cyfunction BuildGuildBuildingWindow.__LockCameraMoving at 0x0C3021E8>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__LockCameraMoving
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingWindow__UnlockCameraMoving,		<cyfunction BuildGuildBuildingWindow.__UnlockCameraMoving at 0x0AAFB450>
+_BuildGuildBuildingWindow__UnlockCameraMoving,		<cyfunction BuildGuildBuildingWindow.__UnlockCameraMoving at 0x0C302240>
 	arg0: self
 
 submodule._BuildGuildBuildingWindow__UnlockCameraMoving
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-Close,		<cyfunction BuildGuildBuildingWindow.Close at 0x0AF12CE8>
+Close,		<cyfunction BuildGuildBuildingWindow.Close at 0x0C301AD8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-SetBuildingPosition,		<cyfunction BuildGuildBuildingWindow.SetBuildingPosition at 0x0AAFB558>
+SetBuildingPosition,		<cyfunction BuildGuildBuildingWindow.SetBuildingPosition at 0x0C302348>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -726,7 +726,7 @@ SetBuildingPosition,		<cyfunction BuildGuildBuildingWindow.SetBuildingPosition a
 
 submodule.SetBuildingPosition
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingWindow instance as first argument (got nothing instead)
-Open,		<cyfunction BuildGuildBuildingWindow.Open at 0x0AF12C90>
+Open,		<cyfunction BuildGuildBuildingWindow.Open at 0x0C301A80>
 	arg0: self
 
 submodule.Open
@@ -734,13 +734,13 @@ Skipped: unbound method cython_function_or_method object must be called with Bui
 
 
 class GuildWindow:
-OnDeposit,		<cyfunction GuildWindow.OnDeposit at 0x0AF111E8>
+OnDeposit,		<cyfunction GuildWindow.OnDeposit at 0x0C2FFFA8>
 	arg0: self
 	arg1: money
 
 submodule.OnDeposit
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction GuildWindow.OverInItem at 0x0AF11A28>
+OverInItem,		<cyfunction GuildWindow.OverInItem at 0x0C300818>
 	arg0: self
 	arg1: slotNumber
 	arg2: type
@@ -752,18 +752,18 @@ MEMBER_SLOT_INDEX_ATTENDANCE,		5
 submodule.MEMBER_SLOT_INDEX_ATTENDANCE
 
 
-OnOffer,		<cyfunction GuildWindow.OnOffer at 0x0AF11298>
+OnOffer,		<cyfunction GuildWindow.OnOffer at 0x0C300088>
 	arg0: self
 	arg1: exp
 
 submodule.OnOffer
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-CloseGuildListDialog,		<cyfunction GuildWindow.CloseGuildListDialog at 0x0AF10FA8>
+CloseGuildListDialog,		<cyfunction GuildWindow.CloseGuildListDialog at 0x0C2FFD98>
 	arg0: self
 
 submodule.CloseGuildListDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildBaseInfoPage,		<cyfunction GuildWindow.RefreshGuildBaseInfoPage at 0x0AF10348>
+RefreshGuildBaseInfoPage,		<cyfunction GuildWindow.RefreshGuildBaseInfoPage at 0x0C2FF138>
 	arg0: self
 
 submodule.RefreshGuildBaseInfoPage
@@ -778,72 +778,72 @@ _GuildWindow__GUILD_ATTENDANCE_FAIL_JOIN_TIME,		2
 submodule._GuildWindow__GUILD_ATTENDANCE_FAIL_JOIN_TIME
 
 
-_GuildWindow__LoadWindow,		<cyfunction GuildWindow.__LoadWindow at 0x0AF0F7C0>
+_GuildWindow__LoadWindow,		<cyfunction GuildWindow.__LoadWindow at 0x0C2FD5B0>
 	arg0: self
 
 submodule._GuildWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnClickSelectGuildMarkButton,		<cyfunction GuildWindow.__OnClickSelectGuildMarkButton at 0x0AF10CE8>
+_GuildWindow__OnClickSelectGuildMarkButton,		<cyfunction GuildWindow.__OnClickSelectGuildMarkButton at 0x0C2FFAD8>
 	arg0: self
 
 submodule._GuildWindow__OnClickSelectGuildMarkButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnEndGuildWar,		<cyfunction GuildWindow.OnEndGuildWar at 0x0AF119D0>
+OnEndGuildWar,		<cyfunction GuildWindow.OnEndGuildWar at 0x0C3007C0>
 	arg0: self
 	arg1: guildSelf
 	arg2: guildOpp
 
 submodule.OnEndGuildWar
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-CanOpen,		<cyfunction GuildWindow.CanOpen at 0x0AF0FC38>
+CanOpen,		<cyfunction GuildWindow.CanOpen at 0x0C2FDA28>
 	arg0: self
 
 submodule.CanOpen
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__GetGuildBoardCommentData,		<cyfunction GuildWindow.__GetGuildBoardCommentData at 0x0AF0FF50>
+_GuildWindow__GetGuildBoardCommentData,		<cyfunction GuildWindow.__GetGuildBoardCommentData at 0x0C2FDD40>
 	arg0: self
 	arg1: index
 
 submodule._GuildWindow__GetGuildBoardCommentData
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnPostComment,		<cyfunction GuildWindow.OnPostComment at 0x0AF112F0>
+OnPostComment,		<cyfunction GuildWindow.OnPostComment at 0x0C3000E0>
 	arg0: self
 
 submodule.OnPostComment
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnSelectMark,		<cyfunction GuildWindow.__OnSelectMark at 0x0AF10DF0>
+_GuildWindow__OnSelectMark,		<cyfunction GuildWindow.__OnSelectMark at 0x0C2FFBE0>
 	arg0: self
 	arg1: markFileName
 
 submodule._GuildWindow__OnSelectMark
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-ButtonToolTipProgress,		<cyfunction GuildWindow.ButtonToolTipProgress at 0x0AF0F8C8>
+ButtonToolTipProgress,		<cyfunction GuildWindow.ButtonToolTipProgress at 0x0C2FD6B8>
 	arg0: self
 
 submodule.ButtonToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnReQuestionEventChangeMaster,		<cyfunction GuildWindow.__OnReQuestionEventChangeMaster at 0x0AF10B30>
+_GuildWindow__OnReQuestionEventChangeMaster,		<cyfunction GuildWindow.__OnReQuestionEventChangeMaster at 0x0C2FF920>
 	arg0: self
 
 submodule._GuildWindow__OnReQuestionEventChangeMaster
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__MakeGradePage,		<cyfunction GuildWindow.__MakeGradePage at 0x0AF0FBE0>
+_GuildWindow__MakeGradePage,		<cyfunction GuildWindow.__MakeGradePage at 0x0C2FD9D0>
 	arg0: self
 
 submodule._GuildWindow__MakeGradePage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-Show,		<cyfunction GuildWindow.Show at 0x0AF0F768>
+Show,		<cyfunction GuildWindow.Show at 0x0C2FD558>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnOpenChangeGradeName,		<cyfunction GuildWindow.OnOpenChangeGradeName at 0x0AF11500>
+OnOpenChangeGradeName,		<cyfunction GuildWindow.OnOpenChangeGradeName at 0x0C3002F0>
 	arg0: self
 	arg1: arg
 
 submodule.OnOpenChangeGradeName
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnKeyDownInBoardPage,		<cyfunction GuildWindow.OnKeyDownInBoardPage at 0x0AF113F8>
+OnKeyDownInBoardPage,		<cyfunction GuildWindow.OnKeyDownInBoardPage at 0x0C3001E8>
 	arg0: self
 	arg1: key
 
@@ -854,43 +854,43 @@ __qualname__,		GuildWindow
 submodule.__qualname__
 
 
-_GuildWindow__OnGuildBaseAbandonButton,		<cyfunction GuildWindow.__OnGuildBaseAbandonButton at 0x0AF10608>
+_GuildWindow__OnGuildBaseAbandonButton,		<cyfunction GuildWindow.__OnGuildBaseAbandonButton at 0x0C2FF3F8>
 	arg0: self
 
 submodule._GuildWindow__OnGuildBaseAbandonButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__PopupMessage,		<cyfunction GuildWindow.__PopupMessage at 0x0AF10C90>
+_GuildWindow__PopupMessage,		<cyfunction GuildWindow.__PopupMessage at 0x0C2FFA80>
 	arg0: self
 	arg1: msg
 
 submodule._GuildWindow__PopupMessage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnGuildGoldInDialog,		<cyfunction GuildWindow.__OnGuildGoldInDialog at 0x0AF10500>
+_GuildWindow__OnGuildGoldInDialog,		<cyfunction GuildWindow.__OnGuildGoldInDialog at 0x0C2FF2F0>
 	arg0: self
 	arg1: money
 
 submodule._GuildWindow__OnGuildGoldInDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildWarInfoPage,		<cyfunction GuildWindow.RefreshGuildWarInfoPage at 0x0AF10298>
+RefreshGuildWarInfoPage,		<cyfunction GuildWindow.RefreshGuildWarInfoPage at 0x0C2FF088>
 	arg0: self
 
 submodule.RefreshGuildWarInfoPage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnStartGuildWar,		<cyfunction GuildWindow.OnStartGuildWar at 0x0AF11978>
+OnStartGuildWar,		<cyfunction GuildWindow.OnStartGuildWar at 0x0C300768>
 	arg0: self
 	arg1: guildSelf
 	arg2: guildOpp
 
 submodule.OnStartGuildWar
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__CreateGameTypeToolTip,		<cyfunction GuildWindow.__CreateGameTypeToolTip at 0x0AF0F978>
+_GuildWindow__CreateGameTypeToolTip,		<cyfunction GuildWindow.__CreateGameTypeToolTip at 0x0C2FD768>
 	arg0: self
 	arg1: title
 	arg2: descList
 
 submodule._GuildWindow__CreateGameTypeToolTip
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__MakeSkillPage,		<cyfunction GuildWindow.__MakeSkillPage at 0x0AF0FB88>
+_GuildWindow__MakeSkillPage,		<cyfunction GuildWindow.__MakeSkillPage at 0x0C2FD978>
 	arg0: self
 
 submodule._GuildWindow__MakeSkillPage
@@ -900,93 +900,93 @@ GRADE_ADD_MEMBER_AUTHORITY,		1
 submodule.GRADE_ADD_MEMBER_AUTHORITY
 
 
-_GuildWindow__OnGuildBaseAbandon,		<cyfunction GuildWindow.__OnGuildBaseAbandon at 0x0AF10660>
+_GuildWindow__OnGuildBaseAbandon,		<cyfunction GuildWindow.__OnGuildBaseAbandon at 0x0C2FF450>
 	arg0: self
 
 submodule._GuildWindow__OnGuildBaseAbandon
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnCreatePopUp,		<cyfunction GuildWindow.OnCreatePopUp at 0x0AF10C38>
+OnCreatePopUp,		<cyfunction GuildWindow.OnCreatePopUp at 0x0C2FFA28>
 	arg0: self
 	arg1: Text
 
 submodule.OnCreatePopUp
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildMemberPageGradeComboBox,		<cyfunction GuildWindow.RefreshGuildMemberPageGradeComboBox at 0x0AF100E0>
+RefreshGuildMemberPageGradeComboBox,		<cyfunction GuildWindow.RefreshGuildMemberPageGradeComboBox at 0x0C2FDEA0>
 	arg0: self
 
 submodule.RefreshGuildMemberPageGradeComboBox
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnEnableGeneral,		<cyfunction GuildWindow.OnEnableGeneral at 0x0AF114A8>
+OnEnableGeneral,		<cyfunction GuildWindow.OnEnableGeneral at 0x0C300298>
 	arg0: self
 	arg1: lineIndex
 
 submodule.OnEnableGeneral
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnOutMember,		<cyfunction GuildWindow.__OnOutMember at 0x0AF10978>
+_GuildWindow__OnOutMember,		<cyfunction GuildWindow.__OnOutMember at 0x0C2FF768>
 	arg0: self
 	arg1: page
 
 submodule._GuildWindow__OnOutMember
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction GuildWindow.Destroy at 0x0AF0FD40>
+Destroy,		<cyfunction GuildWindow.Destroy at 0x0C2FDB30>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnOpenHealGSPQuestionDialog,		<cyfunction GuildWindow.__OnOpenHealGSPQuestionDialog at 0x0AF11710>
+_GuildWindow__OnOpenHealGSPQuestionDialog,		<cyfunction GuildWindow.__OnOpenHealGSPQuestionDialog at 0x0C300500>
 	arg0: self
 	arg1: healGSP
 
 submodule._GuildWindow__OnOpenHealGSPQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-SelectPage,		<cyfunction GuildWindow.SelectPage at 0x0AF0FE48>
+SelectPage,		<cyfunction GuildWindow.SelectPage at 0x0C2FDC38>
 	arg0: self
 	arg1: arg
 
 submodule.SelectPage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OverOutToolTipButton,		<cyfunction GuildWindow.OverOutToolTipButton at 0x0AF0F870>
+OverOutToolTipButton,		<cyfunction GuildWindow.OverOutToolTipButton at 0x0C2FD660>
 	arg0: self
 
 submodule.OverOutToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-SetGuildWarType,		<cyfunction GuildWindow.SetGuildWarType at 0x0AF107C0>
+SetGuildWarType,		<cyfunction GuildWindow.SetGuildWarType at 0x0C2FF5B0>
 	arg0: self
 	arg1: index
 
 submodule.SetGuildWarType
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnChangeGradeName,		<cyfunction GuildWindow.OnChangeGradeName at 0x0AF11558>
+OnChangeGradeName,		<cyfunction GuildWindow.OnChangeGradeName at 0x0C300348>
 	arg0: self
 
 submodule.OnChangeGradeName
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction GuildWindow.OverOutItem at 0x0AF11A80>
+OverOutItem,		<cyfunction GuildWindow.OverOutItem at 0x0C300870>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnClickDeclareWarButton,		<cyfunction GuildWindow.__OnClickDeclareWarButton at 0x0AF10D98>
+_GuildWindow__OnClickDeclareWarButton,		<cyfunction GuildWindow.__OnClickDeclareWarButton at 0x0C2FFB88>
 	arg0: self
 
 submodule._GuildWindow__OnClickDeclareWarButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-GuildListDialogIsShow,		<cyfunction GuildWindow.GuildListDialogIsShow at 0x0AF11030>
+GuildListDialogIsShow,		<cyfunction GuildWindow.GuildListDialogIsShow at 0x0C2FFDF0>
 	arg0: self
 
 submodule.GuildListDialogIsShow
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-DeleteGuild,		<cyfunction GuildWindow.DeleteGuild at 0x0AF0FD98>
+DeleteGuild,		<cyfunction GuildWindow.DeleteGuild at 0x0C2FDB88>
 	arg0: self
 
 submodule.DeleteGuild
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildBoardPage,		<cyfunction GuildWindow.RefreshGuildBoardPage at 0x0AF0FFA8>
+RefreshGuildBoardPage,		<cyfunction GuildWindow.RefreshGuildBoardPage at 0x0C2FDD98>
 	arg0: self
 
 submodule.RefreshGuildBoardPage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnScrollsmelterList,		<cyfunction GuildWindow.__OnScrollsmelterList at 0x0AF103A0>
+_GuildWindow__OnScrollsmelterList,		<cyfunction GuildWindow.__OnScrollsmelterList at 0x0C2FF190>
 	arg0: self
 
 submodule._GuildWindow__OnScrollsmelterList
@@ -996,13 +996,13 @@ MEMBER_SLOT_INDEX_JOB,		2
 submodule.MEMBER_SLOT_INDEX_JOB
 
 
-OnWithdraw,		<cyfunction GuildWindow.OnWithdraw at 0x0AF11240>
+OnWithdraw,		<cyfunction GuildWindow.OnWithdraw at 0x0C300030>
 	arg0: self
 	arg1: money
 
 submodule.OnWithdraw
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnClickSelectGuildSymbolButton,		<cyfunction GuildWindow.__OnClickSelectGuildSymbolButton at 0x0AF10D40>
+_GuildWindow__OnClickSelectGuildSymbolButton,		<cyfunction GuildWindow.__OnClickSelectGuildSymbolButton at 0x0C2FFB30>
 	arg0: self
 
 submodule._GuildWindow__OnClickSelectGuildSymbolButton
@@ -1017,46 +1017,46 @@ MEMBER_SLOT_INDEX_OFFERSLOT,		4
 submodule.MEMBER_SLOT_INDEX_OFFERSLOT
 
 
-_GuildWindow__MakeMemberPage,		<cyfunction GuildWindow.__MakeMemberPage at 0x0AF0FAD8>
+_GuildWindow__MakeMemberPage,		<cyfunction GuildWindow.__MakeMemberPage at 0x0C2FD8C8>
 	arg0: self
 
 submodule._GuildWindow__MakeMemberPage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnGuildBaseDealVoteButton,		<cyfunction GuildWindow.OnGuildBaseDealVoteButton at 0x0AF106B8>
+OnGuildBaseDealVoteButton,		<cyfunction GuildWindow.OnGuildBaseDealVoteButton at 0x0C2FF4A8>
 	arg0: self
 
 submodule.OnGuildBaseDealVoteButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnPickUpGuildSkill,		<cyfunction GuildWindow.OnPickUpGuildSkill at 0x0AF11818>
+OnPickUpGuildSkill,		<cyfunction GuildWindow.OnPickUpGuildSkill at 0x0C300608>
 	arg0: self
 	arg1: skillSlotIndex
 	arg2: type
 
 submodule.OnPickUpGuildSkill
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__CloseAllGuildMemberPageGradeComboBox,		<cyfunction GuildWindow.__CloseAllGuildMemberPageGradeComboBox at 0x0AF0FEA0>
+_GuildWindow__CloseAllGuildMemberPageGradeComboBox,		<cyfunction GuildWindow.__CloseAllGuildMemberPageGradeComboBox at 0x0C2FDC90>
 	arg0: self
 
 submodule._GuildWindow__CloseAllGuildMemberPageGradeComboBox
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnUpGuildSkill,		<cyfunction GuildWindow.OnUpGuildSkill at 0x0AF118C8>
+OnUpGuildSkill,		<cyfunction GuildWindow.OnUpGuildSkill at 0x0C3006B8>
 	arg0: self
 	arg1: slotNumber
 	arg2: type
 
 submodule.OnUpGuildSkill
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildInfoPage,		<cyfunction GuildWindow.RefreshGuildInfoPage at 0x0AF0FEF8>
+RefreshGuildInfoPage,		<cyfunction GuildWindow.RefreshGuildInfoPage at 0x0C2FDCE8>
 	arg0: self
 
 submodule.RefreshGuildInfoPage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction GuildWindow.OnUpdate at 0x0AF0F9D0>
+OnUpdate,		<cyfunction GuildWindow.OnUpdate at 0x0C2FD7C0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-GuildWarScoreSetting,		<cyfunction GuildWindow.GuildWarScoreSetting at 0x0AF108C8>
+GuildWarScoreSetting,		<cyfunction GuildWindow.GuildWarScoreSetting at 0x0C2FF6B8>
 	arg0: self
 	arg1: gainGuildID
 	arg2: guildOpp
@@ -1065,24 +1065,24 @@ GuildWarScoreSetting,		<cyfunction GuildWindow.GuildWarScoreSetting at 0x0AF108C
 
 submodule.GuildWarScoreSetting
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnClickOfferButton,		<cyfunction GuildWindow.__OnClickOfferButton at 0x0AF10EA0>
+_GuildWindow__OnClickOfferButton,		<cyfunction GuildWindow.__OnClickOfferButton at 0x0C2FFC90>
 	arg0: self
 
 submodule._GuildWindow__OnClickOfferButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnUseSkill,		<cyfunction GuildWindow.OnUseSkill at 0x0AF11920>
+OnUseSkill,		<cyfunction GuildWindow.OnUseSkill at 0x0C300710>
 	arg0: self
 	arg1: slotNumber
 	arg2: coolTime
 
 submodule.OnUseSkill
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildBaseInfoPageBankGold,		<cyfunction GuildWindow.RefreshGuildBaseInfoPageBankGold at 0x0AF10240>
+RefreshGuildBaseInfoPageBankGold,		<cyfunction GuildWindow.RefreshGuildBaseInfoPageBankGold at 0x0C2FF030>
 	arg0: self
 
 submodule.RefreshGuildBaseInfoPageBankGold
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildSkillPage,		<cyfunction GuildWindow.RefreshGuildSkillPage at 0x0AF10190>
+RefreshGuildSkillPage,		<cyfunction GuildWindow.RefreshGuildSkillPage at 0x0C2FDF50>
 	arg0: self
 
 submodule.RefreshGuildSkillPage
@@ -1092,7 +1092,7 @@ PLUS_LEFT_WIDTH,		40
 submodule.PLUS_LEFT_WIDTH
 
 
-_GuildWindow__OnClickAttendanceButton,		<cyfunction GuildWindow.__OnClickAttendanceButton at 0x0AF11C38>
+_GuildWindow__OnClickAttendanceButton,		<cyfunction GuildWindow.__OnClickAttendanceButton at 0x0C300A28>
 	arg0: self
 
 submodule._GuildWindow__OnClickAttendanceButton
@@ -1102,7 +1102,7 @@ __module__,		uiGuild
 submodule.__module__
 
 
-OpenGuildGoldInOutWindow,		<cyfunction GuildWindow.OpenGuildGoldInOutWindow at 0x0AF10450>
+OpenGuildGoldInOutWindow,		<cyfunction GuildWindow.OpenGuildGoldInOutWindow at 0x0C2FF240>
 	arg0: self
 	arg1: inout
 
@@ -1113,7 +1113,7 @@ MEMBER_SLOT_INDEX_LEVEL,		3
 submodule.MEMBER_SLOT_INDEX_LEVEL
 
 
-_GuildWindow__MakeInfoPage,		<cyfunction GuildWindow.__MakeInfoPage at 0x0AF0FA28>
+_GuildWindow__MakeInfoPage,		<cyfunction GuildWindow.__MakeInfoPage at 0x0C2FD818>
 	arg0: self
 
 submodule._GuildWindow__MakeInfoPage
@@ -1123,41 +1123,41 @@ MEMBER_SLOT_INDEX_GENERAL_ENABLE,		6
 submodule.MEMBER_SLOT_INDEX_GENERAL_ENABLE
 
 
-_GuildWindow__OnClosePopupDialog,		<cyfunction GuildWindow.__OnClosePopupDialog at 0x0AF11190>
+_GuildWindow__OnClosePopupDialog,		<cyfunction GuildWindow.__OnClosePopupDialog at 0x0C2FFF50>
 	arg0: self
 
 submodule._GuildWindow__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnGuildGoldOutDialog,		<cyfunction GuildWindow.__OnGuildGoldOutDialog at 0x0AF10558>
+_GuildWindow__OnGuildGoldOutDialog,		<cyfunction GuildWindow.__OnGuildGoldOutDialog at 0x0C2FF348>
 	arg0: self
 	arg1: money
 
 submodule._GuildWindow__OnGuildGoldOutDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-GuildWarOppGuildNameSetting,		<cyfunction GuildWindow.GuildWarOppGuildNameSetting at 0x0AF10870>
+GuildWarOppGuildNameSetting,		<cyfunction GuildWindow.GuildWarOppGuildNameSetting at 0x0C2FF660>
 	arg0: self
 	arg1: guildSelf
 	arg2: Oppguild
 
 submodule.GuildWarOppGuildNameSetting
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnScrollMemberLine,		<cyfunction GuildWindow.OnScrollMemberLine at 0x0AF11608>
+OnScrollMemberLine,		<cyfunction GuildWindow.OnScrollMemberLine at 0x0C3003F8>
 	arg0: self
 
 submodule.OnScrollMemberLine
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnSelectSymbol,		<cyfunction GuildWindow.__OnSelectSymbol at 0x0AF10E48>
+_GuildWindow__OnSelectSymbol,		<cyfunction GuildWindow.__OnSelectSymbol at 0x0C2FFC38>
 	arg0: self
 	arg1: symbolFileName
 
 submodule._GuildWindow__OnSelectSymbol
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnOutMemberStart,		<cyfunction GuildWindow.__OnOutMemberStart at 0x0AF10A28>
+_GuildWindow__OnOutMemberStart,		<cyfunction GuildWindow.__OnOutMemberStart at 0x0C2FF818>
 	arg0: self
 
 submodule._GuildWindow__OnOutMemberStart
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildMemberPage,		<cyfunction GuildWindow.RefreshGuildMemberPage at 0x0AF10030>
+RefreshGuildMemberPage,		<cyfunction GuildWindow.RefreshGuildMemberPage at 0x0C2FDDF0>
 	arg0: self
 
 submodule.RefreshGuildMemberPage
@@ -1167,14 +1167,14 @@ __doc__,		None
 submodule.__doc__
 
 
-OnUseGuildSkill,		<cyfunction GuildWindow.OnUseGuildSkill at 0x0AF11870>
+OnUseGuildSkill,		<cyfunction GuildWindow.OnUseGuildSkill at 0x0C300660>
 	arg0: self
 	arg1: slotNumber
 	arg2: type
 
 submodule.OnUseGuildSkill
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnCloseGoldInOutWindow,		<cyfunction GuildWindow.__OnCloseGoldInOutWindow at 0x0AF104A8>
+_GuildWindow__OnCloseGoldInOutWindow,		<cyfunction GuildWindow.__OnCloseGoldInOutWindow at 0x0C2FF298>
 	arg0: self
 
 submodule._GuildWindow__OnCloseGoldInOutWindow
@@ -1184,7 +1184,7 @@ GRADE_SKILL_AUTHORITY,		4
 submodule.GRADE_SKILL_AUTHORITY
 
 
-_GuildWindow__OnChangeMaster,		<cyfunction GuildWindow.__OnChangeMaster at 0x0AF10A80>
+_GuildWindow__OnChangeMaster,		<cyfunction GuildWindow.__OnChangeMaster at 0x0C2FF870>
 	arg0: self
 	arg1: page
 
@@ -1195,36 +1195,36 @@ _GuildWindow__GUILD_EXP_DONATE_LEVEL,		20
 submodule._GuildWindow__GUILD_EXP_DONATE_LEVEL
 
 
-OpenGuildListDialog,		<cyfunction GuildWindow.OpenGuildListDialog at 0x0AF10F50>
+OpenGuildListDialog,		<cyfunction GuildWindow.OpenGuildListDialog at 0x0C2FFD40>
 	arg0: self
 
 submodule.OpenGuildListDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildRankingList,		<cyfunction GuildWindow.RefreshGuildRankingList at 0x0AF11B30>
+RefreshGuildRankingList,		<cyfunction GuildWindow.RefreshGuildRankingList at 0x0C300920>
 	arg0: self
 	arg1: issearch
 
 submodule.RefreshGuildRankingList
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildWindow.__del__ at 0x0AF0F6B8>
+__del__,		<cyfunction GuildWindow.__del__ at 0x0C2FD4A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnDeleteComment,		<cyfunction GuildWindow.OnDeleteComment at 0x0AF11348>
+OnDeleteComment,		<cyfunction GuildWindow.OnDeleteComment at 0x0C300138>
 	arg0: self
 	arg1: index
 
 submodule.OnDeleteComment
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnClickDonateButton,		<cyfunction GuildWindow.__OnClickDonateButton at 0x0AF11B88>
+_GuildWindow__OnClickDonateButton,		<cyfunction GuildWindow.__OnClickDonateButton at 0x0C300978>
 	arg0: self
 
 submodule._GuildWindow__OnClickDonateButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
 PageWindow,		<class 'uiGuild.PageWindow'>
 Skip: type object 'PageWindow' has no attribute 'func_code'
-_GuildWindow__MakeBaseInfoPage,		<cyfunction GuildWindow.__MakeBaseInfoPage at 0x0AF0FB30>
+_GuildWindow__MakeBaseInfoPage,		<cyfunction GuildWindow.__MakeBaseInfoPage at 0x0C2FD920>
 	arg0: self
 
 submodule._GuildWindow__MakeBaseInfoPage
@@ -1234,7 +1234,7 @@ GRADE_REMOVE_MEMBER_AUTHORITY,		2
 submodule.GRADE_REMOVE_MEMBER_AUTHORITY
 
 
-GuildProcess,		<cyfunction GuildWindow.GuildProcess at 0x0AF11BE0>
+GuildProcess,		<cyfunction GuildWindow.GuildProcess at 0x0C3009D0>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -1247,7 +1247,7 @@ PLUS_RIGHT_WIDTH,		40
 submodule.PLUS_RIGHT_WIDTH
 
 
-_GuildWindow__OnGuildBaseDeal,		<cyfunction GuildWindow.__OnGuildBaseDeal at 0x0AF10710>
+_GuildWindow__OnGuildBaseDeal,		<cyfunction GuildWindow.__OnGuildBaseDeal at 0x0C2FF500>
 	arg0: self
 
 submodule._GuildWindow__OnGuildBaseDeal
@@ -1257,34 +1257,34 @@ MEMBER_SLOT_INDEX_NAME,		0
 submodule.MEMBER_SLOT_INDEX_NAME
 
 
-_GuildWindow__OnAcceptEventChangeMaster,		<cyfunction GuildWindow.__OnAcceptEventChangeMaster at 0x0AF10AD8>
+_GuildWindow__OnAcceptEventChangeMaster,		<cyfunction GuildWindow.__OnAcceptEventChangeMaster at 0x0C2FF8C8>
 	arg0: self
 
 submodule._GuildWindow__OnAcceptEventChangeMaster
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-Close,		<cyfunction GuildWindow.Close at 0x0AF0FCE8>
+Close,		<cyfunction GuildWindow.Close at 0x0C2FDAD8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnRefreshComments,		<cyfunction GuildWindow.OnRefreshComments at 0x0AF113A0>
+OnRefreshComments,		<cyfunction GuildWindow.OnRefreshComments at 0x0C300190>
 	arg0: self
 
 submodule.OnRefreshComments
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-Open,		<cyfunction GuildWindow.Open at 0x0AF0FC90>
+Open,		<cyfunction GuildWindow.Open at 0x0C2FDA80>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnChangeMemberGrade,		<cyfunction GuildWindow.OnChangeMemberGrade at 0x0AF11450>
+OnChangeMemberGrade,		<cyfunction GuildWindow.OnChangeMemberGrade at 0x0C300240>
 	arg0: self
 	arg1: lineIndex
 	arg2: gradeNumber
 
 submodule.OnChangeMemberGrade
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnCheckAuthority,		<cyfunction GuildWindow.OnCheckAuthority at 0x0AF115B0>
+OnCheckAuthority,		<cyfunction GuildWindow.OnCheckAuthority at 0x0C3003A0>
 	arg0: self
 	arg1: argIndex
 	arg2: argAuthority
@@ -1296,12 +1296,12 @@ _GuildWindow__GUILD_ATTENDANCE_FAIL_ERROR,		1
 submodule._GuildWindow__GUILD_ATTENDANCE_FAIL_ERROR
 
 
-_GuildWindow__OverInOfferImg,		<cyfunction GuildWindow.__OverInOfferImg at 0x0AF0F920>
+_GuildWindow__OverInOfferImg,		<cyfunction GuildWindow.__OverInOfferImg at 0x0C2FD710>
 	arg0: self
 
 submodule._GuildWindow__OverInOfferImg
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnClickWithdrawButton,		<cyfunction GuildWindow.__OnClickWithdrawButton at 0x0AF110E0>
+_GuildWindow__OnClickWithdrawButton,		<cyfunction GuildWindow.__OnClickWithdrawButton at 0x0C2FFEA0>
 	arg0: self
 
 submodule._GuildWindow__OnClickWithdrawButton
@@ -1311,37 +1311,37 @@ GUILD_SKILL_ACTIVE_SLOT,		1
 submodule.GUILD_SKILL_ACTIVE_SLOT
 
 
-_GuildWindow__OnBlock,		<cyfunction GuildWindow.__OnBlock at 0x0AF11138>
+_GuildWindow__OnBlock,		<cyfunction GuildWindow.__OnBlock at 0x0C2FFEF8>
 	arg0: self
 
 submodule._GuildWindow__OnBlock
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__MakeBoardPage,		<cyfunction GuildWindow.__MakeBoardPage at 0x0AF0FA80>
+_GuildWindow__MakeBoardPage,		<cyfunction GuildWindow.__MakeBoardPage at 0x0C2FD870>
 	arg0: self
 
 submodule._GuildWindow__MakeBoardPage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnGuildBaseDealButton,		<cyfunction GuildWindow.OnGuildBaseDealButton at 0x0AF10768>
+OnGuildBaseDealButton,		<cyfunction GuildWindow.OnGuildBaseDealButton at 0x0C2FF558>
 	arg0: self
 
 submodule.OnGuildBaseDealButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildGradePage,		<cyfunction GuildWindow.RefreshGuildGradePage at 0x0AF101E8>
+RefreshGuildGradePage,		<cyfunction GuildWindow.RefreshGuildGradePage at 0x0C2FDFA8>
 	arg0: self
 
 submodule.RefreshGuildGradePage
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction GuildWindow.__init__ at 0x0AF0F660>
+__init__,		<cyfunction GuildWindow.__init__ at 0x0C2FD450>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnHealGSP,		<cyfunction GuildWindow.__OnHealGSP at 0x0AF11768>
+_GuildWindow__OnHealGSP,		<cyfunction GuildWindow.__OnHealGSP at 0x0C300558>
 	arg0: self
 
 submodule._GuildWindow__OnHealGSP
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-ClosePopUpDialog,		<cyfunction GuildWindow.ClosePopUpDialog at 0x0AF109D0>
+ClosePopUpDialog,		<cyfunction GuildWindow.ClosePopUpDialog at 0x0C2FF7C0>
 	arg0: self
 
 submodule.ClosePopUpDialog
@@ -1351,13 +1351,13 @@ MEMBER_SLOT_INDEX_GRADE,		1
 submodule.MEMBER_SLOT_INDEX_GRADE
 
 
-_GuildWindow__OnGuildGoldInOutButton,		<cyfunction GuildWindow.__OnGuildGoldInOutButton at 0x0AF103F8>
+_GuildWindow__OnGuildGoldInOutButton,		<cyfunction GuildWindow.__OnGuildGoldInOutButton at 0x0C2FF1E8>
 	arg0: self
 	arg1: inout
 
 submodule._GuildWindow__OnGuildGoldInOutButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnCloseQuestionDialog,		<cyfunction GuildWindow.__OnCloseQuestionDialog at 0x0AF117C0>
+_GuildWindow__OnCloseQuestionDialog,		<cyfunction GuildWindow.__OnCloseQuestionDialog at 0x0C3005B0>
 	arg0: self
 
 submodule._GuildWindow__OnCloseQuestionDialog
@@ -1367,18 +1367,18 @@ _GuildWindow__GUILD_ATTENDANCE_SUCCESS,		0
 submodule._GuildWindow__GUILD_ATTENDANCE_SUCCESS
 
 
-_GuildWindow__OnClickDepositButton,		<cyfunction GuildWindow.__OnClickDepositButton at 0x0AF11088>
+_GuildWindow__OnClickDepositButton,		<cyfunction GuildWindow.__OnClickDepositButton at 0x0C2FFE48>
 	arg0: self
 
 submodule._GuildWindow__OnClickDepositButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OverInToolTipButton,		<cyfunction GuildWindow.OverInToolTipButton at 0x0AF0F818>
+OverInToolTipButton,		<cyfunction GuildWindow.OverInToolTipButton at 0x0C2FD608>
 	arg0: self
 	arg1: arg
 
 submodule.OverInToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-RefreshGuildMemberSelectBox,		<cyfunction GuildWindow.RefreshGuildMemberSelectBox at 0x0AF10138>
+RefreshGuildMemberSelectBox,		<cyfunction GuildWindow.RefreshGuildMemberSelectBox at 0x0C2FDEF8>
 	arg0: self
 
 submodule.RefreshGuildMemberSelectBox
@@ -1388,17 +1388,17 @@ GRADE_NOTICE_AUTHORITY,		3
 submodule.GRADE_NOTICE_AUTHORITY
 
 
-RefreshGuildMemberPageMemberList,		<cyfunction GuildWindow.RefreshGuildMemberPageMemberList at 0x0AF10088>
+RefreshGuildMemberPageMemberList,		<cyfunction GuildWindow.RefreshGuildMemberPageMemberList at 0x0C2FDE48>
 	arg0: self
 
 submodule.RefreshGuildMemberPageMemberList
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnGuildWarScroll,		<cyfunction GuildWindow.__OnGuildWarScroll at 0x0AF102F0>
+_GuildWindow__OnGuildWarScroll,		<cyfunction GuildWindow.__OnGuildWarScroll at 0x0C2FF0E0>
 	arg0: self
 
 submodule._GuildWindow__OnGuildWarScroll
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnCreateGuildPopUp,		<cyfunction GuildWindow.OnCreateGuildPopUp at 0x0AF10BE0>
+OnCreateGuildPopUp,		<cyfunction GuildWindow.OnCreateGuildPopUp at 0x0C2FF9D0>
 	arg0: self
 	arg1: Text1
 	arg2: Text2
@@ -1407,7 +1407,7 @@ OnCreateGuildPopUp,		<cyfunction GuildWindow.OnCreateGuildPopUp at 0x0AF10BE0>
 
 submodule.OnCreateGuildPopUp
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction GuildWindow.OnPressEscapeKey at 0x0AF11AD8>
+OnPressEscapeKey,		<cyfunction GuildWindow.OnPressEscapeKey at 0x0C3008C8>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -1417,39 +1417,39 @@ PLUS_WIDTH,		80
 submodule.PLUS_WIDTH
 
 
-_GuildWindow__Initialize,		<cyfunction GuildWindow.__Initialize at 0x0AF0F710>
+_GuildWindow__Initialize,		<cyfunction GuildWindow.__Initialize at 0x0C2FD500>
 	arg0: self
 
 submodule._GuildWindow__Initialize
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnGuildBankGolInfoButton,		<cyfunction GuildWindow.__OnGuildBankGolInfoButton at 0x0AF105B0>
+_GuildWindow__OnGuildBankGolInfoButton,		<cyfunction GuildWindow.__OnGuildBankGolInfoButton at 0x0C2FF3A0>
 	arg0: self
 
 submodule._GuildWindow__OnGuildBankGolInfoButton
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-GuildWarEnd,		<cyfunction GuildWindow.GuildWarEnd at 0x0AF10920>
+GuildWarEnd,		<cyfunction GuildWindow.GuildWarEnd at 0x0C2FF710>
 	arg0: self
 
 submodule.GuildWarEnd
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-SetSkillToolTip,		<cyfunction GuildWindow.SetSkillToolTip at 0x0AF0FDF0>
+SetSkillToolTip,		<cyfunction GuildWindow.SetSkillToolTip at 0x0C2FDBE0>
 	arg0: self
 	arg1: tooltipSkill
 
 submodule.SetSkillToolTip
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnOpenHealGSPBoard,		<cyfunction GuildWindow.__OnOpenHealGSPBoard at 0x0AF116B8>
+_GuildWindow__OnOpenHealGSPBoard,		<cyfunction GuildWindow.__OnOpenHealGSPBoard at 0x0C3004A8>
 	arg0: self
 
 submodule._GuildWindow__OnOpenHealGSPBoard
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__GuildAttendanceResult,		<cyfunction GuildWindow.__GuildAttendanceResult at 0x0AF11C90>
+_GuildWindow__GuildAttendanceResult,		<cyfunction GuildWindow.__GuildAttendanceResult at 0x0C300A80>
 	arg0: self
 	arg1: result
 
 submodule._GuildWindow__GuildAttendanceResult
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-_GuildWindow__OnClickGuildListButton,		<cyfunction GuildWindow.__OnClickGuildListButton at 0x0AF10EF8>
+_GuildWindow__OnClickGuildListButton,		<cyfunction GuildWindow.__OnClickGuildListButton at 0x0C2FFCE8>
 	arg0: self
 
 submodule._GuildWindow__OnClickGuildListButton
@@ -1464,19 +1464,19 @@ GUILD_SKILL_PASSIVE_SLOT,		0
 submodule.GUILD_SKILL_PASSIVE_SLOT
 
 
-_GuildWindow__OnVoteCheck,		<cyfunction GuildWindow.__OnVoteCheck at 0x0AF10B88>
+_GuildWindow__OnVoteCheck,		<cyfunction GuildWindow.__OnVoteCheck at 0x0C2FF978>
 	arg0: self
 	arg1: page
 
 submodule._GuildWindow__OnVoteCheck
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-GetMemberData,		<cyfunction GuildWindow.GetMemberData at 0x0AF11660>
+GetMemberData,		<cyfunction GuildWindow.GetMemberData at 0x0C300450>
 	arg0: self
 	arg1: localPos
 
 submodule.GetMemberData
 Skipped: unbound method cython_function_or_method object must be called with GuildWindow instance as first argument (got nothing instead)
-OpenGuildScoreWindow,		<cyfunction GuildWindow.OpenGuildScoreWindow at 0x0AF10818>
+OpenGuildScoreWindow,		<cyfunction GuildWindow.OpenGuildScoreWindow at 0x0C2FF608>
 	arg0: self
 
 submodule.OpenGuildScoreWindow
@@ -1489,7 +1489,7 @@ submodule.MEMBER_LINE_COUNT
 
 
 class GuildWarScoreDialog:
-GetOpend,		<cyfunction GuildWarScoreDialog.GetOpend at 0x0AF0D088>
+GetOpend,		<cyfunction GuildWarScoreDialog.GetOpend at 0x0C711E48>
 	arg0: self
 
 submodule.GetOpend
@@ -1499,17 +1499,17 @@ __module__,		uiGuild
 submodule.__module__
 
 
-__del__,		<cyfunction GuildWarScoreDialog.__del__ at 0x0AF06DF0>
+__del__,		<cyfunction GuildWarScoreDialog.__del__ at 0x0C711BE0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreDialog instance as first argument (got nothing instead)
-_GuildWarScoreDialog__CreateDialog,		<cyfunction GuildWarScoreDialog.__CreateDialog at 0x0AF06EF8>
+_GuildWarScoreDialog__CreateDialog,		<cyfunction GuildWarScoreDialog.__CreateDialog at 0x0C711CE8>
 	arg0: self
 
 submodule._GuildWarScoreDialog__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreDialog instance as first argument (got nothing instead)
-SetOppGuildName,		<cyfunction GuildWarScoreDialog.SetOppGuildName at 0x0AF06F50>
+SetOppGuildName,		<cyfunction GuildWarScoreDialog.SetOppGuildName at 0x0C711D40>
 	arg0: self
 	arg1: OppGuildId
 
@@ -1520,17 +1520,17 @@ __qualname__,		GuildWarScoreDialog
 submodule.__qualname__
 
 
-OnPressEscapeKey,		<cyfunction GuildWarScoreDialog.OnPressEscapeKey at 0x0AF0D0E0>
+OnPressEscapeKey,		<cyfunction GuildWarScoreDialog.OnPressEscapeKey at 0x0C711EA0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreDialog instance as first argument (got nothing instead)
-Close,		<cyfunction GuildWarScoreDialog.Close at 0x0AF06EA0>
+Close,		<cyfunction GuildWarScoreDialog.Close at 0x0C711C90>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreDialog instance as first argument (got nothing instead)
-SetWarPoint,		<cyfunction GuildWarScoreDialog.SetWarPoint at 0x0AF06FA8>
+SetWarPoint,		<cyfunction GuildWarScoreDialog.SetWarPoint at 0x0C711D98>
 	arg0: self
 	arg1: gainGuildId
 	arg2: point
@@ -1538,7 +1538,7 @@ SetWarPoint,		<cyfunction GuildWarScoreDialog.SetWarPoint at 0x0AF06FA8>
 
 submodule.SetWarPoint
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreDialog instance as first argument (got nothing instead)
-Open,		<cyfunction GuildWarScoreDialog.Open at 0x0AF06E48>
+Open,		<cyfunction GuildWarScoreDialog.Open at 0x0C711C38>
 	arg0: self
 
 submodule.Open
@@ -1548,12 +1548,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction GuildWarScoreDialog.__init__ at 0x0AF06D98>
+__init__,		<cyfunction GuildWarScoreDialog.__init__ at 0x0C711B88>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildWarScoreDialog instance as first argument (got nothing instead)
-GuildWarEnd,		<cyfunction GuildWarScoreDialog.GuildWarEnd at 0x0AF0D030>
+GuildWarEnd,		<cyfunction GuildWarScoreDialog.GuildWarEnd at 0x0C711DF0>
 	arg0: self
 
 submodule.GuildWarEnd
@@ -1571,51 +1571,51 @@ __module__,		uiGuild
 submodule.__module__
 
 
-__del__,		<cyfunction DeclearGuildWarSelectDialog.__del__ at 0x0AF0D190>
+__del__,		<cyfunction DeclearGuildWarSelectDialog.__del__ at 0x0C711F50>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction DeclearGuildWarSelectDialog.OnUpdate at 0x0AF0D4A8>
+OnUpdate,		<cyfunction DeclearGuildWarSelectDialog.OnUpdate at 0x0C2FB298>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-_DeclearGuildWarSelectDialog__CreateDialog,		<cyfunction DeclearGuildWarSelectDialog.__CreateDialog at 0x0AF0D298>
+_DeclearGuildWarSelectDialog__CreateDialog,		<cyfunction DeclearGuildWarSelectDialog.__CreateDialog at 0x0C2FB088>
 	arg0: self
 
 submodule._DeclearGuildWarSelectDialog__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-_DeclearGuildWarSelectDialog__OnTypeButtonClick,		<cyfunction DeclearGuildWarSelectDialog.__OnTypeButtonClick at 0x0AF0D2F0>
+_DeclearGuildWarSelectDialog__OnTypeButtonClick,		<cyfunction DeclearGuildWarSelectDialog.__OnTypeButtonClick at 0x0C2FB0E0>
 	arg0: self
 	arg1: index
 
 submodule._DeclearGuildWarSelectDialog__OnTypeButtonClick
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-ButtonToolTipProgress,		<cyfunction DeclearGuildWarSelectDialog.ButtonToolTipProgress at 0x0AF0D450>
+ButtonToolTipProgress,		<cyfunction DeclearGuildWarSelectDialog.ButtonToolTipProgress at 0x0C2FB240>
 	arg0: self
 
 submodule.ButtonToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-_DeclearGuildWarSelectDialog__CreateGameTypeToolTip,		<cyfunction DeclearGuildWarSelectDialog.__CreateGameTypeToolTip at 0x0AF0D348>
+_DeclearGuildWarSelectDialog__CreateGameTypeToolTip,		<cyfunction DeclearGuildWarSelectDialog.__CreateGameTypeToolTip at 0x0C2FB138>
 	arg0: self
 	arg1: title
 	arg2: descList
 
 submodule._DeclearGuildWarSelectDialog__CreateGameTypeToolTip
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-Close,		<cyfunction DeclearGuildWarSelectDialog.Close at 0x0AF0D240>
+Close,		<cyfunction DeclearGuildWarSelectDialog.Close at 0x0C2FB030>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-OverInToolTipButton,		<cyfunction DeclearGuildWarSelectDialog.OverInToolTipButton at 0x0AF0D3A0>
+OverInToolTipButton,		<cyfunction DeclearGuildWarSelectDialog.OverInToolTipButton at 0x0C2FB190>
 	arg0: self
 	arg1: arg
 
 submodule.OverInToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-Open,		<cyfunction DeclearGuildWarSelectDialog.Open at 0x0AF0D1E8>
+Open,		<cyfunction DeclearGuildWarSelectDialog.Open at 0x0C711FA8>
 	arg0: self
 
 submodule.Open
@@ -1625,12 +1625,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction DeclearGuildWarSelectDialog.__init__ at 0x0AF0D138>
+__init__,		<cyfunction DeclearGuildWarSelectDialog.__init__ at 0x0C711EF8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with DeclearGuildWarSelectDialog instance as first argument (got nothing instead)
-OverOutToolTipButton,		<cyfunction DeclearGuildWarSelectDialog.OverOutToolTipButton at 0x0AF0D3F8>
+OverOutToolTipButton,		<cyfunction DeclearGuildWarSelectDialog.OverOutToolTipButton at 0x0C2FB1E8>
 	arg0: self
 
 submodule.OverOutToolTipButton
@@ -1638,23 +1638,23 @@ Skipped: unbound method cython_function_or_method object must be called with Dec
 
 
 class CheckBox:
-SetCheck,		<cyfunction CheckBox.SetCheck at 0x0AF0EEA0>
+SetCheck,		<cyfunction CheckBox.SetCheck at 0x0C2FCC90>
 	arg0: self
 	arg1: flag
 
 submodule.SetCheck
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction CheckBox.OnMouseLeftButtonDown at 0x0AF0F030>
+OnMouseLeftButtonDown,		<cyfunction CheckBox.OnMouseLeftButtonDown at 0x0C2FCDF0>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction CheckBox.OnMouseOverOut at 0x0AF0EFA8>
+OnMouseOverOut,		<cyfunction CheckBox.OnMouseOverOut at 0x0C2FCD98>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-__del__,		<cyfunction CheckBox.__del__ at 0x0AF0EE48>
+__del__,		<cyfunction CheckBox.__del__ at 0x0C2FCC38>
 	arg0: self
 
 submodule.__del__
@@ -1669,17 +1669,17 @@ __qualname__,		CheckBox
 submodule.__qualname__
 
 
-Disable,		<cyfunction CheckBox.Disable at 0x0AF0EEF8>
+Disable,		<cyfunction CheckBox.Disable at 0x0C2FCCE8>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction CheckBox.OnMouseOverIn at 0x0AF0EF50>
+OnMouseOverIn,		<cyfunction CheckBox.OnMouseOverIn at 0x0C2FCD40>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with CheckBox instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction CheckBox.OnMouseLeftButtonUp at 0x0AF0F088>
+OnMouseLeftButtonUp,		<cyfunction CheckBox.OnMouseLeftButtonUp at 0x0C2FCE48>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
@@ -1689,7 +1689,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction CheckBox.__init__ at 0x0AF0EDF0>
+__init__,		<cyfunction CheckBox.__init__ at 0x0C2FCBE0>
 	arg0: self
 	arg1: parent
 	arg2: x
@@ -1708,48 +1708,48 @@ __module__,		uiGuild
 submodule.__module__
 
 
-__del__,		<cyfunction AcceptGuildWarDialog.__del__ at 0x0AF0DCE8>
+__del__,		<cyfunction AcceptGuildWarDialog.__del__ at 0x0C2FBAD8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-SetGuildWarTimeName,		<cyfunction AcceptGuildWarDialog.SetGuildWarTimeName at 0x0AF0E030>
+SetGuildWarTimeName,		<cyfunction AcceptGuildWarDialog.SetGuildWarTimeName at 0x0C2FBDF0>
 	arg0: self
 	arg1: type
 
 submodule.SetGuildWarTimeName
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-SAFE_SetAcceptEvent,		<cyfunction AcceptGuildWarDialog.SAFE_SetAcceptEvent at 0x0AF0E088>
+SAFE_SetAcceptEvent,		<cyfunction AcceptGuildWarDialog.SAFE_SetAcceptEvent at 0x0C2FBE48>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction AcceptGuildWarDialog.SetAcceptEvent at 0x0AF0E138>
+SetAcceptEvent,		<cyfunction AcceptGuildWarDialog.SetAcceptEvent at 0x0C2FBEF8>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-SetGuildWarWinName,		<cyfunction AcceptGuildWarDialog.SetGuildWarWinName at 0x0AF0DF50>
+SetGuildWarWinName,		<cyfunction AcceptGuildWarDialog.SetGuildWarWinName at 0x0C2FBD40>
 	arg0: self
 	arg1: type
 
 submodule.SetGuildWarWinName
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-_AcceptGuildWarDialog__CreateGameTypeToolTip,		<cyfunction AcceptGuildWarDialog.__CreateGameTypeToolTip at 0x0AF0E298>
+_AcceptGuildWarDialog__CreateGameTypeToolTip,		<cyfunction AcceptGuildWarDialog.__CreateGameTypeToolTip at 0x0C2FC088>
 	arg0: self
 	arg1: title
 	arg2: descList
 
 submodule._AcceptGuildWarDialog__CreateGameTypeToolTip
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-GetGuildName,		<cyfunction AcceptGuildWarDialog.GetGuildName at 0x0AF0DD98>
+GetGuildName,		<cyfunction AcceptGuildWarDialog.GetGuildName at 0x0C2FBB88>
 	arg0: self
 
 submodule.GetGuildName
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-Open,		<cyfunction AcceptGuildWarDialog.Open at 0x0AF0DD40>
+Open,		<cyfunction AcceptGuildWarDialog.Open at 0x0C2FBB30>
 	arg0: self
 	arg1: guildName
 	arg2: warType
@@ -1759,23 +1759,23 @@ Open,		<cyfunction AcceptGuildWarDialog.Open at 0x0AF0DD40>
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-GetType,		<cyfunction AcceptGuildWarDialog.GetType at 0x0AF0E1E8>
+GetType,		<cyfunction AcceptGuildWarDialog.GetType at 0x0C2FBFA8>
 	arg0: self
 
 submodule.GetType
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-SetGuildWarScoreName,		<cyfunction AcceptGuildWarDialog.SetGuildWarScoreName at 0x0AF0DFA8>
+SetGuildWarScoreName,		<cyfunction AcceptGuildWarDialog.SetGuildWarScoreName at 0x0C2FBD98>
 	arg0: self
 	arg1: type
 
 submodule.SetGuildWarScoreName
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-GetText,		<cyfunction AcceptGuildWarDialog.GetText at 0x0AF0E240>
+GetText,		<cyfunction AcceptGuildWarDialog.GetText at 0x0C2FC030>
 	arg0: self
 
 submodule.GetText
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-SetGuildWarTypeName,		<cyfunction AcceptGuildWarDialog.SetGuildWarTypeName at 0x0AF0DEF8>
+SetGuildWarTypeName,		<cyfunction AcceptGuildWarDialog.SetGuildWarTypeName at 0x0C2FBCE8>
 	arg0: self
 	arg1: type
 
@@ -1786,33 +1786,33 @@ __qualname__,		AcceptGuildWarDialog
 submodule.__qualname__
 
 
-GetGuildWarTypes,		<cyfunction AcceptGuildWarDialog.GetGuildWarTypes at 0x0AF0DE48>
+GetGuildWarTypes,		<cyfunction AcceptGuildWarDialog.GetGuildWarTypes at 0x0C2FBC38>
 	arg0: self
 
 submodule.GetGuildWarTypes
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-_AcceptGuildWarDialog__CreateDialog,		<cyfunction AcceptGuildWarDialog.__CreateDialog at 0x0AF0DEA0>
+_AcceptGuildWarDialog__CreateDialog,		<cyfunction AcceptGuildWarDialog.__CreateDialog at 0x0C2FBC90>
 	arg0: self
 
 submodule._AcceptGuildWarDialog__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction AcceptGuildWarDialog.__init__ at 0x0AF0DC90>
+__init__,		<cyfunction AcceptGuildWarDialog.__init__ at 0x0C2FBA80>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-SAFE_SetCancelEvent,		<cyfunction AcceptGuildWarDialog.SAFE_SetCancelEvent at 0x0AF0E0E0>
+SAFE_SetCancelEvent,		<cyfunction AcceptGuildWarDialog.SAFE_SetCancelEvent at 0x0C2FBEA0>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetCancelEvent
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-Close,		<cyfunction AcceptGuildWarDialog.Close at 0x0AF0DDF0>
+Close,		<cyfunction AcceptGuildWarDialog.Close at 0x0C2FBBE0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with AcceptGuildWarDialog instance as first argument (got nothing instead)
-SetCancelEvent,		<cyfunction AcceptGuildWarDialog.SetCancelEvent at 0x0AF0E190>
+SetCancelEvent,		<cyfunction AcceptGuildWarDialog.SetCancelEvent at 0x0C2FBF50>
 	arg0: self
 	arg1: event
 
@@ -1836,7 +1836,7 @@ __module__,		uiGuild
 submodule.__module__
 
 
-_GuildDonateDialog__HideToolTip,		<cyfunction GuildDonateDialog.__HideToolTip at 0x0AAFB9D0>
+_GuildDonateDialog__HideToolTip,		<cyfunction GuildDonateDialog.__HideToolTip at 0x0C3027C0>
 	arg0: self
 	arg1: tooltip_object
 
@@ -1847,7 +1847,7 @@ _GuildDonateDialog__GUILD_DONATE_FAIL_NOT_ENOUGH_HIGH_ITEM,		5
 submodule._GuildDonateDialog__GUILD_DONATE_FAIL_NOT_ENOUGH_HIGH_ITEM
 
 
-_GuildDonateDialog__ClickDonateCancelButton,		<cyfunction GuildDonateDialog.__ClickDonateCancelButton at 0x0AAFBC90>
+_GuildDonateDialog__ClickDonateCancelButton,		<cyfunction GuildDonateDialog.__ClickDonateCancelButton at 0x0C302A80>
 	arg0: self
 
 submodule._GuildDonateDialog__ClickDonateCancelButton
@@ -1877,7 +1877,7 @@ _GuildDonateDialog__GUILD_DONATE_FAIL_NOT_ENOUGH_INVENTORY,		2
 submodule._GuildDonateDialog__GUILD_DONATE_FAIL_NOT_ENOUGH_INVENTORY
 
 
-Destroy,		<cyfunction GuildDonateDialog.Destroy at 0x0AAFB768>
+Destroy,		<cyfunction GuildDonateDialog.Destroy at 0x0C302558>
 	arg0: self
 
 submodule.Destroy
@@ -1897,7 +1897,7 @@ _GuildDonateDialog__remain_donate_text,		<member '_GuildDonateDialog__remain_don
 submodule._GuildDonateDialog__remain_donate_text
 
 
-__init__,		<cyfunction GuildDonateDialog.__init__ at 0x0AAFB6B8>
+__init__,		<cyfunction GuildDonateDialog.__init__ at 0x0C3024A8>
 	arg0: self
 	arg1: available_level
 
@@ -1908,7 +1908,7 @@ _GuildDonateDialog__GUILD_DONATE_NORMAL_GET_MEDAL_OF_HONOR,		3
 submodule._GuildDonateDialog__GUILD_DONATE_NORMAL_GET_MEDAL_OF_HONOR
 
 
-_GuildDonateDialog__LoadWindow,		<cyfunction GuildDonateDialog.__LoadWindow at 0x0AAFB7C0>
+_GuildDonateDialog__LoadWindow,		<cyfunction GuildDonateDialog.__LoadWindow at 0x0C3025B0>
 	arg0: self
 
 submodule._GuildDonateDialog__LoadWindow
@@ -1918,13 +1918,13 @@ _GuildDonateDialog__GUILD_DONATE_MIDDLE_EXP_AMOUNT,		10000
 submodule._GuildDonateDialog__GUILD_DONATE_MIDDLE_EXP_AMOUNT
 
 
-_GuildDonateDialog__CreateGameTypeToolTip,		<cyfunction GuildDonateDialog.__CreateGameTypeToolTip at 0x0AAFB920>
+_GuildDonateDialog__CreateGameTypeToolTip,		<cyfunction GuildDonateDialog.__CreateGameTypeToolTip at 0x0C302710>
 	arg0: self
 	arg1: text
 
 submodule._GuildDonateDialog__CreateGameTypeToolTip
 Skipped: unbound method cython_function_or_method object must be called with GuildDonateDialog instance as first argument (got nothing instead)
-_GuildDonateDialog__ShowToolTip,		<cyfunction GuildDonateDialog.__ShowToolTip at 0x0AAFB978>
+_GuildDonateDialog__ShowToolTip,		<cyfunction GuildDonateDialog.__ShowToolTip at 0x0C302768>
 	arg0: self
 	arg1: tooltip_object
 
@@ -1975,7 +1975,7 @@ _GuildDonateDialog__GUILD_DONATE_FAIL_NOT_ENOUGH_LEVEL,		6
 submodule._GuildDonateDialog__GUILD_DONATE_FAIL_NOT_ENOUGH_LEVEL
 
 
-_GuildDonateDialog__BindObject,		<cyfunction GuildDonateDialog.__BindObject at 0x0AAFB818>
+_GuildDonateDialog__BindObject,		<cyfunction GuildDonateDialog.__BindObject at 0x0C302608>
 	arg0: self
 
 submodule._GuildDonateDialog__BindObject
@@ -1985,7 +1985,7 @@ _GuildDonateDialog__cur_medal_of_honor_text,		<member '_GuildDonateDialog__cur_m
 submodule._GuildDonateDialog__cur_medal_of_honor_text
 
 
-_GuildDonateDialog__BindEvent,		<cyfunction GuildDonateDialog.__BindEvent at 0x0AAFB870>
+_GuildDonateDialog__BindEvent,		<cyfunction GuildDonateDialog.__BindEvent at 0x0C302660>
 	arg0: self
 
 submodule._GuildDonateDialog__BindEvent
@@ -2005,12 +2005,12 @@ _GuildDonateDialog__GUILD_DONATE_TYPE_MIDDLE,		1
 submodule._GuildDonateDialog__GUILD_DONATE_TYPE_MIDDLE
 
 
-__del__,		<cyfunction GuildDonateDialog.__del__ at 0x0AAFB710>
+__del__,		<cyfunction GuildDonateDialog.__del__ at 0x0C302500>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildDonateDialog instance as first argument (got nothing instead)
-_GuildDonateDialog__ClickDonateButton,		<cyfunction GuildDonateDialog.__ClickDonateButton at 0x0AAFBBE0>
+_GuildDonateDialog__ClickDonateButton,		<cyfunction GuildDonateDialog.__ClickDonateButton at 0x0C3029D0>
 	arg0: self
 	arg1: selected_donate_type
 
@@ -2041,7 +2041,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_GuildDonateDialog__OverOutDonateItemSlot,		<cyfunction GuildDonateDialog.__OverOutDonateItemSlot at 0x0AAFBA80>
+_GuildDonateDialog__OverOutDonateItemSlot,		<cyfunction GuildDonateDialog.__OverOutDonateItemSlot at 0x0C302870>
 	arg0: self
 
 submodule._GuildDonateDialog__OverOutDonateItemSlot
@@ -2061,7 +2061,7 @@ _GuildDonateDialog__donate_question_loca_dict,		<member '_GuildDonateDialog__don
 submodule._GuildDonateDialog__donate_question_loca_dict
 
 
-_GuildDonateDialog__ClickDonateAcceptButton,		<cyfunction GuildDonateDialog.__ClickDonateAcceptButton at 0x0AAFBC38>
+_GuildDonateDialog__ClickDonateAcceptButton,		<cyfunction GuildDonateDialog.__ClickDonateAcceptButton at 0x0C302A28>
 	arg0: self
 
 submodule._GuildDonateDialog__ClickDonateAcceptButton
@@ -2081,7 +2081,7 @@ _GuildDonateDialog__is_requesting_donate,		<member '_GuildDonateDialog__is_reque
 submodule._GuildDonateDialog__is_requesting_donate
 
 
-_GuildDonateDialog__OverInDonateItemSlot,		<cyfunction GuildDonateDialog.__OverInDonateItemSlot at 0x0AAFBA28>
+_GuildDonateDialog__OverInDonateItemSlot,		<cyfunction GuildDonateDialog.__OverInDonateItemSlot at 0x0C302818>
 	arg0: self
 	arg1: slot_index
 
@@ -2092,7 +2092,7 @@ _GuildDonateDialog__GUILD_DONATE_GET_ITEM_VNUM3,		90012
 submodule._GuildDonateDialog__GUILD_DONATE_GET_ITEM_VNUM3
 
 
-GuildDonate,		<cyfunction GuildDonateDialog.GuildDonate at 0x0AAFBCE8>
+GuildDonate,		<cyfunction GuildDonateDialog.GuildDonate at 0x0C302AD8>
 	arg0: self
 	arg1: type
 	arg2: result
@@ -2104,7 +2104,7 @@ _GuildDonateDialog__GUILD_DONATE_NORMAL_EXP_AMOUNT,		1000
 submodule._GuildDonateDialog__GUILD_DONATE_NORMAL_EXP_AMOUNT
 
 
-_GuildDonateDialog__RefreshData,		<cyfunction GuildDonateDialog.__RefreshData at 0x0AAFBB88>
+_GuildDonateDialog__RefreshData,		<cyfunction GuildDonateDialog.__RefreshData at 0x0C302978>
 	arg0: self
 
 submodule._GuildDonateDialog__RefreshData
@@ -2114,12 +2114,12 @@ __qualname__,		GuildDonateDialog
 submodule.__qualname__
 
 
-_GuildDonateDialog__SettingData,		<cyfunction GuildDonateDialog.__SettingData at 0x0AAFB8C8>
+_GuildDonateDialog__SettingData,		<cyfunction GuildDonateDialog.__SettingData at 0x0C3026B8>
 	arg0: self
 
 submodule._GuildDonateDialog__SettingData
 Skipped: unbound method cython_function_or_method object must be called with GuildDonateDialog instance as first argument (got nothing instead)
-_GuildDonateDialog__GuildDonateResult,		<cyfunction GuildDonateDialog.__GuildDonateResult at 0x0AAFBD40>
+_GuildDonateDialog__GuildDonateResult,		<cyfunction GuildDonateDialog.__GuildDonateResult at 0x0C302B30>
 	arg0: self
 	arg1: result
 
@@ -2135,12 +2135,12 @@ _GuildDonateDialog__GUILD_DONATE_COUNT_MAX,		3
 submodule._GuildDonateDialog__GUILD_DONATE_COUNT_MAX
 
 
-Close,		<cyfunction GuildDonateDialog.Close at 0x0AAFBB30>
+Close,		<cyfunction GuildDonateDialog.Close at 0x0C302920>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildDonateDialog instance as first argument (got nothing instead)
-Open,		<cyfunction GuildDonateDialog.Open at 0x0AAFBAD8>
+Open,		<cyfunction GuildDonateDialog.Open at 0x0C3028C8>
 	arg0: self
 
 submodule.Open
@@ -2163,7 +2163,7 @@ submodule._GuildDonateDialog__my_medal_of_honor_tooltip
 
 
 class DeclareGuildWarDialog:
-_DeclareGuildWarDialog__AllWarButtonSetUp,		<cyfunction DeclareGuildWarDialog.__AllWarButtonSetUp at 0x0AF0D818>
+_DeclareGuildWarDialog__AllWarButtonSetUp,		<cyfunction DeclareGuildWarDialog.__AllWarButtonSetUp at 0x0C2FB608>
 	arg0: self
 
 submodule._DeclareGuildWarDialog__AllWarButtonSetUp
@@ -2173,49 +2173,49 @@ __module__,		uiGuild
 submodule.__module__
 
 
-_DeclareGuildWarDialog__OnClosePopupDialog,		<cyfunction DeclareGuildWarDialog.__OnClosePopupDialog at 0x0AF0DAD8>
+_DeclareGuildWarDialog__OnClosePopupDialog,		<cyfunction DeclareGuildWarDialog.__OnClosePopupDialog at 0x0C2FB8C8>
 	arg0: self
 
 submodule._DeclareGuildWarDialog__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-_DeclareGuildWarDialog__NotUseWarButtonList,		<cyfunction DeclareGuildWarDialog.__NotUseWarButtonList at 0x0AF0D7C0>
+_DeclareGuildWarDialog__NotUseWarButtonList,		<cyfunction DeclareGuildWarDialog.__NotUseWarButtonList at 0x0C2FB5B0>
 	arg0: self
 	arg1: buttonlist
 
 submodule._DeclareGuildWarDialog__NotUseWarButtonList
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction DeclareGuildWarDialog.__del__ at 0x0AF0D558>
+__del__,		<cyfunction DeclareGuildWarDialog.__del__ at 0x0C2FB348>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction DeclareGuildWarDialog.SetAcceptEvent at 0x0AF0D870>
+SetAcceptEvent,		<cyfunction DeclareGuildWarDialog.SetAcceptEvent at 0x0C2FB660>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-ButtonToolTipProgress,		<cyfunction DeclareGuildWarDialog.ButtonToolTipProgress at 0x0AF0DBE0>
+ButtonToolTipProgress,		<cyfunction DeclareGuildWarDialog.ButtonToolTipProgress at 0x0C2FB9D0>
 	arg0: self
 
 submodule.ButtonToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction DeclareGuildWarDialog.OnPressEscapeKey at 0x0AF0DA28>
+OnPressEscapeKey,		<cyfunction DeclareGuildWarDialog.OnPressEscapeKey at 0x0C2FB818>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-_DeclareGuildWarDialog__OnOK,		<cyfunction DeclareGuildWarDialog.__OnOK at 0x0AF0D6B8>
+_DeclareGuildWarDialog__OnOK,		<cyfunction DeclareGuildWarDialog.__OnOK at 0x0C2FB4A8>
 	arg0: self
 
 submodule._DeclareGuildWarDialog__OnOK
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction DeclareGuildWarDialog.__init__ at 0x0AF0D500>
+__init__,		<cyfunction DeclareGuildWarDialog.__init__ at 0x0C2FB2F0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-OverOutToolTipButton,		<cyfunction DeclareGuildWarDialog.OverOutToolTipButton at 0x0AF0DB88>
+OverOutToolTipButton,		<cyfunction DeclareGuildWarDialog.OverOutToolTipButton at 0x0C2FB978>
 	arg0: self
 
 submodule.OverOutToolTipButton
@@ -2225,60 +2225,60 @@ __qualname__,		DeclareGuildWarDialog
 submodule.__qualname__
 
 
-Open,		<cyfunction DeclareGuildWarDialog.Open at 0x0AF0D5B0>
+Open,		<cyfunction DeclareGuildWarDialog.Open at 0x0C2FB3A0>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-GetType,		<cyfunction DeclareGuildWarDialog.GetType at 0x0AF0D920>
+GetType,		<cyfunction DeclareGuildWarDialog.GetType at 0x0C2FB710>
 	arg0: self
 
 submodule.GetType
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction DeclareGuildWarDialog.OnUpdate at 0x0AF0DC38>
+OnUpdate,		<cyfunction DeclareGuildWarDialog.OnUpdate at 0x0C2FBA28>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-GetText,		<cyfunction DeclareGuildWarDialog.GetText at 0x0AF0D978>
+GetText,		<cyfunction DeclareGuildWarDialog.GetText at 0x0C2FB768>
 	arg0: self
 
 submodule.GetText
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-_DeclareGuildWarDialog__CreateDialog,		<cyfunction DeclareGuildWarDialog.__CreateDialog at 0x0AF0D660>
+_DeclareGuildWarDialog__CreateDialog,		<cyfunction DeclareGuildWarDialog.__CreateDialog at 0x0C2FB450>
 	arg0: self
 
 submodule._DeclareGuildWarDialog__CreateDialog
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-SetGuildWarType,		<cyfunction DeclareGuildWarDialog.SetGuildWarType at 0x0AF0D9D0>
+SetGuildWarType,		<cyfunction DeclareGuildWarDialog.SetGuildWarType at 0x0C2FB7C0>
 	arg0: self
 	arg1: index
 
 submodule.SetGuildWarType
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-_DeclareGuildWarDialog__OnClickTypeWarWin,		<cyfunction DeclareGuildWarDialog.__OnClickTypeWarWin at 0x0AF0D768>
+_DeclareGuildWarDialog__OnClickTypeWarWin,		<cyfunction DeclareGuildWarDialog.__OnClickTypeWarWin at 0x0C2FB558>
 	arg0: self
 	arg1: wartype
 	arg2: buttonlist
 
 submodule._DeclareGuildWarDialog__OnClickTypeWarWin
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-_DeclareGuildWarDialog__OnCancel,		<cyfunction DeclareGuildWarDialog.__OnCancel at 0x0AF0D710>
+_DeclareGuildWarDialog__OnCancel,		<cyfunction DeclareGuildWarDialog.__OnCancel at 0x0C2FB500>
 	arg0: self
 
 submodule._DeclareGuildWarDialog__OnCancel
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-_DeclareGuildWarDialog__OnClickWarTypeSelectButton,		<cyfunction DeclareGuildWarDialog.__OnClickWarTypeSelectButton at 0x0AF0DA80>
+_DeclareGuildWarDialog__OnClickWarTypeSelectButton,		<cyfunction DeclareGuildWarDialog.__OnClickWarTypeSelectButton at 0x0C2FB870>
 	arg0: self
 
 submodule._DeclareGuildWarDialog__OnClickWarTypeSelectButton
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-Close,		<cyfunction DeclareGuildWarDialog.Close at 0x0AF0D608>
+Close,		<cyfunction DeclareGuildWarDialog.Close at 0x0C2FB3F8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with DeclareGuildWarDialog instance as first argument (got nothing instead)
-SetCancelEvent,		<cyfunction DeclareGuildWarDialog.SetCancelEvent at 0x0AF0D8C8>
+SetCancelEvent,		<cyfunction DeclareGuildWarDialog.SetCancelEvent at 0x0C2FB6B8>
 	arg0: self
 	arg1: event
 
@@ -2289,7 +2289,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OverInToolTipButton,		<cyfunction DeclareGuildWarDialog.OverInToolTipButton at 0x0AF0DB30>
+OverInToolTipButton,		<cyfunction DeclareGuildWarDialog.OverInToolTipButton at 0x0C2FB920>
 	arg0: self
 	arg1: arg
 
@@ -2298,7 +2298,7 @@ Skipped: unbound method cython_function_or_method object must be called with Dec
 
 
 class BuildGuildBuildingChangeWindow:
-_BuildGuildBuildingChangeWindow__SetBuildingData,		<cyfunction BuildGuildBuildingChangeWindow.__SetBuildingData at 0x0AF12348>
+_BuildGuildBuildingChangeWindow__SetBuildingData,		<cyfunction BuildGuildBuildingChangeWindow.__SetBuildingData at 0x0C301138>
 	arg0: self
 	arg1: data
 
@@ -2314,71 +2314,71 @@ SHOW_LIST_MAX,		10
 submodule.SHOW_LIST_MAX
 
 
-OnPressEscapeKey,		<cyfunction BuildGuildBuildingChangeWindow.OnPressEscapeKey at 0x0AF12608>
+OnPressEscapeKey,		<cyfunction BuildGuildBuildingChangeWindow.OnPressEscapeKey at 0x0C3013F8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction BuildGuildBuildingChangeWindow.__del__ at 0x0AF11D40>
+__del__,		<cyfunction BuildGuildBuildingChangeWindow.__del__ at 0x0C300B30>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-SelectList,		<cyfunction BuildGuildBuildingChangeWindow.SelectList at 0x0AF122F0>
+SelectList,		<cyfunction BuildGuildBuildingChangeWindow.SelectList at 0x0C3010E0>
 	arg0: self
 
 submodule.SelectList
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-IsPositionChangeMode,		<cyfunction BuildGuildBuildingChangeWindow.IsPositionChangeMode at 0x0AF123F8>
+IsPositionChangeMode,		<cyfunction BuildGuildBuildingChangeWindow.IsPositionChangeMode at 0x0C3011E8>
 	arg0: self
 
 submodule.IsPositionChangeMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingChangeWindow__OnScrollBuildingList,		<cyfunction BuildGuildBuildingChangeWindow.__OnScrollBuildingList at 0x0AF12298>
+_BuildGuildBuildingChangeWindow__OnScrollBuildingList,		<cyfunction BuildGuildBuildingChangeWindow.__OnScrollBuildingList at 0x0C301088>
 	arg0: self
 
 submodule._BuildGuildBuildingChangeWindow__OnScrollBuildingList
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-EndPositionChangeMode,		<cyfunction BuildGuildBuildingChangeWindow.EndPositionChangeMode at 0x0AF12450>
+EndPositionChangeMode,		<cyfunction BuildGuildBuildingChangeWindow.EndPositionChangeMode at 0x0C301240>
 	arg0: self
 
 submodule.EndPositionChangeMode
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-SetBuildGuildBuildingWindow,		<cyfunction BuildGuildBuildingChangeWindow.SetBuildGuildBuildingWindow at 0x0AF11FA8>
+SetBuildGuildBuildingWindow,		<cyfunction BuildGuildBuildingChangeWindow.SetBuildGuildBuildingWindow at 0x0C300D98>
 	arg0: self
 	arg1: window
 
 submodule.SetBuildGuildBuildingWindow
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-SetCameraSetting,		<cyfunction BuildGuildBuildingChangeWindow.SetCameraSetting at 0x0AF123A0>
+SetCameraSetting,		<cyfunction BuildGuildBuildingChangeWindow.SetCameraSetting at 0x0C301190>
 	arg0: self
 	arg1: index
 
 submodule.SetCameraSetting
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-MakeQuestionDialog,		<cyfunction BuildGuildBuildingChangeWindow.MakeQuestionDialog at 0x0AF12500>
+MakeQuestionDialog,		<cyfunction BuildGuildBuildingChangeWindow.MakeQuestionDialog at 0x0C3012F0>
 	arg0: self
 	arg1: str
 	arg2: acceptevent
 
 submodule.MakeQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-AllClose,		<cyfunction BuildGuildBuildingChangeWindow.AllClose at 0x0AF11F50>
+AllClose,		<cyfunction BuildGuildBuildingChangeWindow.AllClose at 0x0C300D40>
 	arg0: self
 
 submodule.AllClose
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-SetChangeBuildingList,		<cyfunction BuildGuildBuildingChangeWindow.SetChangeBuildingList at 0x0AF12240>
+SetChangeBuildingList,		<cyfunction BuildGuildBuildingChangeWindow.SetChangeBuildingList at 0x0C301030>
 	arg0: self
 
 submodule.SetChangeBuildingList
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction BuildGuildBuildingChangeWindow.__init__ at 0x0AF11CE8>
+__init__,		<cyfunction BuildGuildBuildingChangeWindow.__init__ at 0x0C300AD8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-Delete,		<cyfunction BuildGuildBuildingChangeWindow.Delete at 0x0AF120E0>
+Delete,		<cyfunction BuildGuildBuildingChangeWindow.Delete at 0x0C300EA0>
 	arg0: self
 
 submodule.Delete
@@ -2388,7 +2388,7 @@ LIST_BOX_BASE_WIDHT,		165
 submodule.LIST_BOX_BASE_WIDHT
 
 
-MakeQuestionDialog2,		<cyfunction BuildGuildBuildingChangeWindow.MakeQuestionDialog2 at 0x0AF12558>
+MakeQuestionDialog2,		<cyfunction BuildGuildBuildingChangeWindow.MakeQuestionDialog2 at 0x0C301348>
 	arg0: self
 	arg1: str1
 	arg2: str2
@@ -2396,32 +2396,32 @@ MakeQuestionDialog2,		<cyfunction BuildGuildBuildingChangeWindow.MakeQuestionDia
 
 submodule.MakeQuestionDialog2
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-IsOpen,		<cyfunction BuildGuildBuildingChangeWindow.IsOpen at 0x0AF124A8>
+IsOpen,		<cyfunction BuildGuildBuildingChangeWindow.IsOpen at 0x0C301298>
 	arg0: self
 
 submodule.IsOpen
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-RealClose,		<cyfunction BuildGuildBuildingChangeWindow.RealClose at 0x0AF11EF8>
+RealClose,		<cyfunction BuildGuildBuildingChangeWindow.RealClose at 0x0C300CE8>
 	arg0: self
 
 submodule.RealClose
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingChangeWindow__LoadWindow,		<cyfunction BuildGuildBuildingChangeWindow.__LoadWindow at 0x0AF11D98>
+_BuildGuildBuildingChangeWindow__LoadWindow,		<cyfunction BuildGuildBuildingChangeWindow.__LoadWindow at 0x0C300B88>
 	arg0: self
 
 submodule._BuildGuildBuildingChangeWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-Update,		<cyfunction BuildGuildBuildingChangeWindow.Update at 0x0AF12138>
+Update,		<cyfunction BuildGuildBuildingChangeWindow.Update at 0x0C300EF8>
 	arg0: self
 
 submodule.Update
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-Accept,		<cyfunction BuildGuildBuildingChangeWindow.Accept at 0x0AF12088>
+Accept,		<cyfunction BuildGuildBuildingChangeWindow.Accept at 0x0C300E48>
 	arg0: self
 
 submodule.Accept
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-Close,		<cyfunction BuildGuildBuildingChangeWindow.Close at 0x0AF11E48>
+Close,		<cyfunction BuildGuildBuildingChangeWindow.Close at 0x0C300C38>
 	arg0: self
 
 submodule.Close
@@ -2431,27 +2431,27 @@ __qualname__,		BuildGuildBuildingChangeWindow
 submodule.__qualname__
 
 
-SelectObject,		<cyfunction BuildGuildBuildingChangeWindow.SelectObject at 0x0AF121E8>
+SelectObject,		<cyfunction BuildGuildBuildingChangeWindow.SelectObject at 0x0C300FA8>
 	arg0: self
 
 submodule.SelectObject
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-_BuildGuildBuildingChangeWindow__OnChangeRotation,		<cyfunction BuildGuildBuildingChangeWindow.__OnChangeRotation at 0x0AF12030>
+_BuildGuildBuildingChangeWindow__OnChangeRotation,		<cyfunction BuildGuildBuildingChangeWindow.__OnChangeRotation at 0x0C300DF0>
 	arg0: self
 
 submodule._BuildGuildBuildingChangeWindow__OnChangeRotation
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-DestoryWindow,		<cyfunction BuildGuildBuildingChangeWindow.DestoryWindow at 0x0AF11EA0>
+DestoryWindow,		<cyfunction BuildGuildBuildingChangeWindow.DestoryWindow at 0x0C300C90>
 	arg0: self
 
 submodule.DestoryWindow
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-CloseQuestionDialog,		<cyfunction BuildGuildBuildingChangeWindow.CloseQuestionDialog at 0x0AF125B0>
+CloseQuestionDialog,		<cyfunction BuildGuildBuildingChangeWindow.CloseQuestionDialog at 0x0C3013A0>
 	arg0: self
 
 submodule.CloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with BuildGuildBuildingChangeWindow instance as first argument (got nothing instead)
-Open,		<cyfunction BuildGuildBuildingChangeWindow.Open at 0x0AF11DF0>
+Open,		<cyfunction BuildGuildBuildingChangeWindow.Open at 0x0C300BE0>
 	arg0: self
 
 submodule.Open
@@ -2461,7 +2461,7 @@ __doc__,		None
 submodule.__doc__
 
 
-CreateEmptyObject,		<cyfunction BuildGuildBuildingChangeWindow.CreateEmptyObject at 0x0AF12190>
+CreateEmptyObject,		<cyfunction BuildGuildBuildingChangeWindow.CreateEmptyObject at 0x0C300F50>
 	arg0: self
 	arg1: race
 	arg2: objectx

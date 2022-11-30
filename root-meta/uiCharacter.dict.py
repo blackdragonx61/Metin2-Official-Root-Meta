@@ -254,7 +254,7 @@
          {'name': 'HIDE_SUPPORT_SKILL_POINT', 'type': 'bool', 'value': True},
          {'name': 'QUEST_STRING_TYPE_CLOCK', 'type': 'int', 'value': 1},
          {'name': 'QUEST_STRING_TYPE_NORMAL', 'type': 'int', 'value': 0},
-         {'name': 'SHOW_LIMIT_SUPPORT_SKILL_LIST', 'type': 'list', 'value': [121, 122, 123, 124, 126, 127, 129, 128, 131, 137, 138, 139, 140, 132]},
+         {'name': 'SHOW_LIMIT_SUPPORT_SKILL_LIST', 'type': 'list', 'value': [121, 122, 123, 124, 126, 127, 129, 128, 131, 137, 138, 139, 140, 132, 133, 134]},
          {'name': 'SHOW_ONLY_ACTIVE_SKILL', 'type': 'bool', 'value': False},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
          {'name': '__name__', 'type': 'str', 'value': 'uiCharacter'},

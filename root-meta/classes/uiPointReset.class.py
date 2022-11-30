@@ -1,0 +1,13 @@
+{'Children': [],
+ 'ConfirmDialog': <ui.ScriptWindow object at 0x354A7A30>,
+ 'ElementDictionary': {},
+ 'hWnd': 1144885664,
+ 'onMouseLeftButtonUpEvent': None,
+ 'onMouseLeftButtonUpEventArgs': None,
+ 'overArgs': None,
+ 'overFunc': None,
+ 'overOutArgs': None,
+ 'overOutFunc': None,
+ 'parentWindow': 0,
+ 'window_horizontal_align': 0,
+ 'window_vertical_align': 0}

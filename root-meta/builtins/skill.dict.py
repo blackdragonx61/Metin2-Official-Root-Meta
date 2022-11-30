@@ -13,6 +13,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetPetSkillIconImage'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetPetSkillIconPath'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetPetSkillInfo'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetRoleProficiencyLeaderBonusByLevel'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetSkillAffectDescription'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetSkillAffectDescriptionCount'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetSkillConditionDescription'},

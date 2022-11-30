@@ -1,0 +1,1 @@
+{'hWnd': 1144883552, 'onMouseLeftButtonUpEvent': None, 'onMouseLeftButtonUpEventArgs': None, 'overArgs': None, 'overFunc': None, 'overOutArgs': None, 'overOutFunc': None, 'parentWindow': 0, 'textLine': <ui.TextLine object at 0x354A7E50>, 'window_horizontal_align': 0, 'window_vertical_align': 0}

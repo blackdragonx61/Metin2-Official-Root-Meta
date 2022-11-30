@@ -1,5 +1,5 @@
 key: snd, val: <module 'snd' (built-in)>
-key: wraps, val: <function wraps at 0x0AA63CF0>
+key: wraps, val: <function wraps at 0x0C263CF0>
 key: MainStream, val: <class 'networkModule.MainStream'>
 key: PopupDialog, val: <class 'networkModule.PopupDialog'>
 key: __builtins__, val: <module '__builtin__' (built-in)>
@@ -26,40 +26,40 @@ __module__,		networkModule
 submodule.__module__
 
 
-SetPhaseWindow,		<cyfunction MainStream.SetPhaseWindow at 0x0AC65E48>
+SetPhaseWindow,		<cyfunction MainStream.SetPhaseWindow at 0x0C465EA0>
 	arg0: self
 	arg1: newPhaseWindow
 
 submodule.SetPhaseWindow
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetSelectEmpirePhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0AC5C1E8>
+SetSelectEmpirePhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0C45C240>
 	arg0: self
 
 submodule.SetSelectEmpirePhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetTestGamePhase,		<cyfunction MainStream.SetTestGamePhase at 0x0AC5C450>
+SetTestGamePhase,		<cyfunction MainStream.SetTestGamePhase at 0x0C45C4A8>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.SetTestGamePhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-__del__,		<cyfunction MainStream.__del__ at 0x0AC65D40>
+__del__,		<cyfunction MainStream.__del__ at 0x0C465D98>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-Create,		<cyfunction MainStream.Create at 0x0AC65DF0>
+Create,		<cyfunction MainStream.Create at 0x0C465E48>
 	arg0: self
 
 submodule.Create
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetLoginPhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0AC5C088>
+SetLoginPhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0C45C0E0>
 	arg0: self
 
 submodule.SetLoginPhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-_MainStream__ChangePhaseWindow,		<cyfunction MainStream.__ChangePhaseWindow at 0x0AC65EA0>
+_MainStream__ChangePhaseWindow,		<cyfunction MainStream.__ChangePhaseWindow at 0x0C465EF8>
 	arg0: self
 
 submodule._MainStream__ChangePhaseWindow
@@ -69,12 +69,12 @@ __dict__,		<attribute '__dict__' of 'MainStream' objects>
 submodule.__dict__
 
 
-SameLogin_SetLoginPhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0AC5C138>
+SameLogin_SetLoginPhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0C45C190>
 	arg0: self
 
 submodule.SameLogin_SetLoginPhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-GetConnectAddr,		<cyfunction MainStream.GetConnectAddr at 0x0AC5C608>
+GetConnectAddr,		<cyfunction MainStream.GetConnectAddr at 0x0C45C660>
 	arg0: self
 
 submodule.GetConnectAddr
@@ -84,17 +84,17 @@ isChrData,		0
 submodule.isChrData
 
 
-Destroy,		<cyfunction MainStream.Destroy at 0x0AC65D98>
+Destroy,		<cyfunction MainStream.Destroy at 0x0C465DF0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-EmptyFunction,		<cyfunction MainStream.EmptyFunction at 0x0AC5C710>
+EmptyFunction,		<cyfunction MainStream.EmptyFunction at 0x0C45C768>
 	arg0: self
 
 submodule.EmptyFunction
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-CreatePopupDialog,		<cyfunction MainStream.CreatePopupDialog at 0x0AC65EF8>
+CreatePopupDialog,		<cyfunction MainStream.CreatePopupDialog at 0x0C465F50>
 	arg0: self
 
 submodule.CreatePopupDialog
@@ -104,37 +104,37 @@ __weakref__,		<attribute '__weakref__' of 'MainStream' objects>
 submodule.__weakref__
 
 
-CancelEnterGame,		<cyfunction MainStream.CancelEnterGame at 0x0AC5C6B8>
+CancelEnterGame,		<cyfunction MainStream.CancelEnterGame at 0x0C45C710>
 	arg0: self
 
 submodule.CancelEnterGame
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-__init__,		<cyfunction MainStream.__init__ at 0x0AC65CE8>
+__init__,		<cyfunction MainStream.__init__ at 0x0C465D40>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetCreateCharacterPhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0AC5C3F8>
+SetCreateCharacterPhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0C45C450>
 	arg0: self
 
 submodule.SetCreateCharacterPhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-multi_language_decorator_setphase,		<cyfunction MainStream.multi_language_decorator_setphase at 0x0AC65F50>
+multi_language_decorator_setphase,		<cyfunction MainStream.multi_language_decorator_setphase at 0x0C465FA8>
 	arg0: original_function
 
 submodule.multi_language_decorator_setphase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetSelectCharacterPhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0AC5C348>
+SetSelectCharacterPhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0C45C3A0>
 	arg0: self
 
 submodule.SetSelectCharacterPhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetLoadingPhase,		<cyfunction MainStream.SetLoadingPhase at 0x0AC5C4A8>
+SetLoadingPhase,		<cyfunction MainStream.SetLoadingPhase at 0x0C45C500>
 	arg0: self
 
 submodule.SetLoadingPhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetGamePhase,		<cyfunction MainStream.SetGamePhase at 0x0AC5C500>
+SetGamePhase,		<cyfunction MainStream.SetGamePhase at 0x0C45C558>
 	arg0: self
 
 submodule.SetGamePhase
@@ -144,29 +144,29 @@ __qualname__,		MainStream
 submodule.__qualname__
 
 
-SetReselectEmpirePhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0AC5C298>
+SetReselectEmpirePhase,		<cyfunction MainStream.multi_language_decorator_setphase.<locals>.wrapper_setphase at 0x0C45C2F0>
 	arg0: self
 
 submodule.SetReselectEmpirePhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetLoginInfo,		<cyfunction MainStream.SetLoginInfo at 0x0AC5C660>
+SetLoginInfo,		<cyfunction MainStream.SetLoginInfo at 0x0C45C6B8>
 	arg0: self
 	arg1: id
 	arg2: pwd
 
 submodule.SetLoginInfo
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-Connect,		<cyfunction MainStream.Connect at 0x0AC5C558>
+Connect,		<cyfunction MainStream.Connect at 0x0C45C5B0>
 	arg0: self
 
 submodule.Connect
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetLogoPhase,		<cyfunction MainStream.SetLogoPhase at 0x0AC65FA8>
+SetLogoPhase,		<cyfunction MainStream.SetLogoPhase at 0x0C45C030>
 	arg0: self
 
 submodule.SetLogoPhase
 Skipped: unbound method cython_function_or_method object must be called with MainStream instance as first argument (got nothing instead)
-SetConnectInfo,		<cyfunction MainStream.SetConnectInfo at 0x0AC5C5B0>
+SetConnectInfo,		<cyfunction MainStream.SetConnectInfo at 0x0C45C608>
 	arg0: self
 	arg1: addr
 	arg2: port
@@ -190,12 +190,12 @@ __module__,		networkModule
 submodule.__module__
 
 
-__del__,		<cyfunction PopupDialog.__del__ at 0x0AC65A80>
+__del__,		<cyfunction PopupDialog.__del__ at 0x0C465AD8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction PopupDialog.LoadDialog at 0x0AC65AD8>
+LoadDialog,		<cyfunction PopupDialog.LoadDialog at 0x0C465B30>
 	arg0: self
 
 submodule.LoadDialog
@@ -205,27 +205,27 @@ __qualname__,		PopupDialog
 submodule.__qualname__
 
 
-OnPressEscapeKey,		<cyfunction PopupDialog.OnPressEscapeKey at 0x0AC65C38>
+OnPressEscapeKey,		<cyfunction PopupDialog.OnPressEscapeKey at 0x0C465C90>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-Close,		<cyfunction PopupDialog.Close at 0x0AC65B88>
+Close,		<cyfunction PopupDialog.Close at 0x0C465BE0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction PopupDialog.Destroy at 0x0AC65BE0>
+Destroy,		<cyfunction PopupDialog.Destroy at 0x0C465C38>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction PopupDialog.OnIMEReturn at 0x0AC65C90>
+OnIMEReturn,		<cyfunction PopupDialog.OnIMEReturn at 0x0C465CE8>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-Open,		<cyfunction PopupDialog.Open at 0x0AC65B30>
+Open,		<cyfunction PopupDialog.Open at 0x0C465B88>
 	arg0: self
 	arg1: Message
 	arg2: event
@@ -240,7 +240,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction PopupDialog.__init__ at 0x0AC65A28>
+__init__,		<cyfunction PopupDialog.__init__ at 0x0C465A80>
 	arg0: self
 
 submodule.__init__

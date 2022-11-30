@@ -1,1 +1,0 @@
-{'class': [], 'func': [], 'import': ['__builtin__', 'ui'], 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiSpecialGacha'}, {'name': '__package__', 'type': 'NoneType', 'value': None}]}

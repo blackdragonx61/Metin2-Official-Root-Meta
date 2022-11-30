@@ -19,47 +19,47 @@ __module__,		uiCharacterDetails
 submodule.__module__
 
 
-_CharacterDetailsUI__GetCalcPercentPoint,		<cyfunction CharacterDetailsUI.__GetCalcPercentPoint at 0x0AE97EA0>
+_CharacterDetailsUI__GetCalcPercentPoint,		<cyfunction CharacterDetailsUI.__GetCalcPercentPoint at 0x0C66EE48>
 	arg0: self
 	arg1: point_type
 
 submodule._CharacterDetailsUI__GetCalcPercentPoint
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__ButtonOverIn,		<cyfunction CharacterDetailsUI.__ButtonOverIn at 0x0AE97C90>
+_CharacterDetailsUI__ButtonOverIn,		<cyfunction CharacterDetailsUI.__ButtonOverIn at 0x0C66EC38>
 	arg0: self
 	arg1: i
 
 submodule._CharacterDetailsUI__ButtonOverIn
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__InitPercentCalcDict,		<cyfunction CharacterDetailsUI.__InitPercentCalcDict at 0x0AE97F50>
+_CharacterDetailsUI__InitPercentCalcDict,		<cyfunction CharacterDetailsUI.__InitPercentCalcDict at 0x0C66EEF8>
 	arg0: self
 
 submodule._CharacterDetailsUI__InitPercentCalcDict
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-AdjustPosition,		<cyfunction CharacterDetailsUI.AdjustPosition at 0x0AE97A80>
+AdjustPosition,		<cyfunction CharacterDetailsUI.AdjustPosition at 0x0C66EA28>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.AdjustPosition
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-RefreshLabel,		<cyfunction CharacterDetailsUI.RefreshLabel at 0x0AE97B30>
+RefreshLabel,		<cyfunction CharacterDetailsUI.RefreshLabel at 0x0C66EAD8>
 	arg0: self
 
 submodule.RefreshLabel
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__LoadScript,		<cyfunction CharacterDetailsUI.__LoadScript at 0x0AE97920>
+_CharacterDetailsUI__LoadScript,		<cyfunction CharacterDetailsUI.__LoadScript at 0x0C66E8C8>
 	arg0: self
 
 submodule._CharacterDetailsUI__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-GetStatusValue,		<cyfunction CharacterDetailsUI.GetStatusValue at 0x0AE97D98>
+GetStatusValue,		<cyfunction CharacterDetailsUI.GetStatusValue at 0x0C66ED40>
 	arg0: self
 	arg1: type
 
 submodule.GetStatusValue
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__LabelTitleLine,		<cyfunction CharacterDetailsUI.__LabelTitleLine at 0x0AE97B88>
+_CharacterDetailsUI__LabelTitleLine,		<cyfunction CharacterDetailsUI.__LabelTitleLine at 0x0C66EB30>
 	arg0: self
 	arg1: idx
 	arg2: text
@@ -71,38 +71,38 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseWheelButtonUp,		<cyfunction CharacterDetailsUI.OnMouseWheelButtonUp at 0x0AE97DF0>
+OnMouseWheelButtonUp,		<cyfunction CharacterDetailsUI.OnMouseWheelButtonUp at 0x0C66ED98>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-OnTop,		<cyfunction CharacterDetailsUI.OnTop at 0x0AE97D40>
+OnTop,		<cyfunction CharacterDetailsUI.OnTop at 0x0C66ECE8>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-__init__,		<cyfunction CharacterDetailsUI.__init__ at 0x0AE97870>
+__init__,		<cyfunction CharacterDetailsUI.__init__ at 0x0C66E818>
 	arg0: self
 	arg1: parent
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-OnScroll,		<cyfunction CharacterDetailsUI.OnScroll at 0x0AE97AD8>
+OnScroll,		<cyfunction CharacterDetailsUI.OnScroll at 0x0C66EA80>
 	arg0: self
 
 submodule.OnScroll
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__Initialize,		<cyfunction CharacterDetailsUI.__Initialize at 0x0AE97978>
+_CharacterDetailsUI__Initialize,		<cyfunction CharacterDetailsUI.__Initialize at 0x0C66E920>
 	arg0: self
 
 submodule._CharacterDetailsUI__Initialize
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-Show,		<cyfunction CharacterDetailsUI.Show at 0x0AE979D0>
+Show,		<cyfunction CharacterDetailsUI.Show at 0x0C66E978>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__LabelLine,		<cyfunction CharacterDetailsUI.__LabelLine at 0x0AE97C38>
+_CharacterDetailsUI__LabelLine,		<cyfunction CharacterDetailsUI.__LabelLine at 0x0C66EBE0>
 	arg0: self
 	arg1: idx
 	arg2: text
@@ -110,7 +110,7 @@ _CharacterDetailsUI__LabelLine,		<cyfunction CharacterDetailsUI.__LabelLine at 0
 
 submodule._CharacterDetailsUI__LabelLine
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__EmptyLine,		<cyfunction CharacterDetailsUI.__EmptyLine at 0x0AE97BE0>
+_CharacterDetailsUI__EmptyLine,		<cyfunction CharacterDetailsUI.__EmptyLine at 0x0C66EB88>
 	arg0: self
 	arg1: idx
 
@@ -121,29 +121,29 @@ __qualname__,		CharacterDetailsUI
 submodule.__qualname__
 
 
-__del__,		<cyfunction CharacterDetailsUI.__del__ at 0x0AE978C8>
+__del__,		<cyfunction CharacterDetailsUI.__del__ at 0x0C66E870>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__IsPercentCalcPoint,		<cyfunction CharacterDetailsUI.__IsPercentCalcPoint at 0x0AE97EF8>
+_CharacterDetailsUI__IsPercentCalcPoint,		<cyfunction CharacterDetailsUI.__IsPercentCalcPoint at 0x0C66EEA0>
 	arg0: self
 	arg1: point_type
 
 submodule._CharacterDetailsUI__IsPercentCalcPoint
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-Close,		<cyfunction CharacterDetailsUI.Close at 0x0AE97A28>
+Close,		<cyfunction CharacterDetailsUI.Close at 0x0C66E9D0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-_CharacterDetailsUI__ButtonOverOut,		<cyfunction CharacterDetailsUI.__ButtonOverOut at 0x0AE97CE8>
+_CharacterDetailsUI__ButtonOverOut,		<cyfunction CharacterDetailsUI.__ButtonOverOut at 0x0C66EC90>
 	arg0: self
 	arg1: idx
 
 submodule._CharacterDetailsUI__ButtonOverOut
 Skipped: unbound method cython_function_or_method object must be called with CharacterDetailsUI instance as first argument (got nothing instead)
-OnMouseWheelButtonDown,		<cyfunction CharacterDetailsUI.OnMouseWheelButtonDown at 0x0AE97E48>
+OnMouseWheelButtonDown,		<cyfunction CharacterDetailsUI.OnMouseWheelButtonDown at 0x0C66EDF0>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown

@@ -20,19 +20,19 @@ __module__,		uiGameButton
 submodule.__module__
 
 
-ShowButton,		<cyfunction GameButtonWindow.ShowButton at 0x0AB05818>
+ShowButton,		<cyfunction GameButtonWindow.ShowButton at 0x0C312608>
 	arg0: self
 	arg1: key
 
 submodule.ShowButton
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-HideButton,		<cyfunction GameButtonWindow.HideButton at 0x0AB05870>
+HideButton,		<cyfunction GameButtonWindow.HideButton at 0x0C312660>
 	arg0: self
 	arg1: key
 
 submodule.HideButton
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction GameButtonWindow.__del__ at 0x0AB051E8>
+__del__,		<cyfunction GameButtonWindow.__del__ at 0x0C30DFA8>
 	arg0: self
 
 submodule.__del__
@@ -42,65 +42,65 @@ WARP_MI_TIME,		30
 submodule.WARP_MI_TIME
 
 
-ShowGuildWarButton,		<cyfunction GameButtonWindow.ShowGuildWarButton at 0x0AB053A0>
+ShowGuildWarButton,		<cyfunction GameButtonWindow.ShowGuildWarButton at 0x0C312190>
 	arg0: self
 
 submodule.ShowGuildWarButton
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-ShowBuildButton,		<cyfunction GameButtonWindow.ShowBuildButton at 0x0AB05558>
+ShowBuildButton,		<cyfunction GameButtonWindow.ShowBuildButton at 0x0C312348>
 	arg0: self
 
 submodule.ShowBuildButton
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-SetObserverMode,		<cyfunction GameButtonWindow.SetObserverMode at 0x0AB05768>
+SetObserverMode,		<cyfunction GameButtonWindow.SetObserverMode at 0x0C312558>
 	arg0: self
 	arg1: isEnable
 	arg2: isButtonShow
 
 submodule.SetObserverMode
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-Close,		<cyfunction GameButtonWindow.Close at 0x0AB05500>
+Close,		<cyfunction GameButtonWindow.Close at 0x0C3122F0>
 	arg0: self
 	arg1: event
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-_GameButtonWindow__RequestGuildWarEnter,		<cyfunction GameButtonWindow.__RequestGuildWarEnter at 0x0AB05298>
+_GameButtonWindow__RequestGuildWarEnter,		<cyfunction GameButtonWindow.__RequestGuildWarEnter at 0x0C312088>
 	arg0: self
 
 submodule._GameButtonWindow__RequestGuildWarEnter
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction GameButtonWindow.Destroy at 0x0AB05450>
+Destroy,		<cyfunction GameButtonWindow.Destroy at 0x0C312240>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction GameButtonWindow.__init__ at 0x0AB05190>
+__init__,		<cyfunction GameButtonWindow.__init__ at 0x0C30DF50>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction GameButtonWindow.OnUpdate at 0x0AB057C0>
+OnUpdate,		<cyfunction GameButtonWindow.OnUpdate at 0x0C3125B0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-AcceptGuildWarEnter,		<cyfunction GameButtonWindow.AcceptGuildWarEnter at 0x0AB052F0>
+AcceptGuildWarEnter,		<cyfunction GameButtonWindow.AcceptGuildWarEnter at 0x0C3120E0>
 	arg0: self
 
 submodule.AcceptGuildWarEnter
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-CheckGameButton,		<cyfunction GameButtonWindow.CheckGameButton at 0x0AB05608>
+CheckGameButton,		<cyfunction GameButtonWindow.CheckGameButton at 0x0C3123F8>
 	arg0: self
 
 submodule.CheckGameButton
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-ClosePopUpDialog,		<cyfunction GameButtonWindow.ClosePopUpDialog at 0x0AB05348>
+ClosePopUpDialog,		<cyfunction GameButtonWindow.ClosePopUpDialog at 0x0C312138>
 	arg0: self
 
 submodule.ClosePopUpDialog
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-_GameButtonWindow__IsSkillStat,		<cyfunction GameButtonWindow.__IsSkillStat at 0x0AB05660>
+_GameButtonWindow__IsSkillStat,		<cyfunction GameButtonWindow.__IsSkillStat at 0x0C312450>
 	arg0: self
 
 submodule._GameButtonWindow__IsSkillStat
@@ -110,44 +110,44 @@ __qualname__,		GameButtonWindow
 submodule.__qualname__
 
 
-HideBuildButton,		<cyfunction GameButtonWindow.HideBuildButton at 0x0AB055B0>
+HideBuildButton,		<cyfunction GameButtonWindow.HideBuildButton at 0x0C3123A0>
 	arg0: self
 
 submodule.HideBuildButton
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-_GameButtonWindow__LoadWindow,		<cyfunction GameButtonWindow.__LoadWindow at 0x0AB05240>
+_GameButtonWindow__LoadWindow,		<cyfunction GameButtonWindow.__LoadWindow at 0x0C312030>
 	arg0: self
 	arg1: filename
 
 submodule._GameButtonWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-_GameButtonWindow__HideAllGameButton,		<cyfunction GameButtonWindow.__HideAllGameButton at 0x0AB05710>
+_GameButtonWindow__HideAllGameButton,		<cyfunction GameButtonWindow.__HideAllGameButton at 0x0C312500>
 	arg0: self
 
 submodule._GameButtonWindow__HideAllGameButton
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-AcceptMistsIslandWarp,		<cyfunction GameButtonWindow.AcceptMistsIslandWarp at 0x0AB05920>
+AcceptMistsIslandWarp,		<cyfunction GameButtonWindow.AcceptMistsIslandWarp at 0x0C312710>
 	arg0: self
 	arg1: fee
 
 submodule.AcceptMistsIslandWarp
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-HideGuildWarButton,		<cyfunction GameButtonWindow.HideGuildWarButton at 0x0AB053F8>
+HideGuildWarButton,		<cyfunction GameButtonWindow.HideGuildWarButton at 0x0C3121E8>
 	arg0: self
 
 submodule.HideGuildWarButton
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-_GameButtonWindow__OnClickExitObserver,		<cyfunction GameButtonWindow.__OnClickExitObserver at 0x0AB056B8>
+_GameButtonWindow__OnClickExitObserver,		<cyfunction GameButtonWindow.__OnClickExitObserver at 0x0C3124A8>
 	arg0: self
 
 submodule._GameButtonWindow__OnClickExitObserver
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-_GameButtonWindow__MistsIslandWarp,		<cyfunction GameButtonWindow.__MistsIslandWarp at 0x0AB058C8>
+_GameButtonWindow__MistsIslandWarp,		<cyfunction GameButtonWindow.__MistsIslandWarp at 0x0C3126B8>
 	arg0: self
 
 submodule._GameButtonWindow__MistsIslandWarp
 Skipped: unbound method cython_function_or_method object must be called with GameButtonWindow instance as first argument (got nothing instead)
-SetButtonEvent,		<cyfunction GameButtonWindow.SetButtonEvent at 0x0AB054A8>
+SetButtonEvent,		<cyfunction GameButtonWindow.SetButtonEvent at 0x0C312298>
 	arg0: self
 	arg1: name
 	arg2: event

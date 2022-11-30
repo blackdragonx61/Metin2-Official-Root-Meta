@@ -37,7 +37,7 @@ key: SelectTextSlot, val: <class 'uiKeyChange.SelectTextSlot'>
 
 
 class MouseReflector:
-Down,		<cyfunction MouseReflector.Down at 0x0AFDE030>
+Down,		<cyfunction MouseReflector.Down at 0x238F5CE8>
 	arg0: self
 
 submodule.Down
@@ -47,22 +47,22 @@ __module__,		uiKeyChange
 submodule.__module__
 
 
-OnRender,		<cyfunction MouseReflector.OnRender at 0x0AFDE0E0>
+OnRender,		<cyfunction MouseReflector.OnRender at 0x238F5D98>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-__del__,		<cyfunction MouseReflector.__del__ at 0x0AFD6EA0>
+__del__,		<cyfunction MouseReflector.__del__ at 0x238F5B88>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-Up,		<cyfunction MouseReflector.Up at 0x0AFDE088>
+Up,		<cyfunction MouseReflector.Up at 0x238F5D40>
 	arg0: self
 
 submodule.Up
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-SetEmptyOverIn,		<cyfunction MouseReflector.SetEmptyOverIn at 0x0AFD6EF8>
+SetEmptyOverIn,		<cyfunction MouseReflector.SetEmptyOverIn at 0x238F5BE0>
 	arg0: self
 	arg1: overin
 
@@ -73,13 +73,13 @@ __qualname__,		MouseReflector
 submodule.__qualname__
 
 
-SetEmpty,		<cyfunction MouseReflector.SetEmpty at 0x0AFD6F50>
+SetEmpty,		<cyfunction MouseReflector.SetEmpty at 0x238F5C38>
 	arg0: self
 	arg1: isempty
 
 submodule.SetEmpty
 Skipped: unbound method cython_function_or_method object must be called with MouseReflector instance as first argument (got nothing instead)
-GetEmpty,		<cyfunction MouseReflector.GetEmpty at 0x0AFD6FA8>
+GetEmpty,		<cyfunction MouseReflector.GetEmpty at 0x238F5C90>
 	arg0: self
 
 submodule.GetEmpty
@@ -89,7 +89,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MouseReflector.__init__ at 0x0AFD6E48>
+__init__,		<cyfunction MouseReflector.__init__ at 0x238F5B30>
 	arg0: self
 	arg1: parent
 
@@ -98,7 +98,7 @@ Skipped: unbound method cython_function_or_method object must be called with Mou
 
 
 class KeyChangeWindow:
-_KeyChangeWindow__BuildKeyInfoText,		<cyfunction KeyChangeWindow.__BuildKeyInfoText at 0x0AFDEA80>
+_KeyChangeWindow__BuildKeyInfoText,		<cyfunction KeyChangeWindow.__BuildKeyInfoText at 0x238FA768>
 	arg0: self
 
 submodule._KeyChangeWindow__BuildKeyInfoText
@@ -108,115 +108,115 @@ __module__,		uiKeyChange
 submodule.__module__
 
 
-RefreshKeyTextTemp,		<cyfunction KeyChangeWindow.RefreshKeyTextTemp at 0x0AFDE818>
+RefreshKeyTextTemp,		<cyfunction KeyChangeWindow.RefreshKeyTextTemp at 0x238FA500>
 	arg0: self
 
 submodule.RefreshKeyTextTemp
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-IsSlotKey,		<cyfunction KeyChangeWindow.IsSlotKey at 0x0AFDE920>
+IsSlotKey,		<cyfunction KeyChangeWindow.IsSlotKey at 0x238FA608>
 	arg0: self
 	arg1: Key
 
 submodule.IsSlotKey
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-Clear,		<cyfunction KeyChangeWindow.Clear at 0x0AFDE8C8>
+Clear,		<cyfunction KeyChangeWindow.Clear at 0x238FA5B0>
 	arg0: self
 
 submodule.Clear
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-RefreshKeyText,		<cyfunction KeyChangeWindow.RefreshKeyText at 0x0AFDE7C0>
+RefreshKeyText,		<cyfunction KeyChangeWindow.RefreshKeyText at 0x238FA4A8>
 	arg0: self
 
 submodule.RefreshKeyText
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-GetSelectSlotNumber,		<cyfunction KeyChangeWindow.GetSelectSlotNumber at 0x0AFDE6B8>
+GetSelectSlotNumber,		<cyfunction KeyChangeWindow.GetSelectSlotNumber at 0x238FA3A0>
 	arg0: self
 
 submodule.GetSelectSlotNumber
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-SaveAndClose,		<cyfunction KeyChangeWindow.SaveAndClose at 0x0AFDE450>
+SaveAndClose,		<cyfunction KeyChangeWindow.SaveAndClose at 0x238FA138>
 	arg0: self
 
 submodule.SaveAndClose
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-CheckUsableKeyValue,		<cyfunction KeyChangeWindow.CheckUsableKeyValue at 0x0AFDE558>
+CheckUsableKeyValue,		<cyfunction KeyChangeWindow.CheckUsableKeyValue at 0x238FA240>
 	arg0: self
 	arg1: Key
 
 submodule.CheckUsableKeyValue
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-ChangeKey,		<cyfunction KeyChangeWindow.ChangeKey at 0x0AFDE710>
+ChangeKey,		<cyfunction KeyChangeWindow.ChangeKey at 0x238FA3F8>
 	arg0: self
 	arg1: key
 
 submodule.ChangeKey
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-LoadKeyInfo,		<cyfunction KeyChangeWindow.LoadKeyInfo at 0x0AFDE5B0>
+LoadKeyInfo,		<cyfunction KeyChangeWindow.LoadKeyInfo at 0x238FA298>
 	arg0: self
 
 submodule.LoadKeyInfo
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-KeyChangeWindowSaveClose,		<cyfunction KeyChangeWindow.KeyChangeWindowSaveClose at 0x0AFDE2F0>
+KeyChangeWindowSaveClose,		<cyfunction KeyChangeWindow.KeyChangeWindowSaveClose at 0x238F5FA8>
 	arg0: self
 	arg1: isclose
 
 submodule.KeyChangeWindowSaveClose
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-KeyChangeWindowClose,		<cyfunction KeyChangeWindow.KeyChangeWindowClose at 0x0AFDE348>
+KeyChangeWindowClose,		<cyfunction KeyChangeWindow.KeyChangeWindowClose at 0x238FA030>
 	arg0: self
 	arg1: isclose
 
 submodule.KeyChangeWindowClose
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-CloseAnswer,		<cyfunction KeyChangeWindow.CloseAnswer at 0x0AFDE3F8>
+CloseAnswer,		<cyfunction KeyChangeWindow.CloseAnswer at 0x238FA0E0>
 	arg0: self
 
 submodule.CloseAnswer
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction KeyChangeWindow.__init__ at 0x0AFDE138>
+__init__,		<cyfunction KeyChangeWindow.__init__ at 0x238F5DF0>
 	arg0: self
 	arg1: game
 	arg2: interface
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-_KeyChangeWindow__BuildUsableKeyInfo,		<cyfunction KeyChangeWindow.__BuildUsableKeyInfo at 0x0AFDEAD8>
+_KeyChangeWindow__BuildUsableKeyInfo,		<cyfunction KeyChangeWindow.__BuildUsableKeyInfo at 0x238FA7C0>
 	arg0: self
 
 submodule._KeyChangeWindow__BuildUsableKeyInfo
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-IsOpen,		<cyfunction KeyChangeWindow.IsOpen at 0x0AFDE870>
+IsOpen,		<cyfunction KeyChangeWindow.IsOpen at 0x238FA558>
 	arg0: self
 
 submodule.IsOpen
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-_KeyChangeWindow__BuildKeyInfo,		<cyfunction KeyChangeWindow.__BuildKeyInfo at 0x0AFDE9D0>
+_KeyChangeWindow__BuildKeyInfo,		<cyfunction KeyChangeWindow.__BuildKeyInfo at 0x238FA6B8>
 	arg0: self
 	arg1: fileable
 
 submodule._KeyChangeWindow__BuildKeyInfo
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction KeyChangeWindow.OnPressEscapeKey at 0x0AFDE4A8>
+OnPressEscapeKey,		<cyfunction KeyChangeWindow.OnPressEscapeKey at 0x238FA190>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-_KeyChangeWindow__BuildKeyFunction,		<cyfunction KeyChangeWindow.__BuildKeyFunction at 0x0AFDEA28>
+_KeyChangeWindow__BuildKeyFunction,		<cyfunction KeyChangeWindow.__BuildKeyFunction at 0x238FA710>
 	arg0: self
 
 submodule._KeyChangeWindow__BuildKeyFunction
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-GetSelectSlotDicNumber,		<cyfunction KeyChangeWindow.GetSelectSlotDicNumber at 0x0AFDE768>
+GetSelectSlotDicNumber,		<cyfunction KeyChangeWindow.GetSelectSlotDicNumber at 0x238FA450>
 	arg0: self
 
 submodule.GetSelectSlotDicNumber
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-IsSelectKeySlot,		<cyfunction KeyChangeWindow.IsSelectKeySlot at 0x0AFDE500>
+IsSelectKeySlot,		<cyfunction KeyChangeWindow.IsSelectKeySlot at 0x238FA1E8>
 	arg0: self
 
 submodule.IsSelectKeySlot
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-SaveKeyInfo,		<cyfunction KeyChangeWindow.SaveKeyInfo at 0x0AFDE660>
+SaveKeyInfo,		<cyfunction KeyChangeWindow.SaveKeyInfo at 0x238FA348>
 	arg0: self
 
 submodule.SaveKeyInfo
@@ -226,33 +226,33 @@ __qualname__,		KeyChangeWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction KeyChangeWindow.__del__ at 0x0AFDE190>
+__del__,		<cyfunction KeyChangeWindow.__del__ at 0x238F5E48>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-SettingKey,		<cyfunction KeyChangeWindow.SettingKey at 0x0AFDE608>
+SettingKey,		<cyfunction KeyChangeWindow.SettingKey at 0x238FA2F0>
 	arg0: self
 
 submodule.SettingKey
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-IsChangeKey,		<cyfunction KeyChangeWindow.IsChangeKey at 0x0AFDE978>
+IsChangeKey,		<cyfunction KeyChangeWindow.IsChangeKey at 0x238FA660>
 	arg0: self
 	arg1: slotnumber
 
 submodule.IsChangeKey
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-Close,		<cyfunction KeyChangeWindow.Close at 0x0AFDE3A0>
+Close,		<cyfunction KeyChangeWindow.Close at 0x238FA088>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-_KeyChangeWindow__LoadWindow,		<cyfunction KeyChangeWindow.__LoadWindow at 0x0AFDE1E8>
+_KeyChangeWindow__LoadWindow,		<cyfunction KeyChangeWindow.__LoadWindow at 0x238F5EA0>
 	arg0: self
 
 submodule._KeyChangeWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with KeyChangeWindow instance as first argument (got nothing instead)
-Open,		<cyfunction KeyChangeWindow.Open at 0x0AFDE298>
+Open,		<cyfunction KeyChangeWindow.Open at 0x238F5F50>
 	arg0: self
 
 submodule.Open
@@ -262,7 +262,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseLeftButtonDownEvent,		<cyfunction KeyChangeWindow.OnMouseLeftButtonDownEvent at 0x0AFDE240>
+OnMouseLeftButtonDownEvent,		<cyfunction KeyChangeWindow.OnMouseLeftButtonDownEvent at 0x238F5EF8>
 	arg0: self
 	arg1: slotnumber
 	arg2: slot
@@ -277,39 +277,39 @@ __module__,		uiKeyChange
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction SelectTextSlot.OnMouseOverOut at 0x0AFD6C90>
+OnMouseOverOut,		<cyfunction SelectTextSlot.OnMouseOverOut at 0x238F5978>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-GetSlotNumber,		<cyfunction SelectTextSlot.GetSlotNumber at 0x0AFD6BE0>
+GetSlotNumber,		<cyfunction SelectTextSlot.GetSlotNumber at 0x238F58C8>
 	arg0: self
 
 submodule.GetSlotNumber
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-__del__,		<cyfunction SelectTextSlot.__del__ at 0x0AFD6978>
+__del__,		<cyfunction SelectTextSlot.__del__ at 0x238F5660>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-SetText,		<cyfunction SelectTextSlot.SetText at 0x0AFD6A28>
+SetText,		<cyfunction SelectTextSlot.SetText at 0x238F5710>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-SetEvent,		<cyfunction SelectTextSlot.SetEvent at 0x0AFD69D0>
+SetEvent,		<cyfunction SelectTextSlot.SetEvent at 0x238F56B8>
 	arg0: self
 	arg1: event
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction SelectTextSlot.OnMouseLeftButtonUp at 0x0AFD6D40>
+OnMouseLeftButtonUp,		<cyfunction SelectTextSlot.OnMouseLeftButtonUp at 0x238F5A28>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-__init__,		<cyfunction SelectTextSlot.__init__ at 0x0AFD6920>
+__init__,		<cyfunction SelectTextSlot.__init__ at 0x238F5608>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -317,22 +317,22 @@ __init__,		<cyfunction SelectTextSlot.__init__ at 0x0AFD6920>
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-RefreshOriSlot,		<cyfunction SelectTextSlot.RefreshOriSlot at 0x0AFD6D98>
+RefreshOriSlot,		<cyfunction SelectTextSlot.RefreshOriSlot at 0x238F5A80>
 	arg0: self
 
 submodule.RefreshOriSlot
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction SelectTextSlot.OnMouseLeftButtonDown at 0x0AFD6CE8>
+OnMouseLeftButtonDown,		<cyfunction SelectTextSlot.OnMouseLeftButtonDown at 0x238F59D0>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-GetAble,		<cyfunction SelectTextSlot.GetAble at 0x0AFD6B88>
+GetAble,		<cyfunction SelectTextSlot.GetAble at 0x238F5870>
 	arg0: self
 
 submodule.GetAble
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-GetText,		<cyfunction SelectTextSlot.GetText at 0x0AFD6AD8>
+GetText,		<cyfunction SelectTextSlot.GetText at 0x238F57C0>
 	arg0: self
 
 submodule.GetText
@@ -347,22 +347,22 @@ __qualname__,		SelectTextSlot
 submodule.__qualname__
 
 
-Disable,		<cyfunction SelectTextSlot.Disable at 0x0AFD6B30>
+Disable,		<cyfunction SelectTextSlot.Disable at 0x238F5818>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-EmptySlotShow,		<cyfunction SelectTextSlot.EmptySlotShow at 0x0AFD6A80>
+EmptySlotShow,		<cyfunction SelectTextSlot.EmptySlotShow at 0x238F5768>
 	arg0: self
 
 submodule.EmptySlotShow
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction SelectTextSlot.OnMouseOverIn at 0x0AFD6C38>
+OnMouseOverIn,		<cyfunction SelectTextSlot.OnMouseOverIn at 0x238F5920>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with SelectTextSlot instance as first argument (got nothing instead)
-Clear,		<cyfunction SelectTextSlot.Clear at 0x0AFD6DF0>
+Clear,		<cyfunction SelectTextSlot.Clear at 0x238F5AD8>
 	arg0: self
 
 submodule.Clear

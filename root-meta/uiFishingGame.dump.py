@@ -19,12 +19,12 @@ __module__,		uiFishingGame
 submodule.__module__
 
 
-ClearFishing,		<cyfunction FishingGame.ClearFishing at 0x0AF8D1E8>
+ClearFishing,		<cyfunction FishingGame.ClearFishing at 0x0C7B0088>
 	arg0: self
 
 submodule.ClearFishing
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-CreateWaveEffect,		<cyfunction FishingGame.CreateWaveEffect at 0x0AF8D348>
+CreateWaveEffect,		<cyfunction FishingGame.CreateWaveEffect at 0x0C7B01E8>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -32,57 +32,57 @@ CreateWaveEffect,		<cyfunction FishingGame.CreateWaveEffect at 0x0AF8D348>
 
 submodule.CreateWaveEffect
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-InitFishing,		<cyfunction FishingGame.InitFishing at 0x0AF8D190>
+InitFishing,		<cyfunction FishingGame.InitFishing at 0x0C7B0030>
 	arg0: self
 
 submodule.InitFishing
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-__del__,		<cyfunction FishingGame.__del__ at 0x0AF88E48>
+__del__,		<cyfunction FishingGame.__del__ at 0x0C7A5CE8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-_FishingGame__Initialize,		<cyfunction FishingGame.__Initialize at 0x0AF88EA0>
+_FishingGame__Initialize,		<cyfunction FishingGame.__Initialize at 0x0C7A5D40>
 	arg0: self
 
 submodule._FishingGame__Initialize
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-CreateHitEffect,		<cyfunction FishingGame.CreateHitEffect at 0x0AF8D298>
+CreateHitEffect,		<cyfunction FishingGame.CreateHitEffect at 0x0C7B0138>
 	arg0: self
 
 submodule.CreateHitEffect
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction FishingGame.OnPressEscapeKey at 0x0AF8D0E0>
+OnPressEscapeKey,		<cyfunction FishingGame.OnPressEscapeKey at 0x0C7A5F50>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-_FishingGame__Load,		<cyfunction FishingGame.__Load at 0x0AF88EF8>
+_FishingGame__Load,		<cyfunction FishingGame.__Load at 0x0C7A5D98>
 	arg0: self
 
 submodule._FishingGame__Load
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-Destroy,		<cyfunction FishingGame.Destroy at 0x0AF8D088>
+Destroy,		<cyfunction FishingGame.Destroy at 0x0C7A5EF8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-__init__,		<cyfunction FishingGame.__init__ at 0x0AF88DF0>
+__init__,		<cyfunction FishingGame.__init__ at 0x0C7A5C90>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-QuitFishing,		<cyfunction FishingGame.QuitFishing at 0x0AF8D138>
+QuitFishing,		<cyfunction FishingGame.QuitFishing at 0x0C7A5FA8>
 	arg0: self
 
 submodule.QuitFishing
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-Show,		<cyfunction FishingGame.Show at 0x0AF88F50>
+Show,		<cyfunction FishingGame.Show at 0x0C7A5DF0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction FishingGame.OnMouseOverOut at 0x0AF8D450>
+OnMouseOverOut,		<cyfunction FishingGame.OnMouseOverOut at 0x0C7B02F0>
 	arg0: self
 
 submodule.OnMouseOverOut
@@ -92,29 +92,29 @@ __qualname__,		FishingGame
 submodule.__qualname__
 
 
-CreateFishImage,		<cyfunction FishingGame.CreateFishImage at 0x0AF8D240>
+CreateFishImage,		<cyfunction FishingGame.CreateFishImage at 0x0C7B00E0>
 	arg0: self
 
 submodule.CreateFishImage
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-Close,		<cyfunction FishingGame.Close at 0x0AF8D030>
+Close,		<cyfunction FishingGame.Close at 0x0C7A5EA0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction FishingGame.OnMouseOverIn at 0x0AF8D3F8>
+OnMouseOverIn,		<cyfunction FishingGame.OnMouseOverIn at 0x0C7B0298>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-CreateMissEffect,		<cyfunction FishingGame.CreateMissEffect at 0x0AF8D2F0>
+CreateMissEffect,		<cyfunction FishingGame.CreateMissEffect at 0x0C7B0190>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.CreateMissEffect
 Skipped: unbound method cython_function_or_method object must be called with FishingGame instance as first argument (got nothing instead)
-Open,		<cyfunction FishingGame.Open at 0x0AF88FA8>
+Open,		<cyfunction FishingGame.Open at 0x0C7A5E48>
 	arg0: self
 
 submodule.Open
@@ -124,7 +124,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseLeftButtonDownEvent,		<cyfunction FishingGame.OnMouseLeftButtonDownEvent at 0x0AF8D3A0>
+OnMouseLeftButtonDownEvent,		<cyfunction FishingGame.OnMouseLeftButtonDownEvent at 0x0C7B0240>
 	arg0: self
 
 submodule.OnMouseLeftButtonDownEvent

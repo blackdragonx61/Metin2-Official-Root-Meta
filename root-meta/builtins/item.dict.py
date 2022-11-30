@@ -613,6 +613,7 @@
          {'name': 'USE_ADD_ACCESSORY_SOCKET', 'type': 'int', 'value': 20},
          {'name': 'USE_AFFECT', 'type': 'int', 'value': 8},
          {'name': 'USE_BAIT', 'type': 'int', 'value': 6},
+         {'name': 'USE_CALL', 'type': 'int', 'value': 40},
          {'name': 'USE_CLEAR', 'type': 'int', 'value': 12},
          {'name': 'USE_CREATE_STONE', 'type': 'int', 'value': 9},
          {'name': 'USE_DETACHMENT', 'type': 'int', 'value': 14},

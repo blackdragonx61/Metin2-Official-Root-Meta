@@ -24,33 +24,33 @@ __module__,		uiGuildPopup
 submodule.__module__
 
 
-SetNormalButton,		<cyfunction GuildPopupDialog.SetNormalButton at 0x0AF04088>
+SetNormalButton,		<cyfunction GuildPopupDialog.SetNormalButton at 0x0C708E48>
 	arg0: self
 
 submodule.SetNormalButton
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetTitleBarText,		<cyfunction GuildPopupDialog.SetTitleBarText at 0x0AF04030>
+SetTitleBarText,		<cyfunction GuildPopupDialog.SetTitleBarText at 0x0C708DF0>
 	arg0: self
 	arg1: text
 
 submodule.SetTitleBarText
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildPopupDialog.__del__ at 0x0AF03D40>
+__del__,		<cyfunction GuildPopupDialog.__del__ at 0x0C708B30>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-_GuildPopupDialog__LoadDialog,		<cyfunction GuildPopupDialog.__LoadDialog at 0x0AF03D98>
+_GuildPopupDialog__LoadDialog,		<cyfunction GuildPopupDialog.__LoadDialog at 0x0C708B88>
 	arg0: self
 
 submodule._GuildPopupDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-_GuildPopupDialog__OnAcceptEventButton,		<cyfunction GuildPopupDialog.__OnAcceptEventButton at 0x0AF04138>
+_GuildPopupDialog__OnAcceptEventButton,		<cyfunction GuildPopupDialog.__OnAcceptEventButton at 0x0C708EF8>
 	arg0: self
 
 submodule._GuildPopupDialog__OnAcceptEventButton
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction GuildPopupDialog.SetAcceptEvent at 0x0AF040E0>
+SetAcceptEvent,		<cyfunction GuildPopupDialog.SetAcceptEvent at 0x0C708EA0>
 	arg0: self
 	arg1: event
 
@@ -66,39 +66,39 @@ __qualname__,		GuildPopupDialog
 submodule.__qualname__
 
 
-Open,		<cyfunction GuildPopupDialog.Open at 0x0AF03DF0>
+Open,		<cyfunction GuildPopupDialog.Open at 0x0C708BE0>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction GuildPopupDialog.__init__ at 0x0AF03CE8>
+__init__,		<cyfunction GuildPopupDialog.__init__ at 0x0C708AD8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction GuildPopupDialog.Destroy at 0x0AF03EA0>
+Destroy,		<cyfunction GuildPopupDialog.Destroy at 0x0C708C90>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-Close,		<cyfunction GuildPopupDialog.Close at 0x0AF03E48>
+Close,		<cyfunction GuildPopupDialog.Close at 0x0C708C38>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetWidth,		<cyfunction GuildPopupDialog.SetWidth at 0x0AF03FA8>
+SetWidth,		<cyfunction GuildPopupDialog.SetWidth at 0x0C708D98>
 	arg0: self
 	arg1: width
 
 submodule.SetWidth
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetText2,		<cyfunction GuildPopupDialog.SetText2 at 0x0AF03F50>
+SetText2,		<cyfunction GuildPopupDialog.SetText2 at 0x0C708D40>
 	arg0: self
 	arg1: text
 
 submodule.SetText2
 Skipped: unbound method cython_function_or_method object must be called with GuildPopupDialog instance as first argument (got nothing instead)
-SetText1,		<cyfunction GuildPopupDialog.SetText1 at 0x0AF03EF8>
+SetText1,		<cyfunction GuildPopupDialog.SetText1 at 0x0C708CE8>
 	arg0: self
 	arg1: text
 
@@ -107,23 +107,23 @@ Skipped: unbound method cython_function_or_method object must be called with Gui
 
 
 class GuildVoteDialog:
-_GuildVoteDialog__LoadDialog,		<cyfunction GuildVoteDialog.__LoadDialog at 0x0AF03298>
+_GuildVoteDialog__LoadDialog,		<cyfunction GuildVoteDialog.__LoadDialog at 0x0C708088>
 	arg0: self
 
 submodule._GuildVoteDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-SetNormalButton,		<cyfunction GuildVoteDialog.SetNormalButton at 0x0AF03558>
+SetNormalButton,		<cyfunction GuildVoteDialog.SetNormalButton at 0x0C708348>
 	arg0: self
 
 submodule.SetNormalButton
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-SetTitleBarText,		<cyfunction GuildVoteDialog.SetTitleBarText at 0x0AF03500>
+SetTitleBarText,		<cyfunction GuildVoteDialog.SetTitleBarText at 0x0C7082F0>
 	arg0: self
 	arg1: text
 
 submodule.SetTitleBarText
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildVoteDialog.__del__ at 0x0AF03240>
+__del__,		<cyfunction GuildVoteDialog.__del__ at 0x0C708030>
 	arg0: self
 
 submodule.__del__
@@ -133,46 +133,46 @@ __module__,		uiGuildPopup
 submodule.__module__
 
 
-SetAcceptEvent,		<cyfunction GuildVoteDialog.SetAcceptEvent at 0x0AF035B0>
+SetAcceptEvent,		<cyfunction GuildVoteDialog.SetAcceptEvent at 0x0C7083A0>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction GuildVoteDialog.Destroy at 0x0AF033A0>
+Destroy,		<cyfunction GuildVoteDialog.Destroy at 0x0C708190>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-SetText2,		<cyfunction GuildVoteDialog.SetText2 at 0x0AF03450>
+SetText2,		<cyfunction GuildVoteDialog.SetText2 at 0x0C708240>
 	arg0: self
 	arg1: text
 
 submodule.SetText2
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-SetText1,		<cyfunction GuildVoteDialog.SetText1 at 0x0AF033F8>
+SetText1,		<cyfunction GuildVoteDialog.SetText1 at 0x0C7081E8>
 	arg0: self
 	arg1: text
 
 submodule.SetText1
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-SetCancleText,		<cyfunction GuildVoteDialog.SetCancleText at 0x0AF036B8>
+SetCancleText,		<cyfunction GuildVoteDialog.SetCancleText at 0x0C7084A8>
 	arg0: self
 	arg1: text
 
 submodule.SetCancleText
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-Open,		<cyfunction GuildVoteDialog.Open at 0x0AF032F0>
+Open,		<cyfunction GuildVoteDialog.Open at 0x0C7080E0>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-OnPressEscaptKey,		<cyfunction GuildVoteDialog.OnPressEscaptKey at 0x0AF03710>
+OnPressEscaptKey,		<cyfunction GuildVoteDialog.OnPressEscaptKey at 0x0C708500>
 	arg0: self
 
 submodule.OnPressEscaptKey
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-SetCancleEvent,		<cyfunction GuildVoteDialog.SetCancleEvent at 0x0AF03608>
+SetCancleEvent,		<cyfunction GuildVoteDialog.SetCancleEvent at 0x0C7083F8>
 	arg0: self
 	arg1: event
 
@@ -183,23 +183,23 @@ __qualname__,		GuildVoteDialog
 submodule.__qualname__
 
 
-SetAcceptText,		<cyfunction GuildVoteDialog.SetAcceptText at 0x0AF03660>
+SetAcceptText,		<cyfunction GuildVoteDialog.SetAcceptText at 0x0C708450>
 	arg0: self
 	arg1: text
 
 submodule.SetAcceptText
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction GuildVoteDialog.__init__ at 0x0AF031E8>
+__init__,		<cyfunction GuildVoteDialog.__init__ at 0x0C701FA8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-Close,		<cyfunction GuildVoteDialog.Close at 0x0AF03348>
+Close,		<cyfunction GuildVoteDialog.Close at 0x0C708138>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog instance as first argument (got nothing instead)
-SetWidth,		<cyfunction GuildVoteDialog.SetWidth at 0x0AF034A8>
+SetWidth,		<cyfunction GuildVoteDialog.SetWidth at 0x0C708298>
 	arg0: self
 	arg1: width
 
@@ -218,75 +218,75 @@ __module__,		uiGuildPopup
 submodule.__module__
 
 
-SetTitleBarText,		<cyfunction GuildVoteResultDialog.SetTitleBarText at 0x0AF03088>
+SetTitleBarText,		<cyfunction GuildVoteResultDialog.SetTitleBarText at 0x0C701E48>
 	arg0: self
 	arg1: text
 
 submodule.SetTitleBarText
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildVoteResultDialog.__del__ at 0x0AEFCC90>
+__del__,		<cyfunction GuildVoteResultDialog.__del__ at 0x0C701A80>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-_GuildVoteResultDialog__LoadDialog,		<cyfunction GuildVoteResultDialog.__LoadDialog at 0x0AEFCCE8>
+_GuildVoteResultDialog__LoadDialog,		<cyfunction GuildVoteResultDialog.__LoadDialog at 0x0C701AD8>
 	arg0: self
 
 submodule._GuildVoteResultDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction GuildVoteResultDialog.SetAcceptEvent at 0x0AF03138>
+SetAcceptEvent,		<cyfunction GuildVoteResultDialog.SetAcceptEvent at 0x0C701EF8>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction GuildVoteResultDialog.Destroy at 0x0AEFCDF0>
+Destroy,		<cyfunction GuildVoteResultDialog.Destroy at 0x0C701BE0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-SetText5,		<cyfunction GuildVoteResultDialog.SetText5 at 0x0AEFCFA8>
+SetText5,		<cyfunction GuildVoteResultDialog.SetText5 at 0x0C701D98>
 	arg0: self
 	arg1: text
 
 submodule.SetText5
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-SetText4,		<cyfunction GuildVoteResultDialog.SetText4 at 0x0AEFCF50>
+SetText4,		<cyfunction GuildVoteResultDialog.SetText4 at 0x0C701D40>
 	arg0: self
 	arg1: text
 
 submodule.SetText4
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-SetText3,		<cyfunction GuildVoteResultDialog.SetText3 at 0x0AEFCEF8>
+SetText3,		<cyfunction GuildVoteResultDialog.SetText3 at 0x0C701CE8>
 	arg0: self
 	arg1: text
 
 submodule.SetText3
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-SetText2,		<cyfunction GuildVoteResultDialog.SetText2 at 0x0AEFCEA0>
+SetText2,		<cyfunction GuildVoteResultDialog.SetText2 at 0x0C701C90>
 	arg0: self
 	arg1: text
 
 submodule.SetText2
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-SetText1,		<cyfunction GuildVoteResultDialog.SetText1 at 0x0AEFCE48>
+SetText1,		<cyfunction GuildVoteResultDialog.SetText1 at 0x0C701C38>
 	arg0: self
 	arg1: text
 
 submodule.SetText1
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-Open,		<cyfunction GuildVoteResultDialog.Open at 0x0AEFCD40>
+Open,		<cyfunction GuildVoteResultDialog.Open at 0x0C701B30>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-SetButtonText,		<cyfunction GuildVoteResultDialog.SetButtonText at 0x0AF030E0>
+SetButtonText,		<cyfunction GuildVoteResultDialog.SetButtonText at 0x0C701EA0>
 	arg0: self
 	arg1: text
 
 submodule.SetButtonText
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-OnPressEscaptKey,		<cyfunction GuildVoteResultDialog.OnPressEscaptKey at 0x0AF03190>
+OnPressEscaptKey,		<cyfunction GuildVoteResultDialog.OnPressEscaptKey at 0x0C701F50>
 	arg0: self
 
 submodule.OnPressEscaptKey
@@ -296,17 +296,17 @@ __qualname__,		GuildVoteResultDialog
 submodule.__qualname__
 
 
-__init__,		<cyfunction GuildVoteResultDialog.__init__ at 0x0AEFCC38>
+__init__,		<cyfunction GuildVoteResultDialog.__init__ at 0x0C701A28>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-Close,		<cyfunction GuildVoteResultDialog.Close at 0x0AEFCD98>
+Close,		<cyfunction GuildVoteResultDialog.Close at 0x0C701B88>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteResultDialog instance as first argument (got nothing instead)
-SetWidth,		<cyfunction GuildVoteResultDialog.SetWidth at 0x0AF03030>
+SetWidth,		<cyfunction GuildVoteResultDialog.SetWidth at 0x0C701DF0>
 	arg0: self
 	arg1: width
 
@@ -325,68 +325,68 @@ __module__,		uiGuildPopup
 submodule.__module__
 
 
-SetNormalButton,		<cyfunction GuildVoteDialog2.SetNormalButton at 0x0AF03AD8>
+SetNormalButton,		<cyfunction GuildVoteDialog2.SetNormalButton at 0x0C7088C8>
 	arg0: self
 
 submodule.SetNormalButton
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-SetTitleBarText,		<cyfunction GuildVoteDialog2.SetTitleBarText at 0x0AF03A80>
+SetTitleBarText,		<cyfunction GuildVoteDialog2.SetTitleBarText at 0x0C708870>
 	arg0: self
 	arg1: text
 
 submodule.SetTitleBarText
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildVoteDialog2.__del__ at 0x0AF037C0>
+__del__,		<cyfunction GuildVoteDialog2.__del__ at 0x0C7085B0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction GuildVoteDialog2.SetAcceptEvent at 0x0AF03B30>
+SetAcceptEvent,		<cyfunction GuildVoteDialog2.SetAcceptEvent at 0x0C708920>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-_GuildVoteDialog2__LoadDialog,		<cyfunction GuildVoteDialog2.__LoadDialog at 0x0AF03818>
+_GuildVoteDialog2__LoadDialog,		<cyfunction GuildVoteDialog2.__LoadDialog at 0x0C708608>
 	arg0: self
 
 submodule._GuildVoteDialog2__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-Destroy,		<cyfunction GuildVoteDialog2.Destroy at 0x0AF03920>
+Destroy,		<cyfunction GuildVoteDialog2.Destroy at 0x0C708710>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-SetText3,		<cyfunction GuildVoteDialog2.SetText3 at 0x0AF03A28>
+SetText3,		<cyfunction GuildVoteDialog2.SetText3 at 0x0C708818>
 	arg0: self
 	arg1: text
 
 submodule.SetText3
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-SetText2,		<cyfunction GuildVoteDialog2.SetText2 at 0x0AF039D0>
+SetText2,		<cyfunction GuildVoteDialog2.SetText2 at 0x0C7087C0>
 	arg0: self
 	arg1: text
 
 submodule.SetText2
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-SetText1,		<cyfunction GuildVoteDialog2.SetText1 at 0x0AF03978>
+SetText1,		<cyfunction GuildVoteDialog2.SetText1 at 0x0C708768>
 	arg0: self
 	arg1: text
 
 submodule.SetText1
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-SetCancleText,		<cyfunction GuildVoteDialog2.SetCancleText at 0x0AF03C38>
+SetCancleText,		<cyfunction GuildVoteDialog2.SetCancleText at 0x0C708A28>
 	arg0: self
 	arg1: text
 
 submodule.SetCancleText
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-OnPressEscaptKey,		<cyfunction GuildVoteDialog2.OnPressEscaptKey at 0x0AF03C90>
+OnPressEscaptKey,		<cyfunction GuildVoteDialog2.OnPressEscaptKey at 0x0C708A80>
 	arg0: self
 
 submodule.OnPressEscaptKey
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-SetCancleEvent,		<cyfunction GuildVoteDialog2.SetCancleEvent at 0x0AF03B88>
+SetCancleEvent,		<cyfunction GuildVoteDialog2.SetCancleEvent at 0x0C708978>
 	arg0: self
 	arg1: event
 
@@ -397,23 +397,23 @@ __qualname__,		GuildVoteDialog2
 submodule.__qualname__
 
 
-SetAcceptText,		<cyfunction GuildVoteDialog2.SetAcceptText at 0x0AF03BE0>
+SetAcceptText,		<cyfunction GuildVoteDialog2.SetAcceptText at 0x0C7089D0>
 	arg0: self
 	arg1: text
 
 submodule.SetAcceptText
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-__init__,		<cyfunction GuildVoteDialog2.__init__ at 0x0AF03768>
+__init__,		<cyfunction GuildVoteDialog2.__init__ at 0x0C708558>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-Close,		<cyfunction GuildVoteDialog2.Close at 0x0AF038C8>
+Close,		<cyfunction GuildVoteDialog2.Close at 0x0C7086B8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildVoteDialog2 instance as first argument (got nothing instead)
-Open,		<cyfunction GuildVoteDialog2.Open at 0x0AF03870>
+Open,		<cyfunction GuildVoteDialog2.Open at 0x0C708660>
 	arg0: self
 
 submodule.Open
@@ -431,22 +431,22 @@ __module__,		uiGuildPopup
 submodule.__module__
 
 
-OnAccept,		<cyfunction GuildLandDealDialog.OnAccept at 0x0AEFCBE0>
+OnAccept,		<cyfunction GuildLandDealDialog.OnAccept at 0x0C7019D0>
 	arg0: self
 
 submodule.OnAccept
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildLandDealDialog.__del__ at 0x0AEFCA28>
+__del__,		<cyfunction GuildLandDealDialog.__del__ at 0x0C701818>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealDialog instance as first argument (got nothing instead)
-__LoadDialog__,		<cyfunction GuildLandDealDialog.__LoadDialog__ at 0x0AEFCA80>
+__LoadDialog__,		<cyfunction GuildLandDealDialog.__LoadDialog__ at 0x0C701870>
 	arg0: self
 
 submodule.__LoadDialog__
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealDialog instance as first argument (got nothing instead)
-OnPressEscaptKey,		<cyfunction GuildLandDealDialog.OnPressEscaptKey at 0x0AEFCB88>
+OnPressEscaptKey,		<cyfunction GuildLandDealDialog.OnPressEscaptKey at 0x0C701978>
 	arg0: self
 
 submodule.OnPressEscaptKey
@@ -456,12 +456,12 @@ __qualname__,		GuildLandDealDialog
 submodule.__qualname__
 
 
-Close,		<cyfunction GuildLandDealDialog.Close at 0x0AEFCB30>
+Close,		<cyfunction GuildLandDealDialog.Close at 0x0C701920>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealDialog instance as first argument (got nothing instead)
-Open,		<cyfunction GuildLandDealDialog.Open at 0x0AEFCAD8>
+Open,		<cyfunction GuildLandDealDialog.Open at 0x0C7018C8>
 	arg0: self
 
 submodule.Open
@@ -471,7 +471,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction GuildLandDealDialog.__init__ at 0x0AEFC9D0>
+__init__,		<cyfunction GuildLandDealDialog.__init__ at 0x0C7017C0>
 	arg0: self
 
 submodule.__init__
@@ -484,22 +484,22 @@ __module__,		uiGuildPopup
 submodule.__module__
 
 
-OnAccept,		<cyfunction GuildLandDealVoteDialog.OnAccept at 0x0AEFC920>
+OnAccept,		<cyfunction GuildLandDealVoteDialog.OnAccept at 0x0C701710>
 	arg0: self
 
 submodule.OnAccept
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealVoteDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction GuildLandDealVoteDialog.__del__ at 0x0AEFC710>
+__del__,		<cyfunction GuildLandDealVoteDialog.__del__ at 0x0C701500>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealVoteDialog instance as first argument (got nothing instead)
-__LoadDialog__,		<cyfunction GuildLandDealVoteDialog.__LoadDialog__ at 0x0AEFC768>
+__LoadDialog__,		<cyfunction GuildLandDealVoteDialog.__LoadDialog__ at 0x0C701558>
 	arg0: self
 
 submodule.__LoadDialog__
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealVoteDialog instance as first argument (got nothing instead)
-OnPressEscaptKey,		<cyfunction GuildLandDealVoteDialog.OnPressEscaptKey at 0x0AEFC978>
+OnPressEscaptKey,		<cyfunction GuildLandDealVoteDialog.OnPressEscaptKey at 0x0C701768>
 	arg0: self
 
 submodule.OnPressEscaptKey
@@ -514,29 +514,29 @@ __qualname__,		GuildLandDealVoteDialog
 submodule.__qualname__
 
 
-SetText1,		<cyfunction GuildLandDealVoteDialog.SetText1 at 0x0AEFC870>
+SetText1,		<cyfunction GuildLandDealVoteDialog.SetText1 at 0x0C701660>
 	arg0: self
 	arg1: text1
 
 submodule.SetText1
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealVoteDialog instance as first argument (got nothing instead)
-Close,		<cyfunction GuildLandDealVoteDialog.Close at 0x0AEFC7C0>
+Close,		<cyfunction GuildLandDealVoteDialog.Close at 0x0C7015B0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealVoteDialog instance as first argument (got nothing instead)
-Open,		<cyfunction GuildLandDealVoteDialog.Open at 0x0AEFC818>
+Open,		<cyfunction GuildLandDealVoteDialog.Open at 0x0C701608>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealVoteDialog instance as first argument (got nothing instead)
-SetText2,		<cyfunction GuildLandDealVoteDialog.SetText2 at 0x0AEFC8C8>
+SetText2,		<cyfunction GuildLandDealVoteDialog.SetText2 at 0x0C7016B8>
 	arg0: self
 	arg1: text2
 
 submodule.SetText2
 Skipped: unbound method cython_function_or_method object must be called with GuildLandDealVoteDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction GuildLandDealVoteDialog.__init__ at 0x0AEFC6B8>
+__init__,		<cyfunction GuildLandDealVoteDialog.__init__ at 0x0C7014A8>
 	arg0: self
 
 submodule.__init__
