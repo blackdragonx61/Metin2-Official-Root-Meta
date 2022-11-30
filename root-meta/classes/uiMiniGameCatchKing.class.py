@@ -1,6 +1,6 @@
 {'cur_page': None,
- 'game_page': <uiMiniGameCatchKing.CatchKingGamePage object at 0x2E4CD5F0>,
- 'hWnd': 762477176,
+ 'game_page': <uiMiniGameCatchKing.CatchKingGamePage object at 0x2D32EB30>,
+ 'hWnd': 747682864,
  'isLoaded': 1,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,
@@ -10,6 +10,6 @@
  'overOutFunc': None,
  'parentWindow': 0,
  'state': 1,
- 'waiting_page': <uiMiniGameCatchKing.CatchKingWaitingPage object at 0x2E096C38>,
+ 'waiting_page': <uiMiniGameCatchKing.CatchKingWaitingPage object at 0x2D0B8080>,
  'window_horizontal_align': 0,
  'window_vertical_align': 0}

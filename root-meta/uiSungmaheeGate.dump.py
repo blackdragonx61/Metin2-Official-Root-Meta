@@ -28,55 +28,55 @@ __module__,		uiSungmaheeGate
 submodule.__module__
 
 
-Hide,		<cyfunction SungmaheeGateAchiev.Hide at 0x1E31F978>
+Hide,		<cyfunction SungmaheeGateAchiev.Hide at 0x1A5AF870>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-__del__,		<cyfunction SungmaheeGateAchiev.__del__ at 0x1E31F710>
+__del__,		<cyfunction SungmaheeGateAchiev.__del__ at 0x1A5AF608>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-_SungmaheeGateAchiev__UpdateUI,		<cyfunction SungmaheeGateAchiev.__UpdateUI at 0x1E31FDF0>
+_SungmaheeGateAchiev__UpdateUI,		<cyfunction SungmaheeGateAchiev.__UpdateUI at 0x1A5AFCE8>
 	arg0: self
 
 submodule._SungmaheeGateAchiev__UpdateUI
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-_SungmaheeGateAchiev__Initialize,		<cyfunction SungmaheeGateAchiev.__Initialize at 0x1E31F768>
+_SungmaheeGateAchiev__Initialize,		<cyfunction SungmaheeGateAchiev.__Initialize at 0x1A5AF660>
 	arg0: self
 
 submodule._SungmaheeGateAchiev__Initialize
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-_SungmaheeGateAchiev__OnClickRewardListButton,		<cyfunction SungmaheeGateAchiev.__OnClickRewardListButton at 0x1E31FC38>
+_SungmaheeGateAchiev__OnClickRewardListButton,		<cyfunction SungmaheeGateAchiev.__OnClickRewardListButton at 0x1A5AFB30>
 	arg0: self
 	arg1: is_button_down
 
 submodule._SungmaheeGateAchiev__OnClickRewardListButton
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-_SungmaheeGateAchiev__LoadWindow,		<cyfunction SungmaheeGateAchiev.__LoadWindow at 0x1E31F7C0>
+_SungmaheeGateAchiev__LoadWindow,		<cyfunction SungmaheeGateAchiev.__LoadWindow at 0x1A5AF6B8>
 	arg0: self
 
 submodule._SungmaheeGateAchiev__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction SungmaheeGateAchiev.OnPressEscapeKey at 0x1E31FA28>
+OnPressEscapeKey,		<cyfunction SungmaheeGateAchiev.OnPressEscapeKey at 0x1A5AF920>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-UpdateRegionAchievedToUI,		<cyfunction SungmaheeGateAchiev.UpdateRegionAchievedToUI at 0x1E31FD40>
+UpdateRegionAchievedToUI,		<cyfunction SungmaheeGateAchiev.UpdateRegionAchievedToUI at 0x1A5AFC38>
 	arg0: self
 	arg1: region
 
 submodule.UpdateRegionAchievedToUI
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-UpdateRewardReceivedToUI,		<cyfunction SungmaheeGateAchiev.UpdateRewardReceivedToUI at 0x1E31FD98>
+UpdateRewardReceivedToUI,		<cyfunction SungmaheeGateAchiev.UpdateRewardReceivedToUI at 0x1A5AFC90>
 	arg0: self
 	arg1: reward_index
 
 submodule.UpdateRewardReceivedToUI
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-__init__,		<cyfunction SungmaheeGateAchiev.__init__ at 0x1E31F6B8>
+__init__,		<cyfunction SungmaheeGateAchiev.__init__ at 0x1A5AF5B0>
 	arg0: self
 
 submodule.__init__
@@ -86,35 +86,35 @@ __qualname__,		SungmaheeGateAchiev
 submodule.__qualname__
 
 
-_SungmaheeGateAchiev__OverOutAchiveSlot,		<cyfunction SungmaheeGateAchiev.__OverOutAchiveSlot at 0x1E31FAD8>
+_SungmaheeGateAchiev__OverOutAchiveSlot,		<cyfunction SungmaheeGateAchiev.__OverOutAchiveSlot at 0x1A5AF9D0>
 	arg0: self
 
 submodule._SungmaheeGateAchiev__OverOutAchiveSlot
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-_SungmaheeGateAchiev__OnClickRewardButton,		<cyfunction SungmaheeGateAchiev.__OnClickRewardButton at 0x1E31FBE0>
+_SungmaheeGateAchiev__OnClickRewardButton,		<cyfunction SungmaheeGateAchiev.__OnClickRewardButton at 0x1A5AFAD8>
 	arg0: self
 	arg1: reward_index
 
 submodule._SungmaheeGateAchiev__OnClickRewardButton
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-RequestAchievWindowOpen,		<cyfunction SungmaheeGateAchiev.RequestAchievWindowOpen at 0x1E31F870>
+RequestAchievWindowOpen,		<cyfunction SungmaheeGateAchiev.RequestAchievWindowOpen at 0x1A5AF768>
 	arg0: self
 
 submodule.RequestAchievWindowOpen
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction SungmaheeGateAchiev.SetItemToolTip at 0x1E31FB88>
+SetItemToolTip,		<cyfunction SungmaheeGateAchiev.SetItemToolTip at 0x1A5AFA80>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-UpdateAchievDataToUI,		<cyfunction SungmaheeGateAchiev.UpdateAchievDataToUI at 0x1E31FCE8>
+UpdateAchievDataToUI,		<cyfunction SungmaheeGateAchiev.UpdateAchievDataToUI at 0x1A5AFBE0>
 	arg0: self
 	arg1: achievData
 
 submodule.UpdateAchievDataToUI
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-SungmaheeGateAppendChat,		<cyfunction SungmaheeGateAchiev.SungmaheeGateAppendChat at 0x1E31FB30>
+SungmaheeGateAppendChat,		<cyfunction SungmaheeGateAchiev.SungmaheeGateAppendChat at 0x1A5AFA28>
 	arg0: self
 	arg1: chat_type
 	arg2: message_type
@@ -123,7 +123,7 @@ SungmaheeGateAppendChat,		<cyfunction SungmaheeGateAchiev.SungmaheeGateAppendCha
 
 submodule.SungmaheeGateAppendChat
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-BindInterfaceClass,		<cyfunction SungmaheeGateAchiev.BindInterfaceClass at 0x1E31F818>
+BindInterfaceClass,		<cyfunction SungmaheeGateAchiev.BindInterfaceClass at 0x1A5AF710>
 	arg0: self
 	arg1: interface
 
@@ -139,22 +139,22 @@ _SungmaheeGateAchiev__achiev_slot__achiev_slot_tooltip__achiev_count_text__achie
 submodule._SungmaheeGateAchiev__achiev_slot__achiev_slot_tooltip__achiev_count_text__achiev_reward_button_list__achiev_reward_list_button__achiev_get_reward_button__achiev_reward_list_dialog__region_achiev_info__achieved_count__reward_received__rewarded_count__selected_reward_button_index__interface__tooltip_item
 
 
-Close,		<cyfunction SungmaheeGateAchiev.Close at 0x1E31F920>
+Close,		<cyfunction SungmaheeGateAchiev.Close at 0x1A5AF818>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-OnHideRewardInfo,		<cyfunction SungmaheeGateAchiev.OnHideRewardInfo at 0x1E31F9D0>
+OnHideRewardInfo,		<cyfunction SungmaheeGateAchiev.OnHideRewardInfo at 0x1A5AF8C8>
 	arg0: self
 
 submodule.OnHideRewardInfo
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-_SungmaheeGateAchiev__OnClickGetRewardButton,		<cyfunction SungmaheeGateAchiev.__OnClickGetRewardButton at 0x1E31FC90>
+_SungmaheeGateAchiev__OnClickGetRewardButton,		<cyfunction SungmaheeGateAchiev.__OnClickGetRewardButton at 0x1A5AFB88>
 	arg0: self
 
 submodule._SungmaheeGateAchiev__OnClickGetRewardButton
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeGateAchiev instance as first argument (got nothing instead)
-Open,		<cyfunction SungmaheeGateAchiev.Open at 0x1E31F8C8>
+Open,		<cyfunction SungmaheeGateAchiev.Open at 0x1A5AF7C0>
 	arg0: self
 
 submodule.Open
@@ -164,7 +164,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_SungmaheeGateAchiev__OverInAchiveSlot,		<cyfunction SungmaheeGateAchiev.__OverInAchiveSlot at 0x1E31FA80>
+_SungmaheeGateAchiev__OverInAchiveSlot,		<cyfunction SungmaheeGateAchiev.__OverInAchiveSlot at 0x1A5AF978>
 	arg0: self
 	arg1: slot_index
 
@@ -178,7 +178,7 @@ _SungmaheeGateUtil__MAP_ELEMENT_LOCA,		{'metin2_map_smhgate_threeway': 'Vill\xe1
 submodule._SungmaheeGateUtil__MAP_ELEMENT_LOCA
 
 
-GetDeactivatedImgFilePath,		<classmethod object at 0x1E319F50>
+GetDeactivatedImgFilePath,		<classmethod object at 0x1A5B3070>
 	arg0: cls
 	arg1: index
 
@@ -219,7 +219,7 @@ _SungmaheeGateUtil__ACHIEV_DEACTIVATED_IMG_FILE_PATH__ACHIEV_ACTIVATED_IMG_FILE_
 submodule._SungmaheeGateUtil__ACHIEV_DEACTIVATED_IMG_FILE_PATH__ACHIEV_ACTIVATED_IMG_FILE_PATH__ACHIEV_REWARD_INDEX_COMMON_REWARD_DATA_VNUM__ACHIEV_IMG_TOOLTIP__SUNGMAHEE_GATE_LOCA__ACHIEV_REGION_LOCA__MAP_ELEMENT_LOCA
 
 
-InitializeLoca,		<classmethod object at 0x1E319F30>
+InitializeLoca,		<classmethod object at 0x1A5B3050>
 	arg0: cls
 
 submodule.InitializeLoca
@@ -229,7 +229,7 @@ __qualname__,		SungmaheeGateUtil
 submodule.__qualname__
 
 
-GetAchievImgTooltip,		<classmethod object at 0x1E319F90>
+GetAchievImgTooltip,		<classmethod object at 0x1A5B30B0>
 	arg0: cls
 	arg1: index
 
@@ -240,19 +240,19 @@ __slots__,		__ACHIEV_DEACTIVATED_IMG_FILE_PATH__ACHIEV_ACTIVATED_IMG_FILE_PATH__
 submodule.__slots__
 
 
-GetActivatedImgFilePath,		<classmethod object at 0x1E319F70>
+GetActivatedImgFilePath,		<classmethod object at 0x1A5B3090>
 	arg0: cls
 	arg1: index
 
 submodule.GetActivatedImgFilePath
 Skipped: GetActivatedImgFilePath() takes exactly 2 positional arguments (1 given)
-GetCommonRewardVnum,		<classmethod object at 0x1E319FD0>
+GetCommonRewardVnum,		<classmethod object at 0x1A5B30F0>
 	arg0: cls
 	arg1: reward_button_index
 
 submodule.GetCommonRewardVnum
 Skipped: GetCommonRewardVnum() takes exactly 2 positional arguments (1 given)
-GetAchievRegionLoca,		<classmethod object at 0x1E319FB0>
+GetAchievRegionLoca,		<classmethod object at 0x1A5B30D0>
 	arg0: cls
 	arg1: index
 
@@ -263,7 +263,7 @@ _SungmaheeGateUtil__ACHIEV_REGION_LOCA,		{0: 'Yongan ter\xfclet (Sung Ma inv\xe1
 submodule._SungmaheeGateUtil__ACHIEV_REGION_LOCA
 
 
-SungmaheeGateAppendChat,		<classmethod object at 0x1E319FF0>
+SungmaheeGateAppendChat,		<classmethod object at 0x1A5B3110>
 	arg0: cls
 	arg1: chat_type
 	arg2: message_type

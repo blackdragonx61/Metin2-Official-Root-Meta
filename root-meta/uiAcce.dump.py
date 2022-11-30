@@ -26,7 +26,7 @@ key: ui, val: <module 'ui' (built-in)>
 
 
 class AcceWindow:
-SelectEmptySlot,		<cyfunction AcceWindow.SelectEmptySlot at 0x0D19CBE0>
+SelectEmptySlot,		<cyfunction AcceWindow.SelectEmptySlot at 0x0AAFB920>
 	arg0: self
 	arg1: selectedSlotPos
 
@@ -37,45 +37,45 @@ __module__,		uiAcce
 submodule.__module__
 
 
-_AcceWindow__LoadWindow,		<cyfunction AcceWindow.__LoadWindow at 0x0D19C920>
+_AcceWindow__LoadWindow,		<cyfunction AcceWindow.__LoadWindow at 0x0AAFB660>
 	arg0: self
 	arg1: type
 
 submodule._AcceWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-OnAcceCloseEvent,		<cyfunction AcceWindow.OnAcceCloseEvent at 0x0D19CC90>
+OnAcceCloseEvent,		<cyfunction AcceWindow.OnAcceCloseEvent at 0x0AAFB9D0>
 	arg0: self
 
 submodule.OnAcceCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction AcceWindow.__del__ at 0x0D19C8C8>
+__del__,		<cyfunction AcceWindow.__del__ at 0x0AAFB608>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-_AcceWindow__ShowToolTip,		<cyfunction AcceWindow.__ShowToolTip at 0x0D19CAD8>
+_AcceWindow__ShowToolTip,		<cyfunction AcceWindow.__ShowToolTip at 0x0AAFB818>
 	arg0: self
 	arg1: slotIndex
 
 submodule._AcceWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-RefreshAcceWindow,		<cyfunction AcceWindow.RefreshAcceWindow at 0x0D19CD98>
+RefreshAcceWindow,		<cyfunction AcceWindow.RefreshAcceWindow at 0x0AAFBAD8>
 	arg0: self
 
 submodule.RefreshAcceWindow
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction AcceWindow.UseItemSlot at 0x0D19CCE8>
+UseItemSlot,		<cyfunction AcceWindow.UseItemSlot at 0x0AAFBA28>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction AcceWindow.OnPressEscapeKey at 0x0D19CEA0>
+OnPressEscapeKey,		<cyfunction AcceWindow.OnPressEscapeKey at 0x0AAFBBE0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-OnAcceAcceptEvent,		<cyfunction AcceWindow.OnAcceAcceptEvent at 0x0D19CC38>
+OnAcceAcceptEvent,		<cyfunction AcceWindow.OnAcceAcceptEvent at 0x0AAFB978>
 	arg0: self
 	arg1: attachedInvenType
 	arg2: attachedSlotPos
@@ -83,7 +83,7 @@ OnAcceAcceptEvent,		<cyfunction AcceWindow.OnAcceAcceptEvent at 0x0D19CC38>
 
 submodule.OnAcceAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction AcceWindow.__init__ at 0x0D19C870>
+__init__,		<cyfunction AcceWindow.__init__ at 0x0AAFB5B0>
 	arg0: self
 
 submodule.__init__
@@ -93,50 +93,50 @@ __qualname__,		AcceWindow
 submodule.__qualname__
 
 
-_AcceWindow__OnClosePopupDialog,		<cyfunction AcceWindow.__OnClosePopupDialog at 0x0D19CDF0>
+_AcceWindow__OnClosePopupDialog,		<cyfunction AcceWindow.__OnClosePopupDialog at 0x0AAFBB30>
 	arg0: self
 
 submodule._AcceWindow__OnClosePopupDialog
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction AcceWindow.SetItemToolTip at 0x0D19CA80>
+SetItemToolTip,		<cyfunction AcceWindow.SetItemToolTip at 0x0AAFB7C0>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction AcceWindow.SelectItemSlot at 0x0D19CD40>
+SelectItemSlot,		<cyfunction AcceWindow.SelectItemSlot at 0x0AAFBA80>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-Accept,		<cyfunction AcceWindow.Accept at 0x0D19C978>
+Accept,		<cyfunction AcceWindow.Accept at 0x0AAFB6B8>
 	arg0: self
 
 submodule.Accept
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction AcceWindow.OnUpdate at 0x0D19CE48>
+OnUpdate,		<cyfunction AcceWindow.OnUpdate at 0x0AAFBB88>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction AcceWindow.OverInItem at 0x0D19CB30>
+OverInItem,		<cyfunction AcceWindow.OverInItem at 0x0AAFB870>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction AcceWindow.OverOutItem at 0x0D19CB88>
+OverOutItem,		<cyfunction AcceWindow.OverOutItem at 0x0AAFB8C8>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-Close,		<cyfunction AcceWindow.Close at 0x0D19CA28>
+Close,		<cyfunction AcceWindow.Close at 0x0AAFB768>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with AcceWindow instance as first argument (got nothing instead)
-Open,		<cyfunction AcceWindow.Open at 0x0D19C9D0>
+Open,		<cyfunction AcceWindow.Open at 0x0AAFB710>
 	arg0: self
 	arg1: type
 

@@ -351,6 +351,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'ToggleSungmaheeGateAchievWindow'},
                      {'args': ['self'], 'defaults': [], 'name': 'ToggleSystemDialog'},
                      {'args': ['self', 'gulidID1', 'memberCount1', 'guildID2', 'memberCount2'], 'defaults': [], 'name': 'UpdateMemberCount'},
+                     {'args': ['self', 'global_slot_index', 'window'], 'defaults': [], 'name': 'UseItemSlotGlobal'},
                      {'args': ['self', 'type', 'data'], 'defaults': [], 'name': 'WhiteDragonCaveProcess'},
                      {'args': ['self', 'type', 'data'], 'defaults': [None], 'name': 'WorldBossProcess'},
                      {'args': ['self', 'type', 'data'], 'defaults': [], 'name': 'YutnoriFlagProcess'},

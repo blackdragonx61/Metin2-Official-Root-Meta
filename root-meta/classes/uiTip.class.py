@@ -2,7 +2,7 @@
  'curPos': 0,
  'dstPos': -5,
  'flowMode': False,
- 'hWnd': 764804728,
+ 'hWnd': 751247888,
  'missionFullText': None,
  'missionText': None,
  'mission_board_control_codepage_font': 'Arial:15b',

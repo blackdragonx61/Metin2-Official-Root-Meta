@@ -41,98 +41,98 @@ __module__,		introLoading
 submodule.__module__
 
 
-_LoadingWindow__RegisterDungeonMapName,		<cyfunction LoadingWindow.__RegisterDungeonMapName at 0x1E33DDF0>
+_LoadingWindow__RegisterDungeonMapName,		<cyfunction LoadingWindow.__RegisterDungeonMapName at 0x1A5C1D40>
 	arg0: self
 
 submodule._LoadingWindow__RegisterDungeonMapName
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadAssassin,		<cyfunction LoadingWindow.__LoadAssassin at 0x1E33E0E0>
+_LoadingWindow__LoadAssassin,		<cyfunction LoadingWindow.__LoadAssassin at 0x1A5C4030>
 	arg0: self
 
 submodule._LoadingWindow__LoadAssassin
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadSkill,		<cyfunction LoadingWindow.__LoadSkill at 0x1E33E240>
+_LoadingWindow__LoadSkill,		<cyfunction LoadingWindow.__LoadSkill at 0x1A5C4190>
 	arg0: self
 
 submodule._LoadingWindow__LoadSkill
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction LoadingWindow.__del__ at 0x1E33DAD8>
+__del__,		<cyfunction LoadingWindow.__del__ at 0x1A5C1A28>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__InitData,		<cyfunction LoadingWindow.__InitData at 0x1E33DD98>
+_LoadingWindow__InitData,		<cyfunction LoadingWindow.__InitData at 0x1A5C1CE8>
 	arg0: self
 
 submodule._LoadingWindow__InitData
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadGuildBuilding,		<cyfunction LoadingWindow.__LoadGuildBuilding at 0x1E33E348>
+_LoadingWindow__LoadGuildBuilding,		<cyfunction LoadingWindow.__LoadGuildBuilding at 0x1A5C4298>
 	arg0: self
 
 submodule._LoadingWindow__LoadGuildBuilding
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__SetNext,		<cyfunction LoadingWindow.__SetNext at 0x1E33DC38>
+_LoadingWindow__SetNext,		<cyfunction LoadingWindow.__SetNext at 0x1A5C1B88>
 	arg0: self
 	arg1: next
 
 submodule._LoadingWindow__SetNext
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadWarrior,		<cyfunction LoadingWindow.__LoadWarrior at 0x1E33E088>
+_LoadingWindow__LoadWarrior,		<cyfunction LoadingWindow.__LoadWarrior at 0x1A5C1FA8>
 	arg0: self
 
 submodule._LoadingWindow__LoadWarrior
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction LoadingWindow.OnPressEscapeKey at 0x1E33DBE0>
+OnPressEscapeKey,		<cyfunction LoadingWindow.OnPressEscapeKey at 0x1A5C1B30>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-Close,		<cyfunction LoadingWindow.Close at 0x1E33DB88>
+Close,		<cyfunction LoadingWindow.Close at 0x1A5C1AD8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__RegisterColor,		<cyfunction LoadingWindow.__RegisterColor at 0x1E33DEF8>
+_LoadingWindow__RegisterColor,		<cyfunction LoadingWindow.__RegisterColor at 0x1A5C1E48>
 	arg0: self
 
 submodule._LoadingWindow__RegisterColor
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__RegisterSkill,		<cyfunction LoadingWindow.__RegisterSkill at 0x1E33DE48>
+_LoadingWindow__RegisterSkill,		<cyfunction LoadingWindow.__RegisterSkill at 0x1A5C1D98>
 	arg0: self
 
 submodule._LoadingWindow__RegisterSkill
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadShaman,		<cyfunction LoadingWindow.__LoadShaman at 0x1E33E190>
+_LoadingWindow__LoadShaman,		<cyfunction LoadingWindow.__LoadShaman at 0x1A5C40E0>
 	arg0: self
 
 submodule._LoadingWindow__LoadShaman
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadEnemy,		<cyfunction LoadingWindow.__LoadEnemy at 0x1E33E298>
+_LoadingWindow__LoadEnemy,		<cyfunction LoadingWindow.__LoadEnemy at 0x1A5C41E8>
 	arg0: self
 
 submodule._LoadingWindow__LoadEnemy
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__RegisterTitleName,		<cyfunction LoadingWindow.__RegisterTitleName at 0x1E33DEA0>
+_LoadingWindow__RegisterTitleName,		<cyfunction LoadingWindow.__RegisterTitleName at 0x1A5C1DF0>
 	arg0: self
 
 submodule._LoadingWindow__RegisterTitleName
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction LoadingWindow.OnUpdate at 0x1E33DD40>
+OnUpdate,		<cyfunction LoadingWindow.OnUpdate at 0x1A5C1C90>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__RegisterEmotionIcon,		<cyfunction LoadingWindow.__RegisterEmotionIcon at 0x1E33DF50>
+_LoadingWindow__RegisterEmotionIcon,		<cyfunction LoadingWindow.__RegisterEmotionIcon at 0x1A5C1EA0>
 	arg0: self
 
 submodule._LoadingWindow__RegisterEmotionIcon
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__StartGame,		<cyfunction LoadingWindow.__StartGame at 0x1E33E3A0>
+_LoadingWindow__StartGame,		<cyfunction LoadingWindow.__StartGame at 0x1A5C42F0>
 	arg0: self
 
 submodule._LoadingWindow__StartGame
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadWolfman,		<cyfunction LoadingWindow.__LoadWolfman at 0x1E33E1E8>
+_LoadingWindow__LoadWolfman,		<cyfunction LoadingWindow.__LoadWolfman at 0x1A5C4138>
 	arg0: self
 
 submodule._LoadingWindow__LoadWolfman
@@ -142,46 +142,46 @@ __qualname__,		LoadingWindow
 submodule.__qualname__
 
 
-_LoadingWindow__LoadSound,		<cyfunction LoadingWindow.__LoadSound at 0x1E33DFA8>
+_LoadingWindow__LoadSound,		<cyfunction LoadingWindow.__LoadSound at 0x1A5C1EF8>
 	arg0: self
 
 submodule._LoadingWindow__LoadSound
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadEffect,		<cyfunction LoadingWindow.__LoadEffect at 0x1E33E030>
+_LoadingWindow__LoadEffect,		<cyfunction LoadingWindow.__LoadEffect at 0x1A5C1F50>
 	arg0: self
 
 submodule._LoadingWindow__LoadEffect
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadNPC,		<cyfunction LoadingWindow.__LoadNPC at 0x1E33E2F0>
+_LoadingWindow__LoadNPC,		<cyfunction LoadingWindow.__LoadNPC at 0x1A5C4240>
 	arg0: self
 
 submodule._LoadingWindow__LoadNPC
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction LoadingWindow.__init__ at 0x1E33DA80>
+__init__,		<cyfunction LoadingWindow.__init__ at 0x1A5C19D0>
 	arg0: self
 	arg1: stream
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__SetProgress,		<cyfunction LoadingWindow.__SetProgress at 0x1E33DC90>
+_LoadingWindow__SetProgress,		<cyfunction LoadingWindow.__SetProgress at 0x1A5C1BE0>
 	arg0: self
 	arg1: p
 
 submodule._LoadingWindow__SetProgress
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-_LoadingWindow__LoadSura,		<cyfunction LoadingWindow.__LoadSura at 0x1E33E138>
+_LoadingWindow__LoadSura,		<cyfunction LoadingWindow.__LoadSura at 0x1A5C4088>
 	arg0: self
 
 submodule._LoadingWindow__LoadSura
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-LoadData,		<cyfunction LoadingWindow.LoadData at 0x1E33DCE8>
+LoadData,		<cyfunction LoadingWindow.LoadData at 0x1A5C1C38>
 	arg0: self
 	arg1: playerX
 	arg2: playerY
 
 submodule.LoadData
 Skipped: unbound method cython_function_or_method object must be called with LoadingWindow instance as first argument (got nothing instead)
-Open,		<cyfunction LoadingWindow.Open at 0x1E33DB30>
+Open,		<cyfunction LoadingWindow.Open at 0x1A5C1A80>
 	arg0: self
 
 submodule.Open

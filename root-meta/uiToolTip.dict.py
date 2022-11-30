@@ -99,6 +99,7 @@
                      {'args': ['self', 'apply_random_list'], 'defaults': [], 'name': '__AppendDefaultItemApplyInformation'},
                      {'args': ['self', 'attrSlot', 'dsType', 'grade'], 'defaults': [0, 0], 'name': '__AppendDragonSoulAttributeInformation'},
                      {'args': ['self', 'size'], 'defaults': [], 'name': '__AppendFishInfo'},
+                     {'args': ['self', 'item_vnum', 'metin_slot', 'attr_slot'], 'defaults': [], 'name': '__AppendGemBagItemDescription'},
                      {'args': ['self', 'metin_slot'], 'defaults': [], 'name': '__AppendGloveMetinSlotInfo'},
                      {'args': ['self', 'itemVnum'], 'defaults': [], 'name': '__AppendHairIcon'},
                      {'args': ['self'], 'defaults': [], 'name': '__AppendLimitInformation'},

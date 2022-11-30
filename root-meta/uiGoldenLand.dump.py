@@ -41,7 +41,7 @@ _GoldenLandInformationBoard__time_text,		<member '_GoldenLandInformationBoard__t
 submodule._GoldenLandInformationBoard__time_text
 
 
-ShowSubBoard,		<cyfunction GoldenLandInformationBoard.ShowSubBoard at 0x1E279BE0>
+ShowSubBoard,		<cyfunction GoldenLandInformationBoard.ShowSubBoard at 0x1A518920>
 	arg0: self
 	arg1: is_show
 
@@ -52,17 +52,17 @@ __module__,		uiGoldenLand
 submodule.__module__
 
 
-_GoldenLandInformationBoard__LoadWindow,		<cyfunction GoldenLandInformationBoard.__LoadWindow at 0x1E279818>
+_GoldenLandInformationBoard__LoadWindow,		<cyfunction GoldenLandInformationBoard.__LoadWindow at 0x1A518558>
 	arg0: self
 
 submodule._GoldenLandInformationBoard__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInformationBoard instance as first argument (got nothing instead)
-_GoldenLandInformationBoard__OverInStageTextWindow,		<cyfunction GoldenLandInformationBoard.__OverInStageTextWindow at 0x1E279A80>
+_GoldenLandInformationBoard__OverInStageTextWindow,		<cyfunction GoldenLandInformationBoard.__OverInStageTextWindow at 0x1A5187C0>
 	arg0: self
 
 submodule._GoldenLandInformationBoard__OverInStageTextWindow
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInformationBoard instance as first argument (got nothing instead)
-__del__,		<cyfunction GoldenLandInformationBoard.__del__ at 0x1E279768>
+__del__,		<cyfunction GoldenLandInformationBoard.__del__ at 0x1A5184A8>
 	arg0: self
 
 submodule.__del__
@@ -77,17 +77,17 @@ _GoldenLandInformationBoard__dungeon_end_time,		<member '_GoldenLandInformationB
 submodule._GoldenLandInformationBoard__dungeon_end_time
 
 
-_GoldenLandInformationBoard__UpdateStageNumber,		<cyfunction GoldenLandInformationBoard.__UpdateStageNumber at 0x1E279A28>
+_GoldenLandInformationBoard__UpdateStageNumber,		<cyfunction GoldenLandInformationBoard.__UpdateStageNumber at 0x1A518768>
 	arg0: self
 
 submodule._GoldenLandInformationBoard__UpdateStageNumber
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInformationBoard instance as first argument (got nothing instead)
-_GoldenLandInformationBoard__OnExitDungeon,		<cyfunction GoldenLandInformationBoard.__OnExitDungeon at 0x1E279B88>
+_GoldenLandInformationBoard__OnExitDungeon,		<cyfunction GoldenLandInformationBoard.__OnExitDungeon at 0x1A5188C8>
 	arg0: self
 
 submodule._GoldenLandInformationBoard__OnExitDungeon
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInformationBoard instance as first argument (got nothing instead)
-_GoldenLandInformationBoard__Initialize,		<cyfunction GoldenLandInformationBoard.__Initialize at 0x1E2797C0>
+_GoldenLandInformationBoard__Initialize,		<cyfunction GoldenLandInformationBoard.__Initialize at 0x1A518500>
 	arg0: self
 
 submodule._GoldenLandInformationBoard__Initialize
@@ -102,7 +102,7 @@ _GoldenLandInformationBoard__interface,		<member '_GoldenLandInformationBoard__i
 submodule._GoldenLandInformationBoard__interface
 
 
-SetStageNumber,		<cyfunction GoldenLandInformationBoard.SetStageNumber at 0x1E2799D0>
+SetStageNumber,		<cyfunction GoldenLandInformationBoard.SetStageNumber at 0x1A518710>
 	arg0: self
 	arg1: stage_num
 
@@ -113,7 +113,7 @@ _GoldenLandInformationBoard__stage_text_window,		<member '_GoldenLandInformation
 submodule._GoldenLandInformationBoard__stage_text_window
 
 
-SetRemainMineTowerKillCount,		<cyfunction GoldenLandInformationBoard.SetRemainMineTowerKillCount at 0x1E279C90>
+SetRemainMineTowerKillCount,		<cyfunction GoldenLandInformationBoard.SetRemainMineTowerKillCount at 0x1A5189D0>
 	arg0: self
 	arg1: remain_kill_count
 
@@ -129,7 +129,7 @@ _GoldenLandInformationBoard__is_requested_to_exit,		<member '_GoldenLandInformat
 submodule._GoldenLandInformationBoard__is_requested_to_exit
 
 
-__init__,		<cyfunction GoldenLandInformationBoard.__init__ at 0x1E279710>
+__init__,		<cyfunction GoldenLandInformationBoard.__init__ at 0x1A518450>
 	arg0: self
 
 submodule.__init__
@@ -139,7 +139,7 @@ _GoldenLandInformationBoard__stage_text,		<member '_GoldenLandInformationBoard__
 submodule._GoldenLandInformationBoard__stage_text
 
 
-OnUpdate,		<cyfunction GoldenLandInformationBoard.OnUpdate at 0x1E279870>
+OnUpdate,		<cyfunction GoldenLandInformationBoard.OnUpdate at 0x1A5185B0>
 	arg0: self
 
 submodule.OnUpdate
@@ -149,7 +149,7 @@ _GoldenLandInformationBoard__exit_button,		<member '_GoldenLandInformationBoard_
 submodule._GoldenLandInformationBoard__exit_button
 
 
-SetRemainStoneKillCount,		<cyfunction GoldenLandInformationBoard.SetRemainStoneKillCount at 0x1E279C38>
+SetRemainStoneKillCount,		<cyfunction GoldenLandInformationBoard.SetRemainStoneKillCount at 0x1A518978>
 	arg0: self
 	arg1: remain_kill_count
 
@@ -160,12 +160,12 @@ _GoldenLandInformationBoard__remain_kill_count_window,		<member '_GoldenLandInfo
 submodule._GoldenLandInformationBoard__remain_kill_count_window
 
 
-Show,		<cyfunction GoldenLandInformationBoard.Show at 0x1E279920>
+Show,		<cyfunction GoldenLandInformationBoard.Show at 0x1A518660>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInformationBoard instance as first argument (got nothing instead)
-ShowInformationBoard,		<cyfunction GoldenLandInformationBoard.ShowInformationBoard at 0x1E279978>
+ShowInformationBoard,		<cyfunction GoldenLandInformationBoard.ShowInformationBoard at 0x1A5186B8>
 	arg0: self
 	arg1: stage_num
 	arg2: end_time
@@ -173,18 +173,18 @@ ShowInformationBoard,		<cyfunction GoldenLandInformationBoard.ShowInformationBoa
 
 submodule.ShowInformationBoard
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInformationBoard instance as first argument (got nothing instead)
-_GoldenLandInformationBoard__OnClickExitButton,		<cyfunction GoldenLandInformationBoard.__OnClickExitButton at 0x1E279B30>
+_GoldenLandInformationBoard__OnClickExitButton,		<cyfunction GoldenLandInformationBoard.__OnClickExitButton at 0x1A518870>
 	arg0: self
 
 submodule._GoldenLandInformationBoard__OnClickExitButton
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInformationBoard instance as first argument (got nothing instead)
-BindInterfaceClass,		<cyfunction GoldenLandInformationBoard.BindInterfaceClass at 0x1E2798C8>
+BindInterfaceClass,		<cyfunction GoldenLandInformationBoard.BindInterfaceClass at 0x1A518608>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterfaceClass
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInformationBoard instance as first argument (got nothing instead)
-_GoldenLandInformationBoard__OverOutStageTextWindow,		<cyfunction GoldenLandInformationBoard.__OverOutStageTextWindow at 0x1E279AD8>
+_GoldenLandInformationBoard__OverOutStageTextWindow,		<cyfunction GoldenLandInformationBoard.__OverOutStageTextWindow at 0x1A518818>
 	arg0: self
 
 submodule._GoldenLandInformationBoard__OverOutStageTextWindow
@@ -229,7 +229,7 @@ _FindGoldenFruit__opened_card_flag,		<member '_FindGoldenFruit__opened_card_flag
 submodule._FindGoldenFruit__opened_card_flag
 
 
-_FindGoldenFruit__SetRewardItem,		<cyfunction FindGoldenFruit.__SetRewardItem at 0x1E27A870>
+_FindGoldenFruit__SetRewardItem,		<cyfunction FindGoldenFruit.__SetRewardItem at 0x1A5195B0>
 	arg0: self
 	arg1: item_vnum
 	arg2: item_count
@@ -241,12 +241,12 @@ _FindGoldenFruit__need_yellow_fruit_count_text,		<member '_FindGoldenFruit__need
 submodule._FindGoldenFruit__need_yellow_fruit_count_text
 
 
-Hide,		<cyfunction FindGoldenFruit.Hide at 0x1E27A608>
+Hide,		<cyfunction FindGoldenFruit.Hide at 0x1A519348>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction FindGoldenFruit.OnPressEscapeKey at 0x1E27A660>
+OnPressEscapeKey,		<cyfunction FindGoldenFruit.OnPressEscapeKey at 0x1A5193A0>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -266,7 +266,7 @@ __module__,		uiGoldenLand
 submodule.__module__
 
 
-_FindGoldenFruit__OpenedCardFlagToOpenedCardList,		<cyfunction FindGoldenFruit.__OpenedCardFlagToOpenedCardList at 0x1E27AC38>
+_FindGoldenFruit__OpenedCardFlagToOpenedCardList,		<cyfunction FindGoldenFruit.__OpenedCardFlagToOpenedCardList at 0x1A519978>
 	arg0: self
 	arg1: opened_card_flag
 
@@ -287,7 +287,7 @@ _FindGoldenFruit__reward_item_count,		<member '_FindGoldenFruit__reward_item_cou
 submodule._FindGoldenFruit__reward_item_count
 
 
-SetOpenedCardInfo,		<cyfunction FindGoldenFruit.SetOpenedCardInfo at 0x1E27A8C8>
+SetOpenedCardInfo,		<cyfunction FindGoldenFruit.SetOpenedCardInfo at 0x1A519608>
 	arg0: self
 	arg1: opened_card_flag
 	arg2: golden_fruit_card_in_opened_card_flag
@@ -309,12 +309,12 @@ CARD_GRID_SLOT_COLUMN_COUNT,		8
 submodule.CARD_GRID_SLOT_COLUMN_COUNT
 
 
-_FindGoldenFruit__OpenAllCardStepByStepProcess,		<cyfunction FindGoldenFruit.__OpenAllCardStepByStepProcess at 0x1E27A710>
+_FindGoldenFruit__OpenAllCardStepByStepProcess,		<cyfunction FindGoldenFruit.__OpenAllCardStepByStepProcess at 0x1A519450>
 	arg0: self
 
 submodule._FindGoldenFruit__OpenAllCardStepByStepProcess
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-__init__,		<cyfunction FindGoldenFruit.__init__ at 0x1E27A3F8>
+__init__,		<cyfunction FindGoldenFruit.__init__ at 0x1A519138>
 	arg0: self
 
 submodule.__init__
@@ -329,19 +329,19 @@ _FindGoldenFruit__tooltip_item,		<member '_FindGoldenFruit__tooltip_item' of 'Fi
 submodule._FindGoldenFruit__tooltip_item
 
 
-_FindGoldenFruit__AcceptOpenCard,		<cyfunction FindGoldenFruit.__AcceptOpenCard at 0x1E27ABE0>
+_FindGoldenFruit__AcceptOpenCard,		<cyfunction FindGoldenFruit.__AcceptOpenCard at 0x1A519920>
 	arg0: self
 	arg1: slot_index
 
 submodule._FindGoldenFruit__AcceptOpenCard
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-BindInterfaceClass,		<cyfunction FindGoldenFruit.BindInterfaceClass at 0x1E27A768>
+BindInterfaceClass,		<cyfunction FindGoldenFruit.BindInterfaceClass at 0x1A5194A8>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterfaceClass
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-_FindGoldenFruit__Refresh,		<cyfunction FindGoldenFruit.__Refresh at 0x1E27AC90>
+_FindGoldenFruit__Refresh,		<cyfunction FindGoldenFruit.__Refresh at 0x1A5199D0>
 	arg0: self
 
 submodule._FindGoldenFruit__Refresh
@@ -356,7 +356,7 @@ CARD_GRID_SLOT_ROW_COUNT,		4
 submodule.CARD_GRID_SLOT_ROW_COUNT
 
 
-Reset,		<cyfunction FindGoldenFruit.Reset at 0x1E27ADF0>
+Reset,		<cyfunction FindGoldenFruit.Reset at 0x1A519B30>
 	arg0: self
 	arg1: need_yellow_fruit_count
 
@@ -372,13 +372,13 @@ _FindGoldenFruit__is_waiting_animation_end,		<member '_FindGoldenFruit__is_waiti
 submodule._FindGoldenFruit__is_waiting_animation_end
 
 
-_FindGoldenFruit__OverInCardSlot,		<cyfunction FindGoldenFruit.__OverInCardSlot at 0x1E27AAD8>
+_FindGoldenFruit__OverInCardSlot,		<cyfunction FindGoldenFruit.__OverInCardSlot at 0x1A519818>
 	arg0: self
 	arg1: slot_index
 
 submodule._FindGoldenFruit__OverInCardSlot
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-_FindGoldenFruit__OverOutRewardItemSlot,		<cyfunction FindGoldenFruit.__OverOutRewardItemSlot at 0x1E27AA80>
+_FindGoldenFruit__OverOutRewardItemSlot,		<cyfunction FindGoldenFruit.__OverOutRewardItemSlot at 0x1A5197C0>
 	arg0: self
 
 submodule._FindGoldenFruit__OverOutRewardItemSlot
@@ -388,7 +388,7 @@ _FindGoldenFruit__opened_card,		<member '_FindGoldenFruit__opened_card' of 'Find
 submodule._FindGoldenFruit__opened_card
 
 
-_FindGoldenFruit__ClickSlot,		<cyfunction FindGoldenFruit.__ClickSlot at 0x1E27AB88>
+_FindGoldenFruit__ClickSlot,		<cyfunction FindGoldenFruit.__ClickSlot at 0x1A5198C8>
 	arg0: self
 	arg1: slot_index
 
@@ -399,7 +399,7 @@ _FindGoldenFruit__golden_fruit_card_in_opened_card_flag,		<member '_FindGoldenFr
 submodule._FindGoldenFruit__golden_fruit_card_in_opened_card_flag
 
 
-__del__,		<cyfunction FindGoldenFruit.__del__ at 0x1E27A450>
+__del__,		<cyfunction FindGoldenFruit.__del__ at 0x1A519190>
 	arg0: self
 
 submodule.__del__
@@ -409,7 +409,7 @@ _FindGoldenFruit__yellow_fruit_count_text,		<member '_FindGoldenFruit__yellow_fr
 submodule._FindGoldenFruit__yellow_fruit_count_text
 
 
-_FindGoldenFruit__OnEndFrameSuccessTextEffect,		<cyfunction FindGoldenFruit.__OnEndFrameSuccessTextEffect at 0x1E27A9D0>
+_FindGoldenFruit__OnEndFrameSuccessTextEffect,		<cyfunction FindGoldenFruit.__OnEndFrameSuccessTextEffect at 0x1A519710>
 	arg0: self
 
 submodule._FindGoldenFruit__OnEndFrameSuccessTextEffect
@@ -419,12 +419,12 @@ __doc__,		None
 submodule.__doc__
 
 
-_FindGoldenFruit__OnResetButton,		<cyfunction FindGoldenFruit.__OnResetButton at 0x1E27AD40>
+_FindGoldenFruit__OnResetButton,		<cyfunction FindGoldenFruit.__OnResetButton at 0x1A519A80>
 	arg0: self
 
 submodule._FindGoldenFruit__OnResetButton
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-Close,		<cyfunction FindGoldenFruit.Close at 0x1E27A5B0>
+Close,		<cyfunction FindGoldenFruit.Close at 0x1A5192F0>
 	arg0: self
 
 submodule.Close
@@ -439,25 +439,25 @@ _FindGoldenFruit__success_firework_effect_1,		<member '_FindGoldenFruit__success
 submodule._FindGoldenFruit__success_firework_effect_1
 
 
-SetNeedYellowFruitCount,		<cyfunction FindGoldenFruit.SetNeedYellowFruitCount at 0x1E27A818>
+SetNeedYellowFruitCount,		<cyfunction FindGoldenFruit.SetNeedYellowFruitCount at 0x1A519558>
 	arg0: self
 	arg1: count
 
 submodule.SetNeedYellowFruitCount
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-_FindGoldenFruit__ShowSuccessEffectAnimation,		<cyfunction FindGoldenFruit.__ShowSuccessEffectAnimation at 0x1E27A978>
+_FindGoldenFruit__ShowSuccessEffectAnimation,		<cyfunction FindGoldenFruit.__ShowSuccessEffectAnimation at 0x1A5196B8>
 	arg0: self
 
 submodule._FindGoldenFruit__ShowSuccessEffectAnimation
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-CardOpenResult,		<cyfunction FindGoldenFruit.CardOpenResult at 0x1E27A920>
+CardOpenResult,		<cyfunction FindGoldenFruit.CardOpenResult at 0x1A519660>
 	arg0: self
 	arg1: card_index
 	arg2: is_golden_fruit
 
 submodule.CardOpenResult
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction FindGoldenFruit.SetItemToolTip at 0x1E27A7C0>
+SetItemToolTip,		<cyfunction FindGoldenFruit.SetItemToolTip at 0x1A519500>
 	arg0: self
 	arg1: tooltip
 
@@ -478,12 +478,12 @@ _FindGoldenFruit__success_firework_effect_3,		<member '_FindGoldenFruit__success
 submodule._FindGoldenFruit__success_firework_effect_3
 
 
-_FindGoldenFruit__AcceptGoldenLandReset,		<cyfunction FindGoldenFruit.__AcceptGoldenLandReset at 0x1E27AD98>
+_FindGoldenFruit__AcceptGoldenLandReset,		<cyfunction FindGoldenFruit.__AcceptGoldenLandReset at 0x1A519AD8>
 	arg0: self
 
 submodule._FindGoldenFruit__AcceptGoldenLandReset
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction FindGoldenFruit.OnUpdate at 0x1E27A6B8>
+OnUpdate,		<cyfunction FindGoldenFruit.OnUpdate at 0x1A5193F8>
 	arg0: self
 
 submodule.OnUpdate
@@ -503,7 +503,7 @@ __slots__,		('__reward_item_slot', '__card_slot', '__need_yellow_fruit_count_tex
 submodule.__slots__
 
 
-_FindGoldenFruit__LoadWindow,		<cyfunction FindGoldenFruit.__LoadWindow at 0x1E27A500>
+_FindGoldenFruit__LoadWindow,		<cyfunction FindGoldenFruit.__LoadWindow at 0x1A519240>
 	arg0: self
 
 submodule._FindGoldenFruit__LoadWindow
@@ -513,12 +513,12 @@ _FindGoldenFruit__interface,		<member '_FindGoldenFruit__interface' of 'FindGold
 submodule._FindGoldenFruit__interface
 
 
-_FindGoldenFruit__OverOutCardSlot,		<cyfunction FindGoldenFruit.__OverOutCardSlot at 0x1E27AB30>
+_FindGoldenFruit__OverOutCardSlot,		<cyfunction FindGoldenFruit.__OverOutCardSlot at 0x1A519870>
 	arg0: self
 
 submodule._FindGoldenFruit__OverOutCardSlot
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-_FindGoldenFruit__Initialize,		<cyfunction FindGoldenFruit.__Initialize at 0x1E27A4A8>
+_FindGoldenFruit__Initialize,		<cyfunction FindGoldenFruit.__Initialize at 0x1A5191E8>
 	arg0: self
 
 submodule._FindGoldenFruit__Initialize
@@ -528,17 +528,17 @@ _FindGoldenFruit__card_slot,		<member '_FindGoldenFruit__card_slot' of 'FindGold
 submodule._FindGoldenFruit__card_slot
 
 
-Open,		<cyfunction FindGoldenFruit.Open at 0x1E27A558>
+Open,		<cyfunction FindGoldenFruit.Open at 0x1A519298>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-RefreshYellowFruitCount,		<cyfunction FindGoldenFruit.RefreshYellowFruitCount at 0x1E27ACE8>
+RefreshYellowFruitCount,		<cyfunction FindGoldenFruit.RefreshYellowFruitCount at 0x1A519A28>
 	arg0: self
 
 submodule.RefreshYellowFruitCount
 Skipped: unbound method cython_function_or_method object must be called with FindGoldenFruit instance as first argument (got nothing instead)
-_FindGoldenFruit__OverInRewardItemSlot,		<cyfunction FindGoldenFruit.__OverInRewardItemSlot at 0x1E27AA28>
+_FindGoldenFruit__OverInRewardItemSlot,		<cyfunction FindGoldenFruit.__OverInRewardItemSlot at 0x1A519768>
 	arg0: self
 
 submodule._FindGoldenFruit__OverInRewardItemSlot
@@ -551,7 +551,7 @@ __qualname__,		GoldenLandUtil
 submodule.__qualname__
 
 
-AppendChat,		<classmethod object at 0x1E276370>
+AppendChat,		<classmethod object at 0x1A5154B0>
 	arg0: cls
 	arg1: chat_type
 	arg2: message_type
@@ -565,7 +565,7 @@ __module__,		uiGoldenLand
 submodule.__module__
 
 
-GetInformationBoardStageTextTooltip,		<classmethod object at 0x1E276330>
+GetInformationBoardStageTextTooltip,		<classmethod object at 0x1A515470>
 	arg0: cls
 	arg1: stage_number
 
@@ -586,7 +586,7 @@ __doc__,		None
 submodule.__doc__
 
 
-GetInformationBoardStageTextTooltipCount,		<classmethod object at 0x1E276350>
+GetInformationBoardStageTextTooltipCount,		<classmethod object at 0x1A515490>
 	arg0: cls
 
 submodule.GetInformationBoardStageTextTooltipCount
@@ -596,7 +596,7 @@ __slots__,		('__INFORMATION_BOARD_STAGE_TEXT_TOOLTIP', '__GOLDEN_LAND_LOCA')
 submodule.__slots__
 
 
-InitializeLoca,		<classmethod object at 0x1E276310>
+InitializeLoca,		<classmethod object at 0x1A515450>
 	arg0: cls
 
 submodule.InitializeLoca
@@ -609,45 +609,45 @@ __module__,		uiGoldenLand
 submodule.__module__
 
 
-Hide,		<cyfunction GoldenLandOasisShop.Hide at 0x1E27A088>
+Hide,		<cyfunction GoldenLandOasisShop.Hide at 0x1A518D98>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-_GoldenLandOasisShop__RefreshSubBoard,		<cyfunction GoldenLandOasisShop.__RefreshSubBoard at 0x1E27A138>
+_GoldenLandOasisShop__RefreshSubBoard,		<cyfunction GoldenLandOasisShop.__RefreshSubBoard at 0x1A518E48>
 	arg0: self
 
 submodule._GoldenLandOasisShop__RefreshSubBoard
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction GoldenLandOasisShop.SelectItemSlot at 0x1E27A190>
+SelectItemSlot,		<cyfunction GoldenLandOasisShop.SelectItemSlot at 0x1A518EA0>
 	arg0: self
 	arg1: slot_pos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-UnselectItemSlot,		<cyfunction GoldenLandOasisShop.UnselectItemSlot at 0x1E27A1E8>
+UnselectItemSlot,		<cyfunction GoldenLandOasisShop.UnselectItemSlot at 0x1A518EF8>
 	arg0: self
 	arg1: slot_pos
 
 submodule.UnselectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-AskBuyItem,		<cyfunction GoldenLandOasisShop.AskBuyItem at 0x1E27A240>
+AskBuyItem,		<cyfunction GoldenLandOasisShop.AskBuyItem at 0x1A518F50>
 	arg0: self
 	arg1: slot_pos
 
 submodule.AskBuyItem
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-YELLOW_FRUIT_SLOT_IMG,		200981848
+YELLOW_FRUIT_SLOT_IMG,		404713424
 
 submodule.YELLOW_FRUIT_SLOT_IMG
 
 
-Refresh,		<cyfunction GoldenLandOasisShop.Refresh at 0x1E27A0E0>
+Refresh,		<cyfunction GoldenLandOasisShop.Refresh at 0x1A518DF0>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-__del__,		<cyfunction GoldenLandOasisShop.__del__ at 0x1E279EA0>
+__del__,		<cyfunction GoldenLandOasisShop.__del__ at 0x1A518BE0>
 	arg0: self
 
 submodule.__del__
@@ -657,7 +657,7 @@ _GoldenLandOasisShop__sub_board,		<member '_GoldenLandOasisShop__sub_board' of '
 submodule._GoldenLandOasisShop__sub_board
 
 
-__init__,		<cyfunction GoldenLandOasisShop.__init__ at 0x1E279E48>
+__init__,		<cyfunction GoldenLandOasisShop.__init__ at 0x1A518B88>
 	arg0: self
 
 submodule.__init__
@@ -667,7 +667,7 @@ SHOP_MERCH_TOOLTIP_COLOR_DISABLE,		-1738635
 submodule.SHOP_MERCH_TOOLTIP_COLOR_DISABLE
 
 
-_GoldenLandOasisShop__CanBuyMerch,		<cyfunction GoldenLandOasisShop.__CanBuyMerch at 0x1E27A298>
+_GoldenLandOasisShop__CanBuyMerch,		<cyfunction GoldenLandOasisShop.__CanBuyMerch at 0x1A518FA8>
 	arg0: self
 	arg1: slot_pos
 
@@ -678,7 +678,7 @@ SHOP_MERCH_TOOLTIP_COLOR_ENABLE,		-4079167
 submodule.SHOP_MERCH_TOOLTIP_COLOR_ENABLE
 
 
-Show,		<cyfunction GoldenLandOasisShop.Show at 0x1E27A030>
+Show,		<cyfunction GoldenLandOasisShop.Show at 0x1A518D40>
 	arg0: self
 
 submodule.Show
@@ -693,13 +693,13 @@ SHOP_MERCH_TOOLTIP_COLOR_TITLE,		-923968
 submodule.SHOP_MERCH_TOOLTIP_COLOR_TITLE
 
 
-BindInterfaceClass,		<cyfunction GoldenLandOasisShop.BindInterfaceClass at 0x1E27A3A0>
+BindInterfaceClass,		<cyfunction GoldenLandOasisShop.BindInterfaceClass at 0x1A5190E0>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterfaceClass
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-OverInItem,		<cyfunction GoldenLandOasisShop.OverInItem at 0x1E27A348>
+OverInItem,		<cyfunction GoldenLandOasisShop.OverInItem at 0x1A519088>
 	arg0: self
 	arg1: slotIndex
 
@@ -710,12 +710,12 @@ __slots__,		('__sub_board', '__merch_info_by_pos')
 submodule.__slots__
 
 
-_GoldenLandOasisShop__Initialize,		<cyfunction GoldenLandOasisShop.__Initialize at 0x1E279EF8>
+_GoldenLandOasisShop__Initialize,		<cyfunction GoldenLandOasisShop.__Initialize at 0x1A518C38>
 	arg0: self
 
 submodule._GoldenLandOasisShop__Initialize
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-AnswerBuyItem,		<cyfunction GoldenLandOasisShop.AnswerBuyItem at 0x1E27A2F0>
+AnswerBuyItem,		<cyfunction GoldenLandOasisShop.AnswerBuyItem at 0x1A519030>
 	arg0: self
 	arg1: flag
 
@@ -726,12 +726,12 @@ _GoldenLandOasisShop__merch_info_by_pos,		<member '_GoldenLandOasisShop__merch_i
 submodule._GoldenLandOasisShop__merch_info_by_pos
 
 
-Close,		<cyfunction GoldenLandOasisShop.Close at 0x1E279FA8>
+Close,		<cyfunction GoldenLandOasisShop.Close at 0x1A518CE8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandOasisShop instance as first argument (got nothing instead)
-Open,		<cyfunction GoldenLandOasisShop.Open at 0x1E279F50>
+Open,		<cyfunction GoldenLandOasisShop.Open at 0x1A518C90>
 	arg0: self
 	arg1: vid
 
@@ -752,7 +752,7 @@ __module__,		uiGoldenLand
 submodule.__module__
 
 
-Hide,		<cyfunction GoldenLandEvent.Hide at 0x1E279298>
+Hide,		<cyfunction GoldenLandEvent.Hide at 0x1A50DFA8>
 	arg0: self
 
 submodule.Hide
@@ -762,7 +762,7 @@ _GoldenLandEvent__tree_fruit_count_text,		<member '_GoldenLandEvent__tree_fruit_
 submodule._GoldenLandEvent__tree_fruit_count_text
 
 
-__del__,		<cyfunction GoldenLandEvent.__del__ at 0x1E2790E0>
+__del__,		<cyfunction GoldenLandEvent.__del__ at 0x1A50DDF0>
 	arg0: self
 
 submodule.__del__
@@ -772,25 +772,25 @@ _GoldenLandEvent__button_next,		<member '_GoldenLandEvent__button_next' of 'Gold
 submodule._GoldenLandEvent__button_next
 
 
-_GoldenLandEvent__OverInFruitImage,		<cyfunction GoldenLandEvent.__OverInFruitImage at 0x1E279450>
+_GoldenLandEvent__OverInFruitImage,		<cyfunction GoldenLandEvent.__OverInFruitImage at 0x1A518190>
 	arg0: self
 	arg1: tooltip_text
 
 submodule._GoldenLandEvent__OverInFruitImage
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandEvent instance as first argument (got nothing instead)
-_GoldenLandEvent__OverOutFruitImage,		<cyfunction GoldenLandEvent.__OverOutFruitImage at 0x1E2794A8>
+_GoldenLandEvent__OverOutFruitImage,		<cyfunction GoldenLandEvent.__OverOutFruitImage at 0x1A5181E8>
 	arg0: self
 
 submodule._GoldenLandEvent__OverOutFruitImage
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandEvent instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiGoldenLand.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction GoldenLandEvent.OnPressEscapeKey at 0x1E2792F0>
+OnPressEscapeKey,		<cyfunction GoldenLandEvent.OnPressEscapeKey at 0x1A518030>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandEvent instance as first argument (got nothing instead)
-RefreshTreeFruitCount,		<cyfunction GoldenLandEvent.RefreshTreeFruitCount at 0x1E279500>
+RefreshTreeFruitCount,		<cyfunction GoldenLandEvent.RefreshTreeFruitCount at 0x1A518240>
 	arg0: self
 
 submodule.RefreshTreeFruitCount
@@ -810,7 +810,7 @@ _GoldenLandEvent__tree_fruit_slot,		<member '_GoldenLandEvent__tree_fruit_slot' 
 submodule._GoldenLandEvent__tree_fruit_slot
 
 
-_GoldenLandEvent__LoadWindow,		<cyfunction GoldenLandEvent.__LoadWindow at 0x1E279190>
+_GoldenLandEvent__LoadWindow,		<cyfunction GoldenLandEvent.__LoadWindow at 0x1A50DEA0>
 	arg0: self
 
 submodule._GoldenLandEvent__LoadWindow
@@ -820,12 +820,12 @@ _GoldenLandEvent__button_prev,		<member '_GoldenLandEvent__button_prev' of 'Gold
 submodule._GoldenLandEvent__button_prev
 
 
-__init__,		<cyfunction GoldenLandEvent.__init__ at 0x1E279088>
+__init__,		<cyfunction GoldenLandEvent.__init__ at 0x1A50DD98>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandEvent instance as first argument (got nothing instead)
-_GoldenLandEvent__Initialize,		<cyfunction GoldenLandEvent.__Initialize at 0x1E279138>
+_GoldenLandEvent__Initialize,		<cyfunction GoldenLandEvent.__Initialize at 0x1A50DE48>
 	arg0: self
 
 submodule._GoldenLandEvent__Initialize
@@ -840,7 +840,7 @@ _GoldenLandEvent__yellow_fruit_slot,		<member '_GoldenLandEvent__yellow_fruit_sl
 submodule._GoldenLandEvent__yellow_fruit_slot
 
 
-_GoldenLandEvent__PrevDescriptionPage,		<cyfunction GoldenLandEvent.__PrevDescriptionPage at 0x1E2793A0>
+_GoldenLandEvent__PrevDescriptionPage,		<cyfunction GoldenLandEvent.__PrevDescriptionPage at 0x1A5180E0>
 	arg0: self
 
 submodule._GoldenLandEvent__PrevDescriptionPage
@@ -850,7 +850,7 @@ _GoldenLandEvent__yellow_fruit_count_text,		<member '_GoldenLandEvent__yellow_fr
 submodule._GoldenLandEvent__yellow_fruit_count_text
 
 
-OnUpdate,		<cyfunction GoldenLandEvent.OnUpdate at 0x1E279348>
+OnUpdate,		<cyfunction GoldenLandEvent.OnUpdate at 0x1A518088>
 	arg0: self
 
 submodule.OnUpdate
@@ -885,22 +885,22 @@ _GoldenLandEvent__desc_box,		<member '_GoldenLandEvent__desc_box' of 'GoldenLand
 submodule._GoldenLandEvent__desc_box
 
 
-Close,		<cyfunction GoldenLandEvent.Close at 0x1E279240>
+Close,		<cyfunction GoldenLandEvent.Close at 0x1A50DF50>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandEvent instance as first argument (got nothing instead)
-_GoldenLandEvent__NextDescriptionPage,		<cyfunction GoldenLandEvent.__NextDescriptionPage at 0x1E2793F8>
+_GoldenLandEvent__NextDescriptionPage,		<cyfunction GoldenLandEvent.__NextDescriptionPage at 0x1A518138>
 	arg0: self
 
 submodule._GoldenLandEvent__NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandEvent instance as first argument (got nothing instead)
-Open,		<cyfunction GoldenLandEvent.Open at 0x1E2791E8>
+Open,		<cyfunction GoldenLandEvent.Open at 0x1A50DEF8>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandEvent instance as first argument (got nothing instead)
-RefreshYellowFruitCount,		<cyfunction GoldenLandEvent.RefreshYellowFruitCount at 0x1E279558>
+RefreshYellowFruitCount,		<cyfunction GoldenLandEvent.RefreshYellowFruitCount at 0x1A518298>
 	arg0: self
 
 submodule.RefreshYellowFruitCount
@@ -908,13 +908,13 @@ Skipped: unbound method cython_function_or_method object must be called with Gol
 
 
 class GoldenLandInterface:
-OpenGoldenLandOasisShop,		<cyfunction GoldenLandInterface.OpenGoldenLandOasisShop at 0x1E26BB88>
+OpenGoldenLandOasisShop,		<cyfunction GoldenLandInterface.OpenGoldenLandOasisShop at 0x1A50D8C8>
 	arg0: self
 	arg1: vid
 
 submodule.OpenGoldenLandOasisShop
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-OnGameOver,		<cyfunction GoldenLandInterface.OnGameOver at 0x1E26BDF0>
+OnGameOver,		<cyfunction GoldenLandInterface.OnGameOver at 0x1A50DB30>
 	arg0: self
 
 submodule.OnGameOver
@@ -924,22 +924,22 @@ __module__,		uiGoldenLand
 submodule.__module__
 
 
-Hide,		<cyfunction GoldenLandInterface.Hide at 0x1E26BD40>
+Hide,		<cyfunction GoldenLandInterface.Hide at 0x1A50DA80>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-__del__,		<cyfunction GoldenLandInterface.__del__ at 0x1E26BA80>
+__del__,		<cyfunction GoldenLandInterface.__del__ at 0x1A50D7C0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-RefreshFruitCountInfo,		<cyfunction GoldenLandInterface.RefreshFruitCountInfo at 0x1E26BE48>
+RefreshFruitCountInfo,		<cyfunction GoldenLandInterface.RefreshFruitCountInfo at 0x1A50DB88>
 	arg0: self
 
 submodule.RefreshFruitCountInfo
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-IsShow,		<cyfunction GoldenLandInterface.IsShow at 0x1E26BD98>
+IsShow,		<cyfunction GoldenLandInterface.IsShow at 0x1A50DAD8>
 	arg0: self
 
 submodule.IsShow
@@ -959,12 +959,12 @@ _GoldenLandInterface__hide_windows_when_quest_opened,		<member '_GoldenLandInter
 submodule._GoldenLandInterface__hide_windows_when_quest_opened
 
 
-__init__,		<cyfunction GoldenLandInterface.__init__ at 0x1E26BA28>
+__init__,		<cyfunction GoldenLandInterface.__init__ at 0x1A50D768>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-AppendChat,		<cyfunction GoldenLandInterface.AppendChat at 0x1E26BEA0>
+AppendChat,		<cyfunction GoldenLandInterface.AppendChat at 0x1A50DBE0>
 	arg0: self
 	arg1: chat_type
 	arg2: message_type
@@ -973,23 +973,23 @@ AppendChat,		<cyfunction GoldenLandInterface.AppendChat at 0x1E26BEA0>
 
 submodule.AppendChat
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-_GoldenLandInterface__Initialize,		<cyfunction GoldenLandInterface.__Initialize at 0x1E26BAD8>
+_GoldenLandInterface__Initialize,		<cyfunction GoldenLandInterface.__Initialize at 0x1A50D818>
 	arg0: self
 
 submodule._GoldenLandInterface__Initialize
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction GoldenLandInterface.SetItemToolTip at 0x1E26BC90>
+SetItemToolTip,		<cyfunction GoldenLandInterface.SetItemToolTip at 0x1A50D9D0>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-Show,		<cyfunction GoldenLandInterface.Show at 0x1E26BCE8>
+Show,		<cyfunction GoldenLandInterface.Show at 0x1A50DA28>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with GoldenLandInterface instance as first argument (got nothing instead)
-OpenGoldenLandInformationBoard,		<cyfunction GoldenLandInterface.OpenGoldenLandInformationBoard at 0x1E26BB30>
+OpenGoldenLandInformationBoard,		<cyfunction GoldenLandInterface.OpenGoldenLandInformationBoard at 0x1A50D870>
 	arg0: self
 	arg1: stage_num
 	arg2: end_time
@@ -1007,7 +1007,7 @@ _GoldenLandInterface__find_golden_fruit,		<member '_GoldenLandInterface__find_go
 submodule._GoldenLandInterface__find_golden_fruit
 
 
-BindInterfaceClass,		<cyfunction GoldenLandInterface.BindInterfaceClass at 0x1E26BC38>
+BindInterfaceClass,		<cyfunction GoldenLandInterface.BindInterfaceClass at 0x1A50D978>
 	arg0: self
 	arg1: interface
 
@@ -1023,7 +1023,7 @@ _GoldenLandInterface__golden_land_information_board,		<member '_GoldenLandInterf
 submodule._GoldenLandInterface__golden_land_information_board
 
 
-OpenFindGoldenFruit,		<cyfunction GoldenLandInterface.OpenFindGoldenFruit at 0x1E26BBE0>
+OpenFindGoldenFruit,		<cyfunction GoldenLandInterface.OpenFindGoldenFruit at 0x1A50D920>
 	arg0: self
 
 submodule.OpenFindGoldenFruit

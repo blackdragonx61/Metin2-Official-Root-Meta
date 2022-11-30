@@ -24,22 +24,22 @@ __module__,		introLogo
 submodule.__module__
 
 
-OnRender,		<cyfunction LogoWindow.OnRender at 0x0CF069D0>
+OnRender,		<cyfunction LogoWindow.OnRender at 0x0A85E5B0>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction LogoWindow.__del__ at 0x0CF06870>
+__del__,		<cyfunction LogoWindow.__del__ at 0x0A85E450>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction LogoWindow.OnUpdate at 0x0CF06978>
+OnUpdate,		<cyfunction LogoWindow.OnUpdate at 0x0A85E558>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
-Close,		<cyfunction LogoWindow.Close at 0x0CF06920>
+Close,		<cyfunction LogoWindow.Close at 0x0A85E500>
 	arg0: self
 
 submodule.Close
@@ -49,12 +49,12 @@ videoList,		[]
 submodule.videoList
 
 
-LoadNextVideo,		<cyfunction LogoWindow.LoadNextVideo at 0x0CF06A28>
+LoadNextVideo,		<cyfunction LogoWindow.LoadNextVideo at 0x0A85E608>
 	arg0: self
 
 submodule.LoadNextVideo
 Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
-Open,		<cyfunction LogoWindow.Open at 0x0CF068C8>
+Open,		<cyfunction LogoWindow.Open at 0x0A85E4A8>
 	arg0: self
 
 submodule.Open
@@ -64,13 +64,13 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction LogoWindow.__init__ at 0x0CF06818>
+__init__,		<cyfunction LogoWindow.__init__ at 0x0A85E3F8>
 	arg0: self
 	arg1: stream
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
-CloseVideo,		<cyfunction LogoWindow.CloseVideo at 0x0CF06A80>
+CloseVideo,		<cyfunction LogoWindow.CloseVideo at 0x0A85E660>
 	arg0: self
 
 submodule.CloseVideo

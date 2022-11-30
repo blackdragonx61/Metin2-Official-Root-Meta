@@ -10,7 +10,7 @@ key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: SHOW_LIMIT_SUPPORT_SKILL_LIST, val: [121, 122, 123, 124, 126, 127, 129, 128, 131, 137, 138, 139, 140, 132, 133, 134, 246, 322]
 key: skill, val: <module 'skill' (built-in)>
 key: event, val: <module 'event' (built-in)>
-key: wraps, val: <function wraps at 0x0CC73CF0>
+key: wraps, val: <function wraps at 0x0A5DC170>
 key: constInfo, val: <module 'constInfo' (built-in)>
 key: SHOW_ONLY_ACTIVE_SKILL, val: False
 key: FACE_IMAGE_DICT, val: {0: 'icon/face/warrior_m.tga', 1: 'icon/face/assassin_w.tga', 2: 'icon/face/sura_m.tga', 3: 'icon/face/shaman_w.tga', 4: 'icon/face/warrior_w.tga', 5: 'icon/face/assassin_m.tga', 6: 'icon/face/sura_w.tga', 7: 'icon/face/shaman_m.tga', 8: 'icon/face/wolfman_m.tga'}
@@ -36,7 +36,7 @@ key: __name__, val: uiCharacter
 key: QuestObject, val: <class 'uiCharacter.QuestObject'>
 key: uiTaskBar, val: <module 'uiTaskBar' (built-in)>
 key: mount, val: <module 'mount' (built-in)>
-key: unsigned32, val: <cyfunction unsigned32 at 0x0D14AD98>
+key: unsigned32, val: <cyfunction unsigned32 at 0x0AA8E920>
 key: QuestCommonData, val: <class 'uiCharacter.QuestCommonData'>
 key: QuestCategoryGroup, val: <class 'uiCharacter.QuestCategoryGroup'>
 key: item, val: <module 'item' (built-in)>
@@ -48,7 +48,7 @@ key: proxy, val: <built-in function proxy>
 
 
 class OrderedDict:
-__ne__,		<function __ne__ at 0x0CFDC7B0>
+__ne__,		<function __ne__ at 0x0A92C6B0>
 	arg0: self
 	arg1: other
 
@@ -59,17 +59,17 @@ __module__,		collections
 submodule.__module__
 
 
-keys,		<function keys at 0x0CFDC430>
+keys,		<function keys at 0x0A92C330>
 	arg0: self
 
 submodule.keys
 Skipped: unbound method keys() must be called with OrderedDict instance as first argument (got nothing instead)
-iteritems,		<function iteritems at 0x0CFDC570>
+iteritems,		<function iteritems at 0x0A92C470>
 	arg0: self
 
 submodule.iteritems
 Skipped: unbound method iteritems() must be called with OrderedDict instance as first argument (got nothing instead)
-__reduce__,		<function __reduce__ at 0x0CFDC6B0>
+__reduce__,		<function __reduce__ at 0x0A92C5B0>
 	arg0: self
 
 submodule.__reduce__
@@ -78,25 +78,25 @@ update,		<unbound method MutableMapping.update>
 
 submodule.update
 Skipped: unbound method update() must be called with OrderedDict instance as first argument (got nothing instead)
-pop,		<function pop at 0x0CFDC5B0>
+pop,		<function pop at 0x0A92C4B0>
 	arg0: self
 	arg1: key
 	arg2: default
-	default: <object object at 0x0C531500>
+	default: <object object at 0x08D91508>
 
 submodule.pop
 Skipped: unbound method pop() must be called with OrderedDict instance as first argument (got nothing instead)
-__iter__,		<function __iter__ at 0x0CFDC370>
+__iter__,		<function __iter__ at 0x0A92C270>
 	arg0: self
 
 submodule.__iter__
 Skipped: unbound method __iter__() must be called with OrderedDict instance as first argument (got nothing instead)
-viewkeys,		<function viewkeys at 0x0CFDC7F0>
+viewkeys,		<function viewkeys at 0x0A92C6F0>
 	arg0: self
 
 submodule.viewkeys
 Skipped: unbound method viewkeys() must be called with OrderedDict instance as first argument (got nothing instead)
-popitem,		<function popitem at 0x0CFDC630>
+popitem,		<function popitem at 0x0A92C530>
 	arg0: self
 	arg1: last
 	default: True
@@ -108,28 +108,28 @@ __dict__,		<attribute '__dict__' of 'OrderedDict' objects>
 submodule.__dict__
 
 
-copy,		<function copy at 0x0CFDC6F0>
+copy,		<function copy at 0x0A92C5F0>
 	arg0: self
 
 submodule.copy
 Skipped: unbound method copy() must be called with OrderedDict instance as first argument (got nothing instead)
-__eq__,		<function __eq__ at 0x0CFDC770>
+__eq__,		<function __eq__ at 0x0A92C670>
 	arg0: self
 	arg1: other
 
 submodule.__eq__
 Skipped: unbound method __eq__() must be called with OrderedDict instance as first argument (got nothing instead)
-__init__,		<function __init__ at 0x0CFC9F70>
+__init__,		<function __init__ at 0x0A918DF0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method __init__() must be called with OrderedDict instance as first argument (got nothing instead)
-viewitems,		<function viewitems at 0x0CFDC870>
+viewitems,		<function viewitems at 0x0A92C770>
 	arg0: self
 
 submodule.viewitems
 Skipped: unbound method viewitems() must be called with OrderedDict instance as first argument (got nothing instead)
-__delitem__,		<function __delitem__ at 0x0CFDC230>
+__delitem__,		<function __delitem__ at 0x0A92C130>
 	arg0: self
 	arg1: key
 	arg2: PREV
@@ -141,12 +141,12 @@ __delitem__,		<function __delitem__ at 0x0CFDC230>
 
 submodule.__delitem__
 Skipped: unbound method __delitem__() must be called with OrderedDict instance as first argument (got nothing instead)
-_OrderedDict__marker,		<object object at 0x0C531500>
+_OrderedDict__marker,		<object object at 0x08D91508>
 
 submodule._OrderedDict__marker
 
 
-fromkeys,		<classmethod object at 0x0CFDAD90>
+fromkeys,		<classmethod object at 0x0A928C50>
 	arg0: cls
 	arg1: iterable
 	arg2: value
@@ -154,7 +154,7 @@ fromkeys,		<classmethod object at 0x0CFDAD90>
 
 submodule.fromkeys
 Skipped: fromkeys() takes at least 2 arguments (1 given)
-setdefault,		<function setdefault at 0x0CFDC5F0>
+setdefault,		<function setdefault at 0x0A92C4F0>
 	arg0: self
 	arg1: key
 	arg2: default
@@ -162,22 +162,22 @@ setdefault,		<function setdefault at 0x0CFDC5F0>
 
 submodule.setdefault
 Skipped: unbound method setdefault() must be called with OrderedDict instance as first argument (got nothing instead)
-viewvalues,		<function viewvalues at 0x0CFDC830>
+viewvalues,		<function viewvalues at 0x0A92C730>
 	arg0: self
 
 submodule.viewvalues
 Skipped: unbound method viewvalues() must be called with OrderedDict instance as first argument (got nothing instead)
-items,		<function items at 0x0CFDC4B0>
+items,		<function items at 0x0A92C3B0>
 	arg0: self
 
 submodule.items
 Skipped: unbound method items() must be called with OrderedDict instance as first argument (got nothing instead)
-clear,		<function clear at 0x0CFDC1B0>
+clear,		<function clear at 0x0A92C0B0>
 	arg0: self
 
 submodule.clear
 Skipped: unbound method clear() must be called with OrderedDict instance as first argument (got nothing instead)
-__setitem__,		<function __setitem__ at 0x0CFDC030>
+__setitem__,		<function __setitem__ at 0x0A918E70>
 	arg0: self
 	arg1: key
 	arg2: value
@@ -190,7 +190,7 @@ __setitem__,		<function __setitem__ at 0x0CFDC030>
 
 submodule.__setitem__
 Skipped: unbound method __setitem__() must be called with OrderedDict instance as first argument (got nothing instead)
-__reversed__,		<function __reversed__ at 0x0CFDC2B0>
+__reversed__,		<function __reversed__ at 0x0A92C1B0>
 	arg0: self
 
 submodule.__reversed__
@@ -200,17 +200,17 @@ __weakref__,		<attribute '__weakref__' of 'OrderedDict' objects>
 submodule.__weakref__
 
 
-values,		<function values at 0x0CFDC470>
+values,		<function values at 0x0A92C370>
 	arg0: self
 
 submodule.values
 Skipped: unbound method values() must be called with OrderedDict instance as first argument (got nothing instead)
-iterkeys,		<function iterkeys at 0x0CFDC4F0>
+iterkeys,		<function iterkeys at 0x0A92C3F0>
 	arg0: self
 
 submodule.iterkeys
 Skipped: unbound method iterkeys() must be called with OrderedDict instance as first argument (got nothing instead)
-itervalues,		<function itervalues at 0x0CFDC530>
+itervalues,		<function itervalues at 0x0A92C430>
 	arg0: self
 
 submodule.itervalues
@@ -224,7 +224,7 @@ __doc__,		Dictionary that remembers insertion order
 submodule.__doc__
 
 
-__repr__,		<function __repr__ at 0x0CFDC670>
+__repr__,		<function __repr__ at 0x0A92C570>
 	arg0: self
 	arg1: _repr_running
 	default: {}
@@ -259,7 +259,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__del__,		<cyfunction QuestLineObject.__del__ at 0x0D162D40>
+__del__,		<cyfunction QuestLineObject.__del__ at 0x0AAA88C8>
 	arg0: self
 
 submodule.__del__
@@ -269,7 +269,7 @@ __slots__,		('__line_image',)
 submodule.__slots__
 
 
-__init__,		<cyfunction QuestLineObject.__init__ at 0x0D162CE8>
+__init__,		<cyfunction QuestLineObject.__init__ at 0x0AAA8870>
 	arg0: self
 	arg1: parent
 
@@ -298,7 +298,7 @@ __module__,		uiCharacter
 submodule.__module__
 
 
-__del__,		<cyfunction QuestDummyObject.__del__ at 0x0D162DF0>
+__del__,		<cyfunction QuestDummyObject.__del__ at 0x0AAA8978>
 	arg0: self
 
 submodule.__del__
@@ -308,7 +308,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction QuestDummyObject.__init__ at 0x0D162D98>
+__init__,		<cyfunction QuestDummyObject.__init__ at 0x0AAA8920>
 	arg0: self
 	arg1: parent
 
@@ -322,46 +322,46 @@ submodule.HEIGHT
 
 
 class CharacterWindow:
-Hide,		<cyfunction CharacterWindow.Hide at 0x0D163190>
+Hide,		<cyfunction CharacterWindow.Hide at 0x0AAA8CE8>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnDeactivateSkill,		<cyfunction CharacterWindow.OnDeactivateSkill at 0x0D164AD8>
+OnDeactivateSkill,		<cyfunction CharacterWindow.OnDeactivateSkill at 0x0AAAC660>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OnDeactivateSkill
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction CharacterWindow.OverInItem at 0x0D1643F8>
+OverInItem,		<cyfunction CharacterWindow.OverInItem at 0x0AAAAF50>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-SelectSkill,		<cyfunction CharacterWindow.SelectSkill at 0x0D164348>
+SelectSkill,		<cyfunction CharacterWindow.SelectSkill at 0x0AAAAEA0>
 	arg0: self
 	arg1: skillSlotIndex
 
 submodule.SelectSkill
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ShowToolTip,		<cyfunction CharacterWindow.__ShowToolTip at 0x0D1633A0>
+_CharacterWindow__ShowToolTip,		<cyfunction CharacterWindow.__ShowToolTip at 0x0AAA8EF8>
 	arg0: self
 	arg1: desc
 
 submodule._CharacterWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__GetStatMinusPoint,		<cyfunction CharacterWindow.__GetStatMinusPoint at 0x0D164500>
+_CharacterWindow__GetStatMinusPoint,		<cyfunction CharacterWindow.__GetStatMinusPoint at 0x0AAAC088>
 	arg0: self
 
 submodule._CharacterWindow__GetStatMinusPoint
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-HideStatusPlusButtonList,		<cyfunction CharacterWindow.HideStatusPlusButtonList at 0x0D164240>
+HideStatusPlusButtonList,		<cyfunction CharacterWindow.HideStatusPlusButtonList at 0x0AAAAD98>
 	arg0: self
 
 submodule.HideStatusPlusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-CanShowPlusButton,		<cyfunction CharacterWindow.CanShowPlusButton at 0x0D164818>
+CanShowPlusButton,		<cyfunction CharacterWindow.CanShowPlusButton at 0x0AAAC3A0>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillLevel
@@ -369,84 +369,84 @@ CanShowPlusButton,		<cyfunction CharacterWindow.CanShowPlusButton at 0x0D164818>
 
 submodule.CanShowPlusButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-RefreshSkill,		<cyfunction CharacterWindow.RefreshSkill at 0x0D1647C0>
+RefreshSkill,		<cyfunction CharacterWindow.RefreshSkill at 0x0AAAC348>
 	arg0: self
 
 submodule.RefreshSkill
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__GetSungMaPointValuePer,		<cyfunction CharacterWindow.__GetSungMaPointValuePer at 0x0D163FA8>
+_CharacterWindow__GetSungMaPointValuePer,		<cyfunction CharacterWindow.__GetSungMaPointValuePer at 0x0AAAAB30>
 	arg0: self
 	arg1: point_type
 	arg2: percent_point_type
 
 submodule._CharacterWindow__GetSungMaPointValuePer
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ShowAlignmentToolTip,		<cyfunction CharacterWindow.__ShowAlignmentToolTip at 0x0D164B30>
+_CharacterWindow__ShowAlignmentToolTip,		<cyfunction CharacterWindow.__ShowAlignmentToolTip at 0x0AAAC6B8>
 	arg0: self
 
 submodule._CharacterWindow__ShowAlignmentToolTip
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OnClickTabButton,		<cyfunction CharacterWindow.__OnClickTabButton at 0x0D163CE8>
+_CharacterWindow__OnClickTabButton,		<cyfunction CharacterWindow.__OnClickTabButton at 0x0AAAA870>
 	arg0: self
 	arg1: stateKey
 
 submodule._CharacterWindow__OnClickTabButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__TogglePassiveAttrWindow,		<cyfunction CharacterWindow.__TogglePassiveAttrWindow at 0x0D166138>
+_CharacterWindow__TogglePassiveAttrWindow,		<cyfunction CharacterWindow.__TogglePassiveAttrWindow at 0x0AAACC90>
 	arg0: self
 	arg1: event_type
 
 submodule._CharacterWindow__TogglePassiveAttrWindow
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnUseSkill,		<cyfunction CharacterWindow.OnUseSkill at 0x0D164A28>
+OnUseSkill,		<cyfunction CharacterWindow.OnUseSkill at 0x0AAAC5B0>
 	arg0: self
 	arg1: slotIndex
 	arg2: coolTime
 
 submodule.OnUseSkill
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__GetTotalAtkText,		<cyfunction CharacterWindow.__GetTotalAtkText at 0x0D163DF0>
+_CharacterWindow__GetTotalAtkText,		<cyfunction CharacterWindow.__GetTotalAtkText at 0x0AAAA978>
 	arg0: self
 
 submodule._CharacterWindow__GetTotalAtkText
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__SetSkillSlotEvent,		<cyfunction CharacterWindow.__SetSkillSlotEvent at 0x0D163710>
+_CharacterWindow__SetSkillSlotEvent,		<cyfunction CharacterWindow.__SetSkillSlotEvent at 0x0AAAA298>
 	arg0: self
 
 submodule._CharacterWindow__SetSkillSlotEvent
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction CharacterWindow.OnPressEscapeKey at 0x0D1646B8>
+OnPressEscapeKey,		<cyfunction CharacterWindow.OnPressEscapeKey at 0x0AAAC240>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OverOutStatButton,		<cyfunction CharacterWindow.__OverOutStatButton at 0x0D164660>
+_CharacterWindow__OverOutStatButton,		<cyfunction CharacterWindow.__OverOutStatButton at 0x0AAAC1E8>
 	arg0: self
 
 submodule._CharacterWindow__OverOutStatButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__BindEvent,		<cyfunction CharacterWindow.__BindEvent at 0x0D163A28>
+_CharacterWindow__BindEvent,		<cyfunction CharacterWindow.__BindEvent at 0x0AAAA5B0>
 	arg0: self
 
 submodule._CharacterWindow__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ToolTipProgress,		<cyfunction CharacterWindow.__ToolTipProgress at 0x0D163500>
+_CharacterWindow__ToolTipProgress,		<cyfunction CharacterWindow.__ToolTipProgress at 0x0AAAA088>
 	arg0: self
 
 submodule._CharacterWindow__ToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OverOutEmotion,		<cyfunction CharacterWindow.__OverOutEmotion at 0x0D1639D0>
+_CharacterWindow__OverOutEmotion,		<cyfunction CharacterWindow.__OverOutEmotion at 0x0AAAA558>
 	arg0: self
 
 submodule._CharacterWindow__OverOutEmotion
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__GetSkillGradeFromSlot,		<cyfunction CharacterWindow.__GetSkillGradeFromSlot at 0x0D164FA8>
+_CharacterWindow__GetSkillGradeFromSlot,		<cyfunction CharacterWindow.__GetSkillGradeFromSlot at 0x0AAACB30>
 	arg0: self
 	arg1: skillSlot
 
 submodule._CharacterWindow__GetSkillGradeFromSlot
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OverInEmotion,		<cyfunction CharacterWindow.__OverInEmotion at 0x0D163978>
+_CharacterWindow__OverInEmotion,		<cyfunction CharacterWindow.__OverInEmotion at 0x0AAAA500>
 	arg0: self
 	arg1: slotIndex
 
@@ -457,37 +457,37 @@ __doc__,		None
 submodule.__doc__
 
 
-SetState,		<cyfunction CharacterWindow.SetState at 0x0D163D40>
+SetState,		<cyfunction CharacterWindow.SetState at 0x0AAAA8C8>
 	arg0: self
 	arg1: stateKey
 
 submodule.SetState
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction CharacterWindow.SelectEmptySlot at 0x0D1643A0>
+SelectEmptySlot,		<cyfunction CharacterWindow.SelectEmptySlot at 0x0AAAAEF8>
 	arg0: self
 	arg1: SlotIndex
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__GetRealSkillSlot,		<cyfunction CharacterWindow.__GetRealSkillSlot at 0x0D164EA0>
+_CharacterWindow__GetRealSkillSlot,		<cyfunction CharacterWindow.__GetRealSkillSlot at 0x0AAACA28>
 	arg0: self
 	arg1: skillGrade
 	arg2: skillSlot
 
 submodule._CharacterWindow__GetRealSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-ShowConquerorStatusPlusButtonList,		<cyfunction CharacterWindow.ShowConquerorStatusPlusButtonList at 0x0D164298>
+ShowConquerorStatusPlusButtonList,		<cyfunction CharacterWindow.ShowConquerorStatusPlusButtonList at 0x0AAAADF0>
 	arg0: self
 
 submodule.ShowConquerorStatusPlusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OnClickConquerorStatusPlusButton,		<cyfunction CharacterWindow.__OnClickConquerorStatusPlusButton at 0x0D163C90>
+_CharacterWindow__OnClickConquerorStatusPlusButton,		<cyfunction CharacterWindow.__OnClickConquerorStatusPlusButton at 0x0AAAA818>
 	arg0: self
 	arg1: statusKey
 
 submodule._CharacterWindow__OnClickConquerorStatusPlusButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction CharacterWindow.__del__ at 0x0D163088>
+__del__,		<cyfunction CharacterWindow.__del__ at 0x0AAA8BE0>
 	arg0: self
 
 submodule.__del__
@@ -497,45 +497,45 @@ SUPPORT_PAGE_SLOT_COUNT,		18
 submodule.SUPPORT_PAGE_SLOT_COUNT
 
 
-_CharacterWindow__IsChangedHorseRidingSkillLevel,		<cyfunction CharacterWindow.__IsChangedHorseRidingSkillLevel at 0x0D164E48>
+_CharacterWindow__IsChangedHorseRidingSkillLevel,		<cyfunction CharacterWindow.__IsChangedHorseRidingSkillLevel at 0x0AAAC9D0>
 	arg0: self
 
 submodule._CharacterWindow__IsChangedHorseRidingSkillLevel
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-RefreshStatus,		<cyfunction CharacterWindow.RefreshStatus at 0x0D163F50>
+RefreshStatus,		<cyfunction CharacterWindow.RefreshStatus at 0x0AAAAAD8>
 	arg0: self
 
 submodule.RefreshStatus
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-SelectSkillGroup,		<cyfunction CharacterWindow.SelectSkillGroup at 0x0D166030>
+SelectSkillGroup,		<cyfunction CharacterWindow.SelectSkillGroup at 0x0AAACB88>
 	arg0: self
 	arg1: index
 
 submodule.SelectSkillGroup
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ControlConquerorUI,		<cyfunction CharacterWindow.__ControlConquerorUI at 0x0D163EF8>
+_CharacterWindow__ControlConquerorUI,		<cyfunction CharacterWindow.__ControlConquerorUI at 0x0AAAAA80>
 	arg0: self
 	arg1: type
 
 submodule._CharacterWindow__ControlConquerorUI
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ShowStatusMinusButtonList,		<cyfunction CharacterWindow.__ShowStatusMinusButtonList at 0x0D164138>
+_CharacterWindow__ShowStatusMinusButtonList,		<cyfunction CharacterWindow.__ShowStatusMinusButtonList at 0x0AAAAC90>
 	arg0: self
 
 submodule._CharacterWindow__ShowStatusMinusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__RefreshStatusMinusButtonList,		<cyfunction CharacterWindow.__RefreshStatusMinusButtonList at 0x0D164088>
+_CharacterWindow__RefreshStatusMinusButtonList,		<cyfunction CharacterWindow.__RefreshStatusMinusButtonList at 0x0AAAABE0>
 	arg0: self
 
 submodule._CharacterWindow__RefreshStatusMinusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction CharacterWindow.BindInterface at 0x0D163558>
+BindInterface,		<cyfunction CharacterWindow.BindInterface at 0x0AAAA0E0>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__GetTotalMagAtkText,		<cyfunction CharacterWindow.__GetTotalMagAtkText at 0x0D163E48>
+_CharacterWindow__GetTotalMagAtkText,		<cyfunction CharacterWindow.__GetTotalMagAtkText at 0x0AAAA9D0>
 	arg0: self
 
 submodule._CharacterWindow__GetTotalMagAtkText
@@ -545,30 +545,30 @@ PAGE_SLOT_COUNT,		12
 submodule.PAGE_SLOT_COUNT
 
 
-RefreshQuest,		<cyfunction CharacterWindow.RefreshQuest at 0x0D1644A8>
+RefreshQuest,		<cyfunction CharacterWindow.RefreshQuest at 0x0AAAC030>
 	arg0: self
 	arg1: quest_type
 	arg2: quest_index
 
 submodule.RefreshQuest
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-Show,		<cyfunction CharacterWindow.Show at 0x0D1631E8>
+Show,		<cyfunction CharacterWindow.Show at 0x0AAA8D40>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-HideConquerorStatusPlusButtonList,		<cyfunction CharacterWindow.HideConquerorStatusPlusButtonList at 0x0D1642F0>
+HideConquerorStatusPlusButtonList,		<cyfunction CharacterWindow.HideConquerorStatusPlusButtonList at 0x0AAAAE48>
 	arg0: self
 
 submodule.HideConquerorStatusPlusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__SelectSkillGroup,		<cyfunction CharacterWindow.__SelectSkillGroup at 0x0D164CE8>
+_CharacterWindow__SelectSkillGroup,		<cyfunction CharacterWindow.__SelectSkillGroup at 0x0AAAC870>
 	arg0: self
 	arg1: index
 
 submodule._CharacterWindow__SelectSkillGroup
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__BindObject,		<cyfunction CharacterWindow.__BindObject at 0x0D1632F0>
+_CharacterWindow__BindObject,		<cyfunction CharacterWindow.__BindObject at 0x0AAA8E48>
 	arg0: self
 
 submodule._CharacterWindow__BindObject
@@ -578,54 +578,54 @@ __qualname__,		CharacterWindow
 submodule.__qualname__
 
 
-_CharacterWindow__RefreshSkillPlusButton,		<cyfunction CharacterWindow.__RefreshSkillPlusButton at 0x0D164870>
+_CharacterWindow__RefreshSkillPlusButton,		<cyfunction CharacterWindow.__RefreshSkillPlusButton at 0x0AAAC3F8>
 	arg0: self
 	arg1: name
 
 submodule._CharacterWindow__RefreshSkillPlusButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction CharacterWindow.OverOutItem at 0x0D164450>
+OverOutItem,		<cyfunction CharacterWindow.OverOutItem at 0x0AAAAFA8>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-CanUseHorseSkill,		<cyfunction CharacterWindow.CanUseHorseSkill at 0x0D164D98>
+CanUseHorseSkill,		<cyfunction CharacterWindow.CanUseHorseSkill at 0x0AAAC920>
 	arg0: self
 
 submodule.CanUseHorseSkill
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-RefreshSkillPlusButtonList,		<cyfunction CharacterWindow.RefreshSkillPlusButtonList at 0x0D1648C8>
+RefreshSkillPlusButtonList,		<cyfunction CharacterWindow.RefreshSkillPlusButtonList at 0x0AAAC450>
 	arg0: self
 
 submodule.RefreshSkillPlusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-Close,		<cyfunction CharacterWindow.Close at 0x0D163B30>
+Close,		<cyfunction CharacterWindow.Close at 0x0AAAA6B8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnMouseWheelButtonDown,		<cyfunction CharacterWindow.OnMouseWheelButtonDown at 0x0D1660E0>
+OnMouseWheelButtonDown,		<cyfunction CharacterWindow.OnMouseWheelButtonDown at 0x0AAACC38>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnActivateSkill,		<cyfunction CharacterWindow.OnActivateSkill at 0x0D164A80>
+OnActivateSkill,		<cyfunction CharacterWindow.OnActivateSkill at 0x0AAAC608>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OnActivateSkill
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__InitCharacterDetailsUIButton,		<cyfunction CharacterWindow.__InitCharacterDetailsUIButton at 0x0D1635B0>
+_CharacterWindow__InitCharacterDetailsUIButton,		<cyfunction CharacterWindow.__InitCharacterDetailsUIButton at 0x0AAAA138>
 	arg0: self
 
 submodule._CharacterWindow__InitCharacterDetailsUIButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OverOutStatMinusButton,		<cyfunction CharacterWindow.__OverOutStatMinusButton at 0x0D1645B0>
+_CharacterWindow__OverOutStatMinusButton,		<cyfunction CharacterWindow.__OverOutStatMinusButton at 0x0AAAC138>
 	arg0: self
 
 submodule._CharacterWindow__OverOutStatMinusButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-RemoveSpecialActionSlot,		<cyfunction CharacterWindow.RemoveSpecialActionSlot at 0x0D163818>
+RemoveSpecialActionSlot,		<cyfunction CharacterWindow.RemoveSpecialActionSlot at 0x0AAAA3A0>
 	arg0: self
 	arg1: iIndex
 
@@ -636,7 +636,7 @@ __module__,		uiCharacter
 submodule.__module__
 
 
-_CharacterWindow__SetSkillSlotData,		<cyfunction CharacterWindow.__SetSkillSlotData at 0x0D164C90>
+_CharacterWindow__SetSkillSlotData,		<cyfunction CharacterWindow.__SetSkillSlotData at 0x0AAAC818>
 	arg0: self
 	arg1: race
 	arg2: group
@@ -645,18 +645,18 @@ _CharacterWindow__SetSkillSlotData,		<cyfunction CharacterWindow.__SetSkillSlotD
 
 submodule._CharacterWindow__SetSkillSlotData
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__CanUseHorseSkill,		<cyfunction CharacterWindow.__CanUseHorseSkill at 0x0D164DF0>
+_CharacterWindow__CanUseHorseSkill,		<cyfunction CharacterWindow.__CanUseHorseSkill at 0x0AAAC978>
 	arg0: self
 
 submodule._CharacterWindow__CanUseHorseSkill
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OverInStatMinusButton,		<cyfunction CharacterWindow.__OverInStatMinusButton at 0x0D164558>
+_CharacterWindow__OverInStatMinusButton,		<cyfunction CharacterWindow.__OverInStatMinusButton at 0x0AAAC0E0>
 	arg0: self
 	arg1: stat
 
 submodule._CharacterWindow__OverInStatMinusButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-RefreshCharacter,		<cyfunction CharacterWindow.RefreshCharacter at 0x0D164BE0>
+RefreshCharacter,		<cyfunction CharacterWindow.RefreshCharacter at 0x0AAAC768>
 	arg0: self
 
 submodule.RefreshCharacter
@@ -666,18 +666,18 @@ ACTIVE_PAGE_SLOT_COUNT,		9
 submodule.ACTIVE_PAGE_SLOT_COUNT
 
 
-OnPressedSlotButton,		<cyfunction CharacterWindow.OnPressedSlotButton at 0x0D164978>
+OnPressedSlotButton,		<cyfunction CharacterWindow.OnPressedSlotButton at 0x0AAAC500>
 	arg0: self
 	arg1: slot_number
 
 submodule.OnPressedSlotButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ClickMinimizeButton,		<cyfunction CharacterWindow.__ClickMinimizeButton at 0x0D163660>
+_CharacterWindow__ClickMinimizeButton,		<cyfunction CharacterWindow.__ClickMinimizeButton at 0x0AAAA1E8>
 	arg0: self
 
 submodule._CharacterWindow__ClickMinimizeButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-RefreshSkillCoolTime,		<cyfunction CharacterWindow.RefreshSkillCoolTime at 0x0D164768>
+RefreshSkillCoolTime,		<cyfunction CharacterWindow.RefreshSkillCoolTime at 0x0AAAC2F0>
 	arg0: self
 
 submodule.RefreshSkillCoolTime
@@ -687,113 +687,113 @@ PAGE_HORSE,		2
 submodule.PAGE_HORSE
 
 
-Destroy,		<cyfunction CharacterWindow.Destroy at 0x0D163AD8>
+Destroy,		<cyfunction CharacterWindow.Destroy at 0x0AAAA660>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction CharacterWindow.OnMouseWheelButtonUp at 0x0D166088>
+OnMouseWheelButtonUp,		<cyfunction CharacterWindow.OnMouseWheelButtonUp at 0x0AAACBE0>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction CharacterWindow.__init__ at 0x0D163030>
+__init__,		<cyfunction CharacterWindow.__init__ at 0x0AAA8B88>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__LoadScript,		<cyfunction CharacterWindow.__LoadScript at 0x0D163298>
+_CharacterWindow__LoadScript,		<cyfunction CharacterWindow.__LoadScript at 0x0AAA8DF0>
 	arg0: self
 	arg1: fileName
 
 submodule._CharacterWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OnClickStatusMinusButton,		<cyfunction CharacterWindow.__OnClickStatusMinusButton at 0x0D163C38>
+_CharacterWindow__OnClickStatusMinusButton,		<cyfunction CharacterWindow.__OnClickStatusMinusButton at 0x0AAAA7C0>
 	arg0: self
 	arg1: statusKey
 
 submodule._CharacterWindow__OnClickStatusMinusButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-AddSpecialActionSlot,		<cyfunction CharacterWindow.AddSpecialActionSlot at 0x0D1637C0>
+AddSpecialActionSlot,		<cyfunction CharacterWindow.AddSpecialActionSlot at 0x0AAAA348>
 	arg0: self
 	arg1: byType
 	arg2: dwDuration
 
 submodule.AddSpecialActionSlot
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__RefreshStatusPlusButtonList,		<cyfunction CharacterWindow.__RefreshStatusPlusButtonList at 0x0D164030>
+_CharacterWindow__RefreshStatusPlusButtonList,		<cyfunction CharacterWindow.__RefreshStatusPlusButtonList at 0x0AAAAB88>
 	arg0: self
 
 submodule._CharacterWindow__RefreshStatusPlusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-RefreshAlignment,		<cyfunction CharacterWindow.RefreshAlignment at 0x0D1640E0>
+RefreshAlignment,		<cyfunction CharacterWindow.RefreshAlignment at 0x0AAAAC38>
 	arg0: self
 
 submodule.RefreshAlignment
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OnClickStatusPlusButton,		<cyfunction CharacterWindow.__OnClickStatusPlusButton at 0x0D163BE0>
+_CharacterWindow__OnClickStatusPlusButton,		<cyfunction CharacterWindow.__OnClickStatusPlusButton at 0x0AAAA768>
 	arg0: self
 	arg1: statusKey
 
 submodule._CharacterWindow__OnClickStatusPlusButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ClickEmotionSlot,		<cyfunction CharacterWindow.__ClickEmotionSlot at 0x0D1638C8>
+_CharacterWindow__ClickEmotionSlot,		<cyfunction CharacterWindow.__ClickEmotionSlot at 0x0AAAA450>
 	arg0: self
 	arg1: slotIndex
 
 submodule._CharacterWindow__ClickEmotionSlot
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-ShowStatusPlusButtonList,		<cyfunction CharacterWindow.ShowStatusPlusButtonList at 0x0D1641E8>
+ShowStatusPlusButtonList,		<cyfunction CharacterWindow.ShowStatusPlusButtonList at 0x0AAAAD40>
 	arg0: self
 
 submodule.ShowStatusPlusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-RefreshSkillPlusPointLabel,		<cyfunction CharacterWindow.RefreshSkillPlusPointLabel at 0x0D164920>
+RefreshSkillPlusPointLabel,		<cyfunction CharacterWindow.RefreshSkillPlusPointLabel at 0x0AAAC4A8>
 	arg0: self
 
 submodule.RefreshSkillPlusPointLabel
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__HideStatusMinusButtonList,		<cyfunction CharacterWindow.__HideStatusMinusButtonList at 0x0D164190>
+_CharacterWindow__HideStatusMinusButtonList,		<cyfunction CharacterWindow.__HideStatusMinusButtonList at 0x0AAAACE8>
 	arg0: self
 
 submodule._CharacterWindow__HideStatusMinusButtonList
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ChangeLevelInfoButton,		<cyfunction CharacterWindow.__ChangeLevelInfoButton at 0x0D163348>
+_CharacterWindow__ChangeLevelInfoButton,		<cyfunction CharacterWindow.__ChangeLevelInfoButton at 0x0AAA8EA0>
 	arg0: self
 	arg1: type
 
 submodule._CharacterWindow__ChangeLevelInfoButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction CharacterWindow.OnTop at 0x0D163138>
+OnTop,		<cyfunction CharacterWindow.OnTop at 0x0AAA8C90>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__SetSkillGroupName,		<cyfunction CharacterWindow.__SetSkillGroupName at 0x0D164C38>
+_CharacterWindow__SetSkillGroupName,		<cyfunction CharacterWindow.__SetSkillGroupName at 0x0AAAC7C0>
 	arg0: self
 	arg1: race
 	arg2: group
 
 submodule._CharacterWindow__SetSkillGroupName
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__OverInStatButton,		<cyfunction CharacterWindow.__OverInStatButton at 0x0D164608>
+_CharacterWindow__OverInStatButton,		<cyfunction CharacterWindow.__OverInStatButton at 0x0AAAC190>
 	arg0: self
 	arg1: stat
 
 submodule._CharacterWindow__OverInStatButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__SelectEmotion,		<cyfunction CharacterWindow.__SelectEmotion at 0x0D163870>
+_CharacterWindow__SelectEmotion,		<cyfunction CharacterWindow.__SelectEmotion at 0x0AAAA3F8>
 	arg0: self
 	arg1: slotIndex
 
 submodule._CharacterWindow__SelectEmotion
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__LoadWindow,		<cyfunction CharacterWindow.__LoadWindow at 0x0D163A80>
+_CharacterWindow__LoadWindow,		<cyfunction CharacterWindow.__LoadWindow at 0x0AAAA608>
 	arg0: self
 
 submodule._CharacterWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-ActEmotion,		<cyfunction CharacterWindow.ActEmotion at 0x0D163920>
+ActEmotion,		<cyfunction CharacterWindow.ActEmotion at 0x0AAAA4A8>
 	arg0: self
 	arg1: emotionIndex
 
@@ -804,96 +804,96 @@ CONQUEROR_POINT_SHIFT_CLICK_LIMIT,		10
 submodule.CONQUEROR_POINT_SHIFT_CLICK_LIMIT
 
 
-_CharacterWindow__HideToolTip,		<cyfunction CharacterWindow.__HideToolTip at 0x0D1634A8>
+_CharacterWindow__HideToolTip,		<cyfunction CharacterWindow.__HideToolTip at 0x0AAAA030>
 	arg0: self
 
 submodule._CharacterWindow__HideToolTip
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-ClickSkillSlot,		<cyfunction CharacterWindow.ClickSkillSlot at 0x0D1649D0>
+ClickSkillSlot,		<cyfunction CharacterWindow.ClickSkillSlot at 0x0AAAC558>
 	arg0: self
 	arg1: slotIndex
 
 submodule.ClickSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__GetTotalDefText,		<cyfunction CharacterWindow.__GetTotalDefText at 0x0D163EA0>
+_CharacterWindow__GetTotalDefText,		<cyfunction CharacterWindow.__GetTotalDefText at 0x0AAAAA28>
 	arg0: self
 
 submodule._CharacterWindow__GetTotalDefText
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__RealSkillSlotToSourceSlot,		<cyfunction CharacterWindow.__RealSkillSlotToSourceSlot at 0x0D164F50>
+_CharacterWindow__RealSkillSlotToSourceSlot,		<cyfunction CharacterWindow.__RealSkillSlotToSourceSlot at 0x0AAACAD8>
 	arg0: self
 	arg1: realSkillSlot
 
 submodule._CharacterWindow__RealSkillSlotToSourceSlot
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__GetETCSkillRealSlotIndex,		<cyfunction CharacterWindow.__GetETCSkillRealSlotIndex at 0x0D164EF8>
+_CharacterWindow__GetETCSkillRealSlotIndex,		<cyfunction CharacterWindow.__GetETCSkillRealSlotIndex at 0x0AAACA80>
 	arg0: self
 	arg1: skillSlot
 
 submodule._CharacterWindow__GetETCSkillRealSlotIndex
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-GetState,		<cyfunction CharacterWindow.GetState at 0x0D163D98>
+GetState,		<cyfunction CharacterWindow.GetState at 0x0AAAA920>
 	arg0: self
 
 submodule.GetState
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-SetSkillToolTip,		<cyfunction CharacterWindow.SetSkillToolTip at 0x0D163B88>
+SetSkillToolTip,		<cyfunction CharacterWindow.SetSkillToolTip at 0x0AAAA710>
 	arg0: self
 	arg1: toolTipSkill
 
 submodule.SetSkillToolTip
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__CanUseSkillNow,		<cyfunction CharacterWindow.__CanUseSkillNow at 0x0D164D40>
+_CharacterWindow__CanUseSkillNow,		<cyfunction CharacterWindow.__CanUseSkillNow at 0x0AAAC8C8>
 	arg0: self
 
 submodule._CharacterWindow__CanUseSkillNow
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ClickExpandButton,		<cyfunction CharacterWindow.__ClickExpandButton at 0x0D163608>
+_CharacterWindow__ClickExpandButton,		<cyfunction CharacterWindow.__ClickExpandButton at 0x0AAAA190>
 	arg0: self
 
 submodule._CharacterWindow__ClickExpandButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__Initialize,		<cyfunction CharacterWindow.__Initialize at 0x0D1630E0>
+_CharacterWindow__Initialize,		<cyfunction CharacterWindow.__Initialize at 0x0AAA8C38>
 	arg0: self
 
 submodule._CharacterWindow__Initialize
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction CharacterWindow.OnUpdate at 0x0D163240>
+OnUpdate,		<cyfunction CharacterWindow.OnUpdate at 0x0AAA8D98>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-OnMoveWindow,		<cyfunction CharacterWindow.OnMoveWindow at 0x0D1636B8>
+OnMoveWindow,		<cyfunction CharacterWindow.OnMoveWindow at 0x0AAAA240>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.OnMoveWindow
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__SetEmotionSlot,		<cyfunction CharacterWindow.__SetEmotionSlot at 0x0D163768>
+_CharacterWindow__SetEmotionSlot,		<cyfunction CharacterWindow.__SetEmotionSlot at 0x0AAAA2F0>
 	arg0: self
 
 submodule._CharacterWindow__SetEmotionSlot
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__RefreshSkillPage,		<cyfunction CharacterWindow.__RefreshSkillPage at 0x0D164710>
+_CharacterWindow__RefreshSkillPage,		<cyfunction CharacterWindow.__RefreshSkillPage at 0x0AAAC298>
 	arg0: self
 	arg1: name
 	arg2: slot_count
 
 submodule._CharacterWindow__RefreshSkillPage
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ShowToolTipButton,		<cyfunction CharacterWindow.__ShowToolTipButton at 0x0D1633F8>
+_CharacterWindow__ShowToolTipButton,		<cyfunction CharacterWindow.__ShowToolTipButton at 0x0AAA8F50>
 	arg0: self
 	arg1: desc
 
 submodule._CharacterWindow__ShowToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__HideAlignmentToolTip,		<cyfunction CharacterWindow.__HideAlignmentToolTip at 0x0D164B88>
+_CharacterWindow__HideAlignmentToolTip,		<cyfunction CharacterWindow.__HideAlignmentToolTip at 0x0AAAC710>
 	arg0: self
 
 submodule._CharacterWindow__HideAlignmentToolTip
 Skipped: unbound method cython_function_or_method object must be called with CharacterWindow instance as first argument (got nothing instead)
-_CharacterWindow__ShowToolTipImg,		<cyfunction CharacterWindow.__ShowToolTipImg at 0x0D163450>
+_CharacterWindow__ShowToolTipImg,		<cyfunction CharacterWindow.__ShowToolTipImg at 0x0AAA8FA8>
 	arg0: self
 	arg1: event_type
 	arg2: text
@@ -928,12 +928,12 @@ _QuestObject__quest_index,		<member '_QuestObject__quest_index' of 'QuestObject'
 submodule._QuestObject__quest_index
 
 
-RemoveDummy,		<cyfunction QuestObject.RemoveDummy at 0x0D162AD8>
+RemoveDummy,		<cyfunction QuestObject.RemoveDummy at 0x0AAA8660>
 	arg0: self
 
 submodule.RemoveDummy
 Skipped: unbound method cython_function_or_method object must be called with QuestObject instance as first argument (got nothing instead)
-ReplaceDesc,		<cyfunction QuestObject.ReplaceDesc at 0x0D162978>
+ReplaceDesc,		<cyfunction QuestObject.ReplaceDesc at 0x0AAA8500>
 	arg0: self
 	arg1: desc_list
 
@@ -944,7 +944,7 @@ _QuestObject__line,		<member '_QuestObject__line' of 'QuestObject' objects>
 submodule._QuestObject__line
 
 
-AddDummy,		<cyfunction QuestObject.AddDummy at 0x0D162A80>
+AddDummy,		<cyfunction QuestObject.AddDummy at 0x0AAA8608>
 	arg0: self
 
 submodule.AddDummy
@@ -959,7 +959,7 @@ __qualname__,		QuestObject
 submodule.__qualname__
 
 
-__del__,		<cyfunction QuestObject.__del__ at 0x0D162870>
+__del__,		<cyfunction QuestObject.__del__ at 0x0AAA83F8>
 	arg0: self
 
 submodule.__del__
@@ -969,7 +969,7 @@ __slots__,		('__new_image', '__line', '__dummy', '__quest_index', '__is_confirme
 submodule.__slots__
 
 
-AddLine,		<cyfunction QuestObject.AddLine at 0x0D1629D0>
+AddLine,		<cyfunction QuestObject.AddLine at 0x0AAA8558>
 	arg0: self
 
 submodule.AddLine
@@ -979,17 +979,17 @@ _QuestObject__desc_list,		<member '_QuestObject__desc_list' of 'QuestObject' obj
 submodule._QuestObject__desc_list
 
 
-_QuestObject__ClickQuest,		<cyfunction QuestObject.__ClickQuest at 0x0D162920>
+_QuestObject__ClickQuest,		<cyfunction QuestObject.__ClickQuest at 0x0AAA84A8>
 	arg0: self
 
 submodule._QuestObject__ClickQuest
 Skipped: unbound method cython_function_or_method object must be called with QuestObject instance as first argument (got nothing instead)
-IsConfirmed,		<cyfunction QuestObject.IsConfirmed at 0x0D1628C8>
+IsConfirmed,		<cyfunction QuestObject.IsConfirmed at 0x0AAA8450>
 	arg0: self
 
 submodule.IsConfirmed
 Skipped: unbound method cython_function_or_method object must be called with QuestObject instance as first argument (got nothing instead)
-RemoveLine,		<cyfunction QuestObject.RemoveLine at 0x0D162A28>
+RemoveLine,		<cyfunction QuestObject.RemoveLine at 0x0AAA85B0>
 	arg0: self
 
 submodule.RemoveLine
@@ -999,7 +999,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction QuestObject.__init__ at 0x0D162818>
+__init__,		<cyfunction QuestObject.__init__ at 0x0AAA83A0>
 	arg0: self
 	arg1: parent
 	arg2: quest_index
@@ -1007,7 +1007,7 @@ __init__,		<cyfunction QuestObject.__init__ at 0x0D162818>
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with QuestObject instance as first argument (got nothing instead)
-Arrange,		<cyfunction QuestObject.Arrange at 0x0D162B30>
+Arrange,		<cyfunction QuestObject.Arrange at 0x0AAA86B8>
 	arg0: self
 
 submodule.Arrange
@@ -1025,18 +1025,18 @@ __module__,		uiCharacter
 submodule.__module__
 
 
-GetQuestCategoryName,		<classmethod object at 0x0D160430>
+GetQuestCategoryName,		<classmethod object at 0x0AAA7130>
 	arg0: cls
 	arg1: quest_type
 
 submodule.GetQuestCategoryName
 Skipped: GetQuestCategoryName() takes exactly 2 positional arguments (1 given)
-GetQuestCategoryTuple,		<classmethod object at 0x0D0332F0>
+GetQuestCategoryTuple,		<classmethod object at 0x0AAA70F0>
 	arg0: cls
 
 submodule.GetQuestCategoryTuple
 Skipped: 'tuple' object has no attribute 'locals'
-GetColorImageFileName,		<classmethod object at 0x0D160450>
+GetColorImageFileName,		<classmethod object at 0x0AAA7150>
 	arg0: cls
 	arg1: quest_type
 
@@ -1047,7 +1047,7 @@ __dict__,		<attribute '__dict__' of 'QuestCommonData' objects>
 submodule.__dict__
 
 
-IsCorrectQuestType,		<classmethod object at 0x0D160410>
+IsCorrectQuestType,		<classmethod object at 0x0AAA7110>
 	arg0: cls
 	arg1: quest_type
 
@@ -1058,7 +1058,7 @@ __weakref__,		<attribute '__weakref__' of 'QuestCommonData' objects>
 submodule.__weakref__
 
 
-MakeQuestClockString,		<classmethod object at 0x0D160470>
+MakeQuestClockString,		<classmethod object at 0x0AAA7170>
 	arg0: cls
 	arg1: clock_name
 	arg2: last_time
@@ -1073,7 +1073,7 @@ submodule.__doc__
 
 
 class QuestCategoryGroup:
-_QuestCategoryGroup__ArrangeAfter,		<cyfunction QuestCategoryGroup.__ArrangeAfter at 0x0D14AF50>
+_QuestCategoryGroup__ArrangeAfter,		<cyfunction QuestCategoryGroup.__ArrangeAfter at 0x0AA8EAD8>
 	arg0: self
 	arg1: quest_type
 
@@ -1084,13 +1084,13 @@ __module__,		uiCharacter
 submodule.__module__
 
 
-_QuestCategoryGroup__AdjustScrollPos,		<cyfunction QuestCategoryGroup.__AdjustScrollPos at 0x0D162030>
+_QuestCategoryGroup__AdjustScrollPos,		<cyfunction QuestCategoryGroup.__AdjustScrollPos at 0x0AA8EB88>
 	arg0: self
 	arg1: quest_type
 
 submodule._QuestCategoryGroup__AdjustScrollPos
 Skipped: unbound method cython_function_or_method object must be called with QuestCategoryGroup instance as first argument (got nothing instead)
-__del__,		<cyfunction QuestCategoryGroup.__del__ at 0x0D14AE48>
+__del__,		<cyfunction QuestCategoryGroup.__del__ at 0x0AA8E9D0>
 	arg0: self
 
 submodule.__del__
@@ -1100,7 +1100,7 @@ _QuestCategoryGroup__quest_category_dict,		<member '_QuestCategoryGroup__quest_c
 submodule._QuestCategoryGroup__quest_category_dict
 
 
-DeleteQuest,		<cyfunction QuestCategoryGroup.DeleteQuest at 0x0D1621E8>
+DeleteQuest,		<cyfunction QuestCategoryGroup.DeleteQuest at 0x0AA8ED40>
 	arg0: self
 	arg1: quest_type
 	arg2: quest_index
@@ -1112,24 +1112,24 @@ SCROLL_STEP,		18
 submodule.SCROLL_STEP
 
 
-OnMouseWheelButtonUp,		<cyfunction QuestCategoryGroup.OnMouseWheelButtonUp at 0x0D1620E0>
+OnMouseWheelButtonUp,		<cyfunction QuestCategoryGroup.OnMouseWheelButtonUp at 0x0AA8EC38>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with QuestCategoryGroup instance as first argument (got nothing instead)
-__init__,		<cyfunction QuestCategoryGroup.__init__ at 0x0D14ADF0>
+__init__,		<cyfunction QuestCategoryGroup.__init__ at 0x0AA8E978>
 	arg0: self
 	arg1: clipping_mask_window
 	arg2: scroll_object
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with QuestCategoryGroup instance as first argument (got nothing instead)
-_QuestCategoryGroup__ScrollEvent,		<cyfunction QuestCategoryGroup.__ScrollEvent at 0x0D162088>
+_QuestCategoryGroup__ScrollEvent,		<cyfunction QuestCategoryGroup.__ScrollEvent at 0x0AA8EBE0>
 	arg0: self
 
 submodule._QuestCategoryGroup__ScrollEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestCategoryGroup instance as first argument (got nothing instead)
-ReplaceQuest,		<cyfunction QuestCategoryGroup.ReplaceQuest at 0x0D162190>
+ReplaceQuest,		<cyfunction QuestCategoryGroup.ReplaceQuest at 0x0AA8ECE8>
 	arg0: self
 	arg1: quest_type
 	arg2: quest_index
@@ -1138,7 +1138,7 @@ ReplaceQuest,		<cyfunction QuestCategoryGroup.ReplaceQuest at 0x0D162190>
 
 submodule.ReplaceQuest
 Skipped: unbound method cython_function_or_method object must be called with QuestCategoryGroup instance as first argument (got nothing instead)
-_QuestCategoryGroup__RefreshScroll,		<cyfunction QuestCategoryGroup.__RefreshScroll at 0x0D14AFA8>
+_QuestCategoryGroup__RefreshScroll,		<cyfunction QuestCategoryGroup.__RefreshScroll at 0x0AA8EB30>
 	arg0: self
 
 submodule._QuestCategoryGroup__RefreshScroll
@@ -1153,12 +1153,12 @@ __qualname__,		QuestCategoryGroup
 submodule.__qualname__
 
 
-_QuestCategoryGroup__Arrange,		<cyfunction QuestCategoryGroup.__Arrange at 0x0D14AEF8>
+_QuestCategoryGroup__Arrange,		<cyfunction QuestCategoryGroup.__Arrange at 0x0AA8EA80>
 	arg0: self
 
 submodule._QuestCategoryGroup__Arrange
 Skipped: unbound method cython_function_or_method object must be called with QuestCategoryGroup instance as first argument (got nothing instead)
-ChildHeightChanged,		<cyfunction QuestCategoryGroup.ChildHeightChanged at 0x0D14AEA0>
+ChildHeightChanged,		<cyfunction QuestCategoryGroup.ChildHeightChanged at 0x0AA8EA28>
 	arg0: self
 	arg1: quest_type
 
@@ -1179,7 +1179,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseWheelButtonDown,		<cyfunction QuestCategoryGroup.OnMouseWheelButtonDown at 0x0D162138>
+OnMouseWheelButtonDown,		<cyfunction QuestCategoryGroup.OnMouseWheelButtonDown at 0x0AA8EC90>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
@@ -1197,12 +1197,12 @@ _QuestCategory__clipping_mask_window,		<member '_QuestCategory__clipping_mask_wi
 submodule._QuestCategory__clipping_mask_window
 
 
-_QuestCategory__ShowQuestExistImage,		<cyfunction QuestCategory.__ShowQuestExistImage at 0x0D162710>
+_QuestCategory__ShowQuestExistImage,		<cyfunction QuestCategory.__ShowQuestExistImage at 0x0AAA8298>
 	arg0: self
 
 submodule._QuestCategory__ShowQuestExistImage
 Skipped: unbound method cython_function_or_method object must be called with QuestCategory instance as first argument (got nothing instead)
-__del__,		<cyfunction QuestCategory.__del__ at 0x0D162298>
+__del__,		<cyfunction QuestCategory.__del__ at 0x0AA8EDF0>
 	arg0: self
 
 submodule.__del__
@@ -1222,7 +1222,7 @@ HEIGHT,		22
 submodule.HEIGHT
 
 
-_QuestCategory__HideNewImage,		<cyfunction QuestCategory.__HideNewImage at 0x0D1626B8>
+_QuestCategory__HideNewImage,		<cyfunction QuestCategory.__HideNewImage at 0x0AAA8240>
 	arg0: self
 
 submodule._QuestCategory__HideNewImage
@@ -1232,7 +1232,7 @@ WIDTH,		222
 submodule.WIDTH
 
 
-DeleteQuest,		<cyfunction QuestCategory.__height_resize_post_process.<locals>.wrapper_func at 0x0D162558>
+DeleteQuest,		<cyfunction QuestCategory.__height_resize_post_process.<locals>.wrapper_func at 0x0AAA80E0>
 	arg0: self
 
 submodule.DeleteQuest
@@ -1242,27 +1242,27 @@ _QuestCategory__closed_image,		<member '_QuestCategory__closed_image' of 'QuestC
 submodule._QuestCategory__closed_image
 
 
-_QuestCategory__Arrange,		<cyfunction QuestCategory.__Arrange at 0x0D162348>
+_QuestCategory__Arrange,		<cyfunction QuestCategory.__Arrange at 0x0AA8EEA0>
 	arg0: self
 
 submodule._QuestCategory__Arrange
 Skipped: unbound method cython_function_or_method object must be called with QuestCategory instance as first argument (got nothing instead)
-_QuestCategory__ClickLabel,		<cyfunction QuestCategory.__height_resize_post_process.<locals>.wrapper_func at 0x0D1623F8>
+_QuestCategory__ClickLabel,		<cyfunction QuestCategory.__height_resize_post_process.<locals>.wrapper_func at 0x0AA8EF50>
 	arg0: self
 
 submodule._QuestCategory__ClickLabel
 Skipped: unbound method cython_function_or_method object must be called with QuestCategory instance as first argument (got nothing instead)
-_QuestCategory__HideQuestExistImage,		<cyfunction QuestCategory.__HideQuestExistImage at 0x0D162768>
+_QuestCategory__HideQuestExistImage,		<cyfunction QuestCategory.__HideQuestExistImage at 0x0AAA82F0>
 	arg0: self
 
 submodule._QuestCategory__HideQuestExistImage
 Skipped: unbound method cython_function_or_method object must be called with QuestCategory instance as first argument (got nothing instead)
-_QuestCategory__ShowNewImage,		<cyfunction QuestCategory.__ShowNewImage at 0x0D162660>
+_QuestCategory__ShowNewImage,		<cyfunction QuestCategory.__ShowNewImage at 0x0AAA81E8>
 	arg0: self
 
 submodule._QuestCategory__ShowNewImage
 Skipped: unbound method cython_function_or_method object must be called with QuestCategory instance as first argument (got nothing instead)
-__init__,		<cyfunction QuestCategory.__init__ at 0x0D162240>
+__init__,		<cyfunction QuestCategory.__init__ at 0x0AA8ED98>
 	arg0: self
 	arg1: clipping_mask_window
 	arg2: parent
@@ -1270,12 +1270,12 @@ __init__,		<cyfunction QuestCategory.__init__ at 0x0D162240>
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with QuestCategory instance as first argument (got nothing instead)
-_QuestCategory__height_resize_post_process,		<cyfunction QuestCategory.__height_resize_post_process at 0x0D1622F0>
+_QuestCategory__height_resize_post_process,		<cyfunction QuestCategory.__height_resize_post_process at 0x0AA8EE48>
 	arg0: original_function
 
 submodule._QuestCategory__height_resize_post_process
 Skipped: unbound method cython_function_or_method object must be called with QuestCategory instance as first argument (got nothing instead)
-ReplaceQuest,		<cyfunction QuestCategory.__height_resize_post_process.<locals>.wrapper_func at 0x0D1624A8>
+ReplaceQuest,		<cyfunction QuestCategory.__height_resize_post_process.<locals>.wrapper_func at 0x0AAA8030>
 	arg0: self
 
 submodule.ReplaceQuest
@@ -1290,7 +1290,7 @@ _QuestCategory__lable_image,		<member '_QuestCategory__lable_image' of 'QuestCat
 submodule._QuestCategory__lable_image
 
 
-_QuestCategory__ShowOpendImg,		<cyfunction QuestCategory.__ShowOpendImg at 0x0D1625B0>
+_QuestCategory__ShowOpendImg,		<cyfunction QuestCategory.__ShowOpendImg at 0x0AAA8138>
 	arg0: self
 
 submodule._QuestCategory__ShowOpendImg
@@ -1320,12 +1320,12 @@ _QuestCategory__opened_image,		<member '_QuestCategory__opened_image' of 'QuestC
 submodule._QuestCategory__opened_image
 
 
-_QuestCategory__ShowClosedImg,		<cyfunction QuestCategory.__ShowClosedImg at 0x0D162608>
+_QuestCategory__ShowClosedImg,		<cyfunction QuestCategory.__ShowClosedImg at 0x0AAA8190>
 	arg0: self
 
 submodule._QuestCategory__ShowClosedImg
 Skipped: unbound method cython_function_or_method object must be called with QuestCategory instance as first argument (got nothing instead)
-CheckNewImage,		<cyfunction QuestCategory.CheckNewImage at 0x0D1627C0>
+CheckNewImage,		<cyfunction QuestCategory.CheckNewImage at 0x0AAA8348>
 	arg0: self
 
 submodule.CheckNewImage
@@ -1353,7 +1353,7 @@ _QuestDescObject__contents_textline,		<member '_QuestDescObject__contents_textli
 submodule._QuestDescObject__contents_textline
 
 
-OnUpdate,		<cyfunction QuestDescObject.OnUpdate at 0x0D162C38>
+OnUpdate,		<cyfunction QuestDescObject.OnUpdate at 0x0AAA87C0>
 	arg0: self
 
 submodule.OnUpdate
@@ -1368,7 +1368,7 @@ _QuestDescObject__quest_index,		<member '_QuestDescObject__quest_index' of 'Ques
 submodule._QuestDescObject__quest_index
 
 
-__del__,		<cyfunction QuestDescObject.__del__ at 0x0D162BE0>
+__del__,		<cyfunction QuestDescObject.__del__ at 0x0AAA8768>
 	arg0: self
 
 submodule.__del__
@@ -1378,7 +1378,7 @@ _QuestDescObject__contents_window,		<member '_QuestDescObject__contents_window' 
 submodule._QuestDescObject__contents_window
 
 
-_QuestDescObject__UpdateQuestClock,		<cyfunction QuestDescObject.__UpdateQuestClock at 0x0D162C90>
+_QuestDescObject__UpdateQuestClock,		<cyfunction QuestDescObject.__UpdateQuestClock at 0x0AAA8818>
 	arg0: self
 
 submodule._QuestDescObject__UpdateQuestClock
@@ -1423,7 +1423,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction QuestDescObject.__init__ at 0x0D162B88>
+__init__,		<cyfunction QuestDescObject.__init__ at 0x0AAA8710>
 	arg0: self
 	arg1: parent
 	arg2: quest_index

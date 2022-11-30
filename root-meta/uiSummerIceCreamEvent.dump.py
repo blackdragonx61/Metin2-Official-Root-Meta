@@ -23,7 +23,7 @@ __qualname__,		IceCreamEventUtil
 submodule.__qualname__
 
 
-IsIceCreamEventEnd,		<classmethod object at 0x2E152150>
+IsIceCreamEventEnd,		<classmethod object at 0x2D1BF270>
 	arg0: cls
 
 submodule.IsIceCreamEventEnd
@@ -33,7 +33,7 @@ __module__,		uiSummerIceCreamEvent
 submodule.__module__
 
 
-IceCreamEventMessage,		<classmethod object at 0x2E152130>
+IceCreamEventMessage,		<classmethod object at 0x2D1BF250>
 	arg0: cls
 	arg1: chat_type
 	arg2: attached_data_num
@@ -74,12 +74,12 @@ _IceCreamEvent__is_loaded,		<member '_IceCreamEvent__is_loaded' of 'IceCreamEven
 submodule._IceCreamEvent__is_loaded
 
 
-__del__,		<cyfunction IceCreamEvent.__del__ at 0x2E136088>
+__del__,		<cyfunction IceCreamEvent.__del__ at 0x2D1C0870>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
-_abc_negative_cache,		<_weakrefset.WeakSet object at 0x2E1520F0>
+_abc_negative_cache,		<_weakrefset.WeakSet object at 0x2D1BF210>
 
 submodule._abc_negative_cache
 
@@ -94,34 +94,34 @@ _IceCreamEvent__desc_y,		<member '_IceCreamEvent__desc_y' of 'IceCreamEvent' obj
 submodule._IceCreamEvent__desc_y
 
 
-_IceCreamEvent__Initialize,		<cyfunction IceCreamEvent.__Initialize at 0x2E136348>
+_IceCreamEvent__Initialize,		<cyfunction IceCreamEvent.__Initialize at 0x2D1C08C8>
 	arg0: self
 
 submodule._IceCreamEvent__Initialize
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiSummerIceCreamEvent.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-_abc_registry,		<_weakrefset.WeakSet object at 0x2E152050>
+_abc_registry,		<_weakrefset.WeakSet object at 0x2D1BF170>
 
 submodule._abc_registry
 
 
-OnPressEscapeKey,		<cyfunction IceCreamEvent.OnPressEscapeKey at 0x2E1364A8>
+OnPressEscapeKey,		<cyfunction IceCreamEvent.OnPressEscapeKey at 0x2D1C0A28>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
-_IceCreamEvent__NextDescriptionPage,		<cyfunction IceCreamEvent.__NextDescriptionPage at 0x2E1367C0>
+_IceCreamEvent__NextDescriptionPage,		<cyfunction IceCreamEvent.__NextDescriptionPage at 0x2D1C0CE8>
 	arg0: self
 
 submodule._IceCreamEvent__NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
-_IceCreamEvent__LoadWindow,		<cyfunction IceCreamEvent.__LoadWindow at 0x2E1363F8>
+_IceCreamEvent__LoadWindow,		<cyfunction IceCreamEvent.__LoadWindow at 0x2D1C0978>
 	arg0: self
 
 submodule._IceCreamEvent__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction IceCreamEvent.SetItemToolTip at 0x2E1365B0>
+SetItemToolTip,		<cyfunction IceCreamEvent.SetItemToolTip at 0x2D1C0B88>
 	arg0: self
 	arg1: tooltip
 
@@ -137,12 +137,12 @@ _IceCreamEvent__desc_next_button,		<member '_IceCreamEvent__desc_next_button' of
 submodule._IceCreamEvent__desc_next_button
 
 
-__init__,		<cyfunction IceCreamEvent.__init__ at 0x2E1363A0>
+__init__,		<cyfunction IceCreamEvent.__init__ at 0x2D1C0710>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
-_abc_cache,		<_weakrefset.WeakSet object at 0x2E1520B0>
+_abc_cache,		<_weakrefset.WeakSet object at 0x2D1BF1D0>
 
 submodule._abc_cache
 
@@ -152,7 +152,7 @@ __qualname__,		IceCreamEvent
 submodule.__qualname__
 
 
-_IceCreamEvent__SlotOverOutItem,		<cyfunction IceCreamEvent.__SlotOverOutItem at 0x2E136710>
+_IceCreamEvent__SlotOverOutItem,		<cyfunction IceCreamEvent.__SlotOverOutItem at 0x2D1C0C38>
 	arg0: self
 
 submodule._IceCreamEvent__SlotOverOutItem
@@ -162,7 +162,7 @@ _IceCreamEvent__description_box,		<member '_IceCreamEvent__description_box' of '
 submodule._IceCreamEvent__description_box
 
 
-Destroy,		<cyfunction IceCreamEvent.Destroy at 0x2E136558>
+Destroy,		<cyfunction IceCreamEvent.Destroy at 0x2D1C0920>
 	arg0: self
 
 submodule.Destroy
@@ -182,17 +182,17 @@ __abstractmethods__,		frozenset([])
 submodule.__abstractmethods__
 
 
-_IceCreamEvent__PrevDescriptionPage,		<cyfunction IceCreamEvent.__PrevDescriptionPage at 0x2E136768>
+_IceCreamEvent__PrevDescriptionPage,		<cyfunction IceCreamEvent.__PrevDescriptionPage at 0x2D1C0C90>
 	arg0: self
 
 submodule._IceCreamEvent__PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction IceCreamEvent.OnUpdate at 0x2E136298>
+OnUpdate,		<cyfunction IceCreamEvent.OnUpdate at 0x2D1C0AD8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
-_IceCreamEvent__SlotOverInItem,		<cyfunction IceCreamEvent.__SlotOverInItem at 0x2E1366B8>
+_IceCreamEvent__SlotOverInItem,		<cyfunction IceCreamEvent.__SlotOverInItem at 0x2D1C0BE0>
 	arg0: self
 	arg1: vnum
 
@@ -208,7 +208,7 @@ _abc_negative_cache_version,		10
 submodule._abc_negative_cache_version
 
 
-InGameEventProcess,		<cyfunction IceCreamEvent.InGameEventProcess at 0x2E1362F0>
+InGameEventProcess,		<cyfunction IceCreamEvent.InGameEventProcess at 0x2D1C0B30>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -221,12 +221,12 @@ _IceCreamEvent__desc_index,		<member '_IceCreamEvent__desc_index' of 'IceCreamEv
 submodule._IceCreamEvent__desc_index
 
 
-Close,		<cyfunction IceCreamEvent.Close at 0x2E136450>
+Close,		<cyfunction IceCreamEvent.Close at 0x2D1C09D0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with IceCreamEvent instance as first argument (got nothing instead)
-Open,		<cyfunction IceCreamEvent.Open at 0x2E136500>
+Open,		<cyfunction IceCreamEvent.Open at 0x2D1C0A80>
 	arg0: self
 
 submodule.Open
@@ -236,7 +236,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_IceCreamEvent__IceCreamEventUpdateItemCount,		<cyfunction IceCreamEvent.__IceCreamEventUpdateItemCount at 0x2E136608>
+_IceCreamEvent__IceCreamEventUpdateItemCount,		<cyfunction IceCreamEvent.__IceCreamEventUpdateItemCount at 0x2D1C0D40>
 	arg0: self
 	arg1: count
 

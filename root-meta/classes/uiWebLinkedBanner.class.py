@@ -4,7 +4,7 @@
  'banner_horizontal': 0,
  'banner_vertical': 0,
  'bannertype': [],
- 'hWnd': 764800152,
+ 'hWnd': 751258080,
  'isLoaded': 0,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,

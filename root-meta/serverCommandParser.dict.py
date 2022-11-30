@@ -12,6 +12,7 @@
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__DayMode_Update'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FishEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FlowerEvent'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__FootballEvent'},
                      {'args': ['self', 'end_time'], 'defaults': [], 'name': '__GoldenLand'},
                      {'args': ['self', 'reward_item_vnum', 'reward_item_count'], 'defaults': [], 'name': '__GoldenLandReward'},
                      {'args': ['self', 'state', 'running_time', 'map_index', 'pos_x', 'pos_y', 'interval_sec'], 'defaults': [], 'name': '__GuildSiteAuctionNotice'},
@@ -35,9 +36,12 @@
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__RamadanEvent'},
                      {'args': ['self'], 'defaults': [], 'name': '__ServerCommand_Build'},
                      {'args': ['self', 'flag_value', 'is_enter'], 'defaults': [], 'name': '__SetPopupNoticeEventFlag'},
+                     {'args': ['self', 'end_time'], 'defaults': [], 'name': '__SnowflakeStickEvent'},
+                     {'args': ['self', 'command_type', 'value'], 'defaults': [], 'name': '__SportsMatchCommandProcess'},
+                     {'args': ['self', 'event_value', 'is_match_block', 'match_win_team_id'], 'defaults': [], 'name': '__SportsMatchEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__SummerEvent'},
                      {'args': ['self', 'state', 'open_time'], 'defaults': [], 'name': '__SungmaheeGateState'},
-                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__ValentineEvent'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__ValentineDayEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__WorldBoss'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__XMasBoom_Enable'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__XMasSnow_Enable'},
@@ -55,4 +59,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0CF7FA30>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0A8C8FF0>}]}

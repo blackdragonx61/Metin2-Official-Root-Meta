@@ -17,17 +17,17 @@ key: WhisperDialog, val: <class 'uiWhisper.WhisperDialog'>
 
 
 class WhisperButton:
-HideToolTip,		<cyfunction WhisperButton.HideToolTip at 0x0D166920>
+HideToolTip,		<cyfunction WhisperButton.HideToolTip at 0x0AAAD4A8>
 	arg0: self
 
 submodule.HideToolTip
 Skipped: unbound method cython_function_or_method object must be called with WhisperButton instance as first argument (got nothing instead)
-ShowToolTip,		<cyfunction WhisperButton.ShowToolTip at 0x0D1668C8>
+ShowToolTip,		<cyfunction WhisperButton.ShowToolTip at 0x0AAAD450>
 	arg0: self
 
 submodule.ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with WhisperButton instance as first argument (got nothing instead)
-__del__,		<cyfunction WhisperButton.__del__ at 0x0D1667C0>
+__del__,		<cyfunction WhisperButton.__del__ at 0x0AAAD348>
 	arg0: self
 
 submodule.__del__
@@ -42,7 +42,7 @@ __qualname__,		WhisperButton
 submodule.__qualname__
 
 
-SetToolTipTextWithColor,		<cyfunction WhisperButton.SetToolTipTextWithColor at 0x0D166870>
+SetToolTipTextWithColor,		<cyfunction WhisperButton.SetToolTipTextWithColor at 0x0AAAD3F8>
 	arg0: self
 	arg1: text
 	arg2: color
@@ -53,7 +53,7 @@ SetToolTipTextWithColor,		<cyfunction WhisperButton.SetToolTipTextWithColor at 0
 
 submodule.SetToolTipTextWithColor
 Skipped: unbound method cython_function_or_method object must be called with WhisperButton instance as first argument (got nothing instead)
-SetToolTipText,		<cyfunction WhisperButton.SetToolTipText at 0x0D166818>
+SetToolTipText,		<cyfunction WhisperButton.SetToolTipText at 0x0AAAD3A0>
 	arg0: self
 	arg1: text
 	arg2: x
@@ -68,7 +68,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction WhisperButton.__init__ at 0x0D166768>
+__init__,		<cyfunction WhisperButton.__init__ at 0x0AAAD2F0>
 	arg0: self
 
 submodule.__init__
@@ -76,7 +76,7 @@ Skipped: unbound method cython_function_or_method object must be called with Whi
 
 
 class WhisperDialog:
-SetGameMasterLook,		<cyfunction WhisperDialog.SetGameMasterLook at 0x0D166EA0>
+SetGameMasterLook,		<cyfunction WhisperDialog.SetGameMasterLook at 0x0AAADA28>
 	arg0: self
 
 submodule.SetGameMasterLook
@@ -88,7 +88,7 @@ submodule.__module__
 
 TextRenderer,		<class 'uiWhisper.TextRenderer'>
 Skip: type object 'TextRenderer' has no attribute 'func_code'
-ResizeWhisperDialog,		<cyfunction WhisperDialog.ResizeWhisperDialog at 0x0D166CE8>
+ResizeWhisperDialog,		<cyfunction WhisperDialog.ResizeWhisperDialog at 0x0AAAD870>
 	arg0: self
 
 submodule.ResizeWhisperDialog
@@ -105,84 +105,84 @@ _WhisperDialog__friend_name_board,		<member '_WhisperDialog__friend_name_board' 
 submodule._WhisperDialog__friend_name_board
 
 
-LoadDialog,		<cyfunction WhisperDialog.LoadDialog at 0x0D166C38>
+LoadDialog,		<cyfunction WhisperDialog.LoadDialog at 0x0AAAD7C0>
 	arg0: self
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-ReportViolentWhisper,		<cyfunction WhisperDialog.ReportViolentWhisper at 0x0D166FA8>
+ReportViolentWhisper,		<cyfunction WhisperDialog.ReportViolentWhisper at 0x0AAADB30>
 	arg0: self
 
 submodule.ReportViolentWhisper
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction WhisperDialog.__del__ at 0x0D166BE0>
+__del__,		<cyfunction WhisperDialog.__del__ at 0x0AAAD768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-_WhisperDialog__OnBlockFriend,		<cyfunction WhisperDialog.__OnBlockFriend at 0x0D16D3F8>
+_WhisperDialog__OnBlockFriend,		<cyfunction WhisperDialog.__OnBlockFriend at 0x0AAADF50>
 	arg0: self
 
 submodule._WhisperDialog__OnBlockFriend
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-SetWhisperDialogSize,		<cyfunction WhisperDialog.SetWhisperDialogSize at 0x0D166D40>
+SetWhisperDialogSize,		<cyfunction WhisperDialog.SetWhisperDialogSize at 0x0AAAD8C8>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetWhisperDialogSize
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction WhisperDialog.Destroy at 0x0D166C90>
+Destroy,		<cyfunction WhisperDialog.Destroy at 0x0AAAD818>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-_WhisperDialog__OnCancelAddFriend,		<cyfunction WhisperDialog.__OnCancelAddFriend at 0x0D16D348>
+_WhisperDialog__OnCancelAddFriend,		<cyfunction WhisperDialog.__OnCancelAddFriend at 0x0AAADEA0>
 	arg0: self
 
 submodule._WhisperDialog__OnCancelAddFriend
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-OpenWithTarget,		<cyfunction WhisperDialog.OpenWithTarget at 0x0D166DF0>
+OpenWithTarget,		<cyfunction WhisperDialog.OpenWithTarget at 0x0AAAD978>
 	arg0: self
 	arg1: targetName
 
 submodule.OpenWithTarget
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction WhisperDialog.__init__ at 0x0D166B88>
+__init__,		<cyfunction WhisperDialog.__init__ at 0x0AAAD710>
 	arg0: self
 	arg1: eventMinimize
 	arg2: eventClose
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-BindInterface,		<cyfunction WhisperDialog.BindInterface at 0x0D16D1E8>
+BindInterface,		<cyfunction WhisperDialog.BindInterface at 0x0AAADD40>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-SetChatLineMax,		<cyfunction WhisperDialog.SetChatLineMax at 0x0D166D98>
+SetChatLineMax,		<cyfunction WhisperDialog.SetChatLineMax at 0x0AAAD920>
 	arg0: self
 	arg1: max
 
 submodule.SetChatLineMax
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-_WhisperDialog__OnAddFriend,		<cyfunction WhisperDialog.__OnAddFriend at 0x0D16D2F0>
+_WhisperDialog__OnAddFriend,		<cyfunction WhisperDialog.__OnAddFriend at 0x0AAADE48>
 	arg0: self
 
 submodule._WhisperDialog__OnAddFriend
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction WhisperDialog.OnMouseLeftButtonDown at 0x0D16D240>
+OnMouseLeftButtonDown,		<cyfunction WhisperDialog.OnMouseLeftButtonDown at 0x0AAADD98>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-_WhisperDialog__OnPressBlockButton,		<cyfunction WhisperDialog.__OnPressBlockButton at 0x0D16D3A0>
+_WhisperDialog__OnPressBlockButton,		<cyfunction WhisperDialog.__OnPressBlockButton at 0x0AAADEF8>
 	arg0: self
 
 submodule._WhisperDialog__OnPressBlockButton
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-AcceptTarget,		<cyfunction WhisperDialog.AcceptTarget at 0x0D16D088>
+AcceptTarget,		<cyfunction WhisperDialog.AcceptTarget at 0x0AAADBE0>
 	arg0: self
 
 submodule.AcceptTarget
@@ -192,27 +192,27 @@ __qualname__,		WhisperDialog
 submodule.__qualname__
 
 
-_WhisperDialog__OnPressAddFriendButton,		<cyfunction WhisperDialog.__OnPressAddFriendButton at 0x0D16D298>
+_WhisperDialog__OnPressAddFriendButton,		<cyfunction WhisperDialog.__OnPressAddFriendButton at 0x0AAADDF0>
 	arg0: self
 
 submodule._WhisperDialog__OnPressAddFriendButton
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-IgnoreTarget,		<cyfunction WhisperDialog.IgnoreTarget at 0x0D16D030>
+IgnoreTarget,		<cyfunction WhisperDialog.IgnoreTarget at 0x0AAADB88>
 	arg0: self
 
 submodule.IgnoreTarget
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-OnTop,		<cyfunction WhisperDialog.OnTop at 0x0D16D190>
+OnTop,		<cyfunction WhisperDialog.OnTop at 0x0AAADCE8>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-_WhisperDialog__OnCancelBlockFriend,		<cyfunction WhisperDialog.__OnCancelBlockFriend at 0x0D16D450>
+_WhisperDialog__OnCancelBlockFriend,		<cyfunction WhisperDialog.__OnCancelBlockFriend at 0x0AAADFA8>
 	arg0: self
 
 submodule._WhisperDialog__OnCancelBlockFriend
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-Minimize,		<cyfunction WhisperDialog.Minimize at 0x0D166EF8>
+Minimize,		<cyfunction WhisperDialog.Minimize at 0x0AAADA80>
 	arg0: self
 
 submodule.Minimize
@@ -222,7 +222,7 @@ __slots__,		('__add_friend_button', '__block_button', '__block_friend_name_board
 submodule.__slots__
 
 
-SendWhisper,		<cyfunction WhisperDialog.SendWhisper at 0x0D16D138>
+SendWhisper,		<cyfunction WhisperDialog.SendWhisper at 0x0AAADC90>
 	arg0: self
 
 submodule.SendWhisper
@@ -232,12 +232,12 @@ _WhisperDialog__block_button,		<member '_WhisperDialog__block_button' of 'Whispe
 submodule._WhisperDialog__block_button
 
 
-Close,		<cyfunction WhisperDialog.Close at 0x0D166F50>
+Close,		<cyfunction WhisperDialog.Close at 0x0AAADAD8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with WhisperDialog instance as first argument (got nothing instead)
-OnScroll,		<cyfunction WhisperDialog.OnScroll at 0x0D16D0E0>
+OnScroll,		<cyfunction WhisperDialog.OnScroll at 0x0AAADC38>
 	arg0: self
 
 submodule.OnScroll
@@ -247,7 +247,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OpenWithoutTarget,		<cyfunction WhisperDialog.OpenWithoutTarget at 0x0D166E48>
+OpenWithoutTarget,		<cyfunction WhisperDialog.OpenWithoutTarget at 0x0AAAD9D0>
 	arg0: self
 	arg1: event
 

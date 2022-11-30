@@ -52,7 +52,7 @@
  'eventFunc': {'mouse_click': None, 'mouse_down': None, 'mouse_over_in': None, 'mouse_over_out': None},
  'fadeStartTime': 0,
  'floorImage': None,
- 'hWnd': 760758400,
+ 'hWnd': 747286192,
  'objectiveImage': None,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,

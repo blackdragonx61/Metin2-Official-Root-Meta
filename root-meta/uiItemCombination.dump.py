@@ -32,73 +32,73 @@ __module__,		uiItemCombination
 submodule.__module__
 
 
-SelectItemSlot,		<cyfunction ItemCombinationWindow.SelectItemSlot at 0x0D1A8F50>
+SelectItemSlot,		<cyfunction ItemCombinationWindow.SelectItemSlot at 0x0AB04C90>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction ItemCombinationWindow.OverInItem at 0x0D1A8AD8>
+OverInItem,		<cyfunction ItemCombinationWindow.OverInItem at 0x0AB04818>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-OnDialogAcceptEvent,		<cyfunction ItemCombinationWindow.OnDialogAcceptEvent at 0x0D1A8818>
+OnDialogAcceptEvent,		<cyfunction ItemCombinationWindow.OnDialogAcceptEvent at 0x0AB04558>
 	arg0: self
 
 submodule.OnDialogAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-AttachToCombinationSlot,		<cyfunction ItemCombinationWindow.AttachToCombinationSlot at 0x0D1A8C38>
+AttachToCombinationSlot,		<cyfunction ItemCombinationWindow.AttachToCombinationSlot at 0x0AB04978>
 	arg0: self
 	arg1: slotType
 	arg2: slotIndex
 
 submodule.AttachToCombinationSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-Accept,		<cyfunction ItemCombinationWindow.Accept at 0x0D1A87C0>
+Accept,		<cyfunction ItemCombinationWindow.Accept at 0x0AB04500>
 	arg0: self
 
 submodule.Accept
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction ItemCombinationWindow.Destroy at 0x0D1AD138>
+Destroy,		<cyfunction ItemCombinationWindow.Destroy at 0x0AB04E48>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-GetItemSubTypeByCombSlot,		<cyfunction ItemCombinationWindow.GetItemSubTypeByCombSlot at 0x0D1A8EA0>
+GetItemSubTypeByCombSlot,		<cyfunction ItemCombinationWindow.GetItemSubTypeByCombSlot at 0x0AB04BE0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.GetItemSubTypeByCombSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction ItemCombinationWindow.__init__ at 0x0D1A85B0>
+__init__,		<cyfunction ItemCombinationWindow.__init__ at 0x0AB042F0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ItemCombinationWindow.OnUpdate at 0x0D1AD088>
+OnUpdate,		<cyfunction ItemCombinationWindow.OnUpdate at 0x0AB04D98>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-OnDialogCloseEvent,		<cyfunction ItemCombinationWindow.OnDialogCloseEvent at 0x0D1A8870>
+OnDialogCloseEvent,		<cyfunction ItemCombinationWindow.OnDialogCloseEvent at 0x0AB045B0>
 	arg0: self
 
 submodule.OnDialogCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-RemoveItemSlot,		<cyfunction ItemCombinationWindow.RemoveItemSlot at 0x0D1A8FA8>
+RemoveItemSlot,		<cyfunction ItemCombinationWindow.RemoveItemSlot at 0x0AB04CE8>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.RemoveItemSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-ClearSlot,		<cyfunction ItemCombinationWindow.ClearSlot at 0x0D1AD030>
+ClearSlot,		<cyfunction ItemCombinationWindow.ClearSlot at 0x0AB04D40>
 	arg0: self
 
 submodule.ClearSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-IsFilledAllSlots,		<cyfunction ItemCombinationWindow.IsFilledAllSlots at 0x0D1A8CE8>
+IsFilledAllSlots,		<cyfunction ItemCombinationWindow.IsFilledAllSlots at 0x0AB04A28>
 	arg0: self
 
 submodule.IsFilledAllSlots
@@ -108,73 +108,73 @@ __doc__,		None
 submodule.__doc__
 
 
-_ItemCombinationWindow__ShowResultToolTip,		<cyfunction ItemCombinationWindow.__ShowResultToolTip at 0x0D1A8A80>
+_ItemCombinationWindow__ShowResultToolTip,		<cyfunction ItemCombinationWindow.__ShowResultToolTip at 0x0AB047C0>
 	arg0: self
 
 submodule._ItemCombinationWindow__ShowResultToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction ItemCombinationWindow.SelectEmptySlot at 0x0D1A8BE0>
+SelectEmptySlot,		<cyfunction ItemCombinationWindow.SelectEmptySlot at 0x0AB04920>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-CantAttachToCombSlot,		<cyfunction ItemCombinationWindow.CantAttachToCombSlot at 0x0D1A8D40>
+CantAttachToCombSlot,		<cyfunction ItemCombinationWindow.CantAttachToCombSlot at 0x0AB04A80>
 	arg0: self
 	arg1: slotIndex
 
 submodule.CantAttachToCombSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-ChangeBackgroundImage,		<cyfunction ItemCombinationWindow.ChangeBackgroundImage at 0x0D1A8C90>
+ChangeBackgroundImage,		<cyfunction ItemCombinationWindow.ChangeBackgroundImage at 0x0AB049D0>
 	arg0: self
 
 submodule.ChangeBackgroundImage
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-_ItemCombinationWindow__LoadWindow,		<cyfunction ItemCombinationWindow.__LoadWindow at 0x0D1A8660>
+_ItemCombinationWindow__LoadWindow,		<cyfunction ItemCombinationWindow.__LoadWindow at 0x0AB043A0>
 	arg0: self
 
 submodule._ItemCombinationWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-_ItemCombinationWindow__ShowToolTip,		<cyfunction ItemCombinationWindow.__ShowToolTip at 0x0D1A8A28>
+_ItemCombinationWindow__ShowToolTip,		<cyfunction ItemCombinationWindow.__ShowToolTip at 0x0AB04768>
 	arg0: self
 	arg1: slotIndex
 
 submodule._ItemCombinationWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction ItemCombinationWindow.__del__ at 0x0D1A8608>
+__del__,		<cyfunction ItemCombinationWindow.__del__ at 0x0AB04348>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction ItemCombinationWindow.UseItemSlot at 0x0D1A8EF8>
+UseItemSlot,		<cyfunction ItemCombinationWindow.UseItemSlot at 0x0AB04C38>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ItemCombinationWindow.OnPressEscapeKey at 0x0D1A8768>
+OnPressEscapeKey,		<cyfunction ItemCombinationWindow.OnPressEscapeKey at 0x0AB044A8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-SetInven,		<cyfunction ItemCombinationWindow.SetInven at 0x0D1A8920>
+SetInven,		<cyfunction ItemCombinationWindow.SetInven at 0x0AB04660>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction ItemCombinationWindow.OnTop at 0x0D1AD190>
+OnTop,		<cyfunction ItemCombinationWindow.OnTop at 0x0AB04EA0>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction ItemCombinationWindow.BindInterface at 0x0D1A88C8>
+BindInterface,		<cyfunction ItemCombinationWindow.BindInterface at 0x0AB04608>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-CanAttachSlot,		<cyfunction ItemCombinationWindow.CanAttachSlot at 0x0D1A8D98>
+CanAttachSlot,		<cyfunction ItemCombinationWindow.CanAttachSlot at 0x0AB04AD8>
 	arg0: self
 	arg1: selectedSlotPos
 	arg2: attachedSlotType
@@ -182,7 +182,7 @@ CanAttachSlot,		<cyfunction ItemCombinationWindow.CanAttachSlot at 0x0D1A8D98>
 
 submodule.CanAttachSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-AttachItemToSelectSlot,		<cyfunction ItemCombinationWindow.AttachItemToSelectSlot at 0x0D1A8B88>
+AttachItemToSelectSlot,		<cyfunction ItemCombinationWindow.AttachItemToSelectSlot at 0x0AB048C8>
 	arg0: self
 	arg1: selectSlot
 	arg2: slotType
@@ -190,13 +190,13 @@ AttachItemToSelectSlot,		<cyfunction ItemCombinationWindow.AttachItemToSelectSlo
 
 submodule.AttachItemToSelectSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction ItemCombinationWindow.SetItemToolTip at 0x0D1A8978>
+SetItemToolTip,		<cyfunction ItemCombinationWindow.SetItemToolTip at 0x0AB046B8>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-SetInvenWindow,		<cyfunction ItemCombinationWindow.SetInvenWindow at 0x0D1A89D0>
+SetInvenWindow,		<cyfunction ItemCombinationWindow.SetInvenWindow at 0x0AB04710>
 	arg0: self
 	arg1: wndInven
 
@@ -207,12 +207,12 @@ __qualname__,		ItemCombinationWindow
 submodule.__qualname__
 
 
-OverOutItem,		<cyfunction ItemCombinationWindow.OverOutItem at 0x0D1A8B30>
+OverOutItem,		<cyfunction ItemCombinationWindow.OverOutItem at 0x0AB04870>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-IsItemTypeAndSubTypeByCombSlot,		<cyfunction ItemCombinationWindow.IsItemTypeAndSubTypeByCombSlot at 0x0D1A8E48>
+IsItemTypeAndSubTypeByCombSlot,		<cyfunction ItemCombinationWindow.IsItemTypeAndSubTypeByCombSlot at 0x0AB04B88>
 	arg0: self
 	arg1: slotIndex
 	arg2: type
@@ -221,22 +221,22 @@ IsItemTypeAndSubTypeByCombSlot,		<cyfunction ItemCombinationWindow.IsItemTypeAnd
 
 submodule.IsItemTypeAndSubTypeByCombSlot
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-Close,		<cyfunction ItemCombinationWindow.Close at 0x0D1A8710>
+Close,		<cyfunction ItemCombinationWindow.Close at 0x0AB04450>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-SetResultItem,		<cyfunction ItemCombinationWindow.SetResultItem at 0x0D1A8DF0>
+SetResultItem,		<cyfunction ItemCombinationWindow.SetResultItem at 0x0AB04B30>
 	arg0: self
 
 submodule.SetResultItem
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-Open,		<cyfunction ItemCombinationWindow.Open at 0x0D1A86B8>
+Open,		<cyfunction ItemCombinationWindow.Open at 0x0AB043F8>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with ItemCombinationWindow instance as first argument (got nothing instead)
-RefreshCantMouseEventSlot,		<cyfunction ItemCombinationWindow.RefreshCantMouseEventSlot at 0x0D1AD0E0>
+RefreshCantMouseEventSlot,		<cyfunction ItemCombinationWindow.RefreshCantMouseEventSlot at 0x0AB04DF0>
 	arg0: self
 
 submodule.RefreshCantMouseEventSlot

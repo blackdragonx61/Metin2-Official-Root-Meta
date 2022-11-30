@@ -26,17 +26,17 @@ __module__,		uiEquipmentDialog
 submodule.__module__
 
 
-Show,		<cyfunction CostumeWindow.Show at 0x0CD47450>
+Show,		<cyfunction CostumeWindow.Show at 0x0A69D190>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with CostumeWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction CostumeWindow.__del__ at 0x0CD473F8>
+__del__,		<cyfunction CostumeWindow.__del__ at 0x0A69D138>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CostumeWindow instance as first argument (got nothing instead)
-AdjustPosition,		<cyfunction CostumeWindow.AdjustPosition at 0x0CD475B0>
+AdjustPosition,		<cyfunction CostumeWindow.AdjustPosition at 0x0A69D2F0>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -53,7 +53,7 @@ __qualname__,		CostumeWindow
 submodule.__qualname__
 
 
-SetCostumeSlot,		<cyfunction CostumeWindow.SetCostumeSlot at 0x0CD47558>
+SetCostumeSlot,		<cyfunction CostumeWindow.SetCostumeSlot at 0x0A69D298>
 	arg0: self
 	arg1: slot_index
 	arg2: item_vnum
@@ -66,7 +66,7 @@ __slots__,		__wnd_equip__is_loaded__costume_slot
 submodule.__slots__
 
 
-Close,		<cyfunction CostumeWindow.Close at 0x0CD474A8>
+Close,		<cyfunction CostumeWindow.Close at 0x0A69D1E8>
 	arg0: self
 
 submodule.Close
@@ -76,13 +76,13 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction CostumeWindow.__init__ at 0x0CD473A0>
+__init__,		<cyfunction CostumeWindow.__init__ at 0x0A69D0E0>
 	arg0: self
 	arg1: wnd_equip
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CostumeWindow instance as first argument (got nothing instead)
-_CostumeWindow__LoadWindow,		<cyfunction CostumeWindow.__LoadWindow at 0x0CD47500>
+_CostumeWindow__LoadWindow,		<cyfunction CostumeWindow.__LoadWindow at 0x0A69D240>
 	arg0: self
 
 submodule._CostumeWindow__LoadWindow
@@ -95,7 +95,7 @@ __module__,		uiEquipmentDialog
 submodule.__module__
 
 
-SetEquipmentDialogSocket,		<cyfunction EquipmentDialog.SetEquipmentDialogSocket at 0x0CD47A80>
+SetEquipmentDialogSocket,		<cyfunction EquipmentDialog.SetEquipmentDialogSocket at 0x0A69D7C0>
 	arg0: self
 	arg1: window
 	arg2: slot_index
@@ -104,20 +104,20 @@ SetEquipmentDialogSocket,		<cyfunction EquipmentDialog.SetEquipmentDialogSocket 
 
 submodule.SetEquipmentDialogSocket
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-_EquipmentDialog__EquipmentPageTabSetting,		<cyfunction EquipmentDialog.__EquipmentPageTabSetting at 0x0CD47768>
+_EquipmentDialog__EquipmentPageTabSetting,		<cyfunction EquipmentDialog.__EquipmentPageTabSetting at 0x0A69D4A8>
 	arg0: self
 	arg1: page_index
 
 submodule._EquipmentDialog__EquipmentPageTabSetting
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-OverInItem,		<cyfunction EquipmentDialog.OverInItem at 0x0CD47BE0>
+OverInItem,		<cyfunction EquipmentDialog.OverInItem at 0x0A69D920>
 	arg0: self
 	arg1: slot_index
 	arg2: window
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-SetCloseEvent,		<cyfunction EquipmentDialog.SetCloseEvent at 0x0CD47B88>
+SetCloseEvent,		<cyfunction EquipmentDialog.SetCloseEvent at 0x0A69D8C8>
 	arg0: self
 	arg1: event
 
@@ -128,27 +128,27 @@ _EquipmentDialog__board__equipment_slot__unique_slot__vid__close_event__tooltip_
 submodule._EquipmentDialog__board__equipment_slot__unique_slot__vid__close_event__tooltip_item__item_data__tab_btn__tab_img__current_page__wnd_costume
 
 
-_EquipmentDialog__LoadDialog,		<cyfunction EquipmentDialog.__LoadDialog at 0x0CD47710>
+_EquipmentDialog__LoadDialog,		<cyfunction EquipmentDialog.__LoadDialog at 0x0A69D450>
 	arg0: self
 
 submodule._EquipmentDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-_EquipmentDialog__ShowCostumeInventory,		<cyfunction EquipmentDialog.__ShowCostumeInventory at 0x0CD47818>
+_EquipmentDialog__ShowCostumeInventory,		<cyfunction EquipmentDialog.__ShowCostumeInventory at 0x0A69D558>
 	arg0: self
 
 submodule._EquipmentDialog__ShowCostumeInventory
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction EquipmentDialog.OnPressEscapeKey at 0x0CD47C90>
+OnPressEscapeKey,		<cyfunction EquipmentDialog.OnPressEscapeKey at 0x0A69D9D0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction EquipmentDialog.Destroy at 0x0CD47978>
+Destroy,		<cyfunction EquipmentDialog.Destroy at 0x0A69D6B8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-SetEquipmentDialogItem,		<cyfunction EquipmentDialog.SetEquipmentDialogItem at 0x0CD47A28>
+SetEquipmentDialogItem,		<cyfunction EquipmentDialog.SetEquipmentDialogItem at 0x0A69D768>
 	arg0: self
 	arg1: window
 	arg2: slot_index
@@ -161,40 +161,40 @@ SetEquipmentDialogItem,		<cyfunction EquipmentDialog.SetEquipmentDialogItem at 0
 
 submodule.SetEquipmentDialogItem
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction EquipmentDialog.__init__ at 0x0CD47608>
+__init__,		<cyfunction EquipmentDialog.__init__ at 0x0A69D348>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-OnMoveWindow,		<cyfunction EquipmentDialog.OnMoveWindow at 0x0CD478C8>
+OnMoveWindow,		<cyfunction EquipmentDialog.OnMoveWindow at 0x0A69D608>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.OnMoveWindow
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction EquipmentDialog.SetItemToolTip at 0x0CD47B30>
+SetItemToolTip,		<cyfunction EquipmentDialog.SetItemToolTip at 0x0A69D870>
 	arg0: self
 	arg1: tooltip_item
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-_EquipmentDialog__Initialize,		<cyfunction EquipmentDialog.__Initialize at 0x0CD476B8>
+_EquipmentDialog__Initialize,		<cyfunction EquipmentDialog.__Initialize at 0x0A69D3F8>
 	arg0: self
 
 submodule._EquipmentDialog__Initialize
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-_EquipmentDialog__CreateCostumeWindow,		<cyfunction EquipmentDialog.__CreateCostumeWindow at 0x0CD47870>
+_EquipmentDialog__CreateCostumeWindow,		<cyfunction EquipmentDialog.__CreateCostumeWindow at 0x0A69D5B0>
 	arg0: self
 
 submodule._EquipmentDialog__CreateCostumeWindow
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-_EquipmentDialog__RefreshEquipment,		<cyfunction EquipmentDialog.__RefreshEquipment at 0x0CD479D0>
+_EquipmentDialog__RefreshEquipment,		<cyfunction EquipmentDialog.__RefreshEquipment at 0x0A69D710>
 	arg0: self
 
 submodule._EquipmentDialog__RefreshEquipment
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-SetEquipmentDialogAttr,		<cyfunction EquipmentDialog.SetEquipmentDialogAttr at 0x0CD47AD8>
+SetEquipmentDialogAttr,		<cyfunction EquipmentDialog.SetEquipmentDialogAttr at 0x0A69D818>
 	arg0: self
 	arg1: window
 	arg2: slot_index
@@ -209,7 +209,7 @@ __qualname__,		EquipmentDialog
 submodule.__qualname__
 
 
-__del__,		<cyfunction EquipmentDialog.__del__ at 0x0CD47660>
+__del__,		<cyfunction EquipmentDialog.__del__ at 0x0A69D3A0>
 	arg0: self
 
 submodule.__del__
@@ -219,17 +219,17 @@ __slots__,		__board__equipment_slot__unique_slot__vid__close_event__tooltip_item
 submodule.__slots__
 
 
-OverOutItem,		<cyfunction EquipmentDialog.OverOutItem at 0x0CD47C38>
+OverOutItem,		<cyfunction EquipmentDialog.OverOutItem at 0x0A69D978>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-Close,		<cyfunction EquipmentDialog.Close at 0x0CD47920>
+Close,		<cyfunction EquipmentDialog.Close at 0x0A69D660>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with EquipmentDialog instance as first argument (got nothing instead)
-Open,		<cyfunction EquipmentDialog.Open at 0x0CD477C0>
+Open,		<cyfunction EquipmentDialog.Open at 0x0A69D500>
 	arg0: self
 	arg1: vid
 

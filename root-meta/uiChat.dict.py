@@ -432,4 +432,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'uiChat'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'chatInputSetList', 'type': 'list', 'value': [<uiChat.ChatInputSet object at 0x1E3899F0>, <uiChat.ChatInputSet object at 0x1E67D310>]}]}
+         {'name': 'chatInputSetList', 'type': 'list', 'value': [<uiChat.ChatInputSet object at 0x1A5EFBD0>, <uiChat.ChatInputSet object at 0x1A955350>]}]}

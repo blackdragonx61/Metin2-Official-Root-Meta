@@ -28,82 +28,82 @@ __module__,		uiPartyMatch
 submodule.__module__
 
 
-Hide,		<cyfunction PartyMatch.Hide at 0x1E2973A0>
+Hide,		<cyfunction PartyMatch.Hide at 0x1A536298>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__BindEvent,		<cyfunction PartyMatch.__BindEvent at 0x1E297660>
+_PartyMatch__BindEvent,		<cyfunction PartyMatch.__BindEvent at 0x1A536558>
 	arg0: self
 
 submodule._PartyMatch__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__PartyMatchMsg,		<cyfunction PartyMatch.__PartyMatchMsg at 0x1E297BE0>
+_PartyMatch__PartyMatchMsg,		<cyfunction PartyMatch.__PartyMatchMsg at 0x1A536AD8>
 	arg0: self
 	arg1: data
 
 submodule._PartyMatch__PartyMatchMsg
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__SetEntreeLevel,		<cyfunction PartyMatch.__SetEntreeLevel at 0x1E297978>
+_PartyMatch__SetEntreeLevel,		<cyfunction PartyMatch.__SetEntreeLevel at 0x1A536870>
 	arg0: self
 	arg1: level
 
 submodule._PartyMatch__SetEntreeLevel
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-Destroy,		<cyfunction PartyMatch.Destroy at 0x1E297558>
+Destroy,		<cyfunction PartyMatch.Destroy at 0x1A536450>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-__init__,		<cyfunction PartyMatch.__init__ at 0x1E297298>
+__init__,		<cyfunction PartyMatch.__init__ at 0x1A536190>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PartyMatch.OnUpdate at 0x1E2978C8>
+OnUpdate,		<cyfunction PartyMatch.OnUpdate at 0x1A5367C0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__ClickDungeonButtonOver,		<cyfunction PartyMatch.__ClickDungeonButtonOver at 0x1E297710>
+_PartyMatch__ClickDungeonButtonOver,		<cyfunction PartyMatch.__ClickDungeonButtonOver at 0x1A536608>
 	arg0: self
 	arg1: map_index
 
 submodule._PartyMatch__ClickDungeonButtonOver
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__LoadWindow,		<cyfunction PartyMatch.__LoadWindow at 0x1E297500>
+_PartyMatch__LoadWindow,		<cyfunction PartyMatch.__LoadWindow at 0x1A5363F8>
 	arg0: self
 
 submodule._PartyMatch__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__SlotOverOutItem,		<cyfunction PartyMatch.__SlotOverOutItem at 0x1E297A80>
+_PartyMatch__SlotOverOutItem,		<cyfunction PartyMatch.__SlotOverOutItem at 0x1A536978>
 	arg0: self
 
 submodule._PartyMatch__SlotOverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__BindObject,		<cyfunction PartyMatch.__BindObject at 0x1E297608>
+_PartyMatch__BindObject,		<cyfunction PartyMatch.__BindObject at 0x1A536500>
 	arg0: self
 
 submodule._PartyMatch__BindObject
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__ClickDungeonButtonOverOut,		<cyfunction PartyMatch.__ClickDungeonButtonOverOut at 0x1E297768>
+_PartyMatch__ClickDungeonButtonOverOut,		<cyfunction PartyMatch.__ClickDungeonButtonOverOut at 0x1A536660>
 	arg0: self
 	arg1: map_index
 
 submodule._PartyMatch__ClickDungeonButtonOverOut
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__CreateDungeonNameButton,		<cyfunction PartyMatch.__CreateDungeonNameButton at 0x1E2976B8>
+_PartyMatch__CreateDungeonNameButton,		<cyfunction PartyMatch.__CreateDungeonNameButton at 0x1A5365B0>
 	arg0: self
 
 submodule._PartyMatch__CreateDungeonNameButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__DungeonSelectWindow,		<cyfunction PartyMatch.__DungeonSelectWindow at 0x1E297818>
+_PartyMatch__DungeonSelectWindow,		<cyfunction PartyMatch.__DungeonSelectWindow at 0x1A536710>
 	arg0: self
 	arg1: show
 
 submodule._PartyMatch__DungeonSelectWindow
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-PartyMatchResult,		<cyfunction PartyMatch.PartyMatchResult at 0x1E297AD8>
+PartyMatchResult,		<cyfunction PartyMatch.PartyMatchResult at 0x1A5369D0>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -115,73 +115,73 @@ __doc__,		None
 submodule.__doc__
 
 
-BindMiniMap,		<cyfunction PartyMatch.BindMiniMap at 0x1E297CE8>
+BindMiniMap,		<cyfunction PartyMatch.BindMiniMap at 0x1A536BE0>
 	arg0: self
 	arg1: minimap
 
 submodule.BindMiniMap
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__ClickDungeonSelect,		<cyfunction PartyMatch.__ClickDungeonSelect at 0x1E2977C0>
+_PartyMatch__ClickDungeonSelect,		<cyfunction PartyMatch.__ClickDungeonSelect at 0x1A5366B8>
 	arg0: self
 	arg1: map_index
 
 submodule._PartyMatch__ClickDungeonSelect
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-Off,		<cyfunction PartyMatch.Off at 0x1E297D40>
+Off,		<cyfunction PartyMatch.Off at 0x1A536C38>
 	arg0: self
 	arg1: enable
 
 submodule.Off
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__SetInfo,		<cyfunction PartyMatch.__SetInfo at 0x1E297B30>
+_PartyMatch__SetInfo,		<cyfunction PartyMatch.__SetInfo at 0x1A536A28>
 	arg0: self
 	arg1: map_index
 
 submodule._PartyMatch__SetInfo
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-__del__,		<cyfunction PartyMatch.__del__ at 0x1E2972F0>
+__del__,		<cyfunction PartyMatch.__del__ at 0x1A5361E8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PartyMatch.OnPressEscapeKey at 0x1E297450>
+OnPressEscapeKey,		<cyfunction PartyMatch.OnPressEscapeKey at 0x1A536348>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__ClickMatchingButton,		<cyfunction PartyMatch.__ClickMatchingButton at 0x1E297920>
+_PartyMatch__ClickMatchingButton,		<cyfunction PartyMatch.__ClickMatchingButton at 0x1A536818>
 	arg0: self
 
 submodule._PartyMatch__ClickMatchingButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__Init,		<cyfunction PartyMatch.__Init at 0x1E297C90>
+_PartyMatch__Init,		<cyfunction PartyMatch.__Init at 0x1A536B88>
 	arg0: self
 
 submodule._PartyMatch__Init
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__ClickDungeonSelectButton,		<cyfunction PartyMatch.__ClickDungeonSelectButton at 0x1E297870>
+_PartyMatch__ClickDungeonSelectButton,		<cyfunction PartyMatch.__ClickDungeonSelectButton at 0x1A536768>
 	arg0: self
 
 submodule._PartyMatch__ClickDungeonSelectButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction PartyMatch.SetItemToolTip at 0x1E2975B0>
+SetItemToolTip,		<cyfunction PartyMatch.SetItemToolTip at 0x1A5364A8>
 	arg0: self
 	arg1: tooltipItem
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-Show,		<cyfunction PartyMatch.Show at 0x1E297348>
+Show,		<cyfunction PartyMatch.Show at 0x1A536240>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__LoadScript,		<cyfunction PartyMatch.__LoadScript at 0x1E2974A8>
+_PartyMatch__LoadScript,		<cyfunction PartyMatch.__LoadScript at 0x1A5363A0>
 	arg0: self
 	arg1: fileName
 
 submodule._PartyMatch__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__SetInfoMember,		<cyfunction PartyMatch.__SetInfoMember at 0x1E297B88>
+_PartyMatch__SetInfoMember,		<cyfunction PartyMatch.__SetInfoMember at 0x1A536A80>
 	arg0: self
 	arg1: map_index
 
@@ -192,7 +192,7 @@ __qualname__,		PartyMatch
 submodule.__qualname__
 
 
-_PartyMatch__SetSlotRequiredItem,		<cyfunction PartyMatch.__SetSlotRequiredItem at 0x1E2979D0>
+_PartyMatch__SetSlotRequiredItem,		<cyfunction PartyMatch.__SetSlotRequiredItem at 0x1A5368C8>
 	arg0: self
 	arg1: slotIndex
 	arg2: item_vnum
@@ -200,18 +200,18 @@ _PartyMatch__SetSlotRequiredItem,		<cyfunction PartyMatch.__SetSlotRequiredItem 
 
 submodule._PartyMatch__SetSlotRequiredItem
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-Close,		<cyfunction PartyMatch.Close at 0x1E2973F8>
+Close,		<cyfunction PartyMatch.Close at 0x1A5362F0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__PartyMatchMinimapButton,		<cyfunction PartyMatch.__PartyMatchMinimapButton at 0x1E297C38>
+_PartyMatch__PartyMatchMinimapButton,		<cyfunction PartyMatch.__PartyMatchMinimapButton at 0x1A536B30>
 	arg0: self
 	arg1: data
 
 submodule._PartyMatch__PartyMatchMinimapButton
 Skipped: unbound method cython_function_or_method object must be called with PartyMatch instance as first argument (got nothing instead)
-_PartyMatch__SlotOverInItem,		<cyfunction PartyMatch.__SlotOverInItem at 0x1E297A28>
+_PartyMatch__SlotOverInItem,		<cyfunction PartyMatch.__SlotOverInItem at 0x1A536920>
 	arg0: self
 	arg1: slotIndex
 

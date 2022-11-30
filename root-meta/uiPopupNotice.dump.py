@@ -22,7 +22,7 @@ __module__,		uiPopupNotice
 submodule.__module__
 
 
-PopupNoticeProcess,		<cyfunction PopupNoticeWindow.PopupNoticeProcess at 0x2DEA3818>
+PopupNoticeProcess,		<cyfunction PopupNoticeWindow.PopupNoticeProcess at 0x2CEBFAD8>
 	arg0: self
 	arg1: type
 	arg2: is_checked
@@ -30,7 +30,7 @@ PopupNoticeProcess,		<cyfunction PopupNoticeWindow.PopupNoticeProcess at 0x2DEA3
 
 submodule.PopupNoticeProcess
 Skipped: unbound method cython_function_or_method object must be called with PopupNoticeWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction PopupNoticeWindow.__del__ at 0x2DEA3660>
+__del__,		<cyfunction PopupNoticeWindow.__del__ at 0x2CEBF920>
 	arg0: self
 
 submodule.__del__
@@ -40,14 +40,14 @@ _PopupNoticeWindow__check_image,		<member '_PopupNoticeWindow__check_image' of '
 submodule._PopupNoticeWindow__check_image
 
 
-SetPopupNoticeEventFlag,		<cyfunction PopupNoticeWindow.SetPopupNoticeEventFlag at 0x2DEA37C0>
+SetPopupNoticeEventFlag,		<cyfunction PopupNoticeWindow.SetPopupNoticeEventFlag at 0x2CEBFA80>
 	arg0: self
 	arg1: flag_value
 	arg2: is_enter
 
 submodule.SetPopupNoticeEventFlag
 Skipped: unbound method cython_function_or_method object must be called with PopupNoticeWindow instance as first argument (got nothing instead)
-Refresh,		<cyfunction PopupNoticeWindow.Refresh at 0x2DEA3A28>
+Refresh,		<cyfunction PopupNoticeWindow.Refresh at 0x2CEBFCE8>
 	arg0: self
 
 submodule.Refresh
@@ -67,7 +67,7 @@ _PopupNoticeWindow__interface,		<member '_PopupNoticeWindow__interface' of 'Popu
 submodule._PopupNoticeWindow__interface
 
 
-OnPressEscapeKey,		<cyfunction PopupNoticeWindow.OnPressEscapeKey at 0x2DEA3B30>
+OnPressEscapeKey,		<cyfunction PopupNoticeWindow.OnPressEscapeKey at 0x2CEBFDF0>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -77,22 +77,22 @@ _PopupNoticeWindow__popup_event_flag_value,		<member '_PopupNoticeWindow__popup_
 submodule._PopupNoticeWindow__popup_event_flag_value
 
 
-Destroy,		<cyfunction PopupNoticeWindow.Destroy at 0x2DEA36B8>
+Destroy,		<cyfunction PopupNoticeWindow.Destroy at 0x2CEBF978>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PopupNoticeWindow instance as first argument (got nothing instead)
-GetPopupNoticeEventFlagValue,		<cyfunction PopupNoticeWindow.GetPopupNoticeEventFlagValue at 0x2DEA3870>
+GetPopupNoticeEventFlagValue,		<cyfunction PopupNoticeWindow.GetPopupNoticeEventFlagValue at 0x2CEBFB30>
 	arg0: self
 
 submodule.GetPopupNoticeEventFlagValue
 Skipped: unbound method cython_function_or_method object must be called with PopupNoticeWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction PopupNoticeWindow.__init__ at 0x2DEA34A8>
+__init__,		<cyfunction PopupNoticeWindow.__init__ at 0x2CEBF768>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PopupNoticeWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction PopupNoticeWindow.BindInterface at 0x2DEA35B0>
+BindInterface,		<cyfunction PopupNoticeWindow.BindInterface at 0x2CEBF870>
 	arg0: self
 	arg1: interface
 
@@ -113,13 +113,13 @@ _PopupNoticeWindow__prev_pos,		<member '_PopupNoticeWindow__prev_pos' of 'PopupN
 submodule._PopupNoticeWindow__prev_pos
 
 
-SetTitle,		<cyfunction PopupNoticeWindow.SetTitle at 0x2DEA39D0>
+SetTitle,		<cyfunction PopupNoticeWindow.SetTitle at 0x2CEBFC90>
 	arg0: self
 	arg1: title
 
 submodule.SetTitle
 Skipped: unbound method cython_function_or_method object must be called with PopupNoticeWindow instance as first argument (got nothing instead)
-BindGameButtonWindow,		<cyfunction PopupNoticeWindow.BindGameButtonWindow at 0x2DEA3608>
+BindGameButtonWindow,		<cyfunction PopupNoticeWindow.BindGameButtonWindow at 0x2CEBF8C8>
 	arg0: self
 	arg1: game_button_window
 
@@ -130,7 +130,7 @@ _PopupNoticeWindow__title_bar,		<member '_PopupNoticeWindow__title_bar' of 'Popu
 submodule._PopupNoticeWindow__title_bar
 
 
-_PopupNoticeWindow__OnClickCheckBox,		<cyfunction PopupNoticeWindow.__OnClickCheckBox at 0x2DEA3A80>
+_PopupNoticeWindow__OnClickCheckBox,		<cyfunction PopupNoticeWindow.__OnClickCheckBox at 0x2CEBFD40>
 	arg0: self
 	arg1: event_type
 
@@ -141,7 +141,7 @@ _PopupNoticeWindow__game_button_window,		<member '_PopupNoticeWindow__game_butto
 submodule._PopupNoticeWindow__game_button_window
 
 
-OnUpdate,		<cyfunction PopupNoticeWindow.OnUpdate at 0x2DEA3B88>
+OnUpdate,		<cyfunction PopupNoticeWindow.OnUpdate at 0x2CEBFE48>
 	arg0: self
 
 submodule.OnUpdate
@@ -151,7 +151,7 @@ __slots__,		('__web_box', '__prev_pos', '__popup_event_flag_value', '__is_not_sh
 submodule.__slots__
 
 
-_PopupNoticeWindow__OnCloseButtonClick,		<cyfunction PopupNoticeWindow.__OnCloseButtonClick at 0x2DEA3AD8>
+_PopupNoticeWindow__OnCloseButtonClick,		<cyfunction PopupNoticeWindow.__OnCloseButtonClick at 0x2CEBFD98>
 	arg0: self
 
 submodule._PopupNoticeWindow__OnCloseButtonClick
@@ -161,7 +161,7 @@ _PopupNoticeWindow__checkbox,		<member '_PopupNoticeWindow__checkbox' of 'PopupN
 submodule._PopupNoticeWindow__checkbox
 
 
-OnClickPopupNoticeUIOpen,		<cyfunction PopupNoticeWindow.OnClickPopupNoticeUIOpen at 0x2DEA38C8>
+OnClickPopupNoticeUIOpen,		<cyfunction PopupNoticeWindow.OnClickPopupNoticeUIOpen at 0x2CEBFB88>
 	arg0: self
 
 submodule.OnClickPopupNoticeUIOpen
@@ -171,17 +171,17 @@ _PopupNoticeWindow__is_not_show_checked,		<member '_PopupNoticeWindow__is_not_sh
 submodule._PopupNoticeWindow__is_not_show_checked
 
 
-Close,		<cyfunction PopupNoticeWindow.Close at 0x2DEA3978>
+Close,		<cyfunction PopupNoticeWindow.Close at 0x2CEBFC38>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PopupNoticeWindow instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction PopupNoticeWindow.LoadWindow at 0x2DEA3710>
+LoadWindow,		<cyfunction PopupNoticeWindow.LoadWindow at 0x2CEBF9D0>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PopupNoticeWindow instance as first argument (got nothing instead)
-Open,		<cyfunction PopupNoticeWindow.Open at 0x2DEA3920>
+Open,		<cyfunction PopupNoticeWindow.Open at 0x2CEBFBE0>
 	arg0: self
 	arg1: url
 	arg2: is_checked
@@ -193,7 +193,7 @@ __doc__,		None
 submodule.__doc__
 
 
-InitWebPage,		<cyfunction PopupNoticeWindow.InitWebPage at 0x2DEA3768>
+InitWebPage,		<cyfunction PopupNoticeWindow.InitWebPage at 0x2CEBFA28>
 	arg0: self
 
 submodule.InitWebPage
