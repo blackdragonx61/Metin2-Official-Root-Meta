@@ -35,6 +35,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
                      {'args': ['self', 'scrollSlotPos', 'targetSlotPos'], 'defaults': [], 'name': 'DetachMetinFromItem'},
                      {'args': ['self', 'event_type', 'idx'], 'defaults': [], 'name': 'EventProgress'},
+                     {'args': ['self', 'vnum'], 'defaults': [], 'name': 'GetConfirmQuestion'},
                      {'args': ['self'], 'defaults': [], 'name': 'GetInventoryPageIndex'},
                      {'args': ['self'], 'defaults': [], 'name': 'Hide'},
                      {'args': ['self', 'slot'], 'defaults': [], 'name': 'HighlightSlot'},
@@ -145,9 +146,4 @@
                     {'name': 'wndCostume', 'type': 'NoneType', 'value': None}]}],
  'func': [],
  'import': ['chatm2g', 'app', 'uiPrivateShopBuilder', 'uiPickMoney', 'm2netm2g', 'playerm2g2', 'uiRefine', 'constInfo', 'grp', 'uiToolTip', 'uiAttachMetin', 'uiPickETC', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', 'snd', '__builtin__', 'ime', 'wndMgr', 'uiPetInfo', 'item', 'ui'],
- 'var': [{'name': 'ITEM_FLAG_APPLICABLE', 'type': 'int', 'value': 16384},
-         {'name': 'ITEM_MALL_BUTTON_ENABLE', 'type': 'bool', 'value': True},
-         {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'uiInventory'},
-         {'name': '__package__', 'type': 'NoneType', 'value': None},
-         {'name': '__test__', 'type': 'dict', 'value': {}}]}
+ 'var': [{'name': 'ITEM_FLAG_APPLICABLE', 'type': 'int', 'value': 16384}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiInventory'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

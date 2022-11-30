@@ -79,7 +79,7 @@
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiMiniGameFishEvent'}, {'name': '__qualname__', 'type': 'str', 'value': 'MiniGameFish'}]}],
  'func': [{'args': ['self', 'fileName'], 'defaults': [], 'name': 'LoadScript'}],
- 'import': ['app', 'm2netm2g', 'playerm2g2', 'event', 'constInfo', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', '__builtin__', 'grpImage', 'wndMgr', 'grp', 'item', 'ui'],
+ 'import': ['chatm2g', 'app', 'm2netm2g', 'playerm2g2', 'event', 'constInfo', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', '__builtin__', 'grpImage', 'wndMgr', 'grp', 'item', 'ui'],
  'var': [{'name': 'DEFAULT_DESC_Y', 'type': 'int', 'value': 7},
          {'name': 'FISH_EVENT_TYPE_MAX', 'type': 'int', 'value': 3},
          {'name': 'FISH_WAITING_PAGE_BOX_VISIBLE_LINE_COUNT', 'type': 'int', 'value': 8},

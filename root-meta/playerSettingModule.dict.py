@@ -58,7 +58,6 @@
          {'name': 'JOB_SURA', 'type': 'int', 'value': 2},
          {'name': 'JOB_WARRIOR', 'type': 'int', 'value': 0},
          {'name': 'JOB_WOLFMAN', 'type': 'int', 'value': 4},
-         {'name': 'NEW_678TH_SKILL_ENABLE', 'type': 'int', 'value': 1},
          {'name': 'PASSIVE_GUILD_SKILL_INDEX_LIST', 'type': 'tuple', 'value': (151,)},
          {'name': 'RACE_ASSASSIN_M', 'type': 'int', 'value': 5},
          {'name': 'RACE_ASSASSIN_W', 'type': 'int', 'value': 1},

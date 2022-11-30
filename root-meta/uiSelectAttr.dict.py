@@ -2,7 +2,7 @@
             'func': [{'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self', 'attrSlot'], 'defaults': [], 'name': 'GetAttributeStringList'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnUpdate'},
-                     {'args': ['self', 'window_type', 'slotIdx'], 'defaults': [], 'name': 'Open'},
+                     {'args': ['self', 'vid', 'window_type', 'slotIdx'], 'defaults': [], 'name': 'Open'},
                      {'args': ['self'], 'defaults': [], 'name': 'OverInItem'},
                      {'args': ['self'], 'defaults': [], 'name': 'OverOutItem'},
                      {'args': ['self', 'idx'], 'defaults': [], 'name': 'SelectButton'},

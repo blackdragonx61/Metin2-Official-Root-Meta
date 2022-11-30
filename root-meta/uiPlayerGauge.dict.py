@@ -9,5 +9,5 @@
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiPlayerGauge'}, {'name': '__qualname__', 'type': 'str', 'value': 'PlayerGauge'}]}],
  'func': [],
- 'import': ['textTail', '__builtin__', 'chr', 'playerm2g2', 'ui'],
+ 'import': ['textTail', '__builtin__', 'dbg', 'chr', 'playerm2g2', 'ui', 'math'],
  'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiPlayerGauge'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

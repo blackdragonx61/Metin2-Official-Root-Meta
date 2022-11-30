@@ -4,6 +4,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'EnablePKTitle'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetPosition'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'HideAllTextTail'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'Initialize'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsChat'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'Pick'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterInfoTail'},

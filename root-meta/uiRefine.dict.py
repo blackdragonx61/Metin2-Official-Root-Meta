@@ -27,7 +27,6 @@
                      {'args': ['self'], 'defaults': [], 'name': 'CancelRefine'},
                      {'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
-                     {'args': ['self'], 'defaults': [], 'name': 'IsShow'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},
                      {'args': ['self', 'targetItemPos', 'nextGradeItemVnum', 'cost', 'prob', 'type'], 'defaults': [], 'name': 'Open'},
                      {'args': ['self'], 'defaults': [], 'name': 'OpenQuestionDialog'},

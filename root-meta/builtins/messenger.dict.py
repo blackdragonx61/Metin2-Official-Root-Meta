@@ -1,5 +1,6 @@
 {'class': [],
  'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'Destroy'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetFriendNames'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsBlockFriendByName'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsFriendByName'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RefreshGuildMember'},

@@ -37,7 +37,6 @@
                      {'args': ['self'], 'defaults': [], 'name': '__BuildKeyInfoText'},
                      {'args': ['self'], 'defaults': [], 'name': '__BuildUsableKeyInfo'},
                      {'args': ['self'], 'defaults': [], 'name': '__LoadWindow'},
-                     {'args': ['self'], 'defaults': [], 'name': '__PressTabKey'},
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self', 'game', 'interface'], 'defaults': [], 'name': '__init__'}],
             'import': [],

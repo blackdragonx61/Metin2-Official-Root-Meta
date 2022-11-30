@@ -1,4 +1,4 @@
-key: cameraPitch, val: 27.0000004768
+key: cameraPitch, val: 7.58017444611
 key: REFINE_FAIL_DEL_ITEM, val: 1
 key: REFINE_FAIL_GRADE_DOWN, val: 0
 key: chatm2g, val: <module 'chatm2g' (built-in)>
@@ -16,7 +16,7 @@ key: constInfo, val: <module 'constInfo' (built-in)>
 key: grp, val: <module 'grp' (built-in)>
 key: uiPhaseCurtain, val: <module 'uiPhaseCurtain' (built-in)>
 key: interfaceModule, val: <module 'interfaceModule' (built-in)>
-key: cameraHeight, val: 100.0
+key: cameraHeight, val: 16477.8223038
 key: chr, val: <module 'chr' (built-in)>
 key: __package__, val: None
 key: systemSetting, val: <module 'systemSetting' (built-in)>
@@ -47,27 +47,27 @@ key: uiAffectShower, val: <module 'uiAffectShower' (built-in)>
 key: REFINE_FAIL_KEEP_GRADE, val: 2
 key: GameWindow, val: <class 'game.GameWindow'>
 key: guild, val: <module 'guild' (built-in)>
-key: cameraDistance, val: 1549.99995232
+key: cameraDistance, val: 2492.19107628
 key: textTail, val: <module 'textTail' (built-in)>
 key: debugInfo, val: <module 'debugInfo' (built-in)>
 key: uiCharacter, val: <module 'uiCharacter' (built-in)>
 key: item, val: <module 'item' (built-in)>
 key: uiPlayerGauge, val: <module 'uiPlayerGauge' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
-key: cameraRotation, val: 0.0
+key: cameraRotation, val: 147.071552277
 key: stringCommander, val: <module 'stringCommander' (built-in)>
-key: os, val: <module 'os' from 'E:\ONGAME\PA\lib\os.pyc'>
+key: os, val: <module 'os' from 'C:\m2\.HU\lib\os.pyc'>
 key: uiGuildBank, val: <module 'uiGuildBank' (built-in)>
 key: proxy, val: <built-in function proxy>
 
 
 class GameWindow:
-_GameWindow__EnableTestServerFlag,		<cyfunction GameWindow.__EnableTestServerFlag at 0x082C5F50>
+_GameWindow__EnableTestServerFlag,		<cyfunction GameWindow.__EnableTestServerFlag at 0x2644B608>
 	arg0: self
 
 submodule._GameWindow__EnableTestServerFlag
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ExInvenItemUseMsg,		<cyfunction GameWindow.ExInvenItemUseMsg at 0x082C6A28>
+ExInvenItemUseMsg,		<cyfunction GameWindow.ExInvenItemUseMsg at 0x2644C1E8>
 	arg0: self
 	arg1: item_vnum
 	arg2: msg
@@ -75,34 +75,29 @@ ExInvenItemUseMsg,		<cyfunction GameWindow.ExInvenItemUseMsg at 0x082C6A28>
 
 submodule.ExInvenItemUseMsg
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StartAttack,		<cyfunction GameWindow.StartAttack at 0x082C3500>
-	arg0: self
-
-submodule.StartAttack
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ExitParty,		<cyfunction GameWindow.ExitParty at 0x082C2768>
+ExitParty,		<cyfunction GameWindow.ExitParty at 0x26447FA8>
 	arg0: self
 
 submodule.ExitParty
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_BettingGuildWar_SetObserverMode,		<cyfunction GameWindow.BINARY_BettingGuildWar_SetObserverMode at 0x082C4920>
+BINARY_BettingGuildWar_SetObserverMode,		<cyfunction GameWindow.BINARY_BettingGuildWar_SetObserverMode at 0x26449CE8>
 	arg0: self
 	arg1: isEnable
 	arg2: isButtonShow
 
 submodule.BINARY_BettingGuildWar_SetObserverMode
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ShowConsole,		<cyfunction GameWindow.ShowConsole at 0x082C32F0>
+ShowConsole,		<cyfunction GameWindow.ShowConsole at 0x26448B88>
 	arg0: self
 
 submodule.ShowConsole
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshAlignment,		<cyfunction GameWindow.RefreshAlignment at 0x082C0660>
+RefreshAlignment,		<cyfunction GameWindow.RefreshAlignment at 0x264458C8>
 	arg0: self
 
 submodule.RefreshAlignment
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_DragonSoulRefineWindow_RefineFail,		<cyfunction GameWindow.BINARY_DragonSoulRefineWindow_RefineFail at 0x082C44A8>
+BINARY_DragonSoulRefineWindow_RefineFail,		<cyfunction GameWindow.BINARY_DragonSoulRefineWindow_RefineFail at 0x26449768>
 	arg0: self
 	arg1: reason
 	arg2: inven_type
@@ -110,13 +105,7 @@ BINARY_DragonSoulRefineWindow_RefineFail,		<cyfunction GameWindow.BINARY_DragonS
 
 submodule.BINARY_DragonSoulRefineWindow_RefineFail
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressQuickSlot,		<cyfunction GameWindow.__PressQuickSlot at 0x082C0138>
-	arg0: self
-	arg1: localSlotIndex
-
-submodule._GameWindow__PressQuickSlot
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PetSkillUpgradeDlgOpen,		<cyfunction GameWindow.PetSkillUpgradeDlgOpen at 0x082C6818>
+PetSkillUpgradeDlgOpen,		<cyfunction GameWindow.PetSkillUpgradeDlgOpen at 0x2644BEA0>
 	arg0: self
 	arg1: slot
 	arg2: index
@@ -124,24 +113,24 @@ PetSkillUpgradeDlgOpen,		<cyfunction GameWindow.PetSkillUpgradeDlgOpen at 0x082C
 
 submodule.PetSkillUpgradeDlgOpen
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildBankInfo,		<cyfunction GameWindow.RefreshGuildBankInfo at 0x082C2D98>
+RefreshGuildBankInfo,		<cyfunction GameWindow.RefreshGuildBankInfo at 0x26448660>
 	arg0: self
 
 submodule.RefreshGuildBankInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CloseGemShop,		<cyfunction GameWindow.CloseGemShop at 0x082C1B30>
+CloseGemShop,		<cyfunction GameWindow.CloseGemShop at 0x26447240>
 	arg0: self
 
 submodule.CloseGemShop
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-DeactivateSlot,		<cyfunction GameWindow.DeactivateSlot at 0x082C6450>
+DeactivateSlot,		<cyfunction GameWindow.DeactivateSlot at 0x2644BAD8>
 	arg0: self
 	arg1: slotindex
 	arg2: type
 
 submodule.DeactivateSlot
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__SendDropItemPacket,		<cyfunction GameWindow.__SendDropItemPacket at 0x082C3BE0>
+_GameWindow__SendDropItemPacket,		<cyfunction GameWindow.__SendDropItemPacket at 0x26449030>
 	arg0: self
 	arg1: itemVNum
 	arg2: itemCount
@@ -150,72 +139,84 @@ _GameWindow__SendDropItemPacket,		<cyfunction GameWindow.__SendDropItemPacket at
 
 submodule._GameWindow__SendDropItemPacket
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MonsterCardIllustrationRefresh,		<cyfunction GameWindow.MonsterCardIllustrationRefresh at 0x082C70E0>
+_GameWindow__LateSummerEvent,		<cyfunction GameWindow.__LateSummerEvent at 0x2644A7C0>
+	arg0: self
+	arg1: enable
+
+submodule._GameWindow__LateSummerEvent
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+MonsterCardIllustrationRefresh,		<cyfunction GameWindow.MonsterCardIllustrationRefresh at 0x2644C870>
 	arg0: self
 
 submodule.MonsterCardIllustrationRefresh
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressTabKey,		<cyfunction GameWindow.__PressTabKey at 0x0A1C0CE8>
-	arg0: self
-
-submodule._GameWindow__PressTabKey
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ResetAffect,		<cyfunction GameWindow.ResetAffect at 0x082C1030>
+ResetAffect,		<cyfunction GameWindow.ResetAffect at 0x26446298>
 	arg0: self
 	arg1: affect
 
 submodule.ResetAffect
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnCloseAddFriendQuestionDialog,		<cyfunction GameWindow.OnCloseAddFriendQuestionDialog at 0x082C2920>
+OnCloseAddFriendQuestionDialog,		<cyfunction GameWindow.OnCloseAddFriendQuestionDialog at 0x26448190>
 	arg0: self
 
 submodule.OnCloseAddFriendQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshTargetBoardByVID,		<cyfunction GameWindow.RefreshTargetBoardByVID at 0x082C1450>
+RefreshTargetBoardByVID,		<cyfunction GameWindow.RefreshTargetBoardByVID at 0x26446A80>
 	arg0: self
 	arg1: vid
 
 submodule.RefreshTargetBoardByVID
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefineFailedMessage,		<cyfunction GameWindow.RefineFailedMessage at 0x082C55B0>
+RefineFailedMessage,		<cyfunction GameWindow.RefineFailedMessage at 0x2644ABE0>
 	arg0: self
 
 submodule.RefineFailedMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__LoverDivorce,		<cyfunction GameWindow.__LoverDivorce at 0x082C6190>
+_GameWindow__LoverDivorce,		<cyfunction GameWindow.__LoverDivorce at 0x2644B818>
 	arg0: self
 
 submodule._GameWindow__LoverDivorce
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__LogoutLover,		<cyfunction GameWindow.__LogoutLover at 0x082C6088>
+_GameWindow__MiniGameOkeyNormal,		<cyfunction GameWindow.__MiniGameOkeyNormal at 0x2644A3F8>
+	arg0: self
+	arg1: enable
+
+submodule._GameWindow__MiniGameOkeyNormal
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__LogoutLover,		<cyfunction GameWindow.__LogoutLover at 0x2644B710>
 	arg0: self
 
 submodule._GameWindow__LogoutLover
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MiniGameAttendanceSetData,		<cyfunction GameWindow.MiniGameAttendanceSetData at 0x082C6C90>
+MiniGameAttendanceSetData,		<cyfunction GameWindow.MiniGameAttendanceSetData at 0x2644C450>
 	arg0: self
 	arg1: type
 	arg2: value
 
 submodule.MiniGameAttendanceSetData
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_SetBigMessage,		<cyfunction GameWindow.BINARY_SetBigMessage at 0x082C4558>
+BINARY_Cube_Refresh,		<cyfunction GameWindow.BINARY_Cube_Refresh at 0x26449558>
+	arg0: self
+
+submodule.BINARY_Cube_Refresh
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+RefreshInGameEvent,		<cyfunction GameWindow.RefreshInGameEvent at 0x2644D348>
+	arg0: self
+
+submodule.RefreshInGameEvent
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+BINARY_SetBigMessage,		<cyfunction GameWindow.BINARY_SetBigMessage at 0x26449818>
 	arg0: self
 	arg1: message
 
 submodule.BINARY_SetBigMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-HideClock,		<cyfunction GameWindow.HideClock at 0x082C3190>
+HideClock,		<cyfunction GameWindow.HideClock at 0x26448A28>
 	arg0: self
 
 submodule.HideClock
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-EndAttack,		<cyfunction GameWindow.EndAttack at 0x082C3558>
-	arg0: self
-
-submodule.EndAttack
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnRecvWhisperSystemMessage,		<cyfunction GameWindow.OnRecvWhisperSystemMessage at 0x082C18C8>
+OnRecvWhisperSystemMessage,		<cyfunction GameWindow.OnRecvWhisperSystemMessage at 0x26446FA8>
 	arg0: self
 	arg1: mode
 	arg2: name
@@ -223,66 +224,69 @@ OnRecvWhisperSystemMessage,		<cyfunction GameWindow.OnRecvWhisperSystemMessage a
 
 submodule.OnRecvWhisperSystemMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ToggleDebugInfo,		<cyfunction GameWindow.ToggleDebugInfo at 0x082C03F8>
+ToggleDebugInfo,		<cyfunction GameWindow.ToggleDebugInfo at 0x26445660>
 	arg0: self
 
 submodule.ToggleDebugInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__BuildKeyDict,		<cyfunction GameWindow.__BuildKeyDict at 0x0A1C0C90>
-	arg0: self
-
-submodule._GameWindow__BuildKeyDict
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ItemCombinationDialog,		<cyfunction GameWindow.__ItemCombinationDialog at 0x082C6500>
+_GameWindow__ItemCombinationDialog,		<cyfunction GameWindow.__ItemCombinationDialog at 0x2644BB88>
 	arg0: self
 
 submodule._GameWindow__ItemCombinationDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshAcceWindow,		<cyfunction GameWindow.RefreshAcceWindow at 0x082C63F8>
+RefreshAcceWindow,		<cyfunction GameWindow.RefreshAcceWindow at 0x2644BA80>
 	arg0: self
 
 submodule.RefreshAcceWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ShowCostumeInventory,		<cyfunction GameWindow.ShowCostumeInventory at 0x082C6558>
+ShowCostumeInventory,		<cyfunction GameWindow.ShowCostumeInventory at 0x2644BBE0>
 	arg0: self
 
 submodule.ShowCostumeInventory
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RecvGuildVoteQuestion,		<cyfunction GameWindow.RecvGuildVoteQuestion at 0x082C2EF8>
+RecvGuildVoteQuestion,		<cyfunction GameWindow.RecvGuildVoteQuestion at 0x264487C0>
 	arg0: self
 	arg1: characterName
 	arg2: type
 
 submodule.RecvGuildVoteQuestion
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RecvWhisper,		<cyfunction GameWindow.RecvWhisper at 0x082C1978>
+RecvWhisper,		<cyfunction GameWindow.RecvWhisper at 0x26447088>
 	arg0: self
 	arg1: name
 
 submodule.RecvWhisper
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__AutoOn,		<cyfunction GameWindow.__AutoOn at 0x082C4CE8>
+_GameWindow__AutoOn,		<cyfunction GameWindow.__AutoOn at 0x2644A0E0>
 	arg0: self
 
 submodule._GameWindow__AutoOn
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenGuildDragonLairRanking,		<cyfunction GameWindow.OpenGuildDragonLairRanking at 0x082C6D40>
+OpenGuildDragonLairRanking,		<cyfunction GameWindow.OpenGuildDragonLairRanking at 0x2644C500>
 	arg0: self
 	arg1: type
 
 submodule.OpenGuildDragonLairRanking
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_DragonSoulRefineWindow_Open,		<cyfunction GameWindow.BINARY_DragonSoulRefineWindow_Open at 0x082C4450>
+BINARY_DragonSoulRefineWindow_Open,		<cyfunction GameWindow.BINARY_DragonSoulRefineWindow_Open at 0x26449710>
 	arg0: self
+	arg1: type
 
 submodule.BINARY_DragonSoulRefineWindow_Open
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshQuest,		<cyfunction GameWindow.RefreshQuest at 0x082C07C0>
+Show12ziJumpButton,		<cyfunction GameWindow.Show12ziJumpButton at 0x26446870>
 	arg0: self
+
+submodule.Show12ziJumpButton
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+RefreshQuest,		<cyfunction GameWindow.RefreshQuest at 0x26445A80>
+	arg0: self
+	arg1: quest_type
+	arg2: quest_index
 
 submodule.RefreshQuest
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-EndExchange,		<cyfunction GameWindow.EndExchange at 0x082C23A0>
+EndExchange,		<cyfunction GameWindow.EndExchange at 0x26447BE0>
 	arg0: self
 
 submodule.EndExchange
@@ -292,71 +296,65 @@ __qualname__,		GameWindow
 submodule.__qualname__
 
 
-OnFishingSuccess,		<cyfunction GameWindow.OnFishingSuccess at 0x082C1E48>
+OnFishingSuccess,		<cyfunction GameWindow.OnFishingSuccess at 0x26447608>
 	arg0: self
 	arg1: isFish
 	arg2: fishName
 
 submodule.OnFishingSuccess
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ClearGuildRedDragonLairRanking,		<cyfunction GameWindow.__ClearGuildRedDragonLairRanking at 0x082C4D98>
+_GameWindow__ClearGuildRedDragonLairRanking,		<cyfunction GameWindow.__ClearGuildRedDragonLairRanking at 0x2644A190>
 	arg0: self
 
 submodule._GameWindow__ClearGuildRedDragonLairRanking
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CommandCloseMall,		<cyfunction GameWindow.CommandCloseMall at 0x082C5500>
+CommandCloseMall,		<cyfunction GameWindow.CommandCloseMall at 0x2644AB30>
 	arg0: self
 
 submodule.CommandCloseMall
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__AutoOff,		<cyfunction GameWindow.__AutoOff at 0x082C4C90>
+_GameWindow__AutoOff,		<cyfunction GameWindow.__AutoOff at 0x2644A088>
 	arg0: self
 
 submodule._GameWindow__AutoOff
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MoveUp,		<cyfunction GameWindow.MoveUp at 0x082C35B0>
+OnShopError,		<cyfunction GameWindow.OnShopError at 0x26447558>
 	arg0: self
+	arg1: type
 
-submodule.MoveUp
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RumiIncreaseScore,		<cyfunction GameWindow.RumiIncreaseScore at 0x082C6B88>
-	arg0: self
-	arg1: score
-	arg2: total_score
-
-submodule.RumiIncreaseScore
+submodule.OnShopError
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
 __module__,		game
 
 submodule.__module__
 
 
-MiniGameAttendanceRequestRewardList,		<cyfunction GameWindow.MiniGameAttendanceRequestRewardList at 0x082C6CE8>
+MiniGameAttendanceRequestRewardList,		<cyfunction GameWindow.MiniGameAttendanceRequestRewardList at 0x2644C4A8>
 	arg0: self
 
 submodule.MiniGameAttendanceRequestRewardList
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PartyHealReady,		<cyfunction GameWindow.PartyHealReady at 0x082C5348>
+PartyHealReady,		<cyfunction GameWindow.PartyHealReady at 0x2644A978>
 	arg0: self
 
 submodule.PartyHealReady
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__DayMode_OnCompleteChangeToLight,		<cyfunction GameWindow.__DayMode_OnCompleteChangeToLight at 0x082C5CE8>
+_GameWindow__DayMode_OnCompleteChangeToLight,		<cyfunction GameWindow.__DayMode_OnCompleteChangeToLight at 0x2644B2F0>
 	arg0: self
 
 submodule._GameWindow__DayMode_OnCompleteChangeToLight
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshUserSituation,		<cyfunction GameWindow.RefreshUserSituation at 0x082C76B8>
+RefreshUserSituation,		<cyfunction GameWindow.RefreshUserSituation at 0x2644CE48>
 	arg0: self
 
 submodule.RefreshUserSituation
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnFishingWrongPlace,		<cyfunction GameWindow.OnFishingWrongPlace at 0x082C1EF8>
+OnFishingWrongPlace,		<cyfunction GameWindow.OnFishingWrongPlace at 0x264476B8>
 	arg0: self
 
 submodule.OnFishingWrongPlace
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-LinkPartyMember,		<cyfunction GameWindow.LinkPartyMember at 0x082C2660>
+LinkPartyMember,		<cyfunction GameWindow.LinkPartyMember at 0x26447EA0>
 	arg0: self
 	arg1: pid
 	arg2: vid
@@ -365,197 +363,211 @@ LinkPartyMember,		<cyfunction GameWindow.LinkPartyMember at 0x082C2660>
 
 submodule.LinkPartyMember
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__XMasBoom_Enable,		<cyfunction GameWindow.__XMasBoom_Enable at 0x082C5870>
+_GameWindow__XMasBoom_Enable,		<cyfunction GameWindow.__XMasBoom_Enable at 0x2644AEF8>
 	arg0: self
 	arg1: mode
 
 submodule._GameWindow__XMasBoom_Enable
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetBattleFieldLeftTime,		<cyfunction GameWindow.SetBattleFieldLeftTime at 0x082C7298>
+SetBattleFieldLeftTime,		<cyfunction GameWindow.SetBattleFieldLeftTime at 0x2644CA28>
 	arg0: self
 	arg1: leftOpen
 	arg2: leftEnd
 
 submodule.SetBattleFieldLeftTime
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnDenyAddFriend,		<cyfunction GameWindow.OnDenyAddFriend at 0x082C28C8>
+RefreshSkillCoolTime,		<cyfunction GameWindow.RefreshSkillCoolTime at 0x26445A28>
+	arg0: self
+
+submodule.RefreshSkillCoolTime
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+OnDenyAddFriend,		<cyfunction GameWindow.OnDenyAddFriend at 0x26448138>
 	arg0: self
 
 submodule.OnDenyAddFriend
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-UpdateDebugInfo,		<cyfunction GameWindow.UpdateDebugInfo at 0x082C3DF0>
+UpdateDebugInfo,		<cyfunction GameWindow.UpdateDebugInfo at 0x26449240>
 	arg0: self
 
 submodule.UpdateDebugInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MonsterCardIllustrationFail,		<cyfunction GameWindow.MonsterCardIllustrationFail at 0x082C7088>
+MonsterCardIllustrationFail,		<cyfunction GameWindow.MonsterCardIllustrationFail at 0x2644C818>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.MonsterCardIllustrationFail
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__BuildDebugInfo,		<cyfunction GameWindow.__BuildDebugInfo at 0x082C0450>
+_GameWindow__BuildDebugInfo,		<cyfunction GameWindow.__BuildDebugInfo at 0x264456B8>
 	arg0: self
 
 submodule._GameWindow__BuildDebugInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ServerCommand_Build,		<cyfunction GameWindow.__ServerCommand_Build at 0x082C4B88>
+BINARY_SetEnvironment,		<cyfunction GameWindow.BINARY_SetEnvironment at 0x2644B3A0>
 	arg0: self
+	arg1: idx
 
-submodule._GameWindow__ServerCommand_Build
+submodule.BINARY_SetEnvironment
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__AnswerPartyRequest,		<cyfunction GameWindow.__AnswerPartyRequest at 0x082C5EA0>
+_GameWindow__AnswerPartyRequest,		<cyfunction GameWindow.__AnswerPartyRequest at 0x2644B558>
 	arg0: self
 	arg1: answer
 
 submodule._GameWindow__AnswerPartyRequest
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnMouseRightButtonUp,		<cyfunction GameWindow.OnMouseRightButtonUp at 0x082C3C90>
+OnMouseRightButtonUp,		<cyfunction GameWindow.OnMouseRightButtonUp at 0x264490E0>
 	arg0: self
 
 submodule.OnMouseRightButtonUp
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnBlockMode,		<cyfunction GameWindow.OnBlockMode at 0x082C0C38>
+OnBlockMode,		<cyfunction GameWindow.OnBlockMode at 0x26445EA0>
 	arg0: self
 	arg1: mode
 
 submodule.OnBlockMode
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressHKey,		<cyfunction GameWindow.__PressHKey at 0x0A1C0E48>
-	arg0: self
-
-submodule._GameWindow__PressHKey
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_GuildWar_OnEnd,		<cyfunction GameWindow.BINARY_GuildWar_OnEnd at 0x082C48C8>
+BINARY_GuildWar_OnEnd,		<cyfunction GameWindow.BINARY_GuildWar_OnEnd at 0x26449C90>
 	arg0: self
 	arg1: guildSelf
 	arg2: guildOpp
 
 submodule.BINARY_GuildWar_OnEnd
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnCannotUseSkill,		<cyfunction GameWindow.OnCannotUseSkill at 0x082C20E0>
+OnCannotUseSkill,		<cyfunction GameWindow.OnCannotUseSkill at 0x26447920>
 	arg0: self
 	arg1: vid
 	arg2: type
 
 submodule.OnCannotUseSkill
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-GemShopSlotBuy,		<cyfunction GameWindow.GemShopSlotBuy at 0x082C1BE0>
+GemShopSlotBuy,		<cyfunction GameWindow.GemShopSlotBuy at 0x264472F0>
 	arg0: self
 	arg1: slotindex
 	arg2: enable
 
 submodule.GemShopSlotBuy
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ChangeCurrentSkill,		<cyfunction GameWindow.ChangeCurrentSkill at 0x082C13A0>
+ChangeCurrentSkill,		<cyfunction GameWindow.ChangeCurrentSkill at 0x264469D0>
 	arg0: self
 	arg1: skillSlotNumber
 
 submodule.ChangeCurrentSkill
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenKeyChangeWindow,		<cyfunction GameWindow.OpenKeyChangeWindow at 0x082C0190>
+OpenKeyChangeWindow,		<cyfunction GameWindow.OpenKeyChangeWindow at 0x26445450>
 	arg0: self
 
 submodule.OpenKeyChangeWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MiniGameFishAdd,		<cyfunction GameWindow.MiniGameFishAdd at 0x082C7450>
+MiniGameFishAdd,		<cyfunction GameWindow.MiniGameFishAdd at 0x2644CBE0>
 	arg0: self
 	arg1: pos
 	arg2: shape
 
 submodule.MiniGameFishAdd
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildWarInfoPage,		<cyfunction GameWindow.RefreshGuildWarInfoPage at 0x082C0B30>
+RefreshGuildWarInfoPage,		<cyfunction GameWindow.RefreshGuildWarInfoPage at 0x26445E48>
 	arg0: self
 
 submodule.RefreshGuildWarInfoPage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshPShopSearchDialog,		<cyfunction GameWindow.RefreshPShopSearchDialog at 0x082C62F0>
+RefreshPShopSearchDialog,		<cyfunction GameWindow.RefreshPShopSearchDialog at 0x2644B978>
 	arg0: self
 
 submodule.RefreshPShopSearchDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PRESERVE_DayMode_Update,		<cyfunction GameWindow.__PRESERVE_DayMode_Update at 0x082C5C38>
-	arg0: self
-	arg1: mode
-
-submodule._GameWindow__PRESERVE_DayMode_Update
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ChangePartyParameter,		<cyfunction GameWindow.ChangePartyParameter at 0x082C27C0>
+ChangePartyParameter,		<cyfunction GameWindow.ChangePartyParameter at 0x26448030>
 	arg0: self
 	arg1: distributionMode
 
 submodule.ChangePartyParameter
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-DeleteGuild,		<cyfunction GameWindow.DeleteGuild at 0x082C2BE0>
+DeleteGuild,		<cyfunction GameWindow.DeleteGuild at 0x264484A8>
 	arg0: self
 
 submodule.DeleteGuild
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnCannotMining,		<cyfunction GameWindow.OnCannotMining at 0x082C2088>
+OnCannotMining,		<cyfunction GameWindow.OnCannotMining at 0x264478C8>
 	arg0: self
 
 submodule.OnCannotMining
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__LoverNear,		<cyfunction GameWindow.__LoverNear at 0x082C60E0>
+_GameWindow__LoverNear,		<cyfunction GameWindow.__LoverNear at 0x2644B768>
 	arg0: self
 
 submodule._GameWindow__LoverNear
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenSelectAttrDialog,		<cyfunction GameWindow.OpenSelectAttrDialog at 0x082C69D0>
+OpenSelectAttrDialog,		<cyfunction GameWindow.OpenSelectAttrDialog at 0x2644C190>
 	arg0: self
-	arg1: window_type
-	arg2: slotIdx
+	arg1: vid
+	arg2: window_type
+	arg3: slotIdx
 
 submodule.OpenSelectAttrDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-Gift_Show,		<cyfunction GameWindow.Gift_Show at 0x082C40E0>
+Gift_Show,		<cyfunction GameWindow.Gift_Show at 0x26449500>
 	arg0: self
 
 submodule.Gift_Show
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenRestartDialog,		<cyfunction GameWindow.OpenRestartDialog at 0x082C1348>
+OpenRestartDialog,		<cyfunction GameWindow.OpenRestartDialog at 0x26446768>
 	arg0: self
 	arg1: mapidx
 
 submodule.OpenRestartDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetHPTargetBoard,		<cyfunction GameWindow.SetHPTargetBoard at 0x082C1558>
+SetHPTargetBoard,		<cyfunction GameWindow.SetHPTargetBoard at 0x26446B88>
 	arg0: self
 	arg1: vid
 	arg2: hpPercentage
 
 submodule.SetHPTargetBoard
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnKeyUp,		<cyfunction GameWindow.OnKeyUp at 0x082C3920>
+OnKeyUp,		<cyfunction GameWindow.OnKeyUp at 0x26448D40>
 	arg0: self
 	arg1: key
 
 submodule.OnKeyUp
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildBaseInfoPage,		<cyfunction GameWindow.RefreshGuildBaseInfoPage at 0x082C0A80>
+RefreshGuildBaseInfoPage,		<cyfunction GameWindow.RefreshGuildBaseInfoPage at 0x26445D98>
 	arg0: self
 
 submodule.RefreshGuildBaseInfoPage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_DragonSoulGiveQuilification,		<cyfunction GameWindow.BINARY_DragonSoulGiveQuilification at 0x082C43F8>
+BINARY_NEW_UpdateAffect,		<cyfunction GameWindow.BINARY_NEW_UpdateAffect at 0x264463A0>
+	arg0: self
+	arg1: type
+	arg2: point_type
+	arg3: value
+	arg4: duration
+
+submodule.BINARY_NEW_UpdateAffect
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+BINARY_DragonSoulGiveQuilification,		<cyfunction GameWindow.BINARY_DragonSoulGiveQuilification at 0x264496B8>
 	arg0: self
 
 submodule.BINARY_DragonSoulGiveQuilification
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PopupMessage,		<cyfunction GameWindow.PopupMessage at 0x082C0DF0>
+BINARY_NEW_AddAffect,		<cyfunction GameWindow.BINARY_NEW_AddAffect at 0x264462F0>
 	arg0: self
-	arg1: msg
+	arg1: type
+	arg2: pointIdx
+	arg3: value
+	arg4: duration
 
-submodule.PopupMessage
+submodule.BINARY_NEW_AddAffect
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__RefreshTargetBoard,		<cyfunction GameWindow.__RefreshTargetBoard at 0x082C1500>
+NextBeadUpdateTime,		<cyfunction GameWindow.NextBeadUpdateTime at 0x26447500>
+	arg0: self
+	arg1: value
+
+submodule.NextBeadUpdateTime
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__RefreshTargetBoard,		<cyfunction GameWindow.__RefreshTargetBoard at 0x26446B30>
 	arg0: self
 
 submodule._GameWindow__RefreshTargetBoard
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_GuildWar_OnRecvDeclare,		<cyfunction GameWindow.BINARY_GuildWar_OnRecvDeclare at 0x082C47C0>
+BINARY_GuildWar_OnRecvDeclare,		<cyfunction GameWindow.BINARY_GuildWar_OnRecvDeclare at 0x26449B88>
 	arg0: self
 	arg1: guildID
 	arg2: warType
@@ -566,73 +578,67 @@ BINARY_GuildWar_OnRecvDeclare,		<cyfunction GameWindow.BINARY_GuildWar_OnRecvDec
 
 submodule.BINARY_GuildWar_OnRecvDeclare
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnMobileAuthority,		<cyfunction GameWindow.OnMobileAuthority at 0x082C0BE0>
-	arg0: self
-
-submodule.OnMobileAuthority
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildInfoPage,		<cyfunction GameWindow.RefreshGuildInfoPage at 0x082C0870>
+RefreshGuildInfoPage,		<cyfunction GameWindow.RefreshGuildInfoPage at 0x26445B88>
 	arg0: self
 
 submodule.RefreshGuildInfoPage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__Halloween_Box,		<cyfunction GameWindow.__Halloween_Box at 0x082C4F50>
+InitSkillCoolTime,		<cyfunction GameWindow.InitSkillCoolTime at 0x2644CF50>
 	arg0: self
-	arg1: enable
 
-submodule._GameWindow__Halloween_Box
+submodule.InitSkillCoolTime
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction GameWindow.OnUpdate at 0x082C3D98>
+OnUpdate,		<cyfunction GameWindow.OnUpdate at 0x264491E8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ChangePKMode,		<cyfunction GameWindow.ChangePKMode at 0x082C0500>
+ChangePKMode,		<cyfunction GameWindow.ChangePKMode at 0x26445768>
 	arg0: self
 
 submodule.ChangePKMode
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PetFlashEvent,		<cyfunction GameWindow.PetFlashEvent at 0x082C6870>
+PetFlashEvent,		<cyfunction GameWindow.PetFlashEvent at 0x2644BEF8>
 	arg0: self
 	arg1: index
 
 submodule.PetFlashEvent
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnMouseMiddleButtonUp,		<cyfunction GameWindow.OnMouseMiddleButtonUp at 0x082C3D40>
+OnMouseMiddleButtonUp,		<cyfunction GameWindow.OnMouseMiddleButtonUp at 0x26449190>
 	arg0: self
 
 submodule.OnMouseMiddleButtonUp
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-GemShopSlotAdd,		<cyfunction GameWindow.GemShopSlotAdd at 0x082C1CE8>
+GemShopSlotAdd,		<cyfunction GameWindow.GemShopSlotAdd at 0x264473F8>
 	arg0: self
 	arg1: slotindex
 	arg2: enable
 
 submodule.GemShopSlotAdd
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnFishingFailure,		<cyfunction GameWindow.OnFishingFailure at 0x082C1FA8>
+LanguageChange,		<cyfunction GameWindow.LanguageChange at 0x2644D190>
+	arg0: self
+
+submodule.LanguageChange
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+OnFishingFailure,		<cyfunction GameWindow.OnFishingFailure at 0x26447768>
 	arg0: self
 
 submodule.OnFishingFailure
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenPShopSearchDialog,		<cyfunction GameWindow.OpenPShopSearchDialog at 0x082C6240>
+OpenPShopSearchDialog,		<cyfunction GameWindow.OpenPShopSearchDialog at 0x2644B8C8>
 	arg0: self
 
 submodule.OpenPShopSearchDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Highlight_Item,		<cyfunction GameWindow.BINARY_Highlight_Item at 0x082C43A0>
+BINARY_Highlight_Item,		<cyfunction GameWindow.BINARY_Highlight_Item at 0x26449660>
 	arg0: self
 	arg1: inven_type
 	arg2: inven_pos
 
 submodule.BINARY_Highlight_Item
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MoveLeft,		<cyfunction GameWindow.MoveLeft at 0x082C3660>
-	arg0: self
-
-submodule.MoveLeft
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_GuildWar_OnRecvPoint,		<cyfunction GameWindow.BINARY_GuildWar_OnRecvPoint at 0x082C4818>
+BINARY_GuildWar_OnRecvPoint,		<cyfunction GameWindow.BINARY_GuildWar_OnRecvPoint at 0x26449BE0>
 	arg0: self
 	arg1: gainGuildID
 	arg2: opponentGuildID
@@ -641,18 +647,18 @@ BINARY_GuildWar_OnRecvPoint,		<cyfunction GameWindow.BINARY_GuildWar_OnRecvPoint
 
 submodule.BINARY_GuildWar_OnRecvPoint
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshStamina,		<cyfunction GameWindow.RefreshStamina at 0x082C0710>
+RefreshStamina,		<cyfunction GameWindow.RefreshStamina at 0x26445978>
 	arg0: self
 
 submodule.RefreshStamina
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenGuildBankWindow,		<cyfunction GameWindow.OpenGuildBankWindow at 0x082C2C90>
+OpenGuildBankWindow,		<cyfunction GameWindow.OpenGuildBankWindow at 0x26448558>
 	arg0: self
 	arg1: size
 
 submodule.OpenGuildBankWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__DropItem,		<cyfunction GameWindow.__DropItem at 0x082C3B30>
+_GameWindow__DropItem,		<cyfunction GameWindow.__DropItem at 0x26448F50>
 	arg0: self
 	arg1: attachedType
 	arg2: attachedItemIndex
@@ -661,198 +667,198 @@ _GameWindow__DropItem,		<cyfunction GameWindow.__DropItem at 0x082C3B30>
 
 submodule._GameWindow__DropItem
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenGuildGoldInOutWindow,		<cyfunction GameWindow.OpenGuildGoldInOutWindow at 0x082C2CE8>
+OpenGuildGoldInOutWindow,		<cyfunction GameWindow.OpenGuildGoldInOutWindow at 0x264485B0>
 	arg0: self
 	arg1: inout
 
 submodule.OpenGuildGoldInOutWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnChangePKMode,		<cyfunction GameWindow.OnChangePKMode at 0x082C0558>
+OnChangePKMode,		<cyfunction GameWindow.OnChangePKMode at 0x264457C0>
 	arg0: self
 
 submodule.OnChangePKMode
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshSkill,		<cyfunction GameWindow.RefreshSkill at 0x082C0768>
+RefreshSkill,		<cyfunction GameWindow.RefreshSkill at 0x264459D0>
 	arg0: self
 
 submodule.RefreshSkill
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__DropMoney,		<cyfunction GameWindow.__DropMoney at 0x082C3AD8>
+_GameWindow__Halloween_Box,		<cyfunction GameWindow.__Halloween_Box at 0x2644A348>
+	arg0: self
+	arg1: enable
+
+submodule._GameWindow__Halloween_Box
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__DropMoney,		<cyfunction GameWindow.__DropMoney at 0x26448EF8>
 	arg0: self
 	arg1: attachedType
 	arg2: attachedMoney
 
 submodule._GameWindow__DropMoney
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__OpenDSInventory,		<cyfunction GameWindow.__OpenDSInventory at 0x082C66B8>
+OpenMiniBossTimer,		<cyfunction GameWindow.OpenMiniBossTimer at 0x2644D240>
+	arg0: self
+	arg1: time
+	arg2: mapIdx
+
+submodule.OpenMiniBossTimer
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__OpenDSInventory,		<cyfunction GameWindow.__OpenDSInventory at 0x2644BD40>
 	arg0: self
 
 submodule._GameWindow__OpenDSInventory
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshAccumulateCount,		<cyfunction GameWindow.RefreshAccumulateCount at 0x082C7558>
+RefreshAccumulateCount,		<cyfunction GameWindow.RefreshAccumulateCount at 0x2644CCE8>
 	arg0: self
 	arg1: vid
 
 submodule.RefreshAccumulateCount
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnMouseRightButtonDown,		<cyfunction GameWindow.OnMouseRightButtonDown at 0x082C3C38>
+OnMouseRightButtonDown,		<cyfunction GameWindow.OnMouseRightButtonDown at 0x26449088>
 	arg0: self
 
 submodule.OnMouseRightButtonDown
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction GameWindow.OnMouseLeftButtonDown at 0x082C3978>
+OnMouseLeftButtonDown,		<cyfunction GameWindow.OnMouseLeftButtonDown at 0x26448D98>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AnswerGuildResultDialog,		<cyfunction GameWindow.AnswerGuildResultDialog at 0x082C30E0>
+_GameWindow__RefineSoulFailedMessage,		<cyfunction GameWindow.__RefineSoulFailedMessage at 0x2644AC90>
 	arg0: self
-	arg1: answer
 
-submodule.AnswerGuildResultDialog
+submodule._GameWindow__RefineSoulFailedMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__FishEvent,		<cyfunction GameWindow.__FishEvent at 0x082C5138>
+_GameWindow__FishEvent,		<cyfunction GameWindow.__FishEvent at 0x2644A500>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__FishEvent
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetAutoCooltime,		<cyfunction GameWindow.SetAutoCooltime at 0x082C02F0>
+_GameWindow__ChangeWindowOpen,		<cyfunction GameWindow.__ChangeWindowOpen at 0x2644A030>
 	arg0: self
-	arg1: slotindex
-	arg2: cooltime
+	arg1: type
 
-submodule.SetAutoCooltime
+submodule._GameWindow__ChangeWindowOpen
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MoveDown,		<cyfunction GameWindow.MoveDown at 0x082C3608>
+YutnoriProcess,		<cyfunction GameWindow.YutnoriProcess at 0x2644D088>
 	arg0: self
+	arg1: type
+	arg2: data
 
-submodule.MoveDown
+submodule.YutnoriProcess
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ReciveMission,		<cyfunction GameWindow.ReciveMission at 0x082C6FA8>
+ReciveMission,		<cyfunction GameWindow.ReciveMission at 0x2644C768>
 	arg0: self
 
 submodule.ReciveMission
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_ServerCommand_Run,		<cyfunction GameWindow.BINARY_ServerCommand_Run at 0x082C5298>
+BINARY_ServerCommand_Run,		<cyfunction GameWindow.BINARY_ServerCommand_Run at 0x2644A8C8>
 	arg0: self
 	arg1: line
 
 submodule.BINARY_ServerCommand_Run
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__Horse_HideState,		<cyfunction GameWindow.__Horse_HideState at 0x082C5710>
+RefreshInventory,		<cyfunction GameWindow.RefreshInventory at 0x26446608>
+	arg0: self
+
+submodule.RefreshInventory
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__Horse_HideState,		<cyfunction GameWindow.__Horse_HideState at 0x2644AD98>
 	arg0: self
 
 submodule._GameWindow__Horse_HideState
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StopUp,		<cyfunction GameWindow.StopUp at 0x082C3710>
-	arg0: self
-
-submodule.StopUp
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ClearApplicant,		<cyfunction GameWindow.__ClearApplicant at 0x082C4EA0>
+_GameWindow__ClearApplicant,		<cyfunction GameWindow.__ClearApplicant at 0x2644A298>
 	arg0: self
 
 submodule._GameWindow__ClearApplicant
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__AskDSPassword,		<cyfunction GameWindow.__AskDSPassword at 0x082C6660>
+PopupMessage,		<cyfunction GameWindow.PopupMessage at 0x26446088>
 	arg0: self
+	arg1: msg
 
-submodule._GameWindow__AskDSPassword
+submodule.PopupMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
 __doc__,		None
 
 submodule.__doc__
 
 
-UnlinkPartyMember,		<cyfunction GameWindow.UnlinkPartyMember at 0x082C26B8>
+UnlinkPartyMember,		<cyfunction GameWindow.UnlinkPartyMember at 0x26447EF8>
 	arg0: self
 	arg1: pid
 
 submodule.UnlinkPartyMember
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PrivateShop_PriceList,		<cyfunction GameWindow.__PrivateShop_PriceList at 0x082C56B8>
-	arg0: self
-	arg1: itemVNum
-	arg2: itemPrice
-
-submodule._GameWindow__PrivateShop_PriceList
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnPickCheque,		<cyfunction GameWindow.OnPickCheque at 0x082C1A28>
+OnPickCheque,		<cyfunction GameWindow.OnPickCheque at 0x26447138>
 	arg0: self
 	arg1: cheque
 
 submodule.OnPickCheque
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__CloseDSInventory,		<cyfunction GameWindow.__CloseDSInventory at 0x082C6710>
+RefreshGuildRankingList,		<cyfunction GameWindow.RefreshGuildRankingList at 0x2644C3F8>
 	arg0: self
+	arg1: issearch
 
-submodule._GameWindow__CloseDSInventory
+submodule.RefreshGuildRankingList
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_AppendNotifyMessage,		<cyfunction GameWindow.BINARY_AppendNotifyMessage at 0x082C4660>
+BINARY_AppendNotifyMessage,		<cyfunction GameWindow.BINARY_AppendNotifyMessage at 0x26449A28>
 	arg0: self
 	arg1: type
 
 submodule.BINARY_AppendNotifyMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AskGuildName,		<cyfunction GameWindow.AskGuildName at 0x082C0CE8>
+AskGuildName,		<cyfunction GameWindow.AskGuildName at 0x26445F50>
 	arg0: self
 
 submodule.AskGuildName
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CheckFocus,		<cyfunction GameWindow.CheckFocus at 0x082C3240>
+CheckFocus,		<cyfunction GameWindow.CheckFocus at 0x26448AD8>
 	arg0: self
 
 submodule.CheckFocus
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnAcceptAddFriend,		<cyfunction GameWindow.OnAcceptAddFriend at 0x082C2870>
+OnAcceptAddFriend,		<cyfunction GameWindow.OnAcceptAddFriend at 0x264480E0>
 	arg0: self
 
 submodule.OnAcceptAddFriend
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Guild_ExitGuildArea,		<cyfunction GameWindow.BINARY_Guild_ExitGuildArea at 0x082C4710>
+BINARY_Guild_ExitGuildArea,		<cyfunction GameWindow.BINARY_Guild_ExitGuildArea at 0x26449AD8>
 	arg0: self
 	arg1: areaID
 
 submodule.BINARY_Guild_ExitGuildArea
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_LoverInfo,		<cyfunction GameWindow.BINARY_LoverInfo at 0x082C3FA8>
+BINARY_LoverInfo,		<cyfunction GameWindow.BINARY_LoverInfo at 0x264493F8>
 	arg0: self
 	arg1: name
 	arg2: lovePoint
 
 submodule.BINARY_LoverInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshStatus,		<cyfunction GameWindow.RefreshStatus at 0x082C06B8>
+RefreshStatus,		<cyfunction GameWindow.RefreshStatus at 0x26445920>
 	arg0: self
 
 submodule.RefreshStatus
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnRecvWhisper,		<cyfunction GameWindow.OnRecvWhisper at 0x082C1870>
-	arg0: self
-	arg1: mode
-	arg2: name
-	arg3: line
-
-submodule.OnRecvWhisper
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__CheckRedDragonLairRanking,		<cyfunction GameWindow.__CheckRedDragonLairRanking at 0x082C4DF0>
+_GameWindow__CheckRedDragonLairRanking,		<cyfunction GameWindow.__CheckRedDragonLairRanking at 0x2644A1E8>
 	arg0: self
 
 submodule._GameWindow__CheckRedDragonLairRanking
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__XMasTree_Enable,		<cyfunction GameWindow.__XMasTree_Enable at 0x082C58C8>
+_GameWindow__XMasTree_Enable,		<cyfunction GameWindow.__XMasTree_Enable at 0x2644AF50>
 	arg0: self
 	arg1: grade
 
 submodule._GameWindow__XMasTree_Enable
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__XMasBoom_Boom,		<cyfunction GameWindow.__XMasBoom_Boom at 0x082C5DF0>
+_GameWindow__XMasBoom_Boom,		<cyfunction GameWindow.__XMasBoom_Boom at 0x2644B4A8>
 	arg0: self
 
 submodule._GameWindow__XMasBoom_Boom
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetEquipmentDialogItem,		<cyfunction GameWindow.SetEquipmentDialogItem at 0x082C16B8>
+SetEquipmentDialogItem,		<cyfunction GameWindow.SetEquipmentDialogItem at 0x26446D98>
 	arg0: self
 	arg1: vid
 	arg2: slotIndex
@@ -862,7 +868,7 @@ SetEquipmentDialogItem,		<cyfunction GameWindow.SetEquipmentDialogItem at 0x082C
 
 submodule.SetEquipmentDialogItem
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-GuildLandDealResult,		<cyfunction GameWindow.GuildLandDealResult at 0x082C2EA0>
+GuildLandDealResult,		<cyfunction GameWindow.GuildLandDealResult at 0x26448768>
 	arg0: self
 	arg1: answer
 	arg2: guildName
@@ -870,106 +876,144 @@ GuildLandDealResult,		<cyfunction GameWindow.GuildLandDealResult at 0x082C2EA0>
 
 submodule.GuildLandDealResult
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__CashPrivateShop_Open,		<cyfunction GameWindow.__CashPrivateShop_Open at 0x082C5A28>
+_GameWindow__PvPOnOff,		<cyfunction GameWindow.__PvPOnOff at 0x2644D030>
 	arg0: self
+	arg1: OnOff
 
-submodule._GameWindow__CashPrivateShop_Open
+submodule._GameWindow__PvPOnOff
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RunUseSkillEvent,		<cyfunction GameWindow.RunUseSkillEvent at 0x082C0EF8>
+FindMProcess,		<cyfunction GameWindow.FindMProcess at 0x2644D3A0>
+	arg0: self
+	arg1: type
+	arg2: value
+	default: None
+
+submodule.FindMProcess
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+RunUseSkillEvent,		<cyfunction GameWindow.RunUseSkillEvent at 0x26446190>
 	arg0: self
 	arg1: slotIndex
 	arg2: coolTime
 
 submodule.RunUseSkillEvent
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction GameWindow.OnMouseLeftButtonUp at 0x082C39D0>
+PetAttrChangeResult,		<cyfunction GameWindow.PetAttrChangeResult at 0x2644C0E0>
+	arg0: self
+	arg1: slotIndex
+	arg2: byType
+
+submodule.PetAttrChangeResult
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+OnMouseLeftButtonUp,		<cyfunction GameWindow.OnMouseLeftButtonUp at 0x26448DF0>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PartyRequestDenied,		<cyfunction GameWindow.__PartyRequestDenied at 0x082C5EF8>
+MiniGameFishReward,		<cyfunction GameWindow.MiniGameFishReward at 0x2644CC38>
 	arg0: self
+	arg1: vnum
 
-submodule._GameWindow__PartyRequestDenied
+submodule.MiniGameFishReward
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__DayMode_OnCompleteChangeToDark,		<cyfunction GameWindow.__DayMode_OnCompleteChangeToDark at 0x082C5D40>
+_GameWindow__DayMode_OnCompleteChangeToDark,		<cyfunction GameWindow.__DayMode_OnCompleteChangeToDark at 0x2644B348>
 	arg0: self
 
 submodule._GameWindow__DayMode_OnCompleteChangeToDark
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StartShop,		<cyfunction GameWindow.StartShop at 0x082C21E8>
+_GameWindow__XMasSong_Enable,		<cyfunction GameWindow.__XMasSong_Enable at 0x2644AFA8>
+	arg0: self
+	arg1: mode
+
+submodule._GameWindow__XMasSong_Enable
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+StartShop,		<cyfunction GameWindow.StartShop at 0x26447A28>
 	arg0: self
 	arg1: vid
 
 submodule.StartShop
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-Open,		<cyfunction GameWindow.Open at 0x0A1C0BE0>
+Open,		<cyfunction GameWindow.Open at 0x264453A0>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_OpenSelectItemWindowEx,		<cyfunction GameWindow.BINARY_OpenSelectItemWindowEx at 0x082C1C38>
+BINARY_OpenSelectItemWindowEx,		<cyfunction GameWindow.BINARY_OpenSelectItemWindowEx at 0x26447348>
 	arg0: self
 
 submodule.BINARY_OpenSelectItemWindowEx
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__MiniGameOkey,		<cyfunction GameWindow.__MiniGameOkey at 0x082C4FA8>
+_GameWindow__CloseGuildDialog,		<cyfunction GameWindow.__CloseGuildDialog at 0x26446710>
 	arg0: self
-	arg1: enable
 
-submodule._GameWindow__MiniGameOkey
+submodule._GameWindow__CloseGuildDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnCannotPickItem,		<cyfunction GameWindow.OnCannotPickItem at 0x082C2030>
+OnCannotPickItem,		<cyfunction GameWindow.OnCannotPickItem at 0x26447870>
 	arg0: self
 
 submodule.OnCannotPickItem
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PetEvolInfo,		<cyfunction GameWindow.PetEvolInfo at 0x082C6920>
+OnFishingStopGame,		<cyfunction GameWindow.OnFishingStopGame at 0x26447818>
+	arg0: self
+
+submodule.OnFishingStopGame
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+PetEvolInfo,		<cyfunction GameWindow.PetEvolInfo at 0x2644BFA8>
 	arg0: self
 	arg1: index
 	arg2: value
 
 submodule.PetEvolInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ValentineEvent,		<cyfunction GameWindow.__ValentineEvent at 0x082C5088>
+_GameWindow__ValentineEvent,		<cyfunction GameWindow.__ValentineEvent at 0x2644A450>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__ValentineEvent
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ResetUsedBP,		<cyfunction GameWindow.ResetUsedBP at 0x082C73A0>
+ResetUsedBP,		<cyfunction GameWindow.ResetUsedBP at 0x2644CB30>
 	arg0: self
 
 submodule.ResetUsedBP
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__BattleFieldEventOpen,		<cyfunction GameWindow.__BattleFieldEventOpen at 0x082C7240>
+BINARY_SetSubMissionMessage,		<cyfunction GameWindow.BINARY_SetSubMissionMessage at 0x26449978>
+	arg0: self
+	arg1: message
+
+submodule.BINARY_SetSubMissionMessage
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+DeleteMainCharacter,		<cyfunction GameWindow.DeleteMainCharacter at 0x26446CE8>
+	arg0: self
+
+submodule.DeleteMainCharacter
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__BattleFieldEventOpen,		<cyfunction GameWindow.__BattleFieldEventOpen at 0x2644C9D0>
 	arg0: self
 	arg1: open
 
 submodule._GameWindow__BattleFieldEventOpen
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__OpenMyShopDecoWnd,		<cyfunction GameWindow.__OpenMyShopDecoWnd at 0x082C5B30>
+_GameWindow__OpenMyShopDecoWnd,		<cyfunction GameWindow.__OpenMyShopDecoWnd at 0x2644B138>
 	arg0: self
 
 submodule._GameWindow__OpenMyShopDecoWnd
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StartPointReset,		<cyfunction GameWindow.StartPointReset at 0x082C2190>
+StartPointReset,		<cyfunction GameWindow.StartPointReset at 0x264479D0>
 	arg0: self
 
 submodule.StartPointReset
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildGradePage,		<cyfunction GameWindow.RefreshGuildGradePage at 0x082C0A28>
+RefreshGuildGradePage,		<cyfunction GameWindow.RefreshGuildGradePage at 0x26445D40>
 	arg0: self
 
 submodule.RefreshGuildGradePage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction GameWindow.__init__ at 0x0A1C0B30>
+__init__,		<cyfunction GameWindow.__init__ at 0x264452F0>
 	arg0: self
 	arg1: stream
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PetHatchingWindowCommand,		<cyfunction GameWindow.PetHatchingWindowCommand at 0x082C6768>
+PetHatchingWindowCommand,		<cyfunction GameWindow.PetHatchingWindowCommand at 0x2644BDF0>
 	arg0: self
 	arg1: command
 	arg2: window
@@ -977,29 +1021,31 @@ PetHatchingWindowCommand,		<cyfunction GameWindow.PetHatchingWindowCommand at 0x
 
 submodule.PetHatchingWindowCommand
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__SummerEvent,		<cyfunction GameWindow.__SummerEvent at 0x082C5190>
+_GameWindow__SummerEvent,		<cyfunction GameWindow.__SummerEvent at 0x2644A558>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__SummerEvent
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__SetQuickSlotMode,		<cyfunction GameWindow.__SetQuickSlotMode at 0x082C0088>
+AddSpecialActionSlot,		<cyfunction GameWindow.AddSpecialActionSlot at 0x264463F8>
 	arg0: self
+	arg1: byType
+	arg2: dwDuration
 
-submodule._GameWindow__SetQuickSlotMode
+submodule.AddSpecialActionSlot
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RemovePartyMember,		<cyfunction GameWindow.RemovePartyMember at 0x082C2608>
+RemovePartyMember,		<cyfunction GameWindow.RemovePartyMember at 0x26447E48>
 	arg0: self
 	arg1: pid
 
 submodule.RemovePartyMember
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnMouseMiddleButtonDown,		<cyfunction GameWindow.OnMouseMiddleButtonDown at 0x082C3CE8>
+OnMouseMiddleButtonDown,		<cyfunction GameWindow.OnMouseMiddleButtonDown at 0x26449138>
 	arg0: self
 
 submodule.OnMouseMiddleButtonDown
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_OnQuestConfirm,		<cyfunction GameWindow.BINARY_OnQuestConfirm at 0x082C4088>
+BINARY_OnQuestConfirm,		<cyfunction GameWindow.BINARY_OnQuestConfirm at 0x264494A8>
 	arg0: self
 	arg1: msg
 	arg2: timeout
@@ -1007,33 +1053,33 @@ BINARY_OnQuestConfirm,		<cyfunction GameWindow.BINARY_OnQuestConfirm at 0x082C40
 
 submodule.BINARY_OnQuestConfirm
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnFishingNotify,		<cyfunction GameWindow.OnFishingNotify at 0x082C1F50>
+OnFishingNotify,		<cyfunction GameWindow.OnFishingNotify at 0x26447710>
 	arg0: self
 	arg1: isFish
 	arg2: fishName
 
 submodule.OnFishingNotify
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ScrollOnOff,		<cyfunction GameWindow.ScrollOnOff at 0x082C0298>
+ScrollOnOff,		<cyfunction GameWindow.ScrollOnOff at 0x26445558>
 	arg0: self
 
 submodule.ScrollOnOff
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PartyMatchResult,		<cyfunction GameWindow.PartyMatchResult at 0x082C7608>
+CatchKingProcess,		<cyfunction GameWindow.CatchKingProcess at 0x2644D138>
+	arg0: self
+	arg1: type
+	arg2: data
+
+submodule.CatchKingProcess
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+PartyMatchResult,		<cyfunction GameWindow.PartyMatchResult at 0x2644CD98>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.PartyMatchResult
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Cube_ResultList,		<cyfunction GameWindow.BINARY_Cube_ResultList at 0x082C42F0>
-	arg0: self
-	arg1: npcVNUM
-	arg2: listText
-
-submodule.BINARY_Cube_ResultList
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RumiMoveCard,		<cyfunction GameWindow.RumiMoveCard at 0x082C6AD8>
+RumiMoveCard,		<cyfunction GameWindow.RumiMoveCard at 0x2644C298>
 	arg0: self
 	arg1: src_pos
 	arg2: src_index
@@ -1046,36 +1092,30 @@ RumiMoveCard,		<cyfunction GameWindow.RumiMoveCard at 0x082C6AD8>
 
 submodule.RumiMoveCard
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenUserSituationShow,		<cyfunction GameWindow.OpenUserSituationShow at 0x082C7710>
+OpenUserSituationShow,		<cyfunction GameWindow.OpenUserSituationShow at 0x2644CEA0>
 	arg0: self
 	arg1: data
 
 submodule.OpenUserSituationShow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefineSuceededMessage,		<cyfunction GameWindow.RefineSuceededMessage at 0x082C5558>
+RefineSuceededMessage,		<cyfunction GameWindow.RefineSuceededMessage at 0x2644AB88>
 	arg0: self
 
 submodule.RefineSuceededMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenRankingBoard,		<cyfunction GameWindow.OpenRankingBoard at 0x082C6EF8>
+OpenRankingBoard,		<cyfunction GameWindow.OpenRankingBoard at 0x2644C6B8>
 	arg0: self
 	arg1: type
 	arg2: category
 
 submodule.OpenRankingBoard
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnMessengerAddFriendQuestion,		<cyfunction GameWindow.OnMessengerAddFriendQuestion at 0x082C2818>
-	arg0: self
-	arg1: name
-
-submodule.OnMessengerAddFriendQuestion
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Cube_Close,		<cyfunction GameWindow.BINARY_Cube_Close at 0x082C4190>
+BINARY_Cube_Close,		<cyfunction GameWindow.BINARY_Cube_Close at 0x26449608>
 	arg0: self
 
 submodule.BINARY_Cube_Close
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__GuildWar_UpdateMemberCount,		<cyfunction GameWindow.__GuildWar_UpdateMemberCount at 0x082C49D0>
+_GameWindow__GuildWar_UpdateMemberCount,		<cyfunction GameWindow.__GuildWar_UpdateMemberCount at 0x26449D98>
 	arg0: self
 	arg1: guildID1
 	arg2: memberCount1
@@ -1085,33 +1125,28 @@ _GameWindow__GuildWar_UpdateMemberCount,		<cyfunction GameWindow.__GuildWar_Upda
 
 submodule._GameWindow__GuildWar_UpdateMemberCount
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressJKey,		<cyfunction GameWindow.__PressJKey at 0x0A1C0DF0>
-	arg0: self
-
-submodule._GameWindow__PressJKey
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction GameWindow.OnPressEscapeKey at 0x082C3EA0>
+OnPressEscapeKey,		<cyfunction GameWindow.OnPressEscapeKey at 0x264492F0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__LoginLover,		<cyfunction GameWindow.__LoginLover at 0x082C6030>
+_GameWindow__LoginLover,		<cyfunction GameWindow.__LoginLover at 0x2644B6B8>
 	arg0: self
 
 submodule._GameWindow__LoginLover
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SaveScreen,		<cyfunction GameWindow.SaveScreen at 0x082C3298>
+SaveScreen,		<cyfunction GameWindow.SaveScreen at 0x26448B30>
 	arg0: self
 
 submodule.SaveScreen
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenSafeboxWindow,		<cyfunction GameWindow.OpenSafeboxWindow at 0x082C2978>
+OpenSafeboxWindow,		<cyfunction GameWindow.OpenSafeboxWindow at 0x264481E8>
 	arg0: self
 	arg1: size
 
 submodule.OpenSafeboxWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__GuildWar_OpenAskDialog,		<cyfunction GameWindow.__GuildWar_OpenAskDialog at 0x082C4A28>
+_GameWindow__GuildWar_OpenAskDialog,		<cyfunction GameWindow.__GuildWar_OpenAskDialog at 0x26449DF0>
 	arg0: self
 	arg1: guildID
 	arg2: warType
@@ -1121,23 +1156,23 @@ _GameWindow__GuildWar_OpenAskDialog,		<cyfunction GameWindow.__GuildWar_OpenAskD
 
 submodule._GameWindow__GuildWar_OpenAskDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__AutoLoginOff,		<cyfunction GameWindow.__AutoLoginOff at 0x082C4D40>
+_GameWindow__AutoLoginOff,		<cyfunction GameWindow.__AutoLoginOff at 0x2644A138>
 	arg0: self
 
 submodule._GameWindow__AutoLoginOff
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RequestDropItem,		<cyfunction GameWindow.RequestDropItem at 0x082C3B88>
+RequestDropItem,		<cyfunction GameWindow.RequestDropItem at 0x26448FA8>
 	arg0: self
 	arg1: answer
 
 submodule.RequestDropItem
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__LoverFar,		<cyfunction GameWindow.__LoverFar at 0x082C6138>
+_GameWindow__LoverFar,		<cyfunction GameWindow.__LoverFar at 0x2644B7C0>
 	arg0: self
 
 submodule._GameWindow__LoverFar
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RecvGuildVoteCheck,		<cyfunction GameWindow.RecvGuildVoteCheck at 0x082C2FA8>
+RecvGuildVoteCheck,		<cyfunction GameWindow.RecvGuildVoteCheck at 0x26448870>
 	arg0: self
 	arg1: type
 	arg2: agreesize
@@ -1150,30 +1185,26 @@ RecvGuildVoteCheck,		<cyfunction GameWindow.RecvGuildVoteCheck at 0x082C2FA8>
 
 submodule.RecvGuildVoteCheck
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressGKey,		<cyfunction GameWindow.__PressGKey at 0x0A1C0F50>
-	arg0: self
-
-submodule._GameWindow__PressGKey
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PetAffectShowerRefresh,		<cyfunction GameWindow.PetAffectShowerRefresh at 0x082C68C8>
+PetAffectShowerRefresh,		<cyfunction GameWindow.PetAffectShowerRefresh at 0x2644BF50>
 	arg0: self
 
 submodule.PetAffectShowerRefresh
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_BettingGuildWar_UpdateObserverCount,		<cyfunction GameWindow.BINARY_BettingGuildWar_UpdateObserverCount at 0x082C4978>
+RumiIncreaseScore,		<cyfunction GameWindow.RumiIncreaseScore at 0x2644C348>
 	arg0: self
-	arg1: observerCount
+	arg1: score
+	arg2: total_score
 
-submodule.BINARY_BettingGuildWar_UpdateObserverCount
+submodule.RumiIncreaseScore
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Cube_Succeed,		<cyfunction GameWindow.BINARY_Cube_Succeed at 0x082C4240>
+OpenReviveDialog,		<cyfunction GameWindow.OpenReviveDialog at 0x26446920>
 	arg0: self
-	arg1: itemVnum
-	arg2: count
+	arg1: vid
+	arg2: itemcount
 
-submodule.BINARY_Cube_Succeed
+submodule.OpenReviveDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__BattleFieldEventInfo,		<cyfunction GameWindow.__BattleFieldEventInfo at 0x082C71E8>
+_GameWindow__BattleFieldEventInfo,		<cyfunction GameWindow.__BattleFieldEventInfo at 0x2644C978>
 	arg0: self
 	arg1: enable
 	arg2: start
@@ -1181,7 +1212,7 @@ _GameWindow__BattleFieldEventInfo,		<cyfunction GameWindow.__BattleFieldEventInf
 
 submodule._GameWindow__BattleFieldEventInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ShowMapName,		<cyfunction GameWindow.ShowMapName at 0x082C17C0>
+ShowMapName,		<cyfunction GameWindow.ShowMapName at 0x26446EA0>
 	arg0: self
 	arg1: mapName
 	arg2: x
@@ -1189,89 +1220,91 @@ ShowMapName,		<cyfunction GameWindow.ShowMapName at 0x082C17C0>
 
 submodule.ShowMapName
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressFKey,		<cyfunction GameWindow.__PressFKey at 0x0A1C0EF8>
+_GameWindow__MiniGameFindM,		<cyfunction GameWindow.__MiniGameFindM at 0x2644A768>
+	arg0: self
+	arg1: enable
+
+submodule._GameWindow__MiniGameFindM
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__PartyRequestDenied,		<cyfunction GameWindow.__PartyRequestDenied at 0x2644B5B0>
 	arg0: self
 
-submodule._GameWindow__PressFKey
+submodule._GameWindow__PartyRequestDenied
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshMobile,		<cyfunction GameWindow.RefreshMobile at 0x082C0B88>
+SetBeadCount,		<cyfunction GameWindow.SetBeadCount at 0x264474A8>
 	arg0: self
+	arg1: value
 
-submodule.RefreshMobile
+submodule.SetBeadCount
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MonsterCardMissionFail,		<cyfunction GameWindow.MonsterCardMissionFail at 0x082C7030>
+MonsterCardMissionFail,		<cyfunction GameWindow.MonsterCardMissionFail at 0x2644C7C0>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.MonsterCardMissionFail
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnCannotShotError,		<cyfunction GameWindow.OnCannotShotError at 0x082C2138>
+OnCannotShotError,		<cyfunction GameWindow.OnCannotShotError at 0x26447978>
 	arg0: self
 	arg1: vid
 	arg2: type
 
 submodule.OnCannotShotError
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Guild_EnterGuildArea,		<cyfunction GameWindow.BINARY_Guild_EnterGuildArea at 0x082C46B8>
+BINARY_Guild_EnterGuildArea,		<cyfunction GameWindow.BINARY_Guild_EnterGuildArea at 0x26449A80>
 	arg0: self
 	arg1: areaID
 
 submodule.BINARY_Guild_EnterGuildArea
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnPickBattlePoint,		<cyfunction GameWindow.OnPickBattlePoint at 0x082C1D40>
+OnPickBattlePoint,		<cyfunction GameWindow.OnPickBattlePoint at 0x26447450>
 	arg0: self
 	arg1: point
 
 submodule.OnPickBattlePoint
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PickUpItem,		<cyfunction GameWindow.PickUpItem at 0x082C3870>
-	arg0: self
-
-submodule.PickUpItem
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_SetBigControlMessage,		<cyfunction GameWindow.BINARY_SetBigControlMessage at 0x082C45B0>
+BINARY_SetBigControlMessage,		<cyfunction GameWindow.BINARY_SetBigControlMessage at 0x26449870>
 	arg0: self
 	arg1: message
 
 submodule.BINARY_SetBigControlMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ConfirmGuildName,		<cyfunction GameWindow.ConfirmGuildName at 0x082C0D40>
+ConfirmGuildName,		<cyfunction GameWindow.ConfirmGuildName at 0x26445FA8>
 	arg0: self
 
 submodule.ConfirmGuildName
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildDragonLairRanking,		<cyfunction GameWindow.RefreshGuildDragonLairRanking at 0x082C6D98>
+RefreshGuildDragonLairRanking,		<cyfunction GameWindow.RefreshGuildDragonLairRanking at 0x2644C558>
 	arg0: self
 	arg1: type
 
 submodule.RefreshGuildDragonLairRanking
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MiniGameRumiSetDeckCount,		<cyfunction GameWindow.MiniGameRumiSetDeckCount at 0x082C6B30>
+MiniGameRumiSetDeckCount,		<cyfunction GameWindow.MiniGameRumiSetDeckCount at 0x2644C2F0>
 	arg0: self
 	arg1: deck_card_count
 
 submodule.MiniGameRumiSetDeckCount
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-UpdatePartyMemberInfo,		<cyfunction GameWindow.UpdatePartyMemberInfo at 0x082C25B0>
+UpdatePartyMemberInfo,		<cyfunction GameWindow.UpdatePartyMemberInfo at 0x26447DF0>
 	arg0: self
 	arg1: pid
 
 submodule.UpdatePartyMemberInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildSkillPage,		<cyfunction GameWindow.RefreshGuildSkillPage at 0x082C09D0>
+RefreshGuildSkillPage,		<cyfunction GameWindow.RefreshGuildSkillPage at 0x26445CE8>
 	arg0: self
 
 submodule.RefreshGuildSkillPage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PlayMusic,		<cyfunction GameWindow.__PlayMusic at 0x082C61E8>
+_GameWindow__PlayMusic,		<cyfunction GameWindow.__PlayMusic at 0x2644B870>
 	arg0: self
 	arg1: flag
 	arg2: filename
 
 submodule._GameWindow__PlayMusic
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RecvGuildVoteResult,		<cyfunction GameWindow.RecvGuildVoteResult at 0x082C3088>
+RecvGuildVoteResult,		<cyfunction GameWindow.RecvGuildVoteResult at 0x26448920>
 	arg0: self
 	arg1: characterName
 	arg2: guildname
@@ -1283,23 +1316,43 @@ RecvGuildVoteResult,		<cyfunction GameWindow.RecvGuildVoteResult at 0x082C3088>
 
 submodule.RecvGuildVoteResult
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MiniGameFishReward,		<cyfunction GameWindow.MiniGameFishReward at 0x082C74A8>
+ShowLuckyBoxWindow,		<cyfunction GameWindow.ShowLuckyBoxWindow at 0x2644D298>
 	arg0: self
-	arg1: vnum
+	arg1: dwItemVnum
+	arg2: byItemCount
+	arg3: iNeedMoney
+	arg4: wSlotIndex
 
-submodule.MiniGameFishReward
+submodule.ShowLuckyBoxWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__IsShowName,		<cyfunction GameWindow.__IsShowName at 0x082C33A0>
+Hide12ziTimer,		<cyfunction GameWindow.Hide12ziTimer at 0x264468C8>
+	arg0: self
+
+submodule.Hide12ziTimer
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__IsShowName,		<cyfunction GameWindow.__IsShowName at 0x26448C38>
 	arg0: self
 
 submodule._GameWindow__IsShowName
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshShop,		<cyfunction GameWindow.RefreshShop at 0x082C2298>
+RefreshMiniBossInfo,		<cyfunction GameWindow.RefreshMiniBossInfo at 0x2644D1E8>
+	arg0: self
+	arg1: type
+	arg2: time
+	arg3: hp
+	arg4: maxCount
+	arg5: count
+	arg6: gemPoint
+	arg7: gemCount
+
+submodule.RefreshMiniBossInfo
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+RefreshShop,		<cyfunction GameWindow.RefreshShop at 0x26447AD8>
 	arg0: self
 
 submodule.RefreshShop
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PutMoney,		<cyfunction GameWindow.__PutMoney at 0x082C3A80>
+_GameWindow__PutMoney,		<cyfunction GameWindow.__PutMoney at 0x26448EA0>
 	arg0: self
 	arg1: attachedType
 	arg2: attachedMoney
@@ -1308,105 +1361,104 @@ _GameWindow__PutMoney,		<cyfunction GameWindow.__PutMoney at 0x082C3A80>
 
 submodule._GameWindow__PutMoney
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MiniGameStart,		<cyfunction GameWindow.MiniGameStart at 0x082C6A80>
+MiniGameStart,		<cyfunction GameWindow.MiniGameStart at 0x2644C240>
 	arg0: self
 
 submodule.MiniGameStart
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__SeverInfo,		<cyfunction GameWindow.__SeverInfo at 0x082C75B0>
+_GameWindow__SeverInfo,		<cyfunction GameWindow.__SeverInfo at 0x2644CD40>
 	arg0: self
 	arg1: channelNumber
 	arg2: mapIndex
 
 submodule._GameWindow__SeverInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Cube_Open,		<cyfunction GameWindow.BINARY_Cube_Open at 0x082C4138>
+BINARY_Cube_Open,		<cyfunction GameWindow.BINARY_Cube_Open at 0x264495B0>
 	arg0: self
 	arg1: npcVNUM
 
 submodule.BINARY_Cube_Open
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetGuildDragonLairFistGuildText,		<cyfunction GameWindow.SetGuildDragonLairFistGuildText at 0x082C6DF0>
+_GameWindow__RestartDialog_Close,		<cyfunction GameWindow.__RestartDialog_Close at 0x2644B030>
 	arg0: self
-	arg1: second
 
-submodule.SetGuildDragonLairFistGuildText
+submodule._GameWindow__RestartDialog_Close
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MyPrivShopOpen,		<cyfunction GameWindow.MyPrivShopOpen at 0x082C5AD8>
+MyPrivShopOpen,		<cyfunction GameWindow.MyPrivShopOpen at 0x2644B0E0>
 	arg0: self
 	arg1: cashItem
 	arg2: tabCnt
 
 submodule.MyPrivShopOpen
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ClearAffects,		<cyfunction GameWindow.ClearAffects at 0x082C0F50>
+ClearAffects,		<cyfunction GameWindow.ClearAffects at 0x264461E8>
 	arg0: self
 
 submodule.ClearAffects
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetPCTargetBoard,		<cyfunction GameWindow.SetPCTargetBoard at 0x082C13F8>
+SetPCTargetBoard,		<cyfunction GameWindow.SetPCTargetBoard at 0x26446A28>
 	arg0: self
 	arg1: vid
 	arg2: name
 
 submodule.SetPCTargetBoard
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ReleaseGKey,		<cyfunction GameWindow.__ReleaseGKey at 0x0A1C0FA8>
+OpenUI12zi,		<cyfunction GameWindow.OpenUI12zi at 0x264467C0>
 	arg0: self
+	arg1: yellowmark
+	arg2: greenmark
+	arg3: yellowreward
+	arg4: greenreward
+	arg5: goldreward
 
-submodule._GameWindow__ReleaseGKey
+submodule.OpenUI12zi
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ShowMouseImage,		<cyfunction GameWindow.ShowMouseImage at 0x082C3450>
-	arg0: self
-
-submodule.ShowMouseImage
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenEquipmentDialog,		<cyfunction GameWindow.OpenEquipmentDialog at 0x082C1660>
+OpenEquipmentDialog,		<cyfunction GameWindow.OpenEquipmentDialog at 0x26446D40>
 	arg0: self
 	arg1: vid
 
 submodule.OpenEquipmentDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetShopSellingPrice,		<cyfunction GameWindow.SetShopSellingPrice at 0x082C22F0>
+SetShopSellingPrice,		<cyfunction GameWindow.SetShopSellingPrice at 0x26447B30>
 	arg0: self
 	arg1: Price
 
 submodule.SetShopSellingPrice
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PartyRequestQuestion,		<cyfunction GameWindow.__PartyRequestQuestion at 0x082C5E48>
+_GameWindow__PartyRequestQuestion,		<cyfunction GameWindow.__PartyRequestQuestion at 0x2644B500>
 	arg0: self
 	arg1: vid
 	arg2: name
 
 submodule._GameWindow__PartyRequestQuestion
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StopDown,		<cyfunction GameWindow.StopDown at 0x082C3768>
+_GameWindow__OpenAttr67AddDlg,		<cyfunction GameWindow.__OpenAttr67AddDlg at 0x2644D2F0>
 	arg0: self
 
-submodule.StopDown
+submodule._GameWindow__OpenAttr67AddDlg
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshSafebox,		<cyfunction GameWindow.RefreshSafebox at 0x082C29D0>
+RefreshSafebox,		<cyfunction GameWindow.RefreshSafebox at 0x26448240>
 	arg0: self
 
 submodule.RefreshSafebox
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CommandCloseGuildBank,		<cyfunction GameWindow.CommandCloseGuildBank at 0x082C5660>
+CommandCloseGuildBank,		<cyfunction GameWindow.CommandCloseGuildBank at 0x2644AD40>
 	arg0: self
 
 submodule.CommandCloseGuildBank
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AskSafeboxPassword,		<cyfunction GameWindow.AskSafeboxPassword at 0x082C53A0>
+AskSafeboxPassword,		<cyfunction GameWindow.AskSafeboxPassword at 0x2644A9D0>
 	arg0: self
 
 submodule.AskSafeboxPassword
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__BattleFieldOpen,		<cyfunction GameWindow.__BattleFieldOpen at 0x082C7190>
+_GameWindow__BattleFieldOpen,		<cyfunction GameWindow.__BattleFieldOpen at 0x2644C920>
 	arg0: self
 	arg1: open
 
 submodule._GameWindow__BattleFieldOpen
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_PrivateShop_Appear,		<cyfunction GameWindow.BINARY_PrivateShop_Appear at 0x082C5B88>
+BINARY_PrivateShop_Appear,		<cyfunction GameWindow.BINARY_PrivateShop_Appear at 0x2644B190>
 	arg0: self
 	arg1: vid
 	arg2: text
@@ -1414,56 +1466,46 @@ BINARY_PrivateShop_Appear,		<cyfunction GameWindow.BINARY_PrivateShop_Appear at 
 
 submodule.BINARY_PrivateShop_Appear
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__MonsterBack,		<cyfunction GameWindow.__MonsterBack at 0x082C50E0>
+_GameWindow__MonsterBack,		<cyfunction GameWindow.__MonsterBack at 0x2644A4A8>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__MonsterBack
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressQKey,		<cyfunction GameWindow.__PressQKey at 0x082C0030>
-	arg0: self
-
-submodule._GameWindow__PressQKey
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StartExchange,		<cyfunction GameWindow.StartExchange at 0x082C2348>
+StartExchange,		<cyfunction GameWindow.StartExchange at 0x26447B88>
 	arg0: self
 
 submodule.StartExchange
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildMemberPageGradeComboBox,		<cyfunction GameWindow.RefreshGuildMemberPageGradeComboBox at 0x082C0978>
+RefreshGuildMemberPageGradeComboBox,		<cyfunction GameWindow.RefreshGuildMemberPageGradeComboBox at 0x26445C90>
 	arg0: self
 
 submodule.RefreshGuildMemberPageGradeComboBox
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StopRight,		<cyfunction GameWindow.StopRight at 0x082C3818>
-	arg0: self
-
-submodule.StopRight
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ShowClock,		<cyfunction GameWindow.ShowClock at 0x082C3138>
+ShowClock,		<cyfunction GameWindow.ShowClock at 0x264489D0>
 	arg0: self
 	arg1: second
 
 submodule.ShowClock
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CancelGuildName,		<cyfunction GameWindow.CancelGuildName at 0x082C0D98>
+CancelGuildName,		<cyfunction GameWindow.CancelGuildName at 0x26446030>
 	arg0: self
 
 submodule.CancelGuildName
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__RefineFailedTypeMessage,		<cyfunction GameWindow.__RefineFailedTypeMessage at 0x082C7768>
+_GameWindow__RefineFailedTypeMessage,		<cyfunction GameWindow.__RefineFailedTypeMessage at 0x2644CEF8>
 	arg0: self
 	arg1: value
 
 submodule._GameWindow__RefineFailedTypeMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-DeactivateSkillSlot,		<cyfunction GameWindow.DeactivateSkillSlot at 0x082C1190>
+DeactivateSkillSlot,		<cyfunction GameWindow.DeactivateSkillSlot at 0x26446558>
 	arg0: self
 	arg1: slotIndex
 
 submodule.DeactivateSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__Horse_UpdateState,		<cyfunction GameWindow.__Horse_UpdateState at 0x082C5768>
+_GameWindow__Horse_UpdateState,		<cyfunction GameWindow.__Horse_UpdateState at 0x2644ADF0>
 	arg0: self
 	arg1: level
 	arg2: health
@@ -1471,61 +1513,68 @@ _GameWindow__Horse_UpdateState,		<cyfunction GameWindow.__Horse_UpdateState at 0
 
 submodule._GameWindow__Horse_UpdateState
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ProcessPreservedServerCommand,		<cyfunction GameWindow.__ProcessPreservedServerCommand at 0x082C52F0>
+_GameWindow__ProcessPreservedServerCommand,		<cyfunction GameWindow.__ProcessPreservedServerCommand at 0x2644A920>
 	arg0: self
 
 submodule._GameWindow__ProcessPreservedServerCommand
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CheckGameButton,		<cyfunction GameWindow.CheckGameButton at 0x082C0608>
+CheckGameButton,		<cyfunction GameWindow.CheckGameButton at 0x26445870>
 	arg0: self
 
 submodule.CheckGameButton
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_OpenAtlasWindow,		<cyfunction GameWindow.BINARY_OpenAtlasWindow at 0x082C1818>
+BINARY_OpenAtlasWindow,		<cyfunction GameWindow.BINARY_OpenAtlasWindow at 0x26446EF8>
 	arg0: self
 
 submodule.BINARY_OpenAtlasWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__MiniGameOkeyNormal,		<cyfunction GameWindow.__MiniGameOkeyNormal at 0x082C5030>
+Refresh12ziTimer,		<cyfunction GameWindow.Refresh12ziTimer at 0x26446818>
 	arg0: self
-	arg1: enable
+	arg1: currentFloor
+	arg2: jumpCount
+	arg3: limitTime
+	arg4: elapseTime
 
-submodule._GameWindow__MiniGameOkeyNormal
+submodule.Refresh12ziTimer
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenWindow,		<cyfunction GameWindow.OpenWindow at 0x082C01E8>
+ShowName,		<cyfunction GameWindow.ShowName at 0x26448BE0>
+	arg0: self
+
+submodule.ShowName
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+OpenWindow,		<cyfunction GameWindow.OpenWindow at 0x264454A8>
 	arg0: self
 	arg1: type
 	arg2: state
 
 submodule.OpenWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenQuestWindow,		<cyfunction GameWindow.OpenQuestWindow at 0x082C0C90>
+OpenQuestWindow,		<cyfunction GameWindow.OpenQuestWindow at 0x26445EF8>
 	arg0: self
 	arg1: skin
 	arg2: idx
 
 submodule.OpenQuestWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__NotifyError,		<cyfunction GameWindow.__NotifyError at 0x082C04A8>
+_GameWindow__NotifyError,		<cyfunction GameWindow.__NotifyError at 0x26445710>
 	arg0: self
 	arg1: msg
 
 submodule._GameWindow__NotifyError
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnShopError,		<cyfunction GameWindow.OnShopError at 0x082C1D98>
+_GameWindow__RefineSoulSuceededMessage,		<cyfunction GameWindow.__RefineSoulSuceededMessage at 0x2644AC38>
 	arg0: self
-	arg1: type
 
-submodule.OnShopError
+submodule._GameWindow__RefineSoulSuceededMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnGameOver,		<cyfunction GameWindow.OnGameOver at 0x082C12F0>
+OnGameOver,		<cyfunction GameWindow.OnGameOver at 0x264466B8>
 	arg0: self
 	arg1: openDlg
 	arg2: mapidx
 
 submodule.OnGameOver
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PutItem,		<cyfunction GameWindow.__PutItem at 0x082C3A28>
+_GameWindow__PutItem,		<cyfunction GameWindow.__PutItem at 0x26448E48>
 	arg0: self
 	arg1: attachedType
 	arg2: attachedItemIndex
@@ -1535,12 +1584,13 @@ _GameWindow__PutItem,		<cyfunction GameWindow.__PutItem at 0x082C3A28>
 
 submodule._GameWindow__PutItem
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ClickBKey,		<cyfunction GameWindow.__ClickBKey at 0x0A1C0D98>
+_GameWindow__PvPTournamentAutoSet,		<cyfunction GameWindow.__PvPTournamentAutoSet at 0x2644CFA8>
 	arg0: self
+	arg1: OnOff
 
-submodule._GameWindow__ClickBKey
+submodule._GameWindow__PvPTournamentAutoSet
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnRecvWhisperError,		<cyfunction GameWindow.OnRecvWhisperError at 0x082C1920>
+OnRecvWhisperError,		<cyfunction GameWindow.OnRecvWhisperError at 0x26447030>
 	arg0: self
 	arg1: mode
 	arg2: name
@@ -1548,7 +1598,7 @@ OnRecvWhisperError,		<cyfunction GameWindow.OnRecvWhisperError at 0x082C1920>
 
 submodule.OnRecvWhisperError
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenRefineDialog,		<cyfunction GameWindow.OpenRefineDialog at 0x082C0E48>
+OpenRefineDialog,		<cyfunction GameWindow.OpenRefineDialog at 0x264460E0>
 	arg0: self
 	arg1: targetItemPos
 	arg2: nextGradeItemVnum
@@ -1559,258 +1609,284 @@ OpenRefineDialog,		<cyfunction GameWindow.OpenRefineDialog at 0x082C0E48>
 
 submodule.OpenRefineDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-HideName,		<cyfunction GameWindow.HideName at 0x082C33F8>
+ShowQuestButton,		<cyfunction GameWindow.ShowQuestButton at 0x26445AD8>
+	arg0: self
+
+submodule.ShowQuestButton
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+HideName,		<cyfunction GameWindow.HideName at 0x26448C90>
 	arg0: self
 
 submodule.HideName
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__SetQuickPageMode,		<cyfunction GameWindow.__SetQuickPageMode at 0x082C00E0>
+_GameWindow__PRESERVE_DayMode_Update,		<cyfunction GameWindow.__PRESERVE_DayMode_Update at 0x2644B240>
 	arg0: self
+	arg1: mode
 
-submodule._GameWindow__SetQuickPageMode
+submodule._GameWindow__PRESERVE_DayMode_Update
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_NEW_AddAffect,		<cyfunction GameWindow.BINARY_NEW_AddAffect at 0x082C1088>
-	arg0: self
-	arg1: type
-	arg2: pointIdx
-	arg3: value
-	arg4: duration
-
-submodule.BINARY_NEW_AddAffect
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__InGameShop_Show,		<cyfunction GameWindow.__InGameShop_Show at 0x082C5FA8>
+_GameWindow__InGameShop_Show,		<cyfunction GameWindow.__InGameShop_Show at 0x2644B660>
 	arg0: self
 	arg1: url
 
 submodule._GameWindow__InGameShop_Show
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressNumKey,		<cyfunction GameWindow.__PressNumKey at 0x0A1C0D40>
-	arg0: self
-	arg1: num
-
-submodule._GameWindow__PressNumKey
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ThreeWay_SafeZone_Enable,		<cyfunction GameWindow.__ThreeWay_SafeZone_Enable at 0x082C5240>
+_GameWindow__ThreeWay_SafeZone_Enable,		<cyfunction GameWindow.__ThreeWay_SafeZone_Enable at 0x2644A870>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__ThreeWay_SafeZone_Enable
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__Check_Guild_War,		<cyfunction GameWindow.__Check_Guild_War at 0x082C4BE0>
+DutchAuctionWindow,		<cyfunction GameWindow.DutchAuctionWindow at 0x2644A710>
+	arg0: self
+	arg1: url
+	arg2: onoff
+
+submodule.DutchAuctionWindow
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__Check_Guild_War,		<cyfunction GameWindow.__Check_Guild_War at 0x26449FA8>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__Check_Guild_War
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ActivateSlot,		<cyfunction GameWindow.ActivateSlot at 0x082C64A8>
+ActivateSlot,		<cyfunction GameWindow.ActivateSlot at 0x2644BB30>
 	arg0: self
 	arg1: slotindex
 	arg2: type
 
 submodule.ActivateSlot
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PetFeedReuslt,		<cyfunction GameWindow.PetFeedReuslt at 0x082C6978>
+PetFeedReuslt,		<cyfunction GameWindow.PetFeedReuslt at 0x2644C030>
 	arg0: self
 	arg1: result
 
 submodule.PetFeedReuslt
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-HideMouseImage,		<cyfunction GameWindow.HideMouseImage at 0x082C34A8>
-	arg0: self
-
-submodule.HideMouseImage
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildMemberPage,		<cyfunction GameWindow.RefreshGuildMemberPage at 0x082C0920>
+RefreshGuildMemberPage,		<cyfunction GameWindow.RefreshGuildMemberPage at 0x26445C38>
 	arg0: self
 
 submodule.RefreshGuildMemberPage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ChangeWindowOpen,		<cyfunction GameWindow.__ChangeWindowOpen at 0x082C4C38>
+_GameWindow__OpenAuraWindow,		<cyfunction GameWindow.__OpenAuraWindow at 0x2644A818>
+	arg0: self
+	arg1: type
+
+submodule._GameWindow__OpenAuraWindow
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+OnRecvWhisper,		<cyfunction GameWindow.OnRecvWhisper at 0x26446F50>
+	arg0: self
+	arg1: mode
+	arg2: name
+	arg3: line
+
+submodule.OnRecvWhisper
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__SetEnvironment,		<cyfunction GameWindow.__SetEnvironment at 0x2644B3F8>
 	arg0: self
 
-submodule._GameWindow__ChangeWindowOpen
+submodule._GameWindow__SetEnvironment
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ActivateSkillSlot,		<cyfunction GameWindow.ActivateSkillSlot at 0x082C1138>
+ActivateSkillSlot,		<cyfunction GameWindow.ActivateSkillSlot at 0x26446500>
 	arg0: self
 	arg1: slotIndex
 
 submodule.ActivateSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__BattleFieldInfo,		<cyfunction GameWindow.__BattleFieldInfo at 0x082C7138>
+_GameWindow__BattleFieldInfo,		<cyfunction GameWindow.__BattleFieldInfo at 0x2644C8C8>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__BattleFieldInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CloseTargetBoard,		<cyfunction GameWindow.CloseTargetBoard at 0x082C1608>
+CloseTargetBoard,		<cyfunction GameWindow.CloseTargetBoard at 0x26446C90>
 	arg0: self
 
 submodule.CloseTargetBoard
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CommandCloseSafebox,		<cyfunction GameWindow.CommandCloseSafebox at 0x082C5608>
+CommandCloseSafebox,		<cyfunction GameWindow.CommandCloseSafebox at 0x2644ACE8>
 	arg0: self
 
 submodule.CommandCloseSafebox
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction GameWindow.OnIMEReturn at 0x082C3EF8>
+RemoveQuickSlotIndex,		<cyfunction GameWindow.RemoveQuickSlotIndex at 0x264464A8>
+	arg0: self
+	arg1: iIndex
+
+submodule.RemoveQuickSlotIndex
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+OnIMEReturn,		<cyfunction GameWindow.OnIMEReturn at 0x26449348>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__AcceCombineDialog,		<cyfunction GameWindow.__AcceCombineDialog at 0x082C6348>
+_GameWindow__AcceCombineDialog,		<cyfunction GameWindow.__AcceCombineDialog at 0x2644B9D0>
 	arg0: self
 
 submodule._GameWindow__AcceCombineDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetAffect,		<cyfunction GameWindow.SetAffect at 0x082C0FA8>
+SetAffect,		<cyfunction GameWindow.SetAffect at 0x26446240>
 	arg0: self
 	arg1: affect
 
 submodule.SetAffect
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__SelectQuickPage,		<cyfunction GameWindow.__SelectQuickPage at 0x082C03A0>
+_GameWindow__SelectQuickPage,		<cyfunction GameWindow.__SelectQuickPage at 0x26445608>
 	arg0: self
 	arg1: pageIndex
 
 submodule._GameWindow__SelectQuickPage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnPickGem,		<cyfunction GameWindow.OnPickGem at 0x082C1A80>
+OnPickGem,		<cyfunction GameWindow.OnPickGem at 0x26447190>
 	arg0: self
 	arg1: gem
 
 submodule.OnPickGem
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__DayMode_Update,		<cyfunction GameWindow.__DayMode_Update at 0x082C5C90>
+_GameWindow__DayMode_Update,		<cyfunction GameWindow.__DayMode_Update at 0x2644B298>
 	arg0: self
 	arg1: mode
 
 submodule._GameWindow__DayMode_Update
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RecvGuildLandDealQuestion,		<cyfunction GameWindow.RecvGuildLandDealQuestion at 0x082C2E48>
+RecvGuildLandDealQuestion,		<cyfunction GameWindow.RecvGuildLandDealQuestion at 0x26448710>
 	arg0: self
 	arg1: guildName
 	arg2: money
 
 submodule.RecvGuildLandDealQuestion
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnKeyDown,		<cyfunction GameWindow.OnKeyDown at 0x082C38C8>
+_GameWindow__MiniGameCatchKing,		<cyfunction GameWindow.__MiniGameCatchKing at 0x2644A660>
 	arg0: self
-	arg1: key
+	arg1: enable
 
-submodule.OnKeyDown
+submodule._GameWindow__MiniGameCatchKing
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenSkillbookCombinationDialog,		<cyfunction GameWindow.OpenSkillbookCombinationDialog at 0x082C53F8>
+OpenSkillbookCombinationDialog,		<cyfunction GameWindow.OpenSkillbookCombinationDialog at 0x2644AA28>
 	arg0: self
+	arg1: type
 
 submodule.OpenSkillbookCombinationDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AnswerGuildVote,		<cyfunction GameWindow.AnswerGuildVote at 0x082C2F50>
+AnswerGuildVote,		<cyfunction GameWindow.AnswerGuildVote at 0x26448818>
 	arg0: self
 	arg1: answer
 	arg2: type
 
 submodule.AnswerGuildVote
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AnswerGuildVoteCheckDialog,		<cyfunction GameWindow.AnswerGuildVoteCheckDialog at 0x082C3030>
+MailBoxProcess,		<cyfunction GameWindow.MailBoxProcess at 0x2644D0E0>
+	arg0: self
+	arg1: type
+	arg2: data
+
+submodule.MailBoxProcess
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+AnswerGuildVoteCheckDialog,		<cyfunction GameWindow.AnswerGuildVoteCheckDialog at 0x264488C8>
 	arg0: self
 	arg1: answer
 
 submodule.AnswerGuildVoteCheckDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ShowName,		<cyfunction GameWindow.ShowName at 0x082C3348>
+BINARY_SetMissionMessage,		<cyfunction GameWindow.BINARY_SetMissionMessage at 0x26449920>
+	arg0: self
+	arg1: message
+
+submodule.BINARY_SetMissionMessage
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__AskDSPassword,		<cyfunction GameWindow.__AskDSPassword at 0x2644BCE8>
 	arg0: self
 
-submodule.ShowName
+submodule._GameWindow__AskDSPassword
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildBoardPage,		<cyfunction GameWindow.RefreshGuildBoardPage at 0x082C08C8>
+RouletteProcess,		<cyfunction GameWindow.RouletteProcess at 0x2644D3F8>
+	arg0: self
+	arg1: type
+	arg2: data
+	default: None
+
+submodule.RouletteProcess
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+RefreshGuildBoardPage,		<cyfunction GameWindow.RefreshGuildBoardPage at 0x26445BE0>
 	arg0: self
 
 submodule.RefreshGuildBoardPage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshMall,		<cyfunction GameWindow.RefreshMall at 0x082C2AD8>
+RefreshMall,		<cyfunction GameWindow.RefreshMall at 0x264483A0>
 	arg0: self
 
 submodule.RefreshMall
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__2017RamaDanEvent,		<cyfunction GameWindow.__2017RamaDanEvent at 0x082C51E8>
+_GameWindow__2017RamaDanEvent,		<cyfunction GameWindow.__2017RamaDanEvent at 0x2644A5B0>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__2017RamaDanEvent
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-UnlinkAllPartyMember,		<cyfunction GameWindow.UnlinkAllPartyMember at 0x082C2710>
+UnlinkAllPartyMember,		<cyfunction GameWindow.UnlinkAllPartyMember at 0x26447F50>
 	arg0: self
 
 submodule.UnlinkAllPartyMember
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PressBKey,		<cyfunction GameWindow.__PressBKey at 0x0A1C0EA0>
+OnKeyDown,		<cyfunction GameWindow.OnKeyDown at 0x26448CE8>
 	arg0: self
+	arg1: key
 
-submodule._GameWindow__PressBKey
+submodule.OnKeyDown
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetGuildDragonLiarStart,		<cyfunction GameWindow.SetGuildDragonLiarStart at 0x082C6E48>
+SetGuildDragonLiarStart,		<cyfunction GameWindow.SetGuildDragonLiarStart at 0x2644C608>
 	arg0: self
 
 submodule.SetGuildDragonLiarStart
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshSafeboxMoney,		<cyfunction GameWindow.RefreshSafeboxMoney at 0x082C2A28>
+RefreshSafeboxMoney,		<cyfunction GameWindow.RefreshSafeboxMoney at 0x26448298>
 	arg0: self
 
 submodule.RefreshSafeboxMoney
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__IsXMasMap,		<cyfunction GameWindow.__IsXMasMap at 0x082C57C0>
+_GameWindow__IsXMasMap,		<cyfunction GameWindow.__IsXMasMap at 0x2644AE48>
 	arg0: self
 
 submodule._GameWindow__IsXMasMap
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-EndShop,		<cyfunction GameWindow.EndShop at 0x082C2240>
+SetHPAllianceTargetBoard,		<cyfunction GameWindow.SetHPAllianceTargetBoard at 0x26446BE0>
+	arg0: self
+	arg1: vid
+	arg2: hp
+	arg3: hpMax
+
+submodule.SetHPAllianceTargetBoard
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+EndShop,		<cyfunction GameWindow.EndShop at 0x26447A80>
 	arg0: self
 
 submodule.EndShop
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MoveRight,		<cyfunction GameWindow.MoveRight at 0x082C36B8>
-	arg0: self
-
-submodule.MoveRight
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Cube_UpdateInfo,		<cyfunction GameWindow.BINARY_Cube_UpdateInfo at 0x082C41E8>
-	arg0: self
-	arg1: gold
-	arg2: itemVnum
-	arg3: count
-
-submodule.BINARY_Cube_UpdateInfo
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AnswerPartyInvite,		<cyfunction GameWindow.AnswerPartyInvite at 0x082C2500>
+AnswerPartyInvite,		<cyfunction GameWindow.AnswerPartyInvite at 0x26447D40>
 	arg0: self
 	arg1: answer
 
 submodule.AnswerPartyInvite
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AppendMaterialToRefineDialog,		<cyfunction GameWindow.AppendMaterialToRefineDialog at 0x082C0EA0>
+AppendMaterialToRefineDialog,		<cyfunction GameWindow.AppendMaterialToRefineDialog at 0x26446138>
 	arg0: self
 	arg1: vnum
 	arg2: count
 
 submodule.AppendMaterialToRefineDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PartyMatchOff,		<cyfunction GameWindow.__PartyMatchOff at 0x082C7660>
+_GameWindow__PartyMatchOff,		<cyfunction GameWindow.__PartyMatchOff at 0x2644CDF0>
 	arg0: self
 	arg1: enable
 
 submodule._GameWindow__PartyMatchOff
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetCloseGame,		<cyfunction GameWindow.SetCloseGame at 0x082C0348>
-	arg0: self
-
-submodule.SetCloseGame
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction GameWindow.__del__ at 0x0A1C0B88>
+__del__,		<cyfunction GameWindow.__del__ at 0x26445348>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AddPartyMember,		<cyfunction GameWindow.AddPartyMember at 0x082C2558>
+AddPartyMember,		<cyfunction GameWindow.AddPartyMember at 0x26447D98>
 	arg0: self
 	arg1: pid
 	arg2: name
@@ -1819,58 +1895,65 @@ AddPartyMember,		<cyfunction GameWindow.AddPartyMember at 0x082C2558>
 
 submodule.AddPartyMember
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AddExchangeItemSlotIndex,		<cyfunction GameWindow.AddExchangeItemSlotIndex at 0x082C2450>
+AddExchangeItemSlotIndex,		<cyfunction GameWindow.AddExchangeItemSlotIndex at 0x26447C90>
 	arg0: self
-	arg1: idx
+	arg1: type
+	arg2: idx
 
 submodule.AddExchangeItemSlotIndex
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RecvGuildInviteQuestion,		<cyfunction GameWindow.RecvGuildInviteQuestion at 0x082C2B30>
+RecvGuildInviteQuestion,		<cyfunction GameWindow.RecvGuildInviteQuestion at 0x264483F8>
 	arg0: self
 	arg1: guildID
 	arg2: guildName
 
 submodule.RecvGuildInviteQuestion
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__GuildWar_OnAccept,		<cyfunction GameWindow.__GuildWar_OnAccept at 0x082C4AD8>
+_GameWindow__GuildWar_OnAccept,		<cyfunction GameWindow.__GuildWar_OnAccept at 0x26449EA0>
 	arg0: self
 
 submodule._GameWindow__GuildWar_OnAccept
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_GuildWar_OnSendDeclare,		<cyfunction GameWindow.BINARY_GuildWar_OnSendDeclare at 0x082C4768>
+BINARY_GuildWar_OnSendDeclare,		<cyfunction GameWindow.BINARY_GuildWar_OnSendDeclare at 0x26449B30>
 	arg0: self
 	arg1: guildID
 
 submodule.BINARY_GuildWar_OnSendDeclare
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_PrivateShop_Disappear,		<cyfunction GameWindow.BINARY_PrivateShop_Disappear at 0x082C5BE0>
+BINARY_PrivateShop_Disappear,		<cyfunction GameWindow.BINARY_PrivateShop_Disappear at 0x2644B1E8>
 	arg0: self
 	arg1: vid
 
 submodule.BINARY_PrivateShop_Disappear
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ResetDSActiveButton,		<cyfunction GameWindow.__ResetDSActiveButton at 0x082C6608>
+_GameWindow__ResetDSActiveButton,		<cyfunction GameWindow.__ResetDSActiveButton at 0x2644BC90>
 	arg0: self
 
 submodule._GameWindow__ResetDSActiveButton
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnRender,		<cyfunction GameWindow.OnRender at 0x082C3E48>
+_GameWindow__MiniBossDungeon,		<cyfunction GameWindow.__MiniBossDungeon at 0x2644A6B8>
+	arg0: self
+	arg1: enable
+
+submodule._GameWindow__MiniBossDungeon
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+OnRender,		<cyfunction GameWindow.OnRender at 0x26449298>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ClearGuildRanking,		<cyfunction GameWindow.__ClearGuildRanking at 0x082C4E48>
+_GameWindow__ClearGuildRanking,		<cyfunction GameWindow.__ClearGuildRanking at 0x2644A240>
 	arg0: self
 
 submodule._GameWindow__ClearGuildRanking
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshTargetBoardByName,		<cyfunction GameWindow.RefreshTargetBoardByName at 0x082C14A8>
+RefreshTargetBoardByName,		<cyfunction GameWindow.RefreshTargetBoardByName at 0x26446AD8>
 	arg0: self
 	arg1: name
 
 submodule.RefreshTargetBoardByName
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetEquipmentDialogAttr,		<cyfunction GameWindow.SetEquipmentDialogAttr at 0x082C1768>
+SetEquipmentDialogAttr,		<cyfunction GameWindow.SetEquipmentDialogAttr at 0x26446E48>
 	arg0: self
 	arg1: vid
 	arg2: slotIndex
@@ -1880,70 +1963,87 @@ SetEquipmentDialogAttr,		<cyfunction GameWindow.SetEquipmentDialogAttr at 0x082C
 
 submodule.SetEquipmentDialogAttr
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RecvPartyInviteQuestion,		<cyfunction GameWindow.RecvPartyInviteQuestion at 0x082C24A8>
+RecvPartyInviteQuestion,		<cyfunction GameWindow.RecvPartyInviteQuestion at 0x26447CE8>
 	arg0: self
 	arg1: leaderVID
 	arg2: leaderName
 
 submodule.RecvPartyInviteQuestion
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetGuildWarType,		<cyfunction GameWindow.SetGuildWarType at 0x082C2C38>
+SetGuildWarType,		<cyfunction GameWindow.SetGuildWarType at 0x26448500>
 	arg0: self
 	arg1: index
 
 submodule.SetGuildWarType
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_NEW_RemoveAffect,		<cyfunction GameWindow.BINARY_NEW_RemoveAffect at 0x082C10E0>
+SetPetWindowType,		<cyfunction GameWindow.SetPetWindowType at 0x2644C138>
+	arg0: self
+	arg1: pet_window_type
+
+submodule.SetPetWindowType
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__AskDSRefinePassword,		<cyfunction GameWindow.__AskDSRefinePassword at 0x2644BC38>
+	arg0: self
+
+submodule._GameWindow__AskDSRefinePassword
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+BINARY_NEW_RemoveAffect,		<cyfunction GameWindow.BINARY_NEW_RemoveAffect at 0x26446348>
 	arg0: self
 	arg1: type
 	arg2: pointIdx
 
 submodule.BINARY_NEW_RemoveAffect
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-Close,		<cyfunction GameWindow.Close at 0x0A1C0C38>
+Close,		<cyfunction GameWindow.Close at 0x264453F8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGemShopWIndow,		<cyfunction GameWindow.RefreshGemShopWIndow at 0x082C1B88>
+RefreshGemShopWIndow,		<cyfunction GameWindow.RefreshGemShopWIndow at 0x26447298>
 	arg0: self
 
 submodule.RefreshGemShopWIndow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StartGame,		<cyfunction GameWindow.StartGame at 0x082C05B0>
+StartGame,		<cyfunction GameWindow.StartGame at 0x26445818>
 	arg0: self
 
 submodule.StartGame
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_RefreshSelectItemWindowEx,		<cyfunction GameWindow.BINARY_RefreshSelectItemWindowEx at 0x082C1C90>
+BINARY_RefreshSelectItemWindowEx,		<cyfunction GameWindow.BINARY_RefreshSelectItemWindowEx at 0x264473A0>
 	arg0: self
 
 submodule.BINARY_RefreshSelectItemWindowEx
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ExitBattleFieldOnDead,		<cyfunction GameWindow.ExitBattleFieldOnDead at 0x082C7348>
+ExitBattleFieldOnDead,		<cyfunction GameWindow.ExitBattleFieldOnDead at 0x2644CAD8>
 	arg0: self
 	arg1: point
 
 submodule.ExitBattleFieldOnDead
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__GuildWar_OnDecline,		<cyfunction GameWindow.__GuildWar_OnDecline at 0x082C4B30>
+_GameWindow__GuildWar_OnDecline,		<cyfunction GameWindow.__GuildWar_OnDecline at 0x26449EF8>
 	arg0: self
 
 submodule._GameWindow__GuildWar_OnDecline
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_ActEmotion,		<cyfunction GameWindow.BINARY_ActEmotion at 0x082C31E8>
+RemoveSpecialActionSlot,		<cyfunction GameWindow.RemoveSpecialActionSlot at 0x26446450>
+	arg0: self
+	arg1: iIndex
+
+submodule.RemoveSpecialActionSlot
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+BINARY_ActEmotion,		<cyfunction GameWindow.BINARY_ActEmotion at 0x26448A80>
 	arg0: self
 	arg1: emotionIndex
 
 submodule.BINARY_ActEmotion
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MiniGameFishCount,		<cyfunction GameWindow.MiniGameFishCount at 0x082C7500>
+MiniGameFishCount,		<cyfunction GameWindow.MiniGameFishCount at 0x2644CC90>
 	arg0: self
 	arg1: count
 
 submodule.MiniGameFishCount
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-PetNameChangeWindowCommand,		<cyfunction GameWindow.PetNameChangeWindowCommand at 0x082C67C0>
+PetNameChangeWindowCommand,		<cyfunction GameWindow.PetNameChangeWindowCommand at 0x2644BE48>
 	arg0: self
 	arg1: command
 	arg2: srcWindow
@@ -1953,23 +2053,29 @@ PetNameChangeWindowCommand,		<cyfunction GameWindow.PetNameChangeWindowCommand a
 
 submodule.PetNameChangeWindowCommand
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__XMasBoom_Update,		<cyfunction GameWindow.__XMasBoom_Update at 0x082C5D98>
+PetAttrDetermineResult,		<cyfunction GameWindow.PetAttrDetermineResult at 0x2644C088>
+	arg0: self
+	arg1: byType
+
+submodule.PetAttrDetermineResult
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+_GameWindow__XMasBoom_Update,		<cyfunction GameWindow.__XMasBoom_Update at 0x2644B450>
 	arg0: self
 
 submodule._GameWindow__XMasBoom_Update
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshCharacter,		<cyfunction GameWindow.RefreshCharacter at 0x082C1298>
+RefreshCharacter,		<cyfunction GameWindow.RefreshCharacter at 0x26446660>
 	arg0: self
 
 submodule.RefreshCharacter
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AnswerGuildInvite,		<cyfunction GameWindow.AnswerGuildInvite at 0x082C2B88>
+AnswerGuildInvite,		<cyfunction GameWindow.AnswerGuildInvite at 0x26448450>
 	arg0: self
 	arg1: answer
 
 submodule.AnswerGuildInvite
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetEquipmentDialogSocket,		<cyfunction GameWindow.SetEquipmentDialogSocket at 0x082C1710>
+SetEquipmentDialogSocket,		<cyfunction GameWindow.SetEquipmentDialogSocket at 0x26446DF0>
 	arg0: self
 	arg1: vid
 	arg2: slotIndex
@@ -1978,204 +2084,215 @@ SetEquipmentDialogSocket,		<cyfunction GameWindow.SetEquipmentDialogSocket at 0x
 
 submodule.SetEquipmentDialogSocket
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__XMasSong_Enable,		<cyfunction GameWindow.__XMasSong_Enable at 0x082C5920>
+_GameWindow__MiniGameOkey,		<cyfunction GameWindow.__MiniGameOkey at 0x2644A3A0>
 	arg0: self
-	arg1: mode
+	arg1: enable
 
-submodule._GameWindow__XMasSong_Enable
+submodule._GameWindow__MiniGameOkey
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshExchange,		<cyfunction GameWindow.RefreshExchange at 0x082C23F8>
+OnFishingGameStart,		<cyfunction GameWindow.OnFishingGameStart at 0x264477C0>
+	arg0: self
+
+submodule.OnFishingGameStart
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+RefreshExchange,		<cyfunction GameWindow.RefreshExchange at 0x26447C38>
 	arg0: self
 
 submodule.RefreshExchange
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__XMasSnow_Enable,		<cyfunction GameWindow.__XMasSnow_Enable at 0x082C5818>
+_GameWindow__XMasSnow_Enable,		<cyfunction GameWindow.__XMasSnow_Enable at 0x2644AEA0>
 	arg0: self
 	arg1: mode
 
 submodule._GameWindow__XMasSnow_Enable
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenMallWindow,		<cyfunction GameWindow.OpenMallWindow at 0x082C2A80>
+OpenMallWindow,		<cyfunction GameWindow.OpenMallWindow at 0x26448348>
 	arg0: self
 	arg1: size
 
 submodule.OpenMallWindow
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MiniGameEnd,		<cyfunction GameWindow.MiniGameEnd at 0x082C6BE0>
+SetAutoCooltime,		<cyfunction GameWindow.SetAutoCooltime at 0x264455B0>
+	arg0: self
+	arg1: slotindex
+	arg2: cooltime
+
+submodule.SetAutoCooltime
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+SafeboxChangePassword,		<cyfunction GameWindow.SafeboxChangePassword at 0x264482F0>
+	arg0: self
+
+submodule.SafeboxChangePassword
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+MiniGameEnd,		<cyfunction GameWindow.MiniGameEnd at 0x2644C3A0>
 	arg0: self
 
 submodule.MiniGameEnd
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__GuildWar_CloseAskDialog,		<cyfunction GameWindow.__GuildWar_CloseAskDialog at 0x082C4A80>
+_GameWindow__GuildWar_CloseAskDialog,		<cyfunction GameWindow.__GuildWar_CloseAskDialog at 0x26449E48>
 	arg0: self
 
 submodule._GameWindow__GuildWar_CloseAskDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildRankingList,		<cyfunction GameWindow.RefreshGuildRankingList at 0x082C6C38>
+_GameWindow__CloseDSInventory,		<cyfunction GameWindow.__CloseDSInventory at 0x2644BD98>
 	arg0: self
-	arg1: issearch
 
-submodule.RefreshGuildRankingList
+submodule._GameWindow__CloseDSInventory
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Cube_MaterialInfo,		<cyfunction GameWindow.BINARY_Cube_MaterialInfo at 0x082C4348>
+SetGuildDragonLairFistGuildText,		<cyfunction GameWindow.SetGuildDragonLairFistGuildText at 0x2644C5B0>
 	arg0: self
-	arg1: startIndex
-	arg2: listCount
-	arg3: listText
+	arg1: second
 
-submodule.BINARY_Cube_MaterialInfo
+submodule.SetGuildDragonLairFistGuildText
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-CloseTargetBoardIfDifferent,		<cyfunction GameWindow.CloseTargetBoardIfDifferent at 0x082C15B0>
+OnMessengerAddFriendQuestion,		<cyfunction GameWindow.OnMessengerAddFriendQuestion at 0x26448088>
+	arg0: self
+	arg1: name
+
+submodule.OnMessengerAddFriendQuestion
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+CloseTargetBoardIfDifferent,		<cyfunction GameWindow.CloseTargetBoardIfDifferent at 0x26446C38>
 	arg0: self
 	arg1: vid
 
 submodule.CloseTargetBoardIfDifferent
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnSafeBoxError,		<cyfunction GameWindow.OnSafeBoxError at 0x082C1DF0>
+OnSafeBoxError,		<cyfunction GameWindow.OnSafeBoxError at 0x264475B0>
 	arg0: self
 
 submodule.OnSafeBoxError
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshMessenger,		<cyfunction GameWindow.RefreshMessenger at 0x082C0818>
+RefreshMessenger,		<cyfunction GameWindow.RefreshMessenger at 0x26445B30>
 	arg0: self
 
 submodule.RefreshMessenger
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenPShopSearchDialogCash,		<cyfunction GameWindow.OpenPShopSearchDialogCash at 0x082C6298>
+OpenPShopSearchDialogCash,		<cyfunction GameWindow.OpenPShopSearchDialogCash at 0x2644B920>
 	arg0: self
 
 submodule.OpenPShopSearchDialogCash
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenGemShop,		<cyfunction GameWindow.OpenGemShop at 0x082C1AD8>
+OpenGemShop,		<cyfunction GameWindow.OpenGemShop at 0x264471E8>
 	arg0: self
 
 submodule.OpenGemShop
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-SetGuildDragonLiarSuccess,		<cyfunction GameWindow.SetGuildDragonLiarSuccess at 0x082C6EA0>
+SetGuildDragonLiarSuccess,		<cyfunction GameWindow.SetGuildDragonLiarSuccess at 0x2644C660>
 	arg0: self
 
 submodule.SetGuildDragonLiarSuccess
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-ExitBattleField,		<cyfunction GameWindow.ExitBattleField at 0x082C72F0>
+ExitBattleField,		<cyfunction GameWindow.ExitBattleField at 0x2644CA80>
 	arg0: self
 	arg1: point
 
 submodule.ExitBattleField
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnPickMoney,		<cyfunction GameWindow.OnPickMoney at 0x082C19D0>
+OnPickMoney,		<cyfunction GameWindow.OnPickMoney at 0x264470E0>
 	arg0: self
 	arg1: money
 
 submodule.OnPickMoney
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshEquipment,		<cyfunction GameWindow.RefreshEquipment at 0x082C11E8>
+RefreshEquipment,		<cyfunction GameWindow.RefreshEquipment at 0x264465B0>
 	arg0: self
 
 submodule.RefreshEquipment
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_Cube_Failed,		<cyfunction GameWindow.BINARY_Cube_Failed at 0x082C4298>
+_GameWindow__MiniGameYutnori,		<cyfunction GameWindow.__MiniGameYutnori at 0x2644A608>
 	arg0: self
+	arg1: enable
 
-submodule.BINARY_Cube_Failed
+submodule._GameWindow__MiniGameYutnori
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshInventory,		<cyfunction GameWindow.RefreshInventory at 0x082C1240>
-	arg0: self
-
-submodule.RefreshInventory
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AskMallPassword,		<cyfunction GameWindow.AskMallPassword at 0x082C5450>
+AskMallPassword,		<cyfunction GameWindow.AskMallPassword at 0x2644AA80>
 	arg0: self
 
 submodule.AskMallPassword
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__AskDSRefinePassword,		<cyfunction GameWindow.__AskDSRefinePassword at 0x082C65B0>
+RefreshShopItemToolTip,		<cyfunction GameWindow.RefreshShopItemToolTip at 0x26446978>
 	arg0: self
 
-submodule._GameWindow__AskDSRefinePassword
+submodule.RefreshShopItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildBank,		<cyfunction GameWindow.RefreshGuildBank at 0x082C2D40>
+RefreshGuildBank,		<cyfunction GameWindow.RefreshGuildBank at 0x26448608>
 	arg0: self
 
 submodule.RefreshGuildBank
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ItemMall_Open,		<cyfunction GameWindow.__ItemMall_Open at 0x082C54A8>
+_GameWindow__ItemMall_Open,		<cyfunction GameWindow.__ItemMall_Open at 0x2644AAD8>
 	arg0: self
 
 submodule._GameWindow__ItemMall_Open
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshMissionPage,		<cyfunction GameWindow.RefreshMissionPage at 0x082C6F50>
+RefreshMissionPage,		<cyfunction GameWindow.RefreshMissionPage at 0x2644C710>
 	arg0: self
 
 submodule.RefreshMissionPage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__AcceAbsorbDialog,		<cyfunction GameWindow.__AcceAbsorbDialog at 0x082C63A0>
+_GameWindow__AcceAbsorbDialog,		<cyfunction GameWindow.__AcceAbsorbDialog at 0x2644BA28>
 	arg0: self
 
 submodule._GameWindow__AcceAbsorbDialog
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_SetTipMessage,		<cyfunction GameWindow.BINARY_SetTipMessage at 0x082C4608>
+BINARY_SetTipMessage,		<cyfunction GameWindow.BINARY_SetTipMessage at 0x264498C8>
 	arg0: self
 	arg1: message
 
 submodule.BINARY_SetTipMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-StopLeft,		<cyfunction GameWindow.StopLeft at 0x082C37C0>
+_GameWindow__ServerCommand_Build,		<cyfunction GameWindow.__ServerCommand_Build at 0x26449F50>
 	arg0: self
 
-submodule.StopLeft
+submodule._GameWindow__ServerCommand_Build
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__PrivateShop_Open,		<cyfunction GameWindow.__PrivateShop_Open at 0x082C5A80>
+BINARY_CleanMissionMessage,		<cyfunction GameWindow.BINARY_CleanMissionMessage at 0x264499D0>
 	arg0: self
 
-submodule._GameWindow__PrivateShop_Open
+submodule.BINARY_CleanMissionMessage
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OpenGuildBankInfo,		<cyfunction GameWindow.OpenGuildBankInfo at 0x082C2DF0>
+OpenGuildBankInfo,		<cyfunction GameWindow.OpenGuildBankInfo at 0x264486B8>
 	arg0: self
 
 submodule.OpenGuildBankInfo
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction GameWindow.OnPressExitKey at 0x082C3F50>
+OnPressExitKey,		<cyfunction GameWindow.OnPressExitKey at 0x264493A0>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_DragonSoulRefineWindow_RefineSucceed,		<cyfunction GameWindow.BINARY_DragonSoulRefineWindow_RefineSucceed at 0x082C4500>
+BINARY_DragonSoulRefineWindow_RefineSucceed,		<cyfunction GameWindow.BINARY_DragonSoulRefineWindow_RefineSucceed at 0x264497C0>
 	arg0: self
 	arg1: inven_type
 	arg2: inven_pos
 
 submodule.BINARY_DragonSoulRefineWindow_RefineSucceed
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__Console_Enable,		<cyfunction GameWindow.__Console_Enable at 0x082C59D0>
+_GameWindow__Console_Enable,		<cyfunction GameWindow.__Console_Enable at 0x2644B088>
 	arg0: self
 
 submodule._GameWindow__Console_Enable
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_GuildWar_OnStart,		<cyfunction GameWindow.BINARY_GuildWar_OnStart at 0x082C4870>
+BINARY_GuildWar_OnStart,		<cyfunction GameWindow.BINARY_GuildWar_OnStart at 0x26449C38>
 	arg0: self
 	arg1: guildSelf
 	arg2: guildOpp
 
 submodule.BINARY_GuildWar_OnStart
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__RestartDialog_Close,		<cyfunction GameWindow.__RestartDialog_Close at 0x082C5978>
-	arg0: self
-
-submodule._GameWindow__RestartDialog_Close
-Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-AppendChat,		<cyfunction GameWindow.AppendChat at 0x082C0240>
+AppendChat,		<cyfunction GameWindow.AppendChat at 0x26445500>
 	arg0: self
 	arg1: type
 	arg2: chattype
 
 submodule.AppendChat
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-_GameWindow__ClearApplicantGuild,		<cyfunction GameWindow.__ClearApplicantGuild at 0x082C4EF8>
+_GameWindow__ClearApplicantGuild,		<cyfunction GameWindow.__ClearApplicantGuild at 0x2644A2F0>
 	arg0: self
 
 submodule._GameWindow__ClearApplicantGuild
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-MiniGameFishUse,		<cyfunction GameWindow.MiniGameFishUse at 0x082C73F8>
+MiniGameFishUse,		<cyfunction GameWindow.MiniGameFishUse at 0x2644CB88>
 	arg0: self
 	arg1: window
 	arg2: pos
@@ -2183,17 +2300,29 @@ MiniGameFishUse,		<cyfunction GameWindow.MiniGameFishUse at 0x082C73F8>
 
 submodule.MiniGameFishUse
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-OnFishingNotifyUnknown,		<cyfunction GameWindow.OnFishingNotifyUnknown at 0x082C1EA0>
+OnFishingNotifyUnknown,		<cyfunction GameWindow.OnFishingNotifyUnknown at 0x26447660>
 	arg0: self
 
 submodule.OnFishingNotifyUnknown
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-RefreshGuildBaseInfoPageBankGold,		<cyfunction GameWindow.RefreshGuildBaseInfoPageBankGold at 0x082C0AD8>
+AnswerGuildResultDialog,		<cyfunction GameWindow.AnswerGuildResultDialog at 0x26448978>
+	arg0: self
+	arg1: answer
+
+submodule.AnswerGuildResultDialog
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+BINARY_BettingGuildWar_UpdateObserverCount,		<cyfunction GameWindow.BINARY_BettingGuildWar_UpdateObserverCount at 0x26449D40>
+	arg0: self
+	arg1: observerCount
+
+submodule.BINARY_BettingGuildWar_UpdateObserverCount
+Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
+RefreshGuildBaseInfoPageBankGold,		<cyfunction GameWindow.RefreshGuildBaseInfoPageBankGold at 0x26445DF0>
 	arg0: self
 
 submodule.RefreshGuildBaseInfoPageBankGold
 Skipped: unbound method cython_function_or_method object must be called with GameWindow instance as first argument (got nothing instead)
-BINARY_UpdateLovePoint,		<cyfunction GameWindow.BINARY_UpdateLovePoint at 0x082C4030>
+BINARY_UpdateLovePoint,		<cyfunction GameWindow.BINARY_UpdateLovePoint at 0x26449450>
 	arg0: self
 	arg1: lovePoint
 

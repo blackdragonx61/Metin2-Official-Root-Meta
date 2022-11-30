@@ -1,6 +1,7 @@
-key: PasswordDialog, val: <class 'uiSafebox.PasswordDialog'>
+key: uiCommon, val: <module 'uiCommon' (built-in)>
 key: snd, val: <module 'snd' (built-in)>
 key: ChangePasswordDialog, val: <class 'uiSafebox.ChangePasswordDialog'>
+key: PasswordDialog, val: <class 'uiSafebox.PasswordDialog'>
 key: __builtins__, val: <module '__builtin__' (built-in)>
 key: chatm2g, val: <module 'chatm2g' (built-in)>
 key: app, val: <module 'app' (built-in)>
@@ -20,108 +21,71 @@ key: __doc__, val: None
 key: SafeboxWindow, val: <class 'uiSafebox.SafeboxWindow'>
 
 
-class PasswordDialog:
-__module__,		uiSafebox
-
-submodule.__module__
-
-
-OnCancel,		<cyfunction PasswordDialog.OnCancel at 0x0A2715B0>
-	arg0: self
-
-submodule.OnCancel
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-CloseDialog,		<cyfunction PasswordDialog.CloseDialog at 0x0A271500>
-	arg0: self
-
-submodule.CloseDialog
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction PasswordDialog.__del__ at 0x0A2712F0>
-	arg0: self
-
-submodule.__del__
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-_PasswordDialog__LoadDialog,		<cyfunction PasswordDialog.__LoadDialog at 0x0A271348>
-	arg0: self
-
-submodule._PasswordDialog__LoadDialog
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-SetTitle,		<cyfunction PasswordDialog.SetTitle at 0x0A2713F8>
-	arg0: self
-	arg1: title
-
-submodule.SetTitle
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-OnAccept,		<cyfunction PasswordDialog.OnAccept at 0x0A271558>
-	arg0: self
-
-submodule.OnAccept
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-__qualname__,		PasswordDialog
-
-submodule.__qualname__
-
-
-SetSendMessage,		<cyfunction PasswordDialog.SetSendMessage at 0x0A271450>
-	arg0: self
-	arg1: msg
-
-submodule.SetSendMessage
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-ShowDialog,		<cyfunction PasswordDialog.ShowDialog at 0x0A2714A8>
-	arg0: self
-
-submodule.ShowDialog
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction PasswordDialog.Destroy at 0x0A2713A0>
-	arg0: self
-
-submodule.Destroy
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-__doc__,		None
-
-submodule.__doc__
-
-
-__init__,		<cyfunction PasswordDialog.__init__ at 0x0A271298>
-	arg0: self
-
-submodule.__init__
-Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
-
-
 class ChangePasswordDialog:
 __module__,		uiSafebox
 
 submodule.__module__
 
 
-OnCancel,		<cyfunction ChangePasswordDialog.OnCancel at 0x0A271920>
-	arg0: self
+PATTERN_LIMIT,		3
 
-submodule.OnCancel
-Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
-OnCloseMessageDialog,		<cyfunction ChangePasswordDialog.OnCloseMessageDialog at 0x0A271978>
+submodule.PATTERN_LIMIT
+
+
+OnCloseMessageDialog,		<cyfunction ChangePasswordDialog.OnCloseMessageDialog at 0x09CE03A0>
 	arg0: self
 
 submodule.OnCloseMessageDialog
 Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
-OnAccept,		<cyfunction ChangePasswordDialog.OnAccept at 0x0A2718C8>
-	arg0: self
+MIN_LEN,		3
 
-submodule.OnAccept
-Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction ChangePasswordDialog.__del__ at 0x0A271660>
+submodule.MIN_LEN
+
+
+__del__,		<cyfunction ChangePasswordDialog.__del__ at 0x09CE0088>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction ChangePasswordDialog.LoadDialog at 0x0A271710>
+LoadDialog,		<cyfunction ChangePasswordDialog.LoadDialog at 0x09CE0138>
 	arg0: self
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
-OnNextFocus,		<cyfunction ChangePasswordDialog.OnNextFocus at 0x0A271768>
+PasswordCheck,		<cyfunction ChangePasswordDialog.PasswordCheck at 0x09CE0450>
+	arg0: self
+	arg1: old
+	arg2: new
+	arg3: newRe
+
+submodule.PasswordCheck
+Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
+Destroy,		<cyfunction ChangePasswordDialog.Destroy at 0x09CE01E8>
+	arg0: self
+
+submodule.Destroy
+Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
+_ChangePasswordDialog__LoadDialog,		<cyfunction ChangePasswordDialog.__LoadDialog at 0x09CE00E0>
+	arg0: self
+
+submodule._ChangePasswordDialog__LoadDialog
+Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
+__init__,		<cyfunction ChangePasswordDialog.__init__ at 0x09CE0030>
+	arg0: self
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
+OnCancel,		<cyfunction ChangePasswordDialog.OnCancel at 0x09CE0348>
+	arg0: self
+
+submodule.OnCancel
+Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
+OnAccept,		<cyfunction ChangePasswordDialog.OnAccept at 0x09CE02F0>
+	arg0: self
+
+submodule.OnAccept
+Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
+OnNextFocus,		<cyfunction ChangePasswordDialog.OnNextFocus at 0x09CE0190>
 	arg0: self
 	arg1: arg
 
@@ -132,22 +96,20 @@ __qualname__,		ChangePasswordDialog
 submodule.__qualname__
 
 
-Destroy,		<cyfunction ChangePasswordDialog.Destroy at 0x0A2717C0>
-	arg0: self
-
-submodule.Destroy
-Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
-Close,		<cyfunction ChangePasswordDialog.Close at 0x0A271870>
+Close,		<cyfunction ChangePasswordDialog.Close at 0x09CE0298>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
-_ChangePasswordDialog__LoadDialog,		<cyfunction ChangePasswordDialog.__LoadDialog at 0x0A2716B8>
+findPattern,		<cyfunction ChangePasswordDialog.findPattern at 0x09CE03F8>
 	arg0: self
+	arg1: str
+	arg2: limit
+	arg3: pattern
 
-submodule._ChangePasswordDialog__LoadDialog
+submodule.findPattern
 Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
-Open,		<cyfunction ChangePasswordDialog.Open at 0x0A271818>
+Open,		<cyfunction ChangePasswordDialog.Open at 0x09CE0240>
 	arg0: self
 
 submodule.Open
@@ -157,15 +119,93 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ChangePasswordDialog.__init__ at 0x0A271608>
+
+
+class PasswordDialog:
+SetSendType,		<cyfunction PasswordDialog.SetSendType at 0x09CDBDF0>
+	arg0: self
+	arg1: type
+
+submodule.SetSendType
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+__module__,		uiSafebox
+
+submodule.__module__
+
+
+OnCancel,		<cyfunction PasswordDialog.OnCancel at 0x09CDBF50>
+	arg0: self
+
+submodule.OnCancel
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+CloseDialog,		<cyfunction PasswordDialog.CloseDialog at 0x09CDBEA0>
+	arg0: self
+
+submodule.CloseDialog
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+__del__,		<cyfunction PasswordDialog.__del__ at 0x09CDBC38>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+_PasswordDialog__LoadDialog,		<cyfunction PasswordDialog.__LoadDialog at 0x09CDBC90>
+	arg0: self
+
+submodule._PasswordDialog__LoadDialog
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+SetTitle,		<cyfunction PasswordDialog.SetTitle at 0x09CDBD40>
+	arg0: self
+	arg1: title
+
+submodule.SetTitle
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+OnAccept,		<cyfunction PasswordDialog.OnAccept at 0x09CDBEF8>
+	arg0: self
+
+submodule.OnAccept
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+__qualname__,		PasswordDialog
+
+submodule.__qualname__
+
+
+SetSendMessage,		<cyfunction PasswordDialog.SetSendMessage at 0x09CDBD98>
+	arg0: self
+	arg1: msg
+
+submodule.SetSendMessage
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+ShowDialog,		<cyfunction PasswordDialog.ShowDialog at 0x09CDBE48>
+	arg0: self
+
+submodule.ShowDialog
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+Destroy,		<cyfunction PasswordDialog.Destroy at 0x09CDBCE8>
+	arg0: self
+
+submodule.Destroy
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+OpenPopupEvent,		<cyfunction PasswordDialog.OpenPopupEvent at 0x09CDBFA8>
+	arg0: self
+	arg1: msg
+	arg2: event
+
+submodule.OpenPopupEvent
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
+__doc__,		None
+
+submodule.__doc__
+
+
+__init__,		<cyfunction PasswordDialog.__init__ at 0x09CDBBE0>
 	arg0: self
 
 submodule.__init__
-Skipped: unbound method cython_function_or_method object must be called with ChangePasswordDialog instance as first argument (got nothing instead)
+Skipped: unbound method cython_function_or_method object must be called with PasswordDialog instance as first argument (got nothing instead)
 
 
 class MallWindow:
-SelectEmptySlot,		<cyfunction MallWindow.SelectEmptySlot at 0x0A277920>
+SelectEmptySlot,		<cyfunction MallWindow.SelectEmptySlot at 0x09CE13F8>
 	arg0: self
 	arg1: selectedSlotPos
 
@@ -176,70 +216,70 @@ __module__,		uiSafebox
 submodule.__module__
 
 
-SetTableSize,		<cyfunction MallWindow.SetTableSize at 0x0A277660>
+SetTableSize,		<cyfunction MallWindow.SetTableSize at 0x09CE1138>
 	arg0: self
 	arg1: size
 
 submodule.SetTableSize
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction MallWindow.SelectItemSlot at 0x0A277978>
+SelectItemSlot,		<cyfunction MallWindow.SelectItemSlot at 0x09CE1450>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction MallWindow.OverInItem at 0x0A277A80>
+OverInItem,		<cyfunction MallWindow.OverInItem at 0x09CE1558>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-_MallWindow__LocalPosToGlobalPos,		<cyfunction MallWindow.__LocalPosToGlobalPos at 0x0A277768>
+_MallWindow__LocalPosToGlobalPos,		<cyfunction MallWindow.__LocalPosToGlobalPos at 0x09CE1240>
 	arg0: self
 	arg1: local
 
 submodule._MallWindow__LocalPosToGlobalPos
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-_MallWindow__ShowToolTip,		<cyfunction MallWindow.__ShowToolTip at 0x0A277A28>
+_MallWindow__ShowToolTip,		<cyfunction MallWindow.__ShowToolTip at 0x09CE1500>
 	arg0: self
 	arg1: slotIndex
 
 submodule._MallWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction MallWindow.UseItemSlot at 0x0A2779D0>
+UseItemSlot,		<cyfunction MallWindow.UseItemSlot at 0x09CE14A8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MallWindow.OnPressEscapeKey at 0x0A277B30>
+OnPressEscapeKey,		<cyfunction MallWindow.OnPressEscapeKey at 0x09CE1608>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-ShowWindow,		<cyfunction MallWindow.ShowWindow at 0x0A277608>
+ShowWindow,		<cyfunction MallWindow.ShowWindow at 0x09CE10E0>
 	arg0: self
 	arg1: size
 
 submodule.ShowWindow
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-_MallWindow__LoadWindow,		<cyfunction MallWindow.__LoadWindow at 0x0A2775B0>
+_MallWindow__LoadWindow,		<cyfunction MallWindow.__LoadWindow at 0x09CE1088>
 	arg0: self
 
 submodule._MallWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction MallWindow.Destroy at 0x0A277558>
+Destroy,		<cyfunction MallWindow.Destroy at 0x09CE1030>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-SelectPage,		<cyfunction MallWindow.SelectPage at 0x0A277710>
+SelectPage,		<cyfunction MallWindow.SelectPage at 0x09CE11E8>
 	arg0: self
 	arg1: index
 
 submodule.SelectPage
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction MallWindow.__init__ at 0x0A277450>
+__init__,		<cyfunction MallWindow.__init__ at 0x09CE0EF8>
 	arg0: self
 
 submodule.__init__
@@ -249,28 +289,28 @@ PAGE_TEXT,		('I', 'II', 'III', 'IV', 'V')
 submodule.PAGE_TEXT
 
 
-SetItemToolTip,		<cyfunction MallWindow.SetItemToolTip at 0x0A277818>
+SetItemToolTip,		<cyfunction MallWindow.SetItemToolTip at 0x09CE12F0>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-Show,		<cyfunction MallWindow.Show at 0x0A277500>
+Show,		<cyfunction MallWindow.Show at 0x09CE0FA8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-RefreshMall,		<cyfunction MallWindow.RefreshMall at 0x0A2777C0>
+RefreshMall,		<cyfunction MallWindow.RefreshMall at 0x09CE1298>
 	arg0: self
 
 submodule.RefreshMall
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MallWindow.OnUpdate at 0x0A277B88>
+OnUpdate,		<cyfunction MallWindow.OnUpdate at 0x09CE1660>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-_MallWindow__MakePageButton,		<cyfunction MallWindow.__MakePageButton at 0x0A2776B8>
+_MallWindow__MakePageButton,		<cyfunction MallWindow.__MakePageButton at 0x09CE1190>
 	arg0: self
 	arg1: pageCount
 
@@ -281,7 +321,7 @@ __qualname__,		MallWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction MallWindow.__del__ at 0x0A2774A8>
+__del__,		<cyfunction MallWindow.__del__ at 0x09CE0F50>
 	arg0: self
 
 submodule.__del__
@@ -291,12 +331,12 @@ BOX_WIDTH,		176
 submodule.BOX_WIDTH
 
 
-OverOutItem,		<cyfunction MallWindow.OverOutItem at 0x0A277AD8>
+OverOutItem,		<cyfunction MallWindow.OverOutItem at 0x09CE15B0>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with MallWindow instance as first argument (got nothing instead)
-Close,		<cyfunction MallWindow.Close at 0x0A277870>
+Close,		<cyfunction MallWindow.Close at 0x09CE1348>
 	arg0: self
 
 submodule.Close
@@ -306,7 +346,7 @@ __doc__,		None
 submodule.__doc__
 
 
-CommandCloseMall,		<cyfunction MallWindow.CommandCloseMall at 0x0A2778C8>
+CommandCloseMall,		<cyfunction MallWindow.CommandCloseMall at 0x09CE13A0>
 	arg0: self
 
 submodule.CommandCloseMall
@@ -319,70 +359,70 @@ __module__,		uiSafebox
 submodule.__module__
 
 
-SetTableSize,		<cyfunction SafeboxWindow.SetTableSize at 0x0A271D40>
+SetTableSize,		<cyfunction SafeboxWindow.SetTableSize at 0x09CE0818>
 	arg0: self
 	arg1: size
 
 submodule.SetTableSize
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction SafeboxWindow.SelectItemSlot at 0x0A277030>
+SelectItemSlot,		<cyfunction SafeboxWindow.SelectItemSlot at 0x09CE0AD8>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-RefreshSafeboxMoney,		<cyfunction SafeboxWindow.RefreshSafeboxMoney at 0x0A271DF0>
+RefreshSafeboxMoney,		<cyfunction SafeboxWindow.RefreshSafeboxMoney at 0x09CE08C8>
 	arg0: self
 
 submodule.RefreshSafeboxMoney
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-_SafeboxWindow__SetCollTimePetItemSlot,		<cyfunction SafeboxWindow.__SetCollTimePetItemSlot at 0x0A271E48>
+_SafeboxWindow__SetCollTimePetItemSlot,		<cyfunction SafeboxWindow.__SetCollTimePetItemSlot at 0x09CE0920>
 	arg0: self
 	arg1: slotNumber
 	arg2: itemVnum
 
 submodule._SafeboxWindow__SetCollTimePetItemSlot
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-ShowWindow,		<cyfunction SafeboxWindow.ShowWindow at 0x0A271BE0>
+ShowWindow,		<cyfunction SafeboxWindow.ShowWindow at 0x09CE06B8>
 	arg0: self
 	arg1: size
 
 submodule.ShowWindow
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction SafeboxWindow.Destroy at 0x0A271AD8>
+Destroy,		<cyfunction SafeboxWindow.Destroy at 0x09CE05B0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-SelectPage,		<cyfunction SafeboxWindow.SelectPage at 0x0A271C90>
+SelectPage,		<cyfunction SafeboxWindow.SelectPage at 0x09CE0768>
 	arg0: self
 	arg1: index
 
 submodule.SelectPage
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-_SafeboxWindow__MakePageButton,		<cyfunction SafeboxWindow.__MakePageButton at 0x0A271C38>
+_SafeboxWindow__MakePageButton,		<cyfunction SafeboxWindow.__MakePageButton at 0x09CE0710>
 	arg0: self
 	arg1: pageCount
 
 submodule._SafeboxWindow__MakePageButton
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction SafeboxWindow.__init__ at 0x0A2719D0>
+__init__,		<cyfunction SafeboxWindow.__init__ at 0x09CE04A8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction SafeboxWindow.OnUpdate at 0x0A2772F0>
+OnUpdate,		<cyfunction SafeboxWindow.OnUpdate at 0x09CE0D98>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction SafeboxWindow.OverInItem at 0x0A277138>
+OverInItem,		<cyfunction SafeboxWindow.OverInItem at 0x09CE0BE0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-_SafeboxWindow__LocalPosToGlobalPos,		<cyfunction SafeboxWindow.__LocalPosToGlobalPos at 0x0A271CE8>
+_SafeboxWindow__LocalPosToGlobalPos,		<cyfunction SafeboxWindow.__LocalPosToGlobalPos at 0x09CE07C0>
 	arg0: self
 	arg1: local
 
@@ -393,79 +433,79 @@ __doc__,		None
 submodule.__doc__
 
 
-SelectEmptySlot,		<cyfunction SafeboxWindow.SelectEmptySlot at 0x0A271FA8>
+SelectEmptySlot,		<cyfunction SafeboxWindow.SelectEmptySlot at 0x09CE0A80>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-OnPickMoney,		<cyfunction SafeboxWindow.OnPickMoney at 0x0A2771E8>
+OnPickMoney,		<cyfunction SafeboxWindow.OnPickMoney at 0x09CE0C90>
 	arg0: self
 	arg1: money
 
 submodule.OnPickMoney
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-CommandCloseSafebox,		<cyfunction SafeboxWindow.CommandCloseSafebox at 0x0A271F50>
+CommandCloseSafebox,		<cyfunction SafeboxWindow.CommandCloseSafebox at 0x09CE0A28>
 	arg0: self
 
 submodule.CommandCloseSafebox
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction SafeboxWindow.__del__ at 0x0A271A28>
+__del__,		<cyfunction SafeboxWindow.__del__ at 0x09CE0500>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-OnChangePassword,		<cyfunction SafeboxWindow.OnChangePassword at 0x0A277240>
+OnChangePassword,		<cyfunction SafeboxWindow.OnChangePassword at 0x09CE0CE8>
 	arg0: self
 
 submodule.OnChangePassword
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction SafeboxWindow.UseItemSlot at 0x0A277088>
+UseItemSlot,		<cyfunction SafeboxWindow.UseItemSlot at 0x09CE0B30>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-CantCheckInItem,		<cyfunction SafeboxWindow.CantCheckInItem at 0x0A277348>
+CantCheckInItem,		<cyfunction SafeboxWindow.CantCheckInItem at 0x09CE0DF0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.CantCheckInItem
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction SafeboxWindow.OnPressEscapeKey at 0x0A277298>
+OnPressEscapeKey,		<cyfunction SafeboxWindow.OnPressEscapeKey at 0x09CE0D40>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction SafeboxWindow.OnTop at 0x0A2773F8>
+OnTop,		<cyfunction SafeboxWindow.OnTop at 0x09CE0EA0>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction SafeboxWindow.BindInterface at 0x0A2773A0>
+BindInterface,		<cyfunction SafeboxWindow.BindInterface at 0x09CE0E48>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-_SafeboxWindow__ShowToolTip,		<cyfunction SafeboxWindow.__ShowToolTip at 0x0A2770E0>
+_SafeboxWindow__ShowToolTip,		<cyfunction SafeboxWindow.__ShowToolTip at 0x09CE0B88>
 	arg0: self
 	arg1: slotIndex
 
 submodule._SafeboxWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction SafeboxWindow.SetItemToolTip at 0x0A271EA0>
+SetItemToolTip,		<cyfunction SafeboxWindow.SetItemToolTip at 0x09CE0978>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-Show,		<cyfunction SafeboxWindow.Show at 0x0A271A80>
+Show,		<cyfunction SafeboxWindow.Show at 0x09CE0558>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-_SafeboxWindow__LoadWindow,		<cyfunction SafeboxWindow.__LoadWindow at 0x0A271B30>
+_SafeboxWindow__LoadWindow,		<cyfunction SafeboxWindow.__LoadWindow at 0x09CE0608>
 	arg0: self
 
 submodule._SafeboxWindow__LoadWindow
@@ -480,22 +520,22 @@ BOX_WIDTH,		176
 submodule.BOX_WIDTH
 
 
-OverOutItem,		<cyfunction SafeboxWindow.OverOutItem at 0x0A277190>
+OverOutItem,		<cyfunction SafeboxWindow.OverOutItem at 0x09CE0C38>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-OpenPickMoneyDialog,		<cyfunction SafeboxWindow.OpenPickMoneyDialog at 0x0A271B88>
+OpenPickMoneyDialog,		<cyfunction SafeboxWindow.OpenPickMoneyDialog at 0x09CE0660>
 	arg0: self
 
 submodule.OpenPickMoneyDialog
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-Close,		<cyfunction SafeboxWindow.Close at 0x0A271EF8>
+Close,		<cyfunction SafeboxWindow.Close at 0x09CE09D0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SafeboxWindow instance as first argument (got nothing instead)
-RefreshSafebox,		<cyfunction SafeboxWindow.RefreshSafebox at 0x0A271D98>
+RefreshSafebox,		<cyfunction SafeboxWindow.RefreshSafebox at 0x09CE0870>
 	arg0: self
 
 submodule.RefreshSafebox

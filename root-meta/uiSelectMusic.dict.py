@@ -39,9 +39,4 @@
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiSelectMusic'}, {'name': '__qualname__', 'type': 'str', 'value': 'FileListDialog'}]}],
  'func': [],
  'import': ['__builtin__', 'app', 'ui', 'uiScriptLocale', 'localeInfo'],
- 'var': [{'name': 'DEFAULT_THEMA', 'type': 'str', 'value': 'Metin2 Standard music'},
-         {'name': 'FILE_NAME_LEN', 'type': 'int', 'value': 20},
-         {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'uiSelectMusic'},
-         {'name': '__package__', 'type': 'NoneType', 'value': None},
-         {'name': '__test__', 'type': 'dict', 'value': {}}]}
+ 'var': [{'name': 'FILE_NAME_LEN', 'type': 'int', 'value': 20}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiSelectMusic'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

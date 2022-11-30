@@ -3,6 +3,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'CloseWhenOpenQuest'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
+                     {'args': ['self'], 'defaults': [], 'name': 'InitWebPage'},
                      {'args': ['self'], 'defaults': [], 'name': 'LoadWindow'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnUpdate'},
@@ -15,5 +16,5 @@
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiWeb'}, {'name': '__qualname__', 'type': 'str', 'value': 'WebWindow'}]}],
  'func': [],
- 'import': ['snd', 'constInfo', '__builtin__', 'app', 'm2netm2g', 'ui', 'mouseModule', 'uiScriptLocale'],
+ 'import': ['snd', 'constInfo', '__builtin__', 'app', 'm2netm2g', 'ui', 'mouseModule', 'uiScriptLocale', 'localeInfo'],
  'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiWeb'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

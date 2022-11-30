@@ -17,4 +17,4 @@
                     {'name': '__qualname__', 'type': 'str', 'value': 'MapNameShower'}]}],
  'func': [],
  'import': ['__builtin__', 'app', 'ui', 'uiScriptLocale', 'localeInfo'],
- 'var': [{'name': 'LOCALE_PATH', 'type': 'str', 'value': 'locale/pa/ui/mapname/'}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiMapNameShower'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}
+ 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiMapNameShower'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}
