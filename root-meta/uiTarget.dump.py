@@ -1,3 +1,4 @@
+key: uiCommon, val: <module 'uiCommon' (built-in)>
 key: guild, val: <module 'guild' (built-in)>
 key: TargetBoard, val: <class 'uiTarget.TargetBoard'>
 key: __builtins__, val: <module '__builtin__' (built-in)>
@@ -19,56 +20,296 @@ key: nonplayer, val: <module 'nonplayer' (built-in)>
 
 class TargetBoard:
 __module__,		uiTarget
-_TargetBoard__OnGuildAddMember,		<cyfunction TargetBoard.__OnGuildAddMember at 0x0BC275B0>
-OnPartyInvite,		<cyfunction TargetBoard.OnPartyInvite at 0x0BC274A8>
-OnPartyExit,		<cyfunction TargetBoard.OnPartyExit at 0x0BC27500>
-RefreshByVID,		<cyfunction TargetBoard.RefreshByVID at 0x0BC22D40>
-OnExchange,		<cyfunction TargetBoard.OnExchange at 0x0BC273A0>
-Destroy,		<cyfunction TargetBoard.Destroy at 0x0BC22B88>
-SetTargetName,		<cyfunction TargetBoard.SetTargetName at 0x0BC27138>
-_TargetBoard__OnViewEquipment,		<cyfunction TargetBoard.__OnViewEquipment at 0x0BC276B8>
-__init__,		<cyfunction TargetBoard.__init__ at 0x0BC22A80>
-_TargetBoard__OnRequestParty,		<cyfunction TargetBoard.__OnRequestParty at 0x0BC27710>
+
+submodule.__module__
+
+
+_TargetBoard__OnGuildAddMember,		<cyfunction TargetBoard.__OnGuildAddMember at 0x0923B920>
+	arg0: self
+
+submodule._TargetBoard__OnGuildAddMember
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnPartyInvite,		<cyfunction TargetBoard.OnPartyInvite at 0x0923B818>
+	arg0: self
+
+submodule.OnPartyInvite
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnPartyExit,		<cyfunction TargetBoard.OnPartyExit at 0x0923B870>
+	arg0: self
+
+submodule.OnPartyExit
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+RefreshByVID,		<cyfunction TargetBoard.RefreshByVID at 0x0923B0E0>
+	arg0: self
+	arg1: vid
+
+submodule.RefreshByVID
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnExchange,		<cyfunction TargetBoard.OnExchange at 0x0923B710>
+	arg0: self
+
+submodule.OnExchange
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+Destroy,		<cyfunction TargetBoard.Destroy at 0x092AFEF8>
+	arg0: self
+
+submodule.Destroy
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+SetTargetName,		<cyfunction TargetBoard.SetTargetName at 0x0923B4A8>
+	arg0: self
+	arg1: name
+
+submodule.SetTargetName
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__OnViewEquipment,		<cyfunction TargetBoard.__OnViewEquipment at 0x0923BA28>
+	arg0: self
+
+submodule._TargetBoard__OnViewEquipment
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+__init__,		<cyfunction TargetBoard.__init__ at 0x092AFDF0>
+	arg0: self
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__OnRequestParty,		<cyfunction TargetBoard.__OnRequestParty at 0x0923BA80>
+	arg0: self
+
+submodule._TargetBoard__OnRequestParty
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
 __qualname__,		TargetBoard
-HideAllButton,		<cyfunction TargetBoard.HideAllButton at 0x0BC27240>
-ResetTargetBoard,		<cyfunction TargetBoard.ResetTargetBoard at 0x0BC22F50>
-GetTargetVID,		<cyfunction TargetBoard.GetTargetVID at 0x0BC27088>
-RefreshByName,		<cyfunction TargetBoard.RefreshByName at 0x0BC22D98>
+
+submodule.__qualname__
+
+
+_TargetBoard__OnEmotionAllow,		<cyfunction TargetBoard.__OnEmotionAllow at 0x0923BB30>
+	arg0: self
+
+submodule._TargetBoard__OnEmotionAllow
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+HideAllButton,		<cyfunction TargetBoard.HideAllButton at 0x0923B5B0>
+	arg0: self
+
+submodule.HideAllButton
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+ResetTargetBoard,		<cyfunction TargetBoard.ResetTargetBoard at 0x0923B2F0>
+	arg0: self
+
+submodule.ResetTargetBoard
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+GetTargetVID,		<cyfunction TargetBoard.GetTargetVID at 0x0923B3F8>
+	arg0: self
+
+submodule.GetTargetVID
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+RefreshByName,		<cyfunction TargetBoard.RefreshByName at 0x0923B138>
+	arg0: self
+	arg1: name
+
+submodule.RefreshByName
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
 EXCHANGE_LIMIT_RANGE,		3000
-Close,		<cyfunction TargetBoard.Close at 0x0BC22C38>
-SetHP,		<cyfunction TargetBoard.SetHP at 0x0BC27190>
-_TargetBoard__ArrangeButtonPosition,		<cyfunction TargetBoard.__ArrangeButtonPosition at 0x0BC27978>
-RefreshAccumulateCount,		<cyfunction TargetBoard.RefreshAccumulateCount at 0x0BC27A28>
-_TargetBoard__ShowButton,		<cyfunction TargetBoard.__ShowButton at 0x0BC27298>
-_TargetBoard__OnDismount,		<cyfunction TargetBoard.__OnDismount at 0x0BC27608>
-UpdatePosition,		<cyfunction TargetBoard.UpdatePosition at 0x0BC22EF8>
-OnPartyRemove,		<cyfunction TargetBoard.OnPartyRemove at 0x0BC27558>
-OnPVP,		<cyfunction TargetBoard.OnPVP at 0x0BC273F8>
-_TargetBoard__ShowMainCharacterMenu,		<cyfunction TargetBoard.__ShowMainCharacterMenu at 0x0BC22DF0>
-__del__,		<cyfunction TargetBoard.__del__ at 0x0BC22AD8>
-BUTTON_NAME_LIST,		('Suttogni', 'Keresked\xe9s', 'P\xe1rbaj', 'Egyet\xe9rt', 'Bossz\xfa', 'Bar\xe1t', 'Csoport megh\xedv\xe1s', 'Csoport elhagy\xe1sa', 'Kiz\xe1r', 'C\xe9h megh\xedv\xe1s', 'Lesz\xe1ll', 'Megfigyel\xf5 m\xf3d v\xe9ge', 'Felszerel\xe9s', 'Bel\xe9p\xe9s a csoportba', 'Elpuszt\xedt', '\xc9rzelmek', 'VOTE_BLOCK_CHAT')
-Refresh,		<cyfunction TargetBoard.Refresh at 0x0BC22CE8>
-SetWhisperEvent,		<cyfunction TargetBoard.SetWhisperEvent at 0x0BC22EA0>
-GRADE_NAME,		{0: '1. szint', 1: '2. szint', 2: '3. szint', 3: '4. szint', 4: 'F\xf5n\xf6k', 5: '5. szint'}
-SetTargetVID,		<cyfunction TargetBoard.SetTargetVID at 0x0BC22FA8>
-OnPressEscapeKey,		<cyfunction TargetBoard.OnPressEscapeKey at 0x0BC27870>
-ShowDefaultButton,		<cyfunction TargetBoard.ShowDefaultButton at 0x0BC271E8>
-IsShowButton,		<cyfunction TargetBoard.IsShowButton at 0x0BC278C8>
-_TargetBoard__Initialize,		<cyfunction TargetBoard.__Initialize at 0x0BC22B30>
-_TargetBoard__HideButton,		<cyfunction TargetBoard.__HideButton at 0x0BC272F0>
-_TargetBoard__OnDestroyBuilding,		<cyfunction TargetBoard.__OnDestroyBuilding at 0x0BC27768>
-_TargetBoard__OnExitObserver,		<cyfunction TargetBoard.__OnExitObserver at 0x0BC27660>
-RefreshButton,		<cyfunction TargetBoard.RefreshButton at 0x0BC27920>
-OnAppendToMessenger,		<cyfunction TargetBoard.OnAppendToMessenger at 0x0BC27450>
-_TargetBoard__OnVoteBlockChat,		<cyfunction TargetBoard.__OnVoteBlockChat at 0x0BC27818>
-_TargetBoard__ShowNameOnlyMenu,		<cyfunction TargetBoard.__ShowNameOnlyMenu at 0x0BC22E48>
+
+submodule.EXCHANGE_LIMIT_RANGE
+
+
+Close,		<cyfunction TargetBoard.Close at 0x092AFFA8>
+	arg0: self
+
+submodule.Close
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+SetHP,		<cyfunction TargetBoard.SetHP at 0x0923B500>
+	arg0: self
+	arg1: hpPercentage
+
+submodule.SetHP
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__ArrangeButtonPosition,		<cyfunction TargetBoard.__ArrangeButtonPosition at 0x0923BCE8>
+	arg0: self
+
+submodule._TargetBoard__ArrangeButtonPosition
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+RefreshAccumulateCount,		<cyfunction TargetBoard.RefreshAccumulateCount at 0x0923BEF8>
+	arg0: self
+	arg1: vid
+
+submodule.RefreshAccumulateCount
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__ShowButton,		<cyfunction TargetBoard.__ShowButton at 0x0923B608>
+	arg0: self
+	arg1: name
+
+submodule._TargetBoard__ShowButton
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__OnDismount,		<cyfunction TargetBoard.__OnDismount at 0x0923B978>
+	arg0: self
+
+submodule._TargetBoard__OnDismount
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+UpdatePosition,		<cyfunction TargetBoard.UpdatePosition at 0x0923B298>
+	arg0: self
+
+submodule.UpdatePosition
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnPartyRemove,		<cyfunction TargetBoard.OnPartyRemove at 0x0923B8C8>
+	arg0: self
+
+submodule.OnPartyRemove
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnBlockRemoveClose,		<cyfunction TargetBoard.OnBlockRemoveClose at 0x0923BEA0>
+	arg0: self
+
+submodule.OnBlockRemoveClose
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnPVP,		<cyfunction TargetBoard.OnPVP at 0x0923B768>
+	arg0: self
+
+submodule.OnPVP
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__ShowMainCharacterMenu,		<cyfunction TargetBoard.__ShowMainCharacterMenu at 0x0923B190>
+	arg0: self
+
+submodule._TargetBoard__ShowMainCharacterMenu
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+__del__,		<cyfunction TargetBoard.__del__ at 0x092AFE48>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+BUTTON_NAME_LIST,		('Fl\xfcstern', 'Handeln', 'Duell', 'Zustimmen', 'Rache', 'Freund', 'Gruppeneinlad.', 'Gruppe verlassen', 'Ausschlie\xdfen', 'Gildeneinlad.', 'Absitzen', 'Zuschauermodus beenden', 'Ausr\xfcstung', 'Gruppe beitreten', 'Zerst\xf6ren', 'Emotionen', 'Blockieren', 'Entsperren', 'VOTE_BLOCK_CHAT')
+
+submodule.BUTTON_NAME_LIST
+
+
+Refresh,		<cyfunction TargetBoard.Refresh at 0x0923B088>
+	arg0: self
+
+submodule.Refresh
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+SetWhisperEvent,		<cyfunction TargetBoard.SetWhisperEvent at 0x0923B240>
+	arg0: self
+	arg1: event
+
+submodule.SetWhisperEvent
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+GRADE_NAME,		{0: 'Stufe 1.', 1: 'Stufe 2.', 2: 'Stufe 3.', 3: 'Stufe 4.', 4: 'Boss', 5: 'Stufe 5.'}
+
+submodule.GRADE_NAME
+
+
+SetTargetVID,		<cyfunction TargetBoard.SetTargetVID at 0x0923B348>
+	arg0: self
+	arg1: vid
+
+submodule.SetTargetVID
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnPressEscapeKey,		<cyfunction TargetBoard.OnPressEscapeKey at 0x0923BBE0>
+	arg0: self
+
+submodule.OnPressEscapeKey
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+ShowDefaultButton,		<cyfunction TargetBoard.ShowDefaultButton at 0x0923B558>
+	arg0: self
+
+submodule.ShowDefaultButton
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+IsShowButton,		<cyfunction TargetBoard.IsShowButton at 0x0923BC38>
+	arg0: self
+
+submodule.IsShowButton
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__Initialize,		<cyfunction TargetBoard.__Initialize at 0x092AFEA0>
+	arg0: self
+
+submodule._TargetBoard__Initialize
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__HideButton,		<cyfunction TargetBoard.__HideButton at 0x0923B660>
+	arg0: self
+	arg1: name
+
+submodule._TargetBoard__HideButton
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__OnBlockRemove,		<cyfunction TargetBoard.__OnBlockRemove at 0x0923BDF0>
+	arg0: self
+
+submodule._TargetBoard__OnBlockRemove
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__OnBlock,		<cyfunction TargetBoard.__OnBlock at 0x0923BD98>
+	arg0: self
+
+submodule._TargetBoard__OnBlock
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__OnDestroyBuilding,		<cyfunction TargetBoard.__OnDestroyBuilding at 0x0923BAD8>
+	arg0: self
+
+submodule._TargetBoard__OnDestroyBuilding
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__OnExitObserver,		<cyfunction TargetBoard.__OnExitObserver at 0x0923B9D0>
+	arg0: self
+
+submodule._TargetBoard__OnExitObserver
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+RefreshButton,		<cyfunction TargetBoard.RefreshButton at 0x0923BC90>
+	arg0: self
+
+submodule.RefreshButton
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnAppendToMessenger,		<cyfunction TargetBoard.OnAppendToMessenger at 0x0923B7C0>
+	arg0: self
+
+submodule.OnAppendToMessenger
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__OnVoteBlockChat,		<cyfunction TargetBoard.__OnVoteBlockChat at 0x0923BB88>
+	arg0: self
+
+submodule._TargetBoard__OnVoteBlockChat
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+_TargetBoard__ShowNameOnlyMenu,		<cyfunction TargetBoard.__ShowNameOnlyMenu at 0x0923B1E8>
+	arg0: self
+
+submodule._TargetBoard__ShowNameOnlyMenu
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
 __doc__,		None
-OnUpdate,		<cyfunction TargetBoard.OnUpdate at 0x0BC279D0>
-_TargetBoard__OnEmotionAllow,		<cyfunction TargetBoard.__OnEmotionAllow at 0x0BC277C0>
-SetEnemyVID,		<cyfunction TargetBoard.SetEnemyVID at 0x0BC27030>
-OnPressedCloseButton,		<cyfunction TargetBoard.OnPressedCloseButton at 0x0BC22BE0>
-OnWhisper,		<cyfunction TargetBoard.OnWhisper at 0x0BC27348>
-Open,		<cyfunction TargetBoard.Open at 0x0BC22C90>
-GetTargetName,		<cyfunction TargetBoard.GetTargetName at 0x0BC270E0>
+
+submodule.__doc__
+
+
+OnUpdate,		<cyfunction TargetBoard.OnUpdate at 0x0923BD40>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnBlockRemove,		<cyfunction TargetBoard.OnBlockRemove at 0x0923BE48>
+	arg0: self
+
+submodule.OnBlockRemove
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+SetEnemyVID,		<cyfunction TargetBoard.SetEnemyVID at 0x0923B3A0>
+	arg0: self
+	arg1: vid
+
+submodule.SetEnemyVID
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnPressedCloseButton,		<cyfunction TargetBoard.OnPressedCloseButton at 0x092AFF50>
+	arg0: self
+
+submodule.OnPressedCloseButton
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+OnWhisper,		<cyfunction TargetBoard.OnWhisper at 0x0923B6B8>
+	arg0: self
+
+submodule.OnWhisper
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+Open,		<cyfunction TargetBoard.Open at 0x0923B030>
+	arg0: self
+	arg1: vid
+	arg2: name
+
+submodule.Open
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
+GetTargetName,		<cyfunction TargetBoard.GetTargetName at 0x0923B450>
+	arg0: self
+
+submodule.GetTargetName
+Skipped: unbound method cython_function_or_method object must be called with TargetBoard instance as first argument (got nothing instead)
 
 

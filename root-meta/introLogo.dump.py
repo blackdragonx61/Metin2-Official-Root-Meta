@@ -15,16 +15,65 @@ key: __doc__, val: None
 
 class LogoWindow:
 __qualname__,		LogoWindow
+
+submodule.__qualname__
+
+
 __module__,		introLogo
-OnRender,		<cyfunction LogoWindow.OnRender at 0x0BB68088>
-__del__,		<cyfunction LogoWindow.__del__ at 0x07896A80>
-OnUpdate,		<cyfunction LogoWindow.OnUpdate at 0x0BB68030>
-Close,		<cyfunction LogoWindow.Close at 0x07896FA8>
+
+submodule.__module__
+
+
+OnRender,		<cyfunction LogoWindow.OnRender at 0x09127CE8>
+	arg0: self
+
+submodule.OnRender
+Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
+__del__,		<cyfunction LogoWindow.__del__ at 0x09127710>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
+OnUpdate,		<cyfunction LogoWindow.OnUpdate at 0x09127C90>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
+Close,		<cyfunction LogoWindow.Close at 0x09127C38>
+	arg0: self
+
+submodule.Close
+Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
 videoList,		[]
-LoadNextVideo,		<cyfunction LogoWindow.LoadNextVideo at 0x0BB680E0>
-Open,		<cyfunction LogoWindow.Open at 0x07896F50>
+
+submodule.videoList
+
+
+LoadNextVideo,		<cyfunction LogoWindow.LoadNextVideo at 0x09127D40>
+	arg0: self
+
+submodule.LoadNextVideo
+Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
+Open,		<cyfunction LogoWindow.Open at 0x09127BE0>
+	arg0: self
+
+submodule.Open
+Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
 __doc__,		None
-__init__,		<cyfunction LogoWindow.__init__ at 0x07896450>
-CloseVideo,		<cyfunction LogoWindow.CloseVideo at 0x0BB68138>
+
+submodule.__doc__
+
+
+__init__,		<cyfunction LogoWindow.__init__ at 0x091270E0>
+	arg0: self
+	arg1: stream
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
+CloseVideo,		<cyfunction LogoWindow.CloseVideo at 0x09127D98>
+	arg0: self
+
+submodule.CloseVideo
+Skipped: unbound method cython_function_or_method object must be called with LogoWindow instance as first argument (got nothing instead)
 
 

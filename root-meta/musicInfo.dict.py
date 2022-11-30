@@ -7,6 +7,6 @@
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
          {'name': 'createMusic', 'type': 'str', 'value': 'characterselect.mp3'},
-         {'name': 'fieldMusic', 'type': 'str', 'value': '00 - David_Rush_Ft._LMFAO_\x97_Shooting_Star_[Mp3-Plus.Net].mp3'},
+         {'name': 'fieldMusic', 'type': 'str', 'value': 'M2BG.mp3'},
          {'name': 'loginMusic', 'type': 'str', 'value': 'login_window.mp3'},
          {'name': 'selectMusic', 'type': 'str', 'value': 'characterselect.mp3'}]}

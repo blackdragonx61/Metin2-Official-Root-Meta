@@ -11,15 +11,62 @@ key: __doc__, val: None
 
 
 class PhaseCurtain:
-SAFE_FadeOut,		<cyfunction PhaseCurtain.SAFE_FadeOut at 0x0789F870>
+SAFE_FadeOut,		<cyfunction PhaseCurtain.SAFE_FadeOut at 0x07DED500>
+	arg0: self
+	arg1: event
+	arg2: args
+	default: -1
+
+submodule.SAFE_FadeOut
+Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
 __module__,		uiPhaseCurtain
-__del__,		<cyfunction PhaseCurtain.__del__ at 0x0789F818>
-FadeOut,		<cyfunction PhaseCurtain.FadeOut at 0x0789F8C8>
-OnUpdate,		<cyfunction PhaseCurtain.OnUpdate at 0x0789F9D0>
-SetAlpha,		<cyfunction PhaseCurtain.SetAlpha at 0x0789F978>
-FadeIn,		<cyfunction PhaseCurtain.FadeIn at 0x0789F920>
+
+submodule.__module__
+
+
+__del__,		<cyfunction PhaseCurtain.__del__ at 0x07DED4A8>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
+FadeOut,		<cyfunction PhaseCurtain.FadeOut at 0x07DED558>
+	arg0: self
+	arg1: event
+	arg2: args
+	default: -1
+
+submodule.FadeOut
+Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
+OnUpdate,		<cyfunction PhaseCurtain.OnUpdate at 0x07DED660>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
+SetAlpha,		<cyfunction PhaseCurtain.SetAlpha at 0x07DED608>
+	arg0: self
+	arg1: alpha
+
+submodule.SetAlpha
+Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
+FadeIn,		<cyfunction PhaseCurtain.FadeIn at 0x07DED5B0>
+	arg0: self
+
+submodule.FadeIn
+Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
 __qualname__,		PhaseCurtain
+
+submodule.__qualname__
+
+
 __doc__,		None
-__init__,		<cyfunction PhaseCurtain.__init__ at 0x0789F7C0>
+
+submodule.__doc__
+
+
+__init__,		<cyfunction PhaseCurtain.__init__ at 0x07DED450>
+	arg0: self
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
 
 

@@ -14,19 +14,76 @@ key: __doc__, val: None
 
 
 class WebWindow:
-OnUpdate,		<cyfunction WebWindow.OnUpdate at 0x1D565608>
+OnUpdate,		<cyfunction WebWindow.OnUpdate at 0x091B6F50>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
 __module__,		uiWeb
-_WebWindow__OnCloseButtonClick,		<cyfunction WebWindow.__OnCloseButtonClick at 0x1D565558>
-__del__,		<cyfunction WebWindow.__del__ at 0x1D5652F0>
-Clear,		<cyfunction WebWindow.Clear at 0x1D5654A8>
-Refresh,		<cyfunction WebWindow.Refresh at 0x1D565500>
+
+submodule.__module__
+
+
+_WebWindow__OnCloseButtonClick,		<cyfunction WebWindow.__OnCloseButtonClick at 0x091B6EA0>
+	arg0: self
+
+submodule._WebWindow__OnCloseButtonClick
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
+__del__,		<cyfunction WebWindow.__del__ at 0x091B6C38>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
+Clear,		<cyfunction WebWindow.Clear at 0x091B6DF0>
+	arg0: self
+
+submodule.Clear
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
+Refresh,		<cyfunction WebWindow.Refresh at 0x091B6E48>
+	arg0: self
+
+submodule.Refresh
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
 __qualname__,		WebWindow
-OnPressEscapeKey,		<cyfunction WebWindow.OnPressEscapeKey at 0x1D5655B0>
-Destroy,		<cyfunction WebWindow.Destroy at 0x1D5653A0>
-Close,		<cyfunction WebWindow.Close at 0x1D565450>
-LoadWindow,		<cyfunction WebWindow.LoadWindow at 0x1D565348>
-Open,		<cyfunction WebWindow.Open at 0x1D5653F8>
+
+submodule.__qualname__
+
+
+OnPressEscapeKey,		<cyfunction WebWindow.OnPressEscapeKey at 0x091B6EF8>
+	arg0: self
+
+submodule.OnPressEscapeKey
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
+Destroy,		<cyfunction WebWindow.Destroy at 0x091B6CE8>
+	arg0: self
+
+submodule.Destroy
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
+Close,		<cyfunction WebWindow.Close at 0x091B6D98>
+	arg0: self
+
+submodule.Close
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
+LoadWindow,		<cyfunction WebWindow.LoadWindow at 0x091B6C90>
+	arg0: self
+
+submodule.LoadWindow
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
+Open,		<cyfunction WebWindow.Open at 0x091B6D40>
+	arg0: self
+	arg1: url
+
+submodule.Open
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
 __doc__,		None
-__init__,		<cyfunction WebWindow.__init__ at 0x1D565298>
+
+submodule.__doc__
+
+
+__init__,		<cyfunction WebWindow.__init__ at 0x091B6BE0>
+	arg0: self
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with WebWindow instance as first argument (got nothing instead)
 
 

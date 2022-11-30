@@ -13,18 +13,81 @@ key: __doc__, val: None
 
 class PickETCDialog:
 __module__,		uiPickETC
-OnAccept,		<cyfunction PickETCDialog.OnAccept at 0x0BCC9348>
-__del__,		<cyfunction PickETCDialog.__del__ at 0x0BCC9030>
-SetCloseEvent,		<cyfunction PickETCDialog.SetCloseEvent at 0x0BCC91E8>
-SetMax,		<cyfunction PickETCDialog.SetMax at 0x0BCC9240>
-SetAcceptEvent,		<cyfunction PickETCDialog.SetAcceptEvent at 0x0BCC9190>
+
+submodule.__module__
+
+
+OnAccept,		<cyfunction PickETCDialog.OnAccept at 0x092F5F50>
+	arg0: self
+
+submodule.OnAccept
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
+__del__,		<cyfunction PickETCDialog.__del__ at 0x092F5C38>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
+SetCloseEvent,		<cyfunction PickETCDialog.SetCloseEvent at 0x092F5DF0>
+	arg0: self
+	arg1: event
+
+submodule.SetCloseEvent
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
+SetMax,		<cyfunction PickETCDialog.SetMax at 0x092F5E48>
+	arg0: self
+	arg1: max
+
+submodule.SetMax
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
+SetAcceptEvent,		<cyfunction PickETCDialog.SetAcceptEvent at 0x092F5D98>
+	arg0: self
+	arg1: event
+
+submodule.SetAcceptEvent
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
 __qualname__,		PickETCDialog
-LoadDialog,		<cyfunction PickETCDialog.LoadDialog at 0x0BCC9088>
-Destroy,		<cyfunction PickETCDialog.Destroy at 0x0BCC90E0>
-Close,		<cyfunction PickETCDialog.Close at 0x0BCC92F0>
-SetTitleName,		<cyfunction PickETCDialog.SetTitleName at 0x0BCC9138>
-Open,		<cyfunction PickETCDialog.Open at 0x0BCC9298>
+
+submodule.__qualname__
+
+
+LoadDialog,		<cyfunction PickETCDialog.LoadDialog at 0x092F5C90>
+	arg0: self
+
+submodule.LoadDialog
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
+Destroy,		<cyfunction PickETCDialog.Destroy at 0x092F5CE8>
+	arg0: self
+
+submodule.Destroy
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
+Close,		<cyfunction PickETCDialog.Close at 0x092F5EF8>
+	arg0: self
+
+submodule.Close
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
+SetTitleName,		<cyfunction PickETCDialog.SetTitleName at 0x092F5D40>
+	arg0: self
+	arg1: text
+
+submodule.SetTitleName
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
+Open,		<cyfunction PickETCDialog.Open at 0x092F5EA0>
+	arg0: self
+	arg1: maxValue
+	arg2: unitValue
+	default: 1
+
+submodule.Open
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
 __doc__,		None
-__init__,		<cyfunction PickETCDialog.__init__ at 0x0BCC6FA8>
+
+submodule.__doc__
+
+
+__init__,		<cyfunction PickETCDialog.__init__ at 0x092F5BE0>
+	arg0: self
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with PickETCDialog instance as first argument (got nothing instead)
 
 

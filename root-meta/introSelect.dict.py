@@ -45,7 +45,7 @@
                      {'args': ['self', 'stream'], 'defaults': [], 'name': '__init__'}],
             'import': [],
             'var': [{'name': 'CHARACTER_TYPE_COUNT', 'type': 'int', 'value': 5},
-                    {'name': 'EMPIRE_NAME', 'type': 'dict', 'value': {1: 'Shinsoo birodalom', 2: 'Chunjo birodalom', 3: 'Jinno birodalom'}},
+                    {'name': 'EMPIRE_NAME', 'type': 'dict', 'value': {1: 'Shinsoo-Reich', 2: 'Chunjo-Reich', 3: 'Jinno-Reich'}},
                     {'name': 'SLOT_COUNT', 'type': 'int', 'value': 5},
                     {'name': 'SLOT_ROTATION', 'type': 'list', 'value': [135.0, 207.0, 279.0, 351.0, 63.0]},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},

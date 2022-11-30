@@ -81,6 +81,7 @@
                      {'args': ['self'], 'defaults': [], 'name': '__LoadWindow'},
                      {'args': ['self', 'local'], 'defaults': [], 'name': '__LocalPosToGlobalPos'},
                      {'args': ['self', 'pageCount'], 'defaults': [], 'name': '__MakePageButton'},
+                     {'args': ['self', 'slotNumber', 'itemVnum'], 'defaults': [], 'name': '__SetCollTimePetItemSlot'},
                      {'args': ['self', 'slotIndex'], 'defaults': [], 'name': '__ShowToolTip'},
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],

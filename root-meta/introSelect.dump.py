@@ -35,54 +35,269 @@ key: uiCharacter, val: <module 'uiCharacter' (built-in)>
 
 
 class SelectCharacterWindow:
-MakeCharacter,		<cyfunction SelectCharacterWindow.MakeCharacter at 0x1D6EB0E0>
-GetCharacterSlotID,		<cyfunction SelectCharacterWindow.GetCharacterSlotID at 0x1D6EB3A0>
-CreateCharacter,		<cyfunction SelectCharacterWindow.CreateCharacter at 0x1D6EB768>
+MakeCharacter,		<cyfunction SelectCharacterWindow.MakeCharacter at 0x09459500>
+	arg0: self
+	arg1: index
+	arg2: id
+	arg3: name
+	arg4: race
+	arg5: form
+	arg6: hair
+	arg7: acce
+
+submodule.MakeCharacter
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+GetCharacterSlotID,		<cyfunction SelectCharacterWindow.GetCharacterSlotID at 0x094593A0>
+	arg0: self
+	arg1: slotIndex
+
+submodule.GetCharacterSlotID
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+CreateCharacter,		<cyfunction SelectCharacterWindow.CreateCharacter at 0x09459768>
+	arg0: self
+
+submodule.CreateCharacter
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
 CharacterRenderer,		<class 'introSelect.CharacterRenderer'>
-SameLoginDisconnect,		<cyfunction SelectCharacterWindow.SameLoginDisconnect at 0x1D6EB558>
-_SelectCharacterWindow__LoadBoardDialog,		<cyfunction SelectCharacterWindow.__LoadBoardDialog at 0x1D6EB450>
-DecreaseSlotIndex,		<cyfunction SelectCharacterWindow.DecreaseSlotIndex at 0x1D6EBB88>
-EmptyFunc,		<cyfunction SelectCharacterWindow.EmptyFunc at 0x1D6EBE48>
+Skip: type object 'CharacterRenderer' has no attribute 'func_code'
+SameLoginDisconnect,		<cyfunction SelectCharacterWindow.SameLoginDisconnect at 0x094594A8>
+	arg0: self
+
+submodule.SameLoginDisconnect
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+_SelectCharacterWindow__LoadBoardDialog,		<cyfunction SelectCharacterWindow.__LoadBoardDialog at 0x09459450>
+	arg0: self
+	arg1: fileName
+
+submodule._SelectCharacterWindow__LoadBoardDialog
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+DecreaseSlotIndex,		<cyfunction SelectCharacterWindow.DecreaseSlotIndex at 0x09459B88>
+	arg0: self
+
+submodule.DecreaseSlotIndex
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+EmptyFunc,		<cyfunction SelectCharacterWindow.EmptyFunc at 0x09459E48>
+	arg0: self
+
+submodule.EmptyFunc
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
 SLOT_ROTATION,		[135.0, 207.0, 279.0, 351.0, 63.0]
-SetEmpire,		<cyfunction SelectCharacterWindow.SetEmpire at 0x1D6EB088>
-SelectSlot,		<cyfunction SelectCharacterWindow.SelectSlot at 0x1D6EBC38>
-OnDeleteSuccess,		<cyfunction SelectCharacterWindow.OnDeleteSuccess at 0x1D6EB9D0>
-RequestDeleteCharacter,		<cyfunction SelectCharacterWindow.RequestDeleteCharacter at 0x1D6EB870>
-__init__,		<cyfunction SelectCharacterWindow.__init__ at 0x1D6EB660>
-OnUpdate,		<cyfunction SelectCharacterWindow.OnUpdate at 0x1D6EBDF0>
+
+submodule.SLOT_ROTATION
+
+
+SetEmpire,		<cyfunction SelectCharacterWindow.SetEmpire at 0x09459298>
+	arg0: self
+	arg1: id
+
+submodule.SetEmpire
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+SelectSlot,		<cyfunction SelectCharacterWindow.SelectSlot at 0x09459C38>
+	arg0: self
+	arg1: index
+
+submodule.SelectSlot
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+OnDeleteSuccess,		<cyfunction SelectCharacterWindow.OnDeleteSuccess at 0x094599D0>
+	arg0: self
+	arg1: slot
+
+submodule.OnDeleteSuccess
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+RequestDeleteCharacter,		<cyfunction SelectCharacterWindow.RequestDeleteCharacter at 0x09459870>
+	arg0: self
+
+submodule.RequestDeleteCharacter
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+__init__,		<cyfunction SelectCharacterWindow.__init__ at 0x094596B8>
+	arg0: self
+	arg1: stream
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+OnUpdate,		<cyfunction SelectCharacterWindow.OnUpdate at 0x09459DF0>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
 __module__,		introSelect
-InputPrivateCode,		<cyfunction SelectCharacterWindow.InputPrivateCode at 0x1D6EB8C8>
-InitCharacterBoard,		<cyfunction SelectCharacterWindow.InitCharacterBoard at 0x1D6EBC90>
-PopupDeleteQuestion,		<cyfunction SelectCharacterWindow.PopupDeleteQuestion at 0x1D6EB818>
-OnKeyDown,		<cyfunction SelectCharacterWindow.OnKeyDown at 0x1D6EBD98>
-AcceptInputName,		<cyfunction SelectCharacterWindow.AcceptInputName at 0x1D6EB1E8>
-EMPIRE_NAME,		{1: 'Shinsoo birodalom', 2: 'Chunjo birodalom', 3: 'Jinno birodalom'}
+
+submodule.__module__
+
+
+InputPrivateCode,		<cyfunction SelectCharacterWindow.InputPrivateCode at 0x094598C8>
+	arg0: self
+
+submodule.InputPrivateCode
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+InitCharacterBoard,		<cyfunction SelectCharacterWindow.InitCharacterBoard at 0x09459C90>
+	arg0: self
+
+submodule.InitCharacterBoard
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+PopupDeleteQuestion,		<cyfunction SelectCharacterWindow.PopupDeleteQuestion at 0x09459818>
+	arg0: self
+
+submodule.PopupDeleteQuestion
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+OnKeyDown,		<cyfunction SelectCharacterWindow.OnKeyDown at 0x09459D98>
+	arg0: self
+	arg1: key
+
+submodule.OnKeyDown
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+AcceptInputName,		<cyfunction SelectCharacterWindow.AcceptInputName at 0x09459660>
+	arg0: self
+
+submodule.AcceptInputName
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+EMPIRE_NAME,		{1: 'Shinsoo-Reich', 2: 'Chunjo-Reich', 3: 'Jinno-Reich'}
+
+submodule.EMPIRE_NAME
+
+
 __doc__,		None
-OpenChangeNameDialog,		<cyfunction SelectCharacterWindow.OpenChangeNameDialog at 0x1D6EB5B0>
-ExitSelect,		<cyfunction SelectCharacterWindow.ExitSelect at 0x1D6EBAD8>
-__del__,		<cyfunction SelectCharacterWindow.__del__ at 0x1D6EB3F8>
-OnChangeName,		<cyfunction SelectCharacterWindow.OnChangeName at 0x1D6EB608>
-Refresh,		<cyfunction SelectCharacterWindow.Refresh at 0x1D6EB348>
-_SelectCharacterWindow__AreAllSlotEmpty,		<cyfunction SelectCharacterWindow.__AreAllSlotEmpty at 0x1D6EB7C0>
-CancelInputName,		<cyfunction SelectCharacterWindow.CancelInputName at 0x1D6EB6B8>
-IncreaseSlotIndex,		<cyfunction SelectCharacterWindow.IncreaseSlotIndex at 0x1D6EBBE0>
-CancelInputPrivateCode,		<cyfunction SelectCharacterWindow.CancelInputPrivateCode at 0x1D6EB978>
-OnDeleteFailure,		<cyfunction SelectCharacterWindow.OnDeleteFailure at 0x1D6EBA28>
-AcceptInputPrivateCode,		<cyfunction SelectCharacterWindow.AcceptInputPrivateCode at 0x1D6EB920>
-OnPressEscapeKey,		<cyfunction SelectCharacterWindow.OnPressEscapeKey at 0x1D6EBD40>
-Close,		<cyfunction SelectCharacterWindow.Close at 0x1D6EB4A8>
-PopupMessage,		<cyfunction SelectCharacterWindow.PopupMessage at 0x1D6EBEA0>
-DeleteCharacter,		<cyfunction SelectCharacterWindow.DeleteCharacter at 0x1D6EBA80>
-OnPressExitKey,		<cyfunction SelectCharacterWindow.OnPressExitKey at 0x1D6EBEF8>
-OnCreateFailure,		<cyfunction SelectCharacterWindow.OnCreateFailure at 0x1D6EB710>
-_SelectCharacterWindow__LoadQuestionDialog,		<cyfunction SelectCharacterWindow.__LoadQuestionDialog at 0x1D6EB138>
-StartGame,		<cyfunction SelectCharacterWindow.StartGame at 0x1D6EB2F0>
-GetSlotIndex,		<cyfunction SelectCharacterWindow.GetSlotIndex at 0x1D6EBB30>
+
+submodule.__doc__
+
+
+OpenChangeNameDialog,		<cyfunction SelectCharacterWindow.OpenChangeNameDialog at 0x094595B0>
+	arg0: self
+
+submodule.OpenChangeNameDialog
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+ExitSelect,		<cyfunction SelectCharacterWindow.ExitSelect at 0x09459AD8>
+	arg0: self
+
+submodule.ExitSelect
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+__del__,		<cyfunction SelectCharacterWindow.__del__ at 0x09459240>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+OnChangeName,		<cyfunction SelectCharacterWindow.OnChangeName at 0x09459608>
+	arg0: self
+	arg1: id
+	arg2: name
+
+submodule.OnChangeName
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+Refresh,		<cyfunction SelectCharacterWindow.Refresh at 0x09459348>
+	arg0: self
+
+submodule.Refresh
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+_SelectCharacterWindow__AreAllSlotEmpty,		<cyfunction SelectCharacterWindow.__AreAllSlotEmpty at 0x094597C0>
+	arg0: self
+
+submodule._SelectCharacterWindow__AreAllSlotEmpty
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+CancelInputName,		<cyfunction SelectCharacterWindow.CancelInputName at 0x09459190>
+	arg0: self
+
+submodule.CancelInputName
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+IncreaseSlotIndex,		<cyfunction SelectCharacterWindow.IncreaseSlotIndex at 0x09459BE0>
+	arg0: self
+
+submodule.IncreaseSlotIndex
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+CancelInputPrivateCode,		<cyfunction SelectCharacterWindow.CancelInputPrivateCode at 0x09459978>
+	arg0: self
+
+submodule.CancelInputPrivateCode
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+OnDeleteFailure,		<cyfunction SelectCharacterWindow.OnDeleteFailure at 0x09459A28>
+	arg0: self
+
+submodule.OnDeleteFailure
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+AcceptInputPrivateCode,		<cyfunction SelectCharacterWindow.AcceptInputPrivateCode at 0x09459920>
+	arg0: self
+
+submodule.AcceptInputPrivateCode
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+OnPressEscapeKey,		<cyfunction SelectCharacterWindow.OnPressEscapeKey at 0x09459D40>
+	arg0: self
+
+submodule.OnPressEscapeKey
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+Close,		<cyfunction SelectCharacterWindow.Close at 0x094590E0>
+	arg0: self
+
+submodule.Close
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+PopupMessage,		<cyfunction SelectCharacterWindow.PopupMessage at 0x09459EA0>
+	arg0: self
+	arg1: msg
+	arg2: func
+	default: 0
+
+submodule.PopupMessage
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+DeleteCharacter,		<cyfunction SelectCharacterWindow.DeleteCharacter at 0x09459A80>
+	arg0: self
+	arg1: index
+
+submodule.DeleteCharacter
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+OnPressExitKey,		<cyfunction SelectCharacterWindow.OnPressExitKey at 0x09459EF8>
+	arg0: self
+
+submodule.OnPressExitKey
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+OnCreateFailure,		<cyfunction SelectCharacterWindow.OnCreateFailure at 0x09459710>
+	arg0: self
+	arg1: type
+
+submodule.OnCreateFailure
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+_SelectCharacterWindow__LoadQuestionDialog,		<cyfunction SelectCharacterWindow.__LoadQuestionDialog at 0x094593F8>
+	arg0: self
+	arg1: fileName
+
+submodule._SelectCharacterWindow__LoadQuestionDialog
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+StartGame,		<cyfunction SelectCharacterWindow.StartGame at 0x09459558>
+	arg0: self
+
+submodule.StartGame
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+GetSlotIndex,		<cyfunction SelectCharacterWindow.GetSlotIndex at 0x09459B30>
+	arg0: self
+
+submodule.GetSlotIndex
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
 __qualname__,		SelectCharacterWindow
+
+submodule.__qualname__
+
+
 CHARACTER_TYPE_COUNT,		5
-HideAllFlag,		<cyfunction SelectCharacterWindow.HideAllFlag at 0x1D6EB500>
+
+submodule.CHARACTER_TYPE_COUNT
+
+
+HideAllFlag,		<cyfunction SelectCharacterWindow.HideAllFlag at 0x094591E8>
+	arg0: self
+
+submodule.HideAllFlag
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
 SLOT_COUNT,		5
-OnIMEReturn,		<cyfunction SelectCharacterWindow.OnIMEReturn at 0x1D6EBCE8>
-Open,		<cyfunction SelectCharacterWindow.Open at 0x1D6EB240>
+
+submodule.SLOT_COUNT
+
+
+OnIMEReturn,		<cyfunction SelectCharacterWindow.OnIMEReturn at 0x09459CE8>
+	arg0: self
+
+submodule.OnIMEReturn
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
+Open,		<cyfunction SelectCharacterWindow.Open at 0x09459138>
+	arg0: self
+
+submodule.Open
+Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
 
 

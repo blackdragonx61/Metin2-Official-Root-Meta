@@ -6,6 +6,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'OpenConfirmDialog'},
                      {'args': ['self'], 'defaults': [], 'name': 'OpenDialog'},
                      {'args': ['self'], 'defaults': [], 'name': 'ResetPoint'},
+                     {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiPointReset'}, {'name': '__qualname__', 'type': 'str', 'value': 'PointResetDialog'}]}],

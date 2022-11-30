@@ -62,7 +62,7 @@
                      {'args': ['self', 'selectedSlotPos'], 'defaults': [], 'name': 'SelectEmptySlot'},
                      {'args': ['self', 'itemSlotIndex'], 'defaults': [], 'name': 'SelectItemSlot'},
                      {'args': ['self'], 'defaults': [], 'name': 'SellItem'},
-                     {'args': ['self', 'wndDragonSoulRefine'], 'defaults': [], 'name': 'SetDragonSoulRefineWindow'},
+                     {'args': ['self', 'DragonSoulRefine'], 'defaults': [], 'name': 'SetDragonSoulRefineWindow'},
                      {'args': ['self', 'page'], 'defaults': [], 'name': 'SetEquipmentPage'},
                      {'args': ['self', 'page'], 'defaults': [], 'name': 'SetInventoryPage'},
                      {'args': ['self', 'tooltipItem'], 'defaults': [], 'name': 'SetItemToolTip'},

@@ -10,11 +10,13 @@
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__BattleFieldInfo'},
                      {'args': ['self', 'open'], 'defaults': [], 'name': '__BattleFieldOpen'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__DayMode_Update'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__FishEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__Halloween_box_event'},
                      {'args': ['self'], 'defaults': [], 'name': '__ItemMall_Open'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameOkeyEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameOkeyNormalEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MonsterBack'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__PartyMatchOff'},
                      {'args': ['self', 'line'], 'defaults': [], 'name': '__PreserveCommand'},
                      {'args': ['self'], 'defaults': [], 'name': '__ServerCommand_Build'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__SummerEvent'},
@@ -35,4 +37,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0BBE02D0>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x091A9310>}]}

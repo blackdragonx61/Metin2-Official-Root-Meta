@@ -22,6 +22,7 @@
                      {'args': ['self'], 'defaults': [], 'name': '__LoadSystemMenu_Default'},
                      {'args': ['self'], 'defaults': [], 'name': '__LoadSystemMenu_ForPortal'},
                      {'args': ['self'], 'defaults': [], 'name': '__OnClosePopupDialog'},
+                     {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiSystem'}, {'name': '__qualname__', 'type': 'str', 'value': 'SystemDialog'}]},

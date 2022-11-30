@@ -7,7 +7,7 @@ key: __builtins__, val: <module '__builtin__' (built-in)>
 key: app, val: <module 'app' (built-in)>
 key: wndMgr, val: <module 'wndMgr' (built-in)>
 key: __package__, val: None
-key: NumberToMoneyString, val: <cyfunction NumberToMoneyString at 0x0BD77088>
+key: NumberToMoneyString, val: <cyfunction NumberToMoneyString at 0x0939D978>
 key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
@@ -21,70 +21,335 @@ key: __doc__, val: None
 
 
 class GuildBankDialog:
-SelectEmptySlot,		<cyfunction GuildBankDialog.SelectEmptySlot at 0x0BD779D0>
-CommandCloseGuildBank,		<cyfunction GuildBankDialog.CommandCloseGuildBank at 0x0BD77D98>
+SelectEmptySlot,		<cyfunction GuildBankDialog.SelectEmptySlot at 0x093A12F0>
+	arg0: self
+	arg1: selectedSlotPos
+
+submodule.SelectEmptySlot
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+CommandCloseGuildBank,		<cyfunction GuildBankDialog.CommandCloseGuildBank at 0x093A16B8>
+	arg0: self
+
+submodule.CommandCloseGuildBank
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
 __module__,		uiGuildBank
-SetTableSize,		<cyfunction GuildBankDialog.SetTableSize at 0x0BD77818>
-SelectItemSlot,		<cyfunction GuildBankDialog.SelectItemSlot at 0x0BD77A28>
-OverInItem,		<cyfunction GuildBankDialog.OverInItem at 0x0BD77AD8>
-_GuildBankDialog__ShowToolTip,		<cyfunction GuildBankDialog.__ShowToolTip at 0x0BD77D40>
-RefreshGuildBankInfo,		<cyfunction GuildBankDialog.RefreshGuildBankInfo at 0x0BD777C0>
-OnPickMoney,		<cyfunction GuildBankDialog.OnPickMoney at 0x0BD77B88>
-ButtonToolTipProgress,		<cyfunction GuildBankDialog.ButtonToolTipProgress at 0x0BD77EF8>
-OnPressEscapeKey,		<cyfunction GuildBankDialog.OnPressEscapeKey at 0x0BD77DF0>
-ShowWindow,		<cyfunction GuildBankDialog.ShowWindow at 0x0BD77870>
-SelectPage,		<cyfunction GuildBankDialog.SelectPage at 0x0BD77920>
-__init__,		<cyfunction GuildBankDialog.__init__ at 0x0BD775B0>
-OverOutToolTipButton,		<cyfunction GuildBankDialog.OverOutToolTipButton at 0x0BD77EA0>
-RefreshBank,		<cyfunction GuildBankDialog.RefreshBank at 0x0BD77C38>
+
+submodule.__module__
+
+
+SetTableSize,		<cyfunction GuildBankDialog.SetTableSize at 0x093A1138>
+	arg0: self
+	arg1: size
+
+submodule.SetTableSize
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+SelectItemSlot,		<cyfunction GuildBankDialog.SelectItemSlot at 0x093A1348>
+	arg0: self
+	arg1: selectedSlotPos
+
+submodule.SelectItemSlot
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+OverInItem,		<cyfunction GuildBankDialog.OverInItem at 0x093A13F8>
+	arg0: self
+	arg1: slotIndex
+
+submodule.OverInItem
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+_GuildBankDialog__ShowToolTip,		<cyfunction GuildBankDialog.__ShowToolTip at 0x093A1660>
+	arg0: self
+	arg1: slotIndex
+
+submodule._GuildBankDialog__ShowToolTip
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+RefreshGuildBankInfo,		<cyfunction GuildBankDialog.RefreshGuildBankInfo at 0x093A10E0>
+	arg0: self
+
+submodule.RefreshGuildBankInfo
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+OnPickMoney,		<cyfunction GuildBankDialog.OnPickMoney at 0x093A14A8>
+	arg0: self
+	arg1: money
+
+submodule.OnPickMoney
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+ButtonToolTipProgress,		<cyfunction GuildBankDialog.ButtonToolTipProgress at 0x093A1818>
+	arg0: self
+
+submodule.ButtonToolTipProgress
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+OnPressEscapeKey,		<cyfunction GuildBankDialog.OnPressEscapeKey at 0x093A1710>
+	arg0: self
+
+submodule.OnPressEscapeKey
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+ShowWindow,		<cyfunction GuildBankDialog.ShowWindow at 0x093A1190>
+	arg0: self
+	arg1: size
+
+submodule.ShowWindow
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+SelectPage,		<cyfunction GuildBankDialog.SelectPage at 0x093A1240>
+	arg0: self
+	arg1: index
+
+submodule.SelectPage
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+__init__,		<cyfunction GuildBankDialog.__init__ at 0x0939DEA0>
+	arg0: self
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+OverOutToolTipButton,		<cyfunction GuildBankDialog.OverOutToolTipButton at 0x093A17C0>
+	arg0: self
+
+submodule.OverOutToolTipButton
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+RefreshBank,		<cyfunction GuildBankDialog.RefreshBank at 0x093A1558>
+	arg0: self
+
+submodule.RefreshBank
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
 BOX_WIDTH,		176
-SetItemToolTip,		<cyfunction GuildBankDialog.SetItemToolTip at 0x0BD77CE8>
-Destory,		<cyfunction GuildBankDialog.Destory at 0x0BD776B8>
-Show,		<cyfunction GuildBankDialog.Show at 0x0BD77660>
-OnUpdate,		<cyfunction GuildBankDialog.OnUpdate at 0x0BD77BE0>
+
+submodule.BOX_WIDTH
+
+
+SetItemToolTip,		<cyfunction GuildBankDialog.SetItemToolTip at 0x093A1608>
+	arg0: self
+	arg1: tooltip
+
+submodule.SetItemToolTip
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+Destory,		<cyfunction GuildBankDialog.Destory at 0x0939DFA8>
+	arg0: self
+
+submodule.Destory
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+Show,		<cyfunction GuildBankDialog.Show at 0x0939DF50>
+	arg0: self
+
+submodule.Show
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+OnUpdate,		<cyfunction GuildBankDialog.OnUpdate at 0x093A1500>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
 __qualname__,		GuildBankDialog
-__del__,		<cyfunction GuildBankDialog.__del__ at 0x0BD77608>
-UseItemSlot,		<cyfunction GuildBankDialog.UseItemSlot at 0x0BD77A80>
-OverOutItem,		<cyfunction GuildBankDialog.OverOutItem at 0x0BD77B30>
-OpenBankInfo,		<cyfunction GuildBankDialog.OpenBankInfo at 0x0BD77768>
-_GuildBankDialog__MakePageButton,		<cyfunction GuildBankDialog.__MakePageButton at 0x0BD778C8>
-_GuildBankDialog__LoadWindow,		<cyfunction GuildBankDialog.__LoadWindow at 0x0BD77710>
-Close,		<cyfunction GuildBankDialog.Close at 0x0BD77C90>
+
+submodule.__qualname__
+
+
+__del__,		<cyfunction GuildBankDialog.__del__ at 0x0939DEF8>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+UseItemSlot,		<cyfunction GuildBankDialog.UseItemSlot at 0x093A13A0>
+	arg0: self
+	arg1: slotIndex
+
+submodule.UseItemSlot
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+OverOutItem,		<cyfunction GuildBankDialog.OverOutItem at 0x093A1450>
+	arg0: self
+
+submodule.OverOutItem
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+OpenBankInfo,		<cyfunction GuildBankDialog.OpenBankInfo at 0x093A1088>
+	arg0: self
+
+submodule.OpenBankInfo
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+_GuildBankDialog__MakePageButton,		<cyfunction GuildBankDialog.__MakePageButton at 0x093A11E8>
+	arg0: self
+	arg1: pageCount
+
+submodule._GuildBankDialog__MakePageButton
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+_GuildBankDialog__LoadWindow,		<cyfunction GuildBankDialog.__LoadWindow at 0x093A1030>
+	arg0: self
+
+submodule._GuildBankDialog__LoadWindow
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+Close,		<cyfunction GuildBankDialog.Close at 0x093A15B0>
+	arg0: self
+
+submodule.Close
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
 __doc__,		None
-_GuildBankDialog__LocalPosToGlobalPos,		<cyfunction GuildBankDialog.__LocalPosToGlobalPos at 0x0BD77978>
-OverInToolTipButton,		<cyfunction GuildBankDialog.OverInToolTipButton at 0x0BD77E48>
+
+submodule.__doc__
+
+
+_GuildBankDialog__LocalPosToGlobalPos,		<cyfunction GuildBankDialog.__LocalPosToGlobalPos at 0x093A1298>
+	arg0: self
+	arg1: local
+
+submodule._GuildBankDialog__LocalPosToGlobalPos
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
+OverInToolTipButton,		<cyfunction GuildBankDialog.OverInToolTipButton at 0x093A1768>
+	arg0: self
+	arg1: arg
+
+submodule.OverInToolTipButton
+Skipped: unbound method cython_function_or_method object must be called with GuildBankDialog instance as first argument (got nothing instead)
 
 
 class GuildBankLogDialog:
 GUILD_GOLD_TYPE_OBJECT_CREATE,		5
+
+submodule.GUILD_GOLD_TYPE_OBJECT_CREATE
+
+
 __module__,		uiGuildBank
+
+submodule.__module__
+
+
 GUILD_GOLD_TYPE_PROMOTE_UPDATE,		3
+
+submodule.GUILD_GOLD_TYPE_PROMOTE_UPDATE
+
+
 GUILD_GOLD_TYPE_OUT,		1
-__del__,		<cyfunction GuildBankLogDialog.__del__ at 0x0BD77138>
-OnScrollInfoLine,		<cyfunction GuildBankLogDialog.OnScrollInfoLine at 0x0BD77240>
-RefreshGuildBankInfo,		<cyfunction GuildBankLogDialog.RefreshGuildBankInfo at 0x0BD772F0>
+
+submodule.GUILD_GOLD_TYPE_OUT
+
+
+__del__,		<cyfunction GuildBankLogDialog.__del__ at 0x0939DA28>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
+OnScrollInfoLine,		<cyfunction GuildBankLogDialog.OnScrollInfoLine at 0x0939DB30>
+	arg0: self
+
+submodule.OnScrollInfoLine
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
+RefreshGuildBankInfo,		<cyfunction GuildBankLogDialog.RefreshGuildBankInfo at 0x0939DBE0>
+	arg0: self
+
+submodule.RefreshGuildBankInfo
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
 GUILD_GOLD_TYPE_CHANGE_SMELTER,		8
-ButtonToolTipProgress,		<cyfunction GuildBankLogDialog.ButtonToolTipProgress at 0x0BD77500>
-OnPressEscapeKey,		<cyfunction GuildBankLogDialog.OnPressEscapeKey at 0x0BD773F8>
+
+submodule.GUILD_GOLD_TYPE_CHANGE_SMELTER
+
+
+ButtonToolTipProgress,		<cyfunction GuildBankLogDialog.ButtonToolTipProgress at 0x0939DDF0>
+	arg0: self
+
+submodule.ButtonToolTipProgress
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
+OnPressEscapeKey,		<cyfunction GuildBankLogDialog.OnPressEscapeKey at 0x0939DCE8>
+	arg0: self
+
+submodule.OnPressEscapeKey
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
 __doc__,		None
-__init__,		<cyfunction GuildBankLogDialog.__init__ at 0x0BD770E0>
+
+submodule.__doc__
+
+
+__init__,		<cyfunction GuildBankLogDialog.__init__ at 0x0939D9D0>
+	arg0: self
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
 GUILD_GOLD_TYPE_IN,		0
-OnUpdate,		<cyfunction GuildBankLogDialog.OnUpdate at 0x0BD77558>
+
+submodule.GUILD_GOLD_TYPE_IN
+
+
+OnUpdate,		<cyfunction GuildBankLogDialog.OnUpdate at 0x0939DE48>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
 GUILD_GOLD_TYPE_BUY_GUILD_LAND,		7
+
+submodule.GUILD_GOLD_TYPE_BUY_GUILD_LAND
+
+
 GUILD_GOLD_TYPE_PROMOTE,		2
+
+submodule.GUILD_GOLD_TYPE_PROMOTE
+
+
 SLOTLINECOUNTER,		12
-Show,		<cyfunction GuildBankLogDialog.Show at 0x0BD77190>
+
+submodule.SLOTLINECOUNTER
+
+
+Show,		<cyfunction GuildBankLogDialog.Show at 0x0939DA80>
+	arg0: self
+
+submodule.Show
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
 GUILD_GOLD_TYPE_OBJECT_CHANGE,		4
+
+submodule.GUILD_GOLD_TYPE_OBJECT_CHANGE
+
+
 GUILD_GOLD_TYPE_DRAGON_SP_RECOVER,		6
+
+submodule.GUILD_GOLD_TYPE_DRAGON_SP_RECOVER
+
+
 GUILD_GOLD_TYPE_UPGRADE_ALTEROFPOWER,		9
+
+submodule.GUILD_GOLD_TYPE_UPGRADE_ALTEROFPOWER
+
+
 __qualname__,		GuildBankLogDialog
+
+submodule.__qualname__
+
+
 GUILD_GOLD_TYPE_DEAL_GUILD_LAND,		11
-GetInfoData,		<cyfunction GuildBankLogDialog.GetInfoData at 0x0BD77348>
-OverInToolTipButton,		<cyfunction GuildBankLogDialog.OverInToolTipButton at 0x0BD77450>
-MakeInfoList,		<cyfunction GuildBankLogDialog.MakeInfoList at 0x0BD77298>
-Close,		<cyfunction GuildBankLogDialog.Close at 0x0BD773A0>
-OverOutToolTipButton,		<cyfunction GuildBankLogDialog.OverOutToolTipButton at 0x0BD774A8>
-_GuildBankLogDialog__LoadWindow,		<cyfunction GuildBankLogDialog.__LoadWindow at 0x0BD771E8>
+
+submodule.GUILD_GOLD_TYPE_DEAL_GUILD_LAND
+
+
+GetInfoData,		<cyfunction GuildBankLogDialog.GetInfoData at 0x0939DC38>
+	arg0: self
+	arg1: localPos
+
+submodule.GetInfoData
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
+OverInToolTipButton,		<cyfunction GuildBankLogDialog.OverInToolTipButton at 0x0939DD40>
+	arg0: self
+	arg1: event_type
+	arg2: arg
+
+submodule.OverInToolTipButton
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
+MakeInfoList,		<cyfunction GuildBankLogDialog.MakeInfoList at 0x0939DB88>
+	arg0: self
+
+submodule.MakeInfoList
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
+Close,		<cyfunction GuildBankLogDialog.Close at 0x0939DC90>
+	arg0: self
+
+submodule.Close
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
+OverOutToolTipButton,		<cyfunction GuildBankLogDialog.OverOutToolTipButton at 0x0939DD98>
+	arg0: self
+	arg1: event_type
+
+submodule.OverOutToolTipButton
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
+_GuildBankLogDialog__LoadWindow,		<cyfunction GuildBankLogDialog.__LoadWindow at 0x0939DAD8>
+	arg0: self
+
+submodule._GuildBankLogDialog__LoadWindow
+Skipped: unbound method cython_function_or_method object must be called with GuildBankLogDialog instance as first argument (got nothing instead)
 GUILD_GOLD_TYPE_UPGRADE_GUILDBANK,		10
+
+submodule.GUILD_GOLD_TYPE_UPGRADE_GUILDBANK
+
+
 
 

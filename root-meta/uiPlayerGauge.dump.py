@@ -11,15 +11,56 @@ key: __doc__, val: None
 
 
 class PlayerGauge:
-OnUpdate,		<cyfunction PlayerGauge.OnUpdate at 0x0BC15BE0>
-RefreshGauge,		<cyfunction PlayerGauge.RefreshGauge at 0x0BC15C38>
-Hide,		<cyfunction PlayerGauge.Hide at 0x0BC15B88>
-__del__,		<cyfunction PlayerGauge.__del__ at 0x0BC15B30>
+OnUpdate,		<cyfunction PlayerGauge.OnUpdate at 0x09287B88>
+	arg0: self
+
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
+RefreshGauge,		<cyfunction PlayerGauge.RefreshGauge at 0x09287FA8>
+	arg0: self
+
+submodule.RefreshGauge
+Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
+Hide,		<cyfunction PlayerGauge.Hide at 0x09287C90>
+	arg0: self
+
+submodule.Hide
+Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
+__del__,		<cyfunction PlayerGauge.__del__ at 0x09287EA0>
+	arg0: self
+
+submodule.__del__
+Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
 __module__,		uiPlayerGauge
+
+submodule.__module__
+
+
 __doc__,		None
+
+submodule.__doc__
+
+
 __qualname__,		PlayerGauge
-EnableShowAlways,		<cyfunction PlayerGauge.EnableShowAlways at 0x0BC15C90>
-DisableShowAlways,		<cyfunction PlayerGauge.DisableShowAlways at 0x0BC15CE8>
-__init__,		<cyfunction PlayerGauge.__init__ at 0x0BC15AD8>
+
+submodule.__qualname__
+
+
+EnableShowAlways,		<cyfunction PlayerGauge.EnableShowAlways at 0x0929D030>
+	arg0: self
+
+submodule.EnableShowAlways
+Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
+DisableShowAlways,		<cyfunction PlayerGauge.DisableShowAlways at 0x0929D088>
+	arg0: self
+
+submodule.DisableShowAlways
+Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
+__init__,		<cyfunction PlayerGauge.__init__ at 0x09287DF0>
+	arg0: self
+	arg1: parent
+
+submodule.__init__
+Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
 
 

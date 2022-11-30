@@ -67,7 +67,7 @@
                     {'name': '__module__', 'type': 'str', 'value': 'uiTip'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'TipBoard'}]},
            {'class': [],
-            'func': [{'args': ['self', 'width', 'height', 'fontSize'], 'defaults': [], 'name': '__init__'}],
+            'func': [{'args': ['self'], 'defaults': [], 'name': '__del__'}, {'args': ['self', 'width', 'height', 'fontSize'], 'defaults': [], 'name': '__init__'}],
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiTip'}, {'name': '__qualname__', 'type': 'str', 'value': 'BigTextBar'}]},
            {'class': [],
