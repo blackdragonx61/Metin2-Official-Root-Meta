@@ -16,80 +16,80 @@ __module__,		uiLuckyBox
 submodule.__module__
 
 
-_LuckyBoxWindow__popUpDialogCancel,		<cyfunction LuckyBoxWindow.__popUpDialogCancel at 0x0BD51138>
+_LuckyBoxWindow__popUpDialogCancel,		<cyfunction LuckyBoxWindow.__popUpDialogCancel at 0x0AD90C90>
 	arg0: self
 
 submodule._LuckyBoxWindow__popUpDialogCancel
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction LuckyBoxWindow.__del__ at 0x0BD4ED40>
+__del__,		<cyfunction LuckyBoxWindow.__del__ at 0x0AD908C8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-OnRecv,		<cyfunction LuckyBoxWindow.OnRecv at 0x0BD51088>
+OnRecv,		<cyfunction LuckyBoxWindow.OnRecv at 0x0AD90BE0>
 	arg0: self
 
 submodule.OnRecv
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-_LuckyBoxWindow__popUpDialogAccept,		<cyfunction LuckyBoxWindow.__popUpDialogAccept at 0x0BD510E0>
+_LuckyBoxWindow__popUpDialogAccept,		<cyfunction LuckyBoxWindow.__popUpDialogAccept at 0x0AD90C38>
 	arg0: self
 
 submodule._LuckyBoxWindow__popUpDialogAccept
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction LuckyBoxWindow.OnPressEscapeKey at 0x0BD4EEA0>
+OnPressEscapeKey,		<cyfunction LuckyBoxWindow.OnPressEscapeKey at 0x0AD90A28>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction LuckyBoxWindow.Destroy at 0x0BD4EDF0>
+Destroy,		<cyfunction LuckyBoxWindow.Destroy at 0x0AD90978>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-SetInven,		<cyfunction LuckyBoxWindow.SetInven at 0x0BD512F0>
+SetInven,		<cyfunction LuckyBoxWindow.SetInven at 0x0AD90E48>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-_LuckyBoxWindow__LoadWindow,		<cyfunction LuckyBoxWindow.__LoadWindow at 0x0BD4ED98>
+_LuckyBoxWindow__LoadWindow,		<cyfunction LuckyBoxWindow.__LoadWindow at 0x0AD90920>
 	arg0: self
 
 submodule._LuckyBoxWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction LuckyBoxWindow.__init__ at 0x0BD4ECE8>
+__init__,		<cyfunction LuckyBoxWindow.__init__ at 0x0AD90870>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction LuckyBoxWindow.BindInterface at 0x0BD51298>
+BindInterface,		<cyfunction LuckyBoxWindow.BindInterface at 0x0AD90DF0>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-OnRetry,		<cyfunction LuckyBoxWindow.OnRetry at 0x0BD51030>
+OnRetry,		<cyfunction LuckyBoxWindow.OnRetry at 0x0AD90B88>
 	arg0: self
 
 submodule.OnRetry
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction LuckyBoxWindow.OnUpdate at 0x0BD4EEF8>
+OnUpdate,		<cyfunction LuckyBoxWindow.OnUpdate at 0x0AD90A80>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction LuckyBoxWindow.SetItemToolTip at 0x0BD51240>
+SetItemToolTip,		<cyfunction LuckyBoxWindow.SetItemToolTip at 0x0AD90D98>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-_LuckyBoxWindow__ShowDialog,		<cyfunction LuckyBoxWindow.__ShowDialog at 0x0BD4EFA8>
+_LuckyBoxWindow__ShowDialog,		<cyfunction LuckyBoxWindow.__ShowDialog at 0x0AD90B30>
 	arg0: self
 
 submodule._LuckyBoxWindow__ShowDialog
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-SetTop,		<cyfunction LuckyBoxWindow.SetTop at 0x0BD51348>
+SetTop,		<cyfunction LuckyBoxWindow.SetTop at 0x0AD90EA0>
 	arg0: self
 
 submodule.SetTop
@@ -99,17 +99,17 @@ __qualname__,		LuckyBoxWindow
 submodule.__qualname__
 
 
-OverInItem,		<cyfunction LuckyBoxWindow.OverInItem at 0x0BD51190>
+OverInItem,		<cyfunction LuckyBoxWindow.OverInItem at 0x0AD90CE8>
 	arg0: self
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction LuckyBoxWindow.OverOutItem at 0x0BD511E8>
+OverOutItem,		<cyfunction LuckyBoxWindow.OverOutItem at 0x0AD90D40>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with LuckyBoxWindow instance as first argument (got nothing instead)
-Close,		<cyfunction LuckyBoxWindow.Close at 0x0BD4EE48>
+Close,		<cyfunction LuckyBoxWindow.Close at 0x0AD909D0>
 	arg0: self
 
 submodule.Close
@@ -119,7 +119,7 @@ __doc__,		None
 submodule.__doc__
 
 
-ShowLuckyBoxWindow,		<cyfunction LuckyBoxWindow.ShowLuckyBoxWindow at 0x0BD4EF50>
+ShowLuckyBoxWindow,		<cyfunction LuckyBoxWindow.ShowLuckyBoxWindow at 0x0AD90AD8>
 	arg0: self
 	arg1: dwItemVnum
 	arg2: byItemCount

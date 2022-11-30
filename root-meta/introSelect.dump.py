@@ -38,32 +38,32 @@ __module__,		introSelect
 submodule.__module__
 
 
-AllButtonInfoHide,		<cyfunction SelectCharacterWindow.AllButtonInfoHide at 0x0BB7CEA0>
+AllButtonInfoHide,		<cyfunction SelectCharacterWindow.AllButtonInfoHide at 0x0ABB4558>
 	arg0: self
 
 submodule.AllButtonInfoHide
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SetIllustrationInit,		<cyfunction SelectCharacterWindow.SetIllustrationInit at 0x0BBF2A80>
+SetIllustrationInit,		<cyfunction SelectCharacterWindow.SetIllustrationInit at 0x0ABB5138>
 	arg0: self
 
 submodule.SetIllustrationInit
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SameLoginDisconnect,		<cyfunction SelectCharacterWindow.SameLoginDisconnect at 0x0BBF2A28>
+SameLoginDisconnect,		<cyfunction SelectCharacterWindow.SameLoginDisconnect at 0x0ABB50E0>
 	arg0: self
 
 submodule.SameLoginDisconnect
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-DisableWindow,		<cyfunction SelectCharacterWindow.DisableWindow at 0x0BBF2818>
+DisableWindow,		<cyfunction SelectCharacterWindow.DisableWindow at 0x0ABB4EA0>
 	arg0: self
 
 submodule.DisableWindow
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-ResetPageButton,		<cyfunction SelectCharacterWindow.ResetPageButton at 0x0BB7CE48>
+ResetPageButton,		<cyfunction SelectCharacterWindow.ResetPageButton at 0x0ABB4500>
 	arg0: self
 
 submodule.ResetPageButton
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-_SelectCharacterWindow__ShowToolTipImg,		<cyfunction SelectCharacterWindow.__ShowToolTipImg at 0x0BB7CD98>
+_SelectCharacterWindow__ShowToolTipImg,		<cyfunction SelectCharacterWindow.__ShowToolTipImg at 0x0ABB4450>
 	arg0: self
 	arg1: event_type
 	arg2: text
@@ -72,68 +72,68 @@ submodule._SelectCharacterWindow__ShowToolTipImg
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
 DescriptionBox,		<class 'introSelect.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-MouseEventCharSlot,		<cyfunction SelectCharacterWindow.MouseEventCharSlot at 0x0BBF2088>
+MouseEventCharSlot,		<cyfunction SelectCharacterWindow.MouseEventCharSlot at 0x0ABB4710>
 	arg0: self
 	arg1: type
 	arg2: slot
 
 submodule.MouseEventCharSlot
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SelectCharSlot,		<cyfunction SelectCharacterWindow.SelectCharSlot at 0x0BBF20E0>
+SelectCharSlot,		<cyfunction SelectCharacterWindow.SelectCharSlot at 0x0ABB4768>
 	arg0: self
 	arg1: slot
 
 submodule.SelectCharSlot
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SelectStart,		<cyfunction SelectCharacterWindow.SelectStart at 0x0BBF2138>
+SelectStart,		<cyfunction SelectCharacterWindow.SelectStart at 0x0ABB47C0>
 	arg0: self
 
 submodule.SelectStart
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnDeleteSuccess,		<cyfunction SelectCharacterWindow.OnDeleteSuccess at 0x0BBF23A0>
+OnDeleteSuccess,		<cyfunction SelectCharacterWindow.OnDeleteSuccess at 0x0ABB4A28>
 	arg0: self
 
 submodule.OnDeleteSuccess
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction SelectCharacterWindow.__init__ at 0x0BB7CBE0>
+__init__,		<cyfunction SelectCharacterWindow.__init__ at 0x0ABB4298>
 	arg0: self
 	arg1: stream
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction SelectCharacterWindow.OnUpdate at 0x0BB7CFA8>
+OnUpdate,		<cyfunction SelectCharacterWindow.OnUpdate at 0x0ABB4660>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnKeyDown,		<cyfunction SelectCharacterWindow.OnKeyDown at 0x0BBF2768>
+OnKeyDown,		<cyfunction SelectCharacterWindow.OnKeyDown at 0x0ABB4DF0>
 	arg0: self
 	arg1: key
 
 submodule.OnKeyDown
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-EnableWindow,		<cyfunction SelectCharacterWindow.EnableWindow at 0x0BBF2870>
+EnableWindow,		<cyfunction SelectCharacterWindow.EnableWindow at 0x0ABB4EF8>
 	arg0: self
 
 submodule.EnableWindow
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OverInToolTip,		<cyfunction SelectCharacterWindow.OverInToolTip at 0x0BBF25B0>
+OverInToolTip,		<cyfunction SelectCharacterWindow.OverInToolTip at 0x0ABB4C38>
 	arg0: self
 	arg1: slot
 
 submodule.OverInToolTip
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction SelectCharacterWindow.__del__ at 0x0BB7CC38>
+__del__,		<cyfunction SelectCharacterWindow.__del__ at 0x0ABB42F0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-AcceptInputName,		<cyfunction SelectCharacterWindow.AcceptInputName at 0x0BBF2920>
+AcceptInputName,		<cyfunction SelectCharacterWindow.AcceptInputName at 0x0ABB4FA8>
 	arg0: self
 
 submodule.AcceptInputName
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-ToolTipProgress,		<cyfunction SelectCharacterWindow.ToolTipProgress at 0x0BBF2500>
+ToolTipProgress,		<cyfunction SelectCharacterWindow.ToolTipProgress at 0x0ABB4B88>
 	arg0: self
 
 submodule.ToolTipProgress
@@ -143,81 +143,81 @@ __doc__,		None
 submodule.__doc__
 
 
-OpenChangeNameDialog,		<cyfunction SelectCharacterWindow.OpenChangeNameDialog at 0x0BBF28C8>
+OpenChangeNameDialog,		<cyfunction SelectCharacterWindow.OpenChangeNameDialog at 0x0ABB4F50>
 	arg0: self
 
 submodule.OpenChangeNameDialog
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SelectExit,		<cyfunction SelectCharacterWindow.SelectExit at 0x0BBF2190>
+SelectExit,		<cyfunction SelectCharacterWindow.SelectExit at 0x0ABB4818>
 	arg0: self
 
 submodule.SelectExit
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SelectCreate,		<cyfunction SelectCharacterWindow.SelectCreate at 0x0BBF21E8>
+SelectCreate,		<cyfunction SelectCharacterWindow.SelectCreate at 0x0ABB4870>
 	arg0: self
 
 submodule.SelectCreate
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnChangeName,		<cyfunction SelectCharacterWindow.OnChangeName at 0x0BBF29D0>
+OnChangeName,		<cyfunction SelectCharacterWindow.OnChangeName at 0x0ABB5088>
 	arg0: self
 	arg1: slot
 	arg2: name
 
 submodule.OnChangeName
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OverInToolTipETC,		<cyfunction SelectCharacterWindow.OverInToolTipETC at 0x0BBF2558>
+OverInToolTipETC,		<cyfunction SelectCharacterWindow.OverInToolTipETC at 0x0ABB4BE0>
 	arg0: self
 	arg1: arg
 
 submodule.OverInToolTipETC
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-Refresh,		<cyfunction SelectCharacterWindow.Refresh at 0x0BB7CD40>
+Refresh,		<cyfunction SelectCharacterWindow.Refresh at 0x0ABB43F8>
 	arg0: self
 	arg1: slot
 	default: -1
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-CancelInputName,		<cyfunction SelectCharacterWindow.CancelInputName at 0x0BBF2978>
+CancelInputName,		<cyfunction SelectCharacterWindow.CancelInputName at 0x0ABB5030>
 	arg0: self
 
 submodule.CancelInputName
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-CancelInputPrivateCode,		<cyfunction SelectCharacterWindow.CancelInputPrivateCode at 0x0BBF2348>
+CancelInputPrivateCode,		<cyfunction SelectCharacterWindow.CancelInputPrivateCode at 0x0ABB49D0>
 	arg0: self
 
 submodule.CancelInputPrivateCode
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnDeleteFailure,		<cyfunction SelectCharacterWindow.OnDeleteFailure at 0x0BBF23F8>
+OnDeleteFailure,		<cyfunction SelectCharacterWindow.OnDeleteFailure at 0x0ABB4A80>
 	arg0: self
 	arg1: type
 	arg2: time
 
 submodule.OnDeleteFailure
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-AcceptInputPrivateCode,		<cyfunction SelectCharacterWindow.AcceptInputPrivateCode at 0x0BBF22F0>
+AcceptInputPrivateCode,		<cyfunction SelectCharacterWindow.AcceptInputPrivateCode at 0x0ABB4978>
 	arg0: self
 
 submodule.AcceptInputPrivateCode
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SelectDelete,		<cyfunction SelectCharacterWindow.SelectDelete at 0x0BBF2298>
+SelectDelete,		<cyfunction SelectCharacterWindow.SelectDelete at 0x0ABB4920>
 	arg0: self
 
 submodule.SelectDelete
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction SelectCharacterWindow.OnPressEscapeKey at 0x0BBF26B8>
+OnPressEscapeKey,		<cyfunction SelectCharacterWindow.OnPressEscapeKey at 0x0ABB4D40>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OverOutToolTip,		<cyfunction SelectCharacterWindow.OverOutToolTip at 0x0BBF2608>
+OverOutToolTip,		<cyfunction SelectCharacterWindow.OverOutToolTip at 0x0ABB4C90>
 	arg0: self
 
 submodule.OverOutToolTip
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
 CharacterRenderer,		<class 'introSelect.CharacterRenderer'>
 Skip: type object 'CharacterRenderer' has no attribute 'func_code'
-PopupMessage,		<cyfunction SelectCharacterWindow.PopupMessage at 0x0BBF2030>
+PopupMessage,		<cyfunction SelectCharacterWindow.PopupMessage at 0x0ABB46B8>
 	arg0: self
 	arg1: msg
 	arg2: func
@@ -225,30 +225,30 @@ PopupMessage,		<cyfunction SelectCharacterWindow.PopupMessage at 0x0BBF2030>
 
 submodule.PopupMessage
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnCreateFailure,		<cyfunction SelectCharacterWindow.OnCreateFailure at 0x0BBF2240>
+OnCreateFailure,		<cyfunction SelectCharacterWindow.OnCreateFailure at 0x0ABB48C8>
 	arg0: self
 	arg1: type
 
 submodule.OnCreateFailure
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-KeyInputUpDown,		<cyfunction SelectCharacterWindow.KeyInputUpDown at 0x0BBF27C0>
+KeyInputUpDown,		<cyfunction SelectCharacterWindow.KeyInputUpDown at 0x0ABB4E48>
 	arg0: self
 	arg1: key
 
 submodule.KeyInputUpDown
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction SelectCharacterWindow.OnPressExitKey at 0x0BBF2710>
+OnPressExitKey,		<cyfunction SelectCharacterWindow.OnPressExitKey at 0x0ABB4D98>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SelectCharPage,		<cyfunction SelectCharacterWindow.SelectCharPage at 0x0BBF24A8>
+SelectCharPage,		<cyfunction SelectCharacterWindow.SelectCharPage at 0x0ABB4B30>
 	arg0: self
 	arg1: type
 
 submodule.SelectCharPage
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-InitDataSet,		<cyfunction SelectCharacterWindow.InitDataSet at 0x0BB7CF50>
+InitDataSet,		<cyfunction SelectCharacterWindow.InitDataSet at 0x0ABB4608>
 	arg0: self
 	arg1: slot
 	arg2: name
@@ -262,35 +262,35 @@ __qualname__,		SelectCharacterWindow
 submodule.__qualname__
 
 
-SelectDescPage,		<cyfunction SelectCharacterWindow.SelectDescPage at 0x0BBF2450>
+SelectDescPage,		<cyfunction SelectCharacterWindow.SelectDescPage at 0x0ABB4AD8>
 	arg0: self
 	arg1: page
 
 submodule.SelectDescPage
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-Close,		<cyfunction SelectCharacterWindow.Close at 0x0BB7CCE8>
+Close,		<cyfunction SelectCharacterWindow.Close at 0x0ABB43A0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction SelectCharacterWindow.OnIMEReturn at 0x0BBF2660>
+OnIMEReturn,		<cyfunction SelectCharacterWindow.OnIMEReturn at 0x0ABB4CE8>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-Open,		<cyfunction SelectCharacterWindow.Open at 0x0BB7CC90>
+Open,		<cyfunction SelectCharacterWindow.Open at 0x0ABB4348>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-ResetStat,		<cyfunction SelectCharacterWindow.ResetStat at 0x0BB7CDF0>
+ResetStat,		<cyfunction SelectCharacterWindow.ResetStat at 0x0ABB44A8>
 	arg0: self
 	arg1: type
 	default: 0
 
 submodule.ResetStat
 Skipped: unbound method cython_function_or_method object must be called with SelectCharacterWindow instance as first argument (got nothing instead)
-SetEmpire,		<cyfunction SelectCharacterWindow.SetEmpire at 0x0BB7CEF8>
+SetEmpire,		<cyfunction SelectCharacterWindow.SetEmpire at 0x0ABB45B0>
 	arg0: self
 	arg1: empire
 

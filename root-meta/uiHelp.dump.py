@@ -17,65 +17,65 @@ __module__,		uiHelp
 submodule.__module__
 
 
-__del__,		<cyfunction HelpWindow.__del__ at 0x0BCC10E0>
+__del__,		<cyfunction HelpWindow.__del__ at 0x0ACEE558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-SetCloseEvent,		<cyfunction HelpWindow.SetCloseEvent at 0x0BCC1348>
+SetCloseEvent,		<cyfunction HelpWindow.SetCloseEvent at 0x0ACEE7C0>
 	arg0: self
 	arg1: event
 
 submodule.SetCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-IsShow,		<cyfunction HelpWindow.IsShow at 0x0BCC13A0>
+IsShow,		<cyfunction HelpWindow.IsShow at 0x0ACEE818>
 	arg0: self
 
 submodule.IsShow
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction HelpWindow.LoadDialog at 0x0BCC1138>
+LoadDialog,		<cyfunction HelpWindow.LoadDialog at 0x0ACEE5B0>
 	arg0: self
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-OnKeyDown,		<cyfunction HelpWindow.OnKeyDown at 0x0BCC14A8>
+OnKeyDown,		<cyfunction HelpWindow.OnKeyDown at 0x0ACEE920>
 	arg0: self
 	arg1: key
 
 submodule.OnKeyDown
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction HelpWindow.OnPressEscapeKey at 0x0BCC1558>
+OnPressEscapeKey,		<cyfunction HelpWindow.OnPressEscapeKey at 0x0ACEE9D0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction HelpWindow.Destroy at 0x0BCC12F0>
+Destroy,		<cyfunction HelpWindow.Destroy at 0x0ACEE768>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction HelpWindow.__init__ at 0x0BCC1088>
+__init__,		<cyfunction HelpWindow.__init__ at 0x0ACEE500>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction HelpWindow.OnPressExitKey at 0x0BCC15B0>
+OnPressExitKey,		<cyfunction HelpWindow.OnPressExitKey at 0x0ACEEA28>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-LoadDialogSinglePage,		<cyfunction HelpWindow.LoadDialogSinglePage at 0x0BCC1190>
+LoadDialogSinglePage,		<cyfunction HelpWindow.LoadDialogSinglePage at 0x0ACEE608>
 	arg0: self
 
 submodule.LoadDialogSinglePage
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-_HelpWindow__SelectPage,		<cyfunction HelpWindow.__SelectPage at 0x0BCC1608>
+_HelpWindow__SelectPage,		<cyfunction HelpWindow.__SelectPage at 0x0ACEEA80>
 	arg0: self
 	arg1: pageIndex
 
 submodule._HelpWindow__SelectPage
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-LoadDialogMultiPage,		<cyfunction HelpWindow.LoadDialogMultiPage at 0x0BCC11E8>
+LoadDialogMultiPage,		<cyfunction HelpWindow.LoadDialogMultiPage at 0x0ACEE660>
 	arg0: self
 
 submodule.LoadDialogMultiPage
@@ -85,27 +85,27 @@ __qualname__,		HelpWindow
 submodule.__qualname__
 
 
-_HelpWindow__OnClickPage1,		<cyfunction HelpWindow.__OnClickPage1 at 0x0BCC1240>
+_HelpWindow__OnClickPage1,		<cyfunction HelpWindow.__OnClickPage1 at 0x0ACEE6B8>
 	arg0: self
 
 submodule._HelpWindow__OnClickPage1
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-_HelpWindow__OnClickPage2,		<cyfunction HelpWindow.__OnClickPage2 at 0x0BCC1298>
+_HelpWindow__OnClickPage2,		<cyfunction HelpWindow.__OnClickPage2 at 0x0ACEE710>
 	arg0: self
 
 submodule._HelpWindow__OnClickPage2
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-Close,		<cyfunction HelpWindow.Close at 0x0BCC1450>
+Close,		<cyfunction HelpWindow.Close at 0x0ACEE8C8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction HelpWindow.OnIMEReturn at 0x0BCC1500>
+OnIMEReturn,		<cyfunction HelpWindow.OnIMEReturn at 0x0ACEE978>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with HelpWindow instance as first argument (got nothing instead)
-Open,		<cyfunction HelpWindow.Open at 0x0BCC13F8>
+Open,		<cyfunction HelpWindow.Open at 0x0ACEE870>
 	arg0: self
 
 submodule.Open

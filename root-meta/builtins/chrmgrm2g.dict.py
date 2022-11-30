@@ -115,6 +115,7 @@
          {'name': 'EFFECT_FLOWER_EVENT', 'type': 'int', 'value': 313},
          {'name': 'EFFECT_FR_SUCCESS', 'type': 'int', 'value': 276},
          {'name': 'EFFECT_GEM_PENDANT', 'type': 'int', 'value': 314},
+         {'name': 'EFFECT_GROUND_SNAKE', 'type': 'int', 'value': 363},
          {'name': 'EFFECT_GROUND_THORN', 'type': 'int', 'value': 362},
          {'name': 'EFFECT_HALLOWEEN_CANDY_EQUIP', 'type': 'int', 'value': 285},
          {'name': 'EFFECT_HAPPINESS_RING_EQUIP', 'type': 'int', 'value': 286},

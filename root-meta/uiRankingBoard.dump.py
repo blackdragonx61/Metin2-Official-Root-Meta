@@ -20,21 +20,21 @@ __module__,		uiRankingBoard
 submodule.__module__
 
 
-Open,		<cyfunction RankingBoardWindow.Open at 0x0BD2B9D0>
+Open,		<cyfunction RankingBoardWindow.Open at 0x0AD63710>
 	arg0: self
 	arg1: type
 	arg2: category
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-_RankingBoardWindow__CreateGameTypeToolTip,		<cyfunction RankingBoardWindow.__CreateGameTypeToolTip at 0x0BD2BD40>
+_RankingBoardWindow__CreateGameTypeToolTip,		<cyfunction RankingBoardWindow.__CreateGameTypeToolTip at 0x0AD63A80>
 	arg0: self
 	arg1: title
 	arg2: descList
 
 submodule._RankingBoardWindow__CreateGameTypeToolTip
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-_RankingBoardWindow__SetUIColumnName,		<cyfunction RankingBoardWindow.__SetUIColumnName at 0x0BD2BBE0>
+_RankingBoardWindow__SetUIColumnName,		<cyfunction RankingBoardWindow.__SetUIColumnName at 0x0AD63920>
 	arg0: self
 
 submodule._RankingBoardWindow__SetUIColumnName
@@ -44,30 +44,30 @@ SOLO_RANK_BOARD_NAME,		{0: ('', '', ''), 1: ('', '', ''), 2: ('', '', ''), 3: ('
 submodule.SOLO_RANK_BOARD_NAME
 
 
-MyEventProgress,		<cyfunction RankingBoardWindow.MyEventProgress at 0x0BD2BE48>
+MyEventProgress,		<cyfunction RankingBoardWindow.MyEventProgress at 0x0AD63B88>
 	arg0: self
 	arg1: event_type
 
 submodule.MyEventProgress
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-_RankingBoardWindow__MakeResultSlotCoverUI,		<cyfunction RankingBoardWindow.__MakeResultSlotCoverUI at 0x0BD2BC90>
+_RankingBoardWindow__MakeResultSlotCoverUI,		<cyfunction RankingBoardWindow.__MakeResultSlotCoverUI at 0x0AD639D0>
 	arg0: self
 	arg1: yPos
 
 submodule._RankingBoardWindow__MakeResultSlotCoverUI
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction RankingBoardWindow.OnPressEscapeKey at 0x0BD2BAD8>
+OnPressEscapeKey,		<cyfunction RankingBoardWindow.OnPressEscapeKey at 0x0AD63818>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-_RankingBoardWindow__MakeResultSlotUI,		<cyfunction RankingBoardWindow.__MakeResultSlotUI at 0x0BD2BC38>
+_RankingBoardWindow__MakeResultSlotUI,		<cyfunction RankingBoardWindow.__MakeResultSlotUI at 0x0AD63978>
 	arg0: self
 	arg1: yPos
 
 submodule._RankingBoardWindow__MakeResultSlotUI
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction RankingBoardWindow.Destroy at 0x0BD2BB88>
+Destroy,		<cyfunction RankingBoardWindow.Destroy at 0x0AD638C8>
 	arg0: self
 
 submodule.Destroy
@@ -77,22 +77,22 @@ M2JOBLIST,		{0: 'Harcos', 1: 'Nindzsa', 2: 'Sura', 3: 'S\xe1m\xe1n', 4: 'V\xe9rf
 submodule.M2JOBLIST
 
 
-__init__,		<cyfunction RankingBoardWindow.__init__ at 0x0BD2B8C8>
+__init__,		<cyfunction RankingBoardWindow.__init__ at 0x0AD63608>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction RankingBoardWindow.OnUpdate at 0x0BD2BB30>
+OnUpdate,		<cyfunction RankingBoardWindow.OnUpdate at 0x0AD63870>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-Show,		<cyfunction RankingBoardWindow.Show at 0x0BD2BA28>
+Show,		<cyfunction RankingBoardWindow.Show at 0x0AD63768>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-_RankingBoardWindow__MakeRankingUI,		<cyfunction RankingBoardWindow.__MakeRankingUI at 0x0BD2BCE8>
+_RankingBoardWindow__MakeRankingUI,		<cyfunction RankingBoardWindow.__MakeRankingUI at 0x0AD63A28>
 	arg0: self
 
 submodule._RankingBoardWindow__MakeRankingUI
@@ -102,7 +102,7 @@ PARTY_RANK_BOARD_NAME,		{0: ('\xd6sszes\xedtett rangsor', 'Id\xf5', 'Tagok'), 1:
 submodule.PARTY_RANK_BOARD_NAME
 
 
-Close,		<cyfunction RankingBoardWindow.Close at 0x0BD2BA80>
+Close,		<cyfunction RankingBoardWindow.Close at 0x0AD637C0>
 	arg0: self
 
 submodule.Close
@@ -112,12 +112,12 @@ __qualname__,		RankingBoardWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction RankingBoardWindow.__del__ at 0x0BD2B920>
+__del__,		<cyfunction RankingBoardWindow.__del__ at 0x0AD63660>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RankingBoardWindow instance as first argument (got nothing instead)
-EventProgress,		<cyfunction RankingBoardWindow.EventProgress at 0x0BD2BDF0>
+EventProgress,		<cyfunction RankingBoardWindow.EventProgress at 0x0AD63B30>
 	arg0: self
 	arg1: event_type
 	arg2: slot
@@ -139,7 +139,7 @@ RANK_1,		0
 submodule.RANK_1
 
 
-_RankingBoardWindow__LoadWindow,		<cyfunction RankingBoardWindow.__LoadWindow at 0x0BD2B978>
+_RankingBoardWindow__LoadWindow,		<cyfunction RankingBoardWindow.__LoadWindow at 0x0AD636B8>
 	arg0: self
 
 submodule._RankingBoardWindow__LoadWindow
@@ -149,7 +149,7 @@ __doc__,		None
 submodule.__doc__
 
 
-RefreshRankingList,		<cyfunction RankingBoardWindow.RefreshRankingList at 0x0BD2BD98>
+RefreshRankingList,		<cyfunction RankingBoardWindow.RefreshRankingList at 0x0AD63AD8>
 	arg0: self
 
 submodule.RefreshRankingList

@@ -201,6 +201,7 @@
          {'name': 'APPLY_MAX_STAMINA', 'type': 'int', 'value': 58},
          {'name': 'APPLY_MELEE_MAGIC_ATTBONUS_PER', 'type': 'int', 'value': 86},
          {'name': 'APPLY_MOB_HIT_MOB_AGGRESSIVE', 'type': 'int', 'value': 282},
+         {'name': 'APPLY_MONSTER_DEFEND_BONUS', 'type': 'int', 'value': 292},
          {'name': 'APPLY_MORE_THEN_HP90_DAMAGE_REDUCE', 'type': 'int', 'value': 219},
          {'name': 'APPLY_MOUNT', 'type': 'int', 'value': 118},
          {'name': 'APPLY_MOUNT_MELEE_MAGIC_ATTBONUS_PER', 'type': 'int', 'value': 274},

@@ -20,43 +20,43 @@ __module__,		uiUploadMark
 submodule.__module__
 
 
-__del__,		<cyfunction SymbolSelectDialog.__del__ at 0x0BC60B88>
+__del__,		<cyfunction SymbolSelectDialog.__del__ at 0x0AC86BE0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__OnRefresh,		<cyfunction SymbolSelectDialog.__OnRefresh at 0x0BC60F50>
+_SymbolSelectDialog__OnRefresh,		<cyfunction SymbolSelectDialog.__OnRefresh at 0x0AC86FA8>
 	arg0: self
 
 submodule._SymbolSelectDialog__OnRefresh
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__AppendFileList,		<cyfunction SymbolSelectDialog.__AppendFileList at 0x0BC62088>
+_SymbolSelectDialog__AppendFileList,		<cyfunction SymbolSelectDialog.__AppendFileList at 0x0AC880E0>
 	arg0: self
 	arg1: filter
 
 submodule._SymbolSelectDialog__AppendFileList
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__OnOK,		<cyfunction SymbolSelectDialog.__OnOK at 0x0BC60EA0>
+_SymbolSelectDialog__OnOK,		<cyfunction SymbolSelectDialog.__OnOK at 0x0AC86EF8>
 	arg0: self
 
 submodule._SymbolSelectDialog__OnOK
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction SymbolSelectDialog.OnPressEscapeKey at 0x0BC60CE8>
+OnPressEscapeKey,		<cyfunction SymbolSelectDialog.OnPressEscapeKey at 0x0AC86D40>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__RefreshFileList,		<cyfunction SymbolSelectDialog.__RefreshFileList at 0x0BC60FA8>
+_SymbolSelectDialog__RefreshFileList,		<cyfunction SymbolSelectDialog.__RefreshFileList at 0x0AC88030>
 	arg0: self
 
 submodule._SymbolSelectDialog__RefreshFileList
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction SymbolSelectDialog.__init__ at 0x0BC60B30>
+__init__,		<cyfunction SymbolSelectDialog.__init__ at 0x0AC86B88>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__ClearFileList,		<cyfunction SymbolSelectDialog.__ClearFileList at 0x0BC62030>
+_SymbolSelectDialog__ClearFileList,		<cyfunction SymbolSelectDialog.__ClearFileList at 0x0AC88088>
 	arg0: self
 
 submodule._SymbolSelectDialog__ClearFileList
@@ -66,50 +66,50 @@ __qualname__,		SymbolSelectDialog
 submodule.__qualname__
 
 
-Show,		<cyfunction SymbolSelectDialog.Show at 0x0BC60BE0>
+Show,		<cyfunction SymbolSelectDialog.Show at 0x0AC86C38>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__CreateSymbolListBox,		<cyfunction SymbolSelectDialog.__CreateSymbolListBox at 0x0BC60D98>
+_SymbolSelectDialog__CreateSymbolListBox,		<cyfunction SymbolSelectDialog.__CreateSymbolListBox at 0x0AC86DF0>
 	arg0: self
 
 submodule._SymbolSelectDialog__CreateSymbolListBox
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__PopupMessage,		<cyfunction SymbolSelectDialog.__PopupMessage at 0x0BC60E48>
+_SymbolSelectDialog__PopupMessage,		<cyfunction SymbolSelectDialog.__PopupMessage at 0x0AC86EA0>
 	arg0: self
 	arg1: msg
 
 submodule._SymbolSelectDialog__PopupMessage
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__AppendFile,		<cyfunction SymbolSelectDialog.__AppendFile at 0x0BC620E0>
+_SymbolSelectDialog__AppendFile,		<cyfunction SymbolSelectDialog.__AppendFile at 0x0AC88138>
 	arg0: self
 	arg1: fileName
 
 submodule._SymbolSelectDialog__AppendFile
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-SAFE_SetSelectEvent,		<cyfunction SymbolSelectDialog.SAFE_SetSelectEvent at 0x0BC60D40>
+SAFE_SetSelectEvent,		<cyfunction SymbolSelectDialog.SAFE_SetSelectEvent at 0x0AC86D98>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetSelectEvent
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__Load,		<cyfunction SymbolSelectDialog.__Load at 0x0BC60DF0>
+_SymbolSelectDialog__Load,		<cyfunction SymbolSelectDialog.__Load at 0x0AC86E48>
 	arg0: self
 
 submodule._SymbolSelectDialog__Load
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-Close,		<cyfunction SymbolSelectDialog.Close at 0x0BC60C90>
+Close,		<cyfunction SymbolSelectDialog.Close at 0x0AC86CE8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-_SymbolSelectDialog__OnCancel,		<cyfunction SymbolSelectDialog.__OnCancel at 0x0BC60EF8>
+_SymbolSelectDialog__OnCancel,		<cyfunction SymbolSelectDialog.__OnCancel at 0x0AC86F50>
 	arg0: self
 
 submodule._SymbolSelectDialog__OnCancel
 Skipped: unbound method cython_function_or_method object must be called with SymbolSelectDialog instance as first argument (got nothing instead)
-Open,		<cyfunction SymbolSelectDialog.Open at 0x0BC60C38>
+Open,		<cyfunction SymbolSelectDialog.Open at 0x0AC86C90>
 	arg0: self
 
 submodule.Open
@@ -127,18 +127,18 @@ __module__,		uiUploadMark
 submodule.__module__
 
 
-__del__,		<cyfunction MarkItem.__del__ at 0x0BBD4FA8>
+__del__,		<cyfunction MarkItem.__del__ at 0x0AC86030>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MarkItem instance as first argument (got nothing instead)
-_MarkItem__CreateImageBox,		<cyfunction MarkItem.__CreateImageBox at 0x0BC60138>
+_MarkItem__CreateImageBox,		<cyfunction MarkItem.__CreateImageBox at 0x0AC86190>
 	arg0: self
 	arg1: fileName
 
 submodule._MarkItem__CreateImageBox
 Skipped: unbound method cython_function_or_method object must be called with MarkItem instance as first argument (got nothing instead)
-GetText,		<cyfunction MarkItem.GetText at 0x0BC60030>
+GetText,		<cyfunction MarkItem.GetText at 0x0AC86088>
 	arg0: self
 
 submodule.GetText
@@ -153,20 +153,20 @@ __qualname__,		MarkItem
 submodule.__qualname__
 
 
-SetSize,		<cyfunction MarkItem.SetSize at 0x0BC60088>
+SetSize,		<cyfunction MarkItem.SetSize at 0x0AC860E0>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with MarkItem instance as first argument (got nothing instead)
-_MarkItem__CreateTextLine,		<cyfunction MarkItem.__CreateTextLine at 0x0BC600E0>
+_MarkItem__CreateTextLine,		<cyfunction MarkItem.__CreateTextLine at 0x0AC86138>
 	arg0: self
 	arg1: fileName
 
 submodule._MarkItem__CreateTextLine
 Skipped: unbound method cython_function_or_method object must be called with MarkItem instance as first argument (got nothing instead)
-__init__,		<cyfunction MarkItem.__init__ at 0x0BBD4F50>
+__init__,		<cyfunction MarkItem.__init__ at 0x0AC00FA8>
 	arg0: self
 	arg1: fileName
 
@@ -175,12 +175,12 @@ Skipped: unbound method cython_function_or_method object must be called with Mar
 
 
 class PopupDialog:
-_PopupDialog__Bind,		<cyfunction PopupDialog.__Bind at 0x0BC60450>
+_PopupDialog__Bind,		<cyfunction PopupDialog.__Bind at 0x0AC864A8>
 	arg0: self
 
 submodule._PopupDialog__Bind
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction PopupDialog.__del__ at 0x0BC603A0>
+__del__,		<cyfunction PopupDialog.__del__ at 0x0AC863F8>
 	arg0: self
 
 submodule.__del__
@@ -195,17 +195,17 @@ __qualname__,		PopupDialog
 submodule.__qualname__
 
 
-_PopupDialog__OnOK,		<cyfunction PopupDialog.__OnOK at 0x0BC60500>
+_PopupDialog__OnOK,		<cyfunction PopupDialog.__OnOK at 0x0AC86558>
 	arg0: self
 
 submodule._PopupDialog__OnOK
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-_PopupDialog__Load,		<cyfunction PopupDialog.__Load at 0x0BC603F8>
+_PopupDialog__Load,		<cyfunction PopupDialog.__Load at 0x0AC86450>
 	arg0: self
 
 submodule._PopupDialog__Load
 Skipped: unbound method cython_function_or_method object must be called with PopupDialog instance as first argument (got nothing instead)
-Open,		<cyfunction PopupDialog.Open at 0x0BC604A8>
+Open,		<cyfunction PopupDialog.Open at 0x0AC86500>
 	arg0: self
 	arg1: msg
 
@@ -216,7 +216,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction PopupDialog.__init__ at 0x0BC60348>
+__init__,		<cyfunction PopupDialog.__init__ at 0x0AC863A0>
 	arg0: self
 	arg1: parent
 
@@ -230,7 +230,7 @@ __qualname__,		SymbolItem
 submodule.__qualname__
 
 
-_SymbolItem__CreateTextLine,		<cyfunction SymbolItem.__CreateTextLine at 0x0BC602F0>
+_SymbolItem__CreateTextLine,		<cyfunction SymbolItem.__CreateTextLine at 0x0AC86348>
 	arg0: self
 	arg1: fileName
 
@@ -241,18 +241,18 @@ __module__,		uiUploadMark
 submodule.__module__
 
 
-__init__,		<cyfunction SymbolItem.__init__ at 0x0BC60190>
+__init__,		<cyfunction SymbolItem.__init__ at 0x0AC861E8>
 	arg0: self
 	arg1: fileName
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SymbolItem instance as first argument (got nothing instead)
-__del__,		<cyfunction SymbolItem.__del__ at 0x0BC601E8>
+__del__,		<cyfunction SymbolItem.__del__ at 0x0AC86240>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SymbolItem instance as first argument (got nothing instead)
-SetSize,		<cyfunction SymbolItem.SetSize at 0x0BC60298>
+SetSize,		<cyfunction SymbolItem.SetSize at 0x0AC862F0>
 	arg0: self
 	arg1: width
 	arg2: height
@@ -264,7 +264,7 @@ __doc__,		None
 submodule.__doc__
 
 
-GetText,		<cyfunction SymbolItem.GetText at 0x0BC60240>
+GetText,		<cyfunction SymbolItem.GetText at 0x0AC86298>
 	arg0: self
 
 submodule.GetText
@@ -272,28 +272,28 @@ Skipped: unbound method cython_function_or_method object must be called with Sym
 
 
 class MarkSelectDialog:
-_MarkSelectDialog__PopupMessage,		<cyfunction MarkSelectDialog.__PopupMessage at 0x0BC60870>
+_MarkSelectDialog__PopupMessage,		<cyfunction MarkSelectDialog.__PopupMessage at 0x0AC868C8>
 	arg0: self
 	arg1: msg
 
 submodule._MarkSelectDialog__PopupMessage
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-_MarkSelectDialog__Load,		<cyfunction MarkSelectDialog.__Load at 0x0BC60818>
+_MarkSelectDialog__Load,		<cyfunction MarkSelectDialog.__Load at 0x0AC86870>
 	arg0: self
 
 submodule._MarkSelectDialog__Load
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction MarkSelectDialog.__del__ at 0x0BC605B0>
+__del__,		<cyfunction MarkSelectDialog.__del__ at 0x0AC86608>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-_MarkSelectDialog__OnRefresh,		<cyfunction MarkSelectDialog.__OnRefresh at 0x0BC60978>
+_MarkSelectDialog__OnRefresh,		<cyfunction MarkSelectDialog.__OnRefresh at 0x0AC869D0>
 	arg0: self
 
 submodule._MarkSelectDialog__OnRefresh
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-_MarkSelectDialog__OnOK,		<cyfunction MarkSelectDialog.__OnOK at 0x0BC608C8>
+_MarkSelectDialog__OnOK,		<cyfunction MarkSelectDialog.__OnOK at 0x0AC86920>
 	arg0: self
 
 submodule._MarkSelectDialog__OnOK
@@ -303,32 +303,32 @@ __module__,		uiUploadMark
 submodule.__module__
 
 
-_MarkSelectDialog__OnCancel,		<cyfunction MarkSelectDialog.__OnCancel at 0x0BC60920>
+_MarkSelectDialog__OnCancel,		<cyfunction MarkSelectDialog.__OnCancel at 0x0AC86978>
 	arg0: self
 
 submodule._MarkSelectDialog__OnCancel
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-_MarkSelectDialog__RefreshFileList,		<cyfunction MarkSelectDialog.__RefreshFileList at 0x0BC609D0>
+_MarkSelectDialog__RefreshFileList,		<cyfunction MarkSelectDialog.__RefreshFileList at 0x0AC86A28>
 	arg0: self
 
 submodule._MarkSelectDialog__RefreshFileList
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MarkSelectDialog.OnPressEscapeKey at 0x0BC60710>
+OnPressEscapeKey,		<cyfunction MarkSelectDialog.OnPressEscapeKey at 0x0AC86768>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-_MarkSelectDialog__ClearFileList,		<cyfunction MarkSelectDialog.__ClearFileList at 0x0BC60A28>
+_MarkSelectDialog__ClearFileList,		<cyfunction MarkSelectDialog.__ClearFileList at 0x0AC86A80>
 	arg0: self
 
 submodule._MarkSelectDialog__ClearFileList
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction MarkSelectDialog.__init__ at 0x0BC60558>
+__init__,		<cyfunction MarkSelectDialog.__init__ at 0x0AC865B0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-Show,		<cyfunction MarkSelectDialog.Show at 0x0BC60608>
+Show,		<cyfunction MarkSelectDialog.Show at 0x0AC86660>
 	arg0: self
 
 submodule.Show
@@ -338,24 +338,24 @@ __qualname__,		MarkSelectDialog
 submodule.__qualname__
 
 
-_MarkSelectDialog__AppendFile,		<cyfunction MarkSelectDialog.__AppendFile at 0x0BC60AD8>
+_MarkSelectDialog__AppendFile,		<cyfunction MarkSelectDialog.__AppendFile at 0x0AC86B30>
 	arg0: self
 	arg1: fileName
 
 submodule._MarkSelectDialog__AppendFile
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-SAFE_SetSelectEvent,		<cyfunction MarkSelectDialog.SAFE_SetSelectEvent at 0x0BC60768>
+SAFE_SetSelectEvent,		<cyfunction MarkSelectDialog.SAFE_SetSelectEvent at 0x0AC867C0>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetSelectEvent
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-Close,		<cyfunction MarkSelectDialog.Close at 0x0BC606B8>
+Close,		<cyfunction MarkSelectDialog.Close at 0x0AC86710>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-Open,		<cyfunction MarkSelectDialog.Open at 0x0BC60660>
+Open,		<cyfunction MarkSelectDialog.Open at 0x0AC866B8>
 	arg0: self
 
 submodule.Open
@@ -365,12 +365,12 @@ __doc__,		None
 submodule.__doc__
 
 
-_MarkSelectDialog__CreateMarkListBox,		<cyfunction MarkSelectDialog.__CreateMarkListBox at 0x0BC607C0>
+_MarkSelectDialog__CreateMarkListBox,		<cyfunction MarkSelectDialog.__CreateMarkListBox at 0x0AC86818>
 	arg0: self
 
 submodule._MarkSelectDialog__CreateMarkListBox
 Skipped: unbound method cython_function_or_method object must be called with MarkSelectDialog instance as first argument (got nothing instead)
-_MarkSelectDialog__AppendFileList,		<cyfunction MarkSelectDialog.__AppendFileList at 0x0BC60A80>
+_MarkSelectDialog__AppendFileList,		<cyfunction MarkSelectDialog.__AppendFileList at 0x0AC86AD8>
 	arg0: self
 	arg1: filter
 
