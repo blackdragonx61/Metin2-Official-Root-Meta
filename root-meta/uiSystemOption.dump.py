@@ -26,172 +26,172 @@ key: musicInfo, val: <module 'musicInfo' (built-in)>
 
 
 class OptionDialog:
-_OptionDialog__LoadLocaSettingFile,		<cyfunction OptionDialog.__LoadLocaSettingFile at 0x0994BB88>
+_OptionDialog__LoadLocaSettingFile,		<cyfunction OptionDialog.__LoadLocaSettingFile at 0x099EBBE0>
 	arg0: self
 
 submodule._OptionDialog__LoadLocaSettingFile
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__GetStringCurLanguage,		<cyfunction OptionDialog.__GetStringCurLanguage at 0x0994BEA0>
+_OptionDialog__GetStringCurLanguage,		<cyfunction OptionDialog.__GetStringCurLanguage at 0x099EBEF8>
 	arg0: self
 
 submodule._OptionDialog__GetStringCurLanguage
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__InitSnowModeOption,		<cyfunction OptionDialog.__InitSnowModeOption at 0x0994B0E0>
+_OptionDialog__InitSnowModeOption,		<cyfunction OptionDialog.__InitSnowModeOption at 0x099EB138>
 	arg0: self
 
 submodule._OptionDialog__InitSnowModeOption
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__CreateLanguageSelectWindow,		<cyfunction OptionDialog.__CreateLanguageSelectWindow at 0x0994BC38>
+_OptionDialog__CreateLanguageSelectWindow,		<cyfunction OptionDialog.__CreateLanguageSelectWindow at 0x099EBC90>
 	arg0: self
 
 submodule._OptionDialog__CreateLanguageSelectWindow
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-OnCloseInputDialog,		<cyfunction OptionDialog.OnCloseInputDialog at 0x0994B7C0>
+OnCloseInputDialog,		<cyfunction OptionDialog.OnCloseInputDialog at 0x099EB818>
 	arg0: self
 
 submodule.OnCloseInputDialog
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickSnowTextureModeOnButton,		<cyfunction OptionDialog.__OnClickSnowTextureModeOnButton at 0x0994B348>
+_OptionDialog__OnClickSnowTextureModeOnButton,		<cyfunction OptionDialog.__OnClickSnowTextureModeOnButton at 0x099EB3A0>
 	arg0: self
 
 submodule._OptionDialog__OnClickSnowTextureModeOnButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickLanguageButtonOverOut,		<cyfunction OptionDialog.__OnClickLanguageButtonOverOut at 0x0994BD98>
+_OptionDialog__OnClickLanguageButtonOverOut,		<cyfunction OptionDialog.__OnClickLanguageButtonOverOut at 0x099EBDF0>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__OnClickLanguageButtonOverOut
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__DayMode_OnCompleteChangeToDark,		<cyfunction OptionDialog.__DayMode_OnCompleteChangeToDark at 0x0994B500>
+_OptionDialog__DayMode_OnCompleteChangeToDark,		<cyfunction OptionDialog.__DayMode_OnCompleteChangeToDark at 0x099EB558>
 	arg0: self
 
 submodule._OptionDialog__DayMode_OnCompleteChangeToDark
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickNightModeOnButton,		<cyfunction OptionDialog.__OnClickNightModeOnButton at 0x0994B1E8>
+_OptionDialog__OnClickNightModeOnButton,		<cyfunction OptionDialog.__OnClickNightModeOnButton at 0x099EB240>
 	arg0: self
 
 submodule._OptionDialog__OnClickNightModeOnButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__LoadLocaleListFile,		<cyfunction OptionDialog.__LoadLocaleListFile at 0x0994BB30>
+_OptionDialog__LoadLocaleListFile,		<cyfunction OptionDialog.__LoadLocaleListFile at 0x099EBB88>
 	arg0: self
 
 submodule._OptionDialog__LoadLocaleListFile
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__SetSnowTextureMode,		<cyfunction OptionDialog.__SetSnowTextureMode at 0x0994B3F8>
+_OptionDialog__SetSnowTextureMode,		<cyfunction OptionDialog.__SetSnowTextureMode at 0x099EB450>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__SetSnowTextureMode
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnChangeMusic,		<cyfunction OptionDialog.__OnChangeMusic at 0x0994B030>
+_OptionDialog__OnChangeMusic,		<cyfunction OptionDialog.__OnChangeMusic at 0x099EB088>
 	arg0: self
 	arg1: fileName
 
 submodule._OptionDialog__OnChangeMusic
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickCameraModeLongButton,		<cyfunction OptionDialog.__OnClickCameraModeLongButton at 0x0994ADF0>
+_OptionDialog__OnClickCameraModeLongButton,		<cyfunction OptionDialog.__OnClickCameraModeLongButton at 0x099EAE48>
 	arg0: self
 
 submodule._OptionDialog__OnClickCameraModeLongButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__Load,		<cyfunction OptionDialog.__Load at 0x0994ABE0>
+_OptionDialog__Load,		<cyfunction OptionDialog.__Load at 0x099EAC38>
 	arg0: self
 
 submodule._OptionDialog__Load
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__Load_LoadScript,		<cyfunction OptionDialog.__Load_LoadScript at 0x0994AB30>
+_OptionDialog__Load_LoadScript,		<cyfunction OptionDialog.__Load_LoadScript at 0x099EAB88>
 	arg0: self
 	arg1: fileName
 
 submodule._OptionDialog__Load_LoadScript
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__GetCurLanguageKey,		<cyfunction OptionDialog.__GetCurLanguageKey at 0x0994BEF8>
+_OptionDialog__GetCurLanguageKey,		<cyfunction OptionDialog.__GetCurLanguageKey at 0x099EBF50>
 	arg0: self
 
 submodule._OptionDialog__GetCurLanguageKey
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__DayMode_OnCompleteChangeToLight,		<cyfunction OptionDialog.__DayMode_OnCompleteChangeToLight at 0x0994B4A8>
+_OptionDialog__DayMode_OnCompleteChangeToLight,		<cyfunction OptionDialog.__DayMode_OnCompleteChangeToLight at 0x099EB500>
 	arg0: self
 
 submodule._OptionDialog__DayMode_OnCompleteChangeToLight
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickSnowModeOffButton,		<cyfunction OptionDialog.__OnClickSnowModeOffButton at 0x0994B240>
+_OptionDialog__OnClickSnowModeOffButton,		<cyfunction OptionDialog.__OnClickSnowModeOffButton at 0x099EB298>
 	arg0: self
 
 submodule._OptionDialog__OnClickSnowModeOffButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction OptionDialog.__del__ at 0x0994AA28>
+__del__,		<cyfunction OptionDialog.__del__ at 0x099EAA80>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__InitSnowTextureModeOption,		<cyfunction OptionDialog.__InitSnowTextureModeOption at 0x0994B138>
+_OptionDialog__InitSnowTextureModeOption,		<cyfunction OptionDialog.__InitSnowTextureModeOption at 0x099EB190>
 	arg0: self
 
 submodule._OptionDialog__InitSnowTextureModeOption
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickLanguageSelectButton,		<cyfunction OptionDialog.__OnClickLanguageSelectButton at 0x0994BDF0>
+_OptionDialog__OnClickLanguageSelectButton,		<cyfunction OptionDialog.__OnClickLanguageSelectButton at 0x099EBE48>
 	arg0: self
 
 submodule._OptionDialog__OnClickLanguageSelectButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-OnChangeSoundVolume,		<cyfunction OptionDialog.OnChangeSoundVolume at 0x0994B5B0>
+OnChangeSoundVolume,		<cyfunction OptionDialog.OnChangeSoundVolume at 0x099EB608>
 	arg0: self
 
 submodule.OnChangeSoundVolume
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__ClickRadioButton,		<cyfunction OptionDialog.__ClickRadioButton at 0x0994AC90>
+_OptionDialog__ClickRadioButton,		<cyfunction OptionDialog.__ClickRadioButton at 0x099EACE8>
 	arg0: self
 	arg1: buttonList
 	arg2: buttonIndex
 
 submodule._OptionDialog__ClickRadioButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-OnTop,		<cyfunction OptionDialog.OnTop at 0x0994BA28>
+OnTop,		<cyfunction OptionDialog.OnTop at 0x099EBA80>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__SetShadowQualityLevel,		<cyfunction OptionDialog.__SetShadowQualityLevel at 0x0994B6B8>
+_OptionDialog__SetShadowQualityLevel,		<cyfunction OptionDialog.__SetShadowQualityLevel at 0x099EB710>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__SetShadowQualityLevel
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickFogModeLevel1Button,		<cyfunction OptionDialog.__OnClickFogModeLevel1Button at 0x0994AEA0>
+_OptionDialog__OnClickFogModeLevel1Button,		<cyfunction OptionDialog.__OnClickFogModeLevel1Button at 0x099EAEF8>
 	arg0: self
 
 submodule._OptionDialog__OnClickFogModeLevel1Button
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__SaveLoca,		<cyfunction OptionDialog.__SaveLoca at 0x0994BBE0>
+_OptionDialog__SaveLoca,		<cyfunction OptionDialog.__SaveLoca at 0x099EBC38>
 	arg0: self
 	arg1: code_page
 	arg2: locale
 
 submodule._OptionDialog__SaveLoca
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__SetCameraMode,		<cyfunction OptionDialog.__SetCameraMode at 0x0994ACE8>
+_OptionDialog__SetCameraMode,		<cyfunction OptionDialog.__SetCameraMode at 0x099EAD40>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__SetCameraMode
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-Show,		<cyfunction OptionDialog.Show at 0x0994B8C8>
+Show,		<cyfunction OptionDialog.Show at 0x099EB920>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickCameraModeShortButton,		<cyfunction OptionDialog.__OnClickCameraModeShortButton at 0x0994AD98>
+_OptionDialog__OnClickCameraModeShortButton,		<cyfunction OptionDialog.__OnClickCameraModeShortButton at 0x099EADF0>
 	arg0: self
 
 submodule._OptionDialog__OnClickCameraModeShortButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickEffectApplyButton,		<cyfunction OptionDialog.__OnClickEffectApplyButton at 0x0994C138>
+_OptionDialog__OnClickEffectApplyButton,		<cyfunction OptionDialog.__OnClickEffectApplyButton at 0x099EC190>
 	arg0: self
 
 submodule._OptionDialog__OnClickEffectApplyButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__InitNightModeOption,		<cyfunction OptionDialog.__InitNightModeOption at 0x0994B088>
+_OptionDialog__InitNightModeOption,		<cyfunction OptionDialog.__InitNightModeOption at 0x099EB0E0>
 	arg0: self
 
 submodule._OptionDialog__InitNightModeOption
@@ -206,45 +206,45 @@ __qualname__,		OptionDialog
 submodule.__qualname__
 
 
-_OptionDialog__OnClickChangeShadowTarget,		<cyfunction OptionDialog.__OnClickChangeShadowTarget at 0x0994B710>
+_OptionDialog__OnClickChangeShadowTarget,		<cyfunction OptionDialog.__OnClickChangeShadowTarget at 0x099EB768>
 	arg0: self
 	arg1: shadow_target
 
 submodule._OptionDialog__OnClickChangeShadowTarget
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-OnChangeMusicVolume,		<cyfunction OptionDialog.OnChangeMusicVolume at 0x0994B558>
+OnChangeMusicVolume,		<cyfunction OptionDialog.OnChangeMusicVolume at 0x099EB5B0>
 	arg0: self
 
 submodule.OnChangeMusicVolume
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickPrivateShopLevelButton,		<cyfunction OptionDialog.__OnClickPrivateShopLevelButton at 0x0994C088>
+_OptionDialog__OnClickPrivateShopLevelButton,		<cyfunction OptionDialog.__OnClickPrivateShopLevelButton at 0x099EC0E0>
 	arg0: self
 	arg1: privateShopLevelIdx
 
 submodule._OptionDialog__OnClickPrivateShopLevelButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickLanguageChangeButton,		<cyfunction OptionDialog.__OnClickLanguageChangeButton at 0x0994BF50>
+_OptionDialog__OnClickLanguageChangeButton,		<cyfunction OptionDialog.__OnClickLanguageChangeButton at 0x099EBFA8>
 	arg0: self
 
 submodule._OptionDialog__OnClickLanguageChangeButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickDropItemLevelButton,		<cyfunction OptionDialog.__OnClickDropItemLevelButton at 0x0994C0E0>
+_OptionDialog__OnClickDropItemLevelButton,		<cyfunction OptionDialog.__OnClickDropItemLevelButton at 0x099EC138>
 	arg0: self
 	arg1: dropItemLevelIdx
 
 submodule._OptionDialog__OnClickDropItemLevelButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-Close,		<cyfunction OptionDialog.Close at 0x0994B978>
+Close,		<cyfunction OptionDialog.Close at 0x099EB9D0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-OnChangeShadowQuality,		<cyfunction OptionDialog.OnChangeShadowQuality at 0x0994B608>
+OnChangeShadowQuality,		<cyfunction OptionDialog.OnChangeShadowQuality at 0x099EB660>
 	arg0: self
 
 submodule.OnChangeShadowQuality
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnLanguageSelectScroll,		<cyfunction OptionDialog.__OnLanguageSelectScroll at 0x0994BC90>
+_OptionDialog__OnLanguageSelectScroll,		<cyfunction OptionDialog.__OnLanguageSelectScroll at 0x099EBCE8>
 	arg0: self
 
 submodule._OptionDialog__OnLanguageSelectScroll
@@ -254,180 +254,180 @@ __module__,		uiSystemOption
 submodule.__module__
 
 
-OnCloseQuestionDialog,		<cyfunction OptionDialog.OnCloseQuestionDialog at 0x0994B818>
+OnCloseQuestionDialog,		<cyfunction OptionDialog.OnCloseQuestionDialog at 0x099EB870>
 	arg0: self
 
 submodule.OnCloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickNightModeOffButton,		<cyfunction OptionDialog.__OnClickNightModeOffButton at 0x0994B190>
+_OptionDialog__OnClickNightModeOffButton,		<cyfunction OptionDialog.__OnClickNightModeOffButton at 0x099EB1E8>
 	arg0: self
 
 submodule._OptionDialog__OnClickNightModeOffButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__SetNightMode,		<cyfunction OptionDialog.__SetNightMode at 0x0994B450>
+_OptionDialog__SetNightMode,		<cyfunction OptionDialog.__SetNightMode at 0x099EB4A8>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__SetNightMode
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickFogModeLevel0Button,		<cyfunction OptionDialog.__OnClickFogModeLevel0Button at 0x0994AE48>
+_OptionDialog__OnClickFogModeLevel0Button,		<cyfunction OptionDialog.__OnClickFogModeLevel0Button at 0x099EAEA0>
 	arg0: self
 
 submodule._OptionDialog__OnClickFogModeLevel0Button
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction OptionDialog.Destroy at 0x0994AAD8>
+Destroy,		<cyfunction OptionDialog.Destroy at 0x099EAB30>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction OptionDialog.__init__ at 0x0994A9D0>
+__init__,		<cyfunction OptionDialog.__init__ at 0x099EAA28>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__Initialize,		<cyfunction OptionDialog.__Initialize at 0x0994AA80>
+_OptionDialog__Initialize,		<cyfunction OptionDialog.__Initialize at 0x099EAAD8>
 	arg0: self
 
 submodule._OptionDialog__Initialize
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickPrivateShopApplyButton,		<cyfunction OptionDialog.__OnClickPrivateShopApplyButton at 0x0994C190>
+_OptionDialog__OnClickPrivateShopApplyButton,		<cyfunction OptionDialog.__OnClickPrivateShopApplyButton at 0x099EC1E8>
 	arg0: self
 
 submodule._OptionDialog__OnClickPrivateShopApplyButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickFogModeOnButton,		<cyfunction OptionDialog.__OnClickFogModeOnButton at 0x0994AF50>
+_OptionDialog__OnClickFogModeOnButton,		<cyfunction OptionDialog.__OnClickFogModeOnButton at 0x099EAFA8>
 	arg0: self
 
 submodule._OptionDialog__OnClickFogModeOnButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickLanguageButtonOver,		<cyfunction OptionDialog.__OnClickLanguageButtonOver at 0x0994BD40>
+_OptionDialog__OnClickLanguageButtonOver,		<cyfunction OptionDialog.__OnClickLanguageButtonOver at 0x099EBD98>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__OnClickLanguageButtonOver
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickFogModeLevel2Button,		<cyfunction OptionDialog.__OnClickFogModeLevel2Button at 0x0994AEF8>
+_OptionDialog__OnClickFogModeLevel2Button,		<cyfunction OptionDialog.__OnClickFogModeLevel2Button at 0x099EAF50>
 	arg0: self
 
 submodule._OptionDialog__OnClickFogModeLevel2Button
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickNPCNameButton,		<cyfunction OptionDialog.__OnClickNPCNameButton at 0x0994C298>
+_OptionDialog__OnClickNPCNameButton,		<cyfunction OptionDialog.__OnClickNPCNameButton at 0x099EC2F0>
 	arg0: self
 	arg1: buttonIndex
 
 submodule._OptionDialog__OnClickNPCNameButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__NotifyChatLine,		<cyfunction OptionDialog.__NotifyChatLine at 0x0994B9D0>
+_OptionDialog__NotifyChatLine,		<cyfunction OptionDialog.__NotifyChatLine at 0x099EBA28>
 	arg0: self
 	arg1: text
 
 submodule._OptionDialog__NotifyChatLine
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__SetSnowMode,		<cyfunction OptionDialog.__SetSnowMode at 0x0994B3A0>
+_OptionDialog__SetSnowMode,		<cyfunction OptionDialog.__SetSnowMode at 0x099EB3F8>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__SetSnowMode
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__Load_BindObject,		<cyfunction OptionDialog.__Load_BindObject at 0x0994AB88>
+_OptionDialog__Load_BindObject,		<cyfunction OptionDialog.__Load_BindObject at 0x099EABE0>
 	arg0: self
 
 submodule._OptionDialog__Load_BindObject
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickSnowModeOnButton,		<cyfunction OptionDialog.__OnClickSnowModeOnButton at 0x0994B298>
+_OptionDialog__OnClickSnowModeOnButton,		<cyfunction OptionDialog.__OnClickSnowModeOnButton at 0x099EB2F0>
 	arg0: self
 
 submodule._OptionDialog__OnClickSnowModeOnButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickLanguageSelect,		<cyfunction OptionDialog.__OnClickLanguageSelect at 0x0994BCE8>
+_OptionDialog__OnClickLanguageSelect,		<cyfunction OptionDialog.__OnClickLanguageSelect at 0x099EBD40>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__OnClickLanguageSelect
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__LanguageSelectShowHide,		<cyfunction OptionDialog.__LanguageSelectShowHide at 0x0994BE48>
+_OptionDialog__LanguageSelectShowHide,		<cyfunction OptionDialog.__LanguageSelectShowHide at 0x099EBEA0>
 	arg0: self
 	arg1: is_show
 
 submodule._OptionDialog__LanguageSelectShowHide
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__SetShadowTargetLevel,		<cyfunction OptionDialog.__SetShadowTargetLevel at 0x0994B660>
+_OptionDialog__SetShadowTargetLevel,		<cyfunction OptionDialog.__SetShadowTargetLevel at 0x099EB6B8>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__SetShadowTargetLevel
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__AdjustLanguageSelectWindowPosition,		<cyfunction OptionDialog.__AdjustLanguageSelectWindowPosition at 0x0994BAD8>
+_OptionDialog__AdjustLanguageSelectWindowPosition,		<cyfunction OptionDialog.__AdjustLanguageSelectWindowPosition at 0x099EBB30>
 	arg0: self
 
 submodule._OptionDialog__AdjustLanguageSelectWindowPosition
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-LanguageChange,		<cyfunction OptionDialog.LanguageChange at 0x0994BFA8>
+LanguageChange,		<cyfunction OptionDialog.LanguageChange at 0x099EC030>
 	arg0: self
 
 submodule.LanguageChange
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction OptionDialog.OnPressEscapeKey at 0x0994B870>
+OnPressEscapeKey,		<cyfunction OptionDialog.OnPressEscapeKey at 0x099EB8C8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickFogModeOffButton,		<cyfunction OptionDialog.__OnClickFogModeOffButton at 0x0994AFA8>
+_OptionDialog__OnClickFogModeOffButton,		<cyfunction OptionDialog.__OnClickFogModeOffButton at 0x099EB030>
 	arg0: self
 
 submodule._OptionDialog__OnClickFogModeOffButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__SetFogLevel,		<cyfunction OptionDialog.__SetFogLevel at 0x0994AD40>
+_OptionDialog__SetFogLevel,		<cyfunction OptionDialog.__SetFogLevel at 0x099EAD98>
 	arg0: self
 	arg1: index
 
 submodule._OptionDialog__SetFogLevel
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-RefreshCameraMode,		<cyfunction OptionDialog.RefreshCameraMode at 0x0994C2F0>
+RefreshCameraMode,		<cyfunction OptionDialog.RefreshCameraMode at 0x099EC348>
 	arg0: self
 
 submodule.RefreshCameraMode
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickEffectLevelButton,		<cyfunction OptionDialog.__OnClickEffectLevelButton at 0x0994C030>
+_OptionDialog__OnClickEffectLevelButton,		<cyfunction OptionDialog.__OnClickEffectLevelButton at 0x099EC088>
 	arg0: self
 	arg1: effectLevelIdx
 
 submodule._OptionDialog__OnClickEffectLevelButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickPetButton,		<cyfunction OptionDialog.__OnClickPetButton at 0x0994C240>
+_OptionDialog__OnClickPetButton,		<cyfunction OptionDialog.__OnClickPetButton at 0x099EC298>
 	arg0: self
 	arg1: buttonIndex
 
 submodule._OptionDialog__OnClickPetButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-OnMoveWindow,		<cyfunction OptionDialog.OnMoveWindow at 0x0994BA80>
+OnMoveWindow,		<cyfunction OptionDialog.OnMoveWindow at 0x099EBAD8>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.OnMoveWindow
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickSnowTextureModeOffButton,		<cyfunction OptionDialog.__OnClickSnowTextureModeOffButton at 0x0994B2F0>
+_OptionDialog__OnClickSnowTextureModeOffButton,		<cyfunction OptionDialog.__OnClickSnowTextureModeOffButton at 0x099EB348>
 	arg0: self
 
 submodule._OptionDialog__OnClickSnowTextureModeOffButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickChangeMusicButton,		<cyfunction OptionDialog.__OnClickChangeMusicButton at 0x0994AC38>
+_OptionDialog__OnClickChangeMusicButton,		<cyfunction OptionDialog.__OnClickChangeMusicButton at 0x099EAC90>
 	arg0: self
 
 submodule._OptionDialog__OnClickChangeMusicButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickDropItemApplyButton,		<cyfunction OptionDialog.__OnClickDropItemApplyButton at 0x0994C1E8>
+_OptionDialog__OnClickDropItemApplyButton,		<cyfunction OptionDialog.__OnClickDropItemApplyButton at 0x099EC240>
 	arg0: self
 
 submodule._OptionDialog__OnClickDropItemApplyButton
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-IsShowWindow,		<cyfunction OptionDialog.IsShowWindow at 0x0994B920>
+IsShowWindow,		<cyfunction OptionDialog.IsShowWindow at 0x099EB978>
 	arg0: self
 
 submodule.IsShowWindow
 Skipped: unbound method cython_function_or_method object must be called with OptionDialog instance as first argument (got nothing instead)
-_OptionDialog__OnClickChangeShadowQuality,		<cyfunction OptionDialog.__OnClickChangeShadowQuality at 0x0994B768>
+_OptionDialog__OnClickChangeShadowQuality,		<cyfunction OptionDialog.__OnClickChangeShadowQuality at 0x099EB7C0>
 	arg0: self
 	arg1: shadow_quality
 

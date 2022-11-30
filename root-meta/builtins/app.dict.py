@@ -345,7 +345,7 @@
          {'name': 'ServerName', 'type': 'NoneType', 'value': None},
          {'name': 'TALK', 'type': 'int', 'value': 3},
          {'name': 'TARGET', 'type': 'int', 'value': 2},
-         {'name': 'VERSION', 'type': 'str', 'value': 'Ver. 21,2,8'},
+         {'name': 'VERSION', 'type': 'str', 'value': 'Ver. 21,2,10'},
          {'name': 'VK_BACK', 'type': 'int', 'value': 8},
          {'name': 'VK_DELETE', 'type': 'int', 'value': 46},
          {'name': 'VK_DOWN', 'type': 'int', 'value': 40},

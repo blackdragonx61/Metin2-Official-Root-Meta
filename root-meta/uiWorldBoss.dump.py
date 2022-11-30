@@ -34,7 +34,7 @@ MAX_RANKING_PAGE,		10
 submodule.MAX_RANKING_PAGE
 
 
-__del__,		<cyfunction WorldBossRanking.__del__ at 0x099FEC38>
+__del__,		<cyfunction WorldBossRanking.__del__ at 0x09B93C90>
 	arg0: self
 
 submodule.__del__
@@ -54,7 +54,7 @@ SHOW_ITEM_COUNT,		10
 submodule.SHOW_ITEM_COUNT
 
 
-_WorldBossRanking__NextButton,		<cyfunction WorldBossRanking.__NextButton at 0x099FED98>
+_WorldBossRanking__NextButton,		<cyfunction WorldBossRanking.__NextButton at 0x09B93DF0>
 	arg0: self
 
 submodule._WorldBossRanking__NextButton
@@ -69,17 +69,17 @@ PAGE_NORMAL_TEXT_COLOR,		4294967295
 submodule.PAGE_NORMAL_TEXT_COLOR
 
 
-OnPressEscapeKey,		<cyfunction WorldBossRanking.OnPressEscapeKey at 0x09A03138>
+OnPressEscapeKey,		<cyfunction WorldBossRanking.OnPressEscapeKey at 0x09B98190>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
-_WorldBossRanking__FirstButton,		<cyfunction WorldBossRanking.__FirstButton at 0x099FEDF0>
+_WorldBossRanking__FirstButton,		<cyfunction WorldBossRanking.__FirstButton at 0x09B93E48>
 	arg0: self
 
 submodule._WorldBossRanking__FirstButton
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
-_WorldBossRanking__PrevButton,		<cyfunction WorldBossRanking.__PrevButton at 0x099FED40>
+_WorldBossRanking__PrevButton,		<cyfunction WorldBossRanking.__PrevButton at 0x09B93D98>
 	arg0: self
 
 submodule._WorldBossRanking__PrevButton
@@ -89,25 +89,25 @@ WORLD_BOSS_RANK_1_MIN,		1
 submodule.WORLD_BOSS_RANK_1_MIN
 
 
-__init__,		<cyfunction WorldBossRanking.__init__ at 0x099FEBE0>
+__init__,		<cyfunction WorldBossRanking.__init__ at 0x09B93C38>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
 ItemInfo,		<class 'uiWorldBoss.ItemInfo'>
 Skip: type object 'ItemInfo' has no attribute 'func_code'
-_WorldBossRanking__SetButton,		<cyfunction WorldBossRanking.__SetButton at 0x099FEF50>
+_WorldBossRanking__SetButton,		<cyfunction WorldBossRanking.__SetButton at 0x09B93FA8>
 	arg0: self
 
 submodule._WorldBossRanking__SetButton
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
-GetTierFromRank,		<cyfunction WorldBossRanking.GetTierFromRank at 0x09A03030>
+GetTierFromRank,		<cyfunction WorldBossRanking.GetTierFromRank at 0x09B98088>
 	arg0: self
 	arg1: rank
 
 submodule.GetTierFromRank
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
-_WorldBossRanking__LastButton,		<cyfunction WorldBossRanking.__LastButton at 0x099FEE48>
+_WorldBossRanking__LastButton,		<cyfunction WorldBossRanking.__LastButton at 0x09B93EA0>
 	arg0: self
 
 submodule._WorldBossRanking__LastButton
@@ -132,7 +132,7 @@ WORLD_BOSS_RANK_2_MAX,		25
 submodule.WORLD_BOSS_RANK_2_MAX
 
 
-_WorldBossRanking__SelectPage,		<cyfunction WorldBossRanking.__SelectPage at 0x099FEEF8>
+_WorldBossRanking__SelectPage,		<cyfunction WorldBossRanking.__SelectPage at 0x09B93F50>
 	arg0: self
 	arg1: page_index
 
@@ -143,22 +143,22 @@ WORLD_BOSS_RANK_3_MIN,		26
 submodule.WORLD_BOSS_RANK_3_MIN
 
 
-Initialize,		<cyfunction WorldBossRanking.Initialize at 0x099FEC90>
+Initialize,		<cyfunction WorldBossRanking.Initialize at 0x09B93CE8>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
-Close,		<cyfunction WorldBossRanking.Close at 0x09A030E0>
+Close,		<cyfunction WorldBossRanking.Close at 0x09B98138>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction WorldBossRanking.LoadWindow at 0x099FECE8>
+LoadWindow,		<cyfunction WorldBossRanking.LoadWindow at 0x09B93D40>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
-Open,		<cyfunction WorldBossRanking.Open at 0x09A03088>
+Open,		<cyfunction WorldBossRanking.Open at 0x09B980E0>
 	arg0: self
 
 submodule.Open
@@ -168,13 +168,13 @@ __doc__,		None
 submodule.__doc__
 
 
-_WorldBossRanking__OnClickPageButton,		<cyfunction WorldBossRanking.__OnClickPageButton at 0x099FEEA0>
+_WorldBossRanking__OnClickPageButton,		<cyfunction WorldBossRanking.__OnClickPageButton at 0x09B93EF8>
 	arg0: self
 	arg1: button_index
 
 submodule._WorldBossRanking__OnClickPageButton
 Skipped: unbound method cython_function_or_method object must be called with WorldBossRanking instance as first argument (got nothing instead)
-RefreshRankingList,		<cyfunction WorldBossRanking.RefreshRankingList at 0x099FEFA8>
+RefreshRankingList,		<cyfunction WorldBossRanking.RefreshRankingList at 0x09B98030>
 	arg0: self
 	arg1: page_button_index
 	default: 0
@@ -189,17 +189,17 @@ __module__,		uiWorldBoss
 submodule.__module__
 
 
-ClickRewardButton,		<cyfunction WorldBoss.ClickRewardButton at 0x099FEA28>
+ClickRewardButton,		<cyfunction WorldBoss.ClickRewardButton at 0x09B93A80>
 	arg0: self
 
 submodule.ClickRewardButton
 Skipped: unbound method cython_function_or_method object must be called with WorldBoss instance as first argument (got nothing instead)
-PrevDescriptionPage,		<cyfunction WorldBoss.PrevDescriptionPage at 0x099FE8C8>
+PrevDescriptionPage,		<cyfunction WorldBoss.PrevDescriptionPage at 0x09B93920>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with WorldBoss instance as first argument (got nothing instead)
-WorldBossProcess,		<cyfunction WorldBoss.WorldBossProcess at 0x099FE978>
+WorldBossProcess,		<cyfunction WorldBoss.WorldBossProcess at 0x09B939D0>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -207,7 +207,7 @@ WorldBossProcess,		<cyfunction WorldBoss.WorldBossProcess at 0x099FE978>
 
 submodule.WorldBossProcess
 Skipped: unbound method cython_function_or_method object must be called with WorldBoss instance as first argument (got nothing instead)
-__del__,		<cyfunction WorldBoss.__del__ at 0x099FE660>
+__del__,		<cyfunction WorldBoss.__del__ at 0x09B936B8>
 	arg0: self
 
 submodule.__del__
@@ -224,12 +224,12 @@ submodule.WORLD_BOSS_STATE_NONE
 
 DescriptionBox,		<class 'uiWorldBoss.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction WorldBoss.OnPressEscapeKey at 0x099FE818>
+OnPressEscapeKey,		<cyfunction WorldBoss.OnPressEscapeKey at 0x09B93870>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with WorldBoss instance as first argument (got nothing instead)
-ClickRankingButton,		<cyfunction WorldBoss.ClickRankingButton at 0x099FEA80>
+ClickRankingButton,		<cyfunction WorldBoss.ClickRankingButton at 0x09B93AD8>
 	arg0: self
 
 submodule.ClickRankingButton
@@ -244,12 +244,12 @@ WORLD_BOSS_STATE_BREAK_TIME,		4
 submodule.WORLD_BOSS_STATE_BREAK_TIME
 
 
-__init__,		<cyfunction WorldBoss.__init__ at 0x099FE608>
+__init__,		<cyfunction WorldBoss.__init__ at 0x09B93660>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with WorldBoss instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction WorldBoss.OnUpdate at 0x099FE870>
+OnUpdate,		<cyfunction WorldBoss.OnUpdate at 0x09B938C8>
 	arg0: self
 
 submodule.OnUpdate
@@ -269,7 +269,7 @@ __qualname__,		WorldBoss
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction WorldBoss.NextDescriptionPage at 0x099FE920>
+NextDescriptionPage,		<cyfunction WorldBoss.NextDescriptionPage at 0x09B93978>
 	arg0: self
 
 submodule.NextDescriptionPage
@@ -279,22 +279,22 @@ WORLD_BOSS_STATE_BOSS_KILLED,		3
 submodule.WORLD_BOSS_STATE_BOSS_KILLED
 
 
-Initialize,		<cyfunction WorldBoss.Initialize at 0x099FE6B8>
+Initialize,		<cyfunction WorldBoss.Initialize at 0x09B93710>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with WorldBoss instance as first argument (got nothing instead)
-Close,		<cyfunction WorldBoss.Close at 0x099FE7C0>
+Close,		<cyfunction WorldBoss.Close at 0x09B93818>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with WorldBoss instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction WorldBoss.LoadWindow at 0x099FE710>
+LoadWindow,		<cyfunction WorldBoss.LoadWindow at 0x09B93768>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with WorldBoss instance as first argument (got nothing instead)
-Open,		<cyfunction WorldBoss.Open at 0x099FE768>
+Open,		<cyfunction WorldBoss.Open at 0x09B937C0>
 	arg0: self
 
 submodule.Open
@@ -304,7 +304,7 @@ __doc__,		None
 submodule.__doc__
 
 
-RefreshRankingList,		<cyfunction WorldBoss.RefreshRankingList at 0x099FE9D0>
+RefreshRankingList,		<cyfunction WorldBoss.RefreshRankingList at 0x09B93A28>
 	arg0: self
 
 submodule.RefreshRankingList

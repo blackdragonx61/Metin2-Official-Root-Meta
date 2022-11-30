@@ -1,14 +1,14 @@
 key: shop, val: <module 'shop' (built-in)>
 key: PrivateShopAdvertisementBoard, val: <class 'uiPrivateShopBuilder.PrivateShopAdvertisementBoard'>
-key: UpdateADBoard, val: <cyfunction UpdateADBoard at 0x0974FFA8>
+key: UpdateADBoard, val: <cyfunction UpdateADBoard at 0x09912030>
 key: chatm2g, val: <module 'chatm2g' (built-in)>
 key: app, val: <module 'app' (built-in)>
 key: g_itemPriceDict, val: {}
 key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: PRIVATE_SHOP_WON, val: 1
-key: GetPrivateShopItemCheque, val: <cyfunction GetPrivateShopItemCheque at 0x0974FEF8>
-key: SetPrivateShopItemPrice, val: <cyfunction SetPrivateShopItemPrice at 0x0974FEA0>
+key: GetPrivateShopItemCheque, val: <cyfunction GetPrivateShopItemCheque at 0x098E0F50>
+key: SetPrivateShopItemPrice, val: <cyfunction SetPrivateShopItemPrice at 0x098E0EF8>
 key: INVENTORY_PAGE_SIZE, val: 45
 key: uiToolTip, val: <module 'uiToolTip' (built-in)>
 key: __package__, val: None
@@ -17,19 +17,19 @@ key: chr, val: <module 'chr' (built-in)>
 key: g_isBuildingPrivateShop, val: False
 key: mouseModule, val: <module 'mouseModule' (built-in)>
 key: PrivateShopBuilder, val: <class 'uiPrivateShopBuilder.PrivateShopBuilder'>
-key: GetPrivateShopItemPrice, val: <cyfunction GetPrivateShopItemPrice at 0x0974FF50>
+key: GetPrivateShopItemPrice, val: <cyfunction GetPrivateShopItemPrice at 0x098E0FA8>
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
-key: DeleteADBoard, val: <cyfunction DeleteADBoard at 0x09782030>
+key: DeleteADBoard, val: <cyfunction DeleteADBoard at 0x09912088>
 key: uiCommon, val: <module 'uiCommon' (built-in)>
 key: snd, val: <module 'snd' (built-in)>
 key: __builtins__, val: <module '__builtin__' (built-in)>
-key: Clear, val: <cyfunction Clear at 0x0974FD98>
+key: Clear, val: <cyfunction Clear at 0x098E0DF0>
 key: PRIVATE_SHOP_YANG, val: 0
-key: IsPrivateShopItemPriceList, val: <cyfunction IsPrivateShopItemPriceList at 0x0974FDF0>
+key: IsPrivateShopItemPriceList, val: <cyfunction IsPrivateShopItemPriceList at 0x098E0E48>
 key: __test__, val: {}
 key: __name__, val: uiPrivateShopBuilder
-key: IsBuildingPrivateShop, val: <cyfunction IsBuildingPrivateShop at 0x0974FE48>
+key: IsBuildingPrivateShop, val: <cyfunction IsBuildingPrivateShop at 0x098E0EA0>
 key: g_privateShopAdvertisementBoardDict, val: {}
 key: item, val: <module 'item' (built-in)>
 key: PrivateShopTitleBar, val: <class 'uiPrivateShopBuilder.PrivateShopTitleBar'>
@@ -37,7 +37,7 @@ key: ui, val: <module 'ui' (built-in)>
 
 
 class PrivateShopAdvertisementBoard:
-OnUpdate,		<cyfunction PrivateShopAdvertisementBoard.OnUpdate at 0x09782240>
+OnUpdate,		<cyfunction PrivateShopAdvertisementBoard.OnUpdate at 0x09912298>
 	arg0: self
 
 submodule.OnUpdate
@@ -47,7 +47,7 @@ __module__,		uiPrivateShopBuilder
 submodule.__module__
 
 
-__del__,		<cyfunction PrivateShopAdvertisementBoard.__del__ at 0x097820E0>
+__del__,		<cyfunction PrivateShopAdvertisementBoard.__del__ at 0x09912138>
 	arg0: self
 
 submodule.__del__
@@ -57,17 +57,17 @@ __qualname__,		PrivateShopAdvertisementBoard
 submodule.__qualname__
 
 
-OnMouseLeftButtonUp,		<cyfunction PrivateShopAdvertisementBoard.OnMouseLeftButtonUp at 0x097821E8>
+OnMouseLeftButtonUp,		<cyfunction PrivateShopAdvertisementBoard.OnMouseLeftButtonUp at 0x09912240>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopAdvertisementBoard instance as first argument (got nothing instead)
-_PrivateShopAdvertisementBoard__MakeTextLine,		<cyfunction PrivateShopAdvertisementBoard.__MakeTextLine at 0x09782138>
+_PrivateShopAdvertisementBoard__MakeTextLine,		<cyfunction PrivateShopAdvertisementBoard.__MakeTextLine at 0x09912190>
 	arg0: self
 
 submodule._PrivateShopAdvertisementBoard__MakeTextLine
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopAdvertisementBoard instance as first argument (got nothing instead)
-Open,		<cyfunction PrivateShopAdvertisementBoard.Open at 0x09782190>
+Open,		<cyfunction PrivateShopAdvertisementBoard.Open at 0x099121E8>
 	arg0: self
 	arg1: vid
 	arg2: text
@@ -79,7 +79,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction PrivateShopAdvertisementBoard.__init__ at 0x09782088>
+__init__,		<cyfunction PrivateShopAdvertisementBoard.__init__ at 0x099120E0>
 	arg0: self
 
 submodule.__init__
@@ -92,121 +92,121 @@ __module__,		uiPrivateShopBuilder
 submodule.__module__
 
 
-OnMouseOverInShopName,		<cyfunction PrivateShopBuilder.OnMouseOverInShopName at 0x09782870>
+OnMouseOverInShopName,		<cyfunction PrivateShopBuilder.OnMouseOverInShopName at 0x099128C8>
 	arg0: self
 
 submodule.OnMouseOverInShopName
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-GetItemDataSocketValue,		<cyfunction PrivateShopBuilder.GetItemDataSocketValue at 0x09782B30>
+GetItemDataSocketValue,		<cyfunction PrivateShopBuilder.GetItemDataSocketValue at 0x09912B88>
 	arg0: self
 	arg1: winType
 	arg2: SlotPos
 
 submodule.GetItemDataSocketValue
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-Destroy,		<cyfunction PrivateShopBuilder.Destroy at 0x097823A0>
+Destroy,		<cyfunction PrivateShopBuilder.Destroy at 0x099123F8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-__init__,		<cyfunction PrivateShopBuilder.__init__ at 0x09782298>
+__init__,		<cyfunction PrivateShopBuilder.__init__ at 0x099122F0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PrivateShopBuilder.OnUpdate at 0x09782A80>
+OnUpdate,		<cyfunction PrivateShopBuilder.OnUpdate at 0x09912AD8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-SetIsCashItem,		<cyfunction PrivateShopBuilder.SetIsCashItem at 0x09782AD8>
+SetIsCashItem,		<cyfunction PrivateShopBuilder.SetIsCashItem at 0x09912B30>
 	arg0: self
 	arg1: bCashItem
 
 submodule.SetIsCashItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-_PrivateShopBuilder__LoadWindow,		<cyfunction PrivateShopBuilder.__LoadWindow at 0x09782348>
+_PrivateShopBuilder__LoadWindow,		<cyfunction PrivateShopBuilder.__LoadWindow at 0x099123A0>
 	arg0: self
 
 submodule._PrivateShopBuilder__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-_PrivateShopBuilder__GetRealIndex,		<cyfunction PrivateShopBuilder.__GetRealIndex at 0x09782CE8>
+_PrivateShopBuilder__GetRealIndex,		<cyfunction PrivateShopBuilder.__GetRealIndex at 0x09912D40>
 	arg0: self
 	arg1: i
 
 submodule._PrivateShopBuilder__GetRealIndex
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-PrvShopTabRefresh,		<cyfunction PrivateShopBuilder.PrvShopTabRefresh at 0x09782D40>
+PrvShopTabRefresh,		<cyfunction PrivateShopBuilder.PrvShopTabRefresh at 0x09912D98>
 	arg0: self
 
 submodule.PrvShopTabRefresh
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnOk,		<cyfunction PrivateShopBuilder.OnOk at 0x097826B8>
+OnOk,		<cyfunction PrivateShopBuilder.OnOk at 0x09912710>
 	arg0: self
 
 submodule.OnOk
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnOverInItem,		<cyfunction PrivateShopBuilder.OnOverInItem at 0x097827C0>
+OnOverInItem,		<cyfunction PrivateShopBuilder.OnOverInItem at 0x09912818>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OnOverInItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-__del__,		<cyfunction PrivateShopBuilder.__del__ at 0x097822F0>
+__del__,		<cyfunction PrivateShopBuilder.__del__ at 0x09912348>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-Refresh,		<cyfunction PrivateShopBuilder.Refresh at 0x09782500>
+Refresh,		<cyfunction PrivateShopBuilder.Refresh at 0x09912558>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-_PrivateShopBuilder__SetMyShopDecoPosition,		<cyfunction PrivateShopBuilder.__SetMyShopDecoPosition at 0x09782B88>
+_PrivateShopBuilder__SetMyShopDecoPosition,		<cyfunction PrivateShopBuilder.__SetMyShopDecoPosition at 0x09912BE0>
 	arg0: self
 
 submodule._PrivateShopBuilder__SetMyShopDecoPosition
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-CancelInputPrice,		<cyfunction PrivateShopBuilder.CancelInputPrice at 0x09782660>
+CancelInputPrice,		<cyfunction PrivateShopBuilder.CancelInputPrice at 0x099126B8>
 	arg0: self
 
 submodule.CancelInputPrice
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PrivateShopBuilder.OnPressEscapeKey at 0x09782768>
+OnPressEscapeKey,		<cyfunction PrivateShopBuilder.OnPressEscapeKey at 0x099127C0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-Close,		<cyfunction PrivateShopBuilder.Close at 0x09782450>
+Close,		<cyfunction PrivateShopBuilder.Close at 0x099124A8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnSelectItemSlot,		<cyfunction PrivateShopBuilder.OnSelectItemSlot at 0x097825B0>
+OnSelectItemSlot,		<cyfunction PrivateShopBuilder.OnSelectItemSlot at 0x09912608>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.OnSelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-SetInven,		<cyfunction PrivateShopBuilder.SetInven at 0x09782A28>
+SetInven,		<cyfunction PrivateShopBuilder.SetInven at 0x09912A80>
 	arg0: self
 	arg1: type
 	arg2: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnTop,		<cyfunction PrivateShopBuilder.OnTop at 0x097829D0>
+OnTop,		<cyfunction PrivateShopBuilder.OnTop at 0x09912A28>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-BindInterface,		<cyfunction PrivateShopBuilder.BindInterface at 0x09782978>
+BindInterface,		<cyfunction PrivateShopBuilder.BindInterface at 0x099129D0>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-CantTradableItem,		<cyfunction PrivateShopBuilder.CantTradableItem at 0x09782920>
+CantTradableItem,		<cyfunction PrivateShopBuilder.CantTradableItem at 0x09912978>
 	arg0: self
 	arg1: slotIndex
 	arg2: type
@@ -214,23 +214,23 @@ CantTradableItem,		<cyfunction PrivateShopBuilder.CantTradableItem at 0x09782920
 
 submodule.CantTradableItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction PrivateShopBuilder.SetItemToolTip at 0x097824A8>
+SetItemToolTip,		<cyfunction PrivateShopBuilder.SetItemToolTip at 0x09912500>
 	arg0: self
 	arg1: tooltipItem
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnOverOutItem,		<cyfunction PrivateShopBuilder.OnOverOutItem at 0x09782818>
+OnOverOutItem,		<cyfunction PrivateShopBuilder.OnOverOutItem at 0x09912870>
 	arg0: self
 
 submodule.OnOverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnClose,		<cyfunction PrivateShopBuilder.OnClose at 0x09782710>
+OnClose,		<cyfunction PrivateShopBuilder.OnClose at 0x09912768>
 	arg0: self
 
 submodule.OnClose
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnSelectEmptySlot,		<cyfunction PrivateShopBuilder.OnSelectEmptySlot at 0x09782558>
+OnSelectEmptySlot,		<cyfunction PrivateShopBuilder.OnSelectEmptySlot at 0x099125B0>
 	arg0: self
 	arg1: selectedSlotPos
 
@@ -246,34 +246,34 @@ __qualname__,		PrivateShopBuilder
 submodule.__qualname__
 
 
-_PrivateShopBuilder__SetDefaultShopDecoPosition,		<cyfunction PrivateShopBuilder.__SetDefaultShopDecoPosition at 0x09782BE0>
+_PrivateShopBuilder__SetDefaultShopDecoPosition,		<cyfunction PrivateShopBuilder.__SetDefaultShopDecoPosition at 0x09912C38>
 	arg0: self
 
 submodule._PrivateShopBuilder__SetDefaultShopDecoPosition
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-AcceptInputPrice,		<cyfunction PrivateShopBuilder.AcceptInputPrice at 0x09782608>
+AcceptInputPrice,		<cyfunction PrivateShopBuilder.AcceptInputPrice at 0x09912660>
 	arg0: self
 
 submodule.AcceptInputPrice
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-OnMouseOverOutShopName,		<cyfunction PrivateShopBuilder.OnMouseOverOutShopName at 0x097828C8>
+OnMouseOverOutShopName,		<cyfunction PrivateShopBuilder.OnMouseOverOutShopName at 0x09912920>
 	arg0: self
 
 submodule.OnMouseOverOutShopName
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-SetPrivateShopPage,		<cyfunction PrivateShopBuilder.SetPrivateShopPage at 0x09782C90>
+SetPrivateShopPage,		<cyfunction PrivateShopBuilder.SetPrivateShopPage at 0x09912CE8>
 	arg0: self
 	arg1: page
 
 submodule.SetPrivateShopPage
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-SetTabCount,		<cyfunction PrivateShopBuilder.SetTabCount at 0x09782C38>
+SetTabCount,		<cyfunction PrivateShopBuilder.SetTabCount at 0x09912C90>
 	arg0: self
 	arg1: tabCnt
 
 submodule.SetTabCount
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopBuilder instance as first argument (got nothing instead)
-Open,		<cyfunction PrivateShopBuilder.Open at 0x097823F8>
+Open,		<cyfunction PrivateShopBuilder.Open at 0x09912450>
 	arg0: self
 	arg1: title
 
@@ -282,7 +282,7 @@ Skipped: unbound method cython_function_or_method object must be called with Pri
 
 
 class PrivateShopTitleBar:
-OnUpdate,		<cyfunction PrivateShopTitleBar.OnUpdate at 0x09782FA8>
+OnUpdate,		<cyfunction PrivateShopTitleBar.OnUpdate at 0x09914030>
 	arg0: self
 
 submodule.OnUpdate
@@ -292,12 +292,12 @@ __module__,		uiPrivateShopBuilder
 submodule.__module__
 
 
-__del__,		<cyfunction PrivateShopTitleBar.__del__ at 0x09782DF0>
+__del__,		<cyfunction PrivateShopTitleBar.__del__ at 0x09912E48>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopTitleBar instance as first argument (got nothing instead)
-_PrivateShopTitleBar__CalcFontColor,		<cyfunction PrivateShopTitleBar.__CalcFontColor at 0x09782E48>
+_PrivateShopTitleBar__CalcFontColor,		<cyfunction PrivateShopTitleBar.__CalcFontColor at 0x09912EA0>
 	arg0: self
 
 submodule._PrivateShopTitleBar__CalcFontColor
@@ -307,17 +307,17 @@ __qualname__,		PrivateShopTitleBar
 submodule.__qualname__
 
 
-OnMouseLeftButtonUp,		<cyfunction PrivateShopTitleBar.OnMouseLeftButtonUp at 0x09782F50>
+OnMouseLeftButtonUp,		<cyfunction PrivateShopTitleBar.OnMouseLeftButtonUp at 0x09912FA8>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopTitleBar instance as first argument (got nothing instead)
-_PrivateShopTitleBar__MakeTextLine,		<cyfunction PrivateShopTitleBar.__MakeTextLine at 0x09782EA0>
+_PrivateShopTitleBar__MakeTextLine,		<cyfunction PrivateShopTitleBar.__MakeTextLine at 0x09912EF8>
 	arg0: self
 
 submodule._PrivateShopTitleBar__MakeTextLine
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopTitleBar instance as first argument (got nothing instead)
-Open,		<cyfunction PrivateShopTitleBar.Open at 0x09782EF8>
+Open,		<cyfunction PrivateShopTitleBar.Open at 0x09912F50>
 	arg0: self
 	arg1: vid
 	arg2: text
@@ -329,7 +329,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction PrivateShopTitleBar.__init__ at 0x09782D98>
+__init__,		<cyfunction PrivateShopTitleBar.__init__ at 0x09912DF0>
 	arg0: self
 	arg1: type
 

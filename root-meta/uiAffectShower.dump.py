@@ -23,7 +23,7 @@ key: ui, val: <module 'ui' (built-in)>
 
 
 class GrowthPetImage:
-SetDescription,		<cyfunction GrowthPetImage.SetDescription at 0x09784EF8>
+SetDescription,		<cyfunction GrowthPetImage.SetDescription at 0x09914F50>
 	arg0: self
 	arg1: description
 
@@ -34,12 +34,12 @@ __module__,		uiAffectShower
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction GrowthPetImage.OnMouseOverOut at 0x09784FA8>
+OnMouseOverOut,		<cyfunction GrowthPetImage.OnMouseOverOut at 0x09924030>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with GrowthPetImage instance as first argument (got nothing instead)
-__del__,		<cyfunction GrowthPetImage.__del__ at 0x09784E48>
+__del__,		<cyfunction GrowthPetImage.__del__ at 0x09914EA0>
 	arg0: self
 
 submodule.__del__
@@ -54,7 +54,7 @@ __qualname__,		GrowthPetImage
 submodule.__qualname__
 
 
-SetToolTipText,		<cyfunction GrowthPetImage.SetToolTipText at 0x09784EA0>
+SetToolTipText,		<cyfunction GrowthPetImage.SetToolTipText at 0x09914EF8>
 	arg0: self
 	arg1: text
 	arg2: x
@@ -64,12 +64,12 @@ SetToolTipText,		<cyfunction GrowthPetImage.SetToolTipText at 0x09784EA0>
 
 submodule.SetToolTipText
 Skipped: unbound method cython_function_or_method object must be called with GrowthPetImage instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction GrowthPetImage.OnMouseOverIn at 0x09784F50>
+OnMouseOverIn,		<cyfunction GrowthPetImage.OnMouseOverIn at 0x09914FA8>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with GrowthPetImage instance as first argument (got nothing instead)
-__init__,		<cyfunction GrowthPetImage.__init__ at 0x09784DF0>
+__init__,		<cyfunction GrowthPetImage.__init__ at 0x09914E48>
 	arg0: self
 
 submodule.__init__
@@ -82,7 +82,7 @@ FILE_DICT,		{0: 'd:/ymir work/ui/pattern/LovePoint/01.dds', 1: 'd:/ymir work/ui/
 submodule.FILE_DICT
 
 
-_LovePointImage__Refresh,		<cyfunction LovePointImage.__Refresh at 0x09784608>
+_LovePointImage__Refresh,		<cyfunction LovePointImage.__Refresh at 0x09914660>
 	arg0: self
 
 submodule._LovePointImage__Refresh
@@ -92,17 +92,17 @@ __module__,		uiAffectShower
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction LovePointImage.OnMouseOverOut at 0x097846B8>
+OnMouseOverOut,		<cyfunction LovePointImage.OnMouseOverOut at 0x09914710>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with LovePointImage instance as first argument (got nothing instead)
-__del__,		<cyfunction LovePointImage.__del__ at 0x09784500>
+__del__,		<cyfunction LovePointImage.__del__ at 0x09914558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with LovePointImage instance as first argument (got nothing instead)
-OnUpdateLovePoint,		<cyfunction LovePointImage.OnUpdateLovePoint at 0x097845B0>
+OnUpdateLovePoint,		<cyfunction LovePointImage.OnUpdateLovePoint at 0x09914608>
 	arg0: self
 	arg1: lovePoint
 
@@ -118,14 +118,14 @@ __qualname__,		LovePointImage
 submodule.__qualname__
 
 
-SetLoverInfo,		<cyfunction LovePointImage.SetLoverInfo at 0x09784558>
+SetLoverInfo,		<cyfunction LovePointImage.SetLoverInfo at 0x099145B0>
 	arg0: self
 	arg1: name
 	arg2: lovePoint
 
 submodule.SetLoverInfo
 Skipped: unbound method cython_function_or_method object must be called with LovePointImage instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction LovePointImage.OnMouseOverIn at 0x09784660>
+OnMouseOverIn,		<cyfunction LovePointImage.OnMouseOverIn at 0x099146B8>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -135,7 +135,7 @@ FILE_PATH,		d:/ymir work/ui/pattern/LovePoint/
 submodule.FILE_PATH
 
 
-__init__,		<cyfunction LovePointImage.__init__ at 0x097844A8>
+__init__,		<cyfunction LovePointImage.__init__ at 0x09914500>
 	arg0: self
 
 submodule.__init__
@@ -143,13 +143,13 @@ Skipped: unbound method cython_function_or_method object must be called with Lov
 
 
 class AffectImage:
-SetDescription,		<cyfunction AffectImage.SetDescription at 0x09797240>
+SetDescription,		<cyfunction AffectImage.SetDescription at 0x09924298>
 	arg0: self
 	arg1: description
 
 submodule.SetDescription
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-UpdateAutoPotionDescription,		<cyfunction AffectImage.UpdateAutoPotionDescription at 0x097972F0>
+UpdateAutoPotionDescription,		<cyfunction AffectImage.UpdateAutoPotionDescription at 0x09924348>
 	arg0: self
 
 submodule.UpdateAutoPotionDescription
@@ -159,22 +159,22 @@ __module__,		uiAffectShower
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction AffectImage.OnMouseOverOut at 0x09797660>
+OnMouseOverOut,		<cyfunction AffectImage.OnMouseOverOut at 0x099246B8>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-__del__,		<cyfunction AffectImage.__del__ at 0x09797088>
+__del__,		<cyfunction AffectImage.__del__ at 0x099240E0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-_AffectImage__UpdateDescription2,		<cyfunction AffectImage.__UpdateDescription2 at 0x097973F8>
+_AffectImage__UpdateDescription2,		<cyfunction AffectImage.__UpdateDescription2 at 0x09924450>
 	arg0: self
 
 submodule._AffectImage__UpdateDescription2
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-AddMultiLineDescription,		<cyfunction AffectImage.AddMultiLineDescription at 0x097974A8>
+AddMultiLineDescription,		<cyfunction AffectImage.AddMultiLineDescription at 0x09924500>
 	arg0: self
 	arg1: affect_type
 	arg2: affect_value
@@ -182,18 +182,18 @@ AddMultiLineDescription,		<cyfunction AffectImage.AddMultiLineDescription at 0x0
 
 submodule.AddMultiLineDescription
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-IsSkillAffect,		<cyfunction AffectImage.IsSkillAffect at 0x097975B0>
+IsSkillAffect,		<cyfunction AffectImage.IsSkillAffect at 0x09924608>
 	arg0: self
 
 submodule.IsSkillAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-SetAffect,		<cyfunction AffectImage.SetAffect at 0x097970E0>
+SetAffect,		<cyfunction AffectImage.SetAffect at 0x09924138>
 	arg0: self
 	arg1: affect
 
 submodule.SetAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-SetToolTipText,		<cyfunction AffectImage.SetToolTipText at 0x09797190>
+SetToolTipText,		<cyfunction AffectImage.SetToolTipText at 0x099241E8>
 	arg0: self
 	arg1: text
 	arg2: x
@@ -207,41 +207,41 @@ SetToolTipText,		<cyfunction AffectImage.SetToolTipText at 0x09797190>
 
 submodule.SetToolTipText
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-SetDuration,		<cyfunction AffectImage.SetDuration at 0x09797298>
+SetDuration,		<cyfunction AffectImage.SetDuration at 0x099242F0>
 	arg0: self
 	arg1: duration
 
 submodule.SetDuration
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-__init__,		<cyfunction AffectImage.__init__ at 0x09797030>
+__init__,		<cyfunction AffectImage.__init__ at 0x09924088>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-SetSkillAffectFlag,		<cyfunction AffectImage.SetSkillAffectFlag at 0x09797558>
+SetSkillAffectFlag,		<cyfunction AffectImage.SetSkillAffectFlag at 0x099245B0>
 	arg0: self
 	arg1: flag
 
 submodule.SetSkillAffectFlag
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-UpdateSetItemDescription,		<cyfunction AffectImage.UpdateSetItemDescription at 0x09797450>
+UpdateSetItemDescription,		<cyfunction AffectImage.UpdateSetItemDescription at 0x099244A8>
 	arg0: self
 	arg1: affect_type
 	default: 550
 
 submodule.UpdateSetItemDescription
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-UpdateMultiLineDescription,		<cyfunction AffectImage.UpdateMultiLineDescription at 0x09797500>
+UpdateMultiLineDescription,		<cyfunction AffectImage.UpdateMultiLineDescription at 0x09924558>
 	arg0: self
 
 submodule.UpdateMultiLineDescription
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-GetAffect,		<cyfunction AffectImage.GetAffect at 0x09797138>
+GetAffect,		<cyfunction AffectImage.GetAffect at 0x09924190>
 	arg0: self
 
 submodule.GetAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-GetDescription,		<cyfunction AffectImage.GetDescription at 0x097971E8>
+GetDescription,		<cyfunction AffectImage.GetDescription at 0x09924240>
 	arg0: self
 
 submodule.GetDescription
@@ -256,17 +256,17 @@ __qualname__,		AffectImage
 submodule.__qualname__
 
 
-UpdateDescription,		<cyfunction AffectImage.UpdateDescription at 0x097973A0>
+UpdateDescription,		<cyfunction AffectImage.UpdateDescription at 0x099243F8>
 	arg0: self
 
 submodule.UpdateDescription
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction AffectImage.OnMouseOverIn at 0x09797608>
+OnMouseOverIn,		<cyfunction AffectImage.OnMouseOverIn at 0x09924660>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with AffectImage instance as first argument (got nothing instead)
-SetClock,		<cyfunction AffectImage.SetClock at 0x09797348>
+SetClock,		<cyfunction AffectImage.SetClock at 0x099243A0>
 	arg0: self
 	arg1: isClocked
 
@@ -285,23 +285,23 @@ __module__,		uiAffectShower
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction HorseImage.OnMouseOverOut at 0x09784B30>
+OnMouseOverOut,		<cyfunction HorseImage.OnMouseOverOut at 0x09914B88>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with HorseImage instance as first argument (got nothing instead)
-__del__,		<cyfunction HorseImage.__del__ at 0x09784978>
+__del__,		<cyfunction HorseImage.__del__ at 0x099149D0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with HorseImage instance as first argument (got nothing instead)
-_HorseImage__GetHorseGrade,		<cyfunction HorseImage.__GetHorseGrade at 0x097849D0>
+_HorseImage__GetHorseGrade,		<cyfunction HorseImage.__GetHorseGrade at 0x09914A28>
 	arg0: self
 	arg1: level
 
 submodule._HorseImage__GetHorseGrade
 Skipped: unbound method cython_function_or_method object must be called with HorseImage instance as first argument (got nothing instead)
-_HorseImage__AppendText,		<cyfunction HorseImage.__AppendText at 0x09784A80>
+_HorseImage__AppendText,		<cyfunction HorseImage.__AppendText at 0x09914AD8>
 	arg0: self
 	arg1: text
 
@@ -317,7 +317,7 @@ __qualname__,		HorseImage
 submodule.__qualname__
 
 
-OnMouseOverIn,		<cyfunction HorseImage.OnMouseOverIn at 0x09784AD8>
+OnMouseOverIn,		<cyfunction HorseImage.OnMouseOverIn at 0x09914B30>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -327,12 +327,12 @@ FILE_PATH,		d:/ymir work/ui/pattern/HorseState/
 submodule.FILE_PATH
 
 
-__init__,		<cyfunction HorseImage.__init__ at 0x09784920>
+__init__,		<cyfunction HorseImage.__init__ at 0x09914978>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with HorseImage instance as first argument (got nothing instead)
-SetState,		<cyfunction HorseImage.SetState at 0x09784A28>
+SetState,		<cyfunction HorseImage.SetState at 0x09914A80>
 	arg0: self
 	arg1: level
 	arg2: health
@@ -348,7 +348,7 @@ MALL_DESC_IDX_START,		1000
 submodule.MALL_DESC_IDX_START
 
 
-ShowLoverState,		<cyfunction AffectShower.ShowLoverState at 0x09797A80>
+ShowLoverState,		<cyfunction AffectShower.ShowLoverState at 0x09924AD8>
 	arg0: self
 
 submodule.ShowLoverState
@@ -358,23 +358,23 @@ __module__,		uiAffectShower
 submodule.__module__
 
 
-ClearLoverState,		<cyfunction AffectShower.ClearLoverState at 0x09797B30>
+ClearLoverState,		<cyfunction AffectShower.ClearLoverState at 0x09924B88>
 	arg0: self
 
 submodule.ClearLoverState
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-OnUpdateLovePoint,		<cyfunction AffectShower.OnUpdateLovePoint at 0x09797B88>
+OnUpdateLovePoint,		<cyfunction AffectShower.OnUpdateLovePoint at 0x09924BE0>
 	arg0: self
 	arg1: lovePoint
 
 submodule.OnUpdateLovePoint
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-ClearAffects,		<cyfunction AffectShower.ClearAffects at 0x09797818>
+ClearAffects,		<cyfunction AffectShower.ClearAffects at 0x09924870>
 	arg0: self
 
 submodule.ClearAffects
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-__init__,		<cyfunction AffectShower.__init__ at 0x097976B8>
+__init__,		<cyfunction AffectShower.__init__ at 0x09924710>
 	arg0: self
 
 submodule.__init__
@@ -384,27 +384,27 @@ INFINITE_AFFECT_DURATION,		536870911
 submodule.INFINITE_AFFECT_DURATION
 
 
-SetPetSkillAffect,		<cyfunction AffectShower.SetPetSkillAffect at 0x09797E48>
+SetPetSkillAffect,		<cyfunction AffectShower.SetPetSkillAffect at 0x09924EA0>
 	arg0: self
 	arg1: index
 	arg2: affect
 
 submodule.SetPetSkillAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-ResetAffect,		<cyfunction AffectShower.ResetAffect at 0x097979D0>
+ResetAffect,		<cyfunction AffectShower.ResetAffect at 0x09924A28>
 	arg0: self
 	arg1: affect
 
 submodule.ResetAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-_AffectShower__AppendPetSkillAffect,		<cyfunction AffectShower.__AppendPetSkillAffect at 0x09797EF8>
+_AffectShower__AppendPetSkillAffect,		<cyfunction AffectShower.__AppendPetSkillAffect at 0x09924F50>
 	arg0: self
 	arg1: index
 	arg2: affect
 
 submodule._AffectShower__AppendPetSkillAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-SetHorseState,		<cyfunction AffectShower.SetHorseState at 0x09797C38>
+SetHorseState,		<cyfunction AffectShower.SetHorseState at 0x09924C90>
 	arg0: self
 	arg1: level
 	arg2: health
@@ -432,34 +432,34 @@ IMAGE_STEP,		25
 submodule.IMAGE_STEP
 
 
-HideLoverState,		<cyfunction AffectShower.HideLoverState at 0x09797AD8>
+HideLoverState,		<cyfunction AffectShower.HideLoverState at 0x09924B30>
 	arg0: self
 
 submodule.HideLoverState
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-__del__,		<cyfunction AffectShower.__del__ at 0x09797710>
+__del__,		<cyfunction AffectShower.__del__ at 0x09924768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-ClearPetSkillAffect,		<cyfunction AffectShower.ClearPetSkillAffect at 0x09797EA0>
+ClearPetSkillAffect,		<cyfunction AffectShower.ClearPetSkillAffect at 0x09924EF8>
 	arg0: self
 
 submodule.ClearPetSkillAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-_AffectShower__AppendAffect,		<cyfunction AffectShower.__AppendAffect at 0x09797CE8>
+_AffectShower__AppendAffect,		<cyfunction AffectShower.__AppendAffect at 0x09924D40>
 	arg0: self
 	arg1: affect
 
 submodule._AffectShower__AppendAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-SetAffect,		<cyfunction AffectShower.SetAffect at 0x09797978>
+SetAffect,		<cyfunction AffectShower.SetAffect at 0x099249D0>
 	arg0: self
 	arg1: affect
 
 submodule.SetAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-SetSungMaAffectImage,		<cyfunction AffectShower.SetSungMaAffectImage at 0x09797BE0>
+SetSungMaAffectImage,		<cyfunction AffectShower.SetSungMaAffectImage at 0x09924C38>
 	arg0: self
 	arg1: str
 	arg2: hp
@@ -473,7 +473,7 @@ _AffectShower__AFFECT_PASSIVE_JOB_DECK_DATA_SIZE,		3
 submodule._AffectShower__AFFECT_PASSIVE_JOB_DECK_DATA_SIZE
 
 
-BINARY_NEW_UpdateAffect,		<cyfunction AffectShower.BINARY_NEW_UpdateAffect at 0x09797920>
+BINARY_NEW_UpdateAffect,		<cyfunction AffectShower.BINARY_NEW_UpdateAffect at 0x09924978>
 	arg0: self
 	arg1: type
 	arg2: point_type
@@ -482,14 +482,14 @@ BINARY_NEW_UpdateAffect,		<cyfunction AffectShower.BINARY_NEW_UpdateAffect at 0x
 
 submodule.BINARY_NEW_UpdateAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-SetLoverInfo,		<cyfunction AffectShower.SetLoverInfo at 0x09797A28>
+SetLoverInfo,		<cyfunction AffectShower.SetLoverInfo at 0x09924A80>
 	arg0: self
 	arg1: name
 	arg2: lovePoint
 
 submodule.SetLoverInfo
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-BINARY_NEW_AddAffect,		<cyfunction AffectShower.BINARY_NEW_AddAffect at 0x09797870>
+BINARY_NEW_AddAffect,		<cyfunction AffectShower.BINARY_NEW_AddAffect at 0x099248C8>
 	arg0: self
 	arg1: type
 	arg2: pointIdx
@@ -498,22 +498,22 @@ BINARY_NEW_AddAffect,		<cyfunction AffectShower.BINARY_NEW_AddAffect at 0x097978
 
 submodule.BINARY_NEW_AddAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-ClearAllAffects,		<cyfunction AffectShower.ClearAllAffects at 0x097977C0>
+ClearAllAffects,		<cyfunction AffectShower.ClearAllAffects at 0x09924818>
 	arg0: self
 
 submodule.ClearAllAffects
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-SetItemAffectCheck,		<cyfunction AffectShower.SetItemAffectCheck at 0x09797768>
+SetItemAffectCheck,		<cyfunction AffectShower.SetItemAffectCheck at 0x099247C0>
 	arg0: self
 
 submodule.SetItemAffectCheck
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-_AffectShower__ArrangeImageList,		<cyfunction AffectShower.__ArrangeImageList at 0x09797D98>
+_AffectShower__ArrangeImageList,		<cyfunction AffectShower.__ArrangeImageList at 0x09924DF0>
 	arg0: self
 
 submodule._AffectShower__ArrangeImageList
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction AffectShower.OnUpdate at 0x09797DF0>
+OnUpdate,		<cyfunction AffectShower.OnUpdate at 0x09924E48>
 	arg0: self
 
 submodule.OnUpdate
@@ -528,20 +528,20 @@ __qualname__,		AffectShower
 submodule.__qualname__
 
 
-BINARY_NEW_RemoveAffect,		<cyfunction AffectShower.BINARY_NEW_RemoveAffect at 0x097978C8>
+BINARY_NEW_RemoveAffect,		<cyfunction AffectShower.BINARY_NEW_RemoveAffect at 0x09924920>
 	arg0: self
 	arg1: type
 	arg2: pointIdx
 
 submodule.BINARY_NEW_RemoveAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-_AffectShower__RemoveAffect,		<cyfunction AffectShower.__RemoveAffect at 0x09797D40>
+_AffectShower__RemoveAffect,		<cyfunction AffectShower.__RemoveAffect at 0x09924D98>
 	arg0: self
 	arg1: affect
 
 submodule._AffectShower__RemoveAffect
 Skipped: unbound method cython_function_or_method object must be called with AffectShower instance as first argument (got nothing instead)
-SetPlayTime,		<cyfunction AffectShower.SetPlayTime at 0x09797C90>
+SetPlayTime,		<cyfunction AffectShower.SetPlayTime at 0x09924CE8>
 	arg0: self
 	arg1: playTime
 
@@ -550,12 +550,12 @@ Skipped: unbound method cython_function_or_method object must be called with Aff
 
 
 class AutoPotionImage:
-OnUpdateAutoPotionImage,		<cyfunction AutoPotionImage.OnUpdateAutoPotionImage at 0x09784C90>
+OnUpdateAutoPotionImage,		<cyfunction AutoPotionImage.OnUpdateAutoPotionImage at 0x09914CE8>
 	arg0: self
 
 submodule.OnUpdateAutoPotionImage
 Skipped: unbound method cython_function_or_method object must be called with AutoPotionImage instance as first argument (got nothing instead)
-SetPotionType,		<cyfunction AutoPotionImage.SetPotionType at 0x09784C38>
+SetPotionType,		<cyfunction AutoPotionImage.SetPotionType at 0x09914C90>
 	arg0: self
 	arg1: type
 
@@ -566,12 +566,12 @@ __module__,		uiAffectShower
 submodule.__module__
 
 
-_AutoPotionImage__Refresh,		<cyfunction AutoPotionImage.__Refresh at 0x09784CE8>
+_AutoPotionImage__Refresh,		<cyfunction AutoPotionImage.__Refresh at 0x09914D40>
 	arg0: self
 
 submodule._AutoPotionImage__Refresh
 Skipped: unbound method cython_function_or_method object must be called with AutoPotionImage instance as first argument (got nothing instead)
-__del__,		<cyfunction AutoPotionImage.__del__ at 0x09784BE0>
+__del__,		<cyfunction AutoPotionImage.__del__ at 0x09914C38>
 	arg0: self
 
 submodule.__del__
@@ -586,12 +586,12 @@ FILE_PATH_SP,		d:/ymir work/ui/pattern/auto_spgauge/
 submodule.FILE_PATH_SP
 
 
-OnMouseOverOut,		<cyfunction AutoPotionImage.OnMouseOverOut at 0x09784D98>
+OnMouseOverOut,		<cyfunction AutoPotionImage.OnMouseOverOut at 0x09914DF0>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with AutoPotionImage instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction AutoPotionImage.OnMouseOverIn at 0x09784D40>
+OnMouseOverIn,		<cyfunction AutoPotionImage.OnMouseOverIn at 0x09914D98>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -601,7 +601,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction AutoPotionImage.__init__ at 0x09784B88>
+__init__,		<cyfunction AutoPotionImage.__init__ at 0x09914BE0>
 	arg0: self
 
 submodule.__init__
@@ -619,7 +619,7 @@ __module__,		uiAffectShower
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction SungMaAffectImage.OnMouseOverOut at 0x097848C8>
+OnMouseOverOut,		<cyfunction SungMaAffectImage.OnMouseOverOut at 0x09914920>
 	arg0: self
 
 submodule.OnMouseOverOut
@@ -629,12 +629,12 @@ TITLE_COLOR,		-923968
 submodule.TITLE_COLOR
 
 
-__del__,		<cyfunction SungMaAffectImage.__del__ at 0x09784768>
+__del__,		<cyfunction SungMaAffectImage.__del__ at 0x099147C0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SungMaAffectImage instance as first argument (got nothing instead)
-SetSungmaValue,		<cyfunction SungMaAffectImage.SetSungmaValue at 0x097847C0>
+SetSungmaValue,		<cyfunction SungMaAffectImage.SetSungmaValue at 0x09914818>
 	arg0: self
 	arg1: str
 	arg2: hp
@@ -643,7 +643,7 @@ SetSungmaValue,		<cyfunction SungMaAffectImage.SetSungmaValue at 0x097847C0>
 
 submodule.SetSungmaValue
 Skipped: unbound method cython_function_or_method object must be called with SungMaAffectImage instance as first argument (got nothing instead)
-Refresh,		<cyfunction SungMaAffectImage.Refresh at 0x09784870>
+Refresh,		<cyfunction SungMaAffectImage.Refresh at 0x099148C8>
 	arg0: self
 
 submodule.Refresh
@@ -653,7 +653,7 @@ __qualname__,		SungMaAffectImage
 submodule.__qualname__
 
 
-OnMouseOverIn,		<cyfunction SungMaAffectImage.OnMouseOverIn at 0x09784818>
+OnMouseOverIn,		<cyfunction SungMaAffectImage.OnMouseOverIn at 0x09914870>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -663,7 +663,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction SungMaAffectImage.__init__ at 0x09784710>
+__init__,		<cyfunction SungMaAffectImage.__init__ at 0x09914768>
 	arg0: self
 	arg1: str
 	arg2: hp

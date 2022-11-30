@@ -17,7 +17,7 @@ key: PetSkillToolTip, val: <class 'uiToolTip.PetSkillToolTip'>
 key: skill, val: <module 'skill' (built-in)>
 key: SUNGMA_STONE_DATA_MAX_LENGTH, val: 6
 key: LEADERSHIP_TANKER_BASE_VALUE, val: 50
-key: chop, val: <cyfunction chop at 0x0980C710>
+key: chop, val: <cyfunction chop at 0x0999C768>
 key: constInfo, val: <module 'constInfo' (built-in)>
 key: grp, val: <module 'grp' (built-in)>
 key: LEADERSHIP_TANKER_ADJUSTMENT_VALUE, val: 1120
@@ -42,7 +42,7 @@ key: SkillToolTip, val: <class 'uiToolTip.SkillToolTip'>
 key: WARP_SCROLLS, val: [22011, 22000, 22010]
 key: exchange, val: <module 'exchange' (built-in)>
 key: __builtins__, val: <module '__builtin__' (built-in)>
-key: SplitDescription, val: <cyfunction SplitDescription at 0x0980C768>
+key: SplitDescription, val: <cyfunction SplitDescription at 0x0999C7C0>
 key: LEADERSHIP_BERSERKER_BASE_VALUE, val: 1
 key: INSIGHT_TANKER_ADJUSTMENT_VALUE, val: 520
 key: __test__, val: {}
@@ -81,7 +81,7 @@ __module__,		uiToolTip
 submodule.__module__
 
 
-SetPetSkill,		<cyfunction PetSkillToolTip.SetPetSkill at 0x09811710>
+SetPetSkill,		<cyfunction PetSkillToolTip.SetPetSkill at 0x099A1768>
 	arg0: self
 	arg1: pet_id
 	arg2: slot
@@ -89,26 +89,26 @@ SetPetSkill,		<cyfunction PetSkillToolTip.SetPetSkill at 0x09811710>
 
 submodule.SetPetSkill
 Skipped: unbound method cython_function_or_method object must be called with PetSkillToolTip instance as first argument (got nothing instead)
-_PetSkillToolTip__AppendNextLevel,		<cyfunction PetSkillToolTip.__AppendNextLevel at 0x09811978>
+_PetSkillToolTip__AppendNextLevel,		<cyfunction PetSkillToolTip.__AppendNextLevel at 0x099A19D0>
 	arg0: self
 	arg1: curLevel
 	arg2: maxLevel
 
 submodule._PetSkillToolTip__AppendNextLevel
 Skipped: unbound method cython_function_or_method object must be called with PetSkillToolTip instance as first argument (got nothing instead)
-__del__,		<cyfunction PetSkillToolTip.__del__ at 0x098116B8>
+__del__,		<cyfunction PetSkillToolTip.__del__ at 0x099A1710>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PetSkillToolTip instance as first argument (got nothing instead)
-_PetSkillToolTip__PassiveSkillExceptionDecsriptionValueChange,		<cyfunction PetSkillToolTip.__PassiveSkillExceptionDecsriptionValueChange at 0x09811768>
+_PetSkillToolTip__PassiveSkillExceptionDecsriptionValueChange,		<cyfunction PetSkillToolTip.__PassiveSkillExceptionDecsriptionValueChange at 0x099A17C0>
 	arg0: self
 	arg1: pet_skill_vnum
 	arg2: value
 
 submodule._PetSkillToolTip__PassiveSkillExceptionDecsriptionValueChange
 Skipped: unbound method cython_function_or_method object must be called with PetSkillToolTip instance as first argument (got nothing instead)
-_PetSkillToolTip__AppendPassiveSkill,		<cyfunction PetSkillToolTip.__AppendPassiveSkill at 0x098117C0>
+_PetSkillToolTip__AppendPassiveSkill,		<cyfunction PetSkillToolTip.__AppendPassiveSkill at 0x099A1818>
 	arg0: self
 	arg1: pet_skill_vnum
 	arg2: value
@@ -116,7 +116,7 @@ _PetSkillToolTip__AppendPassiveSkill,		<cyfunction PetSkillToolTip.__AppendPassi
 
 submodule._PetSkillToolTip__AppendPassiveSkill
 Skipped: unbound method cython_function_or_method object must be called with PetSkillToolTip instance as first argument (got nothing instead)
-_PetSkillToolTip__AppendRemainsTime,		<cyfunction PetSkillToolTip.__AppendRemainsTime at 0x098118C8>
+_PetSkillToolTip__AppendRemainsTime,		<cyfunction PetSkillToolTip.__AppendRemainsTime at 0x099A1920>
 	arg0: self
 
 submodule._PetSkillToolTip__AppendRemainsTime
@@ -126,7 +126,7 @@ __qualname__,		PetSkillToolTip
 submodule.__qualname__
 
 
-_PetSkillToolTip__AppendAutoSkill,		<cyfunction PetSkillToolTip.__AppendAutoSkill at 0x09811818>
+_PetSkillToolTip__AppendAutoSkill,		<cyfunction PetSkillToolTip.__AppendAutoSkill at 0x099A1870>
 	arg0: self
 	arg1: pet_skill_vnum
 	arg2: value1
@@ -135,14 +135,14 @@ _PetSkillToolTip__AppendAutoSkill,		<cyfunction PetSkillToolTip.__AppendAutoSkil
 
 submodule._PetSkillToolTip__AppendAutoSkill
 Skipped: unbound method cython_function_or_method object must be called with PetSkillToolTip instance as first argument (got nothing instead)
-_PetSkillToolTip__AppendCoolTime,		<cyfunction PetSkillToolTip.__AppendCoolTime at 0x09811920>
+_PetSkillToolTip__AppendCoolTime,		<cyfunction PetSkillToolTip.__AppendCoolTime at 0x099A1978>
 	arg0: self
 	arg1: pet_skill_cool_time
 	arg2: color
 
 submodule._PetSkillToolTip__AppendCoolTime
 Skipped: unbound method cython_function_or_method object must be called with PetSkillToolTip instance as first argument (got nothing instead)
-_PetSkillToolTip__AppendAutoDamageSkill,		<cyfunction PetSkillToolTip.__AppendAutoDamageSkill at 0x09811870>
+_PetSkillToolTip__AppendAutoDamageSkill,		<cyfunction PetSkillToolTip.__AppendAutoDamageSkill at 0x099A18C8>
 	arg0: self
 	arg1: pet_skill_vnum
 	arg2: value1
@@ -158,7 +158,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction PetSkillToolTip.__init__ at 0x09811660>
+__init__,		<cyfunction PetSkillToolTip.__init__ at 0x099A16B8>
 	arg0: self
 
 submodule.__init__
@@ -166,28 +166,28 @@ Skipped: unbound method cython_function_or_method object must be called with Pet
 
 
 class HyperlinkItemToolTip:
-OnUpdate,		<cyfunction HyperlinkItemToolTip.OnUpdate at 0x09810D40>
+OnUpdate,		<cyfunction HyperlinkItemToolTip.OnUpdate at 0x0999FD98>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with HyperlinkItemToolTip instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction HyperlinkItemToolTip.OnMouseLeftButtonDown at 0x09810D98>
+OnMouseLeftButtonDown,		<cyfunction HyperlinkItemToolTip.OnMouseLeftButtonDown at 0x0999FDF0>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with HyperlinkItemToolTip instance as first argument (got nothing instead)
-SetHyperlinkPetItem,		<cyfunction HyperlinkItemToolTip.SetHyperlinkPetItem at 0x09810CE8>
+SetHyperlinkPetItem,		<cyfunction HyperlinkItemToolTip.SetHyperlinkPetItem at 0x0999FD40>
 	arg0: self
 	arg1: tokens
 
 submodule.SetHyperlinkPetItem
 Skipped: unbound method cython_function_or_method object must be called with HyperlinkItemToolTip instance as first argument (got nothing instead)
-__del__,		<cyfunction HyperlinkItemToolTip.__del__ at 0x09810C38>
+__del__,		<cyfunction HyperlinkItemToolTip.__del__ at 0x0999FC90>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with HyperlinkItemToolTip instance as first argument (got nothing instead)
-SetHyperlinkItem,		<cyfunction HyperlinkItemToolTip.SetHyperlinkItem at 0x09810C90>
+SetHyperlinkItem,		<cyfunction HyperlinkItemToolTip.SetHyperlinkItem at 0x0999FCE8>
 	arg0: self
 	arg1: tokens
 
@@ -208,7 +208,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction HyperlinkItemToolTip.__init__ at 0x09810BE0>
+__init__,		<cyfunction HyperlinkItemToolTip.__init__ at 0x0999FC38>
 	arg0: self
 
 submodule.__init__
@@ -216,7 +216,7 @@ Skipped: unbound method cython_function_or_method object must be called with Hyp
 
 
 class ItemToolTip:
-AddRefineItemData,		<cyfunction ItemToolTip.AddRefineItemData at 0x0980F4A8>
+AddRefineItemData,		<cyfunction ItemToolTip.AddRefineItemData at 0x0999E500>
 	arg0: self
 	arg1: item_vnum
 	arg2: sockets
@@ -234,7 +234,7 @@ AddRefineItemData,		<cyfunction ItemToolTip.AddRefineItemData at 0x0980F4A8>
 
 submodule.AddRefineItemData
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__SoulItemToolTip,		<cyfunction ItemToolTip.__SoulItemToolTip at 0x0980F5B0>
+_ItemToolTip__SoulItemToolTip,		<cyfunction ItemToolTip.__SoulItemToolTip at 0x0999E608>
 	arg0: self
 	arg1: itemVnum
 	arg2: metinSlot
@@ -242,7 +242,7 @@ _ItemToolTip__SoulItemToolTip,		<cyfunction ItemToolTip.__SoulItemToolTip at 0x0
 
 submodule._ItemToolTip__SoulItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetExchangeTargetItem,		<cyfunction ItemToolTip.SetExchangeTargetItem at 0x0980E8C8>
+SetExchangeTargetItem,		<cyfunction ItemToolTip.SetExchangeTargetItem at 0x0999D920>
 	arg0: self
 	arg1: slotIndex
 
@@ -258,14 +258,14 @@ FONT_COLOR,		-4079167
 submodule.FONT_COLOR
 
 
-AppendBuyLimitLevel,		<cyfunction ItemToolTip.AppendBuyLimitLevel at 0x09810500>
+AppendBuyLimitLevel,		<cyfunction ItemToolTip.AppendBuyLimitLevel at 0x0999F558>
 	arg0: self
 	arg1: coin_type
 	arg2: limit_level
 
 submodule.AppendBuyLimitLevel
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetChangeLookWindowItem,		<cyfunction ItemToolTip.SetChangeLookWindowItem at 0x0980E9D0>
+SetChangeLookWindowItem,		<cyfunction ItemToolTip.SetChangeLookWindowItem at 0x0999DA28>
 	arg0: self
 	arg1: slotIndex
 
@@ -276,24 +276,24 @@ REFINE_ELEMENT_INDEX_VALUE,		2
 submodule.REFINE_ELEMENT_INDEX_VALUE
 
 
-AppendWearableInformation,		<cyfunction ItemToolTip.AppendWearableInformation at 0x09810298>
+AppendWearableInformation,		<cyfunction ItemToolTip.AppendWearableInformation at 0x0999F2F0>
 	arg0: self
 
 submodule.AppendWearableInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetExchangeOwnerItem,		<cyfunction ItemToolTip.SetExchangeOwnerItem at 0x0980E870>
+SetExchangeOwnerItem,		<cyfunction ItemToolTip.SetExchangeOwnerItem at 0x0999D8C8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetExchangeOwnerItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAttribute6th7thPossibility,		<cyfunction ItemToolTip.__AppendAttribute6th7thPossibility at 0x0980F088>
+_ItemToolTip__AppendAttribute6th7thPossibility,		<cyfunction ItemToolTip.__AppendAttribute6th7thPossibility at 0x0999E0E0>
 	arg0: self
 	arg1: attrSlot
 
 submodule._ItemToolTip__AppendAttribute6th7thPossibility
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAttributeInformation,		<cyfunction ItemToolTip.__AppendAttributeInformation at 0x0980EFA8>
+_ItemToolTip__AppendAttributeInformation,		<cyfunction ItemToolTip.__AppendAttributeInformation at 0x0999E030>
 	arg0: self
 	arg1: attrSlot
 
@@ -304,13 +304,13 @@ REFINE_ELEMENT_INDEX_APPLY_TYPE,		0
 submodule.REFINE_ELEMENT_INDEX_APPLY_TYPE
 
 
-_ItemToolTip__IsHair,		<cyfunction ItemToolTip.__IsHair at 0x0980F978>
+_ItemToolTip__IsHair,		<cyfunction ItemToolTip.__IsHair at 0x0999E9D0>
 	arg0: self
 	arg1: itemVnum
 
 submodule._ItemToolTip__IsHair
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendPassiveJobInformation,		<cyfunction ItemToolTip.__AppendPassiveJobInformation at 0x09810AD8>
+_ItemToolTip__AppendPassiveJobInformation,		<cyfunction ItemToolTip.__AppendPassiveJobInformation at 0x0999FB30>
 	arg0: self
 	arg1: item_vnum
 	arg2: sockets
@@ -319,7 +319,7 @@ _ItemToolTip__AppendPassiveJobInformation,		<cyfunction ItemToolTip.__AppendPass
 
 submodule._ItemToolTip__AppendPassiveJobInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAccessoryMetinSlotInfo,		<cyfunction ItemToolTip.__AppendAccessoryMetinSlotInfo at 0x09810768>
+_ItemToolTip__AppendAccessoryMetinSlotInfo,		<cyfunction ItemToolTip.__AppendAccessoryMetinSlotInfo at 0x0999F7C0>
 	arg0: self
 	arg1: metin_slot
 	arg2: mtrl_vnum
@@ -328,7 +328,7 @@ _ItemToolTip__AppendAccessoryMetinSlotInfo,		<cyfunction ItemToolTip.__AppendAcc
 
 submodule._ItemToolTip__AppendAccessoryMetinSlotInfo
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAuraItemAffectInformation,		<cyfunction ItemToolTip.__AppendAuraItemAffectInformation at 0x09810138>
+_ItemToolTip__AppendAuraItemAffectInformation,		<cyfunction ItemToolTip.__AppendAuraItemAffectInformation at 0x0999F190>
 	arg0: self
 	arg1: ori_item_vnum
 	arg2: window_type
@@ -338,53 +338,53 @@ _ItemToolTip__AppendAuraItemAffectInformation,		<cyfunction ItemToolTip.__Append
 
 submodule._ItemToolTip__AppendAuraItemAffectInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetQuestItemToolTip,		<cyfunction ItemToolTip.SetQuestItemToolTip at 0x0980EBE0>
+SetQuestItemToolTip,		<cyfunction ItemToolTip.SetQuestItemToolTip at 0x0999DC38>
 	arg0: self
 	arg1: item_vnum
 
 submodule.SetQuestItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendSoulItemLastTime,		<cyfunction ItemToolTip.AppendSoulItemLastTime at 0x0980F608>
+AppendSoulItemLastTime,		<cyfunction ItemToolTip.AppendSoulItemLastTime at 0x0999E660>
 	arg0: self
 	arg1: endTime
 
 submodule.AppendSoulItemLastTime
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetPetReviveResultItem,		<cyfunction ItemToolTip.SetPetReviveResultItem at 0x0980ECE8>
+SetPetReviveResultItem,		<cyfunction ItemToolTip.SetPetReviveResultItem at 0x0999DD40>
 	arg0: self
 	arg1: slotIndex
 	arg2: new_age
 
 submodule.SetPetReviveResultItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendRefineElementInformation,		<cyfunction ItemToolTip.__AppendRefineElementInformation at 0x0980EEF8>
+_ItemToolTip__AppendRefineElementInformation,		<cyfunction ItemToolTip.__AppendRefineElementInformation at 0x0999DF50>
 	arg0: self
 	arg1: refine_element
 
 submodule._ItemToolTip__AppendRefineElementInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__SetNormalItemTitle,		<cyfunction ItemToolTip.__SetNormalItemTitle at 0x0980F240>
+_ItemToolTip__SetNormalItemTitle,		<cyfunction ItemToolTip.__SetNormalItemTitle at 0x0999E298>
 	arg0: self
 	arg1: set_value
 	default: 0
 
 submodule._ItemToolTip__SetNormalItemTitle
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__GetDragonSoulAttributeColor,		<cyfunction ItemToolTip.__GetDragonSoulAttributeColor at 0x0980F0E0>
+_ItemToolTip__GetDragonSoulAttributeColor,		<cyfunction ItemToolTip.__GetDragonSoulAttributeColor at 0x0999E138>
 	arg0: self
 	arg1: index
 	arg2: value
 
 submodule._ItemToolTip__GetDragonSoulAttributeColor
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAttackPowerInfo,		<cyfunction ItemToolTip.__AppendAttackPowerInfo at 0x0980ED98>
+_ItemToolTip__AppendAttackPowerInfo,		<cyfunction ItemToolTip.__AppendAttackPowerInfo at 0x0999DDF0>
 	arg0: self
 	arg1: sockets
 	arg2: refine_element
 
 submodule._ItemToolTip__AppendAttackPowerInfo
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__SetItemTitle,		<cyfunction ItemToolTip.__SetItemTitle at 0x0980F2F0>
+_ItemToolTip__SetItemTitle,		<cyfunction ItemToolTip.__SetItemTitle at 0x0999E348>
 	arg0: self
 	arg1: itemVnum
 	arg2: metinSlot
@@ -394,7 +394,7 @@ _ItemToolTip__SetItemTitle,		<cyfunction ItemToolTip.__SetItemTitle at 0x0980F2F
 
 submodule._ItemToolTip__SetItemTitle
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendPetEggItemInformation,		<cyfunction ItemToolTip.__AppendPetEggItemInformation at 0x0980F7C0>
+_ItemToolTip__AppendPetEggItemInformation,		<cyfunction ItemToolTip.__AppendPetEggItemInformation at 0x0999E818>
 	arg0: self
 	arg1: metinSlot
 	arg2: isFeedWindow
@@ -402,38 +402,38 @@ _ItemToolTip__AppendPetEggItemInformation,		<cyfunction ItemToolTip.__AppendPetE
 
 submodule._ItemToolTip__AppendPetEggItemInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-BindInterface,		<cyfunction ItemToolTip.BindInterface at 0x0980E190>
+BindInterface,		<cyfunction ItemToolTip.BindInterface at 0x0999D1E8>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendPrivateSearchItemicon,		<cyfunction ItemToolTip.__AppendPrivateSearchItemicon at 0x0980FB30>
+_ItemToolTip__AppendPrivateSearchItemicon,		<cyfunction ItemToolTip.__AppendPrivateSearchItemicon at 0x0999EB88>
 	arg0: self
 	arg1: itemVnum
 
 submodule._ItemToolTip__AppendPrivateSearchItemicon
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__GetAffectString,		<cyfunction ItemToolTip.__GetAffectString at 0x0980FFA8>
+_ItemToolTip__GetAffectString,		<cyfunction ItemToolTip.__GetAffectString at 0x0999F030>
 	arg0: self
 	arg1: affectType
 	arg2: affectValue
 
 submodule._ItemToolTip__GetAffectString
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetGuildBankItem,		<cyfunction ItemToolTip.SetGuildBankItem at 0x0980E710>
+SetGuildBankItem,		<cyfunction ItemToolTip.SetGuildBankItem at 0x0999D768>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetGuildBankItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__IsOldHair,		<cyfunction ItemToolTip.__IsOldHair at 0x0980F9D0>
+_ItemToolTip__IsOldHair,		<cyfunction ItemToolTip.__IsOldHair at 0x0999EA28>
 	arg0: self
 	arg1: itemVnum
 
 submodule._ItemToolTip__IsOldHair
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendFishInfo,		<cyfunction ItemToolTip.__AppendFishInfo at 0x098108C8>
+_ItemToolTip__AppendFishInfo,		<cyfunction ItemToolTip.__AppendFishInfo at 0x0999F920>
 	arg0: self
 	arg1: size
 
@@ -444,14 +444,14 @@ __qualname__,		ItemToolTip
 submodule.__qualname__
 
 
-_ItemToolTip__AppendRefineElementText,		<cyfunction ItemToolTip.__AppendRefineElementText at 0x0980F450>
+_ItemToolTip__AppendRefineElementText,		<cyfunction ItemToolTip.__AppendRefineElementText at 0x0999E4A8>
 	arg0: self
 	arg1: refine_element
 	default: None
 
 submodule._ItemToolTip__AppendRefineElementText
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-GetMetinSocketType,		<cyfunction ItemToolTip.GetMetinSocketType at 0x098106B8>
+GetMetinSocketType,		<cyfunction ItemToolTip.GetMetinSocketType at 0x0999F710>
 	arg0: self
 	arg1: number
 
@@ -462,7 +462,7 @@ __module__,		uiToolTip
 submodule.__module__
 
 
-_ItemToolTip__AppendRodInformation,		<cyfunction ItemToolTip.__AppendRodInformation at 0x0980FE48>
+_ItemToolTip__AppendRodInformation,		<cyfunction ItemToolTip.__AppendRodInformation at 0x0999EEA0>
 	arg0: self
 	arg1: curLevel
 	arg2: curEXP
@@ -470,43 +470,43 @@ _ItemToolTip__AppendRodInformation,		<cyfunction ItemToolTip.__AppendRodInformat
 
 submodule._ItemToolTip__AppendRodInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-GetPriceColor,		<cyfunction ItemToolTip.GetPriceColor at 0x098103A0>
+GetPriceColor,		<cyfunction ItemToolTip.GetPriceColor at 0x0999F3F8>
 	arg0: self
 	arg1: price
 
 submodule.GetPriceColor
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetShopItem,		<cyfunction ItemToolTip.SetShopItem at 0x0980E7C0>
+SetShopItem,		<cyfunction ItemToolTip.SetShopItem at 0x0999D818>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetShopItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__GetEvolName,		<cyfunction ItemToolTip.__GetEvolName at 0x0980F710>
+_ItemToolTip__GetEvolName,		<cyfunction ItemToolTip.__GetEvolName at 0x0999E768>
 	arg0: self
 	arg1: evol_level
 
 submodule._ItemToolTip__GetEvolName
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__IsAttr,		<cyfunction ItemToolTip.__IsAttr at 0x0980F348>
+_ItemToolTip__IsAttr,		<cyfunction ItemToolTip.__IsAttr at 0x0999E3A0>
 	arg0: self
 	arg1: attrSlot
 
 submodule._ItemToolTip__IsAttr
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetSafeBoxItem,		<cyfunction ItemToolTip.SetSafeBoxItem at 0x0980EAD8>
+SetSafeBoxItem,		<cyfunction ItemToolTip.SetSafeBoxItem at 0x0999DB30>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetSafeBoxItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetAttendanceRewardItem,		<cyfunction ItemToolTip.SetAttendanceRewardItem at 0x0980EC38>
+SetAttendanceRewardItem,		<cyfunction ItemToolTip.SetAttendanceRewardItem at 0x0999DC90>
 	arg0: self
 	arg1: itemVnum
 
 submodule.SetAttendanceRewardItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetResulItemAttrMove,		<cyfunction ItemToolTip.SetResulItemAttrMove at 0x0980E558>
+SetResulItemAttrMove,		<cyfunction ItemToolTip.SetResulItemAttrMove at 0x0999D5B0>
 	arg0: self
 	arg1: baseSlotIndex
 	arg2: materialSlotIndex
@@ -515,7 +515,7 @@ SetResulItemAttrMove,		<cyfunction ItemToolTip.SetResulItemAttrMove at 0x0980E55
 
 submodule.SetResulItemAttrMove
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendPrice,		<cyfunction ItemToolTip.AppendPrice at 0x098104A8>
+AppendPrice,		<cyfunction ItemToolTip.AppendPrice at 0x0999F500>
 	arg0: self
 	arg1: price
 	arg2: cheque
@@ -523,13 +523,13 @@ AppendPrice,		<cyfunction ItemToolTip.AppendPrice at 0x098104A8>
 
 submodule.AppendPrice
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendChangeLookInfoShopWIndow,		<cyfunction ItemToolTip.AppendChangeLookInfoShopWIndow at 0x0980E6B8>
+AppendChangeLookInfoShopWIndow,		<cyfunction ItemToolTip.AppendChangeLookInfoShopWIndow at 0x0999D710>
 	arg0: self
 	arg1: slotIndex
 
 submodule.AppendChangeLookInfoShopWIndow
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAttendanceRewardItemicon,		<cyfunction ItemToolTip.__AppendAttendanceRewardItemicon at 0x0980FB88>
+_ItemToolTip__AppendAttendanceRewardItemicon,		<cyfunction ItemToolTip.__AppendAttendanceRewardItemicon at 0x0999EBE0>
 	arg0: self
 	arg1: itemVnum
 
@@ -540,12 +540,12 @@ REFINE_ELEMENT_BONUS_COLOR,		-7751539
 submodule.REFINE_ELEMENT_BONUS_COLOR
 
 
-AppendMetinWearInformation,		<cyfunction ItemToolTip.AppendMetinWearInformation at 0x09810660>
+AppendMetinWearInformation,		<cyfunction ItemToolTip.AppendMetinWearInformation at 0x0999F6B8>
 	arg0: self
 
 submodule.AppendMetinWearInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAttributeInformationAcce,		<cyfunction ItemToolTip.__AppendAttributeInformationAcce at 0x0980EEA0>
+_ItemToolTip__AppendAttributeInformationAcce,		<cyfunction ItemToolTip.__AppendAttributeInformationAcce at 0x0999DEF8>
 	arg0: self
 	arg1: itemVnum
 	arg2: attrSlot
@@ -555,42 +555,42 @@ _ItemToolTip__AppendAttributeInformationAcce,		<cyfunction ItemToolTip.__AppendA
 
 submodule._ItemToolTip__AppendAttributeInformationAcce
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-RefreshShopToolTip,		<cyfunction ItemToolTip.RefreshShopToolTip at 0x09810450>
+RefreshShopToolTip,		<cyfunction ItemToolTip.RefreshShopToolTip at 0x0999F4A8>
 	arg0: self
 
 submodule.RefreshShopToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetAuraWindowItem,		<cyfunction ItemToolTip.SetAuraWindowItem at 0x0980EA80>
+SetAuraWindowItem,		<cyfunction ItemToolTip.SetAuraWindowItem at 0x0999DAD8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetAuraWindowItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendPetPayItemInformation,		<cyfunction ItemToolTip.__AppendPetPayItemInformation at 0x0980F8C8>
+_ItemToolTip__AppendPetPayItemInformation,		<cyfunction ItemToolTip.__AppendPetPayItemInformation at 0x0999E920>
 	arg0: self
 	arg1: metinSlot
 
 submodule._ItemToolTip__AppendPetPayItemInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetMallItem,		<cyfunction ItemToolTip.SetMallItem at 0x0980EB30>
+SetMallItem,		<cyfunction ItemToolTip.SetMallItem at 0x0999DB88>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetMallItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AdjustDescMaxWidth,		<cyfunction ItemToolTip.__AdjustDescMaxWidth at 0x0980FD40>
+_ItemToolTip__AdjustDescMaxWidth,		<cyfunction ItemToolTip.__AdjustDescMaxWidth at 0x0999ED98>
 	arg0: self
 	arg1: desc
 
 submodule._ItemToolTip__AdjustDescMaxWidth
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetAcceWindowItem,		<cyfunction ItemToolTip.SetAcceWindowItem at 0x0980EA28>
+SetAcceWindowItem,		<cyfunction ItemToolTip.SetAcceWindowItem at 0x0999DA80>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetAcceWindowItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendTextLine,		<cyfunction ItemToolTip.AppendTextLine at 0x0980E3A0>
+AppendTextLine,		<cyfunction ItemToolTip.AppendTextLine at 0x0999D3F8>
 	arg0: self
 	arg1: text
 	arg2: color
@@ -600,14 +600,14 @@ AppendTextLine,		<cyfunction ItemToolTip.AppendTextLine at 0x0980E3A0>
 
 submodule.AppendTextLine
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendChangeLookInfoExchangeWIndow,		<cyfunction ItemToolTip.AppendChangeLookInfoExchangeWIndow at 0x0980E920>
+AppendChangeLookInfoExchangeWIndow,		<cyfunction ItemToolTip.AppendChangeLookInfoExchangeWIndow at 0x0999D978>
 	arg0: self
 	arg1: type
 	arg2: slotIndex
 
 submodule.AppendChangeLookInfoExchangeWIndow
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendMetinSlotInfo_AppendMetinSocketData,		<cyfunction ItemToolTip.__AppendMetinSlotInfo_AppendMetinSocketData at 0x09810870>
+_ItemToolTip__AppendMetinSlotInfo_AppendMetinSocketData,		<cyfunction ItemToolTip.__AppendMetinSlotInfo_AppendMetinSocketData at 0x0999F8C8>
 	arg0: self
 	arg1: index
 	arg2: metinSlotData
@@ -622,20 +622,20 @@ _ItemToolTip__AppendMetinSlotInfo_AppendMetinSocketData,		<cyfunction ItemToolTi
 
 submodule._ItemToolTip__AppendMetinSlotInfo_AppendMetinSocketData
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetShopItemBySecondaryCoin,		<cyfunction ItemToolTip.SetShopItemBySecondaryCoin at 0x0980E818>
+SetShopItemBySecondaryCoin,		<cyfunction ItemToolTip.SetShopItemBySecondaryCoin at 0x0999D870>
 	arg0: self
 	arg1: slotIndex
 	arg2: cointype
 
 submodule.SetShopItemBySecondaryCoin
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendChangeLookInfoPrivateShopWIndow,		<cyfunction ItemToolTip.AppendChangeLookInfoPrivateShopWIndow at 0x0980E660>
+AppendChangeLookInfoPrivateShopWIndow,		<cyfunction ItemToolTip.AppendChangeLookInfoPrivateShopWIndow at 0x0999D6B8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.AppendChangeLookInfoPrivateShopWIndow
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendTextLineAcce,		<cyfunction ItemToolTip.AppendTextLineAcce at 0x0980E348>
+AppendTextLineAcce,		<cyfunction ItemToolTip.AppendTextLineAcce at 0x0999D3A0>
 	arg0: self
 	arg1: text
 	arg2: color
@@ -645,20 +645,20 @@ AppendTextLineAcce,		<cyfunction ItemToolTip.AppendTextLineAcce at 0x0980E348>
 
 submodule.AppendTextLineAcce
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendChangeLookInformation,		<cyfunction ItemToolTip.AppendChangeLookInformation at 0x09810240>
+AppendChangeLookInformation,		<cyfunction ItemToolTip.AppendChangeLookInformation at 0x0999F298>
 	arg0: self
 	arg1: window_type
 	arg2: slotIndex
 
 submodule.AppendChangeLookInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-GetRefineElement,		<cyfunction ItemToolTip.GetRefineElement at 0x0980E4A8>
+GetRefineElement,		<cyfunction ItemToolTip.GetRefineElement at 0x0999D500>
 	arg0: self
 	arg1: real_refine_element
 
 submodule.GetRefineElement
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AddHyperLinkPetItemData,		<cyfunction ItemToolTip.AddHyperLinkPetItemData at 0x0980F558>
+AddHyperLinkPetItemData,		<cyfunction ItemToolTip.AddHyperLinkPetItemData at 0x0999E5B0>
 	arg0: self
 	arg1: itemVnum
 	arg2: metinSlot
@@ -667,12 +667,12 @@ AddHyperLinkPetItemData,		<cyfunction ItemToolTip.AddHyperLinkPetItemData at 0x0
 
 submodule.AddHyperLinkPetItemData
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__CalculateToolTipWidth,		<cyfunction ItemToolTip.__CalculateToolTipWidth at 0x0980F6B8>
+_ItemToolTip__CalculateToolTipWidth,		<cyfunction ItemToolTip.__CalculateToolTipWidth at 0x0999E710>
 	arg0: self
 
 submodule._ItemToolTip__CalculateToolTipWidth
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendDragonSoulAttributeInformation,		<cyfunction ItemToolTip.__AppendDragonSoulAttributeInformation at 0x0980F030>
+_ItemToolTip__AppendDragonSoulAttributeInformation,		<cyfunction ItemToolTip.__AppendDragonSoulAttributeInformation at 0x0999E088>
 	arg0: self
 	arg1: attrSlot
 	arg2: dsType
@@ -682,7 +682,7 @@ _ItemToolTip__AppendDragonSoulAttributeInformation,		<cyfunction ItemToolTip.__A
 
 submodule._ItemToolTip__AppendDragonSoulAttributeInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAcceItemAffectInformation,		<cyfunction ItemToolTip.__AppendAcceItemAffectInformation at 0x09810030>
+_ItemToolTip__AppendAcceItemAffectInformation,		<cyfunction ItemToolTip.__AppendAcceItemAffectInformation at 0x0999F088>
 	arg0: self
 	arg1: oriitemVnum
 	arg2: window_type
@@ -693,13 +693,13 @@ _ItemToolTip__AppendAcceItemAffectInformation,		<cyfunction ItemToolTip.__Append
 
 submodule._ItemToolTip__AppendAcceItemAffectInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__IsPolymorphItem,		<cyfunction ItemToolTip.__IsPolymorphItem at 0x0980F190>
+_ItemToolTip__IsPolymorphItem,		<cyfunction ItemToolTip.__IsPolymorphItem at 0x0999E1E8>
 	arg0: self
 	arg1: itemVnum
 
 submodule._ItemToolTip__IsPolymorphItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendSellingPrice,		<cyfunction ItemToolTip.AppendSellingPrice at 0x098105B0>
+AppendSellingPrice,		<cyfunction ItemToolTip.AppendSellingPrice at 0x0999F608>
 	arg0: self
 	arg1: price
 	arg2: cheque
@@ -709,7 +709,7 @@ AppendSellingPrice,		<cyfunction ItemToolTip.AppendSellingPrice at 0x098105B0>
 
 submodule.AppendSellingPrice
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAbilityPotionInformation,		<cyfunction ItemToolTip.__AppendAbilityPotionInformation at 0x09810348>
+_ItemToolTip__AppendAbilityPotionInformation,		<cyfunction ItemToolTip.__AppendAbilityPotionInformation at 0x0999F3A0>
 	arg0: self
 
 submodule._ItemToolTip__AppendAbilityPotionInformation
@@ -719,7 +719,7 @@ REFINE_ELEMENT_INDEX_GRADE,		1
 submodule.REFINE_ELEMENT_INDEX_GRADE
 
 
-SetPrivateShopBuilderItem,		<cyfunction ItemToolTip.SetPrivateShopBuilderItem at 0x0980E978>
+SetPrivateShopBuilderItem,		<cyfunction ItemToolTip.SetPrivateShopBuilderItem at 0x0999D9D0>
 	arg0: self
 	arg1: invenType
 	arg2: invenPos
@@ -727,12 +727,12 @@ SetPrivateShopBuilderItem,		<cyfunction ItemToolTip.SetPrivateShopBuilderItem at
 
 submodule.SetPrivateShopBuilderItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendMagicDefenceInfo,		<cyfunction ItemToolTip.__AppendMagicDefenceInfo at 0x0980EE48>
+_ItemToolTip__AppendMagicDefenceInfo,		<cyfunction ItemToolTip.__AppendMagicDefenceInfo at 0x0999DEA0>
 	arg0: self
 
 submodule._ItemToolTip__AppendMagicDefenceInfo
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAffectInformationAura,		<cyfunction ItemToolTip.__AppendAffectInformationAura at 0x098100E0>
+_ItemToolTip__AppendAffectInformationAura,		<cyfunction ItemToolTip.__AppendAffectInformationAura at 0x0999F138>
 	arg0: self
 	arg1: slotIndex
 	arg2: window_type
@@ -740,13 +740,13 @@ _ItemToolTip__AppendAffectInformationAura,		<cyfunction ItemToolTip.__AppendAffe
 
 submodule._ItemToolTip__AppendAffectInformationAura
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__SetPolymorphItemTitle,		<cyfunction ItemToolTip.__SetPolymorphItemTitle at 0x0980F1E8>
+_ItemToolTip__SetPolymorphItemTitle,		<cyfunction ItemToolTip.__SetPolymorphItemTitle at 0x0999E240>
 	arg0: self
 	arg1: monsterVnum
 
 submodule._ItemToolTip__SetPolymorphItemTitle
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__SetSkillBookToolTip,		<cyfunction ItemToolTip.__SetSkillBookToolTip at 0x0980FD98>
+_ItemToolTip__SetSkillBookToolTip,		<cyfunction ItemToolTip.__SetSkillBookToolTip at 0x0999EDF0>
 	arg0: self
 	arg1: skillIndex
 	arg2: bookName
@@ -754,13 +754,13 @@ _ItemToolTip__SetSkillBookToolTip,		<cyfunction ItemToolTip.__SetSkillBookToolTi
 
 submodule._ItemToolTip__SetSkillBookToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__IsNewHair3,		<cyfunction ItemToolTip.__IsNewHair3 at 0x0980FAD8>
+_ItemToolTip__IsNewHair3,		<cyfunction ItemToolTip.__IsNewHair3 at 0x0999EB30>
 	arg0: self
 	arg1: itemVnum
 
 submodule._ItemToolTip__IsNewHair3
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__IsNewHair2,		<cyfunction ItemToolTip.__IsNewHair2 at 0x0980FA80>
+_ItemToolTip__IsNewHair2,		<cyfunction ItemToolTip.__IsNewHair2 at 0x0999EAD8>
 	arg0: self
 	arg1: itemVnum
 
@@ -771,27 +771,27 @@ REFINE_ELEMENT_COLOR_DICT,		{99: 4280530920L, 100: 4292692027L, 101: 4282215647L
 submodule.REFINE_ELEMENT_COLOR_DICT
 
 
-GetRefineElementCell,		<cyfunction ItemToolTip.GetRefineElementCell at 0x0980E450>
+GetRefineElementCell,		<cyfunction ItemToolTip.GetRefineElementCell at 0x0999D4A8>
 	arg0: self
 	arg1: window_type
 	arg2: slot_index
 
 submodule.GetRefineElementCell
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__GetAttributeColor,		<cyfunction ItemToolTip.__GetAttributeColor at 0x0980F138>
+_ItemToolTip__GetAttributeColor,		<cyfunction ItemToolTip.__GetAttributeColor at 0x0999E190>
 	arg0: self
 	arg1: index
 	arg2: value
 
 submodule._ItemToolTip__GetAttributeColor
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendHairIcon,		<cyfunction ItemToolTip.__AppendHairIcon at 0x0980FC38>
+_ItemToolTip__AppendHairIcon,		<cyfunction ItemToolTip.__AppendHairIcon at 0x0999EC90>
 	arg0: self
 	arg1: itemVnum
 
 submodule._ItemToolTip__AppendHairIcon
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetPremiumPrivateShopItem,		<cyfunction ItemToolTip.SetPremiumPrivateShopItem at 0x0980E768>
+SetPremiumPrivateShopItem,		<cyfunction ItemToolTip.SetPremiumPrivateShopItem at 0x0999D7C0>
 	arg0: self
 	arg1: slot_index
 
@@ -802,7 +802,7 @@ __doc__,		None
 submodule.__doc__
 
 
-AppendRealTimeStartFirstUseLastTime,		<cyfunction ItemToolTip.AppendRealTimeStartFirstUseLastTime at 0x09810A28>
+AppendRealTimeStartFirstUseLastTime,		<cyfunction ItemToolTip.AppendRealTimeStartFirstUseLastTime at 0x0999FA80>
 	arg0: self
 	arg1: item
 	arg2: metinSlot
@@ -810,38 +810,38 @@ AppendRealTimeStartFirstUseLastTime,		<cyfunction ItemToolTip.AppendRealTimeStar
 
 submodule.AppendRealTimeStartFirstUseLastTime
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendPetItemLastTime,		<cyfunction ItemToolTip.AppendPetItemLastTime at 0x0980F870>
+AppendPetItemLastTime,		<cyfunction ItemToolTip.AppendPetItemLastTime at 0x0999E8C8>
 	arg0: self
 	arg1: endTime
 
 submodule.AppendPetItemLastTime
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendMetinSlotInfo_IsEmptySlotList,		<cyfunction ItemToolTip.__AppendMetinSlotInfo_IsEmptySlotList at 0x09810818>
+_ItemToolTip__AppendMetinSlotInfo_IsEmptySlotList,		<cyfunction ItemToolTip.__AppendMetinSlotInfo_IsEmptySlotList at 0x0999F870>
 	arg0: self
 	arg1: metinSlot
 
 submodule._ItemToolTip__AppendMetinSlotInfo_IsEmptySlotList
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__GetRefineElementText,		<cyfunction ItemToolTip.__GetRefineElementText at 0x0980F3A0>
+_ItemToolTip__GetRefineElementText,		<cyfunction ItemToolTip.__GetRefineElementText at 0x0999E3F8>
 	arg0: self
 	arg1: apply_type
 	arg2: grade
 
 submodule._ItemToolTip__GetRefineElementText
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-__del__,		<cyfunction ItemToolTip.__del__ at 0x0980E138>
+__del__,		<cyfunction ItemToolTip.__del__ at 0x0999D190>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AdjustMaxWidth,		<cyfunction ItemToolTip.__AdjustMaxWidth at 0x0980FC90>
+_ItemToolTip__AdjustMaxWidth,		<cyfunction ItemToolTip.__AdjustMaxWidth at 0x0999ECE8>
 	arg0: self
 	arg1: attrSlot
 	arg2: desc
 
 submodule._ItemToolTip__AdjustMaxWidth
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendUpBringingPetItemInfomation,		<cyfunction ItemToolTip.__AppendUpBringingPetItemInfomation at 0x0980F818>
+_ItemToolTip__AppendUpBringingPetItemInfomation,		<cyfunction ItemToolTip.__AppendUpBringingPetItemInfomation at 0x0999E870>
 	arg0: self
 	arg1: metinSlot
 	arg2: new_age
@@ -849,37 +849,37 @@ _ItemToolTip__AppendUpBringingPetItemInfomation,		<cyfunction ItemToolTip.__Appe
 
 submodule._ItemToolTip__AppendUpBringingPetItemInfomation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__IsNewHair,		<cyfunction ItemToolTip.__IsNewHair at 0x0980FA28>
+_ItemToolTip__IsNewHair,		<cyfunction ItemToolTip.__IsNewHair at 0x0999EA80>
 	arg0: self
 	arg1: itemVnum
 
 submodule._ItemToolTip__IsNewHair
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetMailBoxItem,		<cyfunction ItemToolTip.SetMailBoxItem at 0x0980EC90>
+SetMailBoxItem,		<cyfunction ItemToolTip.SetMailBoxItem at 0x0999DCE8>
 	arg0: self
 	arg1: index
 
 submodule.SetMailBoxItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-ClearToolTip,		<cyfunction ItemToolTip.ClearToolTip at 0x0980E3F8>
+ClearToolTip,		<cyfunction ItemToolTip.ClearToolTip at 0x0999D450>
 	arg0: self
 
 submodule.ClearToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendLimitedCount,		<cyfunction ItemToolTip.AppendLimitedCount at 0x098103F8>
+AppendLimitedCount,		<cyfunction ItemToolTip.AppendLimitedCount at 0x0999F450>
 	arg0: self
 	arg1: count
 	arg2: purchaseCount
 
 submodule.AppendLimitedCount
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendTimerBasedOnWearLastTime,		<cyfunction ItemToolTip.AppendTimerBasedOnWearLastTime at 0x098109D0>
+AppendTimerBasedOnWearLastTime,		<cyfunction ItemToolTip.AppendTimerBasedOnWearLastTime at 0x0999FA28>
 	arg0: self
 	arg1: metinSlot
 
 submodule.AppendTimerBasedOnWearLastTime
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetItemPriceTextTooltip,		<cyfunction ItemToolTip.SetItemPriceTextTooltip at 0x0980E1E8>
+SetItemPriceTextTooltip,		<cyfunction ItemToolTip.SetItemPriceTextTooltip at 0x0999D240>
 	arg0: self
 	arg1: enable
 
@@ -890,31 +890,31 @@ ANTI_FLAG_DICT,		{0: 4, 1: 8, 2: 16, 3: 32, 4: 262144}
 submodule.ANTI_FLAG_DICT
 
 
-AppendChangeLookInfoItemVnum,		<cyfunction ItemToolTip.AppendChangeLookInfoItemVnum at 0x0980E608>
+AppendChangeLookInfoItemVnum,		<cyfunction ItemToolTip.AppendChangeLookInfoItemVnum at 0x0999D660>
 	arg0: self
 	arg1: changelookvnum
 
 submodule.AppendChangeLookInfoItemVnum
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendUniqueItemLastTime,		<cyfunction ItemToolTip.AppendUniqueItemLastTime at 0x09810920>
+AppendUniqueItemLastTime,		<cyfunction ItemToolTip.AppendUniqueItemLastTime at 0x0999F978>
 	arg0: self
 	arg1: restMin
 
 submodule.AppendUniqueItemLastTime
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendMetinSlotInfo,		<cyfunction ItemToolTip.__AppendMetinSlotInfo at 0x098107C0>
+_ItemToolTip__AppendMetinSlotInfo,		<cyfunction ItemToolTip.__AppendMetinSlotInfo at 0x0999F818>
 	arg0: self
 	arg1: metinSlot
 
 submodule._ItemToolTip__AppendMetinSlotInfo
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendMonsterCardItemIcon,		<cyfunction ItemToolTip.__AppendMonsterCardItemIcon at 0x0980FBE0>
+_ItemToolTip__AppendMonsterCardItemIcon,		<cyfunction ItemToolTip.__AppendMonsterCardItemIcon at 0x0999EC38>
 	arg0: self
 	arg1: mobVnum
 
 submodule._ItemToolTip__AppendMonsterCardItemIcon
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendRefineElementInformationAcce,		<cyfunction ItemToolTip.__AppendRefineElementInformationAcce at 0x0980EF50>
+_ItemToolTip__AppendRefineElementInformationAcce,		<cyfunction ItemToolTip.__AppendRefineElementInformationAcce at 0x0999DFA8>
 	arg0: self
 	arg1: window_type
 	arg2: slotIndex
@@ -923,38 +923,38 @@ _ItemToolTip__AppendRefineElementInformationAcce,		<cyfunction ItemToolTip.__App
 
 submodule._ItemToolTip__AppendRefineElementInformationAcce
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendSealInformation,		<cyfunction ItemToolTip.__AppendSealInformation at 0x0980FEF8>
+_ItemToolTip__AppendSealInformation,		<cyfunction ItemToolTip.__AppendSealInformation at 0x0999EF50>
 	arg0: self
 	arg1: window_type
 	arg2: slotIndex
 
 submodule._ItemToolTip__AppendSealInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAttackSpeedInfo,		<cyfunction ItemToolTip.__AppendAttackSpeedInfo at 0x0980ED40>
+_ItemToolTip__AppendAttackSpeedInfo,		<cyfunction ItemToolTip.__AppendAttackSpeedInfo at 0x0999DD98>
 	arg0: self
 	arg1: item
 
 submodule._ItemToolTip__AppendAttackSpeedInfo
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-GetAffectString,		<cyfunction ItemToolTip.GetAffectString at 0x0980FF50>
+GetAffectString,		<cyfunction ItemToolTip.GetAffectString at 0x0999EFA8>
 	arg0: self
 	arg1: affectType
 	arg2: affectValue
 
 submodule.GetAffectString
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__DragonSoulInfoString,		<cyfunction ItemToolTip.__DragonSoulInfoString at 0x0980F920>
+_ItemToolTip__DragonSoulInfoString,		<cyfunction ItemToolTip.__DragonSoulInfoString at 0x0999E978>
 	arg0: self
 	arg1: dwVnum
 
 submodule._ItemToolTip__DragonSoulInfoString
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendLimitInformation,		<cyfunction ItemToolTip.__AppendLimitInformation at 0x0980FEA0>
+_ItemToolTip__AppendLimitInformation,		<cyfunction ItemToolTip.__AppendLimitInformation at 0x0999EEF8>
 	arg0: self
 
 submodule._ItemToolTip__AppendLimitInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AddItemData,		<cyfunction ItemToolTip.AddItemData at 0x0980F660>
+AddItemData,		<cyfunction ItemToolTip.AddItemData at 0x0999E6B8>
 	arg0: self
 	arg1: itemVnum
 	arg2: metinSlot
@@ -979,18 +979,18 @@ AddItemData,		<cyfunction ItemToolTip.AddItemData at 0x0980F660>
 
 submodule.AddItemData
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-__init__,		<cyfunction ItemToolTip.__init__ at 0x0980E0E0>
+__init__,		<cyfunction ItemToolTip.__init__ at 0x0999D138>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendPetBagItemInfomation,		<cyfunction ItemToolTip.__AppendPetBagItemInfomation at 0x0980F768>
+_ItemToolTip__AppendPetBagItemInfomation,		<cyfunction ItemToolTip.__AppendPetBagItemInfomation at 0x0999E7C0>
 	arg0: self
 	arg1: metinSlot
 
 submodule._ItemToolTip__AppendPetBagItemInfomation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetCannotUseItemForceSetDisableColor,		<cyfunction ItemToolTip.SetCannotUseItemForceSetDisableColor at 0x0980E240>
+SetCannotUseItemForceSetDisableColor,		<cyfunction ItemToolTip.SetCannotUseItemForceSetDisableColor at 0x0999D298>
 	arg0: self
 	arg1: enable
 
@@ -1001,7 +1001,7 @@ REFINE_ELEMENT_INDEX_MAX,		4
 submodule.REFINE_ELEMENT_INDEX_MAX
 
 
-_ItemToolTip__GetRefineElementValueText,		<cyfunction ItemToolTip.__GetRefineElementValueText at 0x0980F3F8>
+_ItemToolTip__GetRefineElementValueText,		<cyfunction ItemToolTip.__GetRefineElementValueText at 0x0999E450>
 	arg0: self
 	arg1: apply_type
 	arg2: min_value
@@ -1010,43 +1010,43 @@ _ItemToolTip__GetRefineElementValueText,		<cyfunction ItemToolTip.__GetRefineEle
 
 submodule._ItemToolTip__GetRefineElementValueText
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-GetMetinItemIndex,		<cyfunction ItemToolTip.GetMetinItemIndex at 0x09810710>
+GetMetinItemIndex,		<cyfunction ItemToolTip.GetMetinItemIndex at 0x0999F768>
 	arg0: self
 	arg1: number
 
 submodule.GetMetinItemIndex
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendMetinInformation,		<cyfunction ItemToolTip.AppendMetinInformation at 0x09810608>
+AppendMetinInformation,		<cyfunction ItemToolTip.AppendMetinInformation at 0x0999F660>
 	arg0: self
 
 submodule.AppendMetinInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendDefaultItemApplyInformation,		<cyfunction ItemToolTip.__AppendDefaultItemApplyInformation at 0x098101E8>
+_ItemToolTip__AppendDefaultItemApplyInformation,		<cyfunction ItemToolTip.__AppendDefaultItemApplyInformation at 0x0999F240>
 	arg0: self
 	arg1: apply_random_list
 
 submodule._ItemToolTip__AppendDefaultItemApplyInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendRealTimeToolTip,		<cyfunction ItemToolTip.__AppendRealTimeToolTip at 0x09810A80>
+_ItemToolTip__AppendRealTimeToolTip,		<cyfunction ItemToolTip.__AppendRealTimeToolTip at 0x0999FAD8>
 	arg0: self
 	arg1: itemVnum
 	arg2: endTime
 
 submodule._ItemToolTip__AppendRealTimeToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-CanEquip,		<cyfunction ItemToolTip.CanEquip at 0x0980E298>
+CanEquip,		<cyfunction ItemToolTip.CanEquip at 0x0999D2F0>
 	arg0: self
 
 submodule.CanEquip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__SetSpecialItemTitle,		<cyfunction ItemToolTip.__SetSpecialItemTitle at 0x0980F298>
+_ItemToolTip__SetSpecialItemTitle,		<cyfunction ItemToolTip.__SetSpecialItemTitle at 0x0999E2F0>
 	arg0: self
 	arg1: set_value
 	default: 0
 
 submodule._ItemToolTip__SetSpecialItemTitle
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetInventoryItem,		<cyfunction ItemToolTip.SetInventoryItem at 0x0980E500>
+SetInventoryItem,		<cyfunction ItemToolTip.SetInventoryItem at 0x0999D558>
 	arg0: self
 	arg1: slotIndex
 	arg2: window_type
@@ -1054,12 +1054,12 @@ SetInventoryItem,		<cyfunction ItemToolTip.SetInventoryItem at 0x0980E500>
 
 submodule.SetInventoryItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendPotionInformation,		<cyfunction ItemToolTip.__AppendPotionInformation at 0x098102F0>
+_ItemToolTip__AppendPotionInformation,		<cyfunction ItemToolTip.__AppendPotionInformation at 0x0999F348>
 	arg0: self
 
 submodule._ItemToolTip__AppendPotionInformation
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendPickInformation,		<cyfunction ItemToolTip.__AppendPickInformation at 0x0980FDF0>
+_ItemToolTip__AppendPickInformation,		<cyfunction ItemToolTip.__AppendPickInformation at 0x0999EE48>
 	arg0: self
 	arg1: curLevel
 	arg2: curEXP
@@ -1072,7 +1072,7 @@ ATTRIBUTE_NEED_WIDTH,		{35: 210, 36: 210, 37: 210, 38: 210, 39: 210, 40: 210, 41
 submodule.ATTRIBUTE_NEED_WIDTH
 
 
-AddItemData_Offline,		<cyfunction ItemToolTip.AddItemData_Offline at 0x0980F500>
+AddItemData_Offline,		<cyfunction ItemToolTip.AddItemData_Offline at 0x0999E558>
 	arg0: self
 	arg1: itemVnum
 	arg2: itemDesc
@@ -1082,7 +1082,7 @@ AddItemData_Offline,		<cyfunction ItemToolTip.AddItemData_Offline at 0x0980F500>
 
 submodule.AddItemData_Offline
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAttributeInformationAura,		<cyfunction ItemToolTip.__AppendAttributeInformationAura at 0x09810190>
+_ItemToolTip__AppendAttributeInformationAura,		<cyfunction ItemToolTip.__AppendAttributeInformationAura at 0x0999F1E8>
 	arg0: self
 	arg1: itemVnum
 	arg2: attrSlot
@@ -1092,13 +1092,13 @@ _ItemToolTip__AppendAttributeInformationAura,		<cyfunction ItemToolTip.__AppendA
 
 submodule._ItemToolTip__AppendAttributeInformationAura
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetPrivateSearchItem,		<cyfunction ItemToolTip.SetPrivateSearchItem at 0x0980E5B0>
+SetPrivateSearchItem,		<cyfunction ItemToolTip.SetPrivateSearchItem at 0x0999D608>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetPrivateSearchItem
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__GetSungmaStoneDataByIndex,		<cyfunction ItemToolTip.__GetSungmaStoneDataByIndex at 0x09810B88>
+_ItemToolTip__GetSungmaStoneDataByIndex,		<cyfunction ItemToolTip.__GetSungmaStoneDataByIndex at 0x0999FBE0>
 	arg0: self
 	arg1: index
 	arg2: metin_slot
@@ -1106,25 +1106,25 @@ _ItemToolTip__GetSungmaStoneDataByIndex,		<cyfunction ItemToolTip.__GetSungmaSto
 
 submodule._ItemToolTip__GetSungmaStoneDataByIndex
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendMallItemLastTime,		<cyfunction ItemToolTip.AppendMallItemLastTime at 0x09810978>
+AppendMallItemLastTime,		<cyfunction ItemToolTip.AppendMallItemLastTime at 0x0999F9D0>
 	arg0: self
 	arg1: endTime
 
 submodule.AppendMallItemLastTime
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction ItemToolTip.SetItemToolTip at 0x0980EB88>
+SetItemToolTip,		<cyfunction ItemToolTip.SetItemToolTip at 0x0999DBE0>
 	arg0: self
 	arg1: itemVnum
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendGloveMetinSlotInfo,		<cyfunction ItemToolTip.__AppendGloveMetinSlotInfo at 0x09810B30>
+_ItemToolTip__AppendGloveMetinSlotInfo,		<cyfunction ItemToolTip.__AppendGloveMetinSlotInfo at 0x0999FB88>
 	arg0: self
 	arg1: metin_slot
 
 submodule._ItemToolTip__AppendGloveMetinSlotInfo
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendTextLineDontCheckColor,		<cyfunction ItemToolTip.AppendTextLineDontCheckColor at 0x0980E2F0>
+AppendTextLineDontCheckColor,		<cyfunction ItemToolTip.AppendTextLineDontCheckColor at 0x0999D348>
 	arg0: self
 	arg1: text
 	arg2: color
@@ -1139,20 +1139,20 @@ REFINE_ELEMENT_TITLE_TEXT_GAP,		10
 submodule.REFINE_ELEMENT_TITLE_TEXT_GAP
 
 
-_ItemToolTip__AdjustAttrMaxWidth,		<cyfunction ItemToolTip.__AdjustAttrMaxWidth at 0x0980FCE8>
+_ItemToolTip__AdjustAttrMaxWidth,		<cyfunction ItemToolTip.__AdjustAttrMaxWidth at 0x0999ED40>
 	arg0: self
 	arg1: attrSlot
 
 submodule._ItemToolTip__AdjustAttrMaxWidth
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-AppendPriceBySecondaryCoin,		<cyfunction ItemToolTip.AppendPriceBySecondaryCoin at 0x09810558>
+AppendPriceBySecondaryCoin,		<cyfunction ItemToolTip.AppendPriceBySecondaryCoin at 0x0999F5B0>
 	arg0: self
 	arg1: price
 	arg2: coinType
 
 submodule.AppendPriceBySecondaryCoin
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTip instance as first argument (got nothing instead)
-_ItemToolTip__AppendAffectInformationAcce,		<cyfunction ItemToolTip.__AppendAffectInformationAcce at 0x09810088>
+_ItemToolTip__AppendAffectInformationAcce,		<cyfunction ItemToolTip.__AppendAffectInformationAcce at 0x0999F0E0>
 	arg0: self
 	arg1: slotIndex
 	arg2: window_type
@@ -1165,7 +1165,7 @@ APPLY_RANDOM_TEXT_COLOR,		4286248660
 submodule.APPLY_RANDOM_TEXT_COLOR
 
 
-_ItemToolTip__AppendMagicAttackInfo,		<cyfunction ItemToolTip.__AppendMagicAttackInfo at 0x0980EDF0>
+_ItemToolTip__AppendMagicAttackInfo,		<cyfunction ItemToolTip.__AppendMagicAttackInfo at 0x0999DE48>
 	arg0: self
 	arg1: sockets
 
@@ -1179,14 +1179,14 @@ __module__,		uiToolTip
 submodule.__module__
 
 
-_SkillToolTip__AppendRoleProficiencySkillData,		<cyfunction SkillToolTip.__AppendRoleProficiencySkillData at 0x098115B0>
+_SkillToolTip__AppendRoleProficiencySkillData,		<cyfunction SkillToolTip.__AppendRoleProficiencySkillData at 0x099A1608>
 	arg0: self
 	arg1: skill_grade
 	arg2: skill_level
 
 submodule._SkillToolTip__AppendRoleProficiencySkillData
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-SetSkill,		<cyfunction SkillToolTip.SetSkill at 0x09810EA0>
+SetSkill,		<cyfunction SkillToolTip.SetSkill at 0x0999FEF8>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillLevel
@@ -1194,7 +1194,7 @@ SetSkill,		<cyfunction SkillToolTip.SetSkill at 0x09810EA0>
 
 submodule.SetSkill
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendSkillLevelDescriptionNew,		<cyfunction SkillToolTip.AppendSkillLevelDescriptionNew at 0x09811298>
+AppendSkillLevelDescriptionNew,		<cyfunction SkillToolTip.AppendSkillLevelDescriptionNew at 0x099A12F0>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillPercentage
@@ -1217,19 +1217,19 @@ PARTY_SKILL_EXPERIENCE_AFFECT_LIST,		((2, 2, 10), (8, 3, 20), (14, 4, 30), (22, 
 submodule.PARTY_SKILL_EXPERIENCE_AFFECT_LIST
 
 
-__init__,		<cyfunction SkillToolTip.__init__ at 0x09810DF0>
+__init__,		<cyfunction SkillToolTip.__init__ at 0x0999FE48>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-_SkillToolTip__AppendSkillGradeName,		<cyfunction SkillToolTip.__AppendSkillGradeName at 0x09810FA8>
+_SkillToolTip__AppendSkillGradeName,		<cyfunction SkillToolTip.__AppendSkillGradeName at 0x099A1030>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillGrade
 
 submodule._SkillToolTip__AppendSkillGradeName
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendSkillConditionData,		<cyfunction SkillToolTip.AppendSkillConditionData at 0x09811190>
+AppendSkillConditionData,		<cyfunction SkillToolTip.AppendSkillConditionData at 0x099A11E8>
 	arg0: self
 	arg1: skillIndex
 
@@ -1240,28 +1240,28 @@ AFFECT_APPEND_TEXT_DICT,		{'DODGE': '%', 'RESIST_NORMAL': '%', 'REFLECT_MELEE': 
 submodule.AFFECT_APPEND_TEXT_DICT
 
 
-AppendSkillRequirement,		<cyfunction SkillToolTip.AppendSkillRequirement at 0x098112F0>
+AppendSkillRequirement,		<cyfunction SkillToolTip.AppendSkillRequirement at 0x099A1348>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillLevel
 
 submodule.AppendSkillRequirement
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-_SkillToolTip__SetSkillTitle,		<cyfunction SkillToolTip.__SetSkillTitle at 0x09810F50>
+_SkillToolTip__SetSkillTitle,		<cyfunction SkillToolTip.__SetSkillTitle at 0x0999FFA8>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillGrade
 
 submodule._SkillToolTip__SetSkillTitle
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-HasSkillLevelDescription,		<cyfunction SkillToolTip.HasSkillLevelDescription at 0x09811348>
+HasSkillLevelDescription,		<cyfunction SkillToolTip.HasSkillLevelDescription at 0x099A13A0>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillLevel
 
 submodule.HasSkillLevelDescription
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendSkillDataNew,		<cyfunction SkillToolTip.AppendSkillDataNew at 0x09811240>
+AppendSkillDataNew,		<cyfunction SkillToolTip.AppendSkillDataNew at 0x099A1298>
 	arg0: self
 	arg1: slotIndex
 	arg2: skillIndex
@@ -1272,7 +1272,7 @@ AppendSkillDataNew,		<cyfunction SkillToolTip.AppendSkillDataNew at 0x09811240>
 
 submodule.AppendSkillDataNew
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendMasterAffectDescription,		<cyfunction SkillToolTip.AppendMasterAffectDescription at 0x098113A0>
+AppendMasterAffectDescription,		<cyfunction SkillToolTip.AppendMasterAffectDescription at 0x099A13F8>
 	arg0: self
 	arg1: index
 	arg2: desc
@@ -1280,7 +1280,7 @@ AppendMasterAffectDescription,		<cyfunction SkillToolTip.AppendMasterAffectDescr
 
 submodule.AppendMasterAffectDescription
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendNeedSP,		<cyfunction SkillToolTip.AppendNeedSP at 0x098114A8>
+AppendNeedSP,		<cyfunction SkillToolTip.AppendNeedSP at 0x099A1500>
 	arg0: self
 	arg1: needSP
 	arg2: continuationSP
@@ -1288,7 +1288,7 @@ AppendNeedSP,		<cyfunction SkillToolTip.AppendNeedSP at 0x098114A8>
 
 submodule.AppendNeedSP
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-SetSkillOnlyName,		<cyfunction SkillToolTip.SetSkillOnlyName at 0x09811030>
+SetSkillOnlyName,		<cyfunction SkillToolTip.SetSkillOnlyName at 0x099A1088>
 	arg0: self
 	arg1: slotIndex
 	arg2: skillIndex
@@ -1306,12 +1306,12 @@ PARTY_SKILL_TOOL_TIP_WIDTH,		340
 submodule.PARTY_SKILL_TOOL_TIP_WIDTH
 
 
-__del__,		<cyfunction SkillToolTip.__del__ at 0x09810E48>
+__del__,		<cyfunction SkillToolTip.__del__ at 0x0999FEA0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendTextLine,		<cyfunction SkillToolTip.AppendTextLine at 0x09811088>
+AppendTextLine,		<cyfunction SkillToolTip.AppendTextLine at 0x099A10E0>
 	arg0: self
 	arg1: text
 	arg2: color
@@ -1326,14 +1326,14 @@ SKILL_TOOL_TIP_WIDTH,		200
 submodule.SKILL_TOOL_TIP_WIDTH
 
 
-_SkillToolTip__AppendLeaderShipSkillData,		<cyfunction SkillToolTip.__AppendLeaderShipSkillData at 0x09811500>
+_SkillToolTip__AppendLeaderShipSkillData,		<cyfunction SkillToolTip.__AppendLeaderShipSkillData at 0x099A1558>
 	arg0: self
 	arg1: skill_grade
 	arg2: skill_level
 
 submodule._SkillToolTip__AppendLeaderShipSkillData
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendNeedHP,		<cyfunction SkillToolTip.AppendNeedHP at 0x09811450>
+AppendNeedHP,		<cyfunction SkillToolTip.AppendNeedHP at 0x099A14A8>
 	arg0: self
 	arg1: needSP
 	arg2: continuationSP
@@ -1341,14 +1341,14 @@ AppendNeedHP,		<cyfunction SkillToolTip.AppendNeedHP at 0x09811450>
 
 submodule.AppendNeedHP
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendGuildSkillData,		<cyfunction SkillToolTip.AppendGuildSkillData at 0x098111E8>
+AppendGuildSkillData,		<cyfunction SkillToolTip.AppendGuildSkillData at 0x099A1240>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillLevel
 
 submodule.AppendGuildSkillData
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-SetSkillNew,		<cyfunction SkillToolTip.SetSkillNew at 0x09810EF8>
+SetSkillNew,		<cyfunction SkillToolTip.SetSkillNew at 0x0999FF50>
 	arg0: self
 	arg1: slotIndex
 	arg2: skillIndex
@@ -1357,7 +1357,7 @@ SetSkillNew,		<cyfunction SkillToolTip.SetSkillNew at 0x09810EF8>
 
 submodule.SetSkillNew
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendNextAffectDescription,		<cyfunction SkillToolTip.AppendNextAffectDescription at 0x098113F8>
+AppendNextAffectDescription,		<cyfunction SkillToolTip.AppendNextAffectDescription at 0x099A1450>
 	arg0: self
 	arg1: index
 	arg2: desc
@@ -1374,21 +1374,21 @@ __qualname__,		SkillToolTip
 submodule.__qualname__
 
 
-_SkillToolTip__AppendInSightSkillData,		<cyfunction SkillToolTip.__AppendInSightSkillData at 0x09811558>
+_SkillToolTip__AppendInSightSkillData,		<cyfunction SkillToolTip.__AppendInSightSkillData at 0x099A15B0>
 	arg0: self
 	arg1: skill_grade
 	arg2: skill_level
 
 submodule._SkillToolTip__AppendInSightSkillData
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-_SkillToolTip__AppendSummonDescription,		<cyfunction SkillToolTip.__AppendSummonDescription at 0x09811608>
+_SkillToolTip__AppendSummonDescription,		<cyfunction SkillToolTip.__AppendSummonDescription at 0x099A1660>
 	arg0: self
 	arg1: skillLevel
 	arg2: color
 
 submodule._SkillToolTip__AppendSummonDescription
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendDefaultData,		<cyfunction SkillToolTip.AppendDefaultData at 0x098110E0>
+AppendDefaultData,		<cyfunction SkillToolTip.AppendDefaultData at 0x099A1138>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillGrade
@@ -1396,7 +1396,7 @@ AppendDefaultData,		<cyfunction SkillToolTip.AppendDefaultData at 0x098110E0>
 
 submodule.AppendDefaultData
 Skipped: unbound method cython_function_or_method object must be called with SkillToolTip instance as first argument (got nothing instead)
-AppendSupportSkillDefaultData,		<cyfunction SkillToolTip.AppendSupportSkillDefaultData at 0x09811138>
+AppendSupportSkillDefaultData,		<cyfunction SkillToolTip.AppendSupportSkillDefaultData at 0x099A1190>
 	arg0: self
 	arg1: skillIndex
 	arg2: skillGrade
@@ -1418,7 +1418,7 @@ SPECIAL_POSITIVE_COLOR,		-5185612
 submodule.SPECIAL_POSITIVE_COLOR
 
 
-_ToolTip__AppendDescription_EasternLanguage,		<cyfunction ToolTip.__AppendDescription_EasternLanguage at 0x0980CD40>
+_ToolTip__AppendDescription_EasternLanguage,		<cyfunction ToolTip.__AppendDescription_EasternLanguage at 0x0999CD98>
 	arg0: self
 	arg1: description
 	arg2: characterLimitation
@@ -1427,7 +1427,7 @@ _ToolTip__AppendDescription_EasternLanguage,		<cyfunction ToolTip.__AppendDescri
 
 submodule._ToolTip__AppendDescription_EasternLanguage
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-GetChangeTextLineColor,		<cyfunction ToolTip.GetChangeTextLineColor at 0x0980CEF8>
+GetChangeTextLineColor,		<cyfunction ToolTip.GetChangeTextLineColor at 0x0999CF50>
 	arg0: self
 	arg1: value
 	arg2: isSpecial
@@ -1440,7 +1440,7 @@ CHANGELOOK_TITLE_COLOR,		4287348223
 submodule.CHANGELOOK_TITLE_COLOR
 
 
-_ToolTip__AppendDescription_WesternLanguage,		<cyfunction ToolTip.__AppendDescription_WesternLanguage at 0x0980CD98>
+_ToolTip__AppendDescription_WesternLanguage,		<cyfunction ToolTip.__AppendDescription_WesternLanguage at 0x0999CDF0>
 	arg0: self
 	arg1: desc
 	arg2: color
@@ -1453,7 +1453,7 @@ SPECIAL_POSITIVE_COLOR2,		-1967391
 submodule.SPECIAL_POSITIVE_COLOR2
 
 
-SetFollow,		<cyfunction ToolTip.SetFollow at 0x0980C8C8>
+SetFollow,		<cyfunction ToolTip.SetFollow at 0x0999C920>
 	arg0: self
 	arg1: flag
 
@@ -1464,7 +1464,7 @@ FONT_COLOR,		-4079167
 submodule.FONT_COLOR
 
 
-__init__,		<cyfunction ToolTip.__init__ at 0x0980C7C0>
+__init__,		<cyfunction ToolTip.__init__ at 0x0999C818>
 	arg0: self
 	arg1: width
 	arg2: isPickable
@@ -1478,13 +1478,13 @@ LOW_PRICE_COLOR,		-5066062
 submodule.LOW_PRICE_COLOR
 
 
-AppendSpace,		<cyfunction ToolTip.AppendSpace at 0x0980C978>
+AppendSpace,		<cyfunction ToolTip.AppendSpace at 0x0999C9D0>
 	arg0: self
 	arg1: size
 
 submodule.AppendSpace
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-GetLimitTextLineColor,		<cyfunction ToolTip.GetLimitTextLineColor at 0x0980CEA0>
+GetLimitTextLineColor,		<cyfunction ToolTip.GetLimitTextLineColor at 0x0999CEF8>
 	arg0: self
 	arg1: curValue
 	arg2: limitValue
@@ -1496,7 +1496,7 @@ CANNOT_LEVEL_UP_COLOR,		-1738635
 submodule.CANNOT_LEVEL_UP_COLOR
 
 
-AutoAppendTextLine,		<cyfunction ToolTip.AutoAppendTextLine at 0x0980CAD8>
+AutoAppendTextLine,		<cyfunction ToolTip.AutoAppendTextLine at 0x0999CB30>
 	arg0: self
 	arg1: text
 	arg2: color
@@ -1511,7 +1511,7 @@ HIGH_PRICE_COLOR,		-14592
 submodule.HIGH_PRICE_COLOR
 
 
-ShowToolTip,		<cyfunction ToolTip.ShowToolTip at 0x0980CFA8>
+ShowToolTip,		<cyfunction ToolTip.ShowToolTip at 0x0999D030>
 	arg0: self
 
 submodule.ShowToolTip
@@ -1526,7 +1526,7 @@ SPECIAL_TITLE_COLOR,		-14592
 submodule.SPECIAL_TITLE_COLOR
 
 
-SetTitle,		<cyfunction ToolTip.SetTitle at 0x0980CE48>
+SetTitle,		<cyfunction ToolTip.SetTitle at 0x0999CEA0>
 	arg0: self
 	arg1: name
 
@@ -1537,7 +1537,7 @@ TOOL_TIP_WIDTH,		190
 submodule.TOOL_TIP_WIDTH
 
 
-AppendTwoTextLineRightCenter,		<cyfunction ToolTip.AppendTwoTextLineRightCenter at 0x0980CC38>
+AppendTwoTextLineRightCenter,		<cyfunction ToolTip.AppendTwoTextLineRightCenter at 0x0999CC90>
 	arg0: self
 	arg1: right_text
 	arg2: right_text_color
@@ -1560,7 +1560,7 @@ MIDDLE_PRICE_COLOR,		-2565928
 submodule.MIDDLE_PRICE_COLOR
 
 
-ResizeToolTip,		<cyfunction ToolTip.ResizeToolTip at 0x0980CDF0>
+ResizeToolTip,		<cyfunction ToolTip.ResizeToolTip at 0x0999CE48>
 	arg0: self
 
 submodule.ResizeToolTip
@@ -1580,7 +1580,7 @@ CONDITION_COLOR,		4290688125
 submodule.CONDITION_COLOR
 
 
-__del__,		<cyfunction ToolTip.__del__ at 0x0980C818>
+__del__,		<cyfunction ToolTip.__del__ at 0x0999C870>
 	arg0: self
 
 submodule.__del__
@@ -1590,7 +1590,7 @@ DISABLE_COLOR,		-1738635
 submodule.DISABLE_COLOR
 
 
-AppendTwoColorTextLine,		<cyfunction ToolTip.AppendTwoColorTextLine at 0x0980CC90>
+AppendTwoColorTextLine,		<cyfunction ToolTip.AppendTwoColorTextLine at 0x0999CCE8>
 	arg0: self
 	arg1: text
 	arg2: color
@@ -1602,7 +1602,7 @@ AppendTwoColorTextLine,		<cyfunction ToolTip.AppendTwoColorTextLine at 0x0980CC9
 
 submodule.AppendTwoColorTextLine
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-SetDefaultFontName,		<cyfunction ToolTip.SetDefaultFontName at 0x0980C920>
+SetDefaultFontName,		<cyfunction ToolTip.SetDefaultFontName at 0x0999C978>
 	arg0: self
 	arg1: fontName
 
@@ -1618,7 +1618,7 @@ NEGATIVE_COLOR,		-1738635
 submodule.NEGATIVE_COLOR
 
 
-ClearToolTip,		<cyfunction ToolTip.ClearToolTip at 0x0980C870>
+ClearToolTip,		<cyfunction ToolTip.ClearToolTip at 0x0999C8C8>
 	arg0: self
 
 submodule.ClearToolTip
@@ -1633,7 +1633,7 @@ TEXT_LINE_HEIGHT,		17
 submodule.TEXT_LINE_HEIGHT
 
 
-HideToolTip,		<cyfunction ToolTip.HideToolTip at 0x0980E030>
+HideToolTip,		<cyfunction ToolTip.HideToolTip at 0x0999D088>
 	arg0: self
 
 submodule.HideToolTip
@@ -1648,7 +1648,7 @@ TITLE_COLOR,		-923968
 submodule.TITLE_COLOR
 
 
-AppendTextLine,		<cyfunction ToolTip.AppendTextLine at 0x0980CB88>
+AppendTextLine,		<cyfunction ToolTip.AppendTextLine at 0x0999CBE0>
 	arg0: self
 	arg1: text
 	arg2: color
@@ -1658,7 +1658,7 @@ AppendTextLine,		<cyfunction ToolTip.AppendTextLine at 0x0980CB88>
 
 submodule.AppendTextLine
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-AppendDescription,		<cyfunction ToolTip.AppendDescription at 0x0980CCE8>
+AppendDescription,		<cyfunction ToolTip.AppendDescription at 0x0999CD40>
 	arg0: self
 	arg1: desc
 	arg2: limit
@@ -1667,12 +1667,12 @@ AppendDescription,		<cyfunction ToolTip.AppendDescription at 0x0980CCE8>
 
 submodule.AppendDescription
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ToolTip.OnUpdate at 0x0980E088>
+OnUpdate,		<cyfunction ToolTip.OnUpdate at 0x0999D0E0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-AppendTwoTextLineLeftCenter,		<cyfunction ToolTip.AppendTwoTextLineLeftCenter at 0x0980CBE0>
+AppendTwoTextLineLeftCenter,		<cyfunction ToolTip.AppendTwoTextLineLeftCenter at 0x0999CC38>
 	arg0: self
 	arg1: left_text
 	arg2: left_text_color
@@ -1695,22 +1695,22 @@ __qualname__,		ToolTip
 submodule.__qualname__
 
 
-AlignTextLineHorizonalCenter,		<cyfunction ToolTip.AlignTextLineHorizonalCenter at 0x0980CA80>
+AlignTextLineHorizonalCenter,		<cyfunction ToolTip.AlignTextLineHorizonalCenter at 0x0999CAD8>
 	arg0: self
 
 submodule.AlignTextLineHorizonalCenter
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-AppendHorizontalLine,		<cyfunction ToolTip.AppendHorizontalLine at 0x0980C9D0>
+AppendHorizontalLine,		<cyfunction ToolTip.AppendHorizontalLine at 0x0999CA28>
 	arg0: self
 
 submodule.AppendHorizontalLine
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-AlignHorizonalCenter,		<cyfunction ToolTip.AlignHorizonalCenter at 0x0980CA28>
+AlignHorizonalCenter,		<cyfunction ToolTip.AlignHorizonalCenter at 0x0999CA80>
 	arg0: self
 
 submodule.AlignHorizonalCenter
 Skipped: unbound method cython_function_or_method object must be called with ToolTip instance as first argument (got nothing instead)
-SetThinBoardSize,		<cyfunction ToolTip.SetThinBoardSize at 0x0980CB30>
+SetThinBoardSize,		<cyfunction ToolTip.SetThinBoardSize at 0x0999CB88>
 	arg0: self
 	arg1: width
 	arg2: height
@@ -1728,7 +1728,7 @@ NORMAL_COLOR,		-4079167
 submodule.NORMAL_COLOR
 
 
-SetToolTipPosition,		<cyfunction ToolTip.SetToolTipPosition at 0x0980CF50>
+SetToolTipPosition,		<cyfunction ToolTip.SetToolTipPosition at 0x0999CFA8>
 	arg0: self
 	arg1: x
 	arg2: y

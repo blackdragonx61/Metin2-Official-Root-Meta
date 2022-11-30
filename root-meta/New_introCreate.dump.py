@@ -25,31 +25,31 @@ key: MAN, val: 0
 
 
 class CreateCharacterWindow:
-MakeCharacter,		<cyfunction CreateCharacterWindow.MakeCharacter at 0x182D1CE8>
+MakeCharacter,		<cyfunction CreateCharacterWindow.MakeCharacter at 0x16221A80>
 	arg0: self
 	arg1: race
 
 submodule.MakeCharacter
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-SelectShape,		<cyfunction CreateCharacterWindow.SelectShape at 0x182D1710>
+SelectShape,		<cyfunction CreateCharacterWindow.SelectShape at 0x16221CE8>
 	arg0: self
 	arg1: shape
 
 submodule.SelectShape
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-DisableWindow,		<cyfunction CreateCharacterWindow.DisableWindow at 0x182D1B88>
+DisableWindow,		<cyfunction CreateCharacterWindow.DisableWindow at 0x16221EA0>
 	arg0: self
 
 submodule.DisableWindow
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-RefreshStat,		<cyfunction CreateCharacterWindow.RefreshStat at 0x182D1C90>
+RefreshStat,		<cyfunction CreateCharacterWindow.RefreshStat at 0x2884D030>
 	arg0: self
 
 submodule.RefreshStat
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
 DescriptionBox,		<class 'New_introCreate.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-SetEmpire,		<cyfunction CreateCharacterWindow.SetEmpire at 0x182D1608>
+SetEmpire,		<cyfunction CreateCharacterWindow.SetEmpire at 0x2884D2F0>
 	arg0: self
 	arg1: empire_id
 
@@ -65,13 +65,13 @@ EMPIRE_NAME_COLOR,		{1: (0.745, 0, 0), 2: (0.8666, 0.6156, 0.1843), 3: (0.2235, 
 submodule.EMPIRE_NAME_COLOR
 
 
-__init__,		<cyfunction CreateCharacterWindow.__init__ at 0x182D1660>
+__init__,		<cyfunction CreateCharacterWindow.__init__ at 0x16221D98>
 	arg0: self
 	arg1: stream
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction CreateCharacterWindow.OnUpdate at 0x182D1EF8>
+OnUpdate,		<cyfunction CreateCharacterWindow.OnUpdate at 0x2884D558>
 	arg0: self
 
 submodule.OnUpdate
@@ -91,7 +91,7 @@ M2_INIT_VALUE,		-1
 submodule.M2_INIT_VALUE
 
 
-OverInToolTip,		<cyfunction CreateCharacterWindow.OverInToolTip at 0x182D19D0>
+OverInToolTip,		<cyfunction CreateCharacterWindow.OverInToolTip at 0x2884D450>
 	arg0: self
 	arg1: arg
 
@@ -102,23 +102,23 @@ DESCRIPTION_FILE_NAME,		('locale/hu/jobdesc_warrior.txt', 'locale/hu/jobdesc_ass
 submodule.DESCRIPTION_FILE_NAME
 
 
-SelectJob,		<cyfunction CreateCharacterWindow.SelectJob at 0x182D16B8>
+SelectJob,		<cyfunction CreateCharacterWindow.SelectJob at 0x16221920>
 	arg0: self
 	arg1: job_id
 
 submodule.SelectJob
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-NextDescriptionPage,		<cyfunction CreateCharacterWindow.NextDescriptionPage at 0x182D1F50>
+NextDescriptionPage,		<cyfunction CreateCharacterWindow.NextDescriptionPage at 0x2884D3A0>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-ToolTipProgress,		<cyfunction CreateCharacterWindow.ToolTipProgress at 0x182D1FA8>
+ToolTipProgress,		<cyfunction CreateCharacterWindow.ToolTipProgress at 0x2884D500>
 	arg0: self
 
 submodule.ToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-EventProgress,		<cyfunction CreateCharacterWindow.EventProgress at 0x182D1E48>
+EventProgress,		<cyfunction CreateCharacterWindow.EventProgress at 0x2884D3F8>
 	arg0: self
 	arg1: event_type
 	arg2: slot
@@ -137,17 +137,17 @@ submodule.LEN_JOBLIST
 
 CharacterRenderer,		<class 'New_introCreate.CharacterRenderer'>
 Skip: type object 'CharacterRenderer' has no attribute 'func_code'
-PrevDescriptionPage,		<cyfunction CreateCharacterWindow.PrevDescriptionPage at 0x182D1EA0>
+PrevDescriptionPage,		<cyfunction CreateCharacterWindow.PrevDescriptionPage at 0x2884D348>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction CreateCharacterWindow.__del__ at 0x182D17C0>
+__del__,		<cyfunction CreateCharacterWindow.__del__ at 0x162218C8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-CancelButton,		<cyfunction CreateCharacterWindow.CancelButton at 0x182D1C38>
+CancelButton,		<cyfunction CreateCharacterWindow.CancelButton at 0x2884D138>
 	arg0: self
 
 submodule.CancelButton
@@ -157,7 +157,7 @@ M2JOBLIST,		{0: 'Harcos', 1: 'Nindzsa', 2: 'Sura', 3: 'S\xe1m\xe1n', 4: 'V\xe9rf
 submodule.M2JOBLIST
 
 
-OnCreateFailure,		<cyfunction CreateCharacterWindow.OnCreateFailure at 0x182D1920>
+OnCreateFailure,		<cyfunction CreateCharacterWindow.OnCreateFailure at 0x16221D40>
 	arg0: self
 	arg1: type
 
@@ -168,12 +168,12 @@ RACE_FACE_PATH,		{0: 'D:/ymir work/ui/intro/public_intro/face/face_warrior_m_0',
 submodule.RACE_FACE_PATH
 
 
-OverOutToolTip,		<cyfunction CreateCharacterWindow.OverOutToolTip at 0x182D1D98>
+OverOutToolTip,		<cyfunction CreateCharacterWindow.OverOutToolTip at 0x2884D4A8>
 	arg0: self
 
 submodule.OverOutToolTip
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OnCreateSuccess,		<cyfunction CreateCharacterWindow.OnCreateSuccess at 0x182D1500>
+OnCreateSuccess,		<cyfunction CreateCharacterWindow.OnCreateSuccess at 0x16221EF8>
 	arg0: self
 
 submodule.OnCreateSuccess
@@ -183,7 +183,7 @@ M2STATPOINT,		((4, 3, 6, 3), (3, 3, 4, 6), (3, 5, 5, 3), (4, 6, 3, 3), (6, 2, 2,
 submodule.M2STATPOINT
 
 
-PopupMessage,		<cyfunction CreateCharacterWindow.PopupMessage at 0x182D1870>
+PopupMessage,		<cyfunction CreateCharacterWindow.PopupMessage at 0x2884D1E8>
 	arg0: self
 	arg1: msg
 	arg2: func
@@ -191,23 +191,23 @@ PopupMessage,		<cyfunction CreateCharacterWindow.PopupMessage at 0x182D1870>
 
 submodule.PopupMessage
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-CheckCreateCharacterName,		<cyfunction CreateCharacterWindow.CheckCreateCharacterName at 0x182D1DF0>
+CheckCreateCharacterName,		<cyfunction CreateCharacterWindow.CheckCreateCharacterName at 0x2884D298>
 	arg0: self
 	arg1: name
 
 submodule.CheckCreateCharacterName
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-EmptyFunc,		<cyfunction CreateCharacterWindow.EmptyFunc at 0x182D1AD8>
+EmptyFunc,		<cyfunction CreateCharacterWindow.EmptyFunc at 0x2884D190>
 	arg0: self
 
 submodule.EmptyFunc
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction CreateCharacterWindow.OnPressExitKey at 0x182D1B30>
+OnPressExitKey,		<cyfunction CreateCharacterWindow.OnPressExitKey at 0x2884D240>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-CreateCharacterButton,		<cyfunction CreateCharacterWindow.CreateCharacterButton at 0x182D1818>
+CreateCharacterButton,		<cyfunction CreateCharacterWindow.CreateCharacterButton at 0x2884D0E0>
 	arg0: self
 
 submodule.CreateCharacterButton
@@ -222,7 +222,7 @@ __qualname__,		CreateCharacterWindow
 submodule.__qualname__
 
 
-EnableWindow,		<cyfunction CreateCharacterWindow.EnableWindow at 0x182D1A80>
+EnableWindow,		<cyfunction CreateCharacterWindow.EnableWindow at 0x16221B30>
 	arg0: self
 
 submodule.EnableWindow
@@ -232,23 +232,23 @@ M2_CONST_ID,		((0, 4), (5, 1), (2, 6), (7, 3), (8, -1))
 submodule.M2_CONST_ID
 
 
-Close,		<cyfunction CreateCharacterWindow.Close at 0x182D18C8>
+Close,		<cyfunction CreateCharacterWindow.Close at 0x16221818>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-SelectGender,		<cyfunction CreateCharacterWindow.SelectGender at 0x182D1A28>
+SelectGender,		<cyfunction CreateCharacterWindow.SelectGender at 0x16221C90>
 	arg0: self
 	arg1: gender
 
 submodule.SelectGender
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-Open,		<cyfunction CreateCharacterWindow.Open at 0x182D1450>
+Open,		<cyfunction CreateCharacterWindow.Open at 0x16221E48>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-ResetStat,		<cyfunction CreateCharacterWindow.ResetStat at 0x182D1BE0>
+ResetStat,		<cyfunction CreateCharacterWindow.ResetStat at 0x2884D088>
 	arg0: self
 
 submodule.ResetStat
