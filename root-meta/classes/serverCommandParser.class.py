@@ -1,1 +1,1 @@
-{'serverCommander': <stringCommander.Analyzer instance at 0x3508CE68>}
+{'serverCommander': <stringCommander.Analyzer instance at 0x26847B20>}

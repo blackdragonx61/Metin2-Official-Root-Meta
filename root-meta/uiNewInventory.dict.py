@@ -216,6 +216,7 @@
  'var': [{'name': 'EX_INVEN_COVER_IMG_CLOSE', 'type': 'str', 'value': 'd:/ymir work/ui/game/windows/ex_inven_cover_button_close.sub'},
          {'name': 'EX_INVEN_COVER_IMG_OPEN', 'type': 'str', 'value': 'd:/ymir work/ui/game/windows/ex_inven_cover_button_open.sub'},
          {'name': 'ITEM_FLAG_APPLICABLE', 'type': 'int', 'value': 16384},
+         {'name': 'ITEM_VNUM_LIST_TIGER_COIN_VOUCHER', 'type': 'tuple', 'value': (38015, 38016, 38017, 38018)},
          {'name': 'ITEM_VNUM_RING_OF_ELEMENTAL_100', 'type': 'int', 'value': 39116},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
          {'name': '__name__', 'type': 'str', 'value': 'uiNewInventory'},

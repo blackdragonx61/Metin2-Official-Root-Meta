@@ -288,6 +288,8 @@
          {'name': 'NEW_AFFECT_SET_ITEM_SET_VALUE_5', 'type': 'int', 'value': 605},
          {'name': 'NEW_AFFECT_SKILL_BOOK_BONUS', 'type': 'int', 'value': 512},
          {'name': 'NEW_AFFECT_SKILL_BOOK_NO_DELAY', 'type': 'int', 'value': 513},
+         {'name': 'NEW_AFFECT_WORLD_BOSS_DAILY_REWARD', 'type': 'int', 'value': 610},
+         {'name': 'NEW_AFFECT_WORLD_BOSS_REWARD', 'type': 'int', 'value': 609},
          {'name': 'PART_ACCE', 'type': 'int', 'value': 5},
          {'name': 'PART_AURA', 'type': 'int', 'value': 7},
          {'name': 'PART_HEAD', 'type': 'int', 'value': 2},

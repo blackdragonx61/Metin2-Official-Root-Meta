@@ -15,22 +15,22 @@ key: __doc__, val: None
 
 
 class MyShopDecoration:
-_MyShopDecoration__CreateButton,		<cyfunction MyShopDecoration.__CreateButton at 0x0C457EF8>
+_MyShopDecoration__CreateButton,		<cyfunction MyShopDecoration.__CreateButton at 0x0A1FF1E8>
 	arg0: self
 
 submodule._MyShopDecoration__CreateButton
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-_MyShopDecoration__LoadModelInfo,		<cyfunction MyShopDecoration.__LoadModelInfo at 0x0C4654A8>
+_MyShopDecoration__LoadModelInfo,		<cyfunction MyShopDecoration.__LoadModelInfo at 0x0A1FF768>
 	arg0: self
 
 submodule._MyShopDecoration__LoadModelInfo
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-_MyShopDecoration__CreateEvent,		<cyfunction MyShopDecoration.__CreateEvent at 0x0C457F50>
+_MyShopDecoration__CreateEvent,		<cyfunction MyShopDecoration.__CreateEvent at 0x0A1FF240>
 	arg0: self
 
 submodule._MyShopDecoration__CreateEvent
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-_MyShopDecoration__ShopTitleListSetting,		<cyfunction MyShopDecoration.__ShopTitleListSetting at 0x0C4655B0>
+_MyShopDecoration__ShopTitleListSetting,		<cyfunction MyShopDecoration.__ShopTitleListSetting at 0x0A1FF870>
 	arg0: self
 
 submodule._MyShopDecoration__ShopTitleListSetting
@@ -40,34 +40,34 @@ __module__,		uiMyShopDecoration
 submodule.__module__
 
 
-_MyShopDecoration__LoadScript,		<cyfunction MyShopDecoration.__LoadScript at 0x0C457E48>
+_MyShopDecoration__LoadScript,		<cyfunction MyShopDecoration.__LoadScript at 0x0A1FF138>
 	arg0: self
 	arg1: FileName
 
 submodule._MyShopDecoration__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-__del__,		<cyfunction MyShopDecoration.__del__ at 0x0C457CE8>
+__del__,		<cyfunction MyShopDecoration.__del__ at 0x0A1F2FA8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-_MyShopDecoration__AllShopTitleHide,		<cyfunction MyShopDecoration.__AllShopTitleHide at 0x0C465500>
+_MyShopDecoration__AllShopTitleHide,		<cyfunction MyShopDecoration.__AllShopTitleHide at 0x0A1FF7C0>
 	arg0: self
 
 submodule._MyShopDecoration__AllShopTitleHide
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-SelectShopModel,		<cyfunction MyShopDecoration.SelectShopModel at 0x0C4653F8>
+SelectShopModel,		<cyfunction MyShopDecoration.SelectShopModel at 0x0A1FF6B8>
 	arg0: self
 	arg1: idx
 
 submodule.SelectShopModel
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MyShopDecoration.OnPressEscapeKey at 0x0C457DF0>
+OnPressEscapeKey,		<cyfunction MyShopDecoration.OnPressEscapeKey at 0x0A1FF0E0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-MINMAX,		<cyfunction MyShopDecoration.MINMAX at 0x0C465608>
+MINMAX,		<cyfunction MyShopDecoration.MINMAX at 0x0A1FF8C8>
 	arg0: self
 	arg1: min
 	arg2: value
@@ -75,28 +75,28 @@ MINMAX,		<cyfunction MyShopDecoration.MINMAX at 0x0C465608>
 
 submodule.MINMAX
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-SelectTitleModel,		<cyfunction MyShopDecoration.SelectTitleModel at 0x0C465450>
+SelectTitleModel,		<cyfunction MyShopDecoration.SelectTitleModel at 0x0A1FF710>
 	arg0: self
 	arg1: idx
 
 submodule.SelectTitleModel
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-__init__,		<cyfunction MyShopDecoration.__init__ at 0x0C457C90>
+__init__,		<cyfunction MyShopDecoration.__init__ at 0x0A1F2F50>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-OnScroll,		<cyfunction MyShopDecoration.OnScroll at 0x0C465030>
+OnScroll,		<cyfunction MyShopDecoration.OnScroll at 0x0A1FF2F0>
 	arg0: self
 
 submodule.OnScroll
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-UsePrevButton,		<cyfunction MyShopDecoration.UsePrevButton at 0x0C4650E0>
+UsePrevButton,		<cyfunction MyShopDecoration.UsePrevButton at 0x0A1FF3A0>
 	arg0: self
 
 submodule.UsePrevButton
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MyShopDecoration.OnUpdate at 0x0C465660>
+OnUpdate,		<cyfunction MyShopDecoration.OnUpdate at 0x0A1FF920>
 	arg0: self
 
 submodule.OnUpdate
@@ -106,17 +106,17 @@ MODE_TITLE_VIEW,		2
 submodule.MODE_TITLE_VIEW
 
 
-_MyShopDecoration__ShopModelListSetting,		<cyfunction MyShopDecoration.__ShopModelListSetting at 0x0C465558>
+_MyShopDecoration__ShopModelListSetting,		<cyfunction MyShopDecoration.__ShopModelListSetting at 0x0A1FF818>
 	arg0: self
 
 submodule._MyShopDecoration__ShopModelListSetting
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-_MyShopDecoration__RefreshLeftBoard,		<cyfunction MyShopDecoration.__RefreshLeftBoard at 0x0C457EA0>
+_MyShopDecoration__RefreshLeftBoard,		<cyfunction MyShopDecoration.__RefreshLeftBoard at 0x0A1FF190>
 	arg0: self
 
 submodule._MyShopDecoration__RefreshLeftBoard
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-UseCompleteButton,		<cyfunction MyShopDecoration.UseCompleteButton at 0x0C4653A0>
+UseCompleteButton,		<cyfunction MyShopDecoration.UseCompleteButton at 0x0A1FF660>
 	arg0: self
 
 submodule.UseCompleteButton
@@ -126,7 +126,7 @@ __qualname__,		MyShopDecoration
 submodule.__qualname__
 
 
-SelectButton,		<cyfunction MyShopDecoration.SelectButton at 0x0C457FA8>
+SelectButton,		<cyfunction MyShopDecoration.SelectButton at 0x0A1FF298>
 	arg0: self
 	arg1: idx
 
@@ -137,17 +137,17 @@ MODE_MODEL_VIEW,		1
 submodule.MODE_MODEL_VIEW
 
 
-Close,		<cyfunction MyShopDecoration.Close at 0x0C457D98>
+Close,		<cyfunction MyShopDecoration.Close at 0x0A1FF088>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-UseNextButton,		<cyfunction MyShopDecoration.UseNextButton at 0x0C465088>
+UseNextButton,		<cyfunction MyShopDecoration.UseNextButton at 0x0A1FF348>
 	arg0: self
 
 submodule.UseNextButton
 Skipped: unbound method cython_function_or_method object must be called with MyShopDecoration instance as first argument (got nothing instead)
-Open,		<cyfunction MyShopDecoration.Open at 0x0C457D40>
+Open,		<cyfunction MyShopDecoration.Open at 0x0A1FF030>
 	arg0: self
 
 submodule.Open

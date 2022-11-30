@@ -2,7 +2,7 @@
  'eventDict': {},
  'eventFunc': {'mouse_click': None, 'mouse_down': None, 'mouse_over_in': None, 'mouse_over_out': None},
  'filePath': '',
- 'hWnd': 730512912,
+ 'hWnd': 840765816,
  'lovePoint': 0,
  'loverName': '',
  'onMouseLeftButtonUpEvent': None,
@@ -13,6 +13,6 @@
  'overOutFunc': None,
  'parentWindow': 0,
  'potionType': 0,
- 'toolTip': <uiToolTip.ToolTip object at 0x34F16F10>,
+ 'toolTip': <uiToolTip.ToolTip object at 0x302C7350>,
  'window_horizontal_align': 0,
  'window_vertical_align': 0}

@@ -11,13 +11,13 @@
                      {'args': ['self', 'open'], 'defaults': [], 'name': '__BattleFieldOpen'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__DayMode_Update'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FishEvent'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__FlowerEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__Halloween_box_event'},
                      {'args': ['self'], 'defaults': [], 'name': '__ItemMall_Open'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__LateSummerEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniBossDungeon'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameBNW'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameCatchKing'},
-                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameFindM'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameOkeyEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameOkeyNormalEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__MiniGameYutnori'},
@@ -28,6 +28,7 @@
                      {'args': ['self'], 'defaults': [], 'name': '__ServerCommand_Build'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__SummerEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__ValentineEvent'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__WorldBoss'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__XMasBoom_Enable'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__XMasSnow_Enable'},
                      {'args': ['self', 'grade'], 'defaults': [], 'name': '__XMasTree_Enable'},
@@ -44,4 +45,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0C521950>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0A2B4B50>}]}

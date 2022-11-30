@@ -23,24 +23,24 @@ key: ConsoleWindow, val: <class 'consoleModule.ConsoleWindow'>
 
 
 class Console:
-SetShadowLevel,		<cyfunction Console.SetShadowLevel at 0x238F4240>
+SetShadowLevel,		<cyfunction Console.SetShadowLevel at 0x26443C38>
 	arg0: self
 	arg1: arg
 
 submodule.SetShadowLevel
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCharacterEmoticon,		<cyfunction Console.SetCharacterEmoticon at 0x0C7E9768>
+SetCharacterEmoticon,		<cyfunction Console.SetCharacterEmoticon at 0x26443190>
 	arg0: self
 	arg1: EmoticonNum
 
 submodule.SetCharacterEmoticon
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-HideClock,		<cyfunction Console.HideClock at 0x238F49D0>
+HideClock,		<cyfunction Console.HideClock at 0x264443F8>
 	arg0: self
 
 submodule.HideClock
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCharacterRenderModeTypeAddRGB,		<cyfunction Console.SetCharacterRenderModeTypeAddRGB at 0x238F4CE8>
+SetCharacterRenderModeTypeAddRGB,		<cyfunction Console.SetCharacterRenderModeTypeAddRGB at 0x26444710>
 	arg0: self
 	arg1: r
 	arg2: g
@@ -48,12 +48,12 @@ SetCharacterRenderModeTypeAddRGB,		<cyfunction Console.SetCharacterRenderModeTyp
 
 submodule.SetCharacterRenderModeTypeAddRGB
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-Exit,		<cyfunction Console.Exit at 0x0C7E9450>
+Exit,		<cyfunction Console.Exit at 0x0A583E48>
 	arg0: self
 
 submodule.Exit
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowNameList,		<cyfunction Console.ShowNameList at 0x238F4E48>
+ShowNameList,		<cyfunction Console.ShowNameList at 0x26444870>
 	arg0: self
 	arg1: lstsName
 	arg2: lstsFilter
@@ -66,7 +66,7 @@ __dict__,		<attribute '__dict__' of 'Console' objects>
 submodule.__dict__
 
 
-SetSight,		<cyfunction Console.SetSight at 0x238F4AD8>
+SetSight,		<cyfunction Console.SetSight at 0x26444500>
 	arg0: self
 	arg1: range
 
@@ -77,54 +77,54 @@ __weakref__,		<attribute '__weakref__' of 'Console' objects>
 submodule.__weakref__
 
 
-SetSoundVolume,		<cyfunction Console.SetSoundVolume at 0x0C7E9A80>
+SetSoundVolume,		<cyfunction Console.SetSoundVolume at 0x264434A8>
 	arg0: self
 	arg1: arg
 
 submodule.SetSoundVolume
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowFileList,		<cyfunction Console.ShowFileList at 0x238F4608>
+ShowFileList,		<cyfunction Console.ShowFileList at 0x26444030>
 	arg0: self
 	arg1: Filter
 	default: []
 
 submodule.ShowFileList
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SaveCameraSetting,		<cyfunction Console.SaveCameraSetting at 0x238F4818>
+SaveCameraSetting,		<cyfunction Console.SaveCameraSetting at 0x26444240>
 	arg0: self
 	arg1: filename
 
 submodule.SaveCameraSetting
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCharacterRenderModeTypeAdd,		<cyfunction Console.SetCharacterRenderModeTypeAdd at 0x238F4C38>
+SetCharacterRenderModeTypeAdd,		<cyfunction Console.SetCharacterRenderModeTypeAdd at 0x26444660>
 	arg0: self
 	arg1: color
 
 submodule.SetCharacterRenderModeTypeAdd
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-HideNotice,		<cyfunction Console.HideNotice at 0x238F4A80>
+HideNotice,		<cyfunction Console.HideNotice at 0x264444A8>
 	arg0: self
 
 submodule.HideNotice
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetTerrainRenderSort,		<cyfunction Console.SetTerrainRenderSort at 0x238F43A0>
+SetTerrainRenderSort,		<cyfunction Console.SetTerrainRenderSort at 0x26443D98>
 	arg0: self
 	arg1: arg
 
 submodule.SetTerrainRenderSort
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetSplatLimit,		<cyfunction Console.SetSplatLimit at 0x238F4298>
+SetSplatLimit,		<cyfunction Console.SetSplatLimit at 0x26443C90>
 	arg0: self
 	arg1: arg
 
 submodule.SetSplatLimit
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowWeb,		<cyfunction Console.ShowWeb at 0x238F46B8>
+ShowWeb,		<cyfunction Console.ShowWeb at 0x264440E0>
 	arg0: self
 
 submodule.ShowWeb
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SelectViewDistanceNum,		<cyfunction Console.SelectViewDistanceNum at 0x238F42F0>
+SelectViewDistanceNum,		<cyfunction Console.SelectViewDistanceNum at 0x26443CE8>
 	arg0: self
 	arg1: arg
 
@@ -135,78 +135,78 @@ __doc__,		None
 submodule.__doc__
 
 
-ShowPerformanceInfo,		<cyfunction Console.ShowPerformanceInfo at 0x0C7E95B0>
+ShowPerformanceInfo,		<cyfunction Console.ShowPerformanceInfo at 0x0A583FA8>
 	arg0: self
 
 submodule.ShowPerformanceInfo
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetcmrZ,		<cyfunction Console.SetcmrZ at 0x238F48C8>
+SetcmrZ,		<cyfunction Console.SetcmrZ at 0x264442F0>
 	arg0: self
 	arg1: z
 
 submodule.SetcmrZ
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-GetFileName,		<cyfunction Console.GetFileName at 0x0C7E9EA0>
+GetFileName,		<cyfunction Console.GetFileName at 0x264438C8>
 	arg0: self
 	arg1: iFile
 
 submodule.GetFileName
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ToggleDebugInfo,		<cyfunction Console.ToggleDebugInfo at 0x238F44A8>
+ToggleDebugInfo,		<cyfunction Console.ToggleDebugInfo at 0x26443EA0>
 	arg0: self
 
 submodule.ToggleDebugInfo
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowNotice,		<cyfunction Console.ShowNotice at 0x238F4A28>
+ShowNotice,		<cyfunction Console.ShowNotice at 0x26444450>
 	arg0: self
 
 submodule.ShowNotice
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-GetPath,		<cyfunction Console.GetPath at 0x0C7E9DF0>
+GetPath,		<cyfunction Console.GetPath at 0x26443818>
 	arg0: self
 
 submodule.GetPath
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetHitEffect,		<cyfunction Console.SetHitEffect at 0x238F4030>
+SetHitEffect,		<cyfunction Console.SetHitEffect at 0x26443A28>
 	arg0: self
 	arg1: arg
 
 submodule.SetHitEffect
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-HideBackgroundPart,		<cyfunction Console.HideBackgroundPart at 0x238F41E8>
+HideBackgroundPart,		<cyfunction Console.HideBackgroundPart at 0x26443BE0>
 	arg0: self
 	arg1: arg
 
 submodule.HideBackgroundPart
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-LoadCameraSetting,		<cyfunction Console.LoadCameraSetting at 0x238F4870>
+LoadCameraSetting,		<cyfunction Console.LoadCameraSetting at 0x26444298>
 	arg0: self
 	arg1: filename
 
 submodule.LoadCameraSetting
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-HideCursor,		<cyfunction Console.HideCursor at 0x0C7E9C90>
+HideCursor,		<cyfunction Console.HideCursor at 0x264436B8>
 	arg0: self
 
 submodule.HideCursor
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowPath,		<cyfunction Console.ShowPath at 0x238F4500>
+ShowPath,		<cyfunction Console.ShowPath at 0x26443EF8>
 	arg0: self
 
 submodule.ShowPath
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetAutoCameraRotationSpeed,		<cyfunction Console.SetAutoCameraRotationSpeed at 0x0C7E98C8>
+SetAutoCameraRotationSpeed,		<cyfunction Console.SetAutoCameraRotationSpeed at 0x264432F0>
 	arg0: self
 	arg1: arg
 
 submodule.SetAutoCameraRotationSpeed
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetDefaultCamera,		<cyfunction Console.SetDefaultCamera at 0x238F4920>
+SetDefaultCamera,		<cyfunction Console.SetDefaultCamera at 0x26444348>
 	arg0: self
 
 submodule.SetDefaultCamera
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCharacterRenderModeTypeModRGB,		<cyfunction Console.SetCharacterRenderModeTypeModRGB at 0x238F4D40>
+SetCharacterRenderModeTypeModRGB,		<cyfunction Console.SetCharacterRenderModeTypeModRGB at 0x26444768>
 	arg0: self
 	arg1: r
 	arg2: g
@@ -214,19 +214,19 @@ SetCharacterRenderModeTypeModRGB,		<cyfunction Console.SetCharacterRenderModeTyp
 
 submodule.SetCharacterRenderModeTypeModRGB
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowCursor,		<cyfunction Console.ShowCursor at 0x0C7E9C38>
+ShowCursor,		<cyfunction Console.ShowCursor at 0x26443660>
 	arg0: self
 
 submodule.ShowCursor
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-RegisterCharacterEffect,		<cyfunction Console.RegisterCharacterEffect at 0x0C7E96B8>
+RegisterCharacterEffect,		<cyfunction Console.RegisterCharacterEffect at 0x264430E0>
 	arg0: self
 	arg1: effectType
 	arg2: effectFileName
 
 submodule.RegisterCharacterEffect
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetStunEffect,		<cyfunction Console.SetStunEffect at 0x238F4088>
+SetStunEffect,		<cyfunction Console.SetStunEffect at 0x26443A80>
 	arg0: self
 	arg1: arg
 
@@ -237,127 +237,127 @@ __qualname__,		Console
 submodule.__qualname__
 
 
-SetDustGap,		<cyfunction Console.SetDustGap at 0x238F4138>
+SetDustGap,		<cyfunction Console.SetDustGap at 0x26443B30>
 	arg0: self
 	arg1: arg
 
 submodule.SetDustGap
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-GetFullPathName,		<cyfunction Console.GetFullPathName at 0x0C7E9F50>
+GetFullPathName,		<cyfunction Console.GetFullPathName at 0x26443978>
 	arg0: self
 	arg1: sPathName
 
 submodule.GetFullPathName
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetWeaponTraceTexture,		<cyfunction Console.SetWeaponTraceTexture at 0x0C7E9870>
+SetWeaponTraceTexture,		<cyfunction Console.SetWeaponTraceTexture at 0x26443298>
 	arg0: self
 	arg1: arg
 
 submodule.SetWeaponTraceTexture
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-Close,		<cyfunction Console.Close at 0x0C7E93A0>
+Close,		<cyfunction Console.Close at 0x0A583D98>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowUI,		<cyfunction Console.ShowUI at 0x238F4710>
+ShowUI,		<cyfunction Console.ShowUI at 0x26444138>
 	arg0: self
 
 submodule.ShowUI
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-BindGameClass,		<cyfunction Console.BindGameClass at 0x0C7E93F8>
+BindGameClass,		<cyfunction Console.BindGameClass at 0x0A583DF0>
 	arg0: self
 	arg1: game
 
 submodule.BindGameClass
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ReloadLocale,		<cyfunction Console.ReloadLocale at 0x0C7E9500>
+ReloadLocale,		<cyfunction Console.ReloadLocale at 0x0A583EF8>
 	arg0: self
 
 submodule.ReloadLocale
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetDustEffect,		<cyfunction Console.SetDustEffect at 0x238F40E0>
+SetDustEffect,		<cyfunction Console.SetDustEffect at 0x26443AD8>
 	arg0: self
 	arg1: arg
 
 submodule.SetDustEffect
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-Disconnect,		<cyfunction Console.Disconnect at 0x0C7E9608>
+Disconnect,		<cyfunction Console.Disconnect at 0x26443030>
 	arg0: self
 
 submodule.Disconnect
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetLevelLimit,		<cyfunction Console.SetLevelLimit at 0x0C7E9BE0>
+SetLevelLimit,		<cyfunction Console.SetLevelLimit at 0x26443608>
 	arg0: self
 
 submodule.SetLevelLimit
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-EnablePerformanceTime,		<cyfunction Console.EnablePerformanceTime at 0x0C7E94A8>
+EnablePerformanceTime,		<cyfunction Console.EnablePerformanceTime at 0x0A583EA0>
 	arg0: self
 	arg1: mode
 	arg2: isEnable
 
 submodule.EnablePerformanceTime
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetComboType,		<cyfunction Console.SetComboType at 0x238F4B30>
+SetComboType,		<cyfunction Console.SetComboType at 0x26444558>
 	arg0: self
 	arg1: type
 
 submodule.SetComboType
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ToggleActorDirectionLine,		<cyfunction Console.ToggleActorDirectionLine at 0x0C7E9660>
+ToggleActorDirectionLine,		<cyfunction Console.ToggleActorDirectionLine at 0x26443088>
 	arg0: self
 
 submodule.ToggleActorDirectionLine
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCharacterRenderModeTypeMod,		<cyfunction Console.SetCharacterRenderModeTypeMod at 0x238F4C90>
+SetCharacterRenderModeTypeMod,		<cyfunction Console.SetCharacterRenderModeTypeMod at 0x264446B8>
 	arg0: self
 	arg1: color
 
 submodule.SetCharacterRenderModeTypeMod
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-Print,		<cyfunction Console.Print at 0x0C7E9CE8>
+Print,		<cyfunction Console.Print at 0x26443710>
 	arg0: self
 	arg1: msg
 
 submodule.Print
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowClock,		<cyfunction Console.ShowClock at 0x238F4978>
+ShowClock,		<cyfunction Console.ShowClock at 0x264443A0>
 	arg0: self
 	arg1: second
 
 submodule.ShowClock
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ReloadDevel,		<cyfunction Console.ReloadDevel at 0x0C7E9558>
+ReloadDevel,		<cyfunction Console.ReloadDevel at 0x0A583F50>
 	arg0: self
 
 submodule.ReloadDevel
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-__init__,		<cyfunction Console.__init__ at 0x0C7E9348>
+__init__,		<cyfunction Console.__init__ at 0x0A583D40>
 	arg0: self
 	arg1: output
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-MoveChildPath,		<cyfunction Console.MoveChildPath at 0x0C7E9FA8>
+MoveChildPath,		<cyfunction Console.MoveChildPath at 0x264439D0>
 	arg0: self
 	arg1: directory
 
 submodule.MoveChildPath
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCameraSpeed,		<cyfunction Console.SetCameraSpeed at 0x238F47C0>
+SetCameraSpeed,		<cyfunction Console.SetCameraSpeed at 0x264441E8>
 	arg0: self
 	arg1: percentage
 
 submodule.SetCameraSpeed
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowCharacterInfo,		<cyfunction Console.ShowCharacterInfo at 0x0C7E9818>
+ShowCharacterInfo,		<cyfunction Console.ShowCharacterInfo at 0x26443240>
 	arg0: self
 	arg1: arg
 
 submodule.ShowCharacterInfo
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowBackgroundPart,		<cyfunction Console.ShowBackgroundPart at 0x238F4190>
+ShowBackgroundPart,		<cyfunction Console.ShowBackgroundPart at 0x26443B88>
 	arg0: self
 	arg1: arg
 
@@ -368,138 +368,138 @@ __module__,		consoleModule
 submodule.__module__
 
 
-SetTransparentTree,		<cyfunction Console.SetTransparentTree at 0x238F43F8>
+SetTransparentTree,		<cyfunction Console.SetTransparentTree at 0x26443DF0>
 	arg0: self
 	arg1: arg
 
 submodule.SetTransparentTree
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-MoveParentPath,		<cyfunction Console.MoveParentPath at 0x0C7E9EF8>
+MoveParentPath,		<cyfunction Console.MoveParentPath at 0x26443920>
 	arg0: self
 
 submodule.MoveParentPath
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetBGLoading,		<cyfunction Console.SetBGLoading at 0x238F4348>
+SetBGLoading,		<cyfunction Console.SetBGLoading at 0x26443D40>
 	arg0: self
 	arg1: bBGLoading
 
 submodule.SetBGLoading
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-HideUI,		<cyfunction Console.HideUI at 0x238F4768>
+HideUI,		<cyfunction Console.HideUI at 0x26444190>
 	arg0: self
 
 submodule.HideUI
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetSkillGroupFake,		<cyfunction Console.SetSkillGroupFake at 0x238F4B88>
+SetSkillGroupFake,		<cyfunction Console.SetSkillGroupFake at 0x264445B0>
 	arg0: self
 	arg1: index
 
 submodule.SetSkillGroupFake
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetEmpireLanguageMode,		<cyfunction Console.SetEmpireLanguageMode at 0x238F4BE0>
+SetEmpireLanguageMode,		<cyfunction Console.SetEmpireLanguageMode at 0x26444608>
 	arg0: self
 	arg1: mode
 
 submodule.SetEmpireLanguageMode
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowDirList,		<cyfunction Console.ShowDirList at 0x238F45B0>
+ShowDirList,		<cyfunction Console.ShowDirList at 0x26443FA8>
 	arg0: self
 
 submodule.ShowDirList
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetMovingSpeed,		<cyfunction Console.SetMovingSpeed at 0x0C7E99D0>
+SetMovingSpeed,		<cyfunction Console.SetMovingSpeed at 0x264433F8>
 	arg0: self
 	arg1: arg
 
 submodule.SetMovingSpeed
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-GetDirName,		<cyfunction Console.GetDirName at 0x0C7E9E48>
+GetDirName,		<cyfunction Console.GetDirName at 0x26443870>
 	arg0: self
 	arg1: iDir
 
 submodule.GetDirName
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowEffectList,		<cyfunction Console.ShowEffectList at 0x238F4660>
+ShowEffectList,		<cyfunction Console.ShowEffectList at 0x26444088>
 	arg0: self
 
 submodule.ShowEffectList
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCharacterAffect,		<cyfunction Console.SetCharacterAffect at 0x0C7E9710>
+SetCharacterAffect,		<cyfunction Console.SetCharacterAffect at 0x26443138>
 	arg0: self
 	arg1: affectType
 	arg2: isVisible
 
 submodule.SetCharacterAffect
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetPath,		<cyfunction Console.SetPath at 0x0C7E9D98>
+SetPath,		<cyfunction Console.SetPath at 0x264437C0>
 	arg0: self
 	arg1: newPathName
 
 submodule.SetPath
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-WarpTest,		<cyfunction Console.WarpTest at 0x238F4450>
+WarpTest,		<cyfunction Console.WarpTest at 0x26443E48>
 	arg0: self
 	arg1: warpX
 	arg2: warpY
 
 submodule.WarpTest
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowList,		<cyfunction Console.ShowList at 0x238F4558>
+ShowList,		<cyfunction Console.ShowList at 0x26443F50>
 	arg0: self
 
 submodule.ShowList
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-RestoreCharacterRenderModeType,		<cyfunction Console.RestoreCharacterRenderModeType at 0x238F4DF0>
+RestoreCharacterRenderModeType,		<cyfunction Console.RestoreCharacterRenderModeType at 0x26444818>
 	arg0: self
 
 submodule.RestoreCharacterRenderModeType
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCollision,		<cyfunction Console.SetCollision at 0x0C7E9978>
+SetCollision,		<cyfunction Console.SetCollision at 0x264433A0>
 	arg0: self
 
 submodule.SetCollision
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetWeaponTraceMode,		<cyfunction Console.SetWeaponTraceMode at 0x0C7E9920>
+SetWeaponTraceMode,		<cyfunction Console.SetWeaponTraceMode at 0x26443348>
 	arg0: self
 
 submodule.SetWeaponTraceMode
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetSoundScale,		<cyfunction Console.SetSoundScale at 0x0C7E9AD8>
+SetSoundScale,		<cyfunction Console.SetSoundScale at 0x26443500>
 	arg0: self
 	arg1: arg
 
 submodule.SetSoundScale
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCharacterRenderModeSpecular,		<cyfunction Console.SetCharacterRenderModeSpecular at 0x238F4D98>
+SetCharacterRenderModeSpecular,		<cyfunction Console.SetCharacterRenderModeSpecular at 0x264447C0>
 	arg0: self
 	arg1: part
 	arg2: alpha
 
 submodule.SetCharacterRenderModeSpecular
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetAmbienceSoundScale,		<cyfunction Console.SetAmbienceSoundScale at 0x0C7E9B30>
+SetAmbienceSoundScale,		<cyfunction Console.SetAmbienceSoundScale at 0x26443558>
 	arg0: self
 	arg1: arg
 
 submodule.SetAmbienceSoundScale
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetMusicVolume,		<cyfunction Console.SetMusicVolume at 0x0C7E9A28>
+SetMusicVolume,		<cyfunction Console.SetMusicVolume at 0x26443450>
 	arg0: self
 	arg1: arg
 
 submodule.SetMusicVolume
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-SetCoolTime,		<cyfunction Console.SetCoolTime at 0x0C7E9B88>
+SetCoolTime,		<cyfunction Console.SetCoolTime at 0x264435B0>
 	arg0: self
 
 submodule.SetCoolTime
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-ShowPickedCharacterInfo,		<cyfunction Console.ShowPickedCharacterInfo at 0x0C7E97C0>
+ShowPickedCharacterInfo,		<cyfunction Console.ShowPickedCharacterInfo at 0x264431E8>
 	arg0: self
 
 submodule.ShowPickedCharacterInfo
 Skipped: unbound method cython_function_or_method object must be called with Console instance as first argument (got nothing instead)
-RefreshPath,		<cyfunction Console.RefreshPath at 0x0C7E9D40>
+RefreshPath,		<cyfunction Console.RefreshPath at 0x26443768>
 	arg0: self
 
 submodule.RefreshPath
@@ -507,7 +507,7 @@ Skipped: unbound method cython_function_or_method object must be called with Con
 
 
 class ConsoleWindow:
-BindGameClass,		<cyfunction ConsoleWindow.BindGameClass at 0x238F5240>
+BindGameClass,		<cyfunction ConsoleWindow.BindGameClass at 0x26444C38>
 	arg0: self
 	arg1: game
 
@@ -518,7 +518,7 @@ __module__,		consoleModule
 submodule.__module__
 
 
-__del__,		<cyfunction ConsoleWindow.__del__ at 0x238F51E8>
+__del__,		<cyfunction ConsoleWindow.__del__ at 0x26444BE0>
 	arg0: self
 
 submodule.__del__
@@ -538,7 +538,7 @@ HEIGHT,		200
 submodule.HEIGHT
 
 
-CloseWindow,		<cyfunction ConsoleWindow.CloseWindow at 0x238F5450>
+CloseWindow,		<cyfunction ConsoleWindow.CloseWindow at 0x26444E48>
 	arg0: self
 
 submodule.CloseWindow
@@ -550,18 +550,18 @@ submodule.LINE_STEP
 
 ResizingButton,		<class 'consoleModule.ResizingButton'>
 Skip: type object 'ResizingButton' has no attribute 'func_code'
-Print,		<cyfunction ConsoleWindow.Print at 0x238F55B0>
+Print,		<cyfunction ConsoleWindow.Print at 0x26444FA8>
 	arg0: self
 	arg1: text
 
 submodule.Print
 Skipped: unbound method cython_function_or_method object must be called with ConsoleWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction ConsoleWindow.__init__ at 0x238F5190>
+__init__,		<cyfunction ConsoleWindow.__init__ at 0x26444B88>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ConsoleWindow instance as first argument (got nothing instead)
-ProcessCommand,		<cyfunction ConsoleWindow.ProcessCommand at 0x238F54A8>
+ProcessCommand,		<cyfunction ConsoleWindow.ProcessCommand at 0x26444EA0>
 	arg0: self
 	arg1: text
 
@@ -572,26 +572,26 @@ __qualname__,		ConsoleWindow
 submodule.__qualname__
 
 
-OnRender,		<cyfunction ConsoleWindow.OnRender at 0x238F5348>
+OnRender,		<cyfunction ConsoleWindow.OnRender at 0x26444D40>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with ConsoleWindow instance as first argument (got nothing instead)
-SetConsoleSize,		<cyfunction ConsoleWindow.SetConsoleSize at 0x238F52F0>
+SetConsoleSize,		<cyfunction ConsoleWindow.SetConsoleSize at 0x26444CE8>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetConsoleSize
 Skipped: unbound method cython_function_or_method object must be called with ConsoleWindow instance as first argument (got nothing instead)
-AddFunction,		<cyfunction ConsoleWindow.AddFunction at 0x238F5558>
+AddFunction,		<cyfunction ConsoleWindow.AddFunction at 0x26444F50>
 	arg0: self
 	arg1: cmd
 	arg2: func
 
 submodule.AddFunction
 Skipped: unbound method cython_function_or_method object must be called with ConsoleWindow instance as first argument (got nothing instead)
-InitFunction,		<cyfunction ConsoleWindow.InitFunction at 0x238F5500>
+InitFunction,		<cyfunction ConsoleWindow.InitFunction at 0x26444EF8>
 	arg0: self
 
 submodule.InitFunction
@@ -601,19 +601,19 @@ BUTTON_COLOR,		-1
 submodule.BUTTON_COLOR
 
 
-OpenWindow,		<cyfunction ConsoleWindow.OpenWindow at 0x238F53F8>
+OpenWindow,		<cyfunction ConsoleWindow.OpenWindow at 0x26444DF0>
 	arg0: self
 
 submodule.OpenWindow
 Skipped: unbound method cython_function_or_method object must be called with ConsoleWindow instance as first argument (got nothing instead)
-Close,		<cyfunction ConsoleWindow.Close at 0x238F5298>
+Close,		<cyfunction ConsoleWindow.Close at 0x26444C90>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ConsoleWindow instance as first argument (got nothing instead)
 ConsoleEditLine,		<class 'consoleModule.ConsoleEditLine'>
 Skip: type object 'ConsoleEditLine' has no attribute 'func_code'
-UpdatePosition,		<cyfunction ConsoleWindow.UpdatePosition at 0x238F53A0>
+UpdatePosition,		<cyfunction ConsoleWindow.UpdatePosition at 0x26444D98>
 	arg0: self
 
 submodule.UpdatePosition

@@ -1,5 +1,6 @@
 key: textTail, val: <module 'textTail' (built-in)>
 key: __builtins__, val: <module '__builtin__' (built-in)>
+key: app, val: <module 'app' (built-in)>
 key: dbg, val: <module 'dbg' (built-in)>
 key: __package__, val: None
 key: chr, val: <module 'chr' (built-in)>
@@ -13,22 +14,22 @@ key: math, val: <module 'math' (built-in)>
 
 
 class PlayerGauge:
-OnUpdate,		<cyfunction PlayerGauge.OnUpdate at 0x0C5F39D0>
+OnUpdate,		<cyfunction PlayerGauge.OnUpdate at 0x0A386B88>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-RefreshGauge,		<cyfunction PlayerGauge.RefreshGauge at 0x0C5F38C8>
+RefreshGauge,		<cyfunction PlayerGauge.RefreshGauge at 0x0A394450>
 	arg0: self
 
 submodule.RefreshGauge
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-Hide,		<cyfunction PlayerGauge.Hide at 0x0C5F3978>
+Hide,		<cyfunction PlayerGauge.Hide at 0x0A386BE0>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-__del__,		<cyfunction PlayerGauge.__del__ at 0x0C5F3660>
+__del__,		<cyfunction PlayerGauge.__del__ at 0x0A386C38>
 	arg0: self
 
 submodule.__del__
@@ -48,17 +49,17 @@ __qualname__,		PlayerGauge
 submodule.__qualname__
 
 
-EnableShowAlways,		<cyfunction PlayerGauge.EnableShowAlways at 0x0C5F3920>
+EnableShowAlways,		<cyfunction PlayerGauge.EnableShowAlways at 0x0A3943F8>
 	arg0: self
 
 submodule.EnableShowAlways
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-DisableShowAlways,		<cyfunction PlayerGauge.DisableShowAlways at 0x0C5F3818>
+DisableShowAlways,		<cyfunction PlayerGauge.DisableShowAlways at 0x0A3943A0>
 	arg0: self
 
 submodule.DisableShowAlways
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-__init__,		<cyfunction PlayerGauge.__init__ at 0x0C5F3608>
+__init__,		<cyfunction PlayerGauge.__init__ at 0x0A386C90>
 	arg0: self
 	arg1: parent
 
