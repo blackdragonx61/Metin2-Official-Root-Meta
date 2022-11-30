@@ -11,7 +11,7 @@ key: __doc__, val: None
 
 
 class KORCandidateWindow:
-Load,		<cyfunction KORCandidateWindow.Load at 0x0AA137C0>
+Load,		<cyfunction KORCandidateWindow.Load at 0x08A0A240>
 	arg0: self
 
 submodule.Load
@@ -21,17 +21,17 @@ __module__,		uiCandidate
 submodule.__module__
 
 
-__del__,		<cyfunction KORCandidateWindow.__del__ at 0x0AA135B0>
+__del__,		<cyfunction KORCandidateWindow.__del__ at 0x08A0A030>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with KORCandidateWindow instance as first argument (got nothing instead)
-Clear,		<cyfunction KORCandidateWindow.Clear at 0x0AA13660>
+Clear,		<cyfunction KORCandidateWindow.Clear at 0x08A0A0E0>
 	arg0: self
 
 submodule.Clear
 Skipped: unbound method cython_function_or_method object must be called with KORCandidateWindow instance as first argument (got nothing instead)
-Refresh,		<cyfunction KORCandidateWindow.Refresh at 0x0AA13710>
+Refresh,		<cyfunction KORCandidateWindow.Refresh at 0x08A0A190>
 	arg0: self
 
 submodule.Refresh
@@ -41,13 +41,13 @@ __qualname__,		KORCandidateWindow
 submodule.__qualname__
 
 
-Append,		<cyfunction KORCandidateWindow.Append at 0x0AA136B8>
+Append,		<cyfunction KORCandidateWindow.Append at 0x08A0A138>
 	arg0: self
 	arg1: text
 
 submodule.Append
 Skipped: unbound method cython_function_or_method object must be called with KORCandidateWindow instance as first argument (got nothing instead)
-SetCandidatePosition,		<cyfunction KORCandidateWindow.SetCandidatePosition at 0x0AA13608>
+SetCandidatePosition,		<cyfunction KORCandidateWindow.SetCandidatePosition at 0x08A0A088>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -55,12 +55,12 @@ SetCandidatePosition,		<cyfunction KORCandidateWindow.SetCandidatePosition at 0x
 
 submodule.SetCandidatePosition
 Skipped: unbound method cython_function_or_method object must be called with KORCandidateWindow instance as first argument (got nothing instead)
-_KORCandidateWindow__LoadScript,		<cyfunction KORCandidateWindow.__LoadScript at 0x0AA13818>
+_KORCandidateWindow__LoadScript,		<cyfunction KORCandidateWindow.__LoadScript at 0x08A0A298>
 	arg0: self
 
 submodule._KORCandidateWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with KORCandidateWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction KORCandidateWindow.__init__ at 0x0AA13558>
+__init__,		<cyfunction KORCandidateWindow.__init__ at 0x08A09FA8>
 	arg0: self
 
 submodule.__init__
@@ -70,13 +70,13 @@ __doc__,		None
 submodule.__doc__
 
 
-Select,		<cyfunction KORCandidateWindow.Select at 0x0AA13768>
+Select,		<cyfunction KORCandidateWindow.Select at 0x08A0A1E8>
 	arg0: self
 	arg1: pos
 
 submodule.Select
 Skipped: unbound method cython_function_or_method object must be called with KORCandidateWindow instance as first argument (got nothing instead)
-_KORCandidateWindow__BindObject,		<cyfunction KORCandidateWindow.__BindObject at 0x0AA13870>
+_KORCandidateWindow__BindObject,		<cyfunction KORCandidateWindow.__BindObject at 0x08A0A2F0>
 	arg0: self
 
 submodule._KORCandidateWindow__BindObject
@@ -94,17 +94,17 @@ __module__,		uiCandidate
 submodule.__module__
 
 
-__del__,		<cyfunction VerticalCandidateBoard.__del__ at 0x0AA132F0>
+__del__,		<cyfunction VerticalCandidateBoard.__del__ at 0x08A09D40>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with VerticalCandidateBoard instance as first argument (got nothing instead)
-Clear,		<cyfunction VerticalCandidateBoard.Clear at 0x0AA13450>
+Clear,		<cyfunction VerticalCandidateBoard.Clear at 0x08A09EA0>
 	arg0: self
 
 submodule.Clear
 Skipped: unbound method cython_function_or_method object must be called with VerticalCandidateBoard instance as first argument (got nothing instead)
-Refresh,		<cyfunction VerticalCandidateBoard.Refresh at 0x0AA13500>
+Refresh,		<cyfunction VerticalCandidateBoard.Refresh at 0x08A09F50>
 	arg0: self
 
 submodule.Refresh
@@ -114,12 +114,12 @@ SLOT_HEIGHT,		14
 submodule.SLOT_HEIGHT
 
 
-__init__,		<cyfunction VerticalCandidateBoard.__init__ at 0x0AA13298>
+__init__,		<cyfunction VerticalCandidateBoard.__init__ at 0x08A09CE8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with VerticalCandidateBoard instance as first argument (got nothing instead)
-Load,		<cyfunction VerticalCandidateBoard.Load at 0x0AA133F8>
+Load,		<cyfunction VerticalCandidateBoard.Load at 0x08A09E48>
 	arg0: self
 
 submodule.Load
@@ -139,7 +139,7 @@ __qualname__,		VerticalCandidateBoard
 submodule.__qualname__
 
 
-SetCandidatePosition,		<cyfunction VerticalCandidateBoard.SetCandidatePosition at 0x0AA133A0>
+SetCandidatePosition,		<cyfunction VerticalCandidateBoard.SetCandidatePosition at 0x08A09DF0>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -147,7 +147,7 @@ SetCandidatePosition,		<cyfunction VerticalCandidateBoard.SetCandidatePosition a
 
 submodule.SetCandidatePosition
 Skipped: unbound method cython_function_or_method object must be called with VerticalCandidateBoard instance as first argument (got nothing instead)
-SetCharacterCount,		<cyfunction VerticalCandidateBoard.SetCharacterCount at 0x0AA13348>
+SetCharacterCount,		<cyfunction VerticalCandidateBoard.SetCharacterCount at 0x08A09D98>
 	arg0: self
 	arg1: xCount
 	arg2: yCount
@@ -169,7 +169,7 @@ __doc__,		None
 submodule.__doc__
 
 
-Append,		<cyfunction VerticalCandidateBoard.Append at 0x0AA134A8>
+Append,		<cyfunction VerticalCandidateBoard.Append at 0x08A09EF8>
 	arg0: self
 	arg1: text
 

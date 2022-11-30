@@ -1,39 +1,30 @@
 key: shop, val: <module 'shop' (built-in)>
-key: chatm2g, val: <module 'chatm2g' (built-in)>
-key: app, val: <module 'app' (built-in)>
-key: PrivateShopDialog, val: <class 'uiPrivateShop.PrivateShopDialog'>
-key: m2netm2g, val: <module 'm2netm2g' (built-in)>
-key: playerm2g2, val: <module 'playerm2g2' (built-in)>
-key: constInfo, val: <module 'constInfo' (built-in)>
-key: premiumPrivateShop, val: <module 'premiumPrivateShop' (built-in)>
-key: uiToolTip, val: <module 'uiToolTip' (built-in)>
-key: __package__, val: None
-key: chr, val: <module 'chr' (built-in)>
-key: mouseModule, val: <module 'mouseModule' (built-in)>
-key: uiScriptLocale, val: <module 'uiScriptLocale' (built-in)>
-key: localeInfo, val: <module 'localeInfo' (built-in)>
-key: __doc__, val: None
 key: uiCommon, val: <module 'uiCommon' (built-in)>
 key: snd, val: <module 'snd' (built-in)>
+key: constInfo, val: <module 'constInfo' (built-in)>
 key: __builtins__, val: <module '__builtin__' (built-in)>
-key: __test__, val: {}
-key: proxy, val: <built-in function proxy>
-key: background, val: <module 'background' (built-in)>
-key: wndMgr, val: <module 'wndMgr' (built-in)>
-key: __name__, val: uiPrivateShop
-key: PremiumPrivateShopDialog, val: <class 'uiPrivateShop.PremiumPrivateShopDialog'>
+key: app, val: <module 'app' (built-in)>
+key: __package__, val: None
+key: PrivateShopDialog, val: <class 'uiPrivateShop.PrivateShopDialog'>
 key: item, val: <module 'item' (built-in)>
+key: m2netm2g, val: <module 'm2netm2g' (built-in)>
+key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
+key: mouseModule, val: <module 'mouseModule' (built-in)>
+key: __test__, val: {}
+key: __name__, val: uiPrivateShop
+key: localeInfo, val: <module 'localeInfo' (built-in)>
+key: __doc__, val: None
 
 
 class PrivateShopDialog:
-SelectEmptySlot,		<cyfunction PrivateShopDialog.SelectEmptySlot at 0x0AD76298>
+SelectEmptySlot,		<cyfunction PrivateShopDialog.SelectEmptySlot at 0x08D3FEA0>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-AskClosePrivateShop,		<cyfunction PrivateShopDialog.AskClosePrivateShop at 0x0AD76138>
+AskClosePrivateShop,		<cyfunction PrivateShopDialog.AskClosePrivateShop at 0x08D3FD40>
 	arg0: self
 
 submodule.AskClosePrivateShop
@@ -43,70 +34,70 @@ __module__,		uiPrivateShop
 submodule.__module__
 
 
-SelectItemSlot,		<cyfunction PrivateShopDialog.SelectItemSlot at 0x0AD76348>
+SelectItemSlot,		<cyfunction PrivateShopDialog.SelectItemSlot at 0x08D3FF50>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-UnselectItemSlot,		<cyfunction PrivateShopDialog.UnselectItemSlot at 0x0AD762F0>
+UnselectItemSlot,		<cyfunction PrivateShopDialog.UnselectItemSlot at 0x08D3FEF8>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.UnselectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-OnCloseQuestionDialog,		<cyfunction PrivateShopDialog.OnCloseQuestionDialog at 0x0AD761E8>
+OnCloseQuestionDialog,		<cyfunction PrivateShopDialog.OnCloseQuestionDialog at 0x08D3FDF0>
 	arg0: self
 
 submodule.OnCloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-AskBuyItem,		<cyfunction PrivateShopDialog.AskBuyItem at 0x0AD763F8>
+AskBuyItem,		<cyfunction PrivateShopDialog.AskBuyItem at 0x08D4C030>
 	arg0: self
 	arg1: slotPos
 
 submodule.AskBuyItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-Refresh,		<cyfunction PrivateShopDialog.Refresh at 0x0AD63E48>
+Refresh,		<cyfunction PrivateShopDialog.Refresh at 0x08D3FA80>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction PrivateShopDialog.__del__ at 0x0AD63D40>
+__del__,		<cyfunction PrivateShopDialog.__del__ at 0x08D3F978>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-_PrivateShopDialog__LoadDialog,		<cyfunction PrivateShopDialog.__LoadDialog at 0x0AD63D98>
+_PrivateShopDialog__LoadDialog,		<cyfunction PrivateShopDialog.__LoadDialog at 0x08D3F9D0>
 	arg0: self
 
 submodule._PrivateShopDialog__LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PrivateShopDialog.OnPressEscapeKey at 0x0AD63FA8>
+OnPressEscapeKey,		<cyfunction PrivateShopDialog.OnPressEscapeKey at 0x08D3FBE0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-DropToInventory,		<cyfunction PrivateShopDialog.DropToInventory at 0x0AD763A0>
+DropToInventory,		<cyfunction PrivateShopDialog.DropToInventory at 0x08D3FFA8>
 	arg0: self
 
 submodule.DropToInventory
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction PrivateShopDialog.Destroy at 0x0AD63F50>
+Destroy,		<cyfunction PrivateShopDialog.Destroy at 0x08D3FB88>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction PrivateShopDialog.__init__ at 0x0AD63CE8>
+__init__,		<cyfunction PrivateShopDialog.__init__ at 0x08D3F920>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-_PrivateShopDialog__ClearVariable,		<cyfunction PrivateShopDialog.__ClearVariable at 0x0AD63EF8>
+_PrivateShopDialog__ClearVariable,		<cyfunction PrivateShopDialog.__ClearVariable at 0x08D3FB30>
 	arg0: self
 
 submodule._PrivateShopDialog__ClearVariable
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction PrivateShopDialog.SetItemToolTip at 0x0AD76030>
+SetItemToolTip,		<cyfunction PrivateShopDialog.SetItemToolTip at 0x08D3FC38>
 	arg0: self
 	arg1: tooltipItem
 
@@ -117,39 +108,39 @@ __qualname__,		PrivateShopDialog
 submodule.__qualname__
 
 
-OnUpdate,		<cyfunction PrivateShopDialog.OnUpdate at 0x0AD76240>
+OnUpdate,		<cyfunction PrivateShopDialog.OnUpdate at 0x08D3FE48>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-OverInItem,		<cyfunction PrivateShopDialog.OverInItem at 0x0AD76088>
+OverInItem,		<cyfunction PrivateShopDialog.OverInItem at 0x08D3FC90>
 	arg0: self
 	arg1: slotIdx
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction PrivateShopDialog.OverOutItem at 0x0AD760E0>
+OverOutItem,		<cyfunction PrivateShopDialog.OverOutItem at 0x08D3FCE8>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-AnswerBuyItem,		<cyfunction PrivateShopDialog.AnswerBuyItem at 0x0AD76450>
+AnswerBuyItem,		<cyfunction PrivateShopDialog.AnswerBuyItem at 0x08D4C088>
 	arg0: self
 	arg1: flag
 
 submodule.AnswerBuyItem
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-OnClosePrivateShop,		<cyfunction PrivateShopDialog.OnClosePrivateShop at 0x0AD76190>
+OnClosePrivateShop,		<cyfunction PrivateShopDialog.OnClosePrivateShop at 0x08D3FD98>
 	arg0: self
 
 submodule.OnClosePrivateShop
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-Close,		<cyfunction PrivateShopDialog.Close at 0x0AD63EA0>
+Close,		<cyfunction PrivateShopDialog.Close at 0x08D3FAD8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PrivateShopDialog instance as first argument (got nothing instead)
-Open,		<cyfunction PrivateShopDialog.Open at 0x0AD63DF0>
+Open,		<cyfunction PrivateShopDialog.Open at 0x08D3FA28>
 	arg0: self
 	arg1: vid
 
@@ -160,452 +151,5 @@ __doc__,		None
 submodule.__doc__
 
 
-
-
-class PremiumPrivateShopDialog:
-_PremiumPrivateShopDialog__LoadWindow,		<cyfunction PremiumPrivateShopDialog.__LoadWindow at 0x0AD76920>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__LoadWindow
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__GetPremiumPrivateShopReceiveYang,		<cyfunction PremiumPrivateShopDialog.__GetPremiumPrivateShopReceiveYang at 0x0AD774A8>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__GetPremiumPrivateShopReceiveYang
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-IsPossiblePremiumPrivateShopDialogOpen,		<cyfunction PremiumPrivateShopDialog.IsPossiblePremiumPrivateShopDialogOpen at 0x0AD77710>
-	arg0: self
-
-submodule.IsPossiblePremiumPrivateShopDialogOpen
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-Hide,		<cyfunction PremiumPrivateShopDialog.Hide at 0x0AD76768>
-	arg0: self
-
-submodule.Hide
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__GetPremiumPrivateShopTabCount,		<cyfunction PremiumPrivateShopDialog.__GetPremiumPrivateShopTabCount at 0x0AD77558>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__GetPremiumPrivateShopTabCount
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-GetItemDataSocketValue,		<cyfunction PremiumPrivateShopDialog.GetItemDataSocketValue at 0x0AD76A28>
-	arg0: self
-	arg1: window_type
-	arg2: slot_index
-
-submodule.GetItemDataSocketValue
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__RefreshItemSlot,		<cyfunction PremiumPrivateShopDialog.__RefreshItemSlot at 0x0AD772F0>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__RefreshItemSlot
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-__module__,		uiPrivateShop
-
-submodule.__module__
-
-
-_PremiumPrivateShopDialog__SetOnTopWindowNone,		<cyfunction PremiumPrivateShopDialog.__SetOnTopWindowNone at 0x0AD76660>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__SetOnTopWindowNone
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__CancelInputPrice,		<cyfunction PremiumPrivateShopDialog.__CancelInputPrice at 0x0AD76B30>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__CancelInputPrice
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__OnClickShopCloseButton,		<cyfunction PremiumPrivateShopDialog.__OnClickShopCloseButton at 0x0AD76F50>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__OnClickShopCloseButton
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__remain_time_text,		<member '_PremiumPrivateShopDialog__remain_time_text' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__remain_time_text
-
-
-_PremiumPrivateShopDialog__shop_start_x,		<member '_PremiumPrivateShopDialog__shop_start_x' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__shop_start_x
-
-
-_PremiumPrivateShopDialog__UnselectItemSlot,		<cyfunction PremiumPrivateShopDialog.__UnselectItemSlot at 0x0AD76C38>
-	arg0: self
-	arg1: slot_index
-
-submodule._PremiumPrivateShopDialog__UnselectItemSlot
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction PremiumPrivateShopDialog.Destroy at 0x0AD76558>
-	arg0: self
-
-submodule.Destroy
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__is_loaded,		<member '_PremiumPrivateShopDialog__is_loaded' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__is_loaded
-
-
-_PremiumPrivateShopDialog__OnClickTaxAdjustmentButton,		<cyfunction PremiumPrivateShopDialog.__OnClickTaxAdjustmentButton at 0x0AD77088>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__OnClickTaxAdjustmentButton
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction PremiumPrivateShopDialog.__init__ at 0x0AD764A8>
-	arg0: self
-
-submodule.__init__
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__BindEvent,		<cyfunction PremiumPrivateShopDialog.__BindEvent at 0x0AD769D0>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__BindEvent
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__sandglass_icon,		<member '_PremiumPrivateShopDialog__sandglass_icon' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__sandglass_icon
-
-
-_PremiumPrivateShopDialog__SetPremiumPrivateShopInfo,		<cyfunction PremiumPrivateShopDialog.__SetPremiumPrivateShopInfo at 0x0AD77608>
-	arg0: self
-	arg1: info_tuple
-
-submodule._PremiumPrivateShopDialog__SetPremiumPrivateShopInfo
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__BindObject,		<cyfunction PremiumPrivateShopDialog.__BindObject at 0x0AD76978>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__BindObject
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__reopen_button,		<member '_PremiumPrivateShopDialog__reopen_button' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__reopen_button
-
-
-_PremiumPrivateShopDialog__SelectEmptySlot,		<cyfunction PremiumPrivateShopDialog.__SelectEmptySlot at 0x0AD76A80>
-	arg0: self
-	arg1: slot_index
-
-submodule._PremiumPrivateShopDialog__SelectEmptySlot
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__won_icon,		<member '_PremiumPrivateShopDialog__won_icon' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__won_icon
-
-
-_PremiumPrivateShopDialog__info_tuple,		<member '_PremiumPrivateShopDialog__info_tuple' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__info_tuple
-
-
-_PremiumPrivateShopDialog__AcceptInputPrice,		<cyfunction PremiumPrivateShopDialog.__AcceptInputPrice at 0x0AD76AD8>
-	arg0: self
-	arg1: data
-
-submodule._PremiumPrivateShopDialog__AcceptInputPrice
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__yang_icon,		<member '_PremiumPrivateShopDialog__yang_icon' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__yang_icon
-
-
-OnTop,		<cyfunction PremiumPrivateShopDialog.OnTop at 0x0AD766B8>
-	arg0: self
-
-submodule.OnTop
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__OnClickTabButton,		<cyfunction PremiumPrivateShopDialog.__OnClickTabButton at 0x0AD76E48>
-	arg0: self
-	arg1: tab_index
-
-submodule._PremiumPrivateShopDialog__OnClickTabButton
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__UseItemSlot,		<cyfunction PremiumPrivateShopDialog.__UseItemSlot at 0x0AD76C90>
-	arg0: self
-	arg1: slot_index
-
-submodule._PremiumPrivateShopDialog__UseItemSlot
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__MakePositionLoca,		<cyfunction PremiumPrivateShopDialog.__MakePositionLoca at 0x0AD775B0>
-	arg0: self
-	arg1: channel
-	arg2: map_index
-	arg3: x
-	arg4: y
-
-submodule._PremiumPrivateShopDialog__MakePositionLoca
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__OnClickReOpenButton,		<cyfunction PremiumPrivateShopDialog.__OnClickReOpenButton at 0x0AD76EF8>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__OnClickReOpenButton
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__OverInItemSlot,		<cyfunction PremiumPrivateShopDialog.__OverInItemSlot at 0x0AD77190>
-	arg0: self
-	arg1: slot_index
-
-submodule._PremiumPrivateShopDialog__OverInItemSlot
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__CheckDistance,		<cyfunction PremiumPrivateShopDialog.__CheckDistance at 0x0AD77660>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__CheckDistance
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__tax_adjustment_dialog__price_input_dialog__private_shop_close_question_dialog,		<member '_PremiumPrivateShopDialog__tax_adjustment_dialog__price_input_dialog__private_shop_close_question_dialog' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__tax_adjustment_dialog__price_input_dialog__private_shop_close_question_dialog
-
-
-_PremiumPrivateShopDialog__position_icon,		<member '_PremiumPrivateShopDialog__position_icon' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__position_icon
-
-
-_PremiumPrivateShopDialog__AcceptShopClose,		<cyfunction PremiumPrivateShopDialog.__AcceptShopClose at 0x0AD76FA8>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__AcceptShopClose
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__cur_page,		<member '_PremiumPrivateShopDialog__cur_page' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__cur_page
-
-
-BindInterface,		<cyfunction PremiumPrivateShopDialog.BindInterface at 0x0AD76608>
-	arg0: self
-	arg1: interface
-
-submodule.BindInterface
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__yang_text,		<member '_PremiumPrivateShopDialog__yang_text' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__yang_text
-
-
-__doc__,		None
-
-submodule.__doc__
-
-
-_PremiumPrivateShopDialog__modify_button,		<member '_PremiumPrivateShopDialog__modify_button' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__modify_button
-
-
-_PremiumPrivateShopDialog__OverInWindow,		<cyfunction PremiumPrivateShopDialog.__OverInWindow at 0x0AD76D98>
-	arg0: self
-	arg1: loca
-
-submodule._PremiumPrivateShopDialog__OverInWindow
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__OverOutItemSlot,		<cyfunction PremiumPrivateShopDialog.__OverOutItemSlot at 0x0AD771E8>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__OverOutItemSlot
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__GetPremiumPrivateShopState,		<cyfunction PremiumPrivateShopDialog.__GetPremiumPrivateShopState at 0x0AD773F8>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__GetPremiumPrivateShopState
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__position_loca,		<member '_PremiumPrivateShopDialog__position_loca' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__position_loca
-
-
-_PremiumPrivateShopDialog__AcceptTaxAdjustment,		<cyfunction PremiumPrivateShopDialog.__AcceptTaxAdjustment at 0x0AD770E0>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__AcceptTaxAdjustment
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__OverInIcon,		<cyfunction PremiumPrivateShopDialog.__OverInIcon at 0x0AD76D40>
-	arg0: self
-	arg1: mouse_state
-	arg2: loca
-
-submodule._PremiumPrivateShopDialog__OverInIcon
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__GetPremiumPrivateShopMapIndex,		<cyfunction PremiumPrivateShopDialog.__GetPremiumPrivateShopMapIndex at 0x0AD773A0>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__GetPremiumPrivateShopMapIndex
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-Clear,		<cyfunction PremiumPrivateShopDialog.Clear at 0x0AD76870>
-	arg0: self
-
-submodule.Clear
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__item_slot,		<member '_PremiumPrivateShopDialog__item_slot' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__item_slot
-
-
-_PremiumPrivateShopDialog__shop_close_button,		<member '_PremiumPrivateShopDialog__shop_close_button' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__shop_close_button
-
-
-_PremiumPrivateShopDialog__GetRealSlotIndex,		<cyfunction PremiumPrivateShopDialog.__GetRealSlotIndex at 0x0AD77240>
-	arg0: self
-	arg1: slot_index
-
-submodule._PremiumPrivateShopDialog__GetRealSlotIndex
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__tax_adjustment_button,		<member '_PremiumPrivateShopDialog__tax_adjustment_button' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__tax_adjustment_button
-
-
-__del__,		<cyfunction PremiumPrivateShopDialog.__del__ at 0x0AD76500>
-	arg0: self
-
-submodule.__del__
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__OverOutWindow,		<cyfunction PremiumPrivateShopDialog.__OverOutWindow at 0x0AD76DF0>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__OverOutWindow
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__won_text,		<member '_PremiumPrivateShopDialog__won_text' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__won_text
-
-
-OnPressEscapeKey,		<cyfunction PremiumPrivateShopDialog.OnPressEscapeKey at 0x0AD76818>
-	arg0: self
-
-submodule.OnPressEscapeKey
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__tab_button_tuple,		<member '_PremiumPrivateShopDialog__tab_button_tuple' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__tab_button_tuple
-
-
-_PremiumPrivateShopDialog__SelectItemSlot,		<cyfunction PremiumPrivateShopDialog.__SelectItemSlot at 0x0AD76B88>
-	arg0: self
-	arg1: slot_index
-
-submodule._PremiumPrivateShopDialog__SelectItemSlot
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__GetPremiumPrivateShopChannel,		<cyfunction PremiumPrivateShopDialog.__GetPremiumPrivateShopChannel at 0x0AD77348>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__GetPremiumPrivateShopChannel
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__OverInPositionIcon,		<cyfunction PremiumPrivateShopDialog.__OverInPositionIcon at 0x0AD76CE8>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__OverInPositionIcon
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__CancelShopClose,		<cyfunction PremiumPrivateShopDialog.__CancelShopClose at 0x0AD77030>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__CancelShopClose
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__shop_name_text,		<member '_PremiumPrivateShopDialog__shop_name_text' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__shop_name_text
-
-
-_PremiumPrivateShopDialog__GetPremiumPrivateShopReceiveWon,		<cyfunction PremiumPrivateShopDialog.__GetPremiumPrivateShopReceiveWon at 0x0AD77450>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__GetPremiumPrivateShopReceiveWon
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__RefreshButton,		<cyfunction PremiumPrivateShopDialog.__RefreshButton at 0x0AD77298>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__RefreshButton
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__CheckExpireTime,		<cyfunction PremiumPrivateShopDialog.__CheckExpireTime at 0x0AD776B8>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__CheckExpireTime
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction PremiumPrivateShopDialog.SetItemToolTip at 0x0AD765B0>
-	arg0: self
-	arg1: tooltip_item
-
-submodule.SetItemToolTip
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-Show,		<cyfunction PremiumPrivateShopDialog.Show at 0x0AD767C0>
-	arg0: self
-
-submodule.Show
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__interface,		<member '_PremiumPrivateShopDialog__interface' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__interface
-
-
-_PremiumPrivateShopDialog__GetPremiumPrivateShopExpireTime,		<cyfunction PremiumPrivateShopDialog.__GetPremiumPrivateShopExpireTime at 0x0AD77500>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__GetPremiumPrivateShopExpireTime
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__tooltip,		<member '_PremiumPrivateShopDialog__tooltip' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__tooltip
-
-
-OnUpdate,		<cyfunction PremiumPrivateShopDialog.OnUpdate at 0x0AD768C8>
-	arg0: self
-
-submodule.OnUpdate
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__notice_text,		<member '_PremiumPrivateShopDialog__notice_text' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__notice_text
-
-
-_PremiumPrivateShopDialog__shop_start_y,		<member '_PremiumPrivateShopDialog__shop_start_y' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__shop_start_y
-
-
-__qualname__,		PremiumPrivateShopDialog
-
-submodule.__qualname__
-
-
-__slots__,		('__is_loaded', '__position_icon', '__shop_name_text', '__notice_text', '__item_slot', '__remain_time_text', '__won_text', '__yang_text', '__modify_button', '__reopen_button', '__tax_adjustment_button', '__shop_close_button', '__tab_button_tuple', '__sandglass_icon', '__won_icon', '__yang_icon', '__tooltip', '__tooltip_item', '__interface', '__tax_adjustment_dialog__price_input_dialog__private_shop_close_question_dialog', '__cur_page', '__position_loca', '__info_tuple', '__shop_start_x', '__shop_start_y')
-
-submodule.__slots__
-
-
-_PremiumPrivateShopDialog__OnClickModifyButton,		<cyfunction PremiumPrivateShopDialog.__OnClickModifyButton at 0x0AD76EA0>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__OnClickModifyButton
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-PremiumPrivateShopProcess,		<cyfunction PremiumPrivateShopDialog.PremiumPrivateShopProcess at 0x0AD77768>
-	arg0: self
-	arg1: type
-	arg2: data
-
-submodule.PremiumPrivateShopProcess
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__CancelTaxAdjustment,		<cyfunction PremiumPrivateShopDialog.__CancelTaxAdjustment at 0x0AD77138>
-	arg0: self
-
-submodule._PremiumPrivateShopDialog__CancelTaxAdjustment
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-Close,		<cyfunction PremiumPrivateShopDialog.Close at 0x0AD76710>
-	arg0: self
-
-submodule.Close
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
-_PremiumPrivateShopDialog__tooltip_item,		<member '_PremiumPrivateShopDialog__tooltip_item' of 'PremiumPrivateShopDialog' objects>
-
-submodule._PremiumPrivateShopDialog__tooltip_item
-
-
-_PremiumPrivateShopDialog__PremiumPrivateShopToInventory,		<cyfunction PremiumPrivateShopDialog.__PremiumPrivateShopToInventory at 0x0AD76BE0>
-	arg0: self
-	arg1: window_type
-	arg2: pos
-
-submodule._PremiumPrivateShopDialog__PremiumPrivateShopToInventory
-Skipped: unbound method cython_function_or_method object must be called with PremiumPrivateShopDialog instance as first argument (got nothing instead)
 
 

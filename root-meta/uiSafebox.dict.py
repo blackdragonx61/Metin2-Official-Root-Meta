@@ -17,7 +17,6 @@
            {'class': [],
             'func': [{'args': ['self'], 'defaults': [], 'name': 'CloseDialog'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
-                     {'args': ['self', 'password'], 'defaults': [], 'name': 'IsPasswordAvailable'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnAccept'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnCancel'},
                      {'args': ['self', 'msg', 'event'], 'defaults': [], 'name': 'OpenPopupEvent'},

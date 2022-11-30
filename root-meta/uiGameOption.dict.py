@@ -56,7 +56,6 @@
                      {'args': ['self'], 'defaults': [], 'name': '__OnClickViewChatOnButton'},
                      {'args': ['self'], 'defaults': [], 'name': '__RefreshPVPButtonList'},
                      {'args': ['self'], 'defaults': [], 'name': '__RefreshStructViewMode'},
-                     {'args': ['self'], 'defaults': [], 'name': '__SetFreePKMode'},
                      {'args': ['self', 'index'], 'defaults': [], 'name': '__SetNameColorMode'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__SetPKMode'},
                      {'args': ['self'], 'defaults': [], 'name': '__SetPeacePKMode'},

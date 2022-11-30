@@ -31,7 +31,7 @@ key: uiCommon, val: <module 'uiCommon' (built-in)>
 key: snd, val: <module 'snd' (built-in)>
 key: EVENT_TYPE_CALL_TURN_CHECK, val: 8
 key: YUTNORI_STATE_MOVE, val: 2
-key: prob_name_tuple, val: ('Do', 'Gae', 'Geol', 'Yut', 'Mo', 'Back Do')
+key: prob_name_tuple, val: ('Do', 'Ge', 'Geol', 'Yut', 'Mo', 'Back-do')
 key: TOTAL_SCORE_MID_FONT_COLOR, val: 4293830912
 key: __builtins__, val: <module '__builtin__' (built-in)>
 key: __test__, val: {}
@@ -60,7 +60,7 @@ key: YUTNORI_GOAL_AREA, val: 11
 key: ui, val: <module 'ui' (built-in)>
 key: YUTNORI_BEFORE_TURN_SELECT, val: 3
 key: YutArea, val: uiMiniGameYutnori.YutArea
-key: LoadScript, val: <cyfunction LoadScript at 0x0A8CBE48>
+key: LoadScript, val: <cyfunction LoadScript at 0x08CFA660>
 key: YUTNORI_YUTSEM3, val: 2
 key: EVENT_TYPE_DELAY, val: 2
 key: VISIBLE_LINE_COUNT, val: 20
@@ -73,24 +73,24 @@ __module__,		uiMiniGameYutnori
 submodule.__module__
 
 
-Show,		<cyfunction MiniGameYutnori.Show at 0x0A8DA240>
+Show,		<cyfunction MiniGameYutnori.Show at 0x08D0BA28>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniGameYutnori instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameYutnori.__del__ at 0x0A8DA1E8>
+__del__,		<cyfunction MiniGameYutnori.__del__ at 0x08D0B9D0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameYutnori instance as first argument (got nothing instead)
-YutnoriProcess,		<cyfunction MiniGameYutnori.YutnoriProcess at 0x0A8DA3F8>
+YutnoriProcess,		<cyfunction MiniGameYutnori.YutnoriProcess at 0x08D0BBE0>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.YutnoriProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniGameYutnori instance as first argument (got nothing instead)
-_MiniGameYutnori__LoadWindow,		<cyfunction MiniGameYutnori.__LoadWindow at 0x0A8DA348>
+_MiniGameYutnori__LoadWindow,		<cyfunction MiniGameYutnori.__LoadWindow at 0x08D0BB30>
 	arg0: self
 
 submodule._MiniGameYutnori__LoadWindow
@@ -100,17 +100,17 @@ __qualname__,		MiniGameYutnori
 submodule.__qualname__
 
 
-Close,		<cyfunction MiniGameYutnori.Close at 0x0A8DA298>
+Close,		<cyfunction MiniGameYutnori.Close at 0x08D0BA80>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniGameYutnori instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniGameYutnori.Destroy at 0x0A8DA2F0>
+Destroy,		<cyfunction MiniGameYutnori.Destroy at 0x08D0BAD8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MiniGameYutnori instance as first argument (got nothing instead)
-Open,		<cyfunction MiniGameYutnori.Open at 0x0A8DA3A0>
+Open,		<cyfunction MiniGameYutnori.Open at 0x08D0BB88>
 	arg0: self
 
 submodule.Open
@@ -120,7 +120,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MiniGameYutnori.__init__ at 0x0A8DA190>
+__init__,		<cyfunction MiniGameYutnori.__init__ at 0x08D0B978>
 	arg0: self
 
 submodule.__init__
@@ -128,27 +128,27 @@ Skipped: unbound method cython_function_or_method object must be called with Min
 
 
 class YutnoriWaitingPage:
-_YutnoriWaitingPage__ClickStartButton,		<cyfunction YutnoriWaitingPage.__ClickStartButton at 0x0A8D7240>
+_YutnoriWaitingPage__ClickStartButton,		<cyfunction YutnoriWaitingPage.__ClickStartButton at 0x08CFAA28>
 	arg0: self
 
 submodule._YutnoriWaitingPage__ClickStartButton
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-CloseStartDlg,		<cyfunction YutnoriWaitingPage.CloseStartDlg at 0x0A8D7298>
+CloseStartDlg,		<cyfunction YutnoriWaitingPage.CloseStartDlg at 0x08CFAA80>
 	arg0: self
 
 submodule.CloseStartDlg
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-PrevDescriptionPage,		<cyfunction YutnoriWaitingPage.PrevDescriptionPage at 0x0A8D7450>
+PrevDescriptionPage,		<cyfunction YutnoriWaitingPage.PrevDescriptionPage at 0x08CFAC38>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-_YutnoriWaitingPage__StartAccept,		<cyfunction YutnoriWaitingPage.__StartAccept at 0x0A8D72F0>
+_YutnoriWaitingPage__StartAccept,		<cyfunction YutnoriWaitingPage.__StartAccept at 0x08CFAAD8>
 	arg0: self
 
 submodule._YutnoriWaitingPage__StartAccept
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-__del__,		<cyfunction YutnoriWaitingPage.__del__ at 0x0A8D7088>
+__del__,		<cyfunction YutnoriWaitingPage.__del__ at 0x08CFA870>
 	arg0: self
 
 submodule.__del__
@@ -160,32 +160,32 @@ submodule.__module__
 
 DescriptionBox,		<class 'uiMiniGameYutnori.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction YutnoriWaitingPage.OnPressEscapeKey at 0x0A8D71E8>
+OnPressEscapeKey,		<cyfunction YutnoriWaitingPage.OnPressEscapeKey at 0x08CFA9D0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-Destroy,		<cyfunction YutnoriWaitingPage.Destroy at 0x0A8D7190>
+Destroy,		<cyfunction YutnoriWaitingPage.Destroy at 0x08CFA978>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-__init__,		<cyfunction YutnoriWaitingPage.__init__ at 0x0A8D7030>
+__init__,		<cyfunction YutnoriWaitingPage.__init__ at 0x08CFA818>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-_YutnoriWaitingPage__StartCancel,		<cyfunction YutnoriWaitingPage.__StartCancel at 0x0A8D7348>
+_YutnoriWaitingPage__StartCancel,		<cyfunction YutnoriWaitingPage.__StartCancel at 0x08CFAB30>
 	arg0: self
 
 submodule._YutnoriWaitingPage__StartCancel
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction YutnoriWaitingPage.OnUpdate at 0x0A8D73F8>
+OnUpdate,		<cyfunction YutnoriWaitingPage.OnUpdate at 0x08CFABE0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-Show,		<cyfunction YutnoriWaitingPage.Show at 0x0A8D73A0>
+Show,		<cyfunction YutnoriWaitingPage.Show at 0x08CFAB88>
 	arg0: self
 
 submodule.Show
@@ -195,17 +195,17 @@ __qualname__,		YutnoriWaitingPage
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction YutnoriWaitingPage.NextDescriptionPage at 0x0A8D74A8>
+NextDescriptionPage,		<cyfunction YutnoriWaitingPage.NextDescriptionPage at 0x08CFAC90>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-_YutnoriWaitingPage__LoadWindow,		<cyfunction YutnoriWaitingPage.__LoadWindow at 0x0A8D70E0>
+_YutnoriWaitingPage__LoadWindow,		<cyfunction YutnoriWaitingPage.__LoadWindow at 0x08CFA8C8>
 	arg0: self
 
 submodule._YutnoriWaitingPage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with YutnoriWaitingPage instance as first argument (got nothing instead)
-Close,		<cyfunction YutnoriWaitingPage.Close at 0x0A8D7138>
+Close,		<cyfunction YutnoriWaitingPage.Close at 0x08CFA920>
 	arg0: self
 
 submodule.Close
@@ -218,89 +218,89 @@ submodule.__doc__
 
 
 class YutnoriGamePage:
-_YutnoriGamePage__UpdateAlpha,		<cyfunction YutnoriGamePage.__UpdateAlpha at 0x0A8D98C8>
+_YutnoriGamePage__UpdateAlpha,		<cyfunction YutnoriGamePage.__UpdateAlpha at 0x08D0B0E0>
 	arg0: self
 
 submodule._YutnoriGamePage__UpdateAlpha
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__OpenReThrowPopup,		<cyfunction YutnoriGamePage.__OpenReThrowPopup at 0x0A8DA088>
+_YutnoriGamePage__OpenReThrowPopup,		<cyfunction YutnoriGamePage.__OpenReThrowPopup at 0x08D0B870>
 	arg0: self
 
 submodule._YutnoriGamePage__OpenReThrowPopup
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ShowUnitFlash,		<cyfunction YutnoriGamePage.__ShowUnitFlash at 0x0A8D9348>
+_YutnoriGamePage__ShowUnitFlash,		<cyfunction YutnoriGamePage.__ShowUnitFlash at 0x08D0AB30>
 	arg0: self
 	arg1: is_pc
 
 submodule._YutnoriGamePage__ShowUnitFlash
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClickProbButton,		<cyfunction YutnoriGamePage.__ClickProbButton at 0x0A8D9558>
+_YutnoriGamePage__ClickProbButton,		<cyfunction YutnoriGamePage.__ClickProbButton at 0x08D0AD40>
 	arg0: self
 	arg1: index
 
 submodule._YutnoriGamePage__ClickProbButton
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CreateYutImg,		<cyfunction YutnoriGamePage.__CreateYutImg at 0x0A8D8C38>
+_YutnoriGamePage__CreateYutImg,		<cyfunction YutnoriGamePage.__CreateYutImg at 0x08D0A450>
 	arg0: self
 
 submodule._YutnoriGamePage__CreateYutImg
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-YutMove,		<cyfunction YutnoriGamePage.YutMove at 0x0A8D9AD8>
+YutMove,		<cyfunction YutnoriGamePage.YutMove at 0x08D0B2F0>
 	arg0: self
 	arg1: data
 
 submodule.YutMove
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CatchAniEndFrameEvent,		<cyfunction YutnoriGamePage.__CatchAniEndFrameEvent at 0x0A8D9B88>
+_YutnoriGamePage__CatchAniEndFrameEvent,		<cyfunction YutnoriGamePage.__CatchAniEndFrameEvent at 0x08D0B3A0>
 	arg0: self
 
 submodule._YutnoriGamePage__CatchAniEndFrameEvent
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__UpdateChar,		<cyfunction YutnoriGamePage.__UpdateChar at 0x0A8D9978>
+_YutnoriGamePage__UpdateChar,		<cyfunction YutnoriGamePage.__UpdateChar at 0x08D0B190>
 	arg0: self
 
 submodule._YutnoriGamePage__UpdateChar
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-ThrowResult,		<cyfunction YutnoriGamePage.ThrowResult at 0x0A8D9A80>
+ThrowResult,		<cyfunction YutnoriGamePage.ThrowResult at 0x08D0B298>
 	arg0: self
 	arg1: data
 
 submodule.ThrowResult
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CreateYutArea,		<cyfunction YutnoriGamePage.__CreateYutArea at 0x0A8D8B88>
+_YutnoriGamePage__CreateYutArea,		<cyfunction YutnoriGamePage.__CreateYutArea at 0x08D0A3A0>
 	arg0: self
 
 submodule._YutnoriGamePage__CreateYutArea
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__RefreshJoinMemberPosition,		<cyfunction YutnoriGamePage.__RefreshJoinMemberPosition at 0x0A8D9C90>
+_YutnoriGamePage__RefreshJoinMemberPosition,		<cyfunction YutnoriGamePage.__RefreshJoinMemberPosition at 0x08D0B4A8>
 	arg0: self
 
 submodule._YutnoriGamePage__RefreshJoinMemberPosition
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CreateProbSelectButton,		<cyfunction YutnoriGamePage.__CreateProbSelectButton at 0x0A8D8AD8>
+_YutnoriGamePage__CreateProbSelectButton,		<cyfunction YutnoriGamePage.__CreateProbSelectButton at 0x08D0A2F0>
 	arg0: self
 
 submodule._YutnoriGamePage__CreateProbSelectButton
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-AvailableAreaShow,		<cyfunction YutnoriGamePage.AvailableAreaShow at 0x0A8D9240>
+AvailableAreaShow,		<cyfunction YutnoriGamePage.AvailableAreaShow at 0x08D0AA28>
 	arg0: self
 	arg1: data
 
 submodule.AvailableAreaShow
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ScoreEffectEndEvent,		<cyfunction YutnoriGamePage.__ScoreEffectEndEvent at 0x0A8D8CE8>
+_YutnoriGamePage__ScoreEffectEndEvent,		<cyfunction YutnoriGamePage.__ScoreEffectEndEvent at 0x08D0A500>
 	arg0: self
 	arg1: index
 
 submodule._YutnoriGamePage__ScoreEffectEndEvent
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GetMoveCount,		<cyfunction YutnoriGamePage.__GetMoveCount at 0x0A8D9298>
+_YutnoriGamePage__GetMoveCount,		<cyfunction YutnoriGamePage.__GetMoveCount at 0x08D0AA80>
 	arg0: self
 	arg1: unit
 
 submodule._YutnoriGamePage__GetMoveCount
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__HideYut,		<cyfunction YutnoriGamePage.__HideYut at 0x0A8D9450>
+_YutnoriGamePage__HideYut,		<cyfunction YutnoriGamePage.__HideYut at 0x08D0AC38>
 	arg0: self
 
 submodule._YutnoriGamePage__HideYut
@@ -310,13 +310,13 @@ __doc__,		None
 submodule.__doc__
 
 
-SetScore,		<cyfunction YutnoriGamePage.SetScore at 0x0A8D9EA0>
+SetScore,		<cyfunction YutnoriGamePage.SetScore at 0x08D0B6B8>
 	arg0: self
 	arg1: score
 
 submodule.SetScore
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__MoveEnd,		<cyfunction YutnoriGamePage.__MoveEnd at 0x0A8D9C38>
+_YutnoriGamePage__MoveEnd,		<cyfunction YutnoriGamePage.__MoveEnd at 0x08D0B450>
 	arg0: self
 	arg1: is_pc
 	arg2: index
@@ -324,102 +324,102 @@ _YutnoriGamePage__MoveEnd,		<cyfunction YutnoriGamePage.__MoveEnd at 0x0A8D9C38>
 
 submodule._YutnoriGamePage__MoveEnd
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClearAvailableIndex,		<cyfunction YutnoriGamePage.__ClearAvailableIndex at 0x0A8D9B30>
+_YutnoriGamePage__ClearAvailableIndex,		<cyfunction YutnoriGamePage.__ClearAvailableIndex at 0x08D0B348>
 	arg0: self
 	arg1: is_pc
 
 submodule._YutnoriGamePage__ClearAvailableIndex
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__PlayerWinPopup,		<cyfunction YutnoriGamePage.__PlayerWinPopup at 0x0A8DA0E0>
+_YutnoriGamePage__PlayerWinPopup,		<cyfunction YutnoriGamePage.__PlayerWinPopup at 0x08D0B8C8>
 	arg0: self
 
 submodule._YutnoriGamePage__PlayerWinPopup
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClickProbButtonOver,		<cyfunction YutnoriGamePage.__ClickProbButtonOver at 0x0A8D9608>
+_YutnoriGamePage__ClickProbButtonOver,		<cyfunction YutnoriGamePage.__ClickProbButtonOver at 0x08D0ADF0>
 	arg0: self
 	arg1: index
 
 submodule._YutnoriGamePage__ClickProbButtonOver
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClickChar,		<cyfunction YutnoriGamePage.__ClickChar at 0x0A8D91E8>
+_YutnoriGamePage__ClickChar,		<cyfunction YutnoriGamePage.__ClickChar at 0x08D0A9D0>
 	arg0: self
 	arg1: event_type
 	arg2: index
 
 submodule._YutnoriGamePage__ClickChar
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-__del__,		<cyfunction YutnoriGamePage.__del__ at 0x0A8D87C0>
+__del__,		<cyfunction YutnoriGamePage.__del__ at 0x08D09FA8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CatchCheck,		<cyfunction YutnoriGamePage.__CatchCheck at 0x0A8D9D40>
+_YutnoriGamePage__CatchCheck,		<cyfunction YutnoriGamePage.__CatchCheck at 0x08D0B558>
 	arg0: self
 
 submodule._YutnoriGamePage__CatchCheck
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ProbSelectWindowOpen,		<cyfunction YutnoriGamePage.__ProbSelectWindowOpen at 0x0A8D9500>
+_YutnoriGamePage__ProbSelectWindowOpen,		<cyfunction YutnoriGamePage.__ProbSelectWindowOpen at 0x08D0ACE8>
 	arg0: self
 	arg1: open
 
 submodule._YutnoriGamePage__ProbSelectWindowOpen
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GoalCoverCheck,		<cyfunction YutnoriGamePage.__GoalCoverCheck at 0x0A8D9BE0>
+_YutnoriGamePage__GoalCoverCheck,		<cyfunction YutnoriGamePage.__GoalCoverCheck at 0x08D0B3F8>
 	arg0: self
 
 submodule._YutnoriGamePage__GoalCoverCheck
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClearEffect,		<cyfunction YutnoriGamePage.__ClearEffect at 0x0A8D8FA8>
+_YutnoriGamePage__ClearEffect,		<cyfunction YutnoriGamePage.__ClearEffect at 0x08D0A7C0>
 	arg0: self
 
 submodule._YutnoriGamePage__ClearEffect
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-ArrowImgHide,		<cyfunction YutnoriGamePage.ArrowImgHide at 0x0A8D9A28>
+ArrowImgHide,		<cyfunction YutnoriGamePage.ArrowImgHide at 0x08D0B240>
 	arg0: self
 
 submodule.ArrowImgHide
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__BindObject,		<cyfunction YutnoriGamePage.__BindObject at 0x0A8D89D0>
+_YutnoriGamePage__BindObject,		<cyfunction YutnoriGamePage.__BindObject at 0x08D0A1E8>
 	arg0: self
 
 submodule._YutnoriGamePage__BindObject
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ShowGiveupDialog,		<cyfunction YutnoriGamePage.__ShowGiveupDialog at 0x0A8D9030>
+_YutnoriGamePage__ShowGiveupDialog,		<cyfunction YutnoriGamePage.__ShowGiveupDialog at 0x08D0A818>
 	arg0: self
 
 submodule._YutnoriGamePage__ShowGiveupDialog
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__RefreshScore,		<cyfunction YutnoriGamePage.__RefreshScore at 0x0A8D9EF8>
+_YutnoriGamePage__RefreshScore,		<cyfunction YutnoriGamePage.__RefreshScore at 0x08D0B710>
 	arg0: self
 
 submodule._YutnoriGamePage__RefreshScore
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ComWinPopup,		<cyfunction YutnoriGamePage.__ComWinPopup at 0x0A8DA138>
+_YutnoriGamePage__ComWinPopup,		<cyfunction YutnoriGamePage.__ComWinPopup at 0x08D0B920>
 	arg0: self
 
 submodule._YutnoriGamePage__ComWinPopup
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-Show,		<cyfunction YutnoriGamePage.Show at 0x0A8D88C8>
+Show,		<cyfunction YutnoriGamePage.Show at 0x08D0A0E0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-SetYut,		<cyfunction YutnoriGamePage.SetYut at 0x0A8D9190>
+SetYut,		<cyfunction YutnoriGamePage.SetYut at 0x08D0A978>
 	arg0: self
 
 submodule.SetYut
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CreateChar,		<cyfunction YutnoriGamePage.__CreateChar at 0x0A8D8B30>
+_YutnoriGamePage__CreateChar,		<cyfunction YutnoriGamePage.__CreateChar at 0x08D0A348>
 	arg0: self
 
 submodule._YutnoriGamePage__CreateChar
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClickThrowButton,		<cyfunction YutnoriGamePage.__ClickThrowButton at 0x0A8D9710>
+_YutnoriGamePage__ClickThrowButton,		<cyfunction YutnoriGamePage.__ClickThrowButton at 0x08D0AEF8>
 	arg0: self
 
 submodule._YutnoriGamePage__ClickThrowButton
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-SetRemainCount,		<cyfunction YutnoriGamePage.SetRemainCount at 0x0A8DA030>
+SetRemainCount,		<cyfunction YutnoriGamePage.SetRemainCount at 0x08D0B818>
 	arg0: self
 	arg1: remain_count
 
@@ -430,36 +430,36 @@ __qualname__,		YutnoriGamePage
 submodule.__qualname__
 
 
-_YutnoriGamePage__HideYutArea,		<cyfunction YutnoriGamePage.__HideYutArea at 0x0A8D9138>
+_YutnoriGamePage__HideYutArea,		<cyfunction YutnoriGamePage.__HideYutArea at 0x08D0A920>
 	arg0: self
 
 submodule._YutnoriGamePage__HideYutArea
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GoalEffectKeyFrameEvent2,		<cyfunction YutnoriGamePage.__GoalEffectKeyFrameEvent2 at 0x0A8D8F50>
+_YutnoriGamePage__GoalEffectKeyFrameEvent2,		<cyfunction YutnoriGamePage.__GoalEffectKeyFrameEvent2 at 0x08D0A768>
 	arg0: self
 	arg1: cur_frame
 
 submodule._YutnoriGamePage__GoalEffectKeyFrameEvent2
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-Close,		<cyfunction YutnoriGamePage.Close at 0x0A8D8920>
+Close,		<cyfunction YutnoriGamePage.Close at 0x08D0A138>
 	arg0: self
 	arg1: is_giveup
 	default: False
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ChangeTextColor,		<cyfunction YutnoriGamePage.__ChangeTextColor at 0x0A8D93F8>
+_YutnoriGamePage__ChangeTextColor,		<cyfunction YutnoriGamePage.__ChangeTextColor at 0x08D0ABE0>
 	arg0: self
 	arg1: is_pc_turn
 
 submodule._YutnoriGamePage__ChangeTextColor
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__BindEvent,		<cyfunction YutnoriGamePage.__BindEvent at 0x0A8D8A28>
+_YutnoriGamePage__BindEvent,		<cyfunction YutnoriGamePage.__BindEvent at 0x08D0A240>
 	arg0: self
 
 submodule._YutnoriGamePage__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-ArrowImgShow,		<cyfunction YutnoriGamePage.ArrowImgShow at 0x0A8D99D0>
+ArrowImgShow,		<cyfunction YutnoriGamePage.ArrowImgShow at 0x08D0B1E8>
 	arg0: self
 
 submodule.ArrowImgShow
@@ -469,52 +469,52 @@ __module__,		uiMiniGameYutnori
 submodule.__module__
 
 
-_YutnoriGamePage__JoinCheck,		<cyfunction YutnoriGamePage.__JoinCheck at 0x0A8D9CE8>
+_YutnoriGamePage__JoinCheck,		<cyfunction YutnoriGamePage.__JoinCheck at 0x08D0B500>
 	arg0: self
 
 submodule._YutnoriGamePage__JoinCheck
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-PushCatchYut,		<cyfunction YutnoriGamePage.PushCatchYut at 0x0A8D9E48>
+PushCatchYut,		<cyfunction YutnoriGamePage.PushCatchYut at 0x08D0B660>
 	arg0: self
 	arg1: data
 
 submodule.PushCatchYut
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClickProbButtonOverOut,		<cyfunction YutnoriGamePage.__ClickProbButtonOverOut at 0x0A8D9660>
+_YutnoriGamePage__ClickProbButtonOverOut,		<cyfunction YutnoriGamePage.__ClickProbButtonOverOut at 0x08D0AE48>
 	arg0: self
 	arg1: index
 
 submodule._YutnoriGamePage__ClickProbButtonOverOut
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-PushNextTurn,		<cyfunction YutnoriGamePage.PushNextTurn at 0x0A8D9DF0>
+PushNextTurn,		<cyfunction YutnoriGamePage.PushNextTurn at 0x08D0B608>
 	arg0: self
 	arg1: data
 
 submodule.PushNextTurn
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GoalScore,		<cyfunction YutnoriGamePage.__GoalScore at 0x0A8D9FA8>
+_YutnoriGamePage__GoalScore,		<cyfunction YutnoriGamePage.__GoalScore at 0x08D0B7C0>
 	arg0: self
 	arg1: is_pc
 	arg2: is_join
 
 submodule._YutnoriGamePage__GoalScore
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__EffectEndCheck,		<cyfunction YutnoriGamePage.__EffectEndCheck at 0x0A8D8EA0>
+_YutnoriGamePage__EffectEndCheck,		<cyfunction YutnoriGamePage.__EffectEndCheck at 0x08D0A6B8>
 	arg0: self
 
 submodule._YutnoriGamePage__EffectEndCheck
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-Destroy,		<cyfunction YutnoriGamePage.Destroy at 0x0A8D8818>
+Destroy,		<cyfunction YutnoriGamePage.Destroy at 0x08D0A030>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-__init__,		<cyfunction YutnoriGamePage.__init__ at 0x0A8D8768>
+__init__,		<cyfunction YutnoriGamePage.__init__ at 0x08D09F50>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CreateScoreEffect,		<cyfunction YutnoriGamePage.__CreateScoreEffect at 0x0A8D8C90>
+_YutnoriGamePage__CreateScoreEffect,		<cyfunction YutnoriGamePage.__CreateScoreEffect at 0x08D0A4A8>
 	arg0: self
 	arg1: is_increase
 	arg2: score
@@ -523,121 +523,121 @@ _YutnoriGamePage__CreateScoreEffect,		<cyfunction YutnoriGamePage.__CreateScoreE
 
 submodule._YutnoriGamePage__CreateScoreEffect
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GoalTextEffectEndFrameEvent,		<cyfunction YutnoriGamePage.__GoalTextEffectEndFrameEvent at 0x0A8D8E48>
+_YutnoriGamePage__GoalTextEffectEndFrameEvent,		<cyfunction YutnoriGamePage.__GoalTextEffectEndFrameEvent at 0x08D0A660>
 	arg0: self
 
 submodule._YutnoriGamePage__GoalTextEffectEndFrameEvent
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GoalEffectKeyFrameEvent1,		<cyfunction YutnoriGamePage.__GoalEffectKeyFrameEvent1 at 0x0A8D8EF8>
+_YutnoriGamePage__GoalEffectKeyFrameEvent1,		<cyfunction YutnoriGamePage.__GoalEffectKeyFrameEvent1 at 0x08D0A710>
 	arg0: self
 	arg1: cur_frame
 
 submodule._YutnoriGamePage__GoalEffectKeyFrameEvent1
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CreateCatchImage,		<cyfunction YutnoriGamePage.__CreateCatchImage at 0x0A8D8A80>
+_YutnoriGamePage__CreateCatchImage,		<cyfunction YutnoriGamePage.__CreateCatchImage at 0x08D0A298>
 	arg0: self
 
 submodule._YutnoriGamePage__CreateCatchImage
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GiveupAccept,		<cyfunction YutnoriGamePage.__GiveupAccept at 0x0A8D9088>
+_YutnoriGamePage__GiveupAccept,		<cyfunction YutnoriGamePage.__GiveupAccept at 0x08D0A870>
 	arg0: self
 
 submodule._YutnoriGamePage__GiveupAccept
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GoalEffectEndFrameEvent2,		<cyfunction YutnoriGamePage.__GoalEffectEndFrameEvent2 at 0x0A8D8D98>
+_YutnoriGamePage__GoalEffectEndFrameEvent2,		<cyfunction YutnoriGamePage.__GoalEffectEndFrameEvent2 at 0x08D0A5B0>
 	arg0: self
 
 submodule._YutnoriGamePage__GoalEffectEndFrameEvent2
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GoalEffectEndFrameEvent3,		<cyfunction YutnoriGamePage.__GoalEffectEndFrameEvent3 at 0x0A8D8DF0>
+_YutnoriGamePage__GoalEffectEndFrameEvent3,		<cyfunction YutnoriGamePage.__GoalEffectEndFrameEvent3 at 0x08D0A608>
 	arg0: self
 
 submodule._YutnoriGamePage__GoalEffectEndFrameEvent3
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GoalEffectEndFrameEvent1,		<cyfunction YutnoriGamePage.__GoalEffectEndFrameEvent1 at 0x0A8D8D40>
+_YutnoriGamePage__GoalEffectEndFrameEvent1,		<cyfunction YutnoriGamePage.__GoalEffectEndFrameEvent1 at 0x08D0A558>
 	arg0: self
 
 submodule._YutnoriGamePage__GoalEffectEndFrameEvent1
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-SetProb,		<cyfunction YutnoriGamePage.SetProb at 0x0A8D95B0>
+SetProb,		<cyfunction YutnoriGamePage.SetProb at 0x08D0AD98>
 	arg0: self
 	arg1: index
 
 submodule.SetProb
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__TurnCheck,		<cyfunction YutnoriGamePage.__TurnCheck at 0x0A8D9D98>
+_YutnoriGamePage__TurnCheck,		<cyfunction YutnoriGamePage.__TurnCheck at 0x08D0B5B0>
 	arg0: self
 
 submodule._YutnoriGamePage__TurnCheck
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ProbTilteOverOut,		<cyfunction YutnoriGamePage.__ProbTilteOverOut at 0x0A8D97C0>
+_YutnoriGamePage__ProbTilteOverOut,		<cyfunction YutnoriGamePage.__ProbTilteOverOut at 0x08D0AFA8>
 	arg0: self
 
 submodule._YutnoriGamePage__ProbTilteOverOut
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__GiveupCancel,		<cyfunction YutnoriGamePage.__GiveupCancel at 0x0A8D90E0>
+_YutnoriGamePage__GiveupCancel,		<cyfunction YutnoriGamePage.__GiveupCancel at 0x08D0A8C8>
 	arg0: self
 
 submodule._YutnoriGamePage__GiveupCancel
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__LoadWindow,		<cyfunction YutnoriGamePage.__LoadWindow at 0x0A8D8978>
+_YutnoriGamePage__LoadWindow,		<cyfunction YutnoriGamePage.__LoadWindow at 0x08D0A190>
 	arg0: self
 
 submodule._YutnoriGamePage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClickRewardButton,		<cyfunction YutnoriGamePage.__ClickRewardButton at 0x0A8D96B8>
+_YutnoriGamePage__ClickRewardButton,		<cyfunction YutnoriGamePage.__ClickRewardButton at 0x08D0AEA0>
 	arg0: self
 
 submodule._YutnoriGamePage__ClickRewardButton
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ThrowScoreCheck,		<cyfunction YutnoriGamePage.__ThrowScoreCheck at 0x0A8D9F50>
+_YutnoriGamePage__ThrowScoreCheck,		<cyfunction YutnoriGamePage.__ThrowScoreCheck at 0x08D0B768>
 	arg0: self
 
 submodule._YutnoriGamePage__ThrowScoreCheck
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__CreateArrowImg,		<cyfunction YutnoriGamePage.__CreateArrowImg at 0x0A8D8BE0>
+_YutnoriGamePage__CreateArrowImg,		<cyfunction YutnoriGamePage.__CreateArrowImg at 0x08D0A3F8>
 	arg0: self
 
 submodule._YutnoriGamePage__CreateArrowImg
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClickArea,		<cyfunction YutnoriGamePage.__ClickArea at 0x0A8D92F0>
+_YutnoriGamePage__ClickArea,		<cyfunction YutnoriGamePage.__ClickArea at 0x08D0AAD8>
 	arg0: self
 	arg1: event_type
 	arg2: index
 
 submodule._YutnoriGamePage__ClickArea
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__UpdateEvent,		<cyfunction YutnoriGamePage.__UpdateEvent at 0x0A8D9920>
+_YutnoriGamePage__UpdateEvent,		<cyfunction YutnoriGamePage.__UpdateEvent at 0x08D0B138>
 	arg0: self
 
 submodule._YutnoriGamePage__UpdateEvent
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__HideAllUnitFlash,		<cyfunction YutnoriGamePage.__HideAllUnitFlash at 0x0A8D93A0>
+_YutnoriGamePage__HideAllUnitFlash,		<cyfunction YutnoriGamePage.__HideAllUnitFlash at 0x08D0AB88>
 	arg0: self
 
 submodule._YutnoriGamePage__HideAllUnitFlash
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction YutnoriGamePage.OnPressEscapeKey at 0x0A8D8870>
+OnPressEscapeKey,		<cyfunction YutnoriGamePage.OnPressEscapeKey at 0x08D0A088>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ProbTilteOverIn,		<cyfunction YutnoriGamePage.__ProbTilteOverIn at 0x0A8D9768>
+_YutnoriGamePage__ProbTilteOverIn,		<cyfunction YutnoriGamePage.__ProbTilteOverIn at 0x08D0AF50>
 	arg0: self
 
 submodule._YutnoriGamePage__ProbTilteOverIn
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction YutnoriGamePage.OnUpdate at 0x0A8D9818>
+OnUpdate,		<cyfunction YutnoriGamePage.OnUpdate at 0x08D0B030>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__UpdateToolTip,		<cyfunction YutnoriGamePage.__UpdateToolTip at 0x0A8D9870>
+_YutnoriGamePage__UpdateToolTip,		<cyfunction YutnoriGamePage.__UpdateToolTip at 0x08D0B088>
 	arg0: self
 
 submodule._YutnoriGamePage__UpdateToolTip
 Skipped: unbound method cython_function_or_method object must be called with YutnoriGamePage instance as first argument (got nothing instead)
-_YutnoriGamePage__ClickProbSelectButton,		<cyfunction YutnoriGamePage.__ClickProbSelectButton at 0x0A8D94A8>
+_YutnoriGamePage__ClickProbSelectButton,		<cyfunction YutnoriGamePage.__ClickProbSelectButton at 0x08D0AC90>
 	arg0: self
 
 submodule._YutnoriGamePage__ClickProbSelectButton

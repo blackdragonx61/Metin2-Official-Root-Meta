@@ -29,58 +29,58 @@ __module__,		uiUserSituationNotice
 submodule.__module__
 
 
-_UserSituationNotice__RefreshButtonPosition,		<cyfunction UserSituationNotice.__RefreshButtonPosition at 0x0AD7CFA8>
+_UserSituationNotice__RefreshButtonPosition,		<cyfunction UserSituationNotice.__RefreshButtonPosition at 0x23E8A3A0>
 	arg0: self
 
 submodule._UserSituationNotice__RefreshButtonPosition
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__RequestUserSituationData,		<cyfunction UserSituationNotice.__RequestUserSituationData at 0x0AD81298>
+_UserSituationNotice__RequestUserSituationData,		<cyfunction UserSituationNotice.__RequestUserSituationData at 0x23E8A660>
 	arg0: self
 
 submodule._UserSituationNotice__RequestUserSituationData
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__LoadUserSituationData,		<cyfunction UserSituationNotice.__LoadUserSituationData at 0x0AD7CEF8>
+_UserSituationNotice__LoadUserSituationData,		<cyfunction UserSituationNotice.__LoadUserSituationData at 0x23E8A2F0>
 	arg0: self
 
 submodule._UserSituationNotice__LoadUserSituationData
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-OpenUserSituationShow,		<cyfunction UserSituationNotice.OpenUserSituationShow at 0x0AD813F8>
+OpenUserSituationShow,		<cyfunction UserSituationNotice.OpenUserSituationShow at 0x23E8A7C0>
 	arg0: self
 	arg1: data
 
 submodule.OpenUserSituationShow
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction UserSituationNotice.OnUpdate at 0x0AD81240>
+OnUpdate,		<cyfunction UserSituationNotice.OnUpdate at 0x23E8A608>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-__del__,		<cyfunction UserSituationNotice.__del__ at 0x0AD7CBE0>
+__del__,		<cyfunction UserSituationNotice.__del__ at 0x23EA3C38>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__ClickGiftBoxButton,		<cyfunction UserSituationNotice.__ClickGiftBoxButton at 0x0AD81190>
+_UserSituationNotice__ClickGiftBoxButton,		<cyfunction UserSituationNotice.__ClickGiftBoxButton at 0x23E8A558>
 	arg0: self
 
 submodule._UserSituationNotice__ClickGiftBoxButton
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__BindObject,		<cyfunction UserSituationNotice.__BindObject at 0x0AD7CD98>
+_UserSituationNotice__BindObject,		<cyfunction UserSituationNotice.__BindObject at 0x23E8A190>
 	arg0: self
 
 submodule._UserSituationNotice__BindObject
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-Destroy,		<cyfunction UserSituationNotice.Destroy at 0x0AD7CC38>
+Destroy,		<cyfunction UserSituationNotice.Destroy at 0x23E8A030>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-__init__,		<cyfunction UserSituationNotice.__init__ at 0x0AD7CB88>
+__init__,		<cyfunction UserSituationNotice.__init__ at 0x23EA3F50>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-BindInterface,		<cyfunction UserSituationNotice.BindInterface at 0x0AD7CCE8>
+BindInterface,		<cyfunction UserSituationNotice.BindInterface at 0x23E8A0E0>
 	arg0: self
 	arg1: interface
 
@@ -91,75 +91,75 @@ __qualname__,		UserSituationNotice
 submodule.__qualname__
 
 
-_UserSituationNotice__HideAllButton,		<cyfunction UserSituationNotice.__HideAllButton at 0x0AD81138>
+_UserSituationNotice__HideAllButton,		<cyfunction UserSituationNotice.__HideAllButton at 0x23E8A500>
 	arg0: self
 
 submodule._UserSituationNotice__HideAllButton
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__ButtonOverOut,		<cyfunction UserSituationNotice.__ButtonOverOut at 0x0AD81088>
+_UserSituationNotice__ButtonOverOut,		<cyfunction UserSituationNotice.__ButtonOverOut at 0x23E8A450>
 	arg0: self
 
 submodule._UserSituationNotice__ButtonOverOut
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-Show,		<cyfunction UserSituationNotice.Show at 0x0AD7CEA0>
+Show,		<cyfunction UserSituationNotice.Show at 0x23E8A298>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__LoadWindow,		<cyfunction UserSituationNotice.__LoadWindow at 0x0AD7CD40>
+_UserSituationNotice__LoadWindow,		<cyfunction UserSituationNotice.__LoadWindow at 0x23E8A138>
 	arg0: self
 
 submodule._UserSituationNotice__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__ButtonOverIn,		<cyfunction UserSituationNotice.__ButtonOverIn at 0x0AD81030>
+_UserSituationNotice__ButtonOverIn,		<cyfunction UserSituationNotice.__ButtonOverIn at 0x23E8A3F8>
 	arg0: self
 	arg1: text
 
 submodule._UserSituationNotice__ButtonOverIn
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-RefreshUserSituation,		<cyfunction UserSituationNotice.RefreshUserSituation at 0x0AD813A0>
+RefreshUserSituation,		<cyfunction UserSituationNotice.RefreshUserSituation at 0x23E8A768>
 	arg0: self
 
 submodule.RefreshUserSituation
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__ClickButton,		<cyfunction UserSituationNotice.__ClickButton at 0x0AD811E8>
+_UserSituationNotice__ClickButton,		<cyfunction UserSituationNotice.__ClickButton at 0x23E8A5B0>
 	arg0: self
 	arg1: data_index
 
 submodule._UserSituationNotice__ClickButton
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__OnUpdateBoxButton,		<cyfunction UserSituationNotice.__OnUpdateBoxButton at 0x0AD812F0>
+_UserSituationNotice__OnUpdateBoxButton,		<cyfunction UserSituationNotice.__OnUpdateBoxButton at 0x23E8A6B8>
 	arg0: self
 
 submodule._UserSituationNotice__OnUpdateBoxButton
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__BindEvent,		<cyfunction UserSituationNotice.__BindEvent at 0x0AD7CDF0>
+_UserSituationNotice__BindEvent,		<cyfunction UserSituationNotice.__BindEvent at 0x23E8A1E8>
 	arg0: self
 
 submodule._UserSituationNotice__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__OnUpdateButton,		<cyfunction UserSituationNotice.__OnUpdateButton at 0x0AD81348>
+_UserSituationNotice__OnUpdateButton,		<cyfunction UserSituationNotice.__OnUpdateButton at 0x23E8A710>
 	arg0: self
 
 submodule._UserSituationNotice__OnUpdateButton
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__LoadScript,		<cyfunction UserSituationNotice.__LoadScript at 0x0AD7CC90>
+_UserSituationNotice__LoadScript,		<cyfunction UserSituationNotice.__LoadScript at 0x23E8A088>
 	arg0: self
 	arg1: fileName
 
 submodule._UserSituationNotice__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__ShowAllButton,		<cyfunction UserSituationNotice.__ShowAllButton at 0x0AD810E0>
+_UserSituationNotice__ShowAllButton,		<cyfunction UserSituationNotice.__ShowAllButton at 0x23E8A4A8>
 	arg0: self
 
 submodule._UserSituationNotice__ShowAllButton
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-Close,		<cyfunction UserSituationNotice.Close at 0x0AD7CE48>
+Close,		<cyfunction UserSituationNotice.Close at 0x23E8A240>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with UserSituationNotice instance as first argument (got nothing instead)
-_UserSituationNotice__CreateButton,		<cyfunction UserSituationNotice.__CreateButton at 0x0AD7CF50>
+_UserSituationNotice__CreateButton,		<cyfunction UserSituationNotice.__CreateButton at 0x23E8A348>
 	arg0: self
 	arg1: data_index
 

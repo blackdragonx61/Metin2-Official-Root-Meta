@@ -15,12 +15,12 @@ submodule.__module__
 
 PageWindow,		<class 'uiAuction.PageWindow'>
 Skip: type object 'PageWindow' has no attribute 'func_code'
-_AuctionWindow__MakeUniqueAuctionPage,		<cyfunction AuctionWindow.__MakeUniqueAuctionPage at 0x2DF70558>
+_AuctionWindow__MakeUniqueAuctionPage,		<cyfunction AuctionWindow.__MakeUniqueAuctionPage at 0x23E95978>
 	arg0: self
 
 submodule._AuctionWindow__MakeUniqueAuctionPage
 Skipped: unbound method cython_function_or_method object must be called with AuctionWindow instance as first argument (got nothing instead)
-_AuctionWindow__LoadWindow,		<cyfunction AuctionWindow.__LoadWindow at 0x2DF70240>
+_AuctionWindow__LoadWindow,		<cyfunction AuctionWindow.__LoadWindow at 0x23E95870>
 	arg0: self
 
 submodule._AuctionWindow__LoadWindow
@@ -30,18 +30,18 @@ __qualname__,		AuctionWindow
 submodule.__qualname__
 
 
-Destroy,		<cyfunction AuctionWindow.Destroy at 0x2DF706B8>
+Destroy,		<cyfunction AuctionWindow.Destroy at 0x23E959D0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with AuctionWindow instance as first argument (got nothing instead)
-SelectPage,		<cyfunction AuctionWindow.SelectPage at 0x2DF70298>
+SelectPage,		<cyfunction AuctionWindow.SelectPage at 0x23E95B30>
 	arg0: self
 	arg1: arg
 
 submodule.SelectPage
 Skipped: unbound method cython_function_or_method object must be called with AuctionWindow instance as first argument (got nothing instead)
-_AuctionWindow__MakeRegisterPage,		<cyfunction AuctionWindow.__MakeRegisterPage at 0x2DF705B0>
+_AuctionWindow__MakeRegisterPage,		<cyfunction AuctionWindow.__MakeRegisterPage at 0x23E95920>
 	arg0: self
 
 submodule._AuctionWindow__MakeRegisterPage
@@ -51,12 +51,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction AuctionWindow.__init__ at 0x2DED73A0>
+__init__,		<cyfunction AuctionWindow.__init__ at 0x23E95A28>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with AuctionWindow instance as first argument (got nothing instead)
-_AuctionWindow__MakeListPage,		<cyfunction AuctionWindow.__MakeListPage at 0x2DF700E0>
+_AuctionWindow__MakeListPage,		<cyfunction AuctionWindow.__MakeListPage at 0x23E95558>
 	arg0: self
 
 submodule._AuctionWindow__MakeListPage

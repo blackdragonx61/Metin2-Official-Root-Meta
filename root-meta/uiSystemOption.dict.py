@@ -11,7 +11,6 @@
                      {'args': ['self', 'x', 'y'], 'defaults': [], 'name': 'OnMoveWindow'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnTop'},
-                     {'args': ['self'], 'defaults': [], 'name': 'RefreshCameraMode'},
                      {'args': ['self'], 'defaults': [], 'name': 'Show'},
                      {'args': ['self'], 'defaults': [], 'name': '__AdjustLanguageSelectWindowPosition'},
                      {'args': ['self', 'buttonList', 'buttonIndex'], 'defaults': [], 'name': '__ClickRadioButton'},

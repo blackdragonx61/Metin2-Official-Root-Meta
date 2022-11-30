@@ -37,7 +37,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'LoadDialog'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnIMEReturn'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},
-                     {'args': ['self', 'Message', 'event', 'ButtonName', 'message_type'], 'defaults': [0, 'Megszak\xedt', None], 'name': 'Open'},
+                     {'args': ['self', 'Message', 'event', 'ButtonName', 'message_type'], 'defaults': [0, 'Cancelar', None], 'name': 'Open'},
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],
             'import': [],

@@ -11,7 +11,6 @@
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
                      {'args': ['self', 'slotIndex'], 'defaults': [], 'name': 'GetItemSubTypeByCombSlot'},
                      {'args': ['self'], 'defaults': [], 'name': 'IsFilledAllSlots'},
-                     {'args': ['self', 'slotIndex', 'type', 'subType'], 'defaults': [-1], 'name': 'IsItemTypeAndSubTypeByCombSlot'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnDialogAcceptEvent'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnDialogCloseEvent'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},

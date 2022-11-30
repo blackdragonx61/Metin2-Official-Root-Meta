@@ -63,7 +63,7 @@ key: WAIT_ARRAY_HEIGHT, val: 2
 key: MISSION_INDEX_RESET_COUNT, val: 4
 key: MISSION_STATE_WAIT, val: 1
 key: CLASS_COUNT_MAX, val: {0: 9, 1: 21, 2: 30, 3: 60, 4: 90, 5: 120}
-key: unsigned32, val: <cyfunction unsigned32 at 0x0AB21870>
+key: unsigned32, val: <cyfunction unsigned32 at 0x08AF9E48>
 key: MISSION_STATE_PROCEEDING, val: 2
 key: item, val: <module 'item' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
@@ -78,29 +78,29 @@ key: nonplayer, val: <module 'nonplayer' (built-in)>
 
 
 class MonsterCardWindow:
-MonsterCardAchievRefresh,		<cyfunction MonsterCardWindow.MonsterCardAchievRefresh at 0x0AB3B3F8>
+MonsterCardAchievRefresh,		<cyfunction MonsterCardWindow.MonsterCardAchievRefresh at 0x08B0B9D0>
 	arg0: self
 
 submodule.MonsterCardAchievRefresh
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-CardMoveStartEvent,		<cyfunction MonsterCardWindow.CardMoveStartEvent at 0x0AB39F50>
+CardMoveStartEvent,		<cyfunction MonsterCardWindow.CardMoveStartEvent at 0x08B0A558>
 	arg0: self
 
 submodule.CardMoveStartEvent
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-Hide,		<cyfunction MonsterCardWindow.Hide at 0x0AB39190>
+Hide,		<cyfunction MonsterCardWindow.Hide at 0x08B01710>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickSortButton,		<cyfunction MonsterCardWindow.__OnClickSortButton at 0x0AB3AE48>
+_MonsterCardWindow__OnClickSortButton,		<cyfunction MonsterCardWindow.__OnClickSortButton at 0x08B0B450>
 	arg0: self
 	arg1: sort
 	arg2: text
 
 submodule._MonsterCardWindow__OnClickSortButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__IllustrationImgOverOut,		<cyfunction MonsterCardWindow.__IllustrationImgOverOut at 0x0AB3A818>
+_MonsterCardWindow__IllustrationImgOverOut,		<cyfunction MonsterCardWindow.__IllustrationImgOverOut at 0x08B0ADF0>
 	arg0: self
 	arg1: type
 	arg2: row
@@ -108,44 +108,44 @@ _MonsterCardWindow__IllustrationImgOverOut,		<cyfunction MonsterCardWindow.__Ill
 
 submodule._MonsterCardWindow__IllustrationImgOverOut
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickPrevPageButton,		<cyfunction MonsterCardWindow.__OnClickPrevPageButton at 0x0AB3A6B8>
+_MonsterCardWindow__OnClickPrevPageButton,		<cyfunction MonsterCardWindow.__OnClickPrevPageButton at 0x08B0AC90>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickPrevPageButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__EmergenceAreaOverIn,		<cyfunction MonsterCardWindow.__EmergenceAreaOverIn at 0x0AB39AD8>
+_MonsterCardWindow__EmergenceAreaOverIn,		<cyfunction MonsterCardWindow.__EmergenceAreaOverIn at 0x08B0A0E0>
 	arg0: self
 	arg1: type
 	arg2: index
 
 submodule._MonsterCardWindow__EmergenceAreaOverIn
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickLastNextPageButton,		<cyfunction MonsterCardWindow.__OnClickLastNextPageButton at 0x0AB3A768>
+_MonsterCardWindow__OnClickLastNextPageButton,		<cyfunction MonsterCardWindow.__OnClickLastNextPageButton at 0x08B0AD40>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickLastNextPageButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__SetMissionWait,		<cyfunction MonsterCardWindow.__SetMissionWait at 0x0AB398C8>
+_MonsterCardWindow__SetMissionWait,		<cyfunction MonsterCardWindow.__SetMissionWait at 0x08B01EA0>
 	arg0: self
 
 submodule._MonsterCardWindow__SetMissionWait
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ClearIllustrationPage,		<cyfunction MonsterCardWindow.__ClearIllustrationPage at 0x0AB3A4A8>
+_MonsterCardWindow__ClearIllustrationPage,		<cyfunction MonsterCardWindow.__ClearIllustrationPage at 0x08B0AA80>
 	arg0: self
 
 submodule._MonsterCardWindow__ClearIllustrationPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__CloseQuestionDialog,		<cyfunction MonsterCardWindow.__CloseQuestionDialog at 0x0AB3A190>
+_MonsterCardWindow__CloseQuestionDialog,		<cyfunction MonsterCardWindow.__CloseQuestionDialog at 0x08B0A768>
 	arg0: self
 
 submodule._MonsterCardWindow__CloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-MonsterCardIllustrationRefresh,		<cyfunction MonsterCardWindow.MonsterCardIllustrationRefresh at 0x0AB3A1E8>
+MonsterCardIllustrationRefresh,		<cyfunction MonsterCardWindow.MonsterCardIllustrationRefresh at 0x08B0A7C0>
 	arg0: self
 
 submodule.MonsterCardIllustrationRefresh
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__CardImgClick,		<cyfunction MonsterCardWindow.__CardImgClick at 0x0AB3A500>
+_MonsterCardWindow__CardImgClick,		<cyfunction MonsterCardWindow.__CardImgClick at 0x08B0AAD8>
 	arg0: self
 	arg1: type
 	arg2: row
@@ -153,109 +153,109 @@ _MonsterCardWindow__CardImgClick,		<cyfunction MonsterCardWindow.__CardImgClick 
 
 submodule._MonsterCardWindow__CardImgClick
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ShowIllustrationPage,		<cyfunction MonsterCardWindow.__ShowIllustrationPage at 0x0AB3A3F8>
+_MonsterCardWindow__ShowIllustrationPage,		<cyfunction MonsterCardWindow.__ShowIllustrationPage at 0x08B0A9D0>
 	arg0: self
 	arg1: page
 
 submodule._MonsterCardWindow__ShowIllustrationPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-MonsterCardMissionFail,		<cyfunction MonsterCardWindow.MonsterCardMissionFail at 0x0AB3A088>
+MonsterCardMissionFail,		<cyfunction MonsterCardWindow.MonsterCardMissionFail at 0x08B0A660>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.MonsterCardMissionFail
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ClearIllustrationButton,		<cyfunction MonsterCardWindow.__ClearIllustrationButton at 0x0AB3A450>
+_MonsterCardWindow__ClearIllustrationButton,		<cyfunction MonsterCardWindow.__ClearIllustrationButton at 0x08B0AA28>
 	arg0: self
 
 submodule._MonsterCardWindow__ClearIllustrationButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__RefreshMissionState,		<cyfunction MonsterCardWindow.__RefreshMissionState at 0x0AB39818>
+_MonsterCardWindow__RefreshMissionState,		<cyfunction MonsterCardWindow.__RefreshMissionState at 0x08B01DF0>
 	arg0: self
 
 submodule._MonsterCardWindow__RefreshMissionState
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ModelZoomProgress,		<cyfunction MonsterCardWindow.__ModelZoomProgress at 0x0AB3AC90>
+_MonsterCardWindow__ModelZoomProgress,		<cyfunction MonsterCardWindow.__ModelZoomProgress at 0x08B0B298>
 	arg0: self
 
 submodule._MonsterCardWindow__ModelZoomProgress
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__LoadScript,		<cyfunction MonsterCardWindow.__LoadScript at 0x0AB392F0>
+_MonsterCardWindow__LoadScript,		<cyfunction MonsterCardWindow.__LoadScript at 0x08B018C8>
 	arg0: self
 	arg1: fileName
 
 submodule._MonsterCardWindow__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-ReciveMission,		<cyfunction MonsterCardWindow.ReciveMission at 0x0AB39EF8>
+ReciveMission,		<cyfunction MonsterCardWindow.ReciveMission at 0x08B0A500>
 	arg0: self
 
 submodule.ReciveMission
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnAchievListScroll,		<cyfunction MonsterCardWindow.__OnAchievListScroll at 0x0AB3AEF8>
+_MonsterCardWindow__OnAchievListScroll,		<cyfunction MonsterCardWindow.__OnAchievListScroll at 0x08B0B500>
 	arg0: self
 
 submodule._MonsterCardWindow__OnAchievListScroll
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickExchangeButton,		<cyfunction MonsterCardWindow.__OnClickExchangeButton at 0x0AB3A920>
+_MonsterCardWindow__OnClickExchangeButton,		<cyfunction MonsterCardWindow.__OnClickExchangeButton at 0x08B0AEF8>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickExchangeButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__SelectedImgOverOut,		<cyfunction MonsterCardWindow.__SelectedImgOverOut at 0x0AB39BE0>
+_MonsterCardWindow__SelectedImgOverOut,		<cyfunction MonsterCardWindow.__SelectedImgOverOut at 0x08B0A1E8>
 	arg0: self
 	arg1: type
 	arg2: index
 
 submodule._MonsterCardWindow__SelectedImgOverOut
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickWarpButton,		<cyfunction MonsterCardWindow.__OnClickWarpButton at 0x0AB3AAD8>
+_MonsterCardWindow__OnClickWarpButton,		<cyfunction MonsterCardWindow.__OnClickWarpButton at 0x08B0B0E0>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickWarpButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickMotionButton,		<cyfunction MonsterCardWindow.__OnClickMotionButton at 0x0AB3A9D0>
+_MonsterCardWindow__OnClickMotionButton,		<cyfunction MonsterCardWindow.__OnClickMotionButton at 0x08B0AFA8>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickMotionButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ShuffleAccept,		<cyfunction MonsterCardWindow.__ShuffleAccept at 0x0AB39CE8>
+_MonsterCardWindow__ShuffleAccept,		<cyfunction MonsterCardWindow.__ShuffleAccept at 0x08B0A2F0>
 	arg0: self
 
 submodule._MonsterCardWindow__ShuffleAccept
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickPageButton,		<cyfunction MonsterCardWindow.__OnClickPageButton at 0x0AB3A608>
+_MonsterCardWindow__OnClickPageButton,		<cyfunction MonsterCardWindow.__OnClickPageButton at 0x08B0ABE0>
 	arg0: self
 	arg1: index
 
 submodule._MonsterCardWindow__OnClickPageButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickNextPageButton,		<cyfunction MonsterCardWindow.__OnClickNextPageButton at 0x0AB3A710>
+_MonsterCardWindow__OnClickNextPageButton,		<cyfunction MonsterCardWindow.__OnClickNextPageButton at 0x08B0ACE8>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickNextPageButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__CloseAchievPopup,		<cyfunction MonsterCardWindow.__CloseAchievPopup at 0x0AB3B190>
+_MonsterCardWindow__CloseAchievPopup,		<cyfunction MonsterCardWindow.__CloseAchievPopup at 0x08B0B768>
 	arg0: self
 
 submodule._MonsterCardWindow__CloseAchievPopup
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-ShowPage,		<cyfunction MonsterCardWindow.ShowPage at 0x0AB39660>
+ShowPage,		<cyfunction MonsterCardWindow.ShowPage at 0x08B01C38>
 	arg0: self
 
 submodule.ShowPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__SelectCellClear,		<cyfunction MonsterCardWindow.__SelectCellClear at 0x0AB39A28>
+_MonsterCardWindow__SelectCellClear,		<cyfunction MonsterCardWindow.__SelectCellClear at 0x08B0A030>
 	arg0: self
 
 submodule._MonsterCardWindow__SelectCellClear
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction MonsterCardWindow.__del__ at 0x0AB390E0>
+__del__,		<cyfunction MonsterCardWindow.__del__ at 0x08B01660>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-OnClickAchievApplyRegistButton,		<cyfunction MonsterCardWindow.OnClickAchievApplyRegistButton at 0x0AB3B0E0>
+OnClickAchievApplyRegistButton,		<cyfunction MonsterCardWindow.OnClickAchievApplyRegistButton at 0x08B0B6B8>
 	arg0: self
 	arg1: index
 	arg2: msg
@@ -263,91 +263,91 @@ OnClickAchievApplyRegistButton,		<cyfunction MonsterCardWindow.OnClickAchievAppl
 
 submodule.OnClickAchievApplyRegistButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction MonsterCardWindow.Destroy at 0x0AB393A0>
+Destroy,		<cyfunction MonsterCardWindow.Destroy at 0x08B01978>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickFirstPrevPageButton,		<cyfunction MonsterCardWindow.__OnClickFirstPrevPageButton at 0x0AB3A660>
+_MonsterCardWindow__OnClickFirstPrevPageButton,		<cyfunction MonsterCardWindow.__OnClickFirstPrevPageButton at 0x08B0AC38>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickFirstPrevPageButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-OnRender,		<cyfunction MonsterCardWindow.OnRender at 0x0AB393F8>
+OnRender,		<cyfunction MonsterCardWindow.OnRender at 0x08B019D0>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-ButtonToolTipProgress,		<cyfunction MonsterCardWindow.ButtonToolTipProgress at 0x0AB39768>
+ButtonToolTipProgress,		<cyfunction MonsterCardWindow.ButtonToolTipProgress at 0x08B01D40>
 	arg0: self
 
 submodule.ButtonToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickSortOpenwButton,		<cyfunction MonsterCardWindow.__OnClickSortOpenwButton at 0x0AB3AEA0>
+_MonsterCardWindow__OnClickSortOpenwButton,		<cyfunction MonsterCardWindow.__OnClickSortOpenwButton at 0x08B0B4A8>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickSortOpenwButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-SelectedAchievImgOverIn,		<cyfunction MonsterCardWindow.SelectedAchievImgOverIn at 0x0AB3B2F0>
+SelectedAchievImgOverIn,		<cyfunction MonsterCardWindow.SelectedAchievImgOverIn at 0x08B0B8C8>
 	arg0: self
 	arg1: type
 	arg2: name
 
 submodule.SelectedAchievImgOverIn
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickQuestionButton,		<cyfunction MonsterCardWindow.__OnClickQuestionButton at 0x0AB39EA0>
+_MonsterCardWindow__OnClickQuestionButton,		<cyfunction MonsterCardWindow.__OnClickQuestionButton at 0x08B0A4A8>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickQuestionButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-RequestIllustration,		<cyfunction MonsterCardWindow.RequestIllustration at 0x0AB3A2F0>
+RequestIllustration,		<cyfunction MonsterCardWindow.RequestIllustration at 0x08B0A8C8>
 	arg0: self
 
 submodule.RequestIllustration
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickRewardCardButton,		<cyfunction MonsterCardWindow.__OnClickRewardCardButton at 0x0AB39D40>
+_MonsterCardWindow__OnClickRewardCardButton,		<cyfunction MonsterCardWindow.__OnClickRewardCardButton at 0x08B0A348>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickRewardCardButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickPromotionButton,		<cyfunction MonsterCardWindow.__OnClickPromotionButton at 0x0AB3A870>
+_MonsterCardWindow__OnClickPromotionButton,		<cyfunction MonsterCardWindow.__OnClickPromotionButton at 0x08B0AE48>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickPromotionButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-ShowSoloPage,		<cyfunction MonsterCardWindow.ShowSoloPage at 0x0AB3A240>
+ShowSoloPage,		<cyfunction MonsterCardWindow.ShowSoloPage at 0x08B0A818>
 	arg0: self
 
 submodule.ShowSoloPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickShowAchievDetailWindow,		<cyfunction MonsterCardWindow.__OnClickShowAchievDetailWindow at 0x0AB3B088>
+_MonsterCardWindow__OnClickShowAchievDetailWindow,		<cyfunction MonsterCardWindow.__OnClickShowAchievDetailWindow at 0x08B0B660>
 	arg0: self
 	arg1: index
 
 submodule._MonsterCardWindow__OnClickShowAchievDetailWindow
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-Show,		<cyfunction MonsterCardWindow.Show at 0x0AB39138>
+Show,		<cyfunction MonsterCardWindow.Show at 0x08B016B8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__CloseAchievRegistQuestionDialog,		<cyfunction MonsterCardWindow.__CloseAchievRegistQuestionDialog at 0x0AB3B298>
+_MonsterCardWindow__CloseAchievRegistQuestionDialog,		<cyfunction MonsterCardWindow.__CloseAchievRegistQuestionDialog at 0x08B0B870>
 	arg0: self
 
 submodule._MonsterCardWindow__CloseAchievRegistQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__RewardAccept,		<cyfunction MonsterCardWindow.__RewardAccept at 0x0AB39D98>
+_MonsterCardWindow__RewardAccept,		<cyfunction MonsterCardWindow.__RewardAccept at 0x08B0A3A0>
 	arg0: self
 
 submodule._MonsterCardWindow__RewardAccept
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickTabButton,		<cyfunction MonsterCardWindow.__OnClickTabButton at 0x0AB395B0>
+_MonsterCardWindow__OnClickTabButton,		<cyfunction MonsterCardWindow.__OnClickTabButton at 0x08B01B88>
 	arg0: self
 	arg1: tabKey
 
 submodule._MonsterCardWindow__OnClickTabButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__WaitCellClear,		<cyfunction MonsterCardWindow.__WaitCellClear at 0x0AB39A80>
+_MonsterCardWindow__WaitCellClear,		<cyfunction MonsterCardWindow.__WaitCellClear at 0x08B0A088>
 	arg0: self
 
 submodule._MonsterCardWindow__WaitCellClear
@@ -362,36 +362,36 @@ __qualname__,		MonsterCardWindow
 submodule.__qualname__
 
 
-_MonsterCardWindow__SetMissionProceeding,		<cyfunction MonsterCardWindow.__SetMissionProceeding at 0x0AB39920>
+_MonsterCardWindow__SetMissionProceeding,		<cyfunction MonsterCardWindow.__SetMissionProceeding at 0x08B01EF8>
 	arg0: self
 
 submodule._MonsterCardWindow__SetMissionProceeding
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-Close,		<cyfunction MonsterCardWindow.Close at 0x0AB391E8>
+Close,		<cyfunction MonsterCardWindow.Close at 0x08B017C0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-SetMonsterCardAchievModelText,		<cyfunction MonsterCardWindow.SetMonsterCardAchievModelText at 0x0AB3AD40>
+SetMonsterCardAchievModelText,		<cyfunction MonsterCardWindow.SetMonsterCardAchievModelText at 0x08B0B348>
 	arg0: self
 	arg1: monster_vnum
 
 submodule.SetMonsterCardAchievModelText
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__EmergenceAreaOverOut,		<cyfunction MonsterCardWindow.__EmergenceAreaOverOut at 0x0AB39B30>
+_MonsterCardWindow__EmergenceAreaOverOut,		<cyfunction MonsterCardWindow.__EmergenceAreaOverOut at 0x08B0A138>
 	arg0: self
 	arg1: type
 	arg2: index
 
 submodule._MonsterCardWindow__EmergenceAreaOverOut
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-SetPage,		<cyfunction MonsterCardWindow.SetPage at 0x0AB39608>
+SetPage,		<cyfunction MonsterCardWindow.SetPage at 0x08B01BE0>
 	arg0: self
 	arg1: key
 
 submodule.SetPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__InitAccept,		<cyfunction MonsterCardWindow.__InitAccept at 0x0AB39E48>
+_MonsterCardWindow__InitAccept,		<cyfunction MonsterCardWindow.__InitAccept at 0x08B0A450>
 	arg0: self
 
 submodule._MonsterCardWindow__InitAccept
@@ -401,96 +401,96 @@ __module__,		uiMonsterCard
 submodule.__module__
 
 
-_MonsterCardWindow__ShowPageButton,		<cyfunction MonsterCardWindow.__ShowPageButton at 0x0AB3A3A0>
+_MonsterCardWindow__ShowPageButton,		<cyfunction MonsterCardWindow.__ShowPageButton at 0x08B0A978>
 	arg0: self
 	arg1: max_page
 	arg2: cur_page
 
 submodule._MonsterCardWindow__ShowPageButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickReciveMissionButton,		<cyfunction MonsterCardWindow.__OnClickReciveMissionButton at 0x0AB39C38>
+_MonsterCardWindow__OnClickReciveMissionButton,		<cyfunction MonsterCardWindow.__OnClickReciveMissionButton at 0x08B0A240>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickReciveMissionButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__AskRegistAchievMessage,		<cyfunction MonsterCardWindow.__AskRegistAchievMessage at 0x0AB3B1E8>
+_MonsterCardWindow__AskRegistAchievMessage,		<cyfunction MonsterCardWindow.__AskRegistAchievMessage at 0x08B0B7C0>
 	arg0: self
 	arg1: index
 	arg2: msg
 
 submodule._MonsterCardWindow__AskRegistAchievMessage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__TradeAccept,		<cyfunction MonsterCardWindow.__TradeAccept at 0x0AB3A978>
+_MonsterCardWindow__TradeAccept,		<cyfunction MonsterCardWindow.__TradeAccept at 0x08B0AF50>
 	arg0: self
 	arg1: mob_vnum
 
 submodule._MonsterCardWindow__TradeAccept
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickSelectAchievTypeButton,		<cyfunction MonsterCardWindow.__OnClickSelectAchievTypeButton at 0x0AB3B030>
+_MonsterCardWindow__OnClickSelectAchievTypeButton,		<cyfunction MonsterCardWindow.__OnClickSelectAchievTypeButton at 0x08B0B608>
 	arg0: self
 	arg1: type
 
 submodule._MonsterCardWindow__OnClickSelectAchievTypeButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-OnMouseWheelButtonDown,		<cyfunction MonsterCardWindow.OnMouseWheelButtonDown at 0x0AB3B4A8>
+OnMouseWheelButtonDown,		<cyfunction MonsterCardWindow.OnMouseWheelButtonDown at 0x08B0BA80>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-CardMoveEndEvnet,		<cyfunction MonsterCardWindow.CardMoveEndEvnet at 0x0AB39FA8>
+CardMoveEndEvnet,		<cyfunction MonsterCardWindow.CardMoveEndEvnet at 0x08B0A5B0>
 	arg0: self
 
 submodule.CardMoveEndEvnet
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__PolyAccept,		<cyfunction MonsterCardWindow.__PolyAccept at 0x0AB3AA80>
+_MonsterCardWindow__PolyAccept,		<cyfunction MonsterCardWindow.__PolyAccept at 0x08B0B088>
 	arg0: self
 	arg1: mob_vnum
 
 submodule._MonsterCardWindow__PolyAccept
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ModelRotationProgress,		<cyfunction MonsterCardWindow.__ModelRotationProgress at 0x0AB3AC38>
+_MonsterCardWindow__ModelRotationProgress,		<cyfunction MonsterCardWindow.__ModelRotationProgress at 0x08B0B240>
 	arg0: self
 
 submodule._MonsterCardWindow__ModelRotationProgress
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnAchievBonusListScroll,		<cyfunction MonsterCardWindow.__OnAchievBonusListScroll at 0x0AB3AF50>
+_MonsterCardWindow__OnAchievBonusListScroll,		<cyfunction MonsterCardWindow.__OnAchievBonusListScroll at 0x08B0B558>
 	arg0: self
 
 submodule._MonsterCardWindow__OnAchievBonusListScroll
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__MissionPageClear,		<cyfunction MonsterCardWindow.__MissionPageClear at 0x0AB399D0>
+_MonsterCardWindow__MissionPageClear,		<cyfunction MonsterCardWindow.__MissionPageClear at 0x08B01FA8>
 	arg0: self
 
 submodule._MonsterCardWindow__MissionPageClear
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction MonsterCardWindow.OnMouseWheelButtonUp at 0x0AB3B450>
+OnMouseWheelButtonUp,		<cyfunction MonsterCardWindow.OnMouseWheelButtonUp at 0x08B0BA28>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-MonsterCardIllustrationFail,		<cyfunction MonsterCardWindow.MonsterCardIllustrationFail at 0x0AB3A0E0>
+MonsterCardIllustrationFail,		<cyfunction MonsterCardWindow.MonsterCardIllustrationFail at 0x08B0A6B8>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.MonsterCardIllustrationFail
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction MonsterCardWindow.__init__ at 0x0AB39088>
+__init__,		<cyfunction MonsterCardWindow.__init__ at 0x08B01608>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-OverOutToolTipButton,		<cyfunction MonsterCardWindow.OverOutToolTipButton at 0x0AB39710>
+OverOutToolTipButton,		<cyfunction MonsterCardWindow.OverOutToolTipButton at 0x08B01CE8>
 	arg0: self
 
 submodule.OverOutToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__BindObject,		<cyfunction MonsterCardWindow.__BindObject at 0x0AB394A8>
+_MonsterCardWindow__BindObject,		<cyfunction MonsterCardWindow.__BindObject at 0x08B01A80>
 	arg0: self
 
 submodule._MonsterCardWindow__BindObject
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__IllustrationImgOverIn,		<cyfunction MonsterCardWindow.__IllustrationImgOverIn at 0x0AB3A7C0>
+_MonsterCardWindow__IllustrationImgOverIn,		<cyfunction MonsterCardWindow.__IllustrationImgOverIn at 0x08B0AD98>
 	arg0: self
 	arg1: type
 	arg2: row
@@ -498,66 +498,66 @@ _MonsterCardWindow__IllustrationImgOverIn,		<cyfunction MonsterCardWindow.__Illu
 
 submodule._MonsterCardWindow__IllustrationImgOverIn
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__PromotionAccept,		<cyfunction MonsterCardWindow.__PromotionAccept at 0x0AB3A8C8>
+_MonsterCardWindow__PromotionAccept,		<cyfunction MonsterCardWindow.__PromotionAccept at 0x08B0AEA0>
 	arg0: self
 	arg1: mob_vnum
 
 submodule._MonsterCardWindow__PromotionAccept
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__SetMonsterCardAchievDungeonBonusList,		<cyfunction MonsterCardWindow.__SetMonsterCardAchievDungeonBonusList at 0x0AB3B3A0>
+_MonsterCardWindow__SetMonsterCardAchievDungeonBonusList,		<cyfunction MonsterCardWindow.__SetMonsterCardAchievDungeonBonusList at 0x08B0B978>
 	arg0: self
 
 submodule._MonsterCardWindow__SetMonsterCardAchievDungeonBonusList
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__SetMonsterCardAchievBonusList,		<cyfunction MonsterCardWindow.__SetMonsterCardAchievBonusList at 0x0AB3B348>
+_MonsterCardWindow__SetMonsterCardAchievBonusList,		<cyfunction MonsterCardWindow.__SetMonsterCardAchievBonusList at 0x08B0B920>
 	arg0: self
 
 submodule._MonsterCardWindow__SetMonsterCardAchievBonusList
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-BindInterfaceClass,		<cyfunction MonsterCardWindow.BindInterfaceClass at 0x0AB39298>
+BindInterfaceClass,		<cyfunction MonsterCardWindow.BindInterfaceClass at 0x08B01870>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterfaceClass
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ModelViewReset,		<cyfunction MonsterCardWindow.__ModelViewReset at 0x0AB3ACE8>
+_MonsterCardWindow__ModelViewReset,		<cyfunction MonsterCardWindow.__ModelViewReset at 0x08B0B2F0>
 	arg0: self
 
 submodule._MonsterCardWindow__ModelViewReset
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__WarpAccept,		<cyfunction MonsterCardWindow.__WarpAccept at 0x0AB3AB30>
+_MonsterCardWindow__WarpAccept,		<cyfunction MonsterCardWindow.__WarpAccept at 0x08B0B138>
 	arg0: self
 	arg1: mob_vnum
 
 submodule._MonsterCardWindow__WarpAccept
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ModelUpDownCameraProgress,		<cyfunction MonsterCardWindow.__ModelUpDownCameraProgress at 0x0AB3ABE0>
+_MonsterCardWindow__ModelUpDownCameraProgress,		<cyfunction MonsterCardWindow.__ModelUpDownCameraProgress at 0x08B0B1E8>
 	arg0: self
 
 submodule._MonsterCardWindow__ModelUpDownCameraProgress
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickAchievChangeViewButton,		<cyfunction MonsterCardWindow.__OnClickAchievChangeViewButton at 0x0AB3AFA8>
+_MonsterCardWindow__OnClickAchievChangeViewButton,		<cyfunction MonsterCardWindow.__OnClickAchievChangeViewButton at 0x08B0B5B0>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickAchievChangeViewButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__LoadWindow,		<cyfunction MonsterCardWindow.__LoadWindow at 0x0AB39348>
+_MonsterCardWindow__LoadWindow,		<cyfunction MonsterCardWindow.__LoadWindow at 0x08B01920>
 	arg0: self
 
 submodule._MonsterCardWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-ShowPartyPage,		<cyfunction MonsterCardWindow.ShowPartyPage at 0x0AB3A298>
+ShowPartyPage,		<cyfunction MonsterCardWindow.ShowPartyPage at 0x08B0A870>
 	arg0: self
 
 submodule.ShowPartyPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-OverInToolTipButton,		<cyfunction MonsterCardWindow.OverInToolTipButton at 0x0AB396B8>
+OverInToolTipButton,		<cyfunction MonsterCardWindow.OverInToolTipButton at 0x08B01C90>
 	arg0: self
 	arg1: btnText
 
 submodule.OverInToolTipButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OpenPopupDialog,		<cyfunction MonsterCardWindow.__OpenPopupDialog at 0x0AB3A138>
+_MonsterCardWindow__OpenPopupDialog,		<cyfunction MonsterCardWindow.__OpenPopupDialog at 0x08B0A710>
 	arg0: self
 	arg1: msg
 	arg2: resize_width
@@ -565,12 +565,12 @@ _MonsterCardWindow__OpenPopupDialog,		<cyfunction MonsterCardWindow.__OpenPopupD
 
 submodule._MonsterCardWindow__OpenPopupDialog
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickShuffleCardButton,		<cyfunction MonsterCardWindow.__OnClickShuffleCardButton at 0x0AB39C90>
+_MonsterCardWindow__OnClickShuffleCardButton,		<cyfunction MonsterCardWindow.__OnClickShuffleCardButton at 0x08B0A298>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickShuffleCardButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__IllustrationEmergenceAreaOverOut,		<cyfunction MonsterCardWindow.__IllustrationEmergenceAreaOverOut at 0x0AB3A5B0>
+_MonsterCardWindow__IllustrationEmergenceAreaOverOut,		<cyfunction MonsterCardWindow.__IllustrationEmergenceAreaOverOut at 0x08B0AB88>
 	arg0: self
 	arg1: type
 	arg2: row
@@ -578,82 +578,82 @@ _MonsterCardWindow__IllustrationEmergenceAreaOverOut,		<cyfunction MonsterCardWi
 
 submodule._MonsterCardWindow__IllustrationEmergenceAreaOverOut
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickMissionInitButton,		<cyfunction MonsterCardWindow.__OnClickMissionInitButton at 0x0AB39DF0>
+_MonsterCardWindow__OnClickMissionInitButton,		<cyfunction MonsterCardWindow.__OnClickMissionInitButton at 0x08B0A3F8>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickMissionInitButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__MakeAchievList,		<cyfunction MonsterCardWindow.__MakeAchievList at 0x0AB39450>
+_MonsterCardWindow__MakeAchievList,		<cyfunction MonsterCardWindow.__MakeAchievList at 0x08B01A28>
 	arg0: self
 
 submodule._MonsterCardWindow__MakeAchievList
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__SelectedImgOverIn,		<cyfunction MonsterCardWindow.__SelectedImgOverIn at 0x0AB39B88>
+_MonsterCardWindow__SelectedImgOverIn,		<cyfunction MonsterCardWindow.__SelectedImgOverIn at 0x08B0A190>
 	arg0: self
 	arg1: type
 	arg2: index
 
 submodule._MonsterCardWindow__SelectedImgOverIn
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-RefreshMissionPage,		<cyfunction MonsterCardWindow.RefreshMissionPage at 0x0AB39870>
+RefreshMissionPage,		<cyfunction MonsterCardWindow.RefreshMissionPage at 0x08B01E48>
 	arg0: self
 
 submodule.RefreshMissionPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MonsterCardWindow.OnPressEscapeKey at 0x0AB39240>
+OnPressEscapeKey,		<cyfunction MonsterCardWindow.OnPressEscapeKey at 0x08B01818>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ApplyRegistMessageSend,		<cyfunction MonsterCardWindow.__ApplyRegistMessageSend at 0x0AB3B240>
+_MonsterCardWindow__ApplyRegistMessageSend,		<cyfunction MonsterCardWindow.__ApplyRegistMessageSend at 0x08B0B818>
 	arg0: self
 	arg1: index
 	arg2: msg
 
 submodule._MonsterCardWindow__ApplyRegistMessageSend
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__CreateGameTypeToolTip,		<cyfunction MonsterCardWindow.__CreateGameTypeToolTip at 0x0AB39558>
+_MonsterCardWindow__CreateGameTypeToolTip,		<cyfunction MonsterCardWindow.__CreateGameTypeToolTip at 0x08B01B30>
 	arg0: self
 	arg1: title
 	arg2: descList
 
 submodule._MonsterCardWindow__CreateGameTypeToolTip
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickSummonButton,		<cyfunction MonsterCardWindow.__OnClickSummonButton at 0x0AB3AB88>
+_MonsterCardWindow__OnClickSummonButton,		<cyfunction MonsterCardWindow.__OnClickSummonButton at 0x08B0B190>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickSummonButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__InsertMoveCard,		<cyfunction MonsterCardWindow.__InsertMoveCard at 0x0AB3A030>
+_MonsterCardWindow__InsertMoveCard,		<cyfunction MonsterCardWindow.__InsertMoveCard at 0x08B0A608>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
 
 submodule._MonsterCardWindow__InsertMoveCard
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__AchievSortListOver,		<cyfunction MonsterCardWindow.__AchievSortListOver at 0x0AB3AD98>
+_MonsterCardWindow__AchievSortListOver,		<cyfunction MonsterCardWindow.__AchievSortListOver at 0x08B0B3A0>
 	arg0: self
 	arg1: button
 
 submodule._MonsterCardWindow__AchievSortListOver
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_OpenAchievPopup,		<cyfunction MonsterCardWindow._OpenAchievPopup at 0x0AB3B138>
+_OpenAchievPopup,		<cyfunction MonsterCardWindow._OpenAchievPopup at 0x08B0B710>
 	arg0: self
 	arg1: msg
 
 submodule._OpenAchievPopup
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MonsterCardWindow.OnUpdate at 0x0AB397C0>
+OnUpdate,		<cyfunction MonsterCardWindow.OnUpdate at 0x08B01D98>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-ShowAchievPage,		<cyfunction MonsterCardWindow.ShowAchievPage at 0x0AB3A348>
+ShowAchievPage,		<cyfunction MonsterCardWindow.ShowAchievPage at 0x08B0A920>
 	arg0: self
 
 submodule.ShowAchievPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__IllustrationEmergenceAreaOverIn,		<cyfunction MonsterCardWindow.__IllustrationEmergenceAreaOverIn at 0x0AB3A558>
+_MonsterCardWindow__IllustrationEmergenceAreaOverIn,		<cyfunction MonsterCardWindow.__IllustrationEmergenceAreaOverIn at 0x08B0AB30>
 	arg0: self
 	arg1: type
 	arg2: row
@@ -661,22 +661,22 @@ _MonsterCardWindow__IllustrationEmergenceAreaOverIn,		<cyfunction MonsterCardWin
 
 submodule._MonsterCardWindow__IllustrationEmergenceAreaOverIn
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__AchievSortListOverOut,		<cyfunction MonsterCardWindow.__AchievSortListOverOut at 0x0AB3ADF0>
+_MonsterCardWindow__AchievSortListOverOut,		<cyfunction MonsterCardWindow.__AchievSortListOverOut at 0x08B0B3F8>
 	arg0: self
 
 submodule._MonsterCardWindow__AchievSortListOverOut
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__OnClickPolyButton,		<cyfunction MonsterCardWindow.__OnClickPolyButton at 0x0AB3AA28>
+_MonsterCardWindow__OnClickPolyButton,		<cyfunction MonsterCardWindow.__OnClickPolyButton at 0x08B0B030>
 	arg0: self
 
 submodule._MonsterCardWindow__OnClickPolyButton
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__ShowMissionPage,		<cyfunction MonsterCardWindow.__ShowMissionPage at 0x0AB39978>
+_MonsterCardWindow__ShowMissionPage,		<cyfunction MonsterCardWindow.__ShowMissionPage at 0x08B01F50>
 	arg0: self
 
 submodule._MonsterCardWindow__ShowMissionPage
 Skipped: unbound method cython_function_or_method object must be called with MonsterCardWindow instance as first argument (got nothing instead)
-_MonsterCardWindow__BindEvent,		<cyfunction MonsterCardWindow.__BindEvent at 0x0AB39500>
+_MonsterCardWindow__BindEvent,		<cyfunction MonsterCardWindow.__BindEvent at 0x08B01AD8>
 	arg0: self
 
 submodule._MonsterCardWindow__BindEvent
@@ -689,17 +689,17 @@ __module__,		uiMonsterCard
 submodule.__module__
 
 
-_AchievDetailWindow__AchievRankCountSetting,		<cyfunction AchievDetailWindow.__AchievRankCountSetting at 0x0AB21D98>
+_AchievDetailWindow__AchievRankCountSetting,		<cyfunction AchievDetailWindow.__AchievRankCountSetting at 0x08B013A0>
 	arg0: self
 
 submodule._AchievDetailWindow__AchievRankCountSetting
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-Close,		<cyfunction AchievDetailWindow.Close at 0x0AB21A28>
+Close,		<cyfunction AchievDetailWindow.Close at 0x08B01030>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-Show,		<cyfunction AchievDetailWindow.Show at 0x0AB21A80>
+Show,		<cyfunction AchievDetailWindow.Show at 0x08B01088>
 	arg0: self
 	arg1: achiev_type
 	arg2: achiev_sort
@@ -707,24 +707,24 @@ Show,		<cyfunction AchievDetailWindow.Show at 0x0AB21A80>
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction AchievDetailWindow.__del__ at 0x0AB219D0>
+__del__,		<cyfunction AchievDetailWindow.__del__ at 0x08B015B0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-_AchievDetailWindow__BeforeSettingAchievDetailObject,		<cyfunction AchievDetailWindow.__BeforeSettingAchievDetailObject at 0x0AB21C38>
+_AchievDetailWindow__BeforeSettingAchievDetailObject,		<cyfunction AchievDetailWindow.__BeforeSettingAchievDetailObject at 0x08B01240>
 	arg0: self
 
 submodule._AchievDetailWindow__BeforeSettingAchievDetailObject
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-_AchievDetailWindow__OnClickMonsterCardImg,		<cyfunction AchievDetailWindow.__OnClickMonsterCardImg at 0x0AB21BE0>
+_AchievDetailWindow__OnClickMonsterCardImg,		<cyfunction AchievDetailWindow.__OnClickMonsterCardImg at 0x08B011E8>
 	arg0: self
 	arg1: type
 	arg2: key
 
 submodule._AchievDetailWindow__OnClickMonsterCardImg
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-_AchievDetailWindow__SetAchievDetailWindow,		<cyfunction AchievDetailWindow.__SetAchievDetailWindow at 0x0AB39030>
+_AchievDetailWindow__SetAchievDetailWindow,		<cyfunction AchievDetailWindow.__SetAchievDetailWindow at 0x08B01768>
 	arg0: self
 	arg1: achiev_type
 	arg2: achiev_sort
@@ -737,7 +737,7 @@ __qualname__,		AchievDetailWindow
 submodule.__qualname__
 
 
-_AchievDetailWindow__OnClickStarImg,		<cyfunction AchievDetailWindow.__OnClickStarImg at 0x0AB21B88>
+_AchievDetailWindow__OnClickStarImg,		<cyfunction AchievDetailWindow.__OnClickStarImg at 0x08B01190>
 	arg0: self
 	arg1: type
 	arg2: key
@@ -749,29 +749,29 @@ __doc__,		None
 submodule.__doc__
 
 
-OnPressEscapeKey,		<cyfunction AchievDetailWindow.OnPressEscapeKey at 0x0AB21B30>
+OnPressEscapeKey,		<cyfunction AchievDetailWindow.OnPressEscapeKey at 0x08B01138>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-_AchievDetailWindow__ClickMonsterCardAchievLineImage,		<cyfunction AchievDetailWindow.__ClickMonsterCardAchievLineImage at 0x0AB21CE8>
+_AchievDetailWindow__ClickMonsterCardAchievLineImage,		<cyfunction AchievDetailWindow.__ClickMonsterCardAchievLineImage at 0x08B012F0>
 	arg0: self
 	arg1: index
 
 submodule._AchievDetailWindow__ClickMonsterCardAchievLineImage
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-_AchievDetailWindow__OnClickStarButton,		<cyfunction AchievDetailWindow.__OnClickStarButton at 0x0AB21C90>
+_AchievDetailWindow__OnClickStarButton,		<cyfunction AchievDetailWindow.__OnClickStarButton at 0x08B01298>
 	arg0: self
 	arg1: key
 
 submodule._AchievDetailWindow__OnClickStarButton
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-_AchievDetailWindow__LoadWindow,		<cyfunction AchievDetailWindow.__LoadWindow at 0x0AB21AD8>
+_AchievDetailWindow__LoadWindow,		<cyfunction AchievDetailWindow.__LoadWindow at 0x08B010E0>
 	arg0: self
 
 submodule._AchievDetailWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with AchievDetailWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction AchievDetailWindow.__init__ at 0x0AB21FA8>
+__init__,		<cyfunction AchievDetailWindow.__init__ at 0x08AF9FA8>
 	arg0: self
 	arg1: monster_card_window
 

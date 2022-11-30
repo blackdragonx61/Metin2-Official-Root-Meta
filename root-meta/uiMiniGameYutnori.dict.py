@@ -245,7 +245,7 @@
          {'name': '__name__', 'type': 'str', 'value': 'uiMiniGameYutnori'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'prob_name_tuple', 'type': 'tuple', 'value': ('Do', 'Gae', 'Geol', 'Yut', 'Mo', 'Back Do')},
+         {'name': 'prob_name_tuple', 'type': 'tuple', 'value': ('Do', 'Ge', 'Geol', 'Yut', 'Mo', 'Back-do')},
          {'name': 'yut_img_path',
           'type': 'dict',
           'value': {0: ('d:/ymir work/ui/minigame/yutnori/yut_back_img.sub', 'd:/ymir work/ui/minigame/yutnori/yut_back_img.sub', 'd:/ymir work/ui/minigame/yutnori/yut_back_img.sub', 'd:/ymir work/ui/minigame/yutnori/yut_front_img.sub'),

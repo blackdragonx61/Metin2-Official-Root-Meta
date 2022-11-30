@@ -23,42 +23,42 @@ CAN_IMMEDIATE_RESTART_ZONE,		[357]
 submodule.CAN_IMMEDIATE_RESTART_ZONE
 
 
-__del__,		<cyfunction RestartDialog.__del__ at 0x0ABFC4A8>
+__del__,		<cyfunction RestartDialog.__del__ at 0x08BDF7C0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction RestartDialog.LoadDialog at 0x0ABFC500>
+LoadDialog,		<cyfunction RestartDialog.LoadDialog at 0x08BDF818>
 	arg0: self
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-AcceptGiveUp,		<cyfunction RestartDialog.AcceptGiveUp at 0x0ABFC7C0>
+AcceptGiveUp,		<cyfunction RestartDialog.AcceptGiveUp at 0x08BDFAD8>
 	arg0: self
 
 submodule.AcceptGiveUp
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction RestartDialog.OnPressExitKey at 0x0ABFC870>
+OnPressExitKey,		<cyfunction RestartDialog.OnPressExitKey at 0x08BDFB88>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction RestartDialog.OnPressEscapeKey at 0x0ABFC8C8>
+OnPressEscapeKey,		<cyfunction RestartDialog.OnPressEscapeKey at 0x08BDFBE0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-ShowAll,		<cyfunction RestartDialog.ShowAll at 0x0ABFC978>
+ShowAll,		<cyfunction RestartDialog.ShowAll at 0x08BDFC90>
 	arg0: self
 
 submodule.ShowAll
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-RestartGiveUp,		<cyfunction RestartDialog.RestartGiveUp at 0x0ABFC768>
+RestartGiveUp,		<cyfunction RestartDialog.RestartGiveUp at 0x08BDFA80>
 	arg0: self
 
 submodule.RestartGiveUp
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction RestartDialog.Destroy at 0x0ABFC558>
+Destroy,		<cyfunction RestartDialog.Destroy at 0x08BDF870>
 	arg0: self
 
 submodule.Destroy
@@ -68,38 +68,38 @@ CAN_GIVEUP_RESTART_ZONE,		[358]
 submodule.CAN_GIVEUP_RESTART_ZONE
 
 
-__init__,		<cyfunction RestartDialog.__init__ at 0x0ABFC450>
+__init__,		<cyfunction RestartDialog.__init__ at 0x08BDF768>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-ShowDialogButton,		<cyfunction RestartDialog.ShowDialogButton at 0x0ABFC920>
+ShowDialogButton,		<cyfunction RestartDialog.ShowDialogButton at 0x08BDFC38>
 	arg0: self
 	arg1: mapidx
 
 submodule.ShowDialogButton
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-HideAll,		<cyfunction RestartDialog.HideAll at 0x0ABFC9D0>
+HideAll,		<cyfunction RestartDialog.HideAll at 0x08BDFCE8>
 	arg0: self
 
 submodule.HideAll
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-RestartTown,		<cyfunction RestartDialog.RestartTown at 0x0ABFC6B8>
+RestartTown,		<cyfunction RestartDialog.RestartTown at 0x08BDF9D0>
 	arg0: self
 
 submodule.RestartTown
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-RestartImmediately,		<cyfunction RestartDialog.RestartImmediately at 0x0ABFC710>
+RestartImmediately,		<cyfunction RestartDialog.RestartImmediately at 0x08BDFA28>
 	arg0: self
 
 submodule.RestartImmediately
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-RestartHere,		<cyfunction RestartDialog.RestartHere at 0x0ABFC660>
+RestartHere,		<cyfunction RestartDialog.RestartHere at 0x08BDF978>
 	arg0: self
 
 submodule.RestartHere
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-ONLY_GIVEUP_POPUP_ZONE,		{387: 'Keser\xfb veres\xe9g! A kalandod itt v\xe9get \xe9r.', 360: 'Meg\xf6ltek az \xf6t szent\xe9ly csat\xe1j\xe1ban.\\nMost visszaker\xfclsz a faluba.', 378: 'Meghalt\xe1l. \\nVisszat\xe9rsz az Element\xe1lok birodalm\xe1b\xf3l!', 379: 'Meghalt\xe1l. \\nVisszat\xe9rsz az Element\xe1lok birodalm\xe1b\xf3l!', 380: 'Meghalt\xe1l. \\nVisszat\xe9rsz az Element\xe1lok birodalm\xe1b\xf3l!', 381: 'Meghalt\xe1l. \\nVisszat\xe9rsz az Element\xe1lok birodalm\xe1b\xf3l!'}
+ONLY_GIVEUP_POPUP_ZONE,		{360: 'Voc\xea foi derrotado na Guerra dos Santu\xe1rios!\\nSer\xe1 movido para a vila.'}
 
 submodule.ONLY_GIVEUP_POPUP_ZONE
 
@@ -109,19 +109,19 @@ __qualname__,		RestartDialog
 submodule.__qualname__
 
 
-OpenDialog,		<cyfunction RestartDialog.OpenDialog at 0x0ABFC5B0>
+OpenDialog,		<cyfunction RestartDialog.OpenDialog at 0x08BDF8C8>
 	arg0: self
 	arg1: mapidx
 	default: 0
 
 submodule.OpenDialog
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-CancelGiveUp,		<cyfunction RestartDialog.CancelGiveUp at 0x0ABFC818>
+CancelGiveUp,		<cyfunction RestartDialog.CancelGiveUp at 0x08BDFB30>
 	arg0: self
 
 submodule.CancelGiveUp
 Skipped: unbound method cython_function_or_method object must be called with RestartDialog instance as first argument (got nothing instead)
-Close,		<cyfunction RestartDialog.Close at 0x0ABFC608>
+Close,		<cyfunction RestartDialog.Close at 0x08BDF920>
 	arg0: self
 
 submodule.Close

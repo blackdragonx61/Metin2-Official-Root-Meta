@@ -126,7 +126,7 @@
             'import': [],
             'var': [{'name': 'USE_TYPE_TUPLE',
                      'type': 'tuple',
-                     'value': ('USE_CLEAN_SOCKET', 'USE_CHANGE_ATTRIBUTE', 'USE_ADD_ATTRIBUTE', 'USE_ADD_ATTRIBUTE2', 'USE_ADD_ACCESSORY_SOCKET', 'USE_PUT_INTO_ACCESSORY_SOCKET', 'USE_PUT_INTO_BELT_SOCKET', 'USE_PUT_INTO_RING_SOCKET', 'USE_CHANGE_COSTUME_ATTR', 'USE_RESET_COSTUME_ATTR', 'USE_SELECT_ATTRIBUTE')},
+                     'value': ('USE_CLEAN_SOCKET', 'USE_CHANGE_ATTRIBUTE', 'USE_ADD_ATTRIBUTE', 'USE_ADD_ATTRIBUTE2', 'USE_ADD_ACCESSORY_SOCKET', 'USE_PUT_INTO_ACCESSORY_SOCKET', 'USE_PUT_INTO_BELT_SOCKET', 'USE_PUT_INTO_RING_SOCKET', 'USE_CHANGE_COSTUME_ATTR', 'USE_RESET_COSTUME_ATTR')},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'uiInventory'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'InventoryWindow'},
