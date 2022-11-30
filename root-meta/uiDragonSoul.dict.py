@@ -107,7 +107,7 @@
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],
             'import': [],
-            'var': [{'name': 'KIND_TAP_TITLES', 'type': 'list', 'value': ['Drachendiamant', 'Drachenrubin', 'Drachenjade', 'Drachensaphir', 'Drachengranat', 'Drachenonyx']},
+            'var': [{'name': 'KIND_TAP_TITLES', 'type': 'list', 'value': ['Dragon Diamond', 'Dragon Ruby', 'Dragon Jade', 'Dragon Sapphire', 'Dragon Garnet', 'Dragon Onyx']},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'uiDragonSoul'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'DragonSoulWindow'}]}],

@@ -36,7 +36,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'Render'},
                      {'args': ['self', 'type'], 'defaults': [], 'name': 'RunCallBack'},
                      {'args': ['self', 'flag'], 'defaults': [], 'name': 'SetAttachedIconRender'},
-                     {'args': ['self', 'type', 'event'], 'defaults': [<cyfunction CMouseController.<lambda> at 0x07DD9A80>], 'name': 'SetCallBack'},
+                     {'args': ['self', 'type', 'event'], 'defaults': [<cyfunction CMouseController.<lambda> at 0x08369C90>], 'name': 'SetCallBack'},
                      {'args': ['self', 'cheque'], 'defaults': [], 'name': 'SetCheque'},
                      {'args': ['self', 'x', 'y'], 'defaults': [], 'name': 'Update'},
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
@@ -54,4 +54,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'mouseModule'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'mouseController', 'type': 'CMouseController', 'value': <mouseModule.CMouseController object at 0x07DC6D70>}]}
+         {'name': 'mouseController', 'type': 'CMouseController', 'value': <mouseModule.CMouseController object at 0x08364230>}]}

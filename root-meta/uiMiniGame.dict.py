@@ -17,6 +17,7 @@
                      {'args': ['self', 'InvenSlot'], 'defaults': [], 'name': 'CantFishEventSlot'},
                      {'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
+                     {'args': ['self'], 'defaults': [], 'name': 'Hide'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': 'IntegrationMiniGame'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': 'MiniGameAttendance'},
                      {'args': ['self'], 'defaults': [], 'name': 'MiniGameAttendanceRequestRewardList'},

@@ -363,4 +363,4 @@
             'uiCharacter',
             'uiPointReset',
             'uiGuildBank'],
- 'var': [{'name': 'IsQBHide', 'type': 'int', 'value': 0}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'interfaceModule'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}
+ 'var': [{'name': 'IsQBHide', 'type': 'int', 'value': 1}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'interfaceModule'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

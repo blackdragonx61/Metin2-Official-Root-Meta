@@ -1,6 +1,7 @@
 {'class': [{'class': [],
             'func': [{'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
+                     {'args': ['self'], 'defaults': [], 'name': 'IsShowWindow'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnChangeMusicVolume'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnChangeShadowQuality'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnChangeSoundVolume'},

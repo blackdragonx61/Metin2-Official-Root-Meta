@@ -1,6 +1,7 @@
 {'class': [{'class': [],
             'func': [{'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
+                     {'args': ['self'], 'defaults': [], 'name': 'IsShowWindow'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': 'OnBlockMode'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnChangePKMode'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnCloseInputDialog'},
@@ -77,5 +78,5 @@
          {'name': '__name__', 'type': 'str', 'value': 'uiGameOption'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'blockMode', 'type': 'int', 'value': 0},
+         {'name': 'blockMode', 'type': 'int', 'value': 54},
          {'name': 'viewChatMode', 'type': 'int', 'value': 0}]}

@@ -110,7 +110,7 @@
                     {'name': 'EVENT_SKILL', 'type': 'int', 'value': 4},
                     {'name': 'GAUGE_HEIGHT', 'type': 'int', 'value': 13},
                     {'name': 'GAUGE_WIDTH', 'type': 'int', 'value': 95},
-                    {'name': 'IS_EXPANDED', 'type': 'bool', 'value': False},
+                    {'name': 'IS_EXPANDED', 'type': 'bool', 'value': True},
                     {'name': 'MOUSE_BUTTON_LEFT', 'type': 'int', 'value': 0},
                     {'name': 'MOUSE_BUTTON_RIGHT', 'type': 'int', 'value': 1},
                     {'name': 'NONE', 'type': 'int', 'value': 255},
@@ -157,4 +157,4 @@
           {'args': ['dir', 'event'], 'defaults': [], 'name': 'SetMouseButtonSetting'},
           {'args': ['n'], 'defaults': [], 'name': 'unsigned32'}],
  'import': ['app', 'm2netm2g', 'playerm2g2', 'skill', 'constInfo', 'mouseModule', 'uiScriptLocale', 'localeInfo', '__builtin__', 'wndMgr', 'item', 'ui'],
- 'var': [{'name': 'MOUSE_SETTINGS', 'type': 'list', 'value': [0, 0]}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiTaskBar'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}
+ 'var': [{'name': 'MOUSE_SETTINGS', 'type': 'list', 'value': [5, 3]}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiTaskBar'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

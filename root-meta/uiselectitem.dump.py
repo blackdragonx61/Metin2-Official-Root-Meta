@@ -18,30 +18,30 @@ __module__,		uiselectitem
 submodule.__module__
 
 
-SetTableSize,		<cyfunction SelectItemWindow.SetTableSize at 0x093C10E0>
+SetTableSize,		<cyfunction SelectItemWindow.SetTableSize at 0x0A2D51E8>
 	arg0: self
 	arg1: size
 
 submodule.SetTableSize
 Skipped: unbound method cython_function_or_method object must be called with SelectItemWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction SelectItemWindow.SetItemToolTip at 0x093C1030>
+SetItemToolTip,		<cyfunction SelectItemWindow.SetItemToolTip at 0x0A2D5138>
 	arg0: self
 	arg1: tooltipItem
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with SelectItemWindow instance as first argument (got nothing instead)
-RefreshSlot,		<cyfunction SelectItemWindow.RefreshSlot at 0x093C1138>
+RefreshSlot,		<cyfunction SelectItemWindow.RefreshSlot at 0x0A2D5240>
 	arg0: self
 
 submodule.RefreshSlot
 Skipped: unbound method cython_function_or_method object must be called with SelectItemWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction SelectItemWindow.SelectItemSlot at 0x093C1088>
+SelectItemSlot,		<cyfunction SelectItemWindow.SelectItemSlot at 0x0A2D5190>
 	arg0: self
 	arg1: slotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with SelectItemWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction SelectItemWindow.__del__ at 0x093BCEA0>
+__del__,		<cyfunction SelectItemWindow.__del__ at 0x0A2CFFA8>
 	arg0: self
 
 submodule.__del__
@@ -51,28 +51,28 @@ __qualname__,		SelectItemWindow
 submodule.__qualname__
 
 
-OverInItem,		<cyfunction SelectItemWindow.OverInItem at 0x093C11E8>
+OverInItem,		<cyfunction SelectItemWindow.OverInItem at 0x0A2D52F0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with SelectItemWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction SelectItemWindow.OverOutItem at 0x093C1190>
+OverOutItem,		<cyfunction SelectItemWindow.OverOutItem at 0x0A2D5298>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with SelectItemWindow instance as first argument (got nothing instead)
-Close,		<cyfunction SelectItemWindow.Close at 0x093BCFA8>
+Close,		<cyfunction SelectItemWindow.Close at 0x0A2D50E0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SelectItemWindow instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction SelectItemWindow.LoadWindow at 0x093BCEF8>
+LoadWindow,		<cyfunction SelectItemWindow.LoadWindow at 0x0A2D5030>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with SelectItemWindow instance as first argument (got nothing instead)
-Open,		<cyfunction SelectItemWindow.Open at 0x093BCF50>
+Open,		<cyfunction SelectItemWindow.Open at 0x0A2D5088>
 	arg0: self
 
 submodule.Open
@@ -82,7 +82,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction SelectItemWindow.__init__ at 0x093BCE48>
+__init__,		<cyfunction SelectItemWindow.__init__ at 0x0A2CFF50>
 	arg0: self
 
 submodule.__init__

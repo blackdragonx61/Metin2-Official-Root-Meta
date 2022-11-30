@@ -61,7 +61,7 @@ key: item, val: <module 'item' (built-in)>
 key: uiPartyMatch, val: <module 'uiPartyMatch' (built-in)>
 key: uiChangeLook, val: <module 'uiChangeLook' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
-key: IsQBHide, val: 0
+key: IsQBHide, val: 1
 key: __test__, val: {}
 key: uiselectitemEx, val: <module 'uiselectitemEx' (built-in)>
 key: uiCharacter, val: <module 'uiCharacter' (built-in)>
@@ -70,7 +70,7 @@ key: uiGuildBank, val: <module 'uiGuildBank' (built-in)>
 
 
 class Interface:
-ExInvenItemUseMsg,		<cyfunction Interface.ExInvenItemUseMsg at 0x0941AA28>
+ExInvenItemUseMsg,		<cyfunction Interface.ExInvenItemUseMsg at 0x0829BB88>
 	arg0: self
 	arg1: item_vnum
 	arg2: msg
@@ -78,24 +78,24 @@ ExInvenItemUseMsg,		<cyfunction Interface.ExInvenItemUseMsg at 0x0941AA28>
 
 submodule.ExInvenItemUseMsg
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ExitParty,		<cyfunction Interface.ExitParty at 0x09416A80>
+ExitParty,		<cyfunction Interface.ExitParty at 0x0A326BE0>
 	arg0: self
 
 submodule.ExitParty
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnBlockMode,		<cyfunction Interface.OnBlockMode at 0x094163F8>
+OnBlockMode,		<cyfunction Interface.OnBlockMode at 0x0A326558>
 	arg0: self
 	arg1: mode
 
 submodule.OnBlockMode
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleCharacterWindow,		<cyfunction Interface.ToggleCharacterWindow at 0x09418088>
+ToggleCharacterWindow,		<cyfunction Interface.ToggleCharacterWindow at 0x082991E8>
 	arg0: self
 	arg1: state
 
 submodule.ToggleCharacterWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PetSkillUpgradeDlgOpen,		<cyfunction Interface.PetSkillUpgradeDlgOpen at 0x0941A818>
+PetSkillUpgradeDlgOpen,		<cyfunction Interface.PetSkillUpgradeDlgOpen at 0x0829B978>
 	arg0: self
 	arg1: slot
 	arg2: index
@@ -103,48 +103,48 @@ PetSkillUpgradeDlgOpen,		<cyfunction Interface.PetSkillUpgradeDlgOpen at 0x0941A
 
 submodule.PetSkillUpgradeDlgOpen
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildBankInfo,		<cyfunction Interface.RefreshGuildBankInfo at 0x09416D98>
+RefreshGuildBankInfo,		<cyfunction Interface.RefreshGuildBankInfo at 0x0A326EF8>
 	arg0: self
 
 submodule.RefreshGuildBankInfo
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseGemShop,		<cyfunction Interface.CloseGemShop at 0x094173A0>
+CloseGemShop,		<cyfunction Interface.CloseGemShop at 0x08298500>
 	arg0: self
 
 submodule.CloseGemShop
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleHelpWindow,		<cyfunction Interface.ToggleHelpWindow at 0x09418EA0>
+ToggleHelpWindow,		<cyfunction Interface.ToggleHelpWindow at 0x0829A030>
 	arg0: self
 
 submodule.ToggleHelpWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-IsOpenChat,		<cyfunction Interface.IsOpenChat at 0x09417C38>
+IsOpenChat,		<cyfunction Interface.IsOpenChat at 0x08298D98>
 	arg0: self
 
 submodule.IsOpenChat
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-EmptyFunction,		<cyfunction Interface.EmptyFunction at 0x0941A558>
+EmptyFunction,		<cyfunction Interface.EmptyFunction at 0x0829B6B8>
 	arg0: self
 
 submodule.EmptyFunction
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BUILD_OnUpdate,		<cyfunction Interface.BUILD_OnUpdate at 0x0941A348>
+BUILD_OnUpdate,		<cyfunction Interface.BUILD_OnUpdate at 0x0829B4A8>
 	arg0: self
 
 submodule.BUILD_OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildBaseInfoPage,		<cyfunction Interface.RefreshGuildBaseInfoPage at 0x094161E8>
+RefreshGuildBaseInfoPage,		<cyfunction Interface.RefreshGuildBaseInfoPage at 0x0A326348>
 	arg0: self
 
 submodule.RefreshGuildBaseInfoPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BULID_ExitGuildArea,		<cyfunction Interface.BULID_ExitGuildArea at 0x0941A4A8>
+BULID_ExitGuildArea,		<cyfunction Interface.BULID_ExitGuildArea at 0x0829B608>
 	arg0: self
 	arg1: areaID
 
 submodule.BULID_ExitGuildArea
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-IsShowDlgQuestionWindow,		<cyfunction Interface.IsShowDlgQuestionWindow at 0x094182F0>
+IsShowDlgQuestionWindow,		<cyfunction Interface.IsShowDlgQuestionWindow at 0x08299450>
 	arg0: self
 
 submodule.IsShowDlgQuestionWindow
@@ -154,87 +154,87 @@ CHARACTER_STATUS_TAB,		1
 submodule.CHARACTER_STATUS_TAB
 
 
-PetInfoBindAffectShower,		<cyfunction Interface.PetInfoBindAffectShower at 0x0941A8C8>
+PetInfoBindAffectShower,		<cyfunction Interface.PetInfoBindAffectShower at 0x0829BA28>
 	arg0: self
 	arg1: affect_shower
 
 submodule.PetInfoBindAffectShower
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeWindows,		<cyfunction Interface.__MakeWindows at 0x09415450>
+_Interface__MakeWindows,		<cyfunction Interface.__MakeWindows at 0x0A3245B0>
 	arg0: self
 
 submodule._Interface__MakeWindows
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleDragonSoulWindowWithNoInfo,		<cyfunction Interface.ToggleDragonSoulWindowWithNoInfo at 0x094185B0>
+ToggleDragonSoulWindowWithNoInfo,		<cyfunction Interface.ToggleDragonSoulWindowWithNoInfo at 0x08299710>
 	arg0: self
 
 submodule.ToggleDragonSoulWindowWithNoInfo
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenGuildScoreWindow,		<cyfunction Interface.OpenGuildScoreWindow at 0x09416EA0>
+OpenGuildScoreWindow,		<cyfunction Interface.OpenGuildScoreWindow at 0x08298030>
 	arg0: self
 
 submodule.OpenGuildScoreWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshAcceWindow,		<cyfunction Interface.RefreshAcceWindow at 0x09417190>
+RefreshAcceWindow,		<cyfunction Interface.RefreshAcceWindow at 0x082982F0>
 	arg0: self
 
 submodule.RefreshAcceWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowCostumeInventory,		<cyfunction Interface.ShowCostumeInventory at 0x094181E8>
+ShowCostumeInventory,		<cyfunction Interface.ShowCostumeInventory at 0x08299348>
 	arg0: self
 
 submodule.ShowCostumeInventory
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenDragonSoulRefineWindow,		<cyfunction Interface.OpenDragonSoulRefineWindow at 0x094186B8>
+OpenDragonSoulRefineWindow,		<cyfunction Interface.OpenDragonSoulRefineWindow at 0x08299818>
 	arg0: self
 
 submodule.OpenDragonSoulRefineWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowDefaultWindows,		<cyfunction Interface.ShowDefaultWindows at 0x094179D0>
+ShowDefaultWindows,		<cyfunction Interface.ShowDefaultWindows at 0x08298B30>
 	arg0: self
 
 submodule.ShowDefaultWindows
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RecvWhisper,		<cyfunction Interface.RecvWhisper at 0x09419D40>
+RecvWhisper,		<cyfunction Interface.RecvWhisper at 0x0829AEA0>
 	arg0: self
 	arg1: name
 
 submodule.RecvWhisper
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameRumiSetDeckCount,		<cyfunction Interface.MiniGameRumiSetDeckCount at 0x0941AB88>
+MiniGameRumiSetDeckCount,		<cyfunction Interface.MiniGameRumiSetDeckCount at 0x0829BCE8>
 	arg0: self
 	arg1: deck_card_count
 
 submodule.MiniGameRumiSetDeckCount
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__DestroyQuestButton,		<cyfunction Interface.__DestroyQuestButton at 0x09419AD8>
+_Interface__DestroyQuestButton,		<cyfunction Interface.__DestroyQuestButton at 0x0829AC38>
 	arg0: self
 	arg1: btn
 
 submodule._Interface__DestroyQuestButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenGuildDragonLairRanking,		<cyfunction Interface.OpenGuildDragonLairRanking at 0x09416F50>
+OpenGuildDragonLairRanking,		<cyfunction Interface.OpenGuildDragonLairRanking at 0x082980E0>
 	arg0: self
 	arg1: type
 
 submodule.OpenGuildDragonLairRanking
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshQuest,		<cyfunction Interface.RefreshQuest at 0x09415C38>
+RefreshQuest,		<cyfunction Interface.RefreshQuest at 0x0A324D98>
 	arg0: self
 
 submodule.RefreshQuest
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleExpandedButton,		<cyfunction Interface.ToggleExpandedButton at 0x09418240>
+ToggleExpandedButton,		<cyfunction Interface.ToggleExpandedButton at 0x082993A0>
 	arg0: self
 
 submodule.ToggleExpandedButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-EndExchange,		<cyfunction Interface.EndExchange at 0x09416768>
+EndExchange,		<cyfunction Interface.EndExchange at 0x0A3268C8>
 	arg0: self
 
 submodule.EndExchange
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__CheckGameMaster,		<cyfunction Interface.__CheckGameMaster at 0x0941A190>
+_Interface__CheckGameMaster,		<cyfunction Interface.__CheckGameMaster at 0x0829B2F0>
 	arg0: self
 	arg1: name
 
@@ -245,13 +245,13 @@ __qualname__,		Interface
 submodule.__qualname__
 
 
-SetOnTopWindow,		<cyfunction Interface.SetOnTopWindow at 0x0941A660>
+SetOnTopWindow,		<cyfunction Interface.SetOnTopWindow at 0x0829B7C0>
 	arg0: self
 	arg1: onTopWnd
 
 submodule.SetOnTopWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-UpdateCubeInfo,		<cyfunction Interface.UpdateCubeInfo at 0x09419138>
+UpdateCubeInfo,		<cyfunction Interface.UpdateCubeInfo at 0x0829A298>
 	arg0: self
 	arg1: gold
 	arg2: itemVnum
@@ -259,12 +259,12 @@ UpdateCubeInfo,		<cyfunction Interface.UpdateCubeInfo at 0x09419138>
 
 submodule.UpdateCubeInfo
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-HideGuildWarButton,		<cyfunction Interface.HideGuildWarButton at 0x0941AD98>
+HideGuildWarButton,		<cyfunction Interface.HideGuildWarButton at 0x0829BEF8>
 	arg0: self
 
 submodule.HideGuildWarButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshPShopSearchDialog,		<cyfunction Interface.RefreshPShopSearchDialog at 0x094170E0>
+RefreshPShopSearchDialog,		<cyfunction Interface.RefreshPShopSearchDialog at 0x08298240>
 	arg0: self
 
 submodule.RefreshPShopSearchDialog
@@ -274,22 +274,22 @@ __module__,		interfaceModule
 submodule.__module__
 
 
-Attendance,		<cyfunction Interface.Attendance at 0x0941AE48>
+Attendance,		<cyfunction Interface.Attendance at 0x0829BFA8>
 	arg0: self
 
 submodule.Attendance
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PartyHealReady,		<cyfunction Interface.PartyHealReady at 0x09416AD8>
+PartyHealReady,		<cyfunction Interface.PartyHealReady at 0x0A326C38>
 	arg0: self
 
 submodule.PartyHealReady
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshSafeboxMoney,		<cyfunction Interface.RefreshSafeboxMoney at 0x09416C38>
+RefreshSafeboxMoney,		<cyfunction Interface.RefreshSafeboxMoney at 0x0A326D98>
 	arg0: self
 
 submodule.RefreshSafeboxMoney
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-LinkPartyMember,		<cyfunction Interface.LinkPartyMember at 0x09416978>
+LinkPartyMember,		<cyfunction Interface.LinkPartyMember at 0x0A326AD8>
 	arg0: self
 	arg1: pid
 	arg2: vid
@@ -298,38 +298,38 @@ LinkPartyMember,		<cyfunction Interface.LinkPartyMember at 0x09416978>
 
 submodule.LinkPartyMember
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetBattleFieldLeftTime,		<cyfunction Interface.SetBattleFieldLeftTime at 0x0941B1E8>
+SetBattleFieldLeftTime,		<cyfunction Interface.SetBattleFieldLeftTime at 0x0829C348>
 	arg0: self
 	arg1: leftOpen
 	arg2: leftEnd
 
 submodule.SetBattleFieldLeftTime
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeItemSelectWindow,		<cyfunction Interface.__MakeItemSelectWindow at 0x094156B8>
+_Interface__MakeItemSelectWindow,		<cyfunction Interface.__MakeItemSelectWindow at 0x0A324818>
 	arg0: self
 
 submodule._Interface__MakeItemSelectWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RecvQuest,		<cyfunction Interface.RecvQuest at 0x09419920>
+RecvQuest,		<cyfunction Interface.RecvQuest at 0x0829AA80>
 	arg0: self
 	arg1: index
 	arg2: name
 
 submodule.RecvQuest
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameOkey,		<cyfunction Interface.MiniGameOkey at 0x0941AA80>
+MiniGameOkey,		<cyfunction Interface.MiniGameOkey at 0x0829BBE0>
 	arg0: self
 
 submodule.MiniGameOkey
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MonsterCardIllustrationFail,		<cyfunction Interface.MonsterCardIllustrationFail at 0x0941B0E0>
+MonsterCardIllustrationFail,		<cyfunction Interface.MonsterCardIllustrationFail at 0x0829C240>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.MonsterCardIllustrationFail
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenPrivateShopBuilder,		<cyfunction Interface.OpenPrivateShopBuilder at 0x09419608>
+OpenPrivateShopBuilder,		<cyfunction Interface.OpenPrivateShopBuilder at 0x0829A768>
 	arg0: self
 	arg1: bCashItem
 	arg2: tabCnt
@@ -341,124 +341,124 @@ __weakref__,		<attribute '__weakref__' of 'Interface' objects>
 submodule.__weakref__
 
 
-RefreshAlignment,		<cyfunction Interface.RefreshAlignment at 0x09415A28>
+RefreshAlignment,		<cyfunction Interface.RefreshAlignment at 0x0A324B88>
 	arg0: self
 
 submodule.RefreshAlignment
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetGuildWarType,		<cyfunction Interface.SetGuildWarType at 0x09416E48>
+SetGuildWarType,		<cyfunction Interface.SetGuildWarType at 0x0A326FA8>
 	arg0: self
 	arg1: index
 
 submodule.SetGuildWarType
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__ShowWindows,		<cyfunction Interface.__ShowWindows at 0x094192F0>
+_Interface__ShowWindows,		<cyfunction Interface.__ShowWindows at 0x0829A450>
 	arg0: self
 	arg1: wnds
 
 submodule._Interface__ShowWindows
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleSystemDialog,		<cyfunction Interface.ToggleSystemDialog at 0x09417D98>
+ToggleSystemDialog,		<cyfunction Interface.ToggleSystemDialog at 0x08298EF8>
 	arg0: self
 
 submodule.ToggleSystemDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-TogglePartyMatchWindow,		<cyfunction Interface.TogglePartyMatchWindow at 0x09418B88>
+TogglePartyMatchWindow,		<cyfunction Interface.TogglePartyMatchWindow at 0x08299CE8>
 	arg0: self
 
 submodule.TogglePartyMatchWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-DeleteGuild,		<cyfunction Interface.DeleteGuild at 0x094162F0>
+DeleteGuild,		<cyfunction Interface.DeleteGuild at 0x0A326450>
 	arg0: self
 
 submodule.DeleteGuild
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeCubeResultWindow,		<cyfunction Interface.__MakeCubeResultWindow at 0x09415660>
+_Interface__MakeCubeResultWindow,		<cyfunction Interface.__MakeCubeResultWindow at 0x0A3247C0>
 	arg0: self
 
 submodule._Interface__MakeCubeResultWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameFishAdd,		<cyfunction Interface.MiniGameFishAdd at 0x0941B3A0>
+MiniGameFishAdd,		<cyfunction Interface.MiniGameFishAdd at 0x0829C500>
 	arg0: self
 	arg1: pos
 	arg2: shape
 
 submodule.MiniGameFishAdd
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetAffectShower,		<cyfunction Interface.SetAffectShower at 0x09417920>
+SetAffectShower,		<cyfunction Interface.SetAffectShower at 0x08298A80>
 	arg0: self
 	arg1: shower
 
 submodule.SetAffectShower
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CommandCloseMall,		<cyfunction Interface.CommandCloseMall at 0x09417660>
+CommandCloseMall,		<cyfunction Interface.CommandCloseMall at 0x082987C0>
 	arg0: self
 
 submodule.CommandCloseMall
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ChangePartyParameter,		<cyfunction Interface.ChangePartyParameter at 0x09416B30>
+ChangePartyParameter,		<cyfunction Interface.ChangePartyParameter at 0x0A326C90>
 	arg0: self
 	arg1: distributionMode
 
 submodule.ChangePartyParameter
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-GemShopSlotBuy,		<cyfunction Interface.GemShopSlotBuy at 0x09417450>
+GemShopSlotBuy,		<cyfunction Interface.GemShopSlotBuy at 0x082985B0>
 	arg0: self
 	arg1: slotindex
 	arg2: enable
 
 submodule.GemShopSlotBuy
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseCubeWindow,		<cyfunction Interface.CloseCubeWindow at 0x09419190>
+CloseCubeWindow,		<cyfunction Interface.CloseCubeWindow at 0x0829A2F0>
 	arg0: self
 
 submodule.CloseCubeWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenSelectAttrDialog,		<cyfunction Interface.OpenSelectAttrDialog at 0x09417558>
+OpenSelectAttrDialog,		<cyfunction Interface.OpenSelectAttrDialog at 0x082986B8>
 	arg0: self
 	arg1: window_type
 	arg2: slotIdx
 
 submodule.OpenSelectAttrDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenRestartDialog,		<cyfunction Interface.OpenRestartDialog at 0x09417CE8>
+OpenRestartDialog,		<cyfunction Interface.OpenRestartDialog at 0x08298E48>
 	arg0: self
 	arg1: mapidx
 
 submodule.OpenRestartDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-IsHideUiMode,		<cyfunction Interface.IsHideUiMode at 0x09417A28>
+IsHideUiMode,		<cyfunction Interface.IsHideUiMode at 0x08298B88>
 	arg0: self
 
 submodule.IsHideUiMode
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowWhisperDialog,		<cyfunction Interface.ShowWhisperDialog at 0x09419DF0>
+ShowWhisperDialog,		<cyfunction Interface.ShowWhisperDialog at 0x0829AF50>
 	arg0: self
 	arg1: btn
 
 submodule.ShowWhisperDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshAutoPositionSlot,		<cyfunction Interface.RefreshAutoPositionSlot at 0x094189D0>
+RefreshAutoPositionSlot,		<cyfunction Interface.RefreshAutoPositionSlot at 0x08299B30>
 	arg0: self
 
 submodule.RefreshAutoPositionSlot
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildInfoPage,		<cyfunction Interface.RefreshGuildInfoPage at 0x09415FA8>
+RefreshGuildInfoPage,		<cyfunction Interface.RefreshGuildInfoPage at 0x0A326138>
 	arg0: self
 
 submodule.RefreshGuildInfoPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenPointResetDialog,		<cyfunction Interface.OpenPointResetDialog at 0x09416450>
+OpenPointResetDialog,		<cyfunction Interface.OpenPointResetDialog at 0x0A3265B0>
 	arg0: self
 
 submodule.OpenPointResetDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeParty,		<cyfunction Interface.__MakeParty at 0x09415348>
+_Interface__MakeParty,		<cyfunction Interface.__MakeParty at 0x0A3244A8>
 	arg0: self
 
 submodule._Interface__MakeParty
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PetHatchingWindowCommand,		<cyfunction Interface.PetHatchingWindowCommand at 0x0941A768>
+PetHatchingWindowCommand,		<cyfunction Interface.PetHatchingWindowCommand at 0x0829B8C8>
 	arg0: self
 	arg1: command
 	arg2: window
@@ -466,7 +466,7 @@ PetHatchingWindowCommand,		<cyfunction Interface.PetHatchingWindowCommand at 0x0
 
 submodule.PetHatchingWindowCommand
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-UpdateMemberCount,		<cyfunction Interface.UpdateMemberCount at 0x09417768>
+UpdateMemberCount,		<cyfunction Interface.UpdateMemberCount at 0x082988C8>
 	arg0: self
 	arg1: gulidID1
 	arg2: memberCount1
@@ -475,132 +475,132 @@ UpdateMemberCount,		<cyfunction Interface.UpdateMemberCount at 0x09417768>
 
 submodule.UpdateMemberCount
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-GemShopSlotAdd,		<cyfunction Interface.GemShopSlotAdd at 0x094174A8>
+GemShopSlotAdd,		<cyfunction Interface.GemShopSlotAdd at 0x08298608>
 	arg0: self
 	arg1: slotindex
 	arg2: enable
 
 submodule.GemShopSlotAdd
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenPShopSearchDialog,		<cyfunction Interface.OpenPShopSearchDialog at 0x09417030>
+OpenPShopSearchDialog,		<cyfunction Interface.OpenPShopSearchDialog at 0x08298190>
 	arg0: self
 
 submodule.OpenPShopSearchDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnUseSkill,		<cyfunction Interface.OnUseSkill at 0x09415870>
+OnUseSkill,		<cyfunction Interface.OnUseSkill at 0x0A3249D0>
 	arg0: self
 	arg1: slotIndex
 	arg2: coolTime
 
 submodule.OnUseSkill
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshStamina,		<cyfunction Interface.RefreshStamina at 0x09415AD8>
+RefreshStamina,		<cyfunction Interface.RefreshStamina at 0x0A324C38>
 	arg0: self
 
 submodule.RefreshStamina
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenWhisperDialog,		<cyfunction Interface.OpenWhisperDialog at 0x09419CE8>
+OpenWhisperDialog,		<cyfunction Interface.OpenWhisperDialog at 0x0829AE48>
 	arg0: self
 	arg1: name
 
 submodule.OpenWhisperDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenGuildBankWindow,		<cyfunction Interface.OpenGuildBankWindow at 0x09416CE8>
+OpenGuildBankWindow,		<cyfunction Interface.OpenGuildBankWindow at 0x0A326E48>
 	arg0: self
 	arg1: size
 
 submodule.OpenGuildBankWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-IsGameMasterName,		<cyfunction Interface.IsGameMasterName at 0x0941A240>
+IsGameMasterName,		<cyfunction Interface.IsGameMasterName at 0x0829B3A0>
 	arg0: self
 	arg1: name
 
 submodule.IsGameMasterName
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-HideAllQuestButton,		<cyfunction Interface.HideAllQuestButton at 0x09419B30>
+HideAllQuestButton,		<cyfunction Interface.HideAllQuestButton at 0x0829AC90>
 	arg0: self
 
 submodule.HideAllQuestButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-IntegrationEventBanner,		<cyfunction Interface.IntegrationEventBanner at 0x0941ADF0>
+IntegrationEventBanner,		<cyfunction Interface.IntegrationEventBanner at 0x0829BF50>
 	arg0: self
 
 submodule.IntegrationEventBanner
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenGuildGoldInOutWindow,		<cyfunction Interface.OpenGuildGoldInOutWindow at 0x09416EF8>
+OpenGuildGoldInOutWindow,		<cyfunction Interface.OpenGuildGoldInOutWindow at 0x08298088>
 	arg0: self
 	arg1: inout
 
 submodule.OpenGuildGoldInOutWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnChangePKMode,		<cyfunction Interface.OnChangePKMode at 0x09417818>
+OnChangePKMode,		<cyfunction Interface.OnChangePKMode at 0x08298978>
 	arg0: self
 
 submodule.OnChangePKMode
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeDialogs,		<cyfunction Interface.__MakeDialogs at 0x094154A8>
+_Interface__MakeDialogs,		<cyfunction Interface.__MakeDialogs at 0x0A324608>
 	arg0: self
 
 submodule._Interface__MakeDialogs
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshSkill,		<cyfunction Interface.RefreshSkill at 0x09415B30>
+RefreshSkill,		<cyfunction Interface.RefreshSkill at 0x0A324C90>
 	arg0: self
 
 submodule.RefreshSkill
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetOkeyNormalBG,		<cyfunction Interface.SetOkeyNormalBG at 0x0941AF50>
+SetOkeyNormalBG,		<cyfunction Interface.SetOkeyNormalBG at 0x0829C0E0>
 	arg0: self
 
 submodule.SetOkeyNormalBG
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ItemCombinationDialogOpen,		<cyfunction Interface.ItemCombinationDialogOpen at 0x094172F0>
+ItemCombinationDialogOpen,		<cyfunction Interface.ItemCombinationDialogOpen at 0x08298450>
 	arg0: self
 
 submodule.ItemCombinationDialogOpen
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseDlgQuestionWindow,		<cyfunction Interface.CloseDlgQuestionWindow at 0x09418348>
+CloseDlgQuestionWindow,		<cyfunction Interface.CloseDlgQuestionWindow at 0x082994A8>
 	arg0: self
 
 submodule.CloseDlgQuestionWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__ArrangeQuestButton,		<cyfunction Interface.__ArrangeQuestButton at 0x094199D0>
+_Interface__ArrangeQuestButton,		<cyfunction Interface.__ArrangeQuestButton at 0x0829AB30>
 	arg0: self
 
 submodule._Interface__ArrangeQuestButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleChatLogWindow,		<cyfunction Interface.ToggleChatLogWindow at 0x09418C38>
+ToggleChatLogWindow,		<cyfunction Interface.ToggleChatLogWindow at 0x08299D98>
 	arg0: self
 
 submodule.ToggleChatLogWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetAutoCooltime,		<cyfunction Interface.SetAutoCooltime at 0x09418870>
+SetAutoCooltime,		<cyfunction Interface.SetAutoCooltime at 0x082999D0>
 	arg0: self
 	arg1: slotindex
 	arg2: cooltime
 
 submodule.SetAutoCooltime
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ReciveMission,		<cyfunction Interface.ReciveMission at 0x0941B030>
+ReciveMission,		<cyfunction Interface.ReciveMission at 0x0829C190>
 	arg0: self
 
 submodule.ReciveMission
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleGuildWindow,		<cyfunction Interface.ToggleGuildWindow at 0x09418BE0>
+ToggleGuildWindow,		<cyfunction Interface.ToggleGuildWindow at 0x08299D40>
 	arg0: self
 
 submodule.ToggleGuildWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetChatFocus,		<cyfunction Interface.SetChatFocus at 0x09417C90>
+SetChatFocus,		<cyfunction Interface.SetChatFocus at 0x08298DF0>
 	arg0: self
 
 submodule.SetChatFocus
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenSystemDialog,		<cyfunction Interface.OpenSystemDialog at 0x09417DF0>
+OpenSystemDialog,		<cyfunction Interface.OpenSystemDialog at 0x08298F50>
 	arg0: self
 
 submodule.OpenSystemDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BINARY_OpenSelectItemWindow,		<cyfunction Interface.BINARY_OpenSelectItemWindow at 0x094193F8>
+BINARY_OpenSelectItemWindow,		<cyfunction Interface.BINARY_OpenSelectItemWindow at 0x0829A558>
 	arg0: self
 
 submodule.BINARY_OpenSelectItemWindow
@@ -610,20 +610,20 @@ __doc__,		None
 submodule.__doc__
 
 
-OnEndGuildWar,		<cyfunction Interface.OnEndGuildWar at 0x09417710>
+OnEndGuildWar,		<cyfunction Interface.OnEndGuildWar at 0x08298870>
 	arg0: self
 	arg1: guildSelf
 	arg2: guildOpp
 
 submodule.OnEndGuildWar
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildRankingList,		<cyfunction Interface.RefreshGuildRankingList at 0x0941AC90>
+RefreshGuildRankingList,		<cyfunction Interface.RefreshGuildRankingList at 0x0829BDF0>
 	arg0: self
 	arg1: issearch
 
 submodule.RefreshGuildRankingList
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__OnClickQuestButton,		<cyfunction Interface.__OnClickQuestButton at 0x09418D98>
+_Interface__OnClickQuestButton,		<cyfunction Interface.__OnClickQuestButton at 0x08299EF8>
 	arg0: self
 
 submodule._Interface__OnClickQuestButton
@@ -633,27 +633,27 @@ __dict__,		<attribute '__dict__' of 'Interface' objects>
 submodule.__dict__
 
 
-RefreshStatus,		<cyfunction Interface.RefreshStatus at 0x09415A80>
+RefreshStatus,		<cyfunction Interface.RefreshStatus at 0x0A324BE0>
 	arg0: self
 
 submodule.RefreshStatus
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleExpandedMoneyButton,		<cyfunction Interface.ToggleExpandedMoneyButton at 0x09418298>
+ToggleExpandedMoneyButton,		<cyfunction Interface.ToggleExpandedMoneyButton at 0x082993F8>
 	arg0: self
 
 submodule.ToggleExpandedMoneyButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshAutoSkillSlot,		<cyfunction Interface.RefreshAutoSkillSlot at 0x09418978>
+RefreshAutoSkillSlot,		<cyfunction Interface.RefreshAutoSkillSlot at 0x08299AD8>
 	arg0: self
 
 submodule.RefreshAutoSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__ArrangeWhisperButton,		<cyfunction Interface.__ArrangeWhisperButton at 0x09419EF8>
+_Interface__ArrangeWhisperButton,		<cyfunction Interface.__ArrangeWhisperButton at 0x0829B088>
 	arg0: self
 
 submodule._Interface__ArrangeWhisperButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetEquipmentDialogItem,		<cyfunction Interface.SetEquipmentDialogItem at 0x09419768>
+SetEquipmentDialogItem,		<cyfunction Interface.SetEquipmentDialogItem at 0x0829A8C8>
 	arg0: self
 	arg1: vid
 	arg2: slotIndex
@@ -663,7 +663,7 @@ SetEquipmentDialogItem,		<cyfunction Interface.SetEquipmentDialogItem at 0x09419
 
 submodule.SetEquipmentDialogItem
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AppearPrivateShop,		<cyfunction Interface.AppearPrivateShop at 0x09419660>
+AppearPrivateShop,		<cyfunction Interface.AppearPrivateShop at 0x0829A7C0>
 	arg0: self
 	arg1: vid
 	arg2: text
@@ -671,269 +671,269 @@ AppearPrivateShop,		<cyfunction Interface.AppearPrivateShop at 0x09419660>
 
 submodule.AppearPrivateShop
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PressMKey,		<cyfunction Interface.PressMKey at 0x09417EF8>
+PressMKey,		<cyfunction Interface.PressMKey at 0x08299088>
 	arg0: self
 
 submodule.PressMKey
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenItemMall,		<cyfunction Interface.OpenItemMall at 0x09415EF8>
+OpenItemMall,		<cyfunction Interface.OpenItemMall at 0x0A326088>
 	arg0: self
 
 submodule.OpenItemMall
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RegisterGameMasterName,		<cyfunction Interface.RegisterGameMasterName at 0x0941A1E8>
+RegisterGameMasterName,		<cyfunction Interface.RegisterGameMasterName at 0x0829B348>
 	arg0: self
 	arg1: name
 
 submodule.RegisterGameMasterName
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BINARY_OpenSelectItemWindowEx,		<cyfunction Interface.BINARY_OpenSelectItemWindowEx at 0x09419450>
+BINARY_OpenSelectItemWindowEx,		<cyfunction Interface.BINARY_OpenSelectItemWindowEx at 0x0829A5B0>
 	arg0: self
 
 submodule.BINARY_OpenSelectItemWindowEx
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleAutoWindow,		<cyfunction Interface.ToggleAutoWindow at 0x09418818>
+ToggleAutoWindow,		<cyfunction Interface.ToggleAutoWindow at 0x08299978>
 	arg0: self
 
 submodule.ToggleAutoWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__FindWhisperButton,		<cyfunction Interface.__FindWhisperButton at 0x09419F50>
+_Interface__FindWhisperButton,		<cyfunction Interface.__FindWhisperButton at 0x0829B0E0>
 	arg0: self
 	arg1: name
 
 submodule._Interface__FindWhisperButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PetEvolInfo,		<cyfunction Interface.PetEvolInfo at 0x0941A978>
+PetEvolInfo,		<cyfunction Interface.PetEvolInfo at 0x0829BAD8>
 	arg0: self
 	arg1: index
 	arg2: value
 
 submodule.PetEvolInfo
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ResetUsedBP,		<cyfunction Interface.ResetUsedBP at 0x0941B2F0>
+ResetUsedBP,		<cyfunction Interface.ResetUsedBP at 0x0829C450>
 	arg0: self
 
 submodule.ResetUsedBP
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ChangeWindowOpen,		<cyfunction Interface.ChangeWindowOpen at 0x09417298>
+ChangeWindowOpen,		<cyfunction Interface.ChangeWindowOpen at 0x082983F8>
 	arg0: self
 
 submodule.ChangeWindowOpen
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-GetOnTopWindow,		<cyfunction Interface.GetOnTopWindow at 0x0941A6B8>
+GetOnTopWindow,		<cyfunction Interface.GetOnTopWindow at 0x0829B818>
 	arg0: self
 
 submodule.GetOnTopWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseHelpWindow,		<cyfunction Interface.CloseHelpWindow at 0x09418F50>
+CloseHelpWindow,		<cyfunction Interface.CloseHelpWindow at 0x0829A0E0>
 	arg0: self
 
 submodule.CloseHelpWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SettargetBoard,		<cyfunction Interface.SettargetBoard at 0x09417978>
+SettargetBoard,		<cyfunction Interface.SettargetBoard at 0x08298AD8>
 	arg0: self
 	arg1: targetBoard
 
 submodule.SettargetBoard
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__DestroyWhisperButton,		<cyfunction Interface.__DestroyWhisperButton at 0x0941A088>
+_Interface__DestroyWhisperButton,		<cyfunction Interface.__DestroyWhisperButton at 0x0829B1E8>
 	arg0: self
 	arg1: button
 
 submodule._Interface__DestroyWhisperButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeItemSelectWindowEx,		<cyfunction Interface.__MakeItemSelectWindowEx at 0x09415710>
+_Interface__MakeItemSelectWindowEx,		<cyfunction Interface.__MakeItemSelectWindowEx at 0x0A324870>
 	arg0: self
 
 submodule._Interface__MakeItemSelectWindowEx
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildGradePage,		<cyfunction Interface.RefreshGuildGradePage at 0x09416190>
+RefreshGuildGradePage,		<cyfunction Interface.RefreshGuildGradePage at 0x0A3262F0>
 	arg0: self
 
 submodule.RefreshGuildGradePage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-__init__,		<cyfunction Interface.__init__ at 0x094150E0>
+__init__,		<cyfunction Interface.__init__ at 0x0A324240>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PetFlashEvent,		<cyfunction Interface.PetFlashEvent at 0x0941A870>
+PetFlashEvent,		<cyfunction Interface.PetFlashEvent at 0x0829B9D0>
 	arg0: self
 	arg1: index
 
 submodule.PetFlashEvent
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AutoOff,		<cyfunction Interface.AutoOff at 0x09418A28>
+AutoOff,		<cyfunction Interface.AutoOff at 0x08299B88>
 	arg0: self
 
 submodule.AutoOff
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MarkUnusableInvenSlotOnTopWnd,		<cyfunction Interface.MarkUnusableInvenSlotOnTopWnd at 0x0941A608>
+MarkUnusableInvenSlotOnTopWnd,		<cyfunction Interface.MarkUnusableInvenSlotOnTopWnd at 0x0829B768>
 	arg0: self
 	arg1: onTopWnd
 	arg2: InvenSlot
 
 submodule.MarkUnusableInvenSlotOnTopWnd
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameFishCount,		<cyfunction Interface.MiniGameFishCount at 0x0941B450>
+MiniGameFishCount,		<cyfunction Interface.MiniGameFishCount at 0x0829C5B0>
 	arg0: self
 	arg1: count
 
 submodule.MiniGameFishCount
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PartyMatchResult,		<cyfunction Interface.PartyMatchResult at 0x0941B500>
+PartyMatchResult,		<cyfunction Interface.PartyMatchResult at 0x0829C660>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.PartyMatchResult
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeGameButtonWindow,		<cyfunction Interface.__MakeGameButtonWindow at 0x094153A0>
+_Interface__MakeGameButtonWindow,		<cyfunction Interface.__MakeGameButtonWindow at 0x0A324500>
 	arg0: self
 
 submodule._Interface__MakeGameButtonWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SucceedCubeWork,		<cyfunction Interface.SucceedCubeWork at 0x09419240>
+SucceedCubeWork,		<cyfunction Interface.SucceedCubeWork at 0x0829A3A0>
 	arg0: self
 	arg1: itemVnum
 	arg2: count
 
 submodule.SucceedCubeWork
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RumiMoveCard,		<cyfunction Interface.RumiMoveCard at 0x0941AB30>
+RumiMoveCard,		<cyfunction Interface.RumiMoveCard at 0x0829BC90>
 	arg0: self
 	arg1: srcCard
 	arg2: dstCard
 
 submodule.RumiMoveCard
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ClosePrivateShopInputNameDialog,		<cyfunction Interface.ClosePrivateShopInputNameDialog at 0x094195B0>
+ClosePrivateShopInputNameDialog,		<cyfunction Interface.ClosePrivateShopInputNameDialog at 0x0829A710>
 	arg0: self
 
 submodule.ClosePrivateShopInputNameDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleMessenger,		<cyfunction Interface.ToggleMessenger at 0x09417E48>
+ToggleMessenger,		<cyfunction Interface.ToggleMessenger at 0x08298FA8>
 	arg0: self
 
 submodule.ToggleMessenger
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenUserSituationShow,		<cyfunction Interface.OpenUserSituationShow at 0x0941B608>
+OpenUserSituationShow,		<cyfunction Interface.OpenUserSituationShow at 0x0829C768>
 	arg0: self
 	arg1: data
 
 submodule.OpenUserSituationShow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleDragonSoulWindow,		<cyfunction Interface.ToggleDragonSoulWindow at 0x09418558>
+ToggleDragonSoulWindow,		<cyfunction Interface.ToggleDragonSoulWindow at 0x082996B8>
 	arg0: self
 
 submodule.ToggleDragonSoulWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleMonsterCardWindow,		<cyfunction Interface.ToggleMonsterCardWindow at 0x09418B30>
+ToggleMonsterCardWindow,		<cyfunction Interface.ToggleMonsterCardWindow at 0x08299C90>
 	arg0: self
 
 submodule.ToggleMonsterCardWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseDragonSoulRefineWindow,		<cyfunction Interface.CloseDragonSoulRefineWindow at 0x09418710>
+CloseDragonSoulRefineWindow,		<cyfunction Interface.CloseDragonSoulRefineWindow at 0x08299870>
 	arg0: self
 
 submodule.CloseDragonSoulRefineWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshMarkInventoryBag,		<cyfunction Interface.RefreshMarkInventoryBag at 0x0941A710>
+RefreshMarkInventoryBag,		<cyfunction Interface.RefreshMarkInventoryBag at 0x0829B870>
 	arg0: self
 
 submodule.RefreshMarkInventoryBag
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-DragonSoulGiveQuilification,		<cyfunction Interface.DragonSoulGiveQuilification at 0x09418500>
+DragonSoulGiveQuilification,		<cyfunction Interface.DragonSoulGiveQuilification at 0x08299660>
 	arg0: self
 
 submodule.DragonSoulGiveQuilification
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseWbWindow,		<cyfunction Interface.CloseWbWindow at 0x09419088>
+CloseWbWindow,		<cyfunction Interface.CloseWbWindow at 0x0829A1E8>
 	arg0: self
 
 submodule.CloseWbWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RemoveQuestDialog,		<cyfunction Interface.RemoveQuestDialog at 0x094166B8>
+RemoveQuestDialog,		<cyfunction Interface.RemoveQuestDialog at 0x0A326818>
 	arg0: self
 	arg1: key
 
 submodule.RemoveQuestDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PetAffectShowerRefresh,		<cyfunction Interface.PetAffectShowerRefresh at 0x0941A920>
+PetAffectShowerRefresh,		<cyfunction Interface.PetAffectShowerRefresh at 0x0829BA80>
 	arg0: self
 
 submodule.PetAffectShowerRefresh
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AttachInvenItemToOtherWindowSlot,		<cyfunction Interface.AttachInvenItemToOtherWindowSlot at 0x0941A5B0>
+AttachInvenItemToOtherWindowSlot,		<cyfunction Interface.AttachInvenItemToOtherWindowSlot at 0x0829B710>
 	arg0: self
 	arg1: slotIndex
 	arg2: slotWindow
 
 submodule.AttachInvenItemToOtherWindowSlot
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MakeWhisperButton,		<cyfunction Interface.MakeWhisperButton at 0x09419D98>
+MakeWhisperButton,		<cyfunction Interface.MakeWhisperButton at 0x0829AEF8>
 	arg0: self
 	arg1: name
 
 submodule.MakeWhisperButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RemovePartyMember,		<cyfunction Interface.RemovePartyMember at 0x09416920>
+RemovePartyMember,		<cyfunction Interface.RemovePartyMember at 0x0A326A80>
 	arg0: self
 	arg1: pid
 
 submodule.RemovePartyMember
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleChat,		<cyfunction Interface.ToggleChat at 0x09417BE0>
+ToggleChat,		<cyfunction Interface.ToggleChat at 0x08298D40>
 	arg0: self
 
 submodule.ToggleChat
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__HideWindows,		<cyfunction Interface.__HideWindows at 0x09419298>
+_Interface__HideWindows,		<cyfunction Interface.__HideWindows at 0x0829A3F8>
 	arg0: self
 
 submodule._Interface__HideWindows
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniMapScaleDown,		<cyfunction Interface.MiniMapScaleDown at 0x09418030>
+MiniMapScaleDown,		<cyfunction Interface.MiniMapScaleDown at 0x08299190>
 	arg0: self
 
 submodule.MiniMapScaleDown
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshMobile,		<cyfunction Interface.RefreshMobile at 0x09416348>
+RefreshMobile,		<cyfunction Interface.RefreshMobile at 0x0A3264A8>
 	arg0: self
 
 submodule.RefreshMobile
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenCharacterWindowQuestPage,		<cyfunction Interface.OpenCharacterWindowQuestPage at 0x09416608>
+OpenCharacterWindowQuestPage,		<cyfunction Interface.OpenCharacterWindowQuestPage at 0x0A326768>
 	arg0: self
 
 submodule.OpenCharacterWindowQuestPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__FindQuestButton,		<cyfunction Interface.__FindQuestButton at 0x09419A80>
+_Interface__FindQuestButton,		<cyfunction Interface.__FindQuestButton at 0x0829ABE0>
 	arg0: self
 	arg1: index
 
 submodule._Interface__FindQuestButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeWhisperDialog,		<cyfunction Interface.__MakeWhisperDialog at 0x09419FA8>
+_Interface__MakeWhisperDialog,		<cyfunction Interface.__MakeWhisperDialog at 0x0829B138>
 	arg0: self
 	arg1: name
 
 submodule._Interface__MakeWhisperDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MonsterCardMissionFail,		<cyfunction Interface.MonsterCardMissionFail at 0x0941B088>
+MonsterCardMissionFail,		<cyfunction Interface.MonsterCardMissionFail at 0x0829C1E8>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.MonsterCardMissionFail
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnChangeCurrentSkill,		<cyfunction Interface.OnChangeCurrentSkill at 0x09415978>
+OnChangeCurrentSkill,		<cyfunction Interface.OnChangeCurrentSkill at 0x0A324AD8>
 	arg0: self
 	arg1: skillSlotNumber
 
 submodule.OnChangeCurrentSkill
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnRecvGuildWarPoint,		<cyfunction Interface.OnRecvGuildWarPoint at 0x094177C0>
+OnRecvGuildWarPoint,		<cyfunction Interface.OnRecvGuildWarPoint at 0x08298920>
 	arg0: self
 	arg1: gainGuildID
 	arg2: opponentGuildID
@@ -942,211 +942,211 @@ OnRecvGuildWarPoint,		<cyfunction Interface.OnRecvGuildWarPoint at 0x094177C0>
 
 submodule.OnRecvGuildWarPoint
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BUILD_OpenWindow,		<cyfunction Interface.BUILD_OpenWindow at 0x0941A298>
+BUILD_OpenWindow,		<cyfunction Interface.BUILD_OpenWindow at 0x0829B3F8>
 	arg0: self
 
 submodule.BUILD_OpenWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MakeInterface,		<cyfunction Interface.MakeInterface at 0x09415768>
+MakeInterface,		<cyfunction Interface.MakeInterface at 0x0A3248C8>
 	arg0: self
 
 submodule.MakeInterface
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseEquipmentDialog,		<cyfunction Interface.CloseEquipmentDialog at 0x09419870>
+CloseEquipmentDialog,		<cyfunction Interface.CloseEquipmentDialog at 0x0829A9D0>
 	arg0: self
 	arg1: vid
 
 submodule.CloseEquipmentDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BUILD_CloseWindow,		<cyfunction Interface.BUILD_CloseWindow at 0x0941A2F0>
+BUILD_CloseWindow,		<cyfunction Interface.BUILD_CloseWindow at 0x0829B450>
 	arg0: self
 
 submodule.BUILD_CloseWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildBaseInfoPageBankGold,		<cyfunction Interface.RefreshGuildBaseInfoPageBankGold at 0x09416240>
+RefreshGuildBaseInfoPageBankGold,		<cyfunction Interface.RefreshGuildBaseInfoPageBankGold at 0x0A3263A0>
 	arg0: self
 
 submodule.RefreshGuildBaseInfoPageBankGold
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildDragonLairRanking,		<cyfunction Interface.RefreshGuildDragonLairRanking at 0x09415D40>
+RefreshGuildDragonLairRanking,		<cyfunction Interface.RefreshGuildDragonLairRanking at 0x0A324EA0>
 	arg0: self
 	arg1: type
 
 submodule.RefreshGuildDragonLairRanking
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseGuildRankWindow,		<cyfunction Interface.CloseGuildRankWindow at 0x0941ACE8>
+CloseGuildRankWindow,		<cyfunction Interface.CloseGuildRankWindow at 0x0829BE48>
 	arg0: self
 
 submodule.CloseGuildRankWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-UpdatePartyMemberInfo,		<cyfunction Interface.UpdatePartyMemberInfo at 0x094168C8>
+UpdatePartyMemberInfo,		<cyfunction Interface.UpdatePartyMemberInfo at 0x0A326A28>
 	arg0: self
 	arg1: pid
 
 submodule.UpdatePartyMemberInfo
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeHelpWindow,		<cyfunction Interface.__MakeHelpWindow at 0x09415500>
+_Interface__MakeHelpWindow,		<cyfunction Interface.__MakeHelpWindow at 0x0A324660>
 	arg0: self
 
 submodule._Interface__MakeHelpWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameFishReward,		<cyfunction Interface.MiniGameFishReward at 0x0941B3F8>
+MiniGameFishReward,		<cyfunction Interface.MiniGameFishReward at 0x0829C558>
 	arg0: self
 	arg1: vnum
 
 submodule.MiniGameFishReward
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-Highligt_Item,		<cyfunction Interface.Highligt_Item at 0x094184A8>
+Highligt_Item,		<cyfunction Interface.Highligt_Item at 0x08299608>
 	arg0: self
 	arg1: inven_type
 	arg2: inven_pos
 
 submodule.Highligt_Item
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameStart,		<cyfunction Interface.MiniGameStart at 0x0941AAD8>
+MiniGameStart,		<cyfunction Interface.MiniGameStart at 0x0829BC38>
 	arg0: self
 
 submodule.MiniGameStart
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MinimizeWhisperDialog,		<cyfunction Interface.MinimizeWhisperDialog at 0x09419E48>
+MinimizeWhisperDialog,		<cyfunction Interface.MinimizeWhisperDialog at 0x0829AFA8>
 	arg0: self
 	arg1: name
 
 submodule.MinimizeWhisperDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeGuildWindow,		<cyfunction Interface.__MakeGuildWindow at 0x09415240>
+_Interface__MakeGuildWindow,		<cyfunction Interface.__MakeGuildWindow at 0x0A3243A0>
 	arg0: self
 
 submodule._Interface__MakeGuildWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleMiniMap,		<cyfunction Interface.ToggleMiniMap at 0x09417EA0>
+ToggleMiniMap,		<cyfunction Interface.ToggleMiniMap at 0x08299030>
 	arg0: self
 
 submodule.ToggleMiniMap
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetGuildDragonLairFistGuildText,		<cyfunction Interface.SetGuildDragonLairFistGuildText at 0x09415D98>
+SetGuildDragonLairFistGuildText,		<cyfunction Interface.SetGuildDragonLairFistGuildText at 0x0A324EF8>
 	arg0: self
 	arg1: second
 
 submodule.SetGuildDragonLairFistGuildText
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RegisterTemporaryWhisperDialog,		<cyfunction Interface.RegisterTemporaryWhisperDialog at 0x09419C90>
+RegisterTemporaryWhisperDialog,		<cyfunction Interface.RegisterTemporaryWhisperDialog at 0x0829ADF0>
 	arg0: self
 	arg1: name
 
 submodule.RegisterTemporaryWhisperDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PartyMatchOff,		<cyfunction Interface.PartyMatchOff at 0x0941B558>
+PartyMatchOff,		<cyfunction Interface.PartyMatchOff at 0x0829C6B8>
 	arg0: self
 	arg1: enable
 
 submodule.PartyMatchOff
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BUILD_OnMouseLeftButtonUp,		<cyfunction Interface.BUILD_OnMouseLeftButtonUp at 0x0941A3F8>
+BUILD_OnMouseLeftButtonUp,		<cyfunction Interface.BUILD_OnMouseLeftButtonUp at 0x0829B558>
 	arg0: self
 
 submodule.BUILD_OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeChatWindow,		<cyfunction Interface.__MakeChatWindow at 0x09415298>
+_Interface__MakeChatWindow,		<cyfunction Interface.__MakeChatWindow at 0x0A3243F8>
 	arg0: self
 
 submodule._Interface__MakeChatWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__IsChatOpen,		<cyfunction Interface.__IsChatOpen at 0x094153F8>
+_Interface__IsChatOpen,		<cyfunction Interface.__IsChatOpen at 0x0A324558>
 	arg0: self
 
 submodule._Interface__IsChatOpen
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeWebWindow,		<cyfunction Interface.__MakeWebWindow at 0x094155B0>
+_Interface__MakeWebWindow,		<cyfunction Interface.__MakeWebWindow at 0x0A324710>
 	arg0: self
 
 submodule._Interface__MakeWebWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeMessengerWindow,		<cyfunction Interface.__MakeMessengerWindow at 0x094151E8>
+_Interface__MakeMessengerWindow,		<cyfunction Interface.__MakeMessengerWindow at 0x0A324348>
 	arg0: self
 
 submodule._Interface__MakeMessengerWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenWhisperDialogWithoutTarget,		<cyfunction Interface.OpenWhisperDialogWithoutTarget at 0x09419C38>
+OpenWhisperDialogWithoutTarget,		<cyfunction Interface.OpenWhisperDialogWithoutTarget at 0x0829AD98>
 	arg0: self
 
 submodule.OpenWhisperDialogWithoutTarget
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowMouseImage,		<cyfunction Interface.ShowMouseImage at 0x09417B30>
+ShowMouseImage,		<cyfunction Interface.ShowMouseImage at 0x08298C90>
 	arg0: self
 
 submodule.ShowMouseImage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenEquipmentDialog,		<cyfunction Interface.OpenEquipmentDialog at 0x09419710>
+OpenEquipmentDialog,		<cyfunction Interface.OpenEquipmentDialog at 0x0829A870>
 	arg0: self
 	arg1: vid
 
 submodule.OpenEquipmentDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnStartGuildWar,		<cyfunction Interface.OnStartGuildWar at 0x094176B8>
+OnStartGuildWar,		<cyfunction Interface.OnStartGuildWar at 0x08298818>
 	arg0: self
 	arg1: guildSelf
 	arg2: guildOpp
 
 submodule.OnStartGuildWar
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshSafebox,		<cyfunction Interface.RefreshSafebox at 0x09415C90>
+RefreshSafebox,		<cyfunction Interface.RefreshSafebox at 0x0A324DF0>
 	arg0: self
 
 submodule.RefreshSafebox
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CommandCloseGuildBank,		<cyfunction Interface.CommandCloseGuildBank at 0x09416D40>
+CommandCloseGuildBank,		<cyfunction Interface.CommandCloseGuildBank at 0x0A326EA0>
 	arg0: self
 
 submodule.CommandCloseGuildBank
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AskSafeboxPassword,		<cyfunction Interface.AskSafeboxPassword at 0x09416B88>
+AskSafeboxPassword,		<cyfunction Interface.AskSafeboxPassword at 0x0A326CE8>
 	arg0: self
 
 submodule.AskSafeboxPassword
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BUILD_OnMouseLeftButtonDown,		<cyfunction Interface.BUILD_OnMouseLeftButtonDown at 0x0941A3A0>
+BUILD_OnMouseLeftButtonDown,		<cyfunction Interface.BUILD_OnMouseLeftButtonDown at 0x0829B500>
 	arg0: self
 
 submodule.BUILD_OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-DragonSoulDeactivate,		<cyfunction Interface.DragonSoulDeactivate at 0x09418450>
+DragonSoulDeactivate,		<cyfunction Interface.DragonSoulDeactivate at 0x082995B0>
 	arg0: self
 
 submodule.DragonSoulDeactivate
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseShopDialog,		<cyfunction Interface.CloseShopDialog at 0x09416558>
+CloseShopDialog,		<cyfunction Interface.CloseShopDialog at 0x0A3266B8>
 	arg0: self
 
 submodule.CloseShopDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-StartExchange,		<cyfunction Interface.StartExchange at 0x09416710>
+StartExchange,		<cyfunction Interface.StartExchange at 0x0A326870>
 	arg0: self
 
 submodule.StartExchange
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildMemberPageGradeComboBox,		<cyfunction Interface.RefreshGuildMemberPageGradeComboBox at 0x094160E0>
+RefreshGuildMemberPageGradeComboBox,		<cyfunction Interface.RefreshGuildMemberPageGradeComboBox at 0x0A326240>
 	arg0: self
 
 submodule.RefreshGuildMemberPageGradeComboBox
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenCubeWindow,		<cyfunction Interface.OpenCubeWindow at 0x094190E0>
+OpenCubeWindow,		<cyfunction Interface.OpenCubeWindow at 0x0829A240>
 	arg0: self
 
 submodule.OpenCubeWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-GetDragonLairType,		<cyfunction Interface.GetDragonLairType at 0x09416FA8>
+GetDragonLairType,		<cyfunction Interface.GetDragonLairType at 0x08298138>
 	arg0: self
 
 submodule.GetDragonLairType
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-DragonSoulActivate,		<cyfunction Interface.DragonSoulActivate at 0x094183F8>
+DragonSoulActivate,		<cyfunction Interface.DragonSoulActivate at 0x08299558>
 	arg0: self
 	arg1: deck
 
 submodule.DragonSoulActivate
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameFishUse,		<cyfunction Interface.MiniGameFishUse at 0x0941B348>
+MiniGameFishUse,		<cyfunction Interface.MiniGameFishUse at 0x0829C4A8>
 	arg0: self
 	arg1: window
 	arg2: pos
@@ -1154,58 +1154,58 @@ MiniGameFishUse,		<cyfunction Interface.MiniGameFishUse at 0x0941B348>
 
 submodule.MiniGameFishUse
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenMyShopDecoWnd,		<cyfunction Interface.OpenMyShopDecoWnd at 0x09419500>
+OpenMyShopDecoWnd,		<cyfunction Interface.OpenMyShopDecoWnd at 0x0829A660>
 	arg0: self
 
 submodule.OpenMyShopDecoWnd
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BULID_EnterGuildArea,		<cyfunction Interface.BULID_EnterGuildArea at 0x0941A450>
+BULID_EnterGuildArea,		<cyfunction Interface.BULID_EnterGuildArea at 0x0829B5B0>
 	arg0: self
 	arg1: areaID
 
 submodule.BULID_EnterGuildArea
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetUseItemMode,		<cyfunction Interface.SetUseItemMode at 0x094183A0>
+SetUseItemMode,		<cyfunction Interface.SetUseItemMode at 0x08299500>
 	arg0: self
 	arg1: bUse
 
 submodule.SetUseItemMode
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__InitWhisper,		<cyfunction Interface.__InitWhisper at 0x09419BE0>
+_Interface__InitWhisper,		<cyfunction Interface.__InitWhisper at 0x0829AD40>
 	arg0: self
 
 submodule._Interface__InitWhisper
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeCubeWindow,		<cyfunction Interface.__MakeCubeWindow at 0x09415608>
+_Interface__MakeCubeWindow,		<cyfunction Interface.__MakeCubeWindow at 0x0A324768>
 	arg0: self
 
 submodule._Interface__MakeCubeWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowAllQuestButton,		<cyfunction Interface.ShowAllQuestButton at 0x09419B88>
+ShowAllQuestButton,		<cyfunction Interface.ShowAllQuestButton at 0x0829ACE8>
 	arg0: self
 
 submodule.ShowAllQuestButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenQuestWindow,		<cyfunction Interface.OpenQuestWindow at 0x09416660>
+OpenQuestWindow,		<cyfunction Interface.OpenQuestWindow at 0x0A3267C0>
 	arg0: self
 	arg1: skin
 	arg2: idx
 
 submodule.OpenQuestWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RumiIncreaseScore,		<cyfunction Interface.RumiIncreaseScore at 0x0941ABE0>
+RumiIncreaseScore,		<cyfunction Interface.RumiIncreaseScore at 0x0829BD40>
 	arg0: self
 	arg1: score
 	arg2: total_score
 
 submodule.RumiIncreaseScore
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeUICurtain,		<cyfunction Interface.__MakeUICurtain at 0x09415190>
+_Interface__MakeUICurtain,		<cyfunction Interface.__MakeUICurtain at 0x0A3242F0>
 	arg0: self
 
 submodule._Interface__MakeUICurtain
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenRefineDialog,		<cyfunction Interface.OpenRefineDialog at 0x09417870>
+OpenRefineDialog,		<cyfunction Interface.OpenRefineDialog at 0x082989D0>
 	arg0: self
 	arg1: targetItemPos
 	arg2: nextGradeItemVnum
@@ -1215,77 +1215,77 @@ OpenRefineDialog,		<cyfunction Interface.OpenRefineDialog at 0x09417870>
 
 submodule.OpenRefineDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MonsterCardIllustrationRefresh,		<cyfunction Interface.MonsterCardIllustrationRefresh at 0x0941B138>
+MonsterCardIllustrationRefresh,		<cyfunction Interface.MonsterCardIllustrationRefresh at 0x0829C298>
 	arg0: self
 
 submodule.MonsterCardIllustrationRefresh
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnMobileAuthority,		<cyfunction Interface.OnMobileAuthority at 0x094163A0>
+OnMobileAuthority,		<cyfunction Interface.OnMobileAuthority at 0x0A326500>
 	arg0: self
 
 submodule.OnMobileAuthority
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-GetAutoStartonoff,		<cyfunction Interface.GetAutoStartonoff at 0x09418920>
+GetAutoStartonoff,		<cyfunction Interface.GetAutoStartonoff at 0x08299A80>
 	arg0: self
 
 submodule.GetAutoStartonoff
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-TogglePetInformationWindow,		<cyfunction Interface.TogglePetInformationWindow at 0x094187C0>
+TogglePetInformationWindow,		<cyfunction Interface.TogglePetInformationWindow at 0x08299920>
 	arg0: self
 
 submodule.TogglePetInformationWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ActivateSlot,		<cyfunction Interface.ActivateSlot at 0x09417240>
+ActivateSlot,		<cyfunction Interface.ActivateSlot at 0x082983A0>
 	arg0: self
 	arg1: slotindex
 	arg2: type
 
 submodule.ActivateSlot
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PetFeedReuslt,		<cyfunction Interface.PetFeedReuslt at 0x0941A9D0>
+PetFeedReuslt,		<cyfunction Interface.PetFeedReuslt at 0x0829BB30>
 	arg0: self
 	arg1: result
 
 submodule.PetFeedReuslt
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-HideMouseImage,		<cyfunction Interface.HideMouseImage at 0x09417B88>
+HideMouseImage,		<cyfunction Interface.HideMouseImage at 0x08298CE8>
 	arg0: self
 
 submodule.HideMouseImage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildMemberPage,		<cyfunction Interface.RefreshGuildMemberPage at 0x09416088>
+RefreshGuildMemberPage,		<cyfunction Interface.RefreshGuildMemberPage at 0x0A3261E8>
 	arg0: self
 
 submodule.RefreshGuildMemberPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__OnClickSkillPlusButton,		<cyfunction Interface.__OnClickSkillPlusButton at 0x09418D40>
+_Interface__OnClickSkillPlusButton,		<cyfunction Interface.__OnClickSkillPlusButton at 0x08299EA0>
 	arg0: self
 
 submodule._Interface__OnClickSkillPlusButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenPrivateShopInputNameDialog,		<cyfunction Interface.OpenPrivateShopInputNameDialog at 0x09419558>
+OpenPrivateShopInputNameDialog,		<cyfunction Interface.OpenPrivateShopInputNameDialog at 0x0829A6B8>
 	arg0: self
 	arg1: bCashItem
 	arg2: tabCnt
 
 submodule.OpenPrivateShopInputNameDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildSkillPage,		<cyfunction Interface.RefreshGuildSkillPage at 0x09416138>
+RefreshGuildSkillPage,		<cyfunction Interface.RefreshGuildSkillPage at 0x0A326298>
 	arg0: self
 
 submodule.RefreshGuildSkillPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CommandCloseSafebox,		<cyfunction Interface.CommandCloseSafebox at 0x09416C90>
+CommandCloseSafebox,		<cyfunction Interface.CommandCloseSafebox at 0x0A326DF0>
 	arg0: self
 
 submodule.CommandCloseSafebox
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__OnClickHelpButton,		<cyfunction Interface.__OnClickHelpButton at 0x09418DF0>
+_Interface__OnClickHelpButton,		<cyfunction Interface.__OnClickHelpButton at 0x08299F50>
 	arg0: self
 
 submodule._Interface__OnClickHelpButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BINARY_RecvQuest,		<cyfunction Interface.BINARY_RecvQuest at 0x09419978>
+BINARY_RecvQuest,		<cyfunction Interface.BINARY_RecvQuest at 0x0829AAD8>
 	arg0: self
 	arg1: index
 	arg2: name
@@ -1294,78 +1294,78 @@ BINARY_RecvQuest,		<cyfunction Interface.BINARY_RecvQuest at 0x09419978>
 
 submodule.BINARY_RecvQuest
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BINARY_ClearQuest,		<cyfunction Interface.BINARY_ClearQuest at 0x094198C8>
+BINARY_ClearQuest,		<cyfunction Interface.BINARY_ClearQuest at 0x0829AA28>
 	arg0: self
 	arg1: index
 
 submodule.BINARY_ClearQuest
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnDeactivateSkill,		<cyfunction Interface.OnDeactivateSkill at 0x09415920>
+OnDeactivateSkill,		<cyfunction Interface.OnDeactivateSkill at 0x0A324A80>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OnDeactivateSkill
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BINARY_OpenAtlasWindow,		<cyfunction Interface.BINARY_OpenAtlasWindow at 0x09419348>
+BINARY_OpenAtlasWindow,		<cyfunction Interface.BINARY_OpenAtlasWindow at 0x0829A4A8>
 	arg0: self
 
 submodule.BINARY_OpenAtlasWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-IsEditLineFocus,		<cyfunction Interface.IsEditLineFocus at 0x0941A500>
+IsEditLineFocus,		<cyfunction Interface.IsEditLineFocus at 0x0829B660>
 	arg0: self
 
 submodule.IsEditLineFocus
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeTipBoard,		<cyfunction Interface.__MakeTipBoard at 0x09415558>
+_Interface__MakeTipBoard,		<cyfunction Interface.__MakeTipBoard at 0x0A3246B8>
 	arg0: self
 
 submodule._Interface__MakeTipBoard
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowGuildWarButton,		<cyfunction Interface.ShowGuildWarButton at 0x0941AD40>
+ShowGuildWarButton,		<cyfunction Interface.ShowGuildWarButton at 0x0829BEA0>
 	arg0: self
 
 submodule.ShowGuildWarButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameAttendanceRequestRewardList,		<cyfunction Interface.MiniGameAttendanceRequestRewardList at 0x0941AEF8>
+MiniGameAttendanceRequestRewardList,		<cyfunction Interface.MiniGameAttendanceRequestRewardList at 0x0829C088>
 	arg0: self
 
 submodule.MiniGameAttendanceRequestRewardList
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenSkillbookCombinationDialog,		<cyfunction Interface.OpenSkillbookCombinationDialog at 0x09417500>
+OpenSkillbookCombinationDialog,		<cyfunction Interface.OpenSkillbookCombinationDialog at 0x08298660>
 	arg0: self
 
 submodule.OpenSkillbookCombinationDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeWhisperButton,		<cyfunction Interface.__MakeWhisperButton at 0x0941A030>
+_Interface__MakeWhisperButton,		<cyfunction Interface.__MakeWhisperButton at 0x0829B190>
 	arg0: self
 	arg1: name
 
 submodule._Interface__MakeWhisperButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SucceedDragonSoulRefine,		<cyfunction Interface.SucceedDragonSoulRefine at 0x09418660>
+SucceedDragonSoulRefine,		<cyfunction Interface.SucceedDragonSoulRefine at 0x082997C0>
 	arg0: self
 	arg1: inven_type
 	arg2: inven_pos
 
 submodule.SucceedDragonSoulRefine
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildBoardPage,		<cyfunction Interface.RefreshGuildBoardPage at 0x09416030>
+RefreshGuildBoardPage,		<cyfunction Interface.RefreshGuildBoardPage at 0x0A326190>
 	arg0: self
 
 submodule.RefreshGuildBoardPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenSafeboxWindow,		<cyfunction Interface.OpenSafeboxWindow at 0x09416BE0>
+OpenSafeboxWindow,		<cyfunction Interface.OpenSafeboxWindow at 0x0A326D40>
 	arg0: self
 	arg1: size
 
 submodule.OpenSafeboxWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshMall,		<cyfunction Interface.RefreshMall at 0x09415EA0>
+RefreshMall,		<cyfunction Interface.RefreshMall at 0x0A326030>
 	arg0: self
 
 submodule.RefreshMall
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-FailDragonSoulRefine,		<cyfunction Interface.FailDragonSoulRefine at 0x09418608>
+FailDragonSoulRefine,		<cyfunction Interface.FailDragonSoulRefine at 0x08299768>
 	arg0: self
 	arg1: reason
 	arg2: inven_type
@@ -1373,39 +1373,39 @@ FailDragonSoulRefine,		<cyfunction Interface.FailDragonSoulRefine at 0x09418608>
 
 submodule.FailDragonSoulRefine
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-UnlinkAllPartyMember,		<cyfunction Interface.UnlinkAllPartyMember at 0x09416A28>
+UnlinkAllPartyMember,		<cyfunction Interface.UnlinkAllPartyMember at 0x0A326B88>
 	arg0: self
 
 submodule.UnlinkAllPartyMember
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetGuildDragonLiarStart,		<cyfunction Interface.SetGuildDragonLiarStart at 0x09415DF0>
+SetGuildDragonLiarStart,		<cyfunction Interface.SetGuildDragonLiarStart at 0x0A324F50>
 	arg0: self
 
 submodule.SetGuildDragonLiarStart
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-PetInformationActivate,		<cyfunction Interface.PetInformationActivate at 0x09418768>
+PetInformationActivate,		<cyfunction Interface.PetInformationActivate at 0x082998C8>
 	arg0: self
 
 submodule.PetInformationActivate
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-UnlinkPartyMember,		<cyfunction Interface.UnlinkPartyMember at 0x094169D0>
+UnlinkPartyMember,		<cyfunction Interface.UnlinkPartyMember at 0x0A326B30>
 	arg0: self
 	arg1: pid
 
 submodule.UnlinkPartyMember
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-HideAllWhisperButton,		<cyfunction Interface.HideAllWhisperButton at 0x0941A0E0>
+HideAllWhisperButton,		<cyfunction Interface.HideAllWhisperButton at 0x0829B240>
 	arg0: self
 
 submodule.HideAllWhisperButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MakeHyperlinkTooltip,		<cyfunction Interface.MakeHyperlinkTooltip at 0x094157C0>
+MakeHyperlinkTooltip,		<cyfunction Interface.MakeHyperlinkTooltip at 0x0A324920>
 	arg0: self
 	arg1: hyperlink
 
 submodule.MakeHyperlinkTooltip
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetEquipmentDialogSocket,		<cyfunction Interface.SetEquipmentDialogSocket at 0x094197C0>
+SetEquipmentDialogSocket,		<cyfunction Interface.SetEquipmentDialogSocket at 0x0829A920>
 	arg0: self
 	arg1: vid
 	arg2: slotIndex
@@ -1414,86 +1414,86 @@ SetEquipmentDialogSocket,		<cyfunction Interface.SetEquipmentDialogSocket at 0x0
 
 submodule.SetEquipmentDialogSocket
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-HideAllWindows,		<cyfunction Interface.HideAllWindows at 0x09417AD8>
+HideAllWindows,		<cyfunction Interface.HideAllWindows at 0x08298C38>
 	arg0: self
 
 submodule.HideAllWindows
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-__del__,		<cyfunction Interface.__del__ at 0x09415138>
+__del__,		<cyfunction Interface.__del__ at 0x0A324298>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenCharacterWindowWithState,		<cyfunction Interface.OpenCharacterWindowWithState at 0x094180E0>
+OpenCharacterWindowWithState,		<cyfunction Interface.OpenCharacterWindowWithState at 0x08299240>
 	arg0: self
 	arg1: state
 
 submodule.OpenCharacterWindowWithState
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenShopDialog,		<cyfunction Interface.OpenShopDialog at 0x09416500>
+OpenShopDialog,		<cyfunction Interface.OpenShopDialog at 0x0A326660>
 	arg0: self
 	arg1: vid
 
 submodule.OpenShopDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildWarInfoPage,		<cyfunction Interface.RefreshGuildWarInfoPage at 0x09416298>
+RefreshGuildWarInfoPage,		<cyfunction Interface.RefreshGuildWarInfoPage at 0x0A3263F8>
 	arg0: self
 
 submodule.RefreshGuildWarInfoPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AddExchangeItemSlotIndex,		<cyfunction Interface.AddExchangeItemSlotIndex at 0x09416818>
+AddExchangeItemSlotIndex,		<cyfunction Interface.AddExchangeItemSlotIndex at 0x0A326978>
 	arg0: self
 	arg1: idx
 
 submodule.AddExchangeItemSlotIndex
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__MakeTaskBar,		<cyfunction Interface.__MakeTaskBar at 0x094152F0>
+_Interface__MakeTaskBar,		<cyfunction Interface.__MakeTaskBar at 0x0A324450>
 	arg0: self
 
 submodule._Interface__MakeTaskBar
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameAttendanceSetData,		<cyfunction Interface.MiniGameAttendanceSetData at 0x0941AEA0>
+MiniGameAttendanceSetData,		<cyfunction Interface.MiniGameAttendanceSetData at 0x0829C030>
 	arg0: self
 	arg1: type
 	arg2: value
 
 submodule.MiniGameAttendanceSetData
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseWhisperDialog,		<cyfunction Interface.CloseWhisperDialog at 0x09419EA0>
+CloseWhisperDialog,		<cyfunction Interface.CloseWhisperDialog at 0x0829B030>
 	arg0: self
 	arg1: name
 
 submodule.CloseWhisperDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniMapScaleUp,		<cyfunction Interface.MiniMapScaleUp at 0x09417FA8>
+MiniMapScaleUp,		<cyfunction Interface.MiniMapScaleUp at 0x08299138>
 	arg0: self
 
 submodule.MiniMapScaleUp
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SelectMouseButtonEvent,		<cyfunction Interface.SelectMouseButtonEvent at 0x094159D0>
+SelectMouseButtonEvent,		<cyfunction Interface.SelectMouseButtonEvent at 0x0A324B30>
 	arg0: self
 	arg1: dir
 	arg2: event
 
 submodule.SelectMouseButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowGift,		<cyfunction Interface.ShowGift at 0x09419030>
+ShowGift,		<cyfunction Interface.ShowGift at 0x0829A190>
 	arg0: self
 
 submodule.ShowGift
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshUserSituation,		<cyfunction Interface.RefreshUserSituation at 0x0941B5B0>
+RefreshUserSituation,		<cyfunction Interface.RefreshUserSituation at 0x0829C710>
 	arg0: self
 
 submodule.RefreshUserSituation
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__StartQuest,		<cyfunction Interface.__StartQuest at 0x09419A28>
+_Interface__StartQuest,		<cyfunction Interface.__StartQuest at 0x0829AB88>
 	arg0: self
 	arg1: btn
 
 submodule._Interface__StartQuest
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetEquipmentDialogAttr,		<cyfunction Interface.SetEquipmentDialogAttr at 0x09419818>
+SetEquipmentDialogAttr,		<cyfunction Interface.SetEquipmentDialogAttr at 0x0829A978>
 	arg0: self
 	arg1: vid
 	arg2: slotIndex
@@ -1503,43 +1503,43 @@ SetEquipmentDialogAttr,		<cyfunction Interface.SetEquipmentDialogAttr at 0x09419
 
 submodule.SetEquipmentDialogAttr
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AutoOn,		<cyfunction Interface.AutoOn at 0x09418A80>
+AutoOn,		<cyfunction Interface.AutoOn at 0x08299BE0>
 	arg0: self
 
 submodule.AutoOn
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowAllWhisperButton,		<cyfunction Interface.ShowAllWhisperButton at 0x0941A138>
+ShowAllWhisperButton,		<cyfunction Interface.ShowAllWhisperButton at 0x0829B298>
 	arg0: self
 
 submodule.ShowAllWhisperButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-Close,		<cyfunction Interface.Close at 0x09415818>
+Close,		<cyfunction Interface.Close at 0x0A324978>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGemShopWIndow,		<cyfunction Interface.RefreshGemShopWIndow at 0x094173F8>
+RefreshGemShopWIndow,		<cyfunction Interface.RefreshGemShopWIndow at 0x08298558>
 	arg0: self
 
 submodule.RefreshGemShopWIndow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CloseRestartDialog,		<cyfunction Interface.CloseRestartDialog at 0x09417D40>
+CloseRestartDialog,		<cyfunction Interface.CloseRestartDialog at 0x08298EA0>
 	arg0: self
 
 submodule.CloseRestartDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OnActivateSkill,		<cyfunction Interface.OnActivateSkill at 0x094158C8>
+OnActivateSkill,		<cyfunction Interface.OnActivateSkill at 0x0A324A28>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OnActivateSkill
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BINARY_RefreshSelectItemWindowEx,		<cyfunction Interface.BINARY_RefreshSelectItemWindowEx at 0x094194A8>
+BINARY_RefreshSelectItemWindowEx,		<cyfunction Interface.BINARY_RefreshSelectItemWindowEx at 0x0829A608>
 	arg0: self
 
 submodule.BINARY_RefreshSelectItemWindowEx
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ExitBattleFieldOnDead,		<cyfunction Interface.ExitBattleFieldOnDead at 0x0941B298>
+ExitBattleFieldOnDead,		<cyfunction Interface.ExitBattleFieldOnDead at 0x0829C3F8>
 	arg0: self
 	arg1: point
 
@@ -1550,7 +1550,7 @@ CHARACTER_SKILL_TAB,		2
 submodule.CHARACTER_SKILL_TAB
 
 
-PetNameChangeWindowCommand,		<cyfunction Interface.PetNameChangeWindowCommand at 0x0941A7C0>
+PetNameChangeWindowCommand,		<cyfunction Interface.PetNameChangeWindowCommand at 0x0829B920>
 	arg0: self
 	arg1: command
 	arg2: srcWindow
@@ -1560,146 +1560,146 @@ PetNameChangeWindowCommand,		<cyfunction Interface.PetNameChangeWindowCommand at
 
 submodule.PetNameChangeWindowCommand
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshCharacter,		<cyfunction Interface.RefreshCharacter at 0x09415BE0>
+RefreshCharacter,		<cyfunction Interface.RefreshCharacter at 0x0A324D40>
 	arg0: self
 
 submodule.RefreshCharacter
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AppendMaterialToRefineDialog,		<cyfunction Interface.AppendMaterialToRefineDialog at 0x094178C8>
+AppendMaterialToRefineDialog,		<cyfunction Interface.AppendMaterialToRefineDialog at 0x08298A28>
 	arg0: self
 	arg1: vnum
 	arg2: count
 
 submodule.AppendMaterialToRefineDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleCharacterWindowStatusPage,		<cyfunction Interface.ToggleCharacterWindowStatusPage at 0x09418138>
+ToggleCharacterWindowStatusPage,		<cyfunction Interface.ToggleCharacterWindowStatusPage at 0x08299298>
 	arg0: self
 
 submodule.ToggleCharacterWindowStatusPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefrashBattleButton,		<cyfunction Interface.RefrashBattleButton at 0x0941B190>
+RefrashBattleButton,		<cyfunction Interface.RefrashBattleButton at 0x0829C2F0>
 	arg0: self
 
 submodule.RefrashBattleButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshExchange,		<cyfunction Interface.RefreshExchange at 0x094167C0>
+RefreshExchange,		<cyfunction Interface.RefreshExchange at 0x0A326920>
 	arg0: self
 
 submodule.RefreshExchange
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenMallWindow,		<cyfunction Interface.OpenMallWindow at 0x09417608>
+OpenMallWindow,		<cyfunction Interface.OpenMallWindow at 0x08298768>
 	arg0: self
 	arg1: size
 
 submodule.OpenMallWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-BINARY_SetObserverMode,		<cyfunction Interface.BINARY_SetObserverMode at 0x094193A0>
+BINARY_SetObserverMode,		<cyfunction Interface.BINARY_SetObserverMode at 0x0829A500>
 	arg0: self
 	arg1: flag
 	arg2: isbuttonshow
 
 submodule.BINARY_SetObserverMode
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenRankingBoardWindow,		<cyfunction Interface.OpenRankingBoardWindow at 0x09418AD8>
+OpenRankingBoardWindow,		<cyfunction Interface.OpenRankingBoardWindow at 0x08299C38>
 	arg0: self
 	arg1: type
 	arg2: category
 
 submodule.OpenRankingBoardWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-MiniGameEnd,		<cyfunction Interface.MiniGameEnd at 0x0941AC38>
+MiniGameEnd,		<cyfunction Interface.MiniGameEnd at 0x0829BD98>
 	arg0: self
 
 submodule.MiniGameEnd
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshServerInfo,		<cyfunction Interface.RefreshServerInfo at 0x0941B4A8>
+RefreshServerInfo,		<cyfunction Interface.RefreshServerInfo at 0x0829C608>
 	arg0: self
 
 submodule.RefreshServerInfo
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-DisappearPrivateShop,		<cyfunction Interface.DisappearPrivateShop at 0x094196B8>
+DisappearPrivateShop,		<cyfunction Interface.DisappearPrivateShop at 0x0829A818>
 	arg0: self
 	arg1: vid
 
 submodule.DisappearPrivateShop
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshMessenger,		<cyfunction Interface.RefreshMessenger at 0x09415F50>
+RefreshMessenger,		<cyfunction Interface.RefreshMessenger at 0x0A3260E0>
 	arg0: self
 
 submodule.RefreshMessenger
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenPShopSearchDialogCash,		<cyfunction Interface.OpenPShopSearchDialogCash at 0x09417088>
+OpenPShopSearchDialogCash,		<cyfunction Interface.OpenPShopSearchDialogCash at 0x082981E8>
 	arg0: self
 
 submodule.OpenPShopSearchDialogCash
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenGemShop,		<cyfunction Interface.OpenGemShop at 0x09417348>
+OpenGemShop,		<cyfunction Interface.OpenGemShop at 0x082984A8>
 	arg0: self
 
 submodule.OpenGemShop
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetGuildDragonLiarSuccess,		<cyfunction Interface.SetGuildDragonLiarSuccess at 0x09415E48>
+SetGuildDragonLiarSuccess,		<cyfunction Interface.SetGuildDragonLiarSuccess at 0x0A324FA8>
 	arg0: self
 
 submodule.SetGuildDragonLiarSuccess
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetMapName,		<cyfunction Interface.SetMapName at 0x09417F50>
+SetMapName,		<cyfunction Interface.SetMapName at 0x082990E0>
 	arg0: self
 	arg1: mapName
 
 submodule.SetMapName
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-FailedCubeWork,		<cyfunction Interface.FailedCubeWork at 0x094191E8>
+FailedCubeWork,		<cyfunction Interface.FailedCubeWork at 0x0829A348>
 	arg0: self
 
 submodule.FailedCubeWork
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshInventory,		<cyfunction Interface.RefreshInventory at 0x09415B88>
+RefreshInventory,		<cyfunction Interface.RefreshInventory at 0x0A324CE8>
 	arg0: self
 
 submodule.RefreshInventory
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AskMallPassword,		<cyfunction Interface.AskMallPassword at 0x094175B0>
+AskMallPassword,		<cyfunction Interface.AskMallPassword at 0x08298710>
 	arg0: self
 
 submodule.AskMallPassword
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ClosePointResetDialog,		<cyfunction Interface.ClosePointResetDialog at 0x094164A8>
+ClosePointResetDialog,		<cyfunction Interface.ClosePointResetDialog at 0x0A326608>
 	arg0: self
 
 submodule.ClosePointResetDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshGuildBank,		<cyfunction Interface.RefreshGuildBank at 0x09415CE8>
+RefreshGuildBank,		<cyfunction Interface.RefreshGuildBank at 0x0A324E48>
 	arg0: self
 
 submodule.RefreshGuildBank
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ShowAllWindows,		<cyfunction Interface.ShowAllWindows at 0x09417A80>
+ShowAllWindows,		<cyfunction Interface.ShowAllWindows at 0x08298BE0>
 	arg0: self
 
 submodule.ShowAllWindows
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshMissionPage,		<cyfunction Interface.RefreshMissionPage at 0x0941AFA8>
+RefreshMissionPage,		<cyfunction Interface.RefreshMissionPage at 0x0829C138>
 	arg0: self
 
 submodule.RefreshMissionPage
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__OnClickBuildButton,		<cyfunction Interface.__OnClickBuildButton at 0x09418E48>
+_Interface__OnClickBuildButton,		<cyfunction Interface.__OnClickBuildButton at 0x08299FA8>
 	arg0: self
 
 submodule._Interface__OnClickBuildButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-SetCloseGame,		<cyfunction Interface.SetCloseGame at 0x094188C8>
+SetCloseGame,		<cyfunction Interface.SetCloseGame at 0x08299A28>
 	arg0: self
 
 submodule.SetCloseGame
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ToggleInventoryWindow,		<cyfunction Interface.ToggleInventoryWindow at 0x09418190>
+ToggleInventoryWindow,		<cyfunction Interface.ToggleInventoryWindow at 0x082992F0>
 	arg0: self
 
 submodule.ToggleInventoryWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AddPartyMember,		<cyfunction Interface.AddPartyMember at 0x09416870>
+AddPartyMember,		<cyfunction Interface.AddPartyMember at 0x0A3269D0>
 	arg0: self
 	arg1: pid
 	arg2: name
@@ -1708,51 +1708,51 @@ AddPartyMember,		<cyfunction Interface.AddPartyMember at 0x09416870>
 
 submodule.AddPartyMember
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenHelpWindow,		<cyfunction Interface.OpenHelpWindow at 0x09418EF8>
+OpenHelpWindow,		<cyfunction Interface.OpenHelpWindow at 0x0829A088>
 	arg0: self
 
 submodule.OpenHelpWindow
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenGuildBankInfo,		<cyfunction Interface.OpenGuildBankInfo at 0x09416DF0>
+OpenGuildBankInfo,		<cyfunction Interface.OpenGuildBankInfo at 0x0A326F50>
 	arg0: self
 
 submodule.OpenGuildBankInfo
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-AcceDialogOpen,		<cyfunction Interface.AcceDialogOpen at 0x09417138>
+AcceDialogOpen,		<cyfunction Interface.AcceDialogOpen at 0x08298298>
 	arg0: self
 	arg1: type
 
 submodule.AcceDialogOpen
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-RefreshShopDialog,		<cyfunction Interface.RefreshShopDialog at 0x094165B0>
+RefreshShopDialog,		<cyfunction Interface.RefreshShopDialog at 0x0A326710>
 	arg0: self
 
 submodule.RefreshShopDialog
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-ExitBattleField,		<cyfunction Interface.ExitBattleField at 0x0941B240>
+ExitBattleField,		<cyfunction Interface.ExitBattleField at 0x0829C3A0>
 	arg0: self
 	arg1: point
 
 submodule.ExitBattleField
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-_Interface__OnClickStatusPlusButton,		<cyfunction Interface.__OnClickStatusPlusButton at 0x09418CE8>
+_Interface__OnClickStatusPlusButton,		<cyfunction Interface.__OnClickStatusPlusButton at 0x08299E48>
 	arg0: self
 
 submodule._Interface__OnClickStatusPlusButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-CheckGameButton,		<cyfunction Interface.CheckGameButton at 0x09418C90>
+CheckGameButton,		<cyfunction Interface.CheckGameButton at 0x08299DF0>
 	arg0: self
 
 submodule.CheckGameButton
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-DeactivateSlot,		<cyfunction Interface.DeactivateSlot at 0x094171E8>
+DeactivateSlot,		<cyfunction Interface.DeactivateSlot at 0x08298348>
 	arg0: self
 	arg1: slotindex
 	arg2: type
 
 submodule.DeactivateSlot
 Skipped: unbound method cython_function_or_method object must be called with Interface instance as first argument (got nothing instead)
-OpenWebWindow,		<cyfunction Interface.OpenWebWindow at 0x09418FA8>
+OpenWebWindow,		<cyfunction Interface.OpenWebWindow at 0x0829A138>
 	arg0: self
 	arg1: url
 

@@ -12,7 +12,7 @@ __qualname__,		Sandbox
 submodule.__qualname__
 
 
-add_allowed_modules,		<cyfunction Sandbox.add_allowed_modules at 0x07DEFFA8>
+add_allowed_modules,		<cyfunction Sandbox.add_allowed_modules at 0x0A06A088>
 	arg0: self
 	arg1: allowed_modules
 
@@ -23,7 +23,7 @@ __module__,		utils
 submodule.__module__
 
 
-add_prevented_modules,		<cyfunction Sandbox.add_prevented_modules at 0x09127030>
+add_prevented_modules,		<cyfunction Sandbox.add_prevented_modules at 0x0A06A0E0>
 	arg0: self
 	arg1: prevented_modules
 
@@ -44,14 +44,14 @@ WHITE_LIST,		['__builtin__', 'types', 'utils', '__main__', 'sys']
 submodule.WHITE_LIST
 
 
-execfile,		<cyfunction Sandbox.execfile at 0x09127088>
+execfile,		<cyfunction Sandbox.execfile at 0x0A06A138>
 	arg0: self
 	arg1: filename
 	arg2: dic
 
 submodule.execfile
 Skipped: unbound method cython_function_or_method object must be called with Sandbox instance as first argument (got nothing instead)
-__init__,		<cyfunction Sandbox.__init__ at 0x07DEFF50>
+__init__,		<cyfunction Sandbox.__init__ at 0x0A06A030>
 	arg0: self
 	arg1: prevent_imported_modules
 	arg2: allowed_modules

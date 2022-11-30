@@ -37,7 +37,7 @@
             'var': [{'name': 'APPLICANT', 'type': 'int', 'value': 4},
                     {'name': 'CLICK_LIMIT_TIME', 'type': 'int', 'value': 3},
                     {'name': 'EMPIRE_ALL', 'type': 'int', 'value': 0},
-                    {'name': 'M2JOBLIST', 'type': 'dict', 'value': {0: 'Krieger', 1: 'Ninja', 2: 'Sura', 3: 'Schamane', 4: 'Lykaner'}},
+                    {'name': 'M2JOBLIST', 'type': 'dict', 'value': {0: 'Warrior', 1: 'Ninja', 2: 'Sura', 3: 'Shaman', 4: 'Lycan'}},
                     {'name': 'MAX_LINE_COUNT', 'type': 'int', 'value': 8},
                     {'name': 'PAGEBUTTON_MAX_SIZE', 'type': 'int', 'value': 9},
                     {'name': 'PAGEBUTTON_NUMBER_SIZE', 'type': 'int', 'value': 5},

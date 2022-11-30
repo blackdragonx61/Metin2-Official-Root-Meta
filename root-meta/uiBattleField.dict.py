@@ -36,7 +36,7 @@
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],
             'import': [],
             'var': [{'name': 'DEFAULT_DESC_Y', 'type': 'int', 'value': 7},
-                    {'name': 'DESCRIPTION_FILE_NAME', 'type': 'str', 'value': 'locale/de/desc_battle_field.txt'},
+                    {'name': 'DESCRIPTION_FILE_NAME', 'type': 'str', 'value': 'locale/pa/desc_battle_field.txt'},
                     {'name': 'M2EMPIREICON', 'type': 'dict', 'value': {0: 'd:/ymir work/ui/public/battle/empire_empty.sub', 1: 'd:/ymir work/ui/public/battle/empire_shinsu.sub', 2: 'd:/ymir work/ui/public/battle/empire_chunjo.sub', 3: 'd:/ymir work/ui/public/battle/empire_jinno.sub'}},
                     {'name': 'SHOW_LINE_COUNT_MAX', 'type': 'int', 'value': 18},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},

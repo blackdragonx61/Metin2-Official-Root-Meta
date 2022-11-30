@@ -11,7 +11,7 @@ key: __doc__, val: None
 
 
 class PhaseCurtain:
-SAFE_FadeOut,		<cyfunction PhaseCurtain.SAFE_FadeOut at 0x07DED500>
+SAFE_FadeOut,		<cyfunction PhaseCurtain.SAFE_FadeOut at 0x0837C5B0>
 	arg0: self
 	arg1: event
 	arg2: args
@@ -24,12 +24,12 @@ __module__,		uiPhaseCurtain
 submodule.__module__
 
 
-__del__,		<cyfunction PhaseCurtain.__del__ at 0x07DED4A8>
+__del__,		<cyfunction PhaseCurtain.__del__ at 0x0837C558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
-FadeOut,		<cyfunction PhaseCurtain.FadeOut at 0x07DED558>
+FadeOut,		<cyfunction PhaseCurtain.FadeOut at 0x0837C608>
 	arg0: self
 	arg1: event
 	arg2: args
@@ -37,18 +37,18 @@ FadeOut,		<cyfunction PhaseCurtain.FadeOut at 0x07DED558>
 
 submodule.FadeOut
 Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PhaseCurtain.OnUpdate at 0x07DED660>
+OnUpdate,		<cyfunction PhaseCurtain.OnUpdate at 0x0837C710>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
-SetAlpha,		<cyfunction PhaseCurtain.SetAlpha at 0x07DED608>
+SetAlpha,		<cyfunction PhaseCurtain.SetAlpha at 0x0837C6B8>
 	arg0: self
 	arg1: alpha
 
 submodule.SetAlpha
 Skipped: unbound method cython_function_or_method object must be called with PhaseCurtain instance as first argument (got nothing instead)
-FadeIn,		<cyfunction PhaseCurtain.FadeIn at 0x07DED5B0>
+FadeIn,		<cyfunction PhaseCurtain.FadeIn at 0x0837C660>
 	arg0: self
 
 submodule.FadeIn
@@ -63,7 +63,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction PhaseCurtain.__init__ at 0x07DED450>
+__init__,		<cyfunction PhaseCurtain.__init__ at 0x0837C500>
 	arg0: self
 
 submodule.__init__
