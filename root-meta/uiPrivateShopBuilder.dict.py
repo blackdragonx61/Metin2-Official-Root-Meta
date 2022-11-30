@@ -68,4 +68,4 @@
          {'name': '__test__', 'type': 'dict', 'value': {}},
          {'name': 'g_isBuildingPrivateShop', 'type': 'bool', 'value': False},
          {'name': 'g_itemPriceDict', 'type': 'dict', 'value': {}},
-         {'name': 'g_privateShopAdvertisementBoardDict', 'type': 'dict', 'value': {66748: <uiPrivateShopBuilder.PrivateShopAdvertisementBoard object at 0x2C3622B0>}}]}
+         {'name': 'g_privateShopAdvertisementBoardDict', 'type': 'dict', 'value': {}}]}

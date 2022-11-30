@@ -7,39 +7,39 @@ key: __name__, val: uiChat
 key: ChatLogWindow, val: <class 'uiChat.ChatLogWindow'>
 key: ime, val: <module 'ime' (built-in)>
 key: grp, val: <module 'grp' (built-in)>
-key: InsertChatInputSetWindow, val: <cyfunction InsertChatInputSetWindow at 0x0ADBC348>
+key: InsertChatInputSetWindow, val: <cyfunction InsertChatInputSetWindow at 0x0ADEC2F0>
 key: __package__, val: None
 key: systemSetting, val: <module 'systemSetting' (built-in)>
 key: colorInfo, val: <module 'colorInfo' (built-in)>
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
 key: ENABLE_INSULT_CHECK, val: True
-key: DestroyChatInputSetWindow, val: <cyfunction DestroyChatInputSetWindow at 0x0ADBC450>
+key: DestroyChatInputSetWindow, val: <cyfunction DestroyChatInputSetWindow at 0x0ADEC3F8>
 key: __builtins__, val: <module '__builtin__' (built-in)>
-key: RefreshChatMode, val: <cyfunction RefreshChatMode at 0x0ADBC3A0>
+key: RefreshChatMode, val: <cyfunction RefreshChatMode at 0x0ADEC348>
 key: __test__, val: {}
 key: wndMgr, val: <module 'wndMgr' (built-in)>
 key: constInfo, val: <module 'constInfo' (built-in)>
 key: ENABLE_LAST_SENTENCE_STACK, val: True
 key: ChatModeButton, val: <class 'uiChat.ChatModeButton'>
-key: chatInputSetList, val: [<uiChat.ChatInputSet object at 0x2BE4F190>, <uiChat.ChatInputSet object at 0x2C4568B0>]
+key: chatInputSetList, val: [<uiChat.ChatInputSet object at 0x26460850>, <uiChat.ChatInputSet object at 0x2688E550>]
 key: ChatLine, val: <class 'uiChat.ChatLine'>
 key: ui, val: <module 'ui' (built-in)>
 
 
 class ChatInputSet:
-SetChatMax,		<cyfunction ChatInputSet.SetChatMax at 0x0ADD7A28>
+SetChatMax,		<cyfunction ChatInputSet.SetChatMax at 0x0AE0B9D0>
 	arg0: self
 	arg1: max
 
 submodule.SetChatMax
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-KillChatFocus,		<cyfunction ChatInputSet.KillChatFocus at 0x0ADD79D0>
+KillChatFocus,		<cyfunction ChatInputSet.KillChatFocus at 0x0AE0B978>
 	arg0: self
 
 submodule.KillChatFocus
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-__del__,		<cyfunction ChatInputSet.__del__ at 0x0ADD7660>
+__del__,		<cyfunction ChatInputSet.__del__ at 0x0AE0B608>
 	arg0: self
 
 submodule.__del__
@@ -49,44 +49,44 @@ __module__,		uiChat
 submodule.__module__
 
 
-OnChangeChatMode,		<cyfunction ChatInputSet.OnChangeChatMode at 0x0ADD78C8>
+OnChangeChatMode,		<cyfunction ChatInputSet.OnChangeChatMode at 0x0AE0B870>
 	arg0: self
 
 submodule.OnChangeChatMode
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-SetEscapeEvent,		<cyfunction ChatInputSet.SetEscapeEvent at 0x0ADD7818>
+SetEscapeEvent,		<cyfunction ChatInputSet.SetEscapeEvent at 0x0AE0B7C0>
 	arg0: self
 	arg1: event
 
 submodule.SetEscapeEvent
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-Destroy,		<cyfunction ChatInputSet.Destroy at 0x0ADD7710>
+Destroy,		<cyfunction ChatInputSet.Destroy at 0x0AE0B6B8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-_ChatInputSet__Create,		<cyfunction ChatInputSet.__Create at 0x0ADD76B8>
+_ChatInputSet__Create,		<cyfunction ChatInputSet.__Create at 0x0AE0B660>
 	arg0: self
 
 submodule._ChatInputSet__Create
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-__init__,		<cyfunction ChatInputSet.__init__ at 0x0ADD7608>
+__init__,		<cyfunction ChatInputSet.__init__ at 0x0AE0B5B0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-BindInterface,		<cyfunction ChatInputSet.BindInterface at 0x0ADD7AD8>
+BindInterface,		<cyfunction ChatInputSet.BindInterface at 0x0AE0BA80>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-OnRender,		<cyfunction ChatInputSet.OnRender at 0x0ADD7B30>
+OnRender,		<cyfunction ChatInputSet.OnRender at 0x0AE0BAD8>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-OnRefreshChatMode,		<cyfunction ChatInputSet.OnRefreshChatMode at 0x0ADD7920>
+OnRefreshChatMode,		<cyfunction ChatInputSet.OnRefreshChatMode at 0x0AE0B8C8>
 	arg0: self
 
 submodule.OnRefreshChatMode
@@ -96,23 +96,23 @@ __qualname__,		ChatInputSet
 submodule.__qualname__
 
 
-SetReturnEvent,		<cyfunction ChatInputSet.SetReturnEvent at 0x0ADD7870>
+SetReturnEvent,		<cyfunction ChatInputSet.SetReturnEvent at 0x0AE0B818>
 	arg0: self
 	arg1: event
 
 submodule.SetReturnEvent
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-SetChatFocus,		<cyfunction ChatInputSet.SetChatFocus at 0x0ADD7978>
+SetChatFocus,		<cyfunction ChatInputSet.SetChatFocus at 0x0AE0B920>
 	arg0: self
 
 submodule.SetChatFocus
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-RefreshPosition,		<cyfunction ChatInputSet.RefreshPosition at 0x0ADD7A80>
+RefreshPosition,		<cyfunction ChatInputSet.RefreshPosition at 0x0AE0BA28>
 	arg0: self
 
 submodule.RefreshPosition
 Skipped: unbound method cython_function_or_method object must be called with ChatInputSet instance as first argument (got nothing instead)
-Close,		<cyfunction ChatInputSet.Close at 0x0ADD77C0>
+Close,		<cyfunction ChatInputSet.Close at 0x0AE0B768>
 	arg0: self
 
 submodule.Close
@@ -122,7 +122,7 @@ CHAT_OUTLINE_COLOR,		-1
 submodule.CHAT_OUTLINE_COLOR
 
 
-Open,		<cyfunction ChatInputSet.Open at 0x0ADD7768>
+Open,		<cyfunction ChatInputSet.Open at 0x0AE0B710>
 	arg0: self
 
 submodule.Open
@@ -135,7 +135,7 @@ submodule.__doc__
 
 
 class ChatWindow:
-SetHeight,		<cyfunction ChatWindow.SetHeight at 0x0ADD8298>
+SetHeight,		<cyfunction ChatWindow.SetHeight at 0x0AE0D240>
 	arg0: self
 	arg1: height
 
@@ -151,47 +151,47 @@ EDIT_LINE_HEIGHT,		25
 submodule.EDIT_LINE_HEIGHT
 
 
-IsEditMode,		<cyfunction ChatWindow.IsEditMode at 0x0ADD8138>
+IsEditMode,		<cyfunction ChatWindow.IsEditMode at 0x0AE0D0E0>
 	arg0: self
 
 submodule.IsEditMode
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-OnChangeChatMode,		<cyfunction ChatWindow.OnChangeChatMode at 0x0ADD8558>
+OnChangeChatMode,		<cyfunction ChatWindow.OnChangeChatMode at 0x0AE0D500>
 	arg0: self
 
 submodule.OnChangeChatMode
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
 ChatBackBoard,		<class 'uiChat.ChatBackBoard'>
 Skip: type object 'ChatBackBoard' has no attribute 'func_code'
-SetOpenChatLogEvent,		<cyfunction ChatWindow.SetOpenChatLogEvent at 0x0ADD80E0>
+SetOpenChatLogEvent,		<cyfunction ChatWindow.SetOpenChatLogEvent at 0x0AE0D088>
 	arg0: self
 	arg1: event
 
 submodule.SetOpenChatLogEvent
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction ChatWindow.Destroy at 0x0ADD7F50>
+Destroy,		<cyfunction ChatWindow.Destroy at 0x0AE0BEF8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-SetSize,		<cyfunction ChatWindow.SetSize at 0x0ADD8240>
+SetSize,		<cyfunction ChatWindow.SetSize at 0x0AE0D1E8>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction ChatWindow.__init__ at 0x0ADD7E48>
+__init__,		<cyfunction ChatWindow.__init__ at 0x0AE0BDF0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ChatWindow.OnUpdate at 0x0ADD83F8>
+OnUpdate,		<cyfunction ChatWindow.OnUpdate at 0x0AE0D3A0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-SetSendWhisperEvent,		<cyfunction ChatWindow.SetSendWhisperEvent at 0x0ADD8088>
+SetSendWhisperEvent,		<cyfunction ChatWindow.SetSendWhisperEvent at 0x0AE0D030>
 	arg0: self
 	arg1: event
 
@@ -204,12 +204,12 @@ BOARD_MIDDLE_COLOR,		2130706432
 submodule.BOARD_MIDDLE_COLOR
 
 
-SetChatFocus,		<cyfunction ChatWindow.SetChatFocus at 0x0ADD85B0>
+SetChatFocus,		<cyfunction ChatWindow.SetChatFocus at 0x0AE0D558>
 	arg0: self
 
 submodule.SetChatFocus
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-RefreshBoardViewState,		<cyfunction ChatWindow.RefreshBoardViewState at 0x0ADD83A0>
+RefreshBoardViewState,		<cyfunction ChatWindow.RefreshBoardViewState at 0x0AE0D348>
 	arg0: self
 
 submodule.RefreshBoardViewState
@@ -224,32 +224,32 @@ __doc__,		None
 submodule.__doc__
 
 
-_ChatWindow__RegisterChatColorDict,		<cyfunction ChatWindow.__RegisterChatColorDict at 0x0ADD7EF8>
+_ChatWindow__RegisterChatColorDict,		<cyfunction ChatWindow.__RegisterChatColorDict at 0x0AE0BEA0>
 	arg0: self
 
 submodule._ChatWindow__RegisterChatColorDict
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-RefreshBoardEditState,		<cyfunction ChatWindow.RefreshBoardEditState at 0x0ADD8348>
+RefreshBoardEditState,		<cyfunction ChatWindow.RefreshBoardEditState at 0x0AE0D2F0>
 	arg0: self
 
 submodule.RefreshBoardEditState
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction ChatWindow.__del__ at 0x0ADD7EA0>
+__del__,		<cyfunction ChatWindow.__del__ at 0x0AE0BE48>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-show_btnChatSizing,		<cyfunction ChatWindow.show_btnChatSizing at 0x0ADD86B8>
+show_btnChatSizing,		<cyfunction ChatWindow.show_btnChatSizing at 0x0AE0D660>
 	arg0: self
 
 submodule.show_btnChatSizing
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-Refresh,		<cyfunction ChatWindow.Refresh at 0x0ADD82F0>
+Refresh,		<cyfunction ChatWindow.Refresh at 0x0AE0D298>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-OnScroll,		<cyfunction ChatWindow.OnScroll at 0x0ADD8500>
+OnScroll,		<cyfunction ChatWindow.OnScroll at 0x0AE0D4A8>
 	arg0: self
 
 submodule.OnScroll
@@ -264,33 +264,33 @@ BOARD_START_COLOR,		0
 submodule.BOARD_START_COLOR
 
 
-hide_btnChatSizing,		<cyfunction ChatWindow.hide_btnChatSizing at 0x0ADD8660>
+hide_btnChatSizing,		<cyfunction ChatWindow.hide_btnChatSizing at 0x0AE0D608>
 	arg0: self
 
 submodule.hide_btnChatSizing
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-OnTop,		<cyfunction ChatWindow.OnTop at 0x0ADD84A8>
+OnTop,		<cyfunction ChatWindow.OnTop at 0x0AE0D450>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction ChatWindow.BindInterface at 0x0ADD8608>
+BindInterface,		<cyfunction ChatWindow.BindInterface at 0x0AE0D5B0>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-OnRender,		<cyfunction ChatWindow.OnRender at 0x0ADD8450>
+OnRender,		<cyfunction ChatWindow.OnRender at 0x0AE0D3F8>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-_ChatWindow__RefreshSizingBar,		<cyfunction ChatWindow.__RefreshSizingBar at 0x0ADD8190>
+_ChatWindow__RefreshSizingBar,		<cyfunction ChatWindow.__RefreshSizingBar at 0x0AE0D138>
 	arg0: self
 
 submodule._ChatWindow__RefreshSizingBar
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-CloseChat,		<cyfunction ChatWindow.CloseChat at 0x0ADD8030>
+CloseChat,		<cyfunction ChatWindow.CloseChat at 0x0AE0BFA8>
 	arg0: self
 
 submodule.CloseChat
@@ -300,12 +300,12 @@ __qualname__,		ChatWindow
 submodule.__qualname__
 
 
-OpenChat,		<cyfunction ChatWindow.OpenChat at 0x0ADD7FA8>
+OpenChat,		<cyfunction ChatWindow.OpenChat at 0x0AE0BF50>
 	arg0: self
 
 submodule.OpenChat
 Skipped: unbound method cython_function_or_method object must be called with ChatWindow instance as first argument (got nothing instead)
-SetPosition,		<cyfunction ChatWindow.SetPosition at 0x0ADD81E8>
+SetPosition,		<cyfunction ChatWindow.SetPosition at 0x0AE0D190>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -320,7 +320,7 @@ submodule.BOARD_END_COLOR
 
 
 class ChatLogWindow:
-_ChatLogWindow__CreateScrollBar,		<cyfunction ChatLogWindow.__CreateScrollBar at 0x0ADD89D0>
+_ChatLogWindow__CreateScrollBar,		<cyfunction ChatLogWindow.__CreateScrollBar at 0x0AE0D978>
 	arg0: self
 
 submodule._ChatLogWindow__CreateScrollBar
@@ -330,7 +330,7 @@ __module__,		uiChat
 submodule.__module__
 
 
-_ChatLogWindow__CreateButton,		<cyfunction ChatLogWindow.__CreateButton at 0x0ADD8978>
+_ChatLogWindow__CreateButton,		<cyfunction ChatLogWindow.__CreateButton at 0x0AE0D920>
 	arg0: self
 
 submodule._ChatLogWindow__CreateButton
@@ -347,55 +347,55 @@ CHAT_MODE_INDEX,		(0, 3, 4, 6, 1, 2, 11)
 submodule.CHAT_MODE_INDEX
 
 
-OnScroll,		<cyfunction ChatLogWindow.OnScroll at 0x0ADD8CE8>
+OnScroll,		<cyfunction ChatLogWindow.OnScroll at 0x0AE0DC90>
 	arg0: self
 
 submodule.OnScroll
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-_ChatLogWindow__CreateChatInputSet,		<cyfunction ChatLogWindow.__CreateChatInputSet at 0x0ADD88C8>
+_ChatLogWindow__CreateChatInputSet,		<cyfunction ChatLogWindow.__CreateChatInputSet at 0x0AE0D870>
 	arg0: self
 
 submodule._ChatLogWindow__CreateChatInputSet
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-ToggleChatMode,		<cyfunction ChatLogWindow.ToggleChatMode at 0x0ADD8B30>
+ToggleChatMode,		<cyfunction ChatLogWindow.ToggleChatMode at 0x0AE0DAD8>
 	arg0: self
 	arg1: mode
 
 submodule.ToggleChatMode
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ChatLogWindow.OnPressEscapeKey at 0x0ADD8D98>
+OnPressEscapeKey,		<cyfunction ChatLogWindow.OnPressEscapeKey at 0x0AE0DD40>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction ChatLogWindow.Destroy at 0x0ADD8A80>
+Destroy,		<cyfunction ChatLogWindow.Destroy at 0x0AE0DA28>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-SetSize,		<cyfunction ChatLogWindow.SetSize at 0x0ADD8B88>
+SetSize,		<cyfunction ChatLogWindow.SetSize at 0x0AE0DB30>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction ChatLogWindow.__init__ at 0x0ADD8870>
+__init__,		<cyfunction ChatLogWindow.__init__ at 0x0AE0D818>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-_ChatLogWindow__CreateWindow,		<cyfunction ChatLogWindow.__CreateWindow at 0x0ADD8920>
+_ChatLogWindow__CreateWindow,		<cyfunction ChatLogWindow.__CreateWindow at 0x0AE0D8C8>
 	arg0: self
 
 submodule._ChatLogWindow__CreateWindow
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction ChatLogWindow.OnMouseLeftButtonDown at 0x0ADD8E48>
+OnMouseLeftButtonDown,		<cyfunction ChatLogWindow.OnMouseLeftButtonDown at 0x0AE0DDF0>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-OnRender,		<cyfunction ChatLogWindow.OnRender at 0x0ADD8D40>
+OnRender,		<cyfunction ChatLogWindow.OnRender at 0x0AE0DCE8>
 	arg0: self
 
 submodule.OnRender
@@ -405,7 +405,7 @@ CHAT_LOG_WINDOW_MINIMUM_WIDTH,		450
 submodule.CHAT_LOG_WINDOW_MINIMUM_WIDTH
 
 
-OnResize,		<cyfunction ChatLogWindow.OnResize at 0x0ADD8C90>
+OnResize,		<cyfunction ChatLogWindow.OnResize at 0x0AE0DC38>
 	arg0: self
 
 submodule.OnResize
@@ -415,12 +415,12 @@ __qualname__,		ChatLogWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction ChatLogWindow.__del__ at 0x0ADD8A28>
+__del__,		<cyfunction ChatLogWindow.__del__ at 0x0AE0D9D0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-ToggleAllChatMode,		<cyfunction ChatLogWindow.ToggleAllChatMode at 0x0ADD8AD8>
+ToggleAllChatMode,		<cyfunction ChatLogWindow.ToggleAllChatMode at 0x0AE0DA80>
 	arg0: self
 
 submodule.ToggleAllChatMode
@@ -430,18 +430,18 @@ CHAT_LOG_WINDOW_MINIMUM_HEIGHT,		120
 submodule.CHAT_LOG_WINDOW_MINIMUM_HEIGHT
 
 
-Close,		<cyfunction ChatLogWindow.Close at 0x0ADD8C38>
+Close,		<cyfunction ChatLogWindow.Close at 0x0AE0DBE0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-BindInterface,		<cyfunction ChatLogWindow.BindInterface at 0x0ADD8DF0>
+BindInterface,		<cyfunction ChatLogWindow.BindInterface at 0x0AE0DD98>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with ChatLogWindow instance as first argument (got nothing instead)
-Open,		<cyfunction ChatLogWindow.Open at 0x0ADD8BE0>
+Open,		<cyfunction ChatLogWindow.Open at 0x0AE0DB88>
 	arg0: self
 
 submodule.Open
@@ -464,17 +464,17 @@ __module__,		uiChat
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction ChatModeButton.OnMouseOverOut at 0x0ADBC0E0>
+OnMouseOverOut,		<cyfunction ChatModeButton.OnMouseOverOut at 0x0ADEC088>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with ChatModeButton instance as first argument (got nothing instead)
-__del__,		<cyfunction ChatModeButton.__del__ at 0x0ADBC240>
+__del__,		<cyfunction ChatModeButton.__del__ at 0x0ADEC1E8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ChatModeButton instance as first argument (got nothing instead)
-SetText,		<cyfunction ChatModeButton.SetText at 0x0ADBC1E8>
+SetText,		<cyfunction ChatModeButton.SetText at 0x0ADEC190>
 	arg0: self
 	arg1: text
 
@@ -485,7 +485,7 @@ OVER_COLOR,		1291845631
 submodule.OVER_COLOR
 
 
-SAFE_SetEvent,		<cyfunction ChatModeButton.SAFE_SetEvent at 0x0ADBC298>
+SAFE_SetEvent,		<cyfunction ChatModeButton.SAFE_SetEvent at 0x0ADEC240>
 	arg0: self
 	arg1: event
 
@@ -496,7 +496,7 @@ BUTTON_STATE_UP,		0
 submodule.BUTTON_STATE_UP
 
 
-SetSize,		<cyfunction ChatModeButton.SetSize at 0x0ADBC138>
+SetSize,		<cyfunction ChatModeButton.SetSize at 0x0ADEC0E0>
 	arg0: self
 	arg1: width
 	arg2: height
@@ -508,7 +508,7 @@ BUTTON_STATE_OVER,		1
 submodule.BUTTON_STATE_OVER
 
 
-OnMouseLeftButtonDown,		<cyfunction ChatModeButton.OnMouseLeftButtonDown at 0x0ADBC030>
+OnMouseLeftButtonDown,		<cyfunction ChatModeButton.OnMouseLeftButtonDown at 0x0ADEC030>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
@@ -523,22 +523,22 @@ __qualname__,		ChatModeButton
 submodule.__qualname__
 
 
-OnMouseLeftButtonUp,		<cyfunction ChatModeButton.OnMouseLeftButtonUp at 0x0ADBC088>
+OnMouseLeftButtonUp,		<cyfunction ChatModeButton.OnMouseLeftButtonUp at 0x0ADDCFA8>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with ChatModeButton instance as first argument (got nothing instead)
-__init__,		<cyfunction ChatModeButton.__init__ at 0x0ADBC2F0>
+__init__,		<cyfunction ChatModeButton.__init__ at 0x0ADEC298>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ChatModeButton instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction ChatModeButton.OnMouseOverIn at 0x0ADBC190>
+OnMouseOverIn,		<cyfunction ChatModeButton.OnMouseOverIn at 0x0ADEC138>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with ChatModeButton instance as first argument (got nothing instead)
-OnRender,		<cyfunction ChatModeButton.OnRender at 0x0ADABFA8>
+OnRender,		<cyfunction ChatModeButton.OnRender at 0x0ADDCF50>
 	arg0: self
 
 submodule.OnRender
@@ -551,7 +551,7 @@ submodule.__doc__
 
 
 class ChatLine:
-_ChatLine__SendGuildChatPacket,		<cyfunction ChatLine.__SendGuildChatPacket at 0x0ADC4FA8>
+_ChatLine__SendGuildChatPacket,		<cyfunction ChatLine.__SendGuildChatPacket at 0x0ADF7F50>
 	arg0: self
 	arg1: text
 
@@ -562,85 +562,85 @@ __module__,		uiChat
 submodule.__module__
 
 
-SetTabEvent,		<cyfunction ChatLine.SetTabEvent at 0x0ADC4D98>
+SetTabEvent,		<cyfunction ChatLine.SetTabEvent at 0x0ADF7D40>
 	arg0: self
 	arg1: event
 
 submodule.SetTabEvent
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-ChangeChatMode,		<cyfunction ChatLine.ChangeChatMode at 0x0ADC4BE0>
+ChangeChatMode,		<cyfunction ChatLine.ChangeChatMode at 0x0ADF7B88>
 	arg0: self
 
 submodule.ChangeChatMode
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-SetChatMode,		<cyfunction ChatLine.SetChatMode at 0x0ADAB298>
+SetChatMode,		<cyfunction ChatLine.SetChatMode at 0x0ADDC240>
 	arg0: self
 	arg1: mode
 
 submodule.SetChatMode
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__ClearChat,		<cyfunction ChatLine.__ClearChat at 0x0ADC4E48>
+_ChatLine__ClearChat,		<cyfunction ChatLine.__ClearChat at 0x0ADF7DF0>
 	arg0: self
 
 submodule._ChatLine__ClearChat
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-RunCloseEvent,		<cyfunction ChatLine.RunCloseEvent at 0x0ADD7500>
+RunCloseEvent,		<cyfunction ChatLine.RunCloseEvent at 0x0AE0B4A8>
 	arg0: self
 
 submodule.RunCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-__init__,		<cyfunction ChatLine.__init__ at 0x0ADABEF8>
+__init__,		<cyfunction ChatLine.__init__ at 0x0ADDCEA0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-CheckWrongString,		<cyfunction ChatLine.CheckWrongString at 0x0ADD73F8>
+CheckWrongString,		<cyfunction ChatLine.CheckWrongString at 0x0AE0B3A0>
 	arg0: self
 	arg1: text
 
 submodule.CheckWrongString
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-CheckString,		<cyfunction ChatLine.CheckString at 0x0ADD73A0>
+CheckString,		<cyfunction ChatLine.CheckString at 0x0AE0B348>
 	arg0: self
 	arg1: text
 	arg2: idx
 
 submodule.CheckString
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction ChatLine.OnMouseLeftButtonDown at 0x0ADD75B0>
+OnMouseLeftButtonDown,		<cyfunction ChatLine.OnMouseLeftButtonDown at 0x0AE0B558>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-GetCurrentChatModeName,		<cyfunction ChatLine.GetCurrentChatModeName at 0x0ADC4C38>
+GetCurrentChatModeName,		<cyfunction ChatLine.GetCurrentChatModeName at 0x0ADF7BE0>
 	arg0: self
 
 submodule.GetCurrentChatModeName
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-SAFE_SetEscapeEvent,		<cyfunction ChatLine.SAFE_SetEscapeEvent at 0x0ADC4C90>
+SAFE_SetEscapeEvent,		<cyfunction ChatLine.SAFE_SetEscapeEvent at 0x0ADF7C38>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetEscapeEvent
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-OnIMEUpdate,		<cyfunction ChatLine.OnIMEUpdate at 0x0ADD7138>
+OnIMEUpdate,		<cyfunction ChatLine.OnIMEUpdate at 0x0AE0B0E0>
 	arg0: self
 
 submodule.OnIMEUpdate
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-SAFE_SetReturnEvent,		<cyfunction ChatLine.SAFE_SetReturnEvent at 0x0ADC4CE8>
+SAFE_SetReturnEvent,		<cyfunction ChatLine.SAFE_SetReturnEvent at 0x0ADF7C90>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetReturnEvent
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__SendShoutChatPacket,		<cyfunction ChatLine.__SendShoutChatPacket at 0x0ADD7030>
+_ChatLine__SendShoutChatPacket,		<cyfunction ChatLine.__SendShoutChatPacket at 0x0ADF7FA8>
 	arg0: self
 	arg1: text
 
 submodule._ChatLine__SendShoutChatPacket
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-IsNumberic,		<cyfunction ChatLine.IsNumberic at 0x0ADD7348>
+IsNumberic,		<cyfunction ChatLine.IsNumberic at 0x0AE0B2F0>
 	arg0: self
 	arg1: text
 
@@ -651,62 +651,62 @@ __doc__,		None
 submodule.__doc__
 
 
-_ChatLine__SendTalkingChatPacket,		<cyfunction ChatLine.__SendTalkingChatPacket at 0x0ADD7088>
+_ChatLine__SendTalkingChatPacket,		<cyfunction ChatLine.__SendTalkingChatPacket at 0x0AE0B030>
 	arg0: self
 	arg1: text
 
 submodule._ChatLine__SendTalkingChatPacket
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__PrevLastSentenceStack,		<cyfunction ChatLine.__PrevLastSentenceStack at 0x0ADD7240>
+_ChatLine__PrevLastSentenceStack,		<cyfunction ChatLine.__PrevLastSentenceStack at 0x0AE0B1E8>
 	arg0: self
 
 submodule._ChatLine__PrevLastSentenceStack
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-__del__,		<cyfunction ChatLine.__del__ at 0x0ADABF50>
+__del__,		<cyfunction ChatLine.__del__ at 0x0ADDCEF8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-OnIMETab,		<cyfunction ChatLine.OnIMETab at 0x0ADD70E0>
+OnIMETab,		<cyfunction ChatLine.OnIMETab at 0x0AE0B088>
 	arg0: self
 
 submodule.OnIMETab
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__SendChatPacket,		<cyfunction ChatLine.__SendChatPacket at 0x0ADC4EF8>
+_ChatLine__SendChatPacket,		<cyfunction ChatLine.__SendChatPacket at 0x0ADF7EA0>
 	arg0: self
 	arg1: text
 	arg2: type
 
 submodule._ChatLine__SendChatPacket
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction ChatLine.OnPressEscapeKey at 0x0ADD74A8>
+OnPressEscapeKey,		<cyfunction ChatLine.OnPressEscapeKey at 0x0AE0B450>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__ResetChat,		<cyfunction ChatLine.__ResetChat at 0x0ADC4EA0>
+_ChatLine__ResetChat,		<cyfunction ChatLine.__ResetChat at 0x0ADF7E48>
 	arg0: self
 
 submodule._ChatLine__ResetChat
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__SendPartyChatPacket,		<cyfunction ChatLine.__SendPartyChatPacket at 0x0ADC4F50>
+_ChatLine__SendPartyChatPacket,		<cyfunction ChatLine.__SendPartyChatPacket at 0x0ADF7EF8>
 	arg0: self
 	arg1: text
 
 submodule._ChatLine__SendPartyChatPacket
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-BindInterface,		<cyfunction ChatLine.BindInterface at 0x0ADD7558>
+BindInterface,		<cyfunction ChatLine.BindInterface at 0x0AE0B500>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-GetChatMode,		<cyfunction ChatLine.GetChatMode at 0x0ADAB1E8>
+GetChatMode,		<cyfunction ChatLine.GetChatMode at 0x0ADDC190>
 	arg0: self
 
 submodule.GetChatMode
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__CheckChatMark,		<cyfunction ChatLine.__CheckChatMark at 0x0ADD7190>
+_ChatLine__CheckChatMark,		<cyfunction ChatLine.__CheckChatMark at 0x0AE0B138>
 	arg0: self
 
 submodule._ChatLine__CheckChatMark
@@ -716,34 +716,34 @@ __qualname__,		ChatLine
 submodule.__qualname__
 
 
-OpenChat,		<cyfunction ChatLine.OpenChat at 0x0ADC4DF0>
+OpenChat,		<cyfunction ChatLine.OpenChat at 0x0ADF7D98>
 	arg0: self
 
 submodule.OpenChat
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-OnIMEKeyDown,		<cyfunction ChatLine.OnIMEKeyDown at 0x0ADD71E8>
+OnIMEKeyDown,		<cyfunction ChatLine.OnIMEKeyDown at 0x0AE0B190>
 	arg0: self
 	arg1: key
 
 submodule.OnIMEKeyDown
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__NextLastSentenceStack,		<cyfunction ChatLine.__NextLastSentenceStack at 0x0ADD7298>
+_ChatLine__NextLastSentenceStack,		<cyfunction ChatLine.__NextLastSentenceStack at 0x0AE0B240>
 	arg0: self
 
 submodule._ChatLine__NextLastSentenceStack
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction ChatLine.OnIMEReturn at 0x0ADD7450>
+OnIMEReturn,		<cyfunction ChatLine.OnIMEReturn at 0x0AE0B3F8>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-SAFE_SetTabEvent,		<cyfunction ChatLine.SAFE_SetTabEvent at 0x0ADC4D40>
+SAFE_SetTabEvent,		<cyfunction ChatLine.SAFE_SetTabEvent at 0x0ADF7CE8>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetTabEvent
 Skipped: unbound method cython_function_or_method object must be called with ChatLine instance as first argument (got nothing instead)
-_ChatLine__PushLastSentenceStack,		<cyfunction ChatLine.__PushLastSentenceStack at 0x0ADD72F0>
+_ChatLine__PushLastSentenceStack,		<cyfunction ChatLine.__PushLastSentenceStack at 0x0AE0B298>
 	arg0: self
 	arg1: text
 

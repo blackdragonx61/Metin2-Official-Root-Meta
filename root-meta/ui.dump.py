@@ -4,7 +4,7 @@ key: dbg, val: <module 'dbg' (built-in)>
 key: DragButton, val: <class 'ui.DragButton'>
 key: skill, val: <module 'skill' (built-in)>
 key: ime, val: <module 'ime' (built-in)>
-key: MakeImageBox, val: <cyfunction MakeImageBox at 0x0AC163F8>
+key: MakeImageBox, val: <cyfunction MakeImageBox at 0x0AC463A0>
 key: ScrollBar, val: <class 'ui.ScrollBar'>
 key: RadioButtonGroup, val: ui.RadioButtonGroup
 key: localeInfo, val: <module 'localeInfo' (built-in)>
@@ -18,9 +18,9 @@ key: BoardWithTitleBar, val: <class 'ui.BoardWithTitleBar'>
 key: RenderTarget, val: <class 'ui.RenderTarget'>
 key: item, val: <module 'item' (built-in)>
 key: SlotBar, val: <class 'ui.SlotBar'>
-key: GetHyperlink, val: <cyfunction GetHyperlink at 0x0AC16608>
+key: GetHyperlink, val: <cyfunction GetHyperlink at 0x0AC465B0>
 key: ScriptWindow, val: <class 'ui.ScriptWindow'>
-key: MakeTextLine, val: <cyfunction MakeTextLine at 0x0AC16450>
+key: MakeTextLine, val: <cyfunction MakeTextLine at 0x0AC463F8>
 key: __mem_func__, val: ui.__mem_func__
 key: BRIGHT_COLOR, val: -5066062
 key: ComboBox, val: <class 'ui.ComboBox'>
@@ -29,7 +29,7 @@ key: createToolTipWindowDict, val: {'TEXT': <class 'ui.TextLine'>}
 key: ThinScrollBar, val: <class 'ui.ThinScrollBar'>
 key: SmallThinScrollBar, val: <class 'ui.SmallThinScrollBar'>
 key: Line, val: <class 'ui.Line'>
-key: MakeButton, val: <cyfunction MakeButton at 0x0AC164A8>
+key: MakeButton, val: <cyfunction MakeButton at 0x0AC46450>
 key: TitleBar, val: <class 'ui.TitleBar'>
 key: Box, val: <class 'ui.Box'>
 key: __builtins__, val: <module '__builtin__' (built-in)>
@@ -47,9 +47,9 @@ key: app, val: <module 'app' (built-in)>
 key: HALF_WHITE_COLOR, val: 872415231
 key: CandidateListBox, val: <class 'ui.CandidateListBox'>
 key: Board, val: <class 'ui.Board'>
-key: GenerateColor, val: <cyfunction GenerateColor at 0x0AC16558>
+key: GenerateColor, val: <cyfunction GenerateColor at 0x0AC46500>
 key: PythonScriptLoader, val: <class 'ui.PythonScriptLoader'>
-key: RenderRoundBox, val: <cyfunction RenderRoundBox at 0x0AC16500>
+key: RenderRoundBox, val: <cyfunction RenderRoundBox at 0x0AC464A8>
 key: MoveImageBox, val: <class 'ui.MoveImageBox'>
 key: MarkBox, val: <class 'ui.MarkBox'>
 key: Bar3D, val: <class 'ui.Bar3D'>
@@ -60,7 +60,7 @@ key: __test__, val: {}
 key: WHITE_COLOR, val: 2147483647
 key: ListBox, val: <class 'ui.ListBox'>
 key: guild, val: <module 'guild' (built-in)>
-key: RegisterCandidateWindowClass, val: <cyfunction RegisterCandidateWindowClass at 0x078B8450>
+key: RegisterCandidateWindowClass, val: <cyfunction RegisterCandidateWindowClass at 0x0AC013F8>
 key: MiddleBoard, val: <class 'ui.MiddleBoard'>
 key: RED_COLOR, val: 2147418112
 key: ThinBoardGold, val: <class 'ui.ThinBoardGold'>
@@ -68,7 +68,7 @@ key: AniImageBox, val: <class 'ui.AniImageBox'>
 key: Window, val: <class 'ui.Window'>
 key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: grp, val: <module 'grp' (built-in)>
-key: EnablePaste, val: <cyfunction EnablePaste at 0x0AC165B0>
+key: EnablePaste, val: <cyfunction EnablePaste at 0x0AC46558>
 key: DARK_COLOR, val: -13421773
 key: __package__, val: None
 key: ToggleButton, val: <class 'ui.ToggleButton'>
@@ -83,14 +83,14 @@ key: SlotWindow, val: <class 'ui.SlotWindow'>
 key: EmptyCandidateWindow, val: <class 'ui.EmptyCandidateWindow'>
 key: MoveTextLine, val: <class 'ui.MoveTextLine'>
 key: Gauge, val: <class 'ui.Gauge'>
-key: MakeSlotBar, val: <cyfunction MakeSlotBar at 0x0AC163A0>
+key: MakeSlotBar, val: <cyfunction MakeSlotBar at 0x0AC46348>
 key: EditLine, val: <class 'ui.EditLine'>
 key: BACKGROUND_COLOR, val: -16777216
-key: RegisterToolTipWindow, val: <cyfunction RegisterToolTipWindow at 0x078B84A8>
+key: RegisterToolTipWindow, val: <cyfunction RegisterToolTipWindow at 0x0AC01450>
 
 
 class SliderBar:
-_SliderBar__CreateBackGroundImage,		<cyfunction SliderBar.__CreateBackGroundImage at 0x0AC12558>
+_SliderBar__CreateBackGroundImage,		<cyfunction SliderBar.__CreateBackGroundImage at 0x0AC43500>
 	arg0: self
 
 submodule._SliderBar__CreateBackGroundImage
@@ -100,23 +100,23 @@ __module__,		ui
 submodule.__module__
 
 
-Enable,		<cyfunction SliderBar.Enable at 0x0AC12768>
+Enable,		<cyfunction SliderBar.Enable at 0x0AC43710>
 	arg0: self
 
 submodule.Enable
 Skipped: unbound method cython_function_or_method object must be called with SliderBar instance as first argument (got nothing instead)
-__del__,		<cyfunction SliderBar.__del__ at 0x0AC12500>
+__del__,		<cyfunction SliderBar.__del__ at 0x0AC434A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SliderBar instance as first argument (got nothing instead)
-SetEvent,		<cyfunction SliderBar.SetEvent at 0x0AC12710>
+SetEvent,		<cyfunction SliderBar.SetEvent at 0x0AC436B8>
 	arg0: self
 	arg1: event
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with SliderBar instance as first argument (got nothing instead)
-SetSliderPos,		<cyfunction SliderBar.SetSliderPos at 0x0AC12660>
+SetSliderPos,		<cyfunction SliderBar.SetSliderPos at 0x0AC43608>
 	arg0: self
 	arg1: pos
 
@@ -127,7 +127,7 @@ __qualname__,		SliderBar
 submodule.__qualname__
 
 
-GetSliderPos,		<cyfunction SliderBar.GetSliderPos at 0x0AC126B8>
+GetSliderPos,		<cyfunction SliderBar.GetSliderPos at 0x0AC43660>
 	arg0: self
 
 submodule.GetSliderPos
@@ -137,22 +137,22 @@ __doc__,		None
 submodule.__doc__
 
 
-_SliderBar__OnMove,		<cyfunction SliderBar.__OnMove at 0x0AC12608>
+_SliderBar__OnMove,		<cyfunction SliderBar.__OnMove at 0x0AC435B0>
 	arg0: self
 
 submodule._SliderBar__OnMove
 Skipped: unbound method cython_function_or_method object must be called with SliderBar instance as first argument (got nothing instead)
-Disable,		<cyfunction SliderBar.Disable at 0x0AC127C0>
+Disable,		<cyfunction SliderBar.Disable at 0x0AC43768>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with SliderBar instance as first argument (got nothing instead)
-__init__,		<cyfunction SliderBar.__init__ at 0x0AC124A8>
+__init__,		<cyfunction SliderBar.__init__ at 0x0AC43450>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SliderBar instance as first argument (got nothing instead)
-_SliderBar__CreateCursor,		<cyfunction SliderBar.__CreateCursor at 0x0AC125B0>
+_SliderBar__CreateCursor,		<cyfunction SliderBar.__CreateCursor at 0x0AC43558>
 	arg0: self
 
 submodule._SliderBar__CreateCursor
@@ -160,7 +160,7 @@ Skipped: unbound method cython_function_or_method object must be called with Sli
 
 
 class DragButton:
-TurnOnCallBack,		<cyfunction DragButton.TurnOnCallBack at 0x07868348>
+TurnOnCallBack,		<cyfunction DragButton.TurnOnCallBack at 0x0ABA92F0>
 	arg0: self
 
 submodule.TurnOnCallBack
@@ -170,7 +170,7 @@ __module__,		ui
 submodule.__module__
 
 
-SetRestrictMovementArea,		<cyfunction DragButton.SetRestrictMovementArea at 0x078682F0>
+SetRestrictMovementArea,		<cyfunction DragButton.SetRestrictMovementArea at 0x0ABA9298>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -179,7 +179,7 @@ SetRestrictMovementArea,		<cyfunction DragButton.SetRestrictMovementArea at 0x07
 
 submodule.SetRestrictMovementArea
 Skipped: unbound method cython_function_or_method object must be called with DragButton instance as first argument (got nothing instead)
-__del__,		<cyfunction DragButton.__del__ at 0x078681E8>
+__del__,		<cyfunction DragButton.__del__ at 0x0ABA9190>
 	arg0: self
 
 submodule.__del__
@@ -194,29 +194,29 @@ __qualname__,		DragButton
 submodule.__qualname__
 
 
-SetMoveEvent,		<cyfunction DragButton.SetMoveEvent at 0x07868298>
+SetMoveEvent,		<cyfunction DragButton.SetMoveEvent at 0x0ABA9240>
 	arg0: self
 	arg1: event
 
 submodule.SetMoveEvent
 Skipped: unbound method cython_function_or_method object must be called with DragButton instance as first argument (got nothing instead)
-TurnOffCallBack,		<cyfunction DragButton.TurnOffCallBack at 0x078683A0>
+TurnOffCallBack,		<cyfunction DragButton.TurnOffCallBack at 0x0ABA9348>
 	arg0: self
 
 submodule.TurnOffCallBack
 Skipped: unbound method cython_function_or_method object must be called with DragButton instance as first argument (got nothing instead)
-__init__,		<cyfunction DragButton.__init__ at 0x07868190>
+__init__,		<cyfunction DragButton.__init__ at 0x0ABA9138>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with DragButton instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction DragButton.RegisterWindow at 0x07868240>
+RegisterWindow,		<cyfunction DragButton.RegisterWindow at 0x0ABA91E8>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with DragButton instance as first argument (got nothing instead)
-OnMove,		<cyfunction DragButton.OnMove at 0x078683F8>
+OnMove,		<cyfunction DragButton.OnMove at 0x0ABA93A0>
 	arg0: self
 
 submodule.OnMove
@@ -229,19 +229,19 @@ __module__,		ui
 submodule.__module__
 
 
-SetUpButtonUpVisual,		<cyfunction ScrollBar.SetUpButtonUpVisual at 0x0AC12138>
+SetUpButtonUpVisual,		<cyfunction ScrollBar.SetUpButtonUpVisual at 0x0AC430E0>
 	arg0: self
 	arg1: img_path
 
 submodule.SetUpButtonUpVisual
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetScrollStep,		<cyfunction ScrollBar.SetScrollStep at 0x0786DDF0>
+SetScrollStep,		<cyfunction ScrollBar.SetScrollStep at 0x0ABAED98>
 	arg0: self
 	arg1: step
 
 submodule.SetScrollStep
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetPos,		<cyfunction ScrollBar.SetPos at 0x0786DD98>
+SetPos,		<cyfunction ScrollBar.SetPos at 0x0ABAED40>
 	arg0: self
 	arg1: pos
 	arg2: event_callable
@@ -249,29 +249,29 @@ SetPos,		<cyfunction ScrollBar.SetPos at 0x0786DD98>
 
 submodule.SetPos
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-UpdateBarSlot,		<cyfunction ScrollBar.UpdateBarSlot at 0x0786DCE8>
+UpdateBarSlot,		<cyfunction ScrollBar.UpdateBarSlot at 0x0ABAEC90>
 	arg0: self
 
 submodule.UpdateBarSlot
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetDownButtonUpVisual,		<cyfunction ScrollBar.SetDownButtonUpVisual at 0x0AC12240>
+SetDownButtonUpVisual,		<cyfunction ScrollBar.SetDownButtonUpVisual at 0x0AC431E8>
 	arg0: self
 	arg1: img_path
 
 submodule.SetDownButtonUpVisual
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-Destroy,		<cyfunction ScrollBar.Destroy at 0x0786DA80>
+Destroy,		<cyfunction ScrollBar.Destroy at 0x0ABAEA28>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetUpScrollButtonEvent,		<cyfunction ScrollBar.SetUpScrollButtonEvent at 0x0786DAD8>
+SetUpScrollButtonEvent,		<cyfunction ScrollBar.SetUpScrollButtonEvent at 0x0ABAEA80>
 	arg0: self
 	arg1: event
 
 submodule.SetUpScrollButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetMiddleBarSize,		<cyfunction ScrollBar.SetMiddleBarSize at 0x0786DC38>
+SetMiddleBarSize,		<cyfunction ScrollBar.SetMiddleBarSize at 0x0ABAEBE0>
 	arg0: self
 	arg1: pageScale
 
@@ -282,12 +282,12 @@ SCROLLBAR_BUTTON_HEIGHT,		17
 submodule.SCROLLBAR_BUTTON_HEIGHT
 
 
-GetPos,		<cyfunction ScrollBar.GetPos at 0x0786DD40>
+GetPos,		<cyfunction ScrollBar.GetPos at 0x0ABAECE8>
 	arg0: self
 
 submodule.GetPos
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-OnDown,		<cyfunction ScrollBar.OnDown at 0x0786DEF8>
+OnDown,		<cyfunction ScrollBar.OnDown at 0x0ABAEEA0>
 	arg0: self
 
 submodule.OnDown
@@ -297,23 +297,23 @@ TEMP_SPACE,		7
 submodule.TEMP_SPACE
 
 
-GetScrollStep,		<cyfunction ScrollBar.GetScrollStep at 0x0786DE48>
+GetScrollStep,		<cyfunction ScrollBar.GetScrollStep at 0x0ABAEDF0>
 	arg0: self
 
 submodule.GetScrollStep
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetUpButtonSizeRefresh,		<cyfunction ScrollBar.SetUpButtonSizeRefresh at 0x0AC120E0>
+SetUpButtonSizeRefresh,		<cyfunction ScrollBar.SetUpButtonSizeRefresh at 0x0AC43088>
 	arg0: self
 
 submodule.SetUpButtonSizeRefresh
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetDownScrollButtonEvent,		<cyfunction ScrollBar.SetDownScrollButtonEvent at 0x0786DB30>
+SetDownScrollButtonEvent,		<cyfunction ScrollBar.SetDownScrollButtonEvent at 0x0ABAEAD8>
 	arg0: self
 	arg1: event
 
 submodule.SetDownScrollButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-__init__,		<cyfunction ScrollBar.__init__ at 0x0786D978>
+__init__,		<cyfunction ScrollBar.__init__ at 0x0ABAE920>
 	arg0: self
 
 submodule.__init__
@@ -335,36 +335,36 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMove,		<cyfunction ScrollBar.OnMove at 0x0786DF50>
+OnMove,		<cyfunction ScrollBar.OnMove at 0x0ABAEEF8>
 	arg0: self
 	arg1: event_callable
 	default: True
 
 submodule.OnMove
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetScrollEvent,		<cyfunction ScrollBar.SetScrollEvent at 0x0786DBE0>
+SetScrollEvent,		<cyfunction ScrollBar.SetScrollEvent at 0x0ABAEB88>
 	arg0: self
 	arg1: event
 
 submodule.SetScrollEvent
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-__del__,		<cyfunction ScrollBar.__del__ at 0x0786D9D0>
+__del__,		<cyfunction ScrollBar.__del__ at 0x0ABAE978>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction ScrollBar.OnMouseLeftButtonDown at 0x0786DFA8>
+OnMouseLeftButtonDown,		<cyfunction ScrollBar.OnMouseLeftButtonDown at 0x0ABAEF50>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetDownButtonOverVisual,		<cyfunction ScrollBar.SetDownButtonOverVisual at 0x0AC12298>
+SetDownButtonOverVisual,		<cyfunction ScrollBar.SetDownButtonOverVisual at 0x0AC43240>
 	arg0: self
 	arg1: img_path
 
 submodule.SetDownButtonOverVisual
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-LockScroll,		<cyfunction ScrollBar.LockScroll at 0x0AC12030>
+LockScroll,		<cyfunction ScrollBar.LockScroll at 0x0ABAEFA8>
 	arg0: self
 
 submodule.LockScroll
@@ -374,13 +374,13 @@ MIDDLE_BAR_DOWNER_PLACE,		4
 submodule.MIDDLE_BAR_DOWNER_PLACE
 
 
-SetEvnetFuncCall,		<cyfunction ScrollBar.SetEvnetFuncCall at 0x0786DB88>
+SetEvnetFuncCall,		<cyfunction ScrollBar.SetEvnetFuncCall at 0x0ABAEB30>
 	arg0: self
 	arg1: callable
 
 submodule.SetEvnetFuncCall
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-CreateScrollBar,		<cyfunction ScrollBar.CreateScrollBar at 0x0786DA28>
+CreateScrollBar,		<cyfunction ScrollBar.CreateScrollBar at 0x0ABAE9D0>
 	arg0: self
 
 submodule.CreateScrollBar
@@ -390,12 +390,12 @@ SCROLLBAR_BUTTON_WIDTH,		17
 submodule.SCROLLBAR_BUTTON_WIDTH
 
 
-OnUp,		<cyfunction ScrollBar.OnUp at 0x0786DEA0>
+OnUp,		<cyfunction ScrollBar.OnUp at 0x0ABAEE48>
 	arg0: self
 
 submodule.OnUp
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetUpButtonDownVisual,		<cyfunction ScrollBar.SetUpButtonDownVisual at 0x0AC121E8>
+SetUpButtonDownVisual,		<cyfunction ScrollBar.SetUpButtonDownVisual at 0x0AC43190>
 	arg0: self
 	arg1: img_path
 
@@ -406,12 +406,12 @@ SCROLLBAR_MIDDLE_HEIGHT,		9
 submodule.SCROLLBAR_MIDDLE_HEIGHT
 
 
-UnlockScroll,		<cyfunction ScrollBar.UnlockScroll at 0x0AC12088>
+UnlockScroll,		<cyfunction ScrollBar.UnlockScroll at 0x0AC43030>
 	arg0: self
 
 submodule.UnlockScroll
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetDownButtonDownVisual,		<cyfunction ScrollBar.SetDownButtonDownVisual at 0x0AC122F0>
+SetDownButtonDownVisual,		<cyfunction ScrollBar.SetDownButtonDownVisual at 0x0AC43298>
 	arg0: self
 	arg1: img_path
 
@@ -422,13 +422,13 @@ __qualname__,		ScrollBar
 submodule.__qualname__
 
 
-SetUpButtonOverVisual,		<cyfunction ScrollBar.SetUpButtonOverVisual at 0x0AC12190>
+SetUpButtonOverVisual,		<cyfunction ScrollBar.SetUpButtonOverVisual at 0x0AC43138>
 	arg0: self
 	arg1: img_path
 
 submodule.SetUpButtonOverVisual
 Skipped: unbound method cython_function_or_method object must be called with ScrollBar instance as first argument (got nothing instead)
-SetScrollBarSize,		<cyfunction ScrollBar.SetScrollBarSize at 0x0786DC90>
+SetScrollBarSize,		<cyfunction ScrollBar.SetScrollBarSize at 0x0ABAEC38>
 	arg0: self
 	arg1: height
 
@@ -457,7 +457,7 @@ B,		3
 submodule.B
 
 
-__del__,		<cyfunction ThinBoard.__del__ at 0x0786AF50>
+__del__,		<cyfunction ThinBoard.__del__ at 0x0ABABEF8>
 	arg0: self
 
 submodule.__del__
@@ -477,24 +477,24 @@ T,		2
 submodule.T
 
 
-HideInternal,		<cyfunction ThinBoard.HideInternal at 0x0786D088>
+HideInternal,		<cyfunction ThinBoard.HideInternal at 0x0ABAE030>
 	arg0: self
 
 submodule.HideInternal
 Skipped: unbound method cython_function_or_method object must be called with ThinBoard instance as first argument (got nothing instead)
-ShowInternal,		<cyfunction ThinBoard.ShowInternal at 0x0786D030>
+ShowInternal,		<cyfunction ThinBoard.ShowInternal at 0x0ABABFA8>
 	arg0: self
 
 submodule.ShowInternal
 Skipped: unbound method cython_function_or_method object must be called with ThinBoard instance as first argument (got nothing instead)
-SetSize,		<cyfunction ThinBoard.SetSize at 0x0786AFA8>
+SetSize,		<cyfunction ThinBoard.SetSize at 0x0ABABF50>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ThinBoard instance as first argument (got nothing instead)
-__init__,		<cyfunction ThinBoard.__init__ at 0x0786AEF8>
+__init__,		<cyfunction ThinBoard.__init__ at 0x0ABABEA0>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -569,13 +569,13 @@ __doc__,		None
 submodule.__doc__
 
 
-RegisterWindow,		<cyfunction Bar.RegisterWindow at 0x07868768>
+RegisterWindow,		<cyfunction Bar.RegisterWindow at 0x0ABA9710>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with Bar instance as first argument (got nothing instead)
-SetColor,		<cyfunction Bar.SetColor at 0x078687C0>
+SetColor,		<cyfunction Bar.SetColor at 0x0ABA9768>
 	arg0: self
 	arg1: color
 
@@ -599,7 +599,7 @@ B,		3
 submodule.B
 
 
-__del__,		<cyfunction ShopDecoTitle.__del__ at 0x0786D6B8>
+__del__,		<cyfunction ShopDecoTitle.__del__ at 0x0ABAE660>
 	arg0: self
 
 submodule.__del__
@@ -614,7 +614,7 @@ R,		1
 submodule.R
 
 
-_ShopDecoTitle__GetFilePath,		<cyfunction ShopDecoTitle.__GetFilePath at 0x0786D710>
+_ShopDecoTitle__GetFilePath,		<cyfunction ShopDecoTitle.__GetFilePath at 0x0ABAE6B8>
 	arg0: self
 	arg1: type
 
@@ -625,24 +625,24 @@ T,		2
 submodule.T
 
 
-HideInternal,		<cyfunction ShopDecoTitle.HideInternal at 0x0786D818>
+HideInternal,		<cyfunction ShopDecoTitle.HideInternal at 0x0ABAE7C0>
 	arg0: self
 
 submodule.HideInternal
 Skipped: unbound method cython_function_or_method object must be called with ShopDecoTitle instance as first argument (got nothing instead)
-ShowInternal,		<cyfunction ShopDecoTitle.ShowInternal at 0x0786D7C0>
+ShowInternal,		<cyfunction ShopDecoTitle.ShowInternal at 0x0ABAE768>
 	arg0: self
 
 submodule.ShowInternal
 Skipped: unbound method cython_function_or_method object must be called with ShopDecoTitle instance as first argument (got nothing instead)
-SetSize,		<cyfunction ShopDecoTitle.SetSize at 0x0786D768>
+SetSize,		<cyfunction ShopDecoTitle.SetSize at 0x0ABAE710>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ShopDecoTitle instance as first argument (got nothing instead)
-__init__,		<cyfunction ShopDecoTitle.__init__ at 0x0786D660>
+__init__,		<cyfunction ShopDecoTitle.__init__ at 0x0ABAE608>
 	arg0: self
 	arg1: type
 	arg2: layer
@@ -708,18 +708,18 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction ReadingWnd.__del__ at 0x0AC161E8>
+__del__,		<cyfunction ReadingWnd.__del__ at 0x0AC46190>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ReadingWnd instance as first argument (got nothing instead)
-SetText,		<cyfunction ReadingWnd.SetText at 0x0AC16298>
+SetText,		<cyfunction ReadingWnd.SetText at 0x0AC46240>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with ReadingWnd instance as first argument (got nothing instead)
-SetReadingPosition,		<cyfunction ReadingWnd.SetReadingPosition at 0x0AC162F0>
+SetReadingPosition,		<cyfunction ReadingWnd.SetReadingPosition at 0x0AC46298>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -731,13 +731,13 @@ __qualname__,		ReadingWnd
 submodule.__qualname__
 
 
-SetTextColor,		<cyfunction ReadingWnd.SetTextColor at 0x0AC16348>
+SetTextColor,		<cyfunction ReadingWnd.SetTextColor at 0x0AC462F0>
 	arg0: self
 	arg1: color
 
 submodule.SetTextColor
 Skipped: unbound method cython_function_or_method object must be called with ReadingWnd instance as first argument (got nothing instead)
-_ReadingWnd__BuildText,		<cyfunction ReadingWnd.__BuildText at 0x0AC16240>
+_ReadingWnd__BuildText,		<cyfunction ReadingWnd.__BuildText at 0x0AC461E8>
 	arg0: self
 
 submodule._ReadingWnd__BuildText
@@ -747,7 +747,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ReadingWnd.__init__ at 0x0AC16190>
+__init__,		<cyfunction ReadingWnd.__init__ at 0x0AC46138>
 	arg0: self
 
 submodule.__init__
@@ -755,7 +755,7 @@ Skipped: unbound method cython_function_or_method object must be called with Rea
 
 
 class NumberLine:
-SetNumber,		<cyfunction NumberLine.SetNumber at 0x078686B8>
+SetNumber,		<cyfunction NumberLine.SetNumber at 0x0ABA9660>
 	arg0: self
 	arg1: number
 	arg2: r
@@ -767,12 +767,12 @@ SetNumber,		<cyfunction NumberLine.SetNumber at 0x078686B8>
 
 submodule.SetNumber
 Skipped: unbound method cython_function_or_method object must be called with NumberLine instance as first argument (got nothing instead)
-__del__,		<cyfunction NumberLine.__del__ at 0x078684A8>
+__del__,		<cyfunction NumberLine.__del__ at 0x0ABA9450>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with NumberLine instance as first argument (got nothing instead)
-SetHorizontalAlignCenter,		<cyfunction NumberLine.SetHorizontalAlignCenter at 0x07868558>
+SetHorizontalAlignCenter,		<cyfunction NumberLine.SetHorizontalAlignCenter at 0x0ABA9500>
 	arg0: self
 
 submodule.SetHorizontalAlignCenter
@@ -792,24 +792,24 @@ __qualname__,		NumberLine
 submodule.__qualname__
 
 
-SetHorizontalAlignRight,		<cyfunction NumberLine.SetHorizontalAlignRight at 0x078685B0>
+SetHorizontalAlignRight,		<cyfunction NumberLine.SetHorizontalAlignRight at 0x0ABA9558>
 	arg0: self
 
 submodule.SetHorizontalAlignRight
 Skipped: unbound method cython_function_or_method object must be called with NumberLine instance as first argument (got nothing instead)
-SetPath,		<cyfunction NumberLine.SetPath at 0x07868608>
+SetPath,		<cyfunction NumberLine.SetPath at 0x0ABA95B0>
 	arg0: self
 	arg1: path
 
 submodule.SetPath
 Skipped: unbound method cython_function_or_method object must be called with NumberLine instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction NumberLine.RegisterWindow at 0x07868500>
+RegisterWindow,		<cyfunction NumberLine.RegisterWindow at 0x0ABA94A8>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with NumberLine instance as first argument (got nothing instead)
-__init__,		<cyfunction NumberLine.__init__ at 0x07868450>
+__init__,		<cyfunction NumberLine.__init__ at 0x0ABA93F8>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -826,56 +826,56 @@ submodule.__module__
 
 ListBoxWithBoard,		<class 'ui.ListBoxWithBoard'>
 Skip: type object 'ListBoxWithBoard' has no attribute 'func_code'
-SelectItem,		<cyfunction ComboBoxImage.SelectItem at 0x0AC148C8>
+SelectItem,		<cyfunction ComboBoxImage.SelectItem at 0x0AC44870>
 	arg0: self
 	arg1: key
 
 submodule.SelectItem
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-__del__,		<cyfunction ComboBoxImage.__del__ at 0x0AC14500>
+__del__,		<cyfunction ComboBoxImage.__del__ at 0x0AC444A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction ComboBoxImage.OnMouseLeftButtonDown at 0x0AC149D0>
+OnMouseLeftButtonDown,		<cyfunction ComboBoxImage.OnMouseLeftButtonDown at 0x0AC44978>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-SetEvent,		<cyfunction ComboBoxImage.SetEvent at 0x0AC14768>
+SetEvent,		<cyfunction ComboBoxImage.SetEvent at 0x0AC44710>
 	arg0: self
 	arg1: event
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction ComboBoxImage.OnMouseLeftButtonUp at 0x0AC14A28>
+OnMouseLeftButtonUp,		<cyfunction ComboBoxImage.OnMouseLeftButtonUp at 0x0AC449D0>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-ClearItem,		<cyfunction ComboBoxImage.ClearItem at 0x0AC147C0>
+ClearItem,		<cyfunction ComboBoxImage.ClearItem at 0x0AC44768>
 	arg0: self
 
 submodule.ClearItem
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-Destroy,		<cyfunction ComboBoxImage.Destroy at 0x0AC14558>
+Destroy,		<cyfunction ComboBoxImage.Destroy at 0x0AC44500>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-CloseListBox,		<cyfunction ComboBoxImage.CloseListBox at 0x0AC14978>
+CloseListBox,		<cyfunction ComboBoxImage.CloseListBox at 0x0AC44920>
 	arg0: self
 
 submodule.CloseListBox
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-SetSize,		<cyfunction ComboBoxImage.SetSize at 0x0AC14608>
+SetSize,		<cyfunction ComboBoxImage.SetSize at 0x0AC445B0>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-__init__,		<cyfunction ComboBoxImage.__init__ at 0x0AC144A8>
+__init__,		<cyfunction ComboBoxImage.__init__ at 0x0AC44450>
 	arg0: self
 	arg1: parent
 	arg2: name
@@ -884,22 +884,22 @@ __init__,		<cyfunction ComboBoxImage.__init__ at 0x0AC144A8>
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ComboBoxImage.OnUpdate at 0x0AC14A80>
+OnUpdate,		<cyfunction ComboBoxImage.OnUpdate at 0x0AC44A28>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-_ComboBoxImage__ArrangeListBox,		<cyfunction ComboBoxImage.__ArrangeListBox at 0x0AC14660>
+_ComboBoxImage__ArrangeListBox,		<cyfunction ComboBoxImage.__ArrangeListBox at 0x0AC44608>
 	arg0: self
 
 submodule._ComboBoxImage__ArrangeListBox
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-Enable,		<cyfunction ComboBoxImage.Enable at 0x0AC146B8>
+Enable,		<cyfunction ComboBoxImage.Enable at 0x0AC44660>
 	arg0: self
 
 submodule.Enable
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-InsertItem,		<cyfunction ComboBoxImage.InsertItem at 0x0AC14818>
+InsertItem,		<cyfunction ComboBoxImage.InsertItem at 0x0AC447C0>
 	arg0: self
 	arg1: index
 	arg2: name
@@ -911,31 +911,31 @@ __qualname__,		ComboBoxImage
 submodule.__qualname__
 
 
-OnSelectItem,		<cyfunction ComboBoxImage.OnSelectItem at 0x0AC14920>
+OnSelectItem,		<cyfunction ComboBoxImage.OnSelectItem at 0x0AC448C8>
 	arg0: self
 	arg1: index
 	arg2: name
 
 submodule.OnSelectItem
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-Disable,		<cyfunction ComboBoxImage.Disable at 0x0AC14710>
+Disable,		<cyfunction ComboBoxImage.Disable at 0x0AC446B8>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-SetPosition,		<cyfunction ComboBoxImage.SetPosition at 0x0AC145B0>
+SetPosition,		<cyfunction ComboBoxImage.SetPosition at 0x0AC44558>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.SetPosition
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-OnRender,		<cyfunction ComboBoxImage.OnRender at 0x0AC14AD8>
+OnRender,		<cyfunction ComboBoxImage.OnRender at 0x0AC44A80>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with ComboBoxImage instance as first argument (got nothing instead)
-SetCurrentItem,		<cyfunction ComboBoxImage.SetCurrentItem at 0x0AC14870>
+SetCurrentItem,		<cyfunction ComboBoxImage.SetCurrentItem at 0x0AC44818>
 	arg0: self
 	arg1: text
 
@@ -954,12 +954,12 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction BoardWithTitleBar.__del__ at 0x0786AD40>
+__del__,		<cyfunction BoardWithTitleBar.__del__ at 0x0ABABCE8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with BoardWithTitleBar instance as first argument (got nothing instead)
-SetCloseEvent,		<cyfunction BoardWithTitleBar.SetCloseEvent at 0x0786AEA0>
+SetCloseEvent,		<cyfunction BoardWithTitleBar.SetCloseEvent at 0x0ABABE48>
 	arg0: self
 	arg1: event
 
@@ -970,19 +970,19 @@ __qualname__,		BoardWithTitleBar
 submodule.__qualname__
 
 
-SetTitleColor,		<cyfunction BoardWithTitleBar.SetTitleColor at 0x0786ADF0>
+SetTitleColor,		<cyfunction BoardWithTitleBar.SetTitleColor at 0x0ABABD98>
 	arg0: self
 	arg1: color
 
 submodule.SetTitleColor
 Skipped: unbound method cython_function_or_method object must be called with BoardWithTitleBar instance as first argument (got nothing instead)
-SetTitleName,		<cyfunction BoardWithTitleBar.SetTitleName at 0x0786AE48>
+SetTitleName,		<cyfunction BoardWithTitleBar.SetTitleName at 0x0ABABDF0>
 	arg0: self
 	arg1: name
 
 submodule.SetTitleName
 Skipped: unbound method cython_function_or_method object must be called with BoardWithTitleBar instance as first argument (got nothing instead)
-SetSize,		<cyfunction BoardWithTitleBar.SetSize at 0x0786AD98>
+SetSize,		<cyfunction BoardWithTitleBar.SetSize at 0x0ABABD40>
 	arg0: self
 	arg1: width
 	arg2: height
@@ -994,7 +994,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction BoardWithTitleBar.__init__ at 0x0786ACE8>
+__init__,		<cyfunction BoardWithTitleBar.__init__ at 0x0ABABC90>
 	arg0: self
 
 submodule.__init__
@@ -1012,24 +1012,24 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction RenderTarget.__del__ at 0x0AC166B8>
+__del__,		<cyfunction RenderTarget.__del__ at 0x0AC46660>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RenderTarget instance as first argument (got nothing instead)
-SetRenderTarget,		<cyfunction RenderTarget.SetRenderTarget at 0x0AC16768>
+SetRenderTarget,		<cyfunction RenderTarget.SetRenderTarget at 0x0AC46710>
 	arg0: self
 	arg1: number
 
 submodule.SetRenderTarget
 Skipped: unbound method cython_function_or_method object must be called with RenderTarget instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction RenderTarget.RegisterWindow at 0x0AC16710>
+RegisterWindow,		<cyfunction RenderTarget.RegisterWindow at 0x0AC466B8>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with RenderTarget instance as first argument (got nothing instead)
-__init__,		<cyfunction RenderTarget.__init__ at 0x0AC16660>
+__init__,		<cyfunction RenderTarget.__init__ at 0x0AC46608>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -1054,13 +1054,13 @@ __module__,		ui
 submodule.__module__
 
 
-RegisterWindow,		<cyfunction SlotBar.RegisterWindow at 0x07868920>
+RegisterWindow,		<cyfunction SlotBar.RegisterWindow at 0x0ABA98C8>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with SlotBar instance as first argument (got nothing instead)
-__init__,		<cyfunction SlotBar.__init__ at 0x078688C8>
+__init__,		<cyfunction SlotBar.__init__ at 0x0ABA9870>
 	arg0: self
 
 submodule.__init__
@@ -1073,12 +1073,12 @@ submodule.__doc__
 
 
 class ScriptWindow:
-ClearDictionary,		<cyfunction ScriptWindow.ClearDictionary at 0x0AC15348>
+ClearDictionary,		<cyfunction ScriptWindow.ClearDictionary at 0x0AC452F0>
 	arg0: self
 
 submodule.ClearDictionary
 Skipped: unbound method cython_function_or_method object must be called with ScriptWindow instance as first argument (got nothing instead)
-GetChild2,		<cyfunction ScriptWindow.GetChild2 at 0x0AC154A8>
+GetChild2,		<cyfunction ScriptWindow.GetChild2 at 0x0AC45450>
 	arg0: self
 	arg1: name
 
@@ -1089,7 +1089,7 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction ScriptWindow.__del__ at 0x0AC152F0>
+__del__,		<cyfunction ScriptWindow.__del__ at 0x0AC45298>
 	arg0: self
 
 submodule.__del__
@@ -1104,26 +1104,26 @@ __qualname__,		ScriptWindow
 submodule.__qualname__
 
 
-InsertChild,		<cyfunction ScriptWindow.InsertChild at 0x0AC153A0>
+InsertChild,		<cyfunction ScriptWindow.InsertChild at 0x0AC45348>
 	arg0: self
 	arg1: name
 	arg2: child
 
 submodule.InsertChild
 Skipped: unbound method cython_function_or_method object must be called with ScriptWindow instance as first argument (got nothing instead)
-GetChild,		<cyfunction ScriptWindow.GetChild at 0x0AC15450>
+GetChild,		<cyfunction ScriptWindow.GetChild at 0x0AC453F8>
 	arg0: self
 	arg1: name
 
 submodule.GetChild
 Skipped: unbound method cython_function_or_method object must be called with ScriptWindow instance as first argument (got nothing instead)
-IsChild,		<cyfunction ScriptWindow.IsChild at 0x0AC153F8>
+IsChild,		<cyfunction ScriptWindow.IsChild at 0x0AC453A0>
 	arg0: self
 	arg1: name
 
 submodule.IsChild
 Skipped: unbound method cython_function_or_method object must be called with ScriptWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction ScriptWindow.__init__ at 0x0AC15298>
+__init__,		<cyfunction ScriptWindow.__init__ at 0x0AC45240>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -1140,71 +1140,71 @@ submodule.__module__
 
 ListBoxWithBoard,		<class 'ui.ListBoxWithBoard'>
 Skip: type object 'ListBoxWithBoard' has no attribute 'func_code'
-SelectItem,		<cyfunction ComboBox.SelectItem at 0x0AC15030>
+SelectItem,		<cyfunction ComboBox.SelectItem at 0x0AC44FA8>
 	arg0: self
 	arg1: key
 
 submodule.SelectItem
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-__del__,		<cyfunction ComboBox.__del__ at 0x0AC14C38>
+__del__,		<cyfunction ComboBox.__del__ at 0x0AC44BE0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-SetEvent,		<cyfunction ComboBox.SetEvent at 0x0AC14EA0>
+SetEvent,		<cyfunction ComboBox.SetEvent at 0x0AC44E48>
 	arg0: self
 	arg1: event
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction ComboBox.OnMouseLeftButtonUp at 0x0AC15190>
+OnMouseLeftButtonUp,		<cyfunction ComboBox.OnMouseLeftButtonUp at 0x0AC45138>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-ClearItem,		<cyfunction ComboBox.ClearItem at 0x0AC14EF8>
+ClearItem,		<cyfunction ComboBox.ClearItem at 0x0AC44EA0>
 	arg0: self
 
 submodule.ClearItem
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-Destroy,		<cyfunction ComboBox.Destroy at 0x0AC14C90>
+Destroy,		<cyfunction ComboBox.Destroy at 0x0AC44C38>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-CloseListBox,		<cyfunction ComboBox.CloseListBox at 0x0AC150E0>
+CloseListBox,		<cyfunction ComboBox.CloseListBox at 0x0AC45088>
 	arg0: self
 
 submodule.CloseListBox
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-SetSize,		<cyfunction ComboBox.SetSize at 0x0AC14D40>
+SetSize,		<cyfunction ComboBox.SetSize at 0x0AC44CE8>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-__init__,		<cyfunction ComboBox.__init__ at 0x0AC14BE0>
+__init__,		<cyfunction ComboBox.__init__ at 0x0AC44B88>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ComboBox.OnUpdate at 0x0AC151E8>
+OnUpdate,		<cyfunction ComboBox.OnUpdate at 0x0AC45190>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction ComboBox.OnMouseLeftButtonDown at 0x0AC15138>
+OnMouseLeftButtonDown,		<cyfunction ComboBox.OnMouseLeftButtonDown at 0x0AC450E0>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-Enable,		<cyfunction ComboBox.Enable at 0x0AC14DF0>
+Enable,		<cyfunction ComboBox.Enable at 0x0AC44D98>
 	arg0: self
 
 submodule.Enable
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-InsertItem,		<cyfunction ComboBox.InsertItem at 0x0AC14F50>
+InsertItem,		<cyfunction ComboBox.InsertItem at 0x0AC44EF8>
 	arg0: self
 	arg1: index
 	arg2: name
@@ -1216,31 +1216,31 @@ __qualname__,		ComboBox
 submodule.__qualname__
 
 
-OnSelectItem,		<cyfunction ComboBox.OnSelectItem at 0x0AC15088>
+OnSelectItem,		<cyfunction ComboBox.OnSelectItem at 0x0AC45030>
 	arg0: self
 	arg1: index
 	arg2: name
 
 submodule.OnSelectItem
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-Disable,		<cyfunction ComboBox.Disable at 0x0AC14E48>
+Disable,		<cyfunction ComboBox.Disable at 0x0AC44DF0>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-SetPosition,		<cyfunction ComboBox.SetPosition at 0x0AC14CE8>
+SetPosition,		<cyfunction ComboBox.SetPosition at 0x0AC44C90>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.SetPosition
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-OnRender,		<cyfunction ComboBox.OnRender at 0x0AC15240>
+OnRender,		<cyfunction ComboBox.OnRender at 0x0AC451E8>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with ComboBox instance as first argument (got nothing instead)
-SetCurrentItem,		<cyfunction ComboBox.SetCurrentItem at 0x0AC14FA8>
+SetCurrentItem,		<cyfunction ComboBox.SetCurrentItem at 0x0AC44F50>
 	arg0: self
 	arg1: text
 
@@ -1251,7 +1251,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_ComboBox__ArrangeListBox,		<cyfunction ComboBox.__ArrangeListBox at 0x0AC14D98>
+_ComboBox__ArrangeListBox,		<cyfunction ComboBox.__ArrangeListBox at 0x0AC44D40>
 	arg0: self
 
 submodule._ComboBox__ArrangeListBox
@@ -1274,7 +1274,7 @@ B,		3
 submodule.B
 
 
-__del__,		<cyfunction ThinBoardCircle.__del__ at 0x0786D348>
+__del__,		<cyfunction ThinBoardCircle.__del__ at 0x0ABAE2F0>
 	arg0: self
 
 submodule.__del__
@@ -1294,24 +1294,24 @@ T,		2
 submodule.T
 
 
-HideInternal,		<cyfunction ThinBoardCircle.HideInternal at 0x0786D450>
+HideInternal,		<cyfunction ThinBoardCircle.HideInternal at 0x0ABAE3F8>
 	arg0: self
 
 submodule.HideInternal
 Skipped: unbound method cython_function_or_method object must be called with ThinBoardCircle instance as first argument (got nothing instead)
-ShowInternal,		<cyfunction ThinBoardCircle.ShowInternal at 0x0786D3F8>
+ShowInternal,		<cyfunction ThinBoardCircle.ShowInternal at 0x0ABAE3A0>
 	arg0: self
 
 submodule.ShowInternal
 Skipped: unbound method cython_function_or_method object must be called with ThinBoardCircle instance as first argument (got nothing instead)
-SetSize,		<cyfunction ThinBoardCircle.SetSize at 0x0786D3A0>
+SetSize,		<cyfunction ThinBoardCircle.SetSize at 0x0ABAE348>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ThinBoardCircle instance as first argument (got nothing instead)
-__init__,		<cyfunction ThinBoardCircle.__init__ at 0x0786D2F0>
+__init__,		<cyfunction ThinBoardCircle.__init__ at 0x0ABAE298>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -1380,7 +1380,7 @@ __qualname__,		ThinScrollBar
 submodule.__qualname__
 
 
-CreateScrollBar,		<cyfunction ThinScrollBar.CreateScrollBar at 0x0AC12348>
+CreateScrollBar,		<cyfunction ThinScrollBar.CreateScrollBar at 0x0AC432F0>
 	arg0: self
 
 submodule.CreateScrollBar
@@ -1390,7 +1390,7 @@ __module__,		ui
 submodule.__module__
 
 
-UpdateBarSlot,		<cyfunction ThinScrollBar.UpdateBarSlot at 0x0AC123A0>
+UpdateBarSlot,		<cyfunction ThinScrollBar.UpdateBarSlot at 0x0AC43348>
 	arg0: self
 
 submodule.UpdateBarSlot
@@ -1408,7 +1408,7 @@ __qualname__,		SmallThinScrollBar
 submodule.__qualname__
 
 
-CreateScrollBar,		<cyfunction SmallThinScrollBar.CreateScrollBar at 0x0AC123F8>
+CreateScrollBar,		<cyfunction SmallThinScrollBar.CreateScrollBar at 0x0AC433A0>
 	arg0: self
 
 submodule.CreateScrollBar
@@ -1418,7 +1418,7 @@ __module__,		ui
 submodule.__module__
 
 
-UpdateBarSlot,		<cyfunction SmallThinScrollBar.UpdateBarSlot at 0x0AC12450>
+UpdateBarSlot,		<cyfunction SmallThinScrollBar.UpdateBarSlot at 0x0AC433F8>
 	arg0: self
 
 submodule.UpdateBarSlot
@@ -1446,13 +1446,13 @@ __doc__,		None
 submodule.__doc__
 
 
-RegisterWindow,		<cyfunction Line.RegisterWindow at 0x07868818>
+RegisterWindow,		<cyfunction Line.RegisterWindow at 0x0ABA97C0>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with Line instance as first argument (got nothing instead)
-SetColor,		<cyfunction Line.SetColor at 0x07868870>
+SetColor,		<cyfunction Line.SetColor at 0x0ABA9818>
 	arg0: self
 	arg1: color
 
@@ -1466,7 +1466,7 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction TitleBar.__del__ at 0x0786A608>
+__del__,		<cyfunction TitleBar.__del__ at 0x0ABAB5B0>
 	arg0: self
 
 submodule.__del__
@@ -1486,24 +1486,24 @@ __qualname__,		TitleBar
 submodule.__qualname__
 
 
-SetCloseEvent,		<cyfunction TitleBar.SetCloseEvent at 0x0786A710>
+SetCloseEvent,		<cyfunction TitleBar.SetCloseEvent at 0x0ABAB6B8>
 	arg0: self
 	arg1: event
 
 submodule.SetCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with TitleBar instance as first argument (got nothing instead)
-Close,		<cyfunction TitleBar.Close at 0x0786A7C0>
+Close,		<cyfunction TitleBar.Close at 0x0ABAB768>
 	arg0: self
 	arg1: event
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with TitleBar instance as first argument (got nothing instead)
-CloseButtonHide,		<cyfunction TitleBar.CloseButtonHide at 0x0786A768>
+CloseButtonHide,		<cyfunction TitleBar.CloseButtonHide at 0x0ABAB710>
 	arg0: self
 
 submodule.CloseButtonHide
 Skipped: unbound method cython_function_or_method object must be called with TitleBar instance as first argument (got nothing instead)
-SetWidth,		<cyfunction TitleBar.SetWidth at 0x0786A6B8>
+SetWidth,		<cyfunction TitleBar.SetWidth at 0x0ABAB660>
 	arg0: self
 	arg1: width
 
@@ -1514,12 +1514,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction TitleBar.__init__ at 0x0786A5B0>
+__init__,		<cyfunction TitleBar.__init__ at 0x0ABAB558>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with TitleBar instance as first argument (got nothing instead)
-MakeTitleBar,		<cyfunction TitleBar.MakeTitleBar at 0x0786A660>
+MakeTitleBar,		<cyfunction TitleBar.MakeTitleBar at 0x0ABAB608>
 	arg0: self
 	arg1: width
 	arg2: color
@@ -1544,13 +1544,13 @@ __doc__,		None
 submodule.__doc__
 
 
-RegisterWindow,		<cyfunction Box.RegisterWindow at 0x07868660>
+RegisterWindow,		<cyfunction Box.RegisterWindow at 0x0ABA9608>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with Box instance as first argument (got nothing instead)
-SetColor,		<cyfunction Box.SetColor at 0x07868710>
+SetColor,		<cyfunction Box.SetColor at 0x0ABA96B8>
 	arg0: self
 	arg1: color
 
@@ -1564,57 +1564,54 @@ __module__,		ui
 submodule.__module__
 
 
-SetItemStep,		<cyfunction ListBoxEx.SetItemStep at 0x0785CB88>
+SetItemStep,		<cyfunction ListBoxEx.SetItemStep at 0x0AB9EB30>
 	arg0: self
 	arg1: itemStep
 
 submodule.SetItemStep
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-AppendItem,		<cyfunction ListBoxEx.AppendItem at 0x0785CF50>
+AppendItem,		<cyfunction ListBoxEx.AppendItem at 0x0AB9EEF8>
 	arg0: self
 	arg1: newItem
 
 submodule.AppendItem
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-__del__,		<cyfunction ListBoxEx.__del__ at 0x0785CA80>
+__del__,		<cyfunction ListBoxEx.__del__ at 0x0AB9EA28>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-SetBasePos,		<cyfunction ListBoxEx.SetBasePos at 0x0785CCE8>
+SetBasePos,		<cyfunction ListBoxEx.SetBasePos at 0x0AB9EC90>
 	arg0: self
 	arg1: basePos
 
 submodule.SetBasePos
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-RemoveItem,		<cyfunction ListBoxEx.RemoveItem at 0x0785CEF8>
+RemoveItem,		<cyfunction ListBoxEx.RemoveItem at 0x0AB9EEA0>
 	arg0: self
 	arg1: delItem
 
 submodule.RemoveItem
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-_ListBoxEx__UpdateSize,		<cyfunction ListBoxEx.__UpdateSize at 0x0785CAD8>
+_ListBoxEx__UpdateSize,		<cyfunction ListBoxEx.__UpdateSize at 0x0AB9EA80>
 	arg0: self
 
 submodule._ListBoxEx__UpdateSize
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-GetItemIndex,		<cyfunction ListBoxEx.GetItemIndex at 0x0785CD40>
+GetItemIndex,		<cyfunction ListBoxEx.GetItemIndex at 0x0AB9ECE8>
 	arg0: self
 	arg1: argItem
 
 submodule.GetItemIndex
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-_ListBoxEx__GetViewItemCount,		<cyfunction ListBoxEx.__GetViewItemCount at 0x078600E0>
+_ListBoxEx__GetViewItemCount,		<cyfunction ListBoxEx.__GetViewItemCount at 0x0AB9F088>
 	arg0: self
 
 submodule._ListBoxEx__GetViewItemCount
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-_ListBoxEx__GetItemCount,		<cyfunction ListBoxEx.__GetItemCount at 0x07860138>
-	arg0: self
-
-submodule._ListBoxEx__GetItemCount
-Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-IsEmpty,		<cyfunction ListBoxEx.IsEmpty at 0x0785CB30>
+Item,		<class 'ui.Item'>
+Skip: type object 'Item' has no attribute 'func_code'
+IsEmpty,		<cyfunction ListBoxEx.IsEmpty at 0x0AB9EAD8>
 	arg0: self
 
 submodule.IsEmpty
@@ -1624,48 +1621,46 @@ __doc__,		None
 submodule.__doc__
 
 
-SetScrollBar,		<cyfunction ListBoxEx.SetScrollBar at 0x0785CFA8>
+SetScrollBar,		<cyfunction ListBoxEx.SetScrollBar at 0x0AB9EF50>
 	arg0: self
 	arg1: scrollBar
 
 submodule.SetScrollBar
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-_ListBoxEx__IsInViewRange,		<cyfunction ListBoxEx.__IsInViewRange at 0x078601E8>
+_ListBoxEx__IsInViewRange,		<cyfunction ListBoxEx.__IsInViewRange at 0x0AB9F190>
 	arg0: self
 	arg1: pos
 
 submodule._ListBoxEx__IsInViewRange
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-__init__,		<cyfunction ListBoxEx.__init__ at 0x0785CA28>
+__init__,		<cyfunction ListBoxEx.__init__ at 0x0AB9E9D0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-SelectItem,		<cyfunction ListBoxEx.SelectItem at 0x0785CE48>
+SelectItem,		<cyfunction ListBoxEx.SelectItem at 0x0AB9EDF0>
 	arg0: self
 	arg1: selItem
 
 submodule.SelectItem
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-RemoveAllItems,		<cyfunction ListBoxEx.RemoveAllItems at 0x0785CEA0>
+RemoveAllItems,		<cyfunction ListBoxEx.RemoveAllItems at 0x0AB9EE48>
 	arg0: self
 
 submodule.RemoveAllItems
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-_ListBoxEx__OnScroll,		<cyfunction ListBoxEx.__OnScroll at 0x07860030>
+_ListBoxEx__OnScroll,		<cyfunction ListBoxEx.__OnScroll at 0x0AB9EFA8>
 	arg0: self
 
 submodule._ListBoxEx__OnScroll
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-Item,		<class 'ui.Item'>
-Skip: type object 'Item' has no attribute 'func_code'
-SetViewItemCount,		<cyfunction ListBoxEx.SetViewItemCount at 0x0785CC38>
+SetViewItemCount,		<cyfunction ListBoxEx.SetViewItemCount at 0x0AB9EBE0>
 	arg0: self
 	arg1: viewItemCount
 
 submodule.SetViewItemCount
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-SetItemSize,		<cyfunction ListBoxEx.SetItemSize at 0x0785CBE0>
+SetItemSize,		<cyfunction ListBoxEx.SetItemSize at 0x0AB9EB88>
 	arg0: self
 	arg1: itemWidth
 	arg2: itemHeight
@@ -1677,30 +1672,35 @@ __qualname__,		ListBoxEx
 submodule.__qualname__
 
 
-_ListBoxEx__GetScrollLen,		<cyfunction ListBoxEx.__GetScrollLen at 0x07860088>
+_ListBoxEx__GetScrollLen,		<cyfunction ListBoxEx.__GetScrollLen at 0x0AB9F030>
 	arg0: self
 
 submodule._ListBoxEx__GetScrollLen
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-SelectIndex,		<cyfunction ListBoxEx.SelectIndex at 0x0785CDF0>
+SelectIndex,		<cyfunction ListBoxEx.SelectIndex at 0x0AB9ED98>
 	arg0: self
 	arg1: index
 
 submodule.SelectIndex
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-GetItemViewCoord,		<cyfunction ListBoxEx.GetItemViewCoord at 0x07860190>
+GetItemViewCoord,		<cyfunction ListBoxEx.GetItemViewCoord at 0x0AB9F138>
 	arg0: self
 	arg1: pos
 	arg2: itemWidth
 
 submodule.GetItemViewCoord
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-GetSelectedItem,		<cyfunction ListBoxEx.GetSelectedItem at 0x0785CD98>
+GetItemCount,		<cyfunction ListBoxEx.GetItemCount at 0x0AB9F0E0>
+	arg0: self
+
+submodule.GetItemCount
+Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
+GetSelectedItem,		<cyfunction ListBoxEx.GetSelectedItem at 0x0AB9ED40>
 	arg0: self
 
 submodule.GetSelectedItem
 Skipped: unbound method cython_function_or_method object must be called with ListBoxEx instance as first argument (got nothing instead)
-SetSelectEvent,		<cyfunction ListBoxEx.SetSelectEvent at 0x0785CC90>
+SetSelectEvent,		<cyfunction ListBoxEx.SetSelectEvent at 0x0AB9EC38>
 	arg0: self
 	arg1: event
 
@@ -1719,29 +1719,29 @@ __module__,		ui
 submodule.__module__
 
 
-OnRender,		<cyfunction RenderBox.OnRender at 0x0AC16B30>
+OnRender,		<cyfunction RenderBox.OnRender at 0x0AC46AD8>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with RenderBox instance as first argument (got nothing instead)
-SetColor,		<cyfunction RenderBox.SetColor at 0x0AC16AD8>
+SetColor,		<cyfunction RenderBox.SetColor at 0x0AC46A80>
 	arg0: self
 	arg1: color
 
 submodule.SetColor
 Skipped: unbound method cython_function_or_method object must be called with RenderBox instance as first argument (got nothing instead)
-__del__,		<cyfunction RenderBox.__del__ at 0x0AC16A28>
+__del__,		<cyfunction RenderBox.__del__ at 0x0AC469D0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RenderBox instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction RenderBox.RegisterWindow at 0x0AC16A80>
+RegisterWindow,		<cyfunction RenderBox.RegisterWindow at 0x0AC46A28>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with RenderBox instance as first argument (got nothing instead)
-__init__,		<cyfunction RenderBox.__init__ at 0x0AC169D0>
+__init__,		<cyfunction RenderBox.__init__ at 0x0AC46978>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -1756,34 +1756,34 @@ submodule.__doc__
 
 
 class ListBox2:
-OnUpdate,		<cyfunction ListBox2.OnUpdate at 0x0AC14190>
+OnUpdate,		<cyfunction ListBox2.OnUpdate at 0x0AC44138>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ListBox2 instance as first argument (got nothing instead)
-_RefreshForm,		<cyfunction ListBox2._RefreshForm at 0x0AC143A0>
+_RefreshForm,		<cyfunction ListBox2._RefreshForm at 0x0AC44348>
 	arg0: self
 
 submodule._RefreshForm
 Skipped: unbound method cython_function_or_method object must be called with ListBox2 instance as first argument (got nothing instead)
-ClearItem,		<cyfunction ListBox2.ClearItem at 0x0AC140E0>
+ClearItem,		<cyfunction ListBox2.ClearItem at 0x0AC44088>
 	arg0: self
 
 submodule.ClearItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox2 instance as first argument (got nothing instead)
-_RenderBar,		<cyfunction ListBox2._RenderBar at 0x0AC142F0>
+_RenderBar,		<cyfunction ListBox2._RenderBar at 0x0AC44298>
 	arg0: self
 	arg1: basePos
 	arg2: idx
 
 submodule._RenderBar
 Skipped: unbound method cython_function_or_method object must be called with ListBox2 instance as first argument (got nothing instead)
-InsertItem,		<cyfunction ListBox2.InsertItem at 0x0AC14138>
+InsertItem,		<cyfunction ListBox2.InsertItem at 0x0AC440E0>
 	arg0: self
 
 submodule.InsertItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox2 instance as first argument (got nothing instead)
-SetSize,		<cyfunction ListBox2.SetSize at 0x0AC14088>
+SetSize,		<cyfunction ListBox2.SetSize at 0x0AC44030>
 	arg0: self
 	arg1: width
 	arg2: height
@@ -1795,7 +1795,7 @@ __module__,		ui
 submodule.__module__
 
 
-_CalcPointIndex,		<cyfunction ListBox2._CalcPointIndex at 0x0AC14240>
+_CalcPointIndex,		<cyfunction ListBox2._CalcPointIndex at 0x0AC441E8>
 	arg0: self
 	arg1: mpos
 
@@ -1806,23 +1806,23 @@ __qualname__,		ListBox2
 submodule.__qualname__
 
 
-SetRowCount,		<cyfunction ListBox2.SetRowCount at 0x0AC14030>
+SetRowCount,		<cyfunction ListBox2.SetRowCount at 0x0AC43FA8>
 	arg0: self
 	arg1: rowCount
 
 submodule.SetRowCount
 Skipped: unbound method cython_function_or_method object must be called with ListBox2 instance as first argument (got nothing instead)
-OnRender,		<cyfunction ListBox2.OnRender at 0x0AC141E8>
+OnRender,		<cyfunction ListBox2.OnRender at 0x0AC44190>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with ListBox2 instance as first argument (got nothing instead)
-_LocateItem,		<cyfunction ListBox2._LocateItem at 0x0AC14348>
+_LocateItem,		<cyfunction ListBox2._LocateItem at 0x0AC442F0>
 	arg0: self
 
 submodule._LocateItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox2 instance as first argument (got nothing instead)
-_CalcRenderPos,		<cyfunction ListBox2._CalcRenderPos at 0x0AC14298>
+_CalcRenderPos,		<cyfunction ListBox2._CalcRenderPos at 0x0AC44240>
 	arg0: self
 	arg1: pos
 	arg2: idx
@@ -1834,7 +1834,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ListBox2.__init__ at 0x0AC12FA8>
+__init__,		<cyfunction ListBox2.__init__ at 0x0AC43F50>
 	arg0: self
 
 submodule.__init__
@@ -1847,7 +1847,7 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction HorizontalBar.__del__ at 0x0786A870>
+__del__,		<cyfunction HorizontalBar.__del__ at 0x0ABAB818>
 	arg0: self
 
 submodule.__del__
@@ -1857,7 +1857,7 @@ BLOCK_WIDTH,		32
 submodule.BLOCK_WIDTH
 
 
-Create,		<cyfunction HorizontalBar.Create at 0x0786A8C8>
+Create,		<cyfunction HorizontalBar.Create at 0x0ABAB870>
 	arg0: self
 	arg1: width
 
@@ -1873,7 +1873,7 @@ __qualname__,		HorizontalBar
 submodule.__qualname__
 
 
-SetWidth,		<cyfunction HorizontalBar.SetWidth at 0x0786A920>
+SetWidth,		<cyfunction HorizontalBar.SetWidth at 0x0ABAB8C8>
 	arg0: self
 	arg1: width
 
@@ -1884,7 +1884,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction HorizontalBar.__init__ at 0x0786A818>
+__init__,		<cyfunction HorizontalBar.__init__ at 0x0ABAB7C0>
 	arg0: self
 
 submodule.__init__
@@ -1897,12 +1897,12 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction FishEventGridSlotWindow.__del__ at 0x0AC16818>
+__del__,		<cyfunction FishEventGridSlotWindow.__del__ at 0x0AC467C0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with FishEventGridSlotWindow instance as first argument (got nothing instead)
-GetStartIndex,		<cyfunction FishEventGridSlotWindow.GetStartIndex at 0x0AC16920>
+GetStartIndex,		<cyfunction FishEventGridSlotWindow.GetStartIndex at 0x0AC468C8>
 	arg0: self
 
 submodule.GetStartIndex
@@ -1917,13 +1917,13 @@ __qualname__,		FishEventGridSlotWindow
 submodule.__qualname__
 
 
-SetPickedAreaRender,		<cyfunction FishEventGridSlotWindow.SetPickedAreaRender at 0x0AC16978>
+SetPickedAreaRender,		<cyfunction FishEventGridSlotWindow.SetPickedAreaRender at 0x0AC46920>
 	arg0: self
 	arg1: flag
 
 submodule.SetPickedAreaRender
 Skipped: unbound method cython_function_or_method object must be called with FishEventGridSlotWindow instance as first argument (got nothing instead)
-ArrangeSlot,		<cyfunction FishEventGridSlotWindow.ArrangeSlot at 0x0AC168C8>
+ArrangeSlot,		<cyfunction FishEventGridSlotWindow.ArrangeSlot at 0x0AC46870>
 	arg0: self
 	arg1: StartIndex
 	arg2: xCount
@@ -1935,13 +1935,13 @@ ArrangeSlot,		<cyfunction FishEventGridSlotWindow.ArrangeSlot at 0x0AC168C8>
 
 submodule.ArrangeSlot
 Skipped: unbound method cython_function_or_method object must be called with FishEventGridSlotWindow instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction FishEventGridSlotWindow.RegisterWindow at 0x0AC16870>
+RegisterWindow,		<cyfunction FishEventGridSlotWindow.RegisterWindow at 0x0AC46818>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with FishEventGridSlotWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction FishEventGridSlotWindow.__init__ at 0x0AC167C0>
+__init__,		<cyfunction FishEventGridSlotWindow.__init__ at 0x0AC46768>
 	arg0: self
 
 submodule.__init__
@@ -1964,13 +1964,13 @@ VERTICAL_MODE,		1
 submodule.VERTICAL_MODE
 
 
-AppendItem,		<cyfunction CandidateListBox.AppendItem at 0x078603F8>
+AppendItem,		<cyfunction CandidateListBox.AppendItem at 0x0AB9F3A0>
 	arg0: self
 	arg1: newItem
 
 submodule.AppendItem
 Skipped: unbound method cython_function_or_method object must be called with CandidateListBox instance as first argument (got nothing instead)
-__del__,		<cyfunction CandidateListBox.__del__ at 0x07860348>
+__del__,		<cyfunction CandidateListBox.__del__ at 0x0AB9F2F0>
 	arg0: self
 
 submodule.__del__
@@ -1982,13 +1982,13 @@ submodule.__qualname__
 
 Item,		<class 'ui.Item'>
 Skip: type object 'Item' has no attribute 'func_code'
-SetMode,		<cyfunction CandidateListBox.SetMode at 0x078603A0>
+SetMode,		<cyfunction CandidateListBox.SetMode at 0x0AB9F348>
 	arg0: self
 	arg1: mode
 
 submodule.SetMode
 Skipped: unbound method cython_function_or_method object must be called with CandidateListBox instance as first argument (got nothing instead)
-GetItemViewCoord,		<cyfunction CandidateListBox.GetItemViewCoord at 0x07860450>
+GetItemViewCoord,		<cyfunction CandidateListBox.GetItemViewCoord at 0x0AB9F3F8>
 	arg0: self
 	arg1: pos
 
@@ -1999,7 +1999,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction CandidateListBox.__init__ at 0x078602F0>
+__init__,		<cyfunction CandidateListBox.__init__ at 0x0AB9F298>
 	arg0: self
 	arg1: mode
 	default: 0
@@ -2024,12 +2024,12 @@ B,		3
 submodule.B
 
 
-MakeBase,		<cyfunction Board.MakeBase at 0x0786ABE0>
+MakeBase,		<cyfunction Board.MakeBase at 0x0ABABB88>
 	arg0: self
 
 submodule.MakeBase
 Skipped: unbound method cython_function_or_method object must be called with Board instance as first argument (got nothing instead)
-__del__,		<cyfunction Board.__del__ at 0x0786AC38>
+__del__,		<cyfunction Board.__del__ at 0x0ABABBE0>
 	arg0: self
 
 submodule.__del__
@@ -2049,14 +2049,14 @@ T,		2
 submodule.T
 
 
-SetSize,		<cyfunction Board.SetSize at 0x0786AC90>
+SetSize,		<cyfunction Board.SetSize at 0x0ABABC38>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with Board instance as first argument (got nothing instead)
-__init__,		<cyfunction Board.__init__ at 0x0786AB30>
+__init__,		<cyfunction Board.__init__ at 0x0ABABAD8>
 	arg0: self
 
 submodule.__init__
@@ -2091,7 +2091,7 @@ RB,		3
 submodule.RB
 
 
-MakeBoard,		<cyfunction Board.MakeBoard at 0x0786AB88>
+MakeBoard,		<cyfunction Board.MakeBoard at 0x0ABABB30>
 	arg0: self
 	arg1: cornerPath
 	arg2: linePath
@@ -2121,7 +2121,7 @@ __module__,		ui
 submodule.__module__
 
 
-LoadDefaultData,		<cyfunction PythonScriptLoader.LoadDefaultData at 0x0AC156B8>
+LoadDefaultData,		<cyfunction PythonScriptLoader.LoadDefaultData at 0x0AC45660>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2149,7 +2149,7 @@ BODY_KEY_LIST,		('x', 'y', 'width', 'height')
 submodule.BODY_KEY_LIST
 
 
-LoadElementRenderBox,		<cyfunction PythonScriptLoader.LoadElementRenderBox at 0x0AC16138>
+LoadElementRenderBox,		<cyfunction PythonScriptLoader.LoadElementRenderBox at 0x0AC460E0>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2157,7 +2157,7 @@ LoadElementRenderBox,		<cyfunction PythonScriptLoader.LoadElementRenderBox at 0x
 
 submodule.LoadElementRenderBox
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementGridTable,		<cyfunction PythonScriptLoader.LoadElementGridTable at 0x0AC159D0>
+LoadElementGridTable,		<cyfunction PythonScriptLoader.LoadElementGridTable at 0x0AC45978>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2175,7 +2175,7 @@ EDIT_LINE_KEY_LIST,		('width', 'height', 'input_limit')
 submodule.EDIT_LINE_KEY_LIST
 
 
-LoadScriptFile,		<cyfunction PythonScriptLoader.LoadScriptFile at 0x0AC155B0>
+LoadScriptFile,		<cyfunction PythonScriptLoader.LoadScriptFile at 0x0AC45558>
 	arg0: self
 	arg1: window
 	arg2: FileName
@@ -2187,7 +2187,7 @@ __dict__,		<attribute '__dict__' of 'PythonScriptLoader' objects>
 submodule.__dict__
 
 
-LoadElementAniImage,		<cyfunction PythonScriptLoader.LoadElementAniImage at 0x0AC15870>
+LoadElementAniImage,		<cyfunction PythonScriptLoader.LoadElementAniImage at 0x0AC45818>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2195,7 +2195,7 @@ LoadElementAniImage,		<cyfunction PythonScriptLoader.LoadElementAniImage at 0x0A
 
 submodule.LoadElementAniImage
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementNumberLine,		<cyfunction PythonScriptLoader.LoadElementNumberLine at 0x0AC16030>
+LoadElementNumberLine,		<cyfunction PythonScriptLoader.LoadElementNumberLine at 0x0AC45FA8>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2228,7 +2228,7 @@ SP_GRID_TABLE_KEY_LIST,		('start_index', 'x_count', 'y_count', 'x_step', 'y_step
 submodule.SP_GRID_TABLE_KEY_LIST
 
 
-LoadElementImage,		<cyfunction PythonScriptLoader.LoadElementImage at 0x0AC15818>
+LoadElementImage,		<cyfunction PythonScriptLoader.LoadElementImage at 0x0AC457C0>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2236,7 +2236,7 @@ LoadElementImage,		<cyfunction PythonScriptLoader.LoadElementImage at 0x0AC15818
 
 submodule.LoadElementImage
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementExpandedImage,		<cyfunction PythonScriptLoader.LoadElementExpandedImage at 0x0AC158C8>
+LoadElementExpandedImage,		<cyfunction PythonScriptLoader.LoadElementExpandedImage at 0x0AC45870>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2244,7 +2244,7 @@ LoadElementExpandedImage,		<cyfunction PythonScriptLoader.LoadElementExpandedIma
 
 submodule.LoadElementExpandedImage
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementSlot,		<cyfunction PythonScriptLoader.LoadElementSlot at 0x0AC15920>
+LoadElementSlot,		<cyfunction PythonScriptLoader.LoadElementSlot at 0x0AC458C8>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2252,7 +2252,7 @@ LoadElementSlot,		<cyfunction PythonScriptLoader.LoadElementSlot at 0x0AC15920>
 
 submodule.LoadElementSlot
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-CheckKeyList,		<cyfunction PythonScriptLoader.CheckKeyList at 0x0AC15660>
+CheckKeyList,		<cyfunction PythonScriptLoader.CheckKeyList at 0x0AC45608>
 	arg0: self
 	arg1: name
 	arg2: value
@@ -2260,7 +2260,7 @@ CheckKeyList,		<cyfunction PythonScriptLoader.CheckKeyList at 0x0AC15660>
 
 submodule.CheckKeyList
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementBoardWithTitleBar,		<cyfunction PythonScriptLoader.LoadElementBoardWithTitleBar at 0x0AC15BE0>
+LoadElementBoardWithTitleBar,		<cyfunction PythonScriptLoader.LoadElementBoardWithTitleBar at 0x0AC45B88>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2278,7 +2278,7 @@ BOARD_KEY_LIST,		('width', 'height')
 submodule.BOARD_KEY_LIST
 
 
-LoadElementSpecialGridTable,		<cyfunction PythonScriptLoader.LoadElementSpecialGridTable at 0x0AC160E0>
+LoadElementSpecialGridTable,		<cyfunction PythonScriptLoader.LoadElementSpecialGridTable at 0x0AC46088>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2286,7 +2286,7 @@ LoadElementSpecialGridTable,		<cyfunction PythonScriptLoader.LoadElementSpecialG
 
 submodule.LoadElementSpecialGridTable
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-__init__,		<cyfunction PythonScriptLoader.__init__ at 0x0AC15500>
+__init__,		<cyfunction PythonScriptLoader.__init__ at 0x0AC454A8>
 	arg0: self
 
 submodule.__init__
@@ -2296,7 +2296,7 @@ DEFAULT_KEY_LIST,		('type', 'x', 'y')
 submodule.DEFAULT_KEY_LIST
 
 
-LoadElementCandidateList,		<cyfunction PythonScriptLoader.LoadElementCandidateList at 0x0AC15978>
+LoadElementCandidateList,		<cyfunction PythonScriptLoader.LoadElementCandidateList at 0x0AC45920>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2304,7 +2304,7 @@ LoadElementCandidateList,		<cyfunction PythonScriptLoader.LoadElementCandidateLi
 
 submodule.LoadElementCandidateList
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementLine,		<cyfunction PythonScriptLoader.LoadElementLine at 0x0AC15D40>
+LoadElementLine,		<cyfunction PythonScriptLoader.LoadElementLine at 0x0AC45CE8>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2312,14 +2312,14 @@ LoadElementLine,		<cyfunction PythonScriptLoader.LoadElementLine at 0x0AC15D40>
 
 submodule.LoadElementLine
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadChildren,		<cyfunction PythonScriptLoader.LoadChildren at 0x0AC15608>
+LoadChildren,		<cyfunction PythonScriptLoader.LoadChildren at 0x0AC455B0>
 	arg0: self
 	arg1: parent
 	arg2: dicChildren
 
 submodule.LoadChildren
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementButton,		<cyfunction PythonScriptLoader.LoadElementButton at 0x0AC15768>
+LoadElementButton,		<cyfunction PythonScriptLoader.LoadElementButton at 0x0AC45710>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2332,7 +2332,7 @@ RENDER_BOX_KEY_LIST,		('color',)
 submodule.RENDER_BOX_KEY_LIST
 
 
-LoadElementBar,		<cyfunction PythonScriptLoader.LoadElementBar at 0x0AC15CE8>
+LoadElementBar,		<cyfunction PythonScriptLoader.LoadElementBar at 0x0AC45C90>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2340,7 +2340,7 @@ LoadElementBar,		<cyfunction PythonScriptLoader.LoadElementBar at 0x0AC15CE8>
 
 submodule.LoadElementBar
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementBox,		<cyfunction PythonScriptLoader.LoadElementBox at 0x0AC15C90>
+LoadElementBox,		<cyfunction PythonScriptLoader.LoadElementBox at 0x0AC45C38>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2353,7 +2353,7 @@ LIST_BOX_KEY_LIST,		('width', 'height')
 submodule.LIST_BOX_KEY_LIST
 
 
-Clear,		<cyfunction PythonScriptLoader.Clear at 0x0AC15558>
+Clear,		<cyfunction PythonScriptLoader.Clear at 0x0AC45500>
 	arg0: self
 
 submodule.Clear
@@ -2363,7 +2363,7 @@ LINE_KEY_LIST,		('width', 'height')
 submodule.LINE_KEY_LIST
 
 
-LoadElementTitleBar,		<cyfunction PythonScriptLoader.LoadElementTitleBar at 0x0AC15AD8>
+LoadElementTitleBar,		<cyfunction PythonScriptLoader.LoadElementTitleBar at 0x0AC45A80>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2371,7 +2371,7 @@ LoadElementTitleBar,		<cyfunction PythonScriptLoader.LoadElementTitleBar at 0x0A
 
 submodule.LoadElementTitleBar
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementText,		<cyfunction PythonScriptLoader.LoadElementText at 0x0AC15A28>
+LoadElementText,		<cyfunction PythonScriptLoader.LoadElementText at 0x0AC459D0>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2379,7 +2379,7 @@ LoadElementText,		<cyfunction PythonScriptLoader.LoadElementText at 0x0AC15A28>
 
 submodule.LoadElementText
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementSlotBar,		<cyfunction PythonScriptLoader.LoadElementSlotBar at 0x0AC15D98>
+LoadElementSlotBar,		<cyfunction PythonScriptLoader.LoadElementSlotBar at 0x0AC45D40>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2387,7 +2387,7 @@ LoadElementSlotBar,		<cyfunction PythonScriptLoader.LoadElementSlotBar at 0x0AC1
 
 submodule.LoadElementSlotBar
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementMark,		<cyfunction PythonScriptLoader.LoadElementMark at 0x0AC157C0>
+LoadElementMark,		<cyfunction PythonScriptLoader.LoadElementMark at 0x0AC45768>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2400,7 +2400,7 @@ GRID_TABLE_KEY_LIST,		('start_index', 'x_count', 'y_count', 'x_step', 'y_step')
 submodule.GRID_TABLE_KEY_LIST
 
 
-LoadElementListBox2,		<cyfunction PythonScriptLoader.LoadElementListBox2 at 0x0AC15F50>
+LoadElementListBox2,		<cyfunction PythonScriptLoader.LoadElementListBox2 at 0x0AC45EF8>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2408,7 +2408,7 @@ LoadElementListBox2,		<cyfunction PythonScriptLoader.LoadElementListBox2 at 0x0A
 
 submodule.LoadElementListBox2
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementGauge,		<cyfunction PythonScriptLoader.LoadElementGauge at 0x0AC15DF0>
+LoadElementGauge,		<cyfunction PythonScriptLoader.LoadElementGauge at 0x0AC45D98>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2416,7 +2416,7 @@ LoadElementGauge,		<cyfunction PythonScriptLoader.LoadElementGauge at 0x0AC15DF0
 
 submodule.LoadElementGauge
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementBoard,		<cyfunction PythonScriptLoader.LoadElementBoard at 0x0AC15B88>
+LoadElementBoard,		<cyfunction PythonScriptLoader.LoadElementBoard at 0x0AC45B30>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2429,7 +2429,7 @@ TITLE_BAR_KEY_LIST,		('width',)
 submodule.TITLE_BAR_KEY_LIST
 
 
-LoadElementHorizontalBar,		<cyfunction PythonScriptLoader.LoadElementHorizontalBar at 0x0AC15B30>
+LoadElementHorizontalBar,		<cyfunction PythonScriptLoader.LoadElementHorizontalBar at 0x0AC45AD8>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2437,7 +2437,7 @@ LoadElementHorizontalBar,		<cyfunction PythonScriptLoader.LoadElementHorizontalB
 
 submodule.LoadElementHorizontalBar
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementSliderBar,		<cyfunction PythonScriptLoader.LoadElementSliderBar at 0x0AC15EA0>
+LoadElementSliderBar,		<cyfunction PythonScriptLoader.LoadElementSliderBar at 0x0AC45E48>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2445,7 +2445,7 @@ LoadElementSliderBar,		<cyfunction PythonScriptLoader.LoadElementSliderBar at 0x
 
 submodule.LoadElementSliderBar
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementThinBoard,		<cyfunction PythonScriptLoader.LoadElementThinBoard at 0x0AC15C38>
+LoadElementThinBoard,		<cyfunction PythonScriptLoader.LoadElementThinBoard at 0x0AC45BE0>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2463,7 +2463,7 @@ GAUGE_KEY_LIST,		('width', 'color')
 submodule.GAUGE_KEY_LIST
 
 
-LoadElementScrollBar,		<cyfunction PythonScriptLoader.LoadElementScrollBar at 0x0AC15E48>
+LoadElementScrollBar,		<cyfunction PythonScriptLoader.LoadElementScrollBar at 0x0AC45DF0>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2471,7 +2471,7 @@ LoadElementScrollBar,		<cyfunction PythonScriptLoader.LoadElementScrollBar at 0x
 
 submodule.LoadElementScrollBar
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementEditLine,		<cyfunction PythonScriptLoader.LoadElementEditLine at 0x0AC15A80>
+LoadElementEditLine,		<cyfunction PythonScriptLoader.LoadElementEditLine at 0x0AC45A28>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2494,7 +2494,7 @@ __qualname__,		PythonScriptLoader
 submodule.__qualname__
 
 
-LoadElementListBox,		<cyfunction PythonScriptLoader.LoadElementListBox at 0x0AC15EF8>
+LoadElementListBox,		<cyfunction PythonScriptLoader.LoadElementListBox at 0x0AC45EA0>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2512,7 +2512,7 @@ EXPANDED_IMAGE_KEY_LIST,		('image',)
 submodule.EXPANDED_IMAGE_KEY_LIST
 
 
-LoadElementWindow,		<cyfunction PythonScriptLoader.LoadElementWindow at 0x0AC15710>
+LoadElementWindow,		<cyfunction PythonScriptLoader.LoadElementWindow at 0x0AC456B8>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2525,7 +2525,7 @@ SLOTBAR_KEY_LIST,		('width', 'height')
 submodule.SLOTBAR_KEY_LIST
 
 
-LoadElementListBoxEx,		<cyfunction PythonScriptLoader.LoadElementListBoxEx at 0x0AC15FA8>
+LoadElementListBoxEx,		<cyfunction PythonScriptLoader.LoadElementListBoxEx at 0x0AC45F50>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2533,7 +2533,7 @@ LoadElementListBoxEx,		<cyfunction PythonScriptLoader.LoadElementListBoxEx at 0x
 
 submodule.LoadElementListBoxEx
 Skipped: unbound method cython_function_or_method object must be called with PythonScriptLoader instance as first argument (got nothing instead)
-LoadElementRenderTarget,		<cyfunction PythonScriptLoader.LoadElementRenderTarget at 0x0AC16088>
+LoadElementRenderTarget,		<cyfunction PythonScriptLoader.LoadElementRenderTarget at 0x0AC46030>
 	arg0: self
 	arg1: window
 	arg2: value
@@ -2549,7 +2549,7 @@ submodule.SCROLLBAR_KEY_LIST
 
 
 class MoveImageBox:
-OnEndMove,		<cyfunction MoveImageBox.OnEndMove at 0x07865768>
+OnEndMove,		<cyfunction MoveImageBox.OnEndMove at 0x0ABA5710>
 	arg0: self
 
 submodule.OnEndMove
@@ -2559,17 +2559,17 @@ __module__,		ui
 submodule.__module__
 
 
-MoveStart,		<cyfunction MoveImageBox.MoveStart at 0x078655B0>
+MoveStart,		<cyfunction MoveImageBox.MoveStart at 0x0ABA5558>
 	arg0: self
 
 submodule.MoveStart
 Skipped: unbound method cython_function_or_method object must be called with MoveImageBox instance as first argument (got nothing instead)
-__del__,		<cyfunction MoveImageBox.__del__ at 0x07865500>
+__del__,		<cyfunction MoveImageBox.__del__ at 0x0ABA54A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MoveImageBox instance as first argument (got nothing instead)
-SetMovePosition,		<cyfunction MoveImageBox.SetMovePosition at 0x078656B8>
+SetMovePosition,		<cyfunction MoveImageBox.SetMovePosition at 0x0ABA5660>
 	arg0: self
 	arg1: dst_x
 	arg2: dst_y
@@ -2586,35 +2586,35 @@ __qualname__,		MoveImageBox
 submodule.__qualname__
 
 
-GetMove,		<cyfunction MoveImageBox.GetMove at 0x07865660>
+GetMove,		<cyfunction MoveImageBox.GetMove at 0x0ABA5608>
 	arg0: self
 
 submodule.GetMove
 Skipped: unbound method cython_function_or_method object must be called with MoveImageBox instance as first argument (got nothing instead)
-MoveStop,		<cyfunction MoveImageBox.MoveStop at 0x07865608>
+MoveStop,		<cyfunction MoveImageBox.MoveStop at 0x0ABA55B0>
 	arg0: self
 
 submodule.MoveStop
 Skipped: unbound method cython_function_or_method object must be called with MoveImageBox instance as first argument (got nothing instead)
-SetMoveSpeed,		<cyfunction MoveImageBox.SetMoveSpeed at 0x07865710>
+SetMoveSpeed,		<cyfunction MoveImageBox.SetMoveSpeed at 0x0ABA56B8>
 	arg0: self
 	arg1: speed
 
 submodule.SetMoveSpeed
 Skipped: unbound method cython_function_or_method object must be called with MoveImageBox instance as first argument (got nothing instead)
-SetEndMoveEvent,		<cyfunction MoveImageBox.SetEndMoveEvent at 0x078657C0>
+SetEndMoveEvent,		<cyfunction MoveImageBox.SetEndMoveEvent at 0x0ABA5768>
 	arg0: self
 	arg1: event
 
 submodule.SetEndMoveEvent
 Skipped: unbound method cython_function_or_method object must be called with MoveImageBox instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction MoveImageBox.RegisterWindow at 0x07865558>
+RegisterWindow,		<cyfunction MoveImageBox.RegisterWindow at 0x0ABA5500>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with MoveImageBox instance as first argument (got nothing instead)
-__init__,		<cyfunction MoveImageBox.__init__ at 0x078654A8>
+__init__,		<cyfunction MoveImageBox.__init__ at 0x0ABA5450>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -2624,7 +2624,7 @@ Skipped: unbound method cython_function_or_method object must be called with Mov
 
 
 class MarkBox:
-Load,		<cyfunction MarkBox.Load at 0x078623F8>
+Load,		<cyfunction MarkBox.Load at 0x0ABA33A0>
 	arg0: self
 
 submodule.Load
@@ -2634,18 +2634,18 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction MarkBox.__del__ at 0x07862348>
+__del__,		<cyfunction MarkBox.__del__ at 0x0ABA32F0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MarkBox instance as first argument (got nothing instead)
-SetIndex,		<cyfunction MarkBox.SetIndex at 0x078624A8>
+SetIndex,		<cyfunction MarkBox.SetIndex at 0x0ABA3450>
 	arg0: self
 	arg1: guildID
 
 submodule.SetIndex
 Skipped: unbound method cython_function_or_method object must be called with MarkBox instance as first argument (got nothing instead)
-SetScale,		<cyfunction MarkBox.SetScale at 0x07862450>
+SetScale,		<cyfunction MarkBox.SetScale at 0x0ABA33F8>
 	arg0: self
 	arg1: scale
 
@@ -2661,19 +2661,19 @@ __qualname__,		MarkBox
 submodule.__qualname__
 
 
-SetAlpha,		<cyfunction MarkBox.SetAlpha at 0x07862500>
+SetAlpha,		<cyfunction MarkBox.SetAlpha at 0x0ABA34A8>
 	arg0: self
 	arg1: alpha
 
 submodule.SetAlpha
 Skipped: unbound method cython_function_or_method object must be called with MarkBox instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction MarkBox.RegisterWindow at 0x078623A0>
+RegisterWindow,		<cyfunction MarkBox.RegisterWindow at 0x0ABA3348>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with MarkBox instance as first argument (got nothing instead)
-__init__,		<cyfunction MarkBox.__init__ at 0x078622F0>
+__init__,		<cyfunction MarkBox.__init__ at 0x0ABA3298>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -2688,7 +2688,7 @@ __module__,		ui
 submodule.__module__
 
 
-SetColor,		<cyfunction Bar3D.SetColor at 0x07868A28>
+SetColor,		<cyfunction Bar3D.SetColor at 0x0ABA99D0>
 	arg0: self
 	arg1: left
 	arg2: right
@@ -2696,7 +2696,7 @@ SetColor,		<cyfunction Bar3D.SetColor at 0x07868A28>
 
 submodule.SetColor
 Skipped: unbound method cython_function_or_method object must be called with Bar3D instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction Bar3D.RegisterWindow at 0x078689D0>
+RegisterWindow,		<cyfunction Bar3D.RegisterWindow at 0x0ABA9978>
 	arg0: self
 	arg1: layer
 
@@ -2712,7 +2712,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction Bar3D.__init__ at 0x07868978>
+__init__,		<cyfunction Bar3D.__init__ at 0x0ABA9920>
 	arg0: self
 
 submodule.__init__
@@ -2725,58 +2725,58 @@ __module__,		ui
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction ImageBox.OnMouseOverOut at 0x078627C0>
+OnMouseOverOut,		<cyfunction ImageBox.OnMouseOverOut at 0x0ABA3768>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-__del__,		<cyfunction ImageBox.__del__ at 0x078625B0>
+__del__,		<cyfunction ImageBox.__del__ at 0x0ABA3558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-GetHeight,		<cyfunction ImageBox.GetHeight at 0x07862768>
+GetHeight,		<cyfunction ImageBox.GetHeight at 0x0ABA3710>
 	arg0: self
 
 submodule.GetHeight
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-SetStartCoolTime,		<cyfunction ImageBox.SetStartCoolTime at 0x07862A28>
+SetStartCoolTime,		<cyfunction ImageBox.SetStartCoolTime at 0x0ABA39D0>
 	arg0: self
 	arg1: time
 
 submodule.SetStartCoolTime
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-SetEvent,		<cyfunction ImageBox.SetEvent at 0x078628C8>
+SetEvent,		<cyfunction ImageBox.SetEvent at 0x0ABA3870>
 	arg0: self
 	arg1: func
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction ImageBox.OnMouseLeftButtonUp at 0x07862920>
+OnMouseLeftButtonUp,		<cyfunction ImageBox.OnMouseLeftButtonUp at 0x0ABA38C8>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-SetAlpha,		<cyfunction ImageBox.SetAlpha at 0x078626B8>
+SetAlpha,		<cyfunction ImageBox.SetAlpha at 0x0ABA3660>
 	arg0: self
 	arg1: alpha
 
 submodule.SetAlpha
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-LoadImage,		<cyfunction ImageBox.LoadImage at 0x07862660>
+LoadImage,		<cyfunction ImageBox.LoadImage at 0x0ABA3608>
 	arg0: self
 	arg1: imageName
 
 submodule.LoadImage
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-SAFE_SetStringEvent,		<cyfunction ImageBox.SAFE_SetStringEvent at 0x07862870>
+SAFE_SetStringEvent,		<cyfunction ImageBox.SAFE_SetStringEvent at 0x0ABA3818>
 	arg0: self
 	arg1: event
 	arg2: func
 
 submodule.SAFE_SetStringEvent
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-__init__,		<cyfunction ImageBox.__init__ at 0x07862558>
+__init__,		<cyfunction ImageBox.__init__ at 0x0ABA3500>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -2788,7 +2788,7 @@ __qualname__,		ImageBox
 submodule.__qualname__
 
 
-OnMouseLeftButtonDown,		<cyfunction ImageBox.OnMouseLeftButtonDown at 0x07862A80>
+OnMouseLeftButtonDown,		<cyfunction ImageBox.OnMouseLeftButtonDown at 0x0ABA3A28>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
@@ -2798,28 +2798,28 @@ __doc__,		None
 submodule.__doc__
 
 
-GetWidth,		<cyfunction ImageBox.GetWidth at 0x07862710>
+GetWidth,		<cyfunction ImageBox.GetWidth at 0x0ABA36B8>
 	arg0: self
 
 submodule.GetWidth
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-SetCoolTime,		<cyfunction ImageBox.SetCoolTime at 0x078629D0>
+SetCoolTime,		<cyfunction ImageBox.SetCoolTime at 0x0ABA3978>
 	arg0: self
 	arg1: time
 
 submodule.SetCoolTime
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction ImageBox.OnMouseOverIn at 0x07862978>
+OnMouseOverIn,		<cyfunction ImageBox.OnMouseOverIn at 0x0ABA3920>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-LeftRightReverse,		<cyfunction ImageBox.LeftRightReverse at 0x07862818>
+LeftRightReverse,		<cyfunction ImageBox.LeftRightReverse at 0x0ABA37C0>
 	arg0: self
 
 submodule.LeftRightReverse
 Skipped: unbound method cython_function_or_method object must be called with ImageBox instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction ImageBox.RegisterWindow at 0x07862608>
+RegisterWindow,		<cyfunction ImageBox.RegisterWindow at 0x0ABA35B0>
 	arg0: self
 	arg1: layer
 
@@ -2833,18 +2833,18 @@ __module__,		ui
 submodule.__module__
 
 
-SetMaxScaleRate,		<cyfunction MoveScaleImageBox.SetMaxScaleRate at 0x07865978>
+SetMaxScaleRate,		<cyfunction MoveScaleImageBox.SetMaxScaleRate at 0x0ABA5920>
 	arg0: self
 	arg1: pivot
 
 submodule.SetMaxScaleRate
 Skipped: unbound method cython_function_or_method object must be called with MoveScaleImageBox instance as first argument (got nothing instead)
-__del__,		<cyfunction MoveScaleImageBox.__del__ at 0x07865870>
+__del__,		<cyfunction MoveScaleImageBox.__del__ at 0x0ABA5818>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MoveScaleImageBox instance as first argument (got nothing instead)
-SetMaxScale,		<cyfunction MoveScaleImageBox.SetMaxScale at 0x07865920>
+SetMaxScale,		<cyfunction MoveScaleImageBox.SetMaxScale at 0x0ABA58C8>
 	arg0: self
 	arg1: scale
 
@@ -2860,19 +2860,19 @@ __doc__,		None
 submodule.__doc__
 
 
-SetScalePivotCenter,		<cyfunction MoveScaleImageBox.SetScalePivotCenter at 0x078659D0>
+SetScalePivotCenter,		<cyfunction MoveScaleImageBox.SetScalePivotCenter at 0x0ABA5978>
 	arg0: self
 	arg1: flag
 
 submodule.SetScalePivotCenter
 Skipped: unbound method cython_function_or_method object must be called with MoveScaleImageBox instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction MoveScaleImageBox.RegisterWindow at 0x078658C8>
+RegisterWindow,		<cyfunction MoveScaleImageBox.RegisterWindow at 0x0ABA5870>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with MoveScaleImageBox instance as first argument (got nothing instead)
-__init__,		<cyfunction MoveScaleImageBox.__init__ at 0x07865818>
+__init__,		<cyfunction MoveScaleImageBox.__init__ at 0x0ABA57C0>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -2887,86 +2887,86 @@ __module__,		ui
 submodule.__module__
 
 
-SetTextCenterAlign,		<cyfunction ListBox.SetTextCenterAlign at 0x0AC129D0>
+SetTextCenterAlign,		<cyfunction ListBox.SetTextCenterAlign at 0x0AC43978>
 	arg0: self
 	arg1: flag
 
 submodule.SetTextCenterAlign
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-ArrangeItem,		<cyfunction ListBox.ArrangeItem at 0x0AC12C38>
+ArrangeItem,		<cyfunction ListBox.ArrangeItem at 0x0AC43BE0>
 	arg0: self
 
 submodule.ArrangeItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-SelectItem,		<cyfunction ListBox.SelectItem at 0x0AC12D98>
+SelectItem,		<cyfunction ListBox.SelectItem at 0x0AC43D40>
 	arg0: self
 	arg1: line
 
 submodule.SelectItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-__del__,		<cyfunction ListBox.__del__ at 0x0AC12870>
+__del__,		<cyfunction ListBox.__del__ at 0x0AC43818>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-SetBasePos,		<cyfunction ListBox.SetBasePos at 0x0AC12A28>
+SetBasePos,		<cyfunction ListBox.SetBasePos at 0x0AC439D0>
 	arg0: self
 	arg1: pos
 
 submodule.SetBasePos
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-SetSelectColor,		<cyfunction ListBox.SetSelectColor at 0x0AC12920>
+SetSelectColor,		<cyfunction ListBox.SetSelectColor at 0x0AC438C8>
 	arg0: self
 	arg1: color
 
 submodule.SetSelectColor
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-SetEvent,		<cyfunction ListBox.SetEvent at 0x0AC12D40>
+SetEvent,		<cyfunction ListBox.SetEvent at 0x0AC43CE8>
 	arg0: self
 	arg1: event
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction ListBox.OnMouseLeftButtonUp at 0x0AC12EA0>
+OnMouseLeftButtonUp,		<cyfunction ListBox.OnMouseLeftButtonUp at 0x0AC43E48>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-GetViewItemCount,		<cyfunction ListBox.GetViewItemCount at 0x0AC12C90>
+GetViewItemCount,		<cyfunction ListBox.GetViewItemCount at 0x0AC43C38>
 	arg0: self
 
 submodule.GetViewItemCount
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-LocateItem,		<cyfunction ListBox.LocateItem at 0x0AC12B88>
+LocateItem,		<cyfunction ListBox.LocateItem at 0x0AC43B30>
 	arg0: self
 
 submodule.LocateItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-SetSize,		<cyfunction ListBox.SetSize at 0x0AC12978>
+SetSize,		<cyfunction ListBox.SetSize at 0x0AC43920>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-__init__,		<cyfunction ListBox.__init__ at 0x0AC12818>
+__init__,		<cyfunction ListBox.__init__ at 0x0AC437C0>
 	arg0: self
 	arg1: layer
 	default: UI
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ListBox.OnUpdate at 0x0AC12EF8>
+OnUpdate,		<cyfunction ListBox.OnUpdate at 0x0AC43EA0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction ListBox.OnMouseLeftButtonDown at 0x0AC12E48>
+OnMouseLeftButtonDown,		<cyfunction ListBox.OnMouseLeftButtonDown at 0x0AC43DF0>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-OnRender,		<cyfunction ListBox.OnRender at 0x0AC12F50>
+OnRender,		<cyfunction ListBox.OnRender at 0x0AC43EF8>
 	arg0: self
 
 submodule.OnRender
@@ -2976,7 +2976,7 @@ TEMPORARY_PLACE,		3
 submodule.TEMPORARY_PLACE
 
 
-InsertItem,		<cyfunction ListBox.InsertItem at 0x0AC12AD8>
+InsertItem,		<cyfunction ListBox.InsertItem at 0x0AC43A80>
 	arg0: self
 	arg1: number
 	arg2: text
@@ -2985,7 +2985,7 @@ InsertItem,		<cyfunction ListBox.InsertItem at 0x0AC12AD8>
 
 submodule.InsertItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-ChangeItem,		<cyfunction ListBox.ChangeItem at 0x0AC12B30>
+ChangeItem,		<cyfunction ListBox.ChangeItem at 0x0AC43AD8>
 	arg0: self
 	arg1: number
 	arg2: text
@@ -3002,28 +3002,28 @@ __qualname__,		ListBox
 submodule.__qualname__
 
 
-ClearItem,		<cyfunction ListBox.ClearItem at 0x0AC12A80>
+ClearItem,		<cyfunction ListBox.ClearItem at 0x0AC43A28>
 	arg0: self
 
 submodule.ClearItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-GetItemCount,		<cyfunction ListBox.GetItemCount at 0x0AC12CE8>
+GetItemCount,		<cyfunction ListBox.GetItemCount at 0x0AC43C90>
 	arg0: self
 
 submodule.GetItemCount
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-_LocateItem,		<cyfunction ListBox._LocateItem at 0x0AC12BE0>
+_LocateItem,		<cyfunction ListBox._LocateItem at 0x0AC43B88>
 	arg0: self
 
 submodule._LocateItem
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-SetWidth,		<cyfunction ListBox.SetWidth at 0x0AC128C8>
+SetWidth,		<cyfunction ListBox.SetWidth at 0x0AC43870>
 	arg0: self
 	arg1: width
 
 submodule.SetWidth
 Skipped: unbound method cython_function_or_method object must be called with ListBox instance as first argument (got nothing instead)
-GetSelectedItem,		<cyfunction ListBox.GetSelectedItem at 0x0AC12DF0>
+GetSelectedItem,		<cyfunction ListBox.GetSelectedItem at 0x0AC43D98>
 	arg0: self
 
 submodule.GetSelectedItem
@@ -3046,7 +3046,7 @@ B,		3
 submodule.B
 
 
-__del__,		<cyfunction MiddleBoard.__del__ at 0x0786D500>
+__del__,		<cyfunction MiddleBoard.__del__ at 0x0ABAE4A8>
 	arg0: self
 
 submodule.__del__
@@ -3066,24 +3066,24 @@ T,		2
 submodule.T
 
 
-HideInternal,		<cyfunction MiddleBoard.HideInternal at 0x0786D608>
+HideInternal,		<cyfunction MiddleBoard.HideInternal at 0x0ABAE5B0>
 	arg0: self
 
 submodule.HideInternal
 Skipped: unbound method cython_function_or_method object must be called with MiddleBoard instance as first argument (got nothing instead)
-ShowInternal,		<cyfunction MiddleBoard.ShowInternal at 0x0786D5B0>
+ShowInternal,		<cyfunction MiddleBoard.ShowInternal at 0x0ABAE558>
 	arg0: self
 
 submodule.ShowInternal
 Skipped: unbound method cython_function_or_method object must be called with MiddleBoard instance as first argument (got nothing instead)
-SetSize,		<cyfunction MiddleBoard.SetSize at 0x0786D558>
+SetSize,		<cyfunction MiddleBoard.SetSize at 0x0ABAE500>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with MiddleBoard instance as first argument (got nothing instead)
-__init__,		<cyfunction MiddleBoard.__init__ at 0x0786D4A8>
+__init__,		<cyfunction MiddleBoard.__init__ at 0x0ABAE450>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -3158,12 +3158,12 @@ B,		3
 submodule.B
 
 
-MakeBase,		<cyfunction ThinBoardGold.MakeBase at 0x0786D1E8>
+MakeBase,		<cyfunction ThinBoardGold.MakeBase at 0x0ABAE190>
 	arg0: self
 
 submodule.MakeBase
 Skipped: unbound method cython_function_or_method object must be called with ThinBoardGold instance as first argument (got nothing instead)
-__del__,		<cyfunction ThinBoardGold.__del__ at 0x0786D138>
+__del__,		<cyfunction ThinBoardGold.__del__ at 0x0ABAE0E0>
 	arg0: self
 
 submodule.__del__
@@ -3183,24 +3183,24 @@ T,		2
 submodule.T
 
 
-HideInternal,		<cyfunction ThinBoardGold.HideInternal at 0x0786D298>
+HideInternal,		<cyfunction ThinBoardGold.HideInternal at 0x0ABAE240>
 	arg0: self
 
 submodule.HideInternal
 Skipped: unbound method cython_function_or_method object must be called with ThinBoardGold instance as first argument (got nothing instead)
-ShowInternal,		<cyfunction ThinBoardGold.ShowInternal at 0x0786D240>
+ShowInternal,		<cyfunction ThinBoardGold.ShowInternal at 0x0ABAE1E8>
 	arg0: self
 
 submodule.ShowInternal
 Skipped: unbound method cython_function_or_method object must be called with ThinBoardGold instance as first argument (got nothing instead)
-SetSize,		<cyfunction ThinBoardGold.SetSize at 0x0786D190>
+SetSize,		<cyfunction ThinBoardGold.SetSize at 0x0ABAE138>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with ThinBoardGold instance as first argument (got nothing instead)
-__init__,		<cyfunction ThinBoardGold.__init__ at 0x0786D0E0>
+__init__,		<cyfunction ThinBoardGold.__init__ at 0x0ABAE088>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -3260,33 +3260,33 @@ __module__,		ui
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction AniImageBox.OnMouseOverOut at 0x07865450>
+OnMouseOverOut,		<cyfunction AniImageBox.OnMouseOverOut at 0x0ABA53F8>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-ResetFrame,		<cyfunction AniImageBox.ResetFrame at 0x07865240>
+ResetFrame,		<cyfunction AniImageBox.ResetFrame at 0x0ABA51E8>
 	arg0: self
 
 submodule.ResetFrame
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-__del__,		<cyfunction AniImageBox.__del__ at 0x07862EF8>
+__del__,		<cyfunction AniImageBox.__del__ at 0x0ABA3EA0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-SetEvent,		<cyfunction AniImageBox.SetEvent at 0x07865348>
+SetEvent,		<cyfunction AniImageBox.SetEvent at 0x0ABA52F0>
 	arg0: self
 	arg1: func
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction AniImageBox.OnMouseLeftButtonUp at 0x078653A0>
+OnMouseLeftButtonUp,		<cyfunction AniImageBox.OnMouseLeftButtonUp at 0x0ABA5348>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-SetKeyFrameEvent,		<cyfunction AniImageBox.SetKeyFrameEvent at 0x078652F0>
+SetKeyFrameEvent,		<cyfunction AniImageBox.SetKeyFrameEvent at 0x0ABA5298>
 	arg0: self
 	arg1: event
 
@@ -3297,39 +3297,39 @@ __doc__,		None
 submodule.__doc__
 
 
-SetEndFrameEvent,		<cyfunction AniImageBox.SetEndFrameEvent at 0x078651E8>
+SetEndFrameEvent,		<cyfunction AniImageBox.SetEndFrameEvent at 0x0ABA5190>
 	arg0: self
 	arg1: event
 
 submodule.SetEndFrameEvent
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-SetPercentageWithScale,		<cyfunction AniImageBox.SetPercentageWithScale at 0x07865138>
+SetPercentageWithScale,		<cyfunction AniImageBox.SetPercentageWithScale at 0x0ABA50E0>
 	arg0: self
 	arg1: curValue
 	arg2: maxValue
 
 submodule.SetPercentageWithScale
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-__init__,		<cyfunction AniImageBox.__init__ at 0x07862EA0>
+__init__,		<cyfunction AniImageBox.__init__ at 0x0ABA3E48>
 	arg0: self
 	arg1: layer
 	default: UI
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-OnEndFrame,		<cyfunction AniImageBox.OnEndFrame at 0x078650E0>
+OnEndFrame,		<cyfunction AniImageBox.OnEndFrame at 0x0ABA5088>
 	arg0: self
 
 submodule.OnEndFrame
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-SetScale,		<cyfunction AniImageBox.SetScale at 0x07865190>
+SetScale,		<cyfunction AniImageBox.SetScale at 0x0ABA5138>
 	arg0: self
 	arg1: xScale
 	arg2: yScale
 
 submodule.SetScale
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-SetDelay,		<cyfunction AniImageBox.SetDelay at 0x07862FA8>
+SetDelay,		<cyfunction AniImageBox.SetDelay at 0x0ABA3F50>
 	arg0: self
 	arg1: delay
 
@@ -3340,31 +3340,31 @@ __qualname__,		AniImageBox
 submodule.__qualname__
 
 
-OnKeyFrame,		<cyfunction AniImageBox.OnKeyFrame at 0x07865298>
+OnKeyFrame,		<cyfunction AniImageBox.OnKeyFrame at 0x0ABA5240>
 	arg0: self
 	arg1: cur_frame
 
 submodule.OnKeyFrame
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-SetPercentage,		<cyfunction AniImageBox.SetPercentage at 0x07865088>
+SetPercentage,		<cyfunction AniImageBox.SetPercentage at 0x0ABA5030>
 	arg0: self
 	arg1: curValue
 	arg2: maxValue
 
 submodule.SetPercentage
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction AniImageBox.OnMouseOverIn at 0x078653F8>
+OnMouseOverIn,		<cyfunction AniImageBox.OnMouseOverIn at 0x0ABA53A0>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-AppendImage,		<cyfunction AniImageBox.AppendImage at 0x07865030>
+AppendImage,		<cyfunction AniImageBox.AppendImage at 0x0ABA3FA8>
 	arg0: self
 	arg1: filename
 
 submodule.AppendImage
 Skipped: unbound method cython_function_or_method object must be called with AniImageBox instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction AniImageBox.RegisterWindow at 0x07862F50>
+RegisterWindow,		<cyfunction AniImageBox.RegisterWindow at 0x0ABA3EF8>
 	arg0: self
 	arg1: layer
 
@@ -3373,7 +3373,7 @@ Skipped: unbound method cython_function_or_method object must be called with Ani
 
 
 class Window:
-SetFocus,		<cyfunction Window.SetFocus at 0x0785C4A8>
+SetFocus,		<cyfunction Window.SetFocus at 0x0AB9E450>
 	arg0: self
 
 submodule.SetFocus
@@ -3383,17 +3383,17 @@ __module__,		ui
 submodule.__module__
 
 
-Hide,		<cyfunction Window.Hide at 0x078B8F50>
+Hide,		<cyfunction Window.Hide at 0x0AC01EF8>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetPickAlways,		<cyfunction Window.SetPickAlways at 0x078B8B88>
+SetPickAlways,		<cyfunction Window.SetPickAlways at 0x0AC01B30>
 	arg0: self
 
 submodule.SetPickAlways
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetCenterPosition,		<cyfunction Window.SetCenterPosition at 0x0785C3F8>
+SetCenterPosition,		<cyfunction Window.SetCenterPosition at 0x0AB9E3A0>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -3402,17 +3402,17 @@ SetCenterPosition,		<cyfunction Window.SetCenterPosition at 0x0785C3F8>
 
 submodule.SetCenterPosition
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetGlobalPosition,		<cyfunction Window.GetGlobalPosition at 0x0785C298>
+GetGlobalPosition,		<cyfunction Window.GetGlobalPosition at 0x0AB9E240>
 	arg0: self
 
 submodule.GetGlobalPosition
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-OnMouseLeftButtonUp,		<cyfunction Window.OnMouseLeftButtonUp at 0x0785C660>
+OnMouseLeftButtonUp,		<cyfunction Window.OnMouseLeftButtonUp at 0x0AB9E608>
 	arg0: self
 
 submodule.OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetChildCount,		<cyfunction Window.GetChildCount at 0x0785C558>
+GetChildCount,		<cyfunction Window.GetChildCount at 0x0AB9E500>
 	arg0: self
 
 submodule.GetChildCount
@@ -3422,46 +3422,46 @@ __dict__,		<attribute '__dict__' of 'Window' objects>
 submodule.__dict__
 
 
-Destroy,		<cyfunction Window.Destroy at 0x078B8870>
+Destroy,		<cyfunction Window.Destroy at 0x0AC01818>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetWindowVerticalAlignTop,		<cyfunction Window.SetWindowVerticalAlignTop at 0x078B8CE8>
+SetWindowVerticalAlignTop,		<cyfunction Window.SetWindowVerticalAlignTop at 0x0AC01C90>
 	arg0: self
 
 submodule.SetWindowVerticalAlignTop
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetSize,		<cyfunction Window.SetSize at 0x0785C138>
+SetSize,		<cyfunction Window.SetSize at 0x0AB9E0E0>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-__init__,		<cyfunction Window.__init__ at 0x078B8768>
+__init__,		<cyfunction Window.__init__ at 0x0AC01710>
 	arg0: self
 	arg1: layer
 	default: UI
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetWindowHorizontalAlign,		<cyfunction Window.GetWindowHorizontalAlign at 0x078B8DF0>
+GetWindowHorizontalAlign,		<cyfunction Window.GetWindowHorizontalAlign at 0x0AC01D98>
 	arg0: self
 
 submodule.GetWindowHorizontalAlign
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-UpdateRect,		<cyfunction Window.UpdateRect at 0x0785C0E0>
+UpdateRect,		<cyfunction Window.UpdateRect at 0x0AB9E088>
 	arg0: self
 
 submodule.UpdateRect
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetMouseLocalPosition,		<cyfunction Window.GetMouseLocalPosition at 0x0785C2F0>
+GetMouseLocalPosition,		<cyfunction Window.GetMouseLocalPosition at 0x0AB9E298>
 	arg0: self
 
 submodule.GetMouseLocalPosition
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-KillFocus,		<cyfunction Window.KillFocus at 0x0785C500>
+KillFocus,		<cyfunction Window.KillFocus at 0x0AB9E4A8>
 	arg0: self
 
 submodule.KillFocus
@@ -3471,99 +3471,99 @@ __weakref__,		<attribute '__weakref__' of 'Window' objects>
 submodule.__weakref__
 
 
-SetWindowVerticalAlignCenter,		<cyfunction Window.SetWindowVerticalAlignCenter at 0x078B8D40>
+SetWindowVerticalAlignCenter,		<cyfunction Window.SetWindowVerticalAlignCenter at 0x0AC01CE8>
 	arg0: self
 
 submodule.SetWindowVerticalAlignCenter
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetWindowHorizontalAlignCenter,		<cyfunction Window.SetWindowHorizontalAlignCenter at 0x078B8C38>
+SetWindowHorizontalAlignCenter,		<cyfunction Window.SetWindowHorizontalAlignCenter at 0x0AC01BE0>
 	arg0: self
 
 submodule.SetWindowHorizontalAlignCenter
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetTop,		<cyfunction Window.SetTop at 0x078B8EA0>
+SetTop,		<cyfunction Window.SetTop at 0x0AC01E48>
 	arg0: self
 
 submodule.SetTop
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetWidth,		<cyfunction Window.GetWidth at 0x0785C190>
+GetWidth,		<cyfunction Window.GetWidth at 0x0AB9E138>
 	arg0: self
 
 submodule.GetWidth
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-__del__,		<cyfunction Window.__del__ at 0x078B87C0>
+__del__,		<cyfunction Window.__del__ at 0x0AC01768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetParent,		<cyfunction Window.SetParent at 0x078B8A80>
+SetParent,		<cyfunction Window.SetParent at 0x0AC01A28>
 	arg0: self
 	arg1: parent
 
 submodule.SetParent
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetLocalPosition,		<cyfunction Window.GetLocalPosition at 0x0785C240>
+GetLocalPosition,		<cyfunction Window.GetLocalPosition at 0x0AB9E1E8>
 	arg0: self
 
 submodule.GetLocalPosition
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction Window.RegisterWindow at 0x078B8818>
+RegisterWindow,		<cyfunction Window.RegisterWindow at 0x0AC017C0>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-NoneMethod,		<classmethod object at 0x07856650>
+NoneMethod,		<classmethod object at 0x0AB98550>
 	arg0: cls
 
 submodule.NoneMethod
 Skipped: 'NoneType' object has no attribute 'locals'
-SetOnMouseLeftButtonUpEvent,		<cyfunction Window.SetOnMouseLeftButtonUpEvent at 0x0785C608>
+SetOnMouseLeftButtonUpEvent,		<cyfunction Window.SetOnMouseLeftButtonUpEvent at 0x0AB9E5B0>
 	arg0: self
 	arg1: event
 
 submodule.SetOnMouseLeftButtonUpEvent
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction Window.OnMouseOverOut at 0x0785C710>
+OnMouseOverOut,		<cyfunction Window.OnMouseOverOut at 0x0AB9E6B8>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetPosition,		<cyfunction Window.SetPosition at 0x0785C3A0>
+SetPosition,		<cyfunction Window.SetPosition at 0x0AB9E348>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.SetPosition
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-AddFlag,		<cyfunction Window.AddFlag at 0x078B8920>
+AddFlag,		<cyfunction Window.AddFlag at 0x0AC018C8>
 	arg0: self
 	arg1: style
 
 submodule.AddFlag
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetRect,		<cyfunction Window.GetRect at 0x0785C348>
+GetRect,		<cyfunction Window.GetRect at 0x0AB9E2F0>
 	arg0: self
 
 submodule.GetRect
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetHeight,		<cyfunction Window.GetHeight at 0x0785C1E8>
+GetHeight,		<cyfunction Window.GetHeight at 0x0AB9E190>
 	arg0: self
 
 submodule.GetHeight
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-IsShow,		<cyfunction Window.IsShow at 0x0785C088>
+IsShow,		<cyfunction Window.IsShow at 0x0AB9E030>
 	arg0: self
 
 submodule.IsShow
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetOverEvent,		<cyfunction Window.SetOverEvent at 0x0785C768>
+SetOverEvent,		<cyfunction Window.SetOverEvent at 0x0AB9E710>
 	arg0: self
 	arg1: func
 
 submodule.SetOverEvent
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetWindowName,		<cyfunction Window.SetWindowName at 0x078B89D0>
+SetWindowName,		<cyfunction Window.SetWindowName at 0x0AC01978>
 	arg0: self
 	arg1: Name
 
@@ -3574,37 +3574,37 @@ __doc__,		None
 submodule.__doc__
 
 
-IsFocus,		<cyfunction Window.IsFocus at 0x0785C450>
+IsFocus,		<cyfunction Window.IsFocus at 0x0AB9E3F8>
 	arg0: self
 
 submodule.IsFocus
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetWindowHorizontalAlignLeft,		<cyfunction Window.SetWindowHorizontalAlignLeft at 0x078B8BE0>
+SetWindowHorizontalAlignLeft,		<cyfunction Window.SetWindowHorizontalAlignLeft at 0x0AC01B88>
 	arg0: self
 
 submodule.SetWindowHorizontalAlignLeft
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetWindowHandle,		<cyfunction Window.GetWindowHandle at 0x078B88C8>
+GetWindowHandle,		<cyfunction Window.GetWindowHandle at 0x0AC01870>
 	arg0: self
 
 submodule.GetWindowHandle
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetWindowVerticalAlignBottom,		<cyfunction Window.SetWindowVerticalAlignBottom at 0x078B8D98>
+SetWindowVerticalAlignBottom,		<cyfunction Window.SetWindowVerticalAlignBottom at 0x0AC01D40>
 	arg0: self
 
 submodule.SetWindowVerticalAlignBottom
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-Show,		<cyfunction Window.Show at 0x078B8EF8>
+Show,		<cyfunction Window.Show at 0x0AC01EA0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-Lock,		<cyfunction Window.Lock at 0x078B8FA8>
+Lock,		<cyfunction Window.Lock at 0x0AC01F50>
 	arg0: self
 
 submodule.Lock
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetWindowVerticalAlign,		<cyfunction Window.GetWindowVerticalAlign at 0x078B8E48>
+GetWindowVerticalAlign,		<cyfunction Window.GetWindowVerticalAlign at 0x0AC01DF0>
 	arg0: self
 
 submodule.GetWindowVerticalAlign
@@ -3614,48 +3614,48 @@ __qualname__,		Window
 submodule.__qualname__
 
 
-SetOverOutEvent,		<cyfunction Window.SetOverOutEvent at 0x0785C7C0>
+SetOverOutEvent,		<cyfunction Window.SetOverOutEvent at 0x0AB9E768>
 	arg0: self
 	arg1: func
 
 submodule.SetOverOutEvent
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetParentProxy,		<cyfunction Window.GetParentProxy at 0x078B8B30>
+GetParentProxy,		<cyfunction Window.GetParentProxy at 0x0AC01AD8>
 	arg0: self
 
 submodule.GetParentProxy
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-Unlock,		<cyfunction Window.Unlock at 0x0785C030>
+Unlock,		<cyfunction Window.Unlock at 0x0AC01FA8>
 	arg0: self
 
 submodule.Unlock
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetWindowHorizontalAlignRight,		<cyfunction Window.SetWindowHorizontalAlignRight at 0x078B8C90>
+SetWindowHorizontalAlignRight,		<cyfunction Window.SetWindowHorizontalAlignRight at 0x0AC01C38>
 	arg0: self
 
 submodule.SetWindowHorizontalAlignRight
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-IsRTL,		<cyfunction Window.IsRTL at 0x078B8978>
+IsRTL,		<cyfunction Window.IsRTL at 0x0AC01920>
 	arg0: self
 
 submodule.IsRTL
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-IsIn,		<cyfunction Window.IsIn at 0x0785C5B0>
+IsIn,		<cyfunction Window.IsIn at 0x0AB9E558>
 	arg0: self
 
 submodule.IsIn
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction Window.OnMouseOverIn at 0x0785C6B8>
+OnMouseOverIn,		<cyfunction Window.OnMouseOverIn at 0x0AB9E660>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetWindowName,		<cyfunction Window.GetWindowName at 0x078B8A28>
+GetWindowName,		<cyfunction Window.GetWindowName at 0x0AC019D0>
 	arg0: self
 
 submodule.GetWindowName
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-SetParentProxy,		<cyfunction Window.SetParentProxy at 0x078B8AD8>
+SetParentProxy,		<cyfunction Window.SetParentProxy at 0x0AC01A80>
 	arg0: self
 	arg1: parent
 
@@ -3669,12 +3669,12 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction ToggleButton.__del__ at 0x07866F50>
+__del__,		<cyfunction ToggleButton.__del__ at 0x0ABA7EF8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ToggleButton instance as first argument (got nothing instead)
-SetToggleUpEvent,		<cyfunction ToggleButton.SetToggleUpEvent at 0x07866FA8>
+SetToggleUpEvent,		<cyfunction ToggleButton.SetToggleUpEvent at 0x0ABA7F50>
 	arg0: self
 	arg1: event
 
@@ -3690,29 +3690,29 @@ __qualname__,		ToggleButton
 submodule.__qualname__
 
 
-SetToggleDownEvent,		<cyfunction ToggleButton.SetToggleDownEvent at 0x07868030>
+SetToggleDownEvent,		<cyfunction ToggleButton.SetToggleDownEvent at 0x0ABA7FA8>
 	arg0: self
 	arg1: event
 
 submodule.SetToggleDownEvent
 Skipped: unbound method cython_function_or_method object must be called with ToggleButton instance as first argument (got nothing instead)
-OnToggleUp,		<cyfunction ToggleButton.OnToggleUp at 0x078680E0>
+OnToggleUp,		<cyfunction ToggleButton.OnToggleUp at 0x0ABA9088>
 	arg0: self
 
 submodule.OnToggleUp
 Skipped: unbound method cython_function_or_method object must be called with ToggleButton instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction ToggleButton.RegisterWindow at 0x07868088>
+RegisterWindow,		<cyfunction ToggleButton.RegisterWindow at 0x0ABA9030>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with ToggleButton instance as first argument (got nothing instead)
-__init__,		<cyfunction ToggleButton.__init__ at 0x07866EF8>
+__init__,		<cyfunction ToggleButton.__init__ at 0x0ABA7EA0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ToggleButton instance as first argument (got nothing instead)
-OnToggleDown,		<cyfunction ToggleButton.OnToggleDown at 0x07868138>
+OnToggleDown,		<cyfunction ToggleButton.OnToggleDown at 0x0ABA90E0>
 	arg0: self
 
 submodule.OnToggleDown
@@ -3720,12 +3720,12 @@ Skipped: unbound method cython_function_or_method object must be called with Tog
 
 
 class ExpandedImageBox:
-GetWidth,		<cyfunction ExpandedImageBox.GetWidth at 0x07862DF0>
+GetWidth,		<cyfunction ExpandedImageBox.GetWidth at 0x0ABA3D98>
 	arg0: self
 
 submodule.GetWidth
 Skipped: unbound method cython_function_or_method object must be called with ExpandedImageBox instance as first argument (got nothing instead)
-SetRenderingRect,		<cyfunction ExpandedImageBox.SetRenderingRect at 0x07862D40>
+SetRenderingRect,		<cyfunction ExpandedImageBox.SetRenderingRect at 0x0ABA3CE8>
 	arg0: self
 	arg1: left
 	arg2: top
@@ -3734,18 +3734,18 @@ SetRenderingRect,		<cyfunction ExpandedImageBox.SetRenderingRect at 0x07862D40>
 
 submodule.SetRenderingRect
 Skipped: unbound method cython_function_or_method object must be called with ExpandedImageBox instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction ExpandedImageBox.RegisterWindow at 0x07862B88>
+RegisterWindow,		<cyfunction ExpandedImageBox.RegisterWindow at 0x0ABA3B30>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with ExpandedImageBox instance as first argument (got nothing instead)
-__del__,		<cyfunction ExpandedImageBox.__del__ at 0x07862B30>
+__del__,		<cyfunction ExpandedImageBox.__del__ at 0x0ABA3AD8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ExpandedImageBox instance as first argument (got nothing instead)
-GetHeight,		<cyfunction ExpandedImageBox.GetHeight at 0x07862E48>
+GetHeight,		<cyfunction ExpandedImageBox.GetHeight at 0x0ABA3DF0>
 	arg0: self
 
 submodule.GetHeight
@@ -3755,14 +3755,14 @@ __module__,		ui
 submodule.__module__
 
 
-SetScale,		<cyfunction ExpandedImageBox.SetScale at 0x07862BE0>
+SetScale,		<cyfunction ExpandedImageBox.SetScale at 0x0ABA3B88>
 	arg0: self
 	arg1: xScale
 	arg2: yScale
 
 submodule.SetScale
 Skipped: unbound method cython_function_or_method object must be called with ExpandedImageBox instance as first argument (got nothing instead)
-SetOrigin,		<cyfunction ExpandedImageBox.SetOrigin at 0x07862C38>
+SetOrigin,		<cyfunction ExpandedImageBox.SetOrigin at 0x0ABA3BE0>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -3779,26 +3779,26 @@ __doc__,		None
 submodule.__doc__
 
 
-SetRotation,		<cyfunction ExpandedImageBox.SetRotation at 0x07862C90>
+SetRotation,		<cyfunction ExpandedImageBox.SetRotation at 0x0ABA3C38>
 	arg0: self
 	arg1: rotation
 
 submodule.SetRotation
 Skipped: unbound method cython_function_or_method object must be called with ExpandedImageBox instance as first argument (got nothing instead)
-SetRenderingMode,		<cyfunction ExpandedImageBox.SetRenderingMode at 0x07862CE8>
+SetRenderingMode,		<cyfunction ExpandedImageBox.SetRenderingMode at 0x0ABA3C90>
 	arg0: self
 	arg1: mode
 
 submodule.SetRenderingMode
 Skipped: unbound method cython_function_or_method object must be called with ExpandedImageBox instance as first argument (got nothing instead)
-SetPercentage,		<cyfunction ExpandedImageBox.SetPercentage at 0x07862D98>
+SetPercentage,		<cyfunction ExpandedImageBox.SetPercentage at 0x0ABA3D40>
 	arg0: self
 	arg1: curValue
 	arg2: maxValue
 
 submodule.SetPercentage
 Skipped: unbound method cython_function_or_method object must be called with ExpandedImageBox instance as first argument (got nothing instead)
-__init__,		<cyfunction ExpandedImageBox.__init__ at 0x07862AD8>
+__init__,		<cyfunction ExpandedImageBox.__init__ at 0x0ABA3A80>
 	arg0: self
 	arg1: layer
 	default: UI
@@ -3808,13 +3808,13 @@ Skipped: unbound method cython_function_or_method object must be called with Exp
 
 
 class Button:
-SetUpVisual,		<cyfunction Button.SetUpVisual at 0x07865B30>
+SetUpVisual,		<cyfunction Button.SetUpVisual at 0x0ABA5AD8>
 	arg0: self
 	arg1: filename
 
 submodule.SetUpVisual
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetHideToolTipEvent,		<cyfunction Button.SetHideToolTipEvent at 0x078667C0>
+SetHideToolTipEvent,		<cyfunction Button.SetHideToolTipEvent at 0x0ABA7768>
 	arg0: self
 	arg1: func
 
@@ -3825,19 +3825,19 @@ __module__,		ui
 submodule.__module__
 
 
-GetDownVisualFileName,		<cyfunction Button.GetDownVisualFileName at 0x07865D40>
+GetDownVisualFileName,		<cyfunction Button.GetDownVisualFileName at 0x0ABA5CE8>
 	arg0: self
 
 submodule.GetDownVisualFileName
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetAppendTextColor,		<cyfunction Button.SetAppendTextColor at 0x078664A8>
+SetAppendTextColor,		<cyfunction Button.SetAppendTextColor at 0x0ABA7450>
 	arg0: self
 	arg1: idx
 	arg2: color
 
 submodule.SetAppendTextColor
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetText,		<cyfunction Button.SetText at 0x078662F0>
+SetText,		<cyfunction Button.SetText at 0x0ABA7298>
 	arg0: self
 	arg1: text
 	arg2: height
@@ -3845,31 +3845,31 @@ SetText,		<cyfunction Button.SetText at 0x078662F0>
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-Flash,		<cyfunction Button.Flash at 0x07865D98>
+Flash,		<cyfunction Button.Flash at 0x0ABA5D40>
 	arg0: self
 
 submodule.Flash
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetDownVisual,		<cyfunction Button.SetDownVisual at 0x07865BE0>
+SetDownVisual,		<cyfunction Button.SetDownVisual at 0x0ABA5B88>
 	arg0: self
 	arg1: filename
 
 submodule.SetDownVisual
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetEvent,		<cyfunction Button.SetEvent at 0x07866088>
+SetEvent,		<cyfunction Button.SetEvent at 0x0ABA7030>
 	arg0: self
 	arg1: func
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetAppendTextChangeText,		<cyfunction Button.SetAppendTextChangeText at 0x07866450>
+SetAppendTextChangeText,		<cyfunction Button.SetAppendTextChangeText at 0x0ABA73F8>
 	arg0: self
 	arg1: idx
 	arg2: text
 
 submodule.SetAppendTextChangeText
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetToolTipText,		<cyfunction Button.SetToolTipText at 0x07866608>
+SetToolTipText,		<cyfunction Button.SetToolTipText at 0x0ABA75B0>
 	arg0: self
 	arg1: text
 	arg2: x
@@ -3881,92 +3881,92 @@ SetToolTipText,		<cyfunction Button.SetToolTipText at 0x07866608>
 
 submodule.SetToolTipText
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-AppendTextLineAllClear,		<cyfunction Button.AppendTextLineAllClear at 0x078663F8>
+AppendTextLineAllClear,		<cyfunction Button.AppendTextLineAllClear at 0x0ABA73A0>
 	arg0: self
 
 submodule.AppendTextLineAllClear
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-__init__,		<cyfunction Button.__init__ at 0x07865A28>
+__init__,		<cyfunction Button.__init__ at 0x0ABA59D0>
 	arg0: self
 	arg1: layer
 	default: UI
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetOverVisual,		<cyfunction Button.SetOverVisual at 0x07865B88>
+SetOverVisual,		<cyfunction Button.SetOverVisual at 0x0ABA5B30>
 	arg0: self
 	arg1: filename
 
 submodule.SetOverVisual
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-Down,		<cyfunction Button.Down at 0x07865F50>
+Down,		<cyfunction Button.Down at 0x0ABA5EF8>
 	arg0: self
 
 submodule.Down
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-GetUpVisualFileName,		<cyfunction Button.GetUpVisualFileName at 0x07865C90>
+GetUpVisualFileName,		<cyfunction Button.GetUpVisualFileName at 0x0ABA5C38>
 	arg0: self
 
 submodule.GetUpVisualFileName
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-IsDIsable,		<cyfunction Button.IsDIsable at 0x07866298>
+IsDIsable,		<cyfunction Button.IsDIsable at 0x0ABA7240>
 	arg0: self
 
 submodule.IsDIsable
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-ShowToolTip,		<cyfunction Button.ShowToolTip at 0x078666B8>
+ShowToolTip,		<cyfunction Button.ShowToolTip at 0x0ABA7660>
 	arg0: self
 
 submodule.ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-GetText,		<cyfunction Button.GetText at 0x07866240>
+GetText,		<cyfunction Button.GetText at 0x0ABA71E8>
 	arg0: self
 
 submodule.GetText
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-GetOverVisualFileName,		<cyfunction Button.GetOverVisualFileName at 0x07865CE8>
+GetOverVisualFileName,		<cyfunction Button.GetOverVisualFileName at 0x0ABA5C90>
 	arg0: self
 
 submodule.GetOverVisualFileName
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-Disable,		<cyfunction Button.Disable at 0x07865EF8>
+Disable,		<cyfunction Button.Disable at 0x0ABA5EA0>
 	arg0: self
 
 submodule.Disable
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-LeftRightReverse,		<cyfunction Button.LeftRightReverse at 0x07866138>
+LeftRightReverse,		<cyfunction Button.LeftRightReverse at 0x0ABA70E0>
 	arg0: self
 
 submodule.LeftRightReverse
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction Button.RegisterWindow at 0x07865AD8>
+RegisterWindow,		<cyfunction Button.RegisterWindow at 0x0ABA5A80>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-EnableFlash,		<cyfunction Button.EnableFlash at 0x07865DF0>
+EnableFlash,		<cyfunction Button.EnableFlash at 0x0ABA5D98>
 	arg0: self
 
 submodule.EnableFlash
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction Button.OnMouseOverOut at 0x07866920>
+OnMouseOverOut,		<cyfunction Button.OnMouseOverOut at 0x0ABA78C8>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetShowToolTipEvent,		<cyfunction Button.SetShowToolTipEvent at 0x07866768>
+SetShowToolTipEvent,		<cyfunction Button.SetShowToolTipEvent at 0x0ABA7710>
 	arg0: self
 	arg1: func
 
 submodule.SetShowToolTipEvent
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-__del__,		<cyfunction Button.__del__ at 0x07865A80>
+__del__,		<cyfunction Button.__del__ at 0x0ABA5A28>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetFormToolTipText,		<cyfunction Button.SetFormToolTipText at 0x07866558>
+SetFormToolTipText,		<cyfunction Button.SetFormToolTipText at 0x0ABA7500>
 	arg0: self
 	arg1: type
 	arg2: text
@@ -3976,19 +3976,19 @@ SetFormToolTipText,		<cyfunction Button.SetFormToolTipText at 0x07866558>
 
 submodule.SetFormToolTipText
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetOverEvent,		<cyfunction Button.SetOverEvent at 0x07866978>
+SetOverEvent,		<cyfunction Button.SetOverEvent at 0x0ABA7920>
 	arg0: self
 	arg1: func
 
 submodule.SetOverEvent
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetDisableVisual,		<cyfunction Button.SetDisableVisual at 0x07865C38>
+SetDisableVisual,		<cyfunction Button.SetDisableVisual at 0x0ABA5BE0>
 	arg0: self
 	arg1: filename
 
 submodule.SetDisableVisual
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-AppendTextLine,		<cyfunction Button.AppendTextLine at 0x07866500>
+AppendTextLine,		<cyfunction Button.AppendTextLine at 0x0ABA74A8>
 	arg0: self
 	arg1: text
 	arg2: font_size
@@ -4004,34 +4004,34 @@ AppendTextLine,		<cyfunction Button.AppendTextLine at 0x07866500>
 
 submodule.AppendTextLine
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-Enable,		<cyfunction Button.Enable at 0x07865EA0>
+Enable,		<cyfunction Button.Enable at 0x0ABA5E48>
 	arg0: self
 
 submodule.Enable
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetAlpha,		<cyfunction Button.SetAlpha at 0x078661E8>
+SetAlpha,		<cyfunction Button.SetAlpha at 0x0ABA7190>
 	arg0: self
 	arg1: alpha
 
 submodule.SetAlpha
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-DisableFlash,		<cyfunction Button.DisableFlash at 0x07865E48>
+DisableFlash,		<cyfunction Button.DisableFlash at 0x0ABA5DF0>
 	arg0: self
 
 submodule.DisableFlash
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-IsDown,		<cyfunction Button.IsDown at 0x07866818>
+IsDown,		<cyfunction Button.IsDown at 0x0ABA77C0>
 	arg0: self
 
 submodule.IsDown
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SAFE_SetEvent,		<cyfunction Button.SAFE_SetEvent at 0x07866030>
+SAFE_SetEvent,		<cyfunction Button.SAFE_SetEvent at 0x0ABA5FA8>
 	arg0: self
 	arg1: func
 
 submodule.SAFE_SetEvent
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetTextAddPos,		<cyfunction Button.SetTextAddPos at 0x078663A0>
+SetTextAddPos,		<cyfunction Button.SetTextAddPos at 0x0ABA7348>
 	arg0: self
 	arg1: text
 	arg2: x_add
@@ -4043,35 +4043,35 @@ SetTextAddPos,		<cyfunction Button.SetTextAddPos at 0x078663A0>
 
 submodule.SetTextAddPos
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetAutoSizeText,		<cyfunction Button.SetAutoSizeText at 0x07866348>
+SetAutoSizeText,		<cyfunction Button.SetAutoSizeText at 0x0ABA72F0>
 	arg0: self
 	arg1: text
 
 submodule.SetAutoSizeText
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-CallEvent,		<cyfunction Button.CallEvent at 0x07866660>
+CallEvent,		<cyfunction Button.CallEvent at 0x0ABA7608>
 	arg0: self
 
 submodule.CallEvent
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-HideToolTip,		<cyfunction Button.HideToolTip at 0x07866710>
+HideToolTip,		<cyfunction Button.HideToolTip at 0x0ABA76B8>
 	arg0: self
 
 submodule.HideToolTip
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetToolTipWindow,		<cyfunction Button.SetToolTipWindow at 0x078665B0>
+SetToolTipWindow,		<cyfunction Button.SetToolTipWindow at 0x0ABA7558>
 	arg0: self
 	arg1: toolTip
 
 submodule.SetToolTipWindow
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetAlwaysToolTip,		<cyfunction Button.SetAlwaysToolTip at 0x07866870>
+SetAlwaysToolTip,		<cyfunction Button.SetAlwaysToolTip at 0x0ABA7818>
 	arg0: self
 	arg1: bFlag
 
 submodule.SetAlwaysToolTip
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetUp,		<cyfunction Button.SetUp at 0x07865FA8>
+SetUp,		<cyfunction Button.SetUp at 0x0ABA5F50>
 	arg0: self
 
 submodule.SetUp
@@ -4086,41 +4086,41 @@ __qualname__,		Button
 submodule.__qualname__
 
 
-SetOverOutEvent,		<cyfunction Button.SetOverOutEvent at 0x078669D0>
+SetOverOutEvent,		<cyfunction Button.SetOverOutEvent at 0x0ABA7978>
 	arg0: self
 	arg1: func
 
 submodule.SetOverOutEvent
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-GetButtonImageHeight,		<cyfunction Button.GetButtonImageHeight at 0x07866AD8>
+GetButtonImageHeight,		<cyfunction Button.GetButtonImageHeight at 0x0ABA7A80>
 	arg0: self
 
 submodule.GetButtonImageHeight
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetTextColor,		<cyfunction Button.SetTextColor at 0x07866190>
+SetTextColor,		<cyfunction Button.SetTextColor at 0x0ABA7138>
 	arg0: self
 	arg1: color
 
 submodule.SetTextColor
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-GetButtonImageWidth,		<cyfunction Button.GetButtonImageWidth at 0x07866A80>
+GetButtonImageWidth,		<cyfunction Button.GetButtonImageWidth at 0x0ABA7A28>
 	arg0: self
 
 submodule.GetButtonImageWidth
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-SetButtonScale,		<cyfunction Button.SetButtonScale at 0x07866A28>
+SetButtonScale,		<cyfunction Button.SetButtonScale at 0x0ABA79D0>
 	arg0: self
 	arg1: xScale
 	arg2: yScale
 
 submodule.SetButtonScale
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction Button.OnMouseOverIn at 0x078668C8>
+OnMouseOverIn,		<cyfunction Button.OnMouseOverIn at 0x0ABA7870>
 	arg0: self
 
 submodule.OnMouseOverIn
 Skipped: unbound method cython_function_or_method object must be called with Button instance as first argument (got nothing instead)
-Over,		<cyfunction Button.Over at 0x078660E0>
+Over,		<cyfunction Button.Over at 0x0ABA7088>
 	arg0: self
 
 submodule.Over
@@ -4138,7 +4138,7 @@ __module__,		ui
 submodule.__module__
 
 
-ArrangeSlot,		<cyfunction GridSlotWindow.ArrangeSlot at 0x0786A500>
+ArrangeSlot,		<cyfunction GridSlotWindow.ArrangeSlot at 0x0ABAB4A8>
 	arg0: self
 	arg1: StartIndex
 	arg2: xCount
@@ -4150,23 +4150,23 @@ ArrangeSlot,		<cyfunction GridSlotWindow.ArrangeSlot at 0x0786A500>
 
 submodule.ArrangeSlot
 Skipped: unbound method cython_function_or_method object must be called with GridSlotWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction GridSlotWindow.__del__ at 0x0786A450>
+__del__,		<cyfunction GridSlotWindow.__del__ at 0x0ABAB3F8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GridSlotWindow instance as first argument (got nothing instead)
-GetStartIndex,		<cyfunction GridSlotWindow.GetStartIndex at 0x0786A558>
+GetStartIndex,		<cyfunction GridSlotWindow.GetStartIndex at 0x0ABAB500>
 	arg0: self
 
 submodule.GetStartIndex
 Skipped: unbound method cython_function_or_method object must be called with GridSlotWindow instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction GridSlotWindow.RegisterWindow at 0x0786A4A8>
+RegisterWindow,		<cyfunction GridSlotWindow.RegisterWindow at 0x0ABAB450>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with GridSlotWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction GridSlotWindow.__init__ at 0x0786A3F8>
+__init__,		<cyfunction GridSlotWindow.__init__ at 0x0ABAB3A0>
 	arg0: self
 
 submodule.__init__
@@ -4179,7 +4179,7 @@ submodule.__doc__
 
 
 class TextLine:
-SetFontName,		<cyfunction TextLine.SetFontName at 0x07860C38>
+SetFontName,		<cyfunction TextLine.SetFontName at 0x0AB9FBE0>
 	arg0: self
 	arg1: fontName
 
@@ -4190,33 +4190,33 @@ __module__,		ui
 submodule.__module__
 
 
-SetVerticalAlignTop,		<cyfunction TextLine.SetVerticalAlignTop at 0x07860818>
+SetVerticalAlignTop,		<cyfunction TextLine.SetVerticalAlignTop at 0x0AB9F7C0>
 	arg0: self
 
 submodule.SetVerticalAlignTop
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetVerticalAlignBottom,		<cyfunction TextLine.SetVerticalAlignBottom at 0x07860870>
+SetVerticalAlignBottom,		<cyfunction TextLine.SetVerticalAlignBottom at 0x0AB9F818>
 	arg0: self
 
 submodule.SetVerticalAlignBottom
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetHorizontalAlignCenter,		<cyfunction TextLine.SetHorizontalAlignCenter at 0x078607C0>
+SetHorizontalAlignCenter,		<cyfunction TextLine.SetHorizontalAlignCenter at 0x0AB9F768>
 	arg0: self
 
 submodule.SetHorizontalAlignCenter
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetHorizontalAlignLeft,		<cyfunction TextLine.SetHorizontalAlignLeft at 0x07860710>
+SetHorizontalAlignLeft,		<cyfunction TextLine.SetHorizontalAlignLeft at 0x0AB9F6B8>
 	arg0: self
 
 submodule.SetHorizontalAlignLeft
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetPackedFontColor,		<cyfunction TextLine.SetPackedFontColor at 0x07860D40>
+SetPackedFontColor,		<cyfunction TextLine.SetPackedFontColor at 0x0AB9FCE8>
 	arg0: self
 	arg1: color
 
 submodule.SetPackedFontColor
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetFontColor,		<cyfunction TextLine.SetFontColor at 0x07860CE8>
+SetFontColor,		<cyfunction TextLine.SetFontColor at 0x0AB9FC90>
 	arg0: self
 	arg1: red
 	arg2: green
@@ -4224,95 +4224,95 @@ SetFontColor,		<cyfunction TextLine.SetFontColor at 0x07860CE8>
 
 submodule.SetFontColor
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-GetVerticalAlign,		<cyfunction TextLine.GetVerticalAlign at 0x07860978>
+GetVerticalAlign,		<cyfunction TextLine.GetVerticalAlign at 0x0AB9F920>
 	arg0: self
 
 submodule.GetVerticalAlign
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-__init__,		<cyfunction TextLine.__init__ at 0x078604A8>
+__init__,		<cyfunction TextLine.__init__ at 0x0AB9F450>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetPositionIntervalX,		<cyfunction TextLine.SetPositionIntervalX at 0x078609D0>
+SetPositionIntervalX,		<cyfunction TextLine.SetPositionIntervalX at 0x0AB9F978>
 	arg0: self
 	arg1: interval_x
 
 submodule.SetPositionIntervalX
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetPositionIntervalY,		<cyfunction TextLine.SetPositionIntervalY at 0x07860A28>
+SetPositionIntervalY,		<cyfunction TextLine.SetPositionIntervalY at 0x0AB9F9D0>
 	arg0: self
 	arg1: interval_y
 
 submodule.SetPositionIntervalY
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-GetText,		<cyfunction TextLine.GetText at 0x07860F50>
+GetText,		<cyfunction TextLine.GetText at 0x0AB9FEF8>
 	arg0: self
 
 submodule.GetText
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetHorizontalAlignArabic,		<cyfunction TextLine.SetHorizontalAlignArabic at 0x078606B8>
+SetHorizontalAlignArabic,		<cyfunction TextLine.SetHorizontalAlignArabic at 0x0AB9F660>
 	arg0: self
 
 submodule.SetHorizontalAlignArabic
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetFeather,		<cyfunction TextLine.SetFeather at 0x07860BE0>
+SetFeather,		<cyfunction TextLine.SetFeather at 0x0AB9FB88>
 	arg0: self
 	arg1: value
 	default: True
 
 submodule.SetFeather
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetHorizontalAlignRight,		<cyfunction TextLine.SetHorizontalAlignRight at 0x07860768>
+SetHorizontalAlignRight,		<cyfunction TextLine.SetHorizontalAlignRight at 0x0AB9F710>
 	arg0: self
 
 submodule.SetHorizontalAlignRight
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-GetHorizontalAlign,		<cyfunction TextLine.GetHorizontalAlign at 0x07860920>
+GetHorizontalAlign,		<cyfunction TextLine.GetHorizontalAlign at 0x0AB9F8C8>
 	arg0: self
 
 submodule.GetHorizontalAlign
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-GetLineHeight,		<cyfunction TextLine.GetLineHeight at 0x07860EF8>
+GetLineHeight,		<cyfunction TextLine.GetLineHeight at 0x0AB9FEA0>
 	arg0: self
 
 submodule.GetLineHeight
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetSecret,		<cyfunction TextLine.SetSecret at 0x07860B30>
+SetSecret,		<cyfunction TextLine.SetSecret at 0x0AB9FAD8>
 	arg0: self
 	arg1: Value
 	default: True
 
 submodule.SetSecret
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetLineHeight,		<cyfunction TextLine.SetLineHeight at 0x07860EA0>
+SetLineHeight,		<cyfunction TextLine.SetLineHeight at 0x0AB9FE48>
 	arg0: self
 	arg1: Height
 
 submodule.SetLineHeight
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-__del__,		<cyfunction TextLine.__del__ at 0x07860500>
+__del__,		<cyfunction TextLine.__del__ at 0x0AB9F4A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetDefaultFontName,		<cyfunction TextLine.SetDefaultFontName at 0x07860C90>
+SetDefaultFontName,		<cyfunction TextLine.SetDefaultFontName at 0x0AB9FC38>
 	arg0: self
 
 submodule.SetDefaultFontName
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetMax,		<cyfunction TextLine.SetMax at 0x078605B0>
+SetMax,		<cyfunction TextLine.SetMax at 0x0AB9F558>
 	arg0: self
 	arg1: max
 
 submodule.SetMax
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetMultiLine,		<cyfunction TextLine.SetMultiLine at 0x07860660>
+SetMultiLine,		<cyfunction TextLine.SetMultiLine at 0x0AB9F608>
 	arg0: self
 
 submodule.SetMultiLine
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-DisableEnterToken,		<cyfunction TextLine.DisableEnterToken at 0x07860E48>
+DisableEnterToken,		<cyfunction TextLine.DisableEnterToken at 0x0AB9FDF0>
 	arg0: self
 
 submodule.DisableEnterToken
@@ -4322,35 +4322,35 @@ __doc__,		None
 submodule.__doc__
 
 
-SetLimitWidth,		<cyfunction TextLine.SetLimitWidth at 0x07860608>
+SetLimitWidth,		<cyfunction TextLine.SetLimitWidth at 0x0AB9F5B0>
 	arg0: self
 	arg1: width
 
 submodule.SetLimitWidth
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetVerticalAlignCenter,		<cyfunction TextLine.SetVerticalAlignCenter at 0x078608C8>
+SetVerticalAlignCenter,		<cyfunction TextLine.SetVerticalAlignCenter at 0x0AB9F870>
 	arg0: self
 
 submodule.SetVerticalAlignCenter
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-GetPositionIntervalX,		<cyfunction TextLine.GetPositionIntervalX at 0x07860A80>
+GetPositionIntervalX,		<cyfunction TextLine.GetPositionIntervalX at 0x0AB9FA28>
 	arg0: self
 
 submodule.GetPositionIntervalX
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-GetPositionIntervalY,		<cyfunction TextLine.GetPositionIntervalY at 0x07860AD8>
+GetPositionIntervalY,		<cyfunction TextLine.GetPositionIntervalY at 0x0AB9FA80>
 	arg0: self
 
 submodule.GetPositionIntervalY
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-SetOutline,		<cyfunction TextLine.SetOutline at 0x07860B88>
+SetOutline,		<cyfunction TextLine.SetOutline at 0x0AB9FB30>
 	arg0: self
 	arg1: Value
 	default: True
 
 submodule.SetOutline
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction TextLine.RegisterWindow at 0x07860558>
+RegisterWindow,		<cyfunction TextLine.RegisterWindow at 0x0AB9F500>
 	arg0: self
 	arg1: layer
 
@@ -4361,18 +4361,18 @@ __qualname__,		TextLine
 submodule.__qualname__
 
 
-SetText,		<cyfunction TextLine.SetText at 0x07860D98>
+SetText,		<cyfunction TextLine.SetText at 0x0AB9FD40>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-GetTextSize,		<cyfunction TextLine.GetTextSize at 0x07860FA8>
+GetTextSize,		<cyfunction TextLine.GetTextSize at 0x0AB9FF50>
 	arg0: self
 
 submodule.GetTextSize
 Skipped: unbound method cython_function_or_method object must be called with TextLine instance as first argument (got nothing instead)
-GetTextLineCount,		<cyfunction TextLine.GetTextLineCount at 0x07860DF0>
+GetTextLineCount,		<cyfunction TextLine.GetTextLineCount at 0x0AB9FD98>
 	arg0: self
 
 submodule.GetTextLineCount
@@ -4385,7 +4385,7 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction RadioButton.__del__ at 0x07866B88>
+__del__,		<cyfunction RadioButton.__del__ at 0x0ABA7B30>
 	arg0: self
 
 submodule.__del__
@@ -4400,13 +4400,13 @@ __qualname__,		RadioButton
 submodule.__qualname__
 
 
-RegisterWindow,		<cyfunction RadioButton.RegisterWindow at 0x07866BE0>
+RegisterWindow,		<cyfunction RadioButton.RegisterWindow at 0x0ABA7B88>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with RadioButton instance as first argument (got nothing instead)
-__init__,		<cyfunction RadioButton.__init__ at 0x07866B30>
+__init__,		<cyfunction RadioButton.__init__ at 0x0ABA7AD8>
 	arg0: self
 
 submodule.__init__
@@ -4414,14 +4414,14 @@ Skipped: unbound method cython_function_or_method object must be called with Rad
 
 
 class SlotWindow:
-SetEmotionSlot,		<cyfunction SlotWindow.SetEmotionSlot at 0x07869E48>
+SetEmotionSlot,		<cyfunction SlotWindow.SetEmotionSlot at 0x0ABAADF0>
 	arg0: self
 	arg1: renderingSlotNumber
 	arg2: emotionIndex
 
 submodule.SetEmotionSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSelectEmptySlotEvent,		<cyfunction SlotWindow.SetSelectEmptySlotEvent at 0x07869348>
+SetSelectEmptySlotEvent,		<cyfunction SlotWindow.SetSelectEmptySlotEvent at 0x0ABAA2F0>
 	arg0: self
 	arg1: empty
 	arg2: window
@@ -4429,26 +4429,26 @@ SetSelectEmptySlotEvent,		<cyfunction SlotWindow.SetSelectEmptySlotEvent at 0x07
 
 submodule.SetSelectEmptySlotEvent
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotDiffuseColor,		<cyfunction SlotWindow.SetSlotDiffuseColor at 0x07869190>
+SetSlotDiffuseColor,		<cyfunction SlotWindow.SetSlotDiffuseColor at 0x0ABAA138>
 	arg0: self
 	arg1: slotindex
 	arg2: colortype
 
 submodule.SetSlotDiffuseColor
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-ShowSlotButton,		<cyfunction SlotWindow.ShowSlotButton at 0x07868F50>
+ShowSlotButton,		<cyfunction SlotWindow.ShowSlotButton at 0x0ABA9EF8>
 	arg0: self
 	arg1: slotNumber
 
 submodule.ShowSlotButton
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetUnselectEmptySlotEvent,		<cyfunction SlotWindow.SetUnselectEmptySlotEvent at 0x078693F8>
+SetUnselectEmptySlotEvent,		<cyfunction SlotWindow.SetUnselectEmptySlotEvent at 0x0ABAA3A0>
 	arg0: self
 	arg1: empty
 
 submodule.SetUnselectEmptySlotEvent
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-AppendSlot,		<cyfunction SlotWindow.AppendSlot at 0x07869BE0>
+AppendSlot,		<cyfunction SlotWindow.AppendSlot at 0x0ABAAB88>
 	arg0: self
 	arg1: index
 	arg2: x
@@ -4458,19 +4458,19 @@ AppendSlot,		<cyfunction SlotWindow.AppendSlot at 0x07869BE0>
 
 submodule.AppendSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-ShowRequirementSign,		<cyfunction SlotWindow.ShowRequirementSign at 0x07869088>
+ShowRequirementSign,		<cyfunction SlotWindow.ShowRequirementSign at 0x0ABAA030>
 	arg0: self
 	arg1: slotNumber
 
 submodule.ShowRequirementSign
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-LockSlot,		<cyfunction SlotWindow.LockSlot at 0x07869A28>
+LockSlot,		<cyfunction SlotWindow.LockSlot at 0x0ABAA9D0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.LockSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetCorverButtonScale,		<cyfunction SlotWindow.SetCorverButtonScale at 0x07868D98>
+SetCorverButtonScale,		<cyfunction SlotWindow.SetCorverButtonScale at 0x0ABA9D40>
 	arg0: self
 	arg1: slotIndex
 	arg2: xScale
@@ -4478,53 +4478,53 @@ SetCorverButtonScale,		<cyfunction SlotWindow.SetCorverButtonScale at 0x07868D98
 
 submodule.SetCorverButtonScale
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-GetStartIndex,		<cyfunction SlotWindow.GetStartIndex at 0x0786A1E8>
+GetStartIndex,		<cyfunction SlotWindow.GetStartIndex at 0x0ABAB190>
 	arg0: self
 
 submodule.GetStartIndex
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetUnusableSlotOnTopWnd,		<cyfunction SlotWindow.SetUnusableSlotOnTopWnd at 0x078698C8>
+SetUnusableSlotOnTopWnd,		<cyfunction SlotWindow.SetUnusableSlotOnTopWnd at 0x0ABAA870>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetUnusableSlotOnTopWnd
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-GetSlotGlobalPosition,		<cyfunction SlotWindow.GetSlotGlobalPosition at 0x0786A240>
+GetSlotGlobalPosition,		<cyfunction SlotWindow.GetSlotGlobalPosition at 0x0ABAB1E8>
 	arg0: self
 	arg1: index
 
 submodule.GetSlotGlobalPosition
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction SlotWindow.RegisterWindow at 0x07868B30>
+RegisterWindow,		<cyfunction SlotWindow.RegisterWindow at 0x0ABA9AD8>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-OnUnselectEmptySlot,		<cyfunction SlotWindow.OnUnselectEmptySlot at 0x07869FA8>
+OnUnselectEmptySlot,		<cyfunction SlotWindow.OnUnselectEmptySlot at 0x0ABAAF50>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OnUnselectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-OnOverInItem,		<cyfunction SlotWindow.OnOverInItem at 0x0786A0E0>
+OnOverInItem,		<cyfunction SlotWindow.OnOverInItem at 0x0ABAB088>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OnOverInItem
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction SlotWindow.__del__ at 0x07868AD8>
+__del__,		<cyfunction SlotWindow.__del__ at 0x0ABA9A80>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-EnableSlot,		<cyfunction SlotWindow.EnableSlot at 0x078699D0>
+EnableSlot,		<cyfunction SlotWindow.EnableSlot at 0x0ABAA978>
 	arg0: self
 	arg1: slotIndex
 
 submodule.EnableSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-AppendSlotButton,		<cyfunction SlotWindow.AppendSlotButton at 0x07868EF8>
+AppendSlotButton,		<cyfunction SlotWindow.AppendSlotButton at 0x0ABA9EA0>
 	arg0: self
 	arg1: upName
 	arg2: overName
@@ -4532,30 +4532,30 @@ AppendSlotButton,		<cyfunction SlotWindow.AppendSlotButton at 0x07868EF8>
 
 submodule.AppendSlotButton
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetCantMouseEventSlot,		<cyfunction SlotWindow.SetCantMouseEventSlot at 0x07869818>
+SetCantMouseEventSlot,		<cyfunction SlotWindow.SetCantMouseEventSlot at 0x0ABAA7C0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetCantMouseEventSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-OnSelectItemSlot,		<cyfunction SlotWindow.OnSelectItemSlot at 0x07869F50>
+OnSelectItemSlot,		<cyfunction SlotWindow.OnSelectItemSlot at 0x0ABAAEF8>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OnSelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-HideSlotBaseImage,		<cyfunction SlotWindow.HideSlotBaseImage at 0x07869298>
+HideSlotBaseImage,		<cyfunction SlotWindow.HideSlotBaseImage at 0x0ABAA240>
 	arg0: self
 	arg1: slotNumber
 
 submodule.HideSlotBaseImage
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-ClearAllSlot,		<cyfunction SlotWindow.ClearAllSlot at 0x07869B88>
+ClearAllSlot,		<cyfunction SlotWindow.ClearAllSlot at 0x0ABAAB30>
 	arg0: self
 
 submodule.ClearAllSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotCoolTimeColor,		<cyfunction SlotWindow.SetSlotCoolTimeColor at 0x07869768>
+SetSlotCoolTimeColor,		<cyfunction SlotWindow.SetSlotCoolTimeColor at 0x0ABAA710>
 	arg0: self
 	arg1: slotIndex
 	arg2: r
@@ -4565,7 +4565,7 @@ SetSlotCoolTimeColor,		<cyfunction SlotWindow.SetSlotCoolTimeColor at 0x07869768
 
 submodule.SetSlotCoolTimeColor
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotCoolTime,		<cyfunction SlotWindow.SetSlotCoolTime at 0x07869710>
+SetSlotCoolTime,		<cyfunction SlotWindow.SetSlotCoolTime at 0x0ABAA6B8>
 	arg0: self
 	arg1: slotIndex
 	arg2: coolTime
@@ -4574,30 +4574,30 @@ SetSlotCoolTime,		<cyfunction SlotWindow.SetSlotCoolTime at 0x07869710>
 
 submodule.SetSlotCoolTime
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotCoverImage,		<cyfunction SlotWindow.SetSlotCoverImage at 0x0786A2F0>
+SetSlotCoverImage,		<cyfunction SlotWindow.SetSlotCoverImage at 0x0ABAB298>
 	arg0: self
 	arg1: slotindex
 	arg2: filename
 
 submodule.SetSlotCoverImage
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-RefreshSlot,		<cyfunction SlotWindow.RefreshSlot at 0x07869AD8>
+RefreshSlot,		<cyfunction SlotWindow.RefreshSlot at 0x0ABAAA80>
 	arg0: self
 
 submodule.RefreshSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-OnUnselectItemSlot,		<cyfunction SlotWindow.OnUnselectItemSlot at 0x0786A030>
+OnUnselectItemSlot,		<cyfunction SlotWindow.OnUnselectItemSlot at 0x0ABAAFA8>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OnUnselectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-OnOverOutItem,		<cyfunction SlotWindow.OnOverOutItem at 0x0786A138>
+OnOverOutItem,		<cyfunction SlotWindow.OnOverOutItem at 0x0ABAB0E0>
 	arg0: self
 
 submodule.OnOverOutItem
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotCountNew,		<cyfunction SlotWindow.SetSlotCountNew at 0x07869CE8>
+SetSlotCountNew,		<cyfunction SlotWindow.SetSlotCountNew at 0x0ABAAC90>
 	arg0: self
 	arg1: slotNumber
 	arg2: grade
@@ -4610,24 +4610,24 @@ __doc__,		None
 submodule.__doc__
 
 
-OnPressedSlotButton,		<cyfunction SlotWindow.OnPressedSlotButton at 0x0786A190>
+OnPressedSlotButton,		<cyfunction SlotWindow.OnPressedSlotButton at 0x0ABAB138>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OnPressedSlotButton
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-HideAllSlotButton,		<cyfunction SlotWindow.HideAllSlotButton at 0x07868FA8>
+HideAllSlotButton,		<cyfunction SlotWindow.HideAllSlotButton at 0x0ABA9F50>
 	arg0: self
 
 submodule.HideAllSlotButton
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetCanMouseEventSlot,		<cyfunction SlotWindow.SetCanMouseEventSlot at 0x07869870>
+SetCanMouseEventSlot,		<cyfunction SlotWindow.SetCanMouseEventSlot at 0x0ABAA818>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetCanMouseEventSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotBaseImage,		<cyfunction SlotWindow.SetSlotBaseImage at 0x07868C90>
+SetSlotBaseImage,		<cyfunction SlotWindow.SetSlotBaseImage at 0x0ABA9C38>
 	arg0: self
 	arg1: imageFileName
 	arg2: r
@@ -4637,13 +4637,13 @@ SetSlotBaseImage,		<cyfunction SlotWindow.SetSlotBaseImage at 0x07868C90>
 
 submodule.SetSlotBaseImage
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-AppendRequirementSignImage,		<cyfunction SlotWindow.AppendRequirementSignImage at 0x07869030>
+AppendRequirementSignImage,		<cyfunction SlotWindow.AppendRequirementSignImage at 0x0ABA9FA8>
 	arg0: self
 	arg1: filename
 
 submodule.AppendRequirementSignImage
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetOverOutItemEvent,		<cyfunction SlotWindow.SetOverOutItemEvent at 0x07869558>
+SetOverOutItemEvent,		<cyfunction SlotWindow.SetOverOutItemEvent at 0x0ABAA500>
 	arg0: self
 	arg1: event
 
@@ -4654,19 +4654,19 @@ __module__,		ui
 submodule.__module__
 
 
-OnSelectEmptySlot,		<cyfunction SlotWindow.OnSelectEmptySlot at 0x07869EF8>
+OnSelectEmptySlot,		<cyfunction SlotWindow.OnSelectEmptySlot at 0x0ABAAEA0>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OnSelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-HideRequirementSign,		<cyfunction SlotWindow.HideRequirementSign at 0x078690E0>
+HideRequirementSign,		<cyfunction SlotWindow.HideRequirementSign at 0x0ABAA088>
 	arg0: self
 	arg1: slotNumber
 
 submodule.HideRequirementSign
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SAFE_SetButtonEvent,		<cyfunction SlotWindow.SAFE_SetButtonEvent at 0x078692F0>
+SAFE_SetButtonEvent,		<cyfunction SlotWindow.SAFE_SetButtonEvent at 0x0ABAA298>
 	arg0: self
 	arg1: button
 	arg2: state
@@ -4676,37 +4676,37 @@ SAFE_SetButtonEvent,		<cyfunction SlotWindow.SAFE_SetButtonEvent at 0x078692F0>
 
 submodule.SAFE_SetButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-DisableCoverButton,		<cyfunction SlotWindow.DisableCoverButton at 0x07868E48>
+DisableCoverButton,		<cyfunction SlotWindow.DisableCoverButton at 0x0ABA9DF0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.DisableCoverButton
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-EnableSlotCoverImage,		<cyfunction SlotWindow.EnableSlotCoverImage at 0x0786A348>
+EnableSlotCoverImage,		<cyfunction SlotWindow.EnableSlotCoverImage at 0x0ABAB2F0>
 	arg0: self
 	arg1: slotindex
 	arg2: onoff
 
 submodule.EnableSlotCoverImage
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-GetSlotLocalPosition,		<cyfunction SlotWindow.GetSlotLocalPosition at 0x0786A298>
+GetSlotLocalPosition,		<cyfunction SlotWindow.GetSlotLocalPosition at 0x0ABAB240>
 	arg0: self
 	arg1: index
 
 submodule.GetSlotLocalPosition
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-OnUseSlot,		<cyfunction SlotWindow.OnUseSlot at 0x0786A088>
+OnUseSlot,		<cyfunction SlotWindow.OnUseSlot at 0x0ABAB030>
 	arg0: self
 	arg1: slotNumber
 
 submodule.OnUseSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction SlotWindow.__init__ at 0x07868A80>
+__init__,		<cyfunction SlotWindow.__init__ at 0x0ABA9A28>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetCoverButton,		<cyfunction SlotWindow.SetCoverButton at 0x07868D40>
+SetCoverButton,		<cyfunction SlotWindow.SetCoverButton at 0x0ABA9CE8>
 	arg0: self
 	arg1: slotIndex
 	arg2: upName
@@ -4729,7 +4729,7 @@ __qualname__,		SlotWindow
 submodule.__qualname__
 
 
-SetSlot,		<cyfunction SlotWindow.SetSlot at 0x07869C38>
+SetSlot,		<cyfunction SlotWindow.SetSlot at 0x0ABAABE0>
 	arg0: self
 	arg1: slotIndex
 	arg2: itemIndex
@@ -4741,31 +4741,31 @@ SetSlot,		<cyfunction SlotWindow.SetSlot at 0x07869C38>
 
 submodule.SetSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetUsableSlotOnTopWnd,		<cyfunction SlotWindow.SetUsableSlotOnTopWnd at 0x07869920>
+SetUsableSlotOnTopWnd,		<cyfunction SlotWindow.SetUsableSlotOnTopWnd at 0x0ABAA8C8>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SetUsableSlotOnTopWnd
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-GetSlotCount,		<cyfunction SlotWindow.GetSlotCount at 0x07869608>
+GetSlotCount,		<cyfunction SlotWindow.GetSlotCount at 0x0ABAA5B0>
 	arg0: self
 
 submodule.GetSlotCount
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetBaseImageScale,		<cyfunction SlotWindow.SetBaseImageScale at 0x07868CE8>
+SetBaseImageScale,		<cyfunction SlotWindow.SetBaseImageScale at 0x0ABA9C90>
 	arg0: self
 	arg1: xScale
 	arg2: yScale
 
 submodule.SetBaseImageScale
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-EnableCoverButton,		<cyfunction SlotWindow.EnableCoverButton at 0x07868DF0>
+EnableCoverButton,		<cyfunction SlotWindow.EnableCoverButton at 0x0ABA9D98>
 	arg0: self
 	arg1: slotIndex
 
 submodule.EnableCoverButton
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetOverInItemEvent,		<cyfunction SlotWindow.SetOverInItemEvent at 0x07869500>
+SetOverInItemEvent,		<cyfunction SlotWindow.SetOverInItemEvent at 0x0ABAA4A8>
 	arg0: self
 	arg1: event
 	arg2: window
@@ -4773,25 +4773,25 @@ SetOverInItemEvent,		<cyfunction SlotWindow.SetOverInItemEvent at 0x07869500>
 
 submodule.SetOverInItemEvent
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetUsableItem,		<cyfunction SlotWindow.SetUsableItem at 0x078696B8>
+SetUsableItem,		<cyfunction SlotWindow.SetUsableItem at 0x0ABAA660>
 	arg0: self
 	arg1: flag
 
 submodule.SetUsableItem
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-ClearSlot,		<cyfunction SlotWindow.ClearSlot at 0x07869B30>
+ClearSlot,		<cyfunction SlotWindow.ClearSlot at 0x0ABAAAD8>
 	arg0: self
 	arg1: slotNumber
 
 submodule.ClearSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-DisableSlot,		<cyfunction SlotWindow.DisableSlot at 0x07869978>
+DisableSlot,		<cyfunction SlotWindow.DisableSlot at 0x0ABAA920>
 	arg0: self
 	arg1: slotIndex
 
 submodule.DisableSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetAlwaysRenderCoverButton,		<cyfunction SlotWindow.SetAlwaysRenderCoverButton at 0x07868EA0>
+SetAlwaysRenderCoverButton,		<cyfunction SlotWindow.SetAlwaysRenderCoverButton at 0x0ABA9E48>
 	arg0: self
 	arg1: slotIndex
 	arg2: bAlwaysRender
@@ -4799,7 +4799,7 @@ SetAlwaysRenderCoverButton,		<cyfunction SlotWindow.SetAlwaysRenderCoverButton a
 
 submodule.SetAlwaysRenderCoverButton
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetUnselectItemSlotEvent,		<cyfunction SlotWindow.SetUnselectItemSlotEvent at 0x07869450>
+SetUnselectItemSlotEvent,		<cyfunction SlotWindow.SetUnselectItemSlotEvent at 0x0ABAA3F8>
 	arg0: self
 	arg1: item
 	arg2: window
@@ -4807,13 +4807,13 @@ SetUnselectItemSlotEvent,		<cyfunction SlotWindow.SetUnselectItemSlotEvent at 0x
 
 submodule.SetUnselectItemSlotEvent
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetUseMode,		<cyfunction SlotWindow.SetUseMode at 0x07869660>
+SetUseMode,		<cyfunction SlotWindow.SetUseMode at 0x0ABAA608>
 	arg0: self
 	arg1: flag
 
 submodule.SetUseMode
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSkillSlot,		<cyfunction SlotWindow.SetSkillSlot at 0x07869D98>
+SetSkillSlot,		<cyfunction SlotWindow.SetSkillSlot at 0x0ABAAD40>
 	arg0: self
 	arg1: renderingSlotNumber
 	arg2: skillIndex
@@ -4821,7 +4821,7 @@ SetSkillSlot,		<cyfunction SlotWindow.SetSkillSlot at 0x07869D98>
 
 submodule.SetSkillSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetItemSlot,		<cyfunction SlotWindow.SetItemSlot at 0x07869D40>
+SetItemSlot,		<cyfunction SlotWindow.SetItemSlot at 0x0ABAACE8>
 	arg0: self
 	arg1: renderingSlotNumber
 	arg2: ItemIndex
@@ -4832,13 +4832,13 @@ SetItemSlot,		<cyfunction SlotWindow.SetItemSlot at 0x07869D40>
 
 submodule.SetItemSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-ActivateSlot,		<cyfunction SlotWindow.ActivateSlot at 0x07869138>
+ActivateSlot,		<cyfunction SlotWindow.ActivateSlot at 0x0ABAA0E0>
 	arg0: self
 	arg1: slotNumber
 
 submodule.ActivateSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotCoolTimeInverse,		<cyfunction SlotWindow.SetSlotCoolTimeInverse at 0x078697C0>
+SetSlotCoolTimeInverse,		<cyfunction SlotWindow.SetSlotCoolTimeInverse at 0x0ABAA768>
 	arg0: self
 	arg1: slotIndex
 	arg2: coolTime
@@ -4847,13 +4847,13 @@ SetSlotCoolTimeInverse,		<cyfunction SlotWindow.SetSlotCoolTimeInverse at 0x0786
 
 submodule.SetSlotCoolTimeInverse
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-HasSlot,		<cyfunction SlotWindow.HasSlot at 0x07868BE0>
+HasSlot,		<cyfunction SlotWindow.HasSlot at 0x0ABA9B88>
 	arg0: self
 	arg1: slotIndex
 
 submodule.HasSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSelectItemSlotEvent,		<cyfunction SlotWindow.SetSelectItemSlotEvent at 0x078693A0>
+SetSelectItemSlotEvent,		<cyfunction SlotWindow.SetSelectItemSlotEvent at 0x0ABAA348>
 	arg0: self
 	arg1: item
 	arg2: window
@@ -4861,20 +4861,20 @@ SetSelectItemSlotEvent,		<cyfunction SlotWindow.SetSelectItemSlotEvent at 0x0786
 
 submodule.SetSelectItemSlotEvent
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotType,		<cyfunction SlotWindow.SetSlotType at 0x0786A3A0>
+SetSlotType,		<cyfunction SlotWindow.SetSlotType at 0x0ABAB348>
 	arg0: self
 	arg1: flag
 
 submodule.SetSlotType
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetPetSkillSlotNew,		<cyfunction SlotWindow.SetPetSkillSlotNew at 0x07869EA0>
+SetPetSkillSlotNew,		<cyfunction SlotWindow.SetPetSkillSlotNew at 0x0ABAAE48>
 	arg0: self
 	arg1: renderingSlotNumber
 	arg2: petSkillIndex
 
 submodule.SetPetSkillSlotNew
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetUseSlotEvent,		<cyfunction SlotWindow.SetUseSlotEvent at 0x078694A8>
+SetUseSlotEvent,		<cyfunction SlotWindow.SetUseSlotEvent at 0x0ABAA450>
 	arg0: self
 	arg1: use
 	arg2: window
@@ -4882,7 +4882,7 @@ SetUseSlotEvent,		<cyfunction SlotWindow.SetUseSlotEvent at 0x078694A8>
 
 submodule.SetUseSlotEvent
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSkillSlotNew,		<cyfunction SlotWindow.SetSkillSlotNew at 0x07869DF0>
+SetSkillSlotNew,		<cyfunction SlotWindow.SetSkillSlotNew at 0x0ABAAD98>
 	arg0: self
 	arg1: renderingSlotNumber
 	arg2: skillIndex
@@ -4891,45 +4891,45 @@ SetSkillSlotNew,		<cyfunction SlotWindow.SetSkillSlotNew at 0x07869DF0>
 
 submodule.SetSkillSlotNew
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotScale,		<cyfunction SlotWindow.SetSlotScale at 0x07868C38>
+SetSlotScale,		<cyfunction SlotWindow.SetSlotScale at 0x0ABA9BE0>
 	arg0: self
 	arg1: xScale
 	arg2: yScale
 
 submodule.SetSlotScale
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotStyle,		<cyfunction SlotWindow.SetSlotStyle at 0x07868B88>
+SetSlotStyle,		<cyfunction SlotWindow.SetSlotStyle at 0x0ABA9B30>
 	arg0: self
 	arg1: style
 
 submodule.SetSlotStyle
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-DeactivateSlot,		<cyfunction SlotWindow.DeactivateSlot at 0x078691E8>
+DeactivateSlot,		<cyfunction SlotWindow.DeactivateSlot at 0x0ABAA190>
 	arg0: self
 	arg1: slotNumber
 
 submodule.DeactivateSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-UnlockSlot,		<cyfunction SlotWindow.UnlockSlot at 0x07869A80>
+UnlockSlot,		<cyfunction SlotWindow.UnlockSlot at 0x0ABAAA28>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UnlockSlot
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetPressedSlotButtonEvent,		<cyfunction SlotWindow.SetPressedSlotButtonEvent at 0x078695B0>
+SetPressedSlotButtonEvent,		<cyfunction SlotWindow.SetPressedSlotButtonEvent at 0x0ABAA558>
 	arg0: self
 	arg1: event
 
 submodule.SetPressedSlotButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-SetSlotCount,		<cyfunction SlotWindow.SetSlotCount at 0x07869C90>
+SetSlotCount,		<cyfunction SlotWindow.SetSlotCount at 0x0ABAAC38>
 	arg0: self
 	arg1: slotNumber
 	arg2: count
 
 submodule.SetSlotCount
 Skipped: unbound method cython_function_or_method object must be called with SlotWindow instance as first argument (got nothing instead)
-ShowSlotBaseImage,		<cyfunction SlotWindow.ShowSlotBaseImage at 0x07869240>
+ShowSlotBaseImage,		<cyfunction SlotWindow.ShowSlotBaseImage at 0x0ABAA1E8>
 	arg0: self
 	arg1: slotNumber
 
@@ -4938,7 +4938,7 @@ Skipped: unbound method cython_function_or_method object must be called with Slo
 
 
 class EmptyCandidateWindow:
-Load,		<cyfunction EmptyCandidateWindow.Load at 0x07861450>
+Load,		<cyfunction EmptyCandidateWindow.Load at 0x0ABA23F8>
 	arg0: self
 
 submodule.Load
@@ -4948,17 +4948,17 @@ __module__,		ui
 submodule.__module__
 
 
-__del__,		<cyfunction EmptyCandidateWindow.__del__ at 0x078613F8>
+__del__,		<cyfunction EmptyCandidateWindow.__del__ at 0x0ABA23A0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with EmptyCandidateWindow instance as first argument (got nothing instead)
-Clear,		<cyfunction EmptyCandidateWindow.Clear at 0x07861500>
+Clear,		<cyfunction EmptyCandidateWindow.Clear at 0x0ABA24A8>
 	arg0: self
 
 submodule.Clear
 Skipped: unbound method cython_function_or_method object must be called with EmptyCandidateWindow instance as first argument (got nothing instead)
-Refresh,		<cyfunction EmptyCandidateWindow.Refresh at 0x078615B0>
+Refresh,		<cyfunction EmptyCandidateWindow.Refresh at 0x0ABA2558>
 	arg0: self
 
 submodule.Refresh
@@ -4968,7 +4968,7 @@ __qualname__,		EmptyCandidateWindow
 submodule.__qualname__
 
 
-SetCandidatePosition,		<cyfunction EmptyCandidateWindow.SetCandidatePosition at 0x078614A8>
+SetCandidatePosition,		<cyfunction EmptyCandidateWindow.SetCandidatePosition at 0x0ABA2450>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -4976,13 +4976,13 @@ SetCandidatePosition,		<cyfunction EmptyCandidateWindow.SetCandidatePosition at 
 
 submodule.SetCandidatePosition
 Skipped: unbound method cython_function_or_method object must be called with EmptyCandidateWindow instance as first argument (got nothing instead)
-Append,		<cyfunction EmptyCandidateWindow.Append at 0x07861558>
+Append,		<cyfunction EmptyCandidateWindow.Append at 0x0ABA2500>
 	arg0: self
 	arg1: text
 
 submodule.Append
 Skipped: unbound method cython_function_or_method object must be called with EmptyCandidateWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction EmptyCandidateWindow.__init__ at 0x078613A0>
+__init__,		<cyfunction EmptyCandidateWindow.__init__ at 0x0ABA2348>
 	arg0: self
 
 submodule.__init__
@@ -4992,7 +4992,7 @@ __doc__,		None
 submodule.__doc__
 
 
-Select,		<cyfunction EmptyCandidateWindow.Select at 0x07861608>
+Select,		<cyfunction EmptyCandidateWindow.Select at 0x0ABA25B0>
 	arg0: self
 
 submodule.Select
@@ -5000,7 +5000,7 @@ Skipped: unbound method cython_function_or_method object must be called with Emp
 
 
 class MoveTextLine:
-OnEndMove,		<cyfunction MoveTextLine.OnEndMove at 0x078612F0>
+OnEndMove,		<cyfunction MoveTextLine.OnEndMove at 0x0ABA2298>
 	arg0: self
 
 submodule.OnEndMove
@@ -5010,17 +5010,17 @@ __module__,		ui
 submodule.__module__
 
 
-MoveStart,		<cyfunction MoveTextLine.MoveStart at 0x078611E8>
+MoveStart,		<cyfunction MoveTextLine.MoveStart at 0x0ABA2190>
 	arg0: self
 
 submodule.MoveStart
 Skipped: unbound method cython_function_or_method object must be called with MoveTextLine instance as first argument (got nothing instead)
-__del__,		<cyfunction MoveTextLine.__del__ at 0x07861088>
+__del__,		<cyfunction MoveTextLine.__del__ at 0x0ABA2030>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MoveTextLine instance as first argument (got nothing instead)
-SetMovePosition,		<cyfunction MoveTextLine.SetMovePosition at 0x07861138>
+SetMovePosition,		<cyfunction MoveTextLine.SetMovePosition at 0x0ABA20E0>
 	arg0: self
 	arg1: dst_x
 	arg2: dst_y
@@ -5037,35 +5037,35 @@ __qualname__,		MoveTextLine
 submodule.__qualname__
 
 
-SetMoveSpeed,		<cyfunction MoveTextLine.SetMoveSpeed at 0x07861190>
+SetMoveSpeed,		<cyfunction MoveTextLine.SetMoveSpeed at 0x0ABA2138>
 	arg0: self
 	arg1: speed
 
 submodule.SetMoveSpeed
 Skipped: unbound method cython_function_or_method object must be called with MoveTextLine instance as first argument (got nothing instead)
-MoveStop,		<cyfunction MoveTextLine.MoveStop at 0x07861240>
+MoveStop,		<cyfunction MoveTextLine.MoveStop at 0x0ABA21E8>
 	arg0: self
 
 submodule.MoveStop
 Skipped: unbound method cython_function_or_method object must be called with MoveTextLine instance as first argument (got nothing instead)
-GetMove,		<cyfunction MoveTextLine.GetMove at 0x07861298>
+GetMove,		<cyfunction MoveTextLine.GetMove at 0x0ABA2240>
 	arg0: self
 
 submodule.GetMove
 Skipped: unbound method cython_function_or_method object must be called with MoveTextLine instance as first argument (got nothing instead)
-SetEndMoveEvent,		<cyfunction MoveTextLine.SetEndMoveEvent at 0x07861348>
+SetEndMoveEvent,		<cyfunction MoveTextLine.SetEndMoveEvent at 0x0ABA22F0>
 	arg0: self
 	arg1: event
 
 submodule.SetEndMoveEvent
 Skipped: unbound method cython_function_or_method object must be called with MoveTextLine instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction MoveTextLine.RegisterWindow at 0x078610E0>
+RegisterWindow,		<cyfunction MoveTextLine.RegisterWindow at 0x0ABA2088>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with MoveTextLine instance as first argument (got nothing instead)
-__init__,		<cyfunction MoveTextLine.__init__ at 0x07861030>
+__init__,		<cyfunction MoveTextLine.__init__ at 0x0AB9FFA8>
 	arg0: self
 
 submodule.__init__
@@ -5088,7 +5088,7 @@ SLOT_WIDTH,		16
 submodule.SLOT_WIDTH
 
 
-__del__,		<cyfunction Gauge.__del__ at 0x0786A9D0>
+__del__,		<cyfunction Gauge.__del__ at 0x0ABAB978>
 	arg0: self
 
 submodule.__del__
@@ -5108,13 +5108,13 @@ SLOT_HEIGHT,		7
 submodule.SLOT_HEIGHT
 
 
-GaugeImgBoxAddFlag,		<cyfunction Gauge.GaugeImgBoxAddFlag at 0x0786AAD8>
+GaugeImgBoxAddFlag,		<cyfunction Gauge.GaugeImgBoxAddFlag at 0x0ABABA80>
 	arg0: self
 	arg1: flag
 
 submodule.GaugeImgBoxAddFlag
 Skipped: unbound method cython_function_or_method object must be called with Gauge instance as first argument (got nothing instead)
-MakeGauge,		<cyfunction Gauge.MakeGauge at 0x0786AA28>
+MakeGauge,		<cyfunction Gauge.MakeGauge at 0x0ABAB9D0>
 	arg0: self
 	arg1: width
 	arg2: color
@@ -5126,14 +5126,14 @@ GAUGE_WIDTH,		16
 submodule.GAUGE_WIDTH
 
 
-SetPercentage,		<cyfunction Gauge.SetPercentage at 0x0786AA80>
+SetPercentage,		<cyfunction Gauge.SetPercentage at 0x0ABABA28>
 	arg0: self
 	arg1: curValue
 	arg2: maxValue
 
 submodule.SetPercentage
 Skipped: unbound method cython_function_or_method object must be called with Gauge instance as first argument (got nothing instead)
-__init__,		<cyfunction Gauge.__init__ at 0x0786A978>
+__init__,		<cyfunction Gauge.__init__ at 0x0ABAB920>
 	arg0: self
 
 submodule.__init__
@@ -5141,7 +5141,7 @@ Skipped: unbound method cython_function_or_method object must be called with Gau
 
 
 class EditLine:
-SetEndPosition,		<cyfunction EditLine.SetEndPosition at 0x07861C90>
+SetEndPosition,		<cyfunction EditLine.SetEndPosition at 0x0ABA2C38>
 	arg0: self
 
 submodule.SetEndPosition
@@ -5151,42 +5151,42 @@ __module__,		ui
 submodule.__module__
 
 
-SetTabEvent,		<cyfunction EditLine.SetTabEvent at 0x07861920>
+SetTabEvent,		<cyfunction EditLine.SetTabEvent at 0x0ABA28C8>
 	arg0: self
 	arg1: event
 
 submodule.SetTabEvent
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetUseCodePage,		<cyfunction EditLine.SetUseCodePage at 0x07861AD8>
+SetUseCodePage,		<cyfunction EditLine.SetUseCodePage at 0x0ABA2A80>
 	arg0: self
 	arg1: bUse
 	default: True
 
 submodule.SetUseCodePage
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetNumberMode,		<cyfunction EditLine.SetNumberMode at 0x07861A80>
+SetNumberMode,		<cyfunction EditLine.SetNumberMode at 0x0ABA2A28>
 	arg0: self
 
 submodule.SetNumberMode
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetReturnEvent,		<cyfunction EditLine.SetReturnEvent at 0x07861870>
+SetReturnEvent,		<cyfunction EditLine.SetReturnEvent at 0x0ABA2818>
 	arg0: self
 	arg1: event
 
 submodule.SetReturnEvent
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetText,		<cyfunction EditLine.SetText at 0x07861B88>
+SetText,		<cyfunction EditLine.SetText at 0x0ABA2B30>
 	arg0: self
 	arg1: text
 
 submodule.SetText
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnKillFocus,		<cyfunction EditLine.OnKillFocus at 0x07861D40>
+OnKillFocus,		<cyfunction EditLine.OnKillFocus at 0x0ABA2CE8>
 	arg0: self
 
 submodule.OnKillFocus
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetEscapeEvent,		<cyfunction EditLine.SetEscapeEvent at 0x078618C8>
+SetEscapeEvent,		<cyfunction EditLine.SetEscapeEvent at 0x0ABA2870>
 	arg0: self
 	arg1: event
 
@@ -5197,121 +5197,121 @@ candidateWindowClassDict,		{936: <class 'uiCandidate.VerticalCandidateBoard'>, 9
 submodule.candidateWindowClassDict
 
 
-__init__,		<cyfunction EditLine.__init__ at 0x07861660>
+__init__,		<cyfunction EditLine.__init__ at 0x0ABA2608>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-IsIncludeCodePage,		<cyfunction EditLine.IsIncludeCodePage at 0x07861FA8>
+IsIncludeCodePage,		<cyfunction EditLine.IsIncludeCodePage at 0x0ABA2F50>
 	arg0: self
 	arg1: text
 
 submodule.IsIncludeCodePage
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction EditLine.OnMouseLeftButtonDown at 0x07862298>
+OnMouseLeftButtonDown,		<cyfunction EditLine.OnMouseLeftButtonDown at 0x0ABA3240>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-Enable,		<cyfunction EditLine.Enable at 0x07861BE0>
+Enable,		<cyfunction EditLine.Enable at 0x0ABA2B88>
 	arg0: self
 
 submodule.Enable
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnKeyDown,		<cyfunction EditLine.OnKeyDown at 0x07862190>
+OnKeyDown,		<cyfunction EditLine.OnKeyDown at 0x0ABA3138>
 	arg0: self
 	arg1: key
 
 submodule.OnKeyDown
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMEUpdate,		<cyfunction EditLine.OnIMEUpdate at 0x07862030>
+OnIMEUpdate,		<cyfunction EditLine.OnIMEUpdate at 0x0ABA2FA8>
 	arg0: self
 
 submodule.OnIMEUpdate
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMEChangeCodePage,		<cyfunction EditLine.OnIMEChangeCodePage at 0x07861D98>
+OnIMEChangeCodePage,		<cyfunction EditLine.OnIMEChangeCodePage at 0x0ABA2D40>
 	arg0: self
 
 submodule.OnIMEChangeCodePage
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnSetFocus,		<cyfunction EditLine.OnSetFocus at 0x07861CE8>
+OnSetFocus,		<cyfunction EditLine.OnSetFocus at 0x0ABA2C90>
 	arg0: self
 
 submodule.OnSetFocus
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SAFE_SetReturnEvent,		<cyfunction EditLine.SAFE_SetReturnEvent at 0x07861818>
+SAFE_SetReturnEvent,		<cyfunction EditLine.SAFE_SetReturnEvent at 0x0ABA27C0>
 	arg0: self
 	arg1: event
 
 submodule.SAFE_SetReturnEvent
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMECloseCandidateList,		<cyfunction EditLine.OnIMECloseCandidateList at 0x07861E48>
+OnIMECloseCandidateList,		<cyfunction EditLine.OnIMECloseCandidateList at 0x0ABA2DF0>
 	arg0: self
 
 submodule.OnIMECloseCandidateList
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-IsNumber,		<cyfunction EditLine.IsNumber at 0x07861F50>
+IsNumber,		<cyfunction EditLine.IsNumber at 0x0ABA2EF8>
 	arg0: self
 	arg1: text
 
 submodule.IsNumber
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-RegisterWindow,		<cyfunction EditLine.RegisterWindow at 0x078617C0>
+RegisterWindow,		<cyfunction EditLine.RegisterWindow at 0x0ABA2768>
 	arg0: self
 	arg1: layer
 
 submodule.RegisterWindow
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMEOpenReadingWnd,		<cyfunction EditLine.OnIMEOpenReadingWnd at 0x07861EA0>
+OnIMEOpenReadingWnd,		<cyfunction EditLine.OnIMEOpenReadingWnd at 0x0ABA2E48>
 	arg0: self
 
 submodule.OnIMEOpenReadingWnd
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-__del__,		<cyfunction EditLine.__del__ at 0x078616B8>
+__del__,		<cyfunction EditLine.__del__ at 0x0ABA2660>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetMax,		<cyfunction EditLine.SetMax at 0x07861978>
+SetMax,		<cyfunction EditLine.SetMax at 0x0ABA2920>
 	arg0: self
 	arg1: max
 
 submodule.SetMax
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMETab,		<cyfunction EditLine.OnIMETab at 0x07862088>
+OnIMETab,		<cyfunction EditLine.OnIMETab at 0x0ABA3030>
 	arg0: self
 
 submodule.OnIMETab
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetUserMax,		<cyfunction EditLine.SetUserMax at 0x078619D0>
+SetUserMax,		<cyfunction EditLine.SetUserMax at 0x0ABA2978>
 	arg0: self
 	arg1: max
 
 submodule.SetUserMax
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction EditLine.OnPressEscapeKey at 0x07862138>
+OnPressEscapeKey,		<cyfunction EditLine.OnPressEscapeKey at 0x0ABA30E0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetIMEFlag,		<cyfunction EditLine.SetIMEFlag at 0x07861B30>
+SetIMEFlag,		<cyfunction EditLine.SetIMEFlag at 0x0ABA2AD8>
 	arg0: self
 	arg1: flag
 
 submodule.SetIMEFlag
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnKeyUp,		<cyfunction EditLine.OnKeyUp at 0x078621E8>
+OnKeyUp,		<cyfunction EditLine.OnKeyUp at 0x0ABA3190>
 	arg0: self
 	arg1: key
 
 submodule.OnKeyUp
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMEOpenCandidateList,		<cyfunction EditLine.OnIMEOpenCandidateList at 0x07861DF0>
+OnIMEOpenCandidateList,		<cyfunction EditLine.OnIMEOpenCandidateList at 0x0ABA2D98>
 	arg0: self
 
 submodule.OnIMEOpenCandidateList
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-SetCodePage,		<cyfunction EditLine.SetCodePage at 0x07861710>
+SetCodePage,		<cyfunction EditLine.SetCodePage at 0x0ABA26B8>
 	arg0: self
 	arg1: codePage
 
@@ -5327,35 +5327,35 @@ __qualname__,		EditLine
 submodule.__qualname__
 
 
-SetCheckWidth,		<cyfunction EditLine.SetCheckWidth at 0x07861A28>
+SetCheckWidth,		<cyfunction EditLine.SetCheckWidth at 0x0ABA29D0>
 	arg0: self
 	arg1: enable
 
 submodule.SetCheckWidth
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMEKeyDown,		<cyfunction EditLine.OnIMEKeyDown at 0x07862240>
+OnIMEKeyDown,		<cyfunction EditLine.OnIMEKeyDown at 0x0ABA31E8>
 	arg0: self
 	arg1: key
 
 submodule.OnIMEKeyDown
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMECloseReadingWnd,		<cyfunction EditLine.OnIMECloseReadingWnd at 0x07861EF8>
+OnIMECloseReadingWnd,		<cyfunction EditLine.OnIMECloseReadingWnd at 0x0ABA2EA0>
 	arg0: self
 
 submodule.OnIMECloseReadingWnd
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction EditLine.OnIMEReturn at 0x078620E0>
+OnIMEReturn,		<cyfunction EditLine.OnIMEReturn at 0x0ABA3088>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-_EditLine__SetCandidateClass,		<cyfunction EditLine.__SetCandidateClass at 0x07861768>
+_EditLine__SetCandidateClass,		<cyfunction EditLine.__SetCandidateClass at 0x0ABA2710>
 	arg0: self
 	arg1: candidateWindowClass
 
 submodule._EditLine__SetCandidateClass
 Skipped: unbound method cython_function_or_method object must be called with EditLine instance as first argument (got nothing instead)
-Disable,		<cyfunction EditLine.Disable at 0x07861C38>
+Disable,		<cyfunction EditLine.Disable at 0x0ABA2BE0>
 	arg0: self
 
 submodule.Disable

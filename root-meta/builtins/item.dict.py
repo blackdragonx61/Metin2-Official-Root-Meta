@@ -17,6 +17,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetIconImageFileName'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetIconInstance'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemDescription'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemListContainsSubstringInName'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemMaskSubType'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemMaskType'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemName'},

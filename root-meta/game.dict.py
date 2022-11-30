@@ -436,8 +436,8 @@
          {'name': '__name__', 'type': 'str', 'value': 'game'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'cameraDistance', 'type': 'float', 'value': 2499.718505859375},
-         {'name': 'cameraHeight', 'type': 'float', 'value': 18562.0859375},
-         {'name': 'cameraPitch', 'type': 'float', 'value': 9.308923721313477},
-         {'name': 'cameraRotation', 'type': 'float', 'value': -41.701541900634766},
+         {'name': 'cameraDistance', 'type': 'float', 'value': 1550.0},
+         {'name': 'cameraHeight', 'type': 'float', 'value': 100.0},
+         {'name': 'cameraPitch', 'type': 'float', 'value': 27.0},
+         {'name': 'cameraRotation', 'type': 'float', 'value': 0.0},
          {'name': 'testAlignment', 'type': 'int', 'value': 0}]}

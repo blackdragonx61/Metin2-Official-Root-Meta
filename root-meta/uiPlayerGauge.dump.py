@@ -13,22 +13,22 @@ key: math, val: <module 'math' (built-in)>
 
 
 class PlayerGauge:
-OnUpdate,		<cyfunction PlayerGauge.OnUpdate at 0x0ADABA80>
+OnUpdate,		<cyfunction PlayerGauge.OnUpdate at 0x0ADDCA28>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-RefreshGauge,		<cyfunction PlayerGauge.RefreshGauge at 0x0ADAB978>
+RefreshGauge,		<cyfunction PlayerGauge.RefreshGauge at 0x0ADDC920>
 	arg0: self
 
 submodule.RefreshGauge
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-Hide,		<cyfunction PlayerGauge.Hide at 0x0ADABA28>
+Hide,		<cyfunction PlayerGauge.Hide at 0x0ADDC9D0>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-__del__,		<cyfunction PlayerGauge.__del__ at 0x0ADAB710>
+__del__,		<cyfunction PlayerGauge.__del__ at 0x0ADDC6B8>
 	arg0: self
 
 submodule.__del__
@@ -48,17 +48,17 @@ __qualname__,		PlayerGauge
 submodule.__qualname__
 
 
-EnableShowAlways,		<cyfunction PlayerGauge.EnableShowAlways at 0x0ADAB9D0>
+EnableShowAlways,		<cyfunction PlayerGauge.EnableShowAlways at 0x0ADDC978>
 	arg0: self
 
 submodule.EnableShowAlways
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-DisableShowAlways,		<cyfunction PlayerGauge.DisableShowAlways at 0x0ADAB8C8>
+DisableShowAlways,		<cyfunction PlayerGauge.DisableShowAlways at 0x0ADDC870>
 	arg0: self
 
 submodule.DisableShowAlways
 Skipped: unbound method cython_function_or_method object must be called with PlayerGauge instance as first argument (got nothing instead)
-__init__,		<cyfunction PlayerGauge.__init__ at 0x0ADAB6B8>
+__init__,		<cyfunction PlayerGauge.__init__ at 0x0ADDC660>
 	arg0: self
 	arg1: parent
 

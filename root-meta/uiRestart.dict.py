@@ -7,7 +7,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'LoadDialog'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressExitKey'},
-                     {'args': ['self', 'mapidx', 'pos_y'], 'defaults': [0, 0], 'name': 'OpenDialog'},
+                     {'args': ['self', 'mapidx'], 'defaults': [0], 'name': 'OpenDialog'},
                      {'args': ['self'], 'defaults': [], 'name': 'RestartGiveUp'},
                      {'args': ['self'], 'defaults': [], 'name': 'RestartHere'},
                      {'args': ['self'], 'defaults': [], 'name': 'RestartImmediately'},
@@ -30,5 +30,5 @@
                     {'name': '__module__', 'type': 'str', 'value': 'uiRestart'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'RestartDialog'}]}],
  'func': [],
- 'import': ['uiCommon', '__builtin__', 'app', 'dbg', 'm2netm2g', 'ui', 'wndMgr', 'localeInfo'],
+ 'import': ['uiCommon', '__builtin__', 'app', 'dbg', 'm2netm2g', 'ui', 'localeInfo'],
  'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiRestart'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

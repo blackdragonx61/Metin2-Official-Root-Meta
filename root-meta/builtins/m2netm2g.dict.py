@@ -209,6 +209,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SendPostWrite'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SendPostWriteConfirm'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SendPrivateShopSearchInfo'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SendPrivateShopSearchInfoByVnum'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SendPrivateShopSearchInfoSub'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SendPrivateShopSerchBuyItem'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SendQuestConfirmPacket'},
