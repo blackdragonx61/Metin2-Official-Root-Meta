@@ -1,0 +1,12 @@
+{'class': [],
+ 'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetHighRankingInfoSolo'}, {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetMyRankingInfoSolo'}],
+ 'import': [],
+ 'var': [{'name': 'HIGH_RANK_VIEW_MAX', 'type': 'int', 'value': 10},
+         {'name': 'SOLO_RK_CATEGORY_BF_TOTAL', 'type': 'int', 'value': 1},
+         {'name': 'SOLO_RK_CATEGORY_BF_WEAK', 'type': 'int', 'value': 0},
+         {'name': 'SOLO_RK_CATEGORY_MAX', 'type': 'int', 'value': 2},
+         {'name': 'TYPE_RK_MAX', 'type': 'int', 'value': 1},
+         {'name': 'TYPE_RK_SOLO', 'type': 'int', 'value': 0},
+         {'name': '__doc__', 'type': 'NoneType', 'value': None},
+         {'name': '__name__', 'type': 'str', 'value': 'ranking'},
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}
