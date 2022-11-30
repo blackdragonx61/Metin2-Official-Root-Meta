@@ -5,7 +5,7 @@ key: app, val: <module 'app' (built-in)>
 key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: event, val: <module 'event' (built-in)>
-key: wraps, val: <function wraps at 0x0A923CF0>
+key: wraps, val: <function wraps at 0x0A9D3CF0>
 key: uiToolTip, val: <module 'uiToolTip' (built-in)>
 key: deque, val: <type 'collections.deque'>
 key: __package__, val: None
@@ -39,12 +39,12 @@ _MiniGameChallengeSubWindowDesc__desc_index,		<member '_MiniGameChallengeSubWind
 submodule._MiniGameChallengeSubWindowDesc__desc_index
 
 
-Hide,		<cyfunction MiniGameChallengeSubWindowDesc.Hide at 0x33368B30>
+Hide,		<cyfunction MiniGameChallengeSubWindowDesc.Hide at 0x26D92558>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with MiniGameChallengeSubWindowDesc instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameChallengeSubWindowDesc.__del__ at 0x33368A28>
+__del__,		<cyfunction MiniGameChallengeSubWindowDesc.__del__ at 0x26D92450>
 	arg0: self
 
 submodule.__del__
@@ -66,7 +66,7 @@ _MiniGameChallengeSubWindowDesc__desc_board,		<member '_MiniGameChallengeSubWind
 submodule._MiniGameChallengeSubWindowDesc__desc_board
 
 
-Destroy,		<cyfunction MiniGameChallengeSubWindowDesc.Destroy at 0x33368A80>
+Destroy,		<cyfunction MiniGameChallengeSubWindowDesc.Destroy at 0x26D924A8>
 	arg0: self
 
 submodule.Destroy
@@ -81,24 +81,24 @@ _MiniGameChallengeSubWindowDesc__DESC_WIDTH_COUNT,		68
 submodule._MiniGameChallengeSubWindowDesc__DESC_WIDTH_COUNT
 
 
-__init__,		<cyfunction MiniGameChallengeSubWindowDesc.__init__ at 0x333689D0>
+__init__,		<cyfunction MiniGameChallengeSubWindowDesc.__init__ at 0x26D923F8>
 	arg0: self
 	arg1: control_window
 	arg2: parent_window
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameChallengeSubWindowDesc instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MiniGameChallengeSubWindowDesc.OnUpdate at 0x33368C38>
+OnUpdate,		<cyfunction MiniGameChallengeSubWindowDesc.OnUpdate at 0x26D92660>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with MiniGameChallengeSubWindowDesc instance as first argument (got nothing instead)
-_MiniGameChallengeSubWindowDesc__NextDescriptionPage,		<cyfunction MiniGameChallengeSubWindowDesc.__NextDescriptionPage at 0x33368CE8>
+_MiniGameChallengeSubWindowDesc__NextDescriptionPage,		<cyfunction MiniGameChallengeSubWindowDesc.__NextDescriptionPage at 0x26D92710>
 	arg0: self
 
 submodule._MiniGameChallengeSubWindowDesc__NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with MiniGameChallengeSubWindowDesc instance as first argument (got nothing instead)
-Show,		<cyfunction MiniGameChallengeSubWindowDesc.Show at 0x33368BE0>
+Show,		<cyfunction MiniGameChallengeSubWindowDesc.Show at 0x26D92608>
 	arg0: self
 
 submodule.Show
@@ -118,7 +118,7 @@ __qualname__,		MiniGameChallengeSubWindowDesc
 submodule.__qualname__
 
 
-_MiniGameChallengeSubWindowDesc__LoadWindow,		<cyfunction MiniGameChallengeSubWindowDesc.__LoadWindow at 0x33368AD8>
+_MiniGameChallengeSubWindowDesc__LoadWindow,		<cyfunction MiniGameChallengeSubWindowDesc.__LoadWindow at 0x26D92500>
 	arg0: self
 
 submodule._MiniGameChallengeSubWindowDesc__LoadWindow
@@ -133,12 +133,12 @@ _MiniGameChallengeSubWindowDesc__DEFAULT_DESC_Y,		7
 submodule._MiniGameChallengeSubWindowDesc__DEFAULT_DESC_Y
 
 
-Close,		<cyfunction MiniGameChallengeSubWindowDesc.Close at 0x33368B88>
+Close,		<cyfunction MiniGameChallengeSubWindowDesc.Close at 0x26D925B0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniGameChallengeSubWindowDesc instance as first argument (got nothing instead)
-_MiniGameChallengeSubWindowDesc__PrevDescriptionPage,		<cyfunction MiniGameChallengeSubWindowDesc.__PrevDescriptionPage at 0x33368C90>
+_MiniGameChallengeSubWindowDesc__PrevDescriptionPage,		<cyfunction MiniGameChallengeSubWindowDesc.__PrevDescriptionPage at 0x26D926B8>
 	arg0: self
 
 submodule._MiniGameChallengeSubWindowDesc__PrevDescriptionPage

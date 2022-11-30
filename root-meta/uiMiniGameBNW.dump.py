@@ -6,7 +6,7 @@ key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: BNWRankPage, val: <class 'uiMiniGameBNW.BNWRankPage'>
 key: STATE_PLAY, val: 2
 key: event, val: <module 'event' (built-in)>
-key: wraps, val: <function wraps at 0x0A003CF0>
+key: wraps, val: <function wraps at 0x0A9D3CF0>
 key: STATE_NONE, val: 0
 key: BNWGamePage, val: <class 'uiMiniGameBNW.BNWGamePage'>
 key: STATE_WAITING, val: 1
@@ -35,7 +35,7 @@ __module__,		uiMiniGameBNW
 submodule.__module__
 
 
-_BNWRankPage__DonateAccept,		<cyfunction BNWRankPage.__DonateAccept at 0x0A501B30>
+_BNWRankPage__DonateAccept,		<cyfunction BNWRankPage.__DonateAccept at 0x0AECDB30>
 	arg0: self
 
 submodule._BNWRankPage__DonateAccept
@@ -45,12 +45,12 @@ _BNWRankPage__control_window,		<member '_BNWRankPage__control_window' of 'BNWRan
 submodule._BNWRankPage__control_window
 
 
-Show,		<cyfunction BNWRankPage.Show at 0x0A501A80>
+Show,		<cyfunction BNWRankPage.Show at 0x0AECDA80>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with BNWRankPage instance as first argument (got nothing instead)
-__del__,		<cyfunction BNWRankPage.__del__ at 0x0A5018C8>
+__del__,		<cyfunction BNWRankPage.__del__ at 0x0AECD8C8>
 	arg0: self
 
 submodule.__del__
@@ -60,7 +60,7 @@ _BNWRankPage__donate_question_dlg,		<member '_BNWRankPage__donate_question_dlg' 
 submodule._BNWRankPage__donate_question_dlg
 
 
-_BNWRankPage__LoadWindow,		<cyfunction BNWRankPage.__LoadWindow at 0x0A501978>
+_BNWRankPage__LoadWindow,		<cyfunction BNWRankPage.__LoadWindow at 0x0AECD978>
 	arg0: self
 
 submodule._BNWRankPage__LoadWindow
@@ -95,27 +95,27 @@ __slots__,		('__is_loaded', '__control_window', '__rank_text_object_tuple', '__m
 submodule.__slots__
 
 
-OnPressEscapeKey,		<cyfunction BNWRankPage.OnPressEscapeKey at 0x0A501A28>
+OnPressEscapeKey,		<cyfunction BNWRankPage.OnPressEscapeKey at 0x0AECDA28>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with BNWRankPage instance as first argument (got nothing instead)
-Destroy,		<cyfunction BNWRankPage.Destroy at 0x0A501920>
+Destroy,		<cyfunction BNWRankPage.Destroy at 0x0AECD920>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with BNWRankPage instance as first argument (got nothing instead)
-Close,		<cyfunction BNWRankPage.Close at 0x0A5019D0>
+Close,		<cyfunction BNWRankPage.Close at 0x0AECD9D0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BNWRankPage instance as first argument (got nothing instead)
-_BNWRankPage__OpenDonateQuestionDlg,		<cyfunction BNWRankPage.__OpenDonateQuestionDlg at 0x0A501AD8>
+_BNWRankPage__OpenDonateQuestionDlg,		<cyfunction BNWRankPage.__OpenDonateQuestionDlg at 0x0AECDAD8>
 	arg0: self
 
 submodule._BNWRankPage__OpenDonateQuestionDlg
 Skipped: unbound method cython_function_or_method object must be called with BNWRankPage instance as first argument (got nothing instead)
-RefreshRankingBoard,		<cyfunction BNWRankPage.RefreshRankingBoard at 0x0A501B88>
+RefreshRankingBoard,		<cyfunction BNWRankPage.RefreshRankingBoard at 0x0AECDB88>
 	arg0: self
 
 submodule.RefreshRankingBoard
@@ -125,7 +125,7 @@ _BNWRankPage__my_rank_text_object_tuple,		<member '_BNWRankPage__my_rank_text_ob
 submodule._BNWRankPage__my_rank_text_object_tuple
 
 
-__init__,		<cyfunction BNWRankPage.__init__ at 0x0A501870>
+__init__,		<cyfunction BNWRankPage.__init__ at 0x0AECD870>
 	arg0: self
 	arg1: control_window
 
@@ -164,19 +164,19 @@ _BNWGamePage__giveup_question_dlg,		<member '_BNWGamePage__giveup_question_dlg' 
 submodule._BNWGamePage__giveup_question_dlg
 
 
-_BNWGamePage__UpdateCurCardFlash,		<cyfunction BNWGamePage.__UpdateCurCardFlash at 0x0A50ADF0>
+_BNWGamePage__UpdateCurCardFlash,		<cyfunction BNWGamePage.__UpdateCurCardFlash at 0x0AED6DF0>
 	arg0: self
 
 submodule._BNWGamePage__UpdateCurCardFlash
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__CardMoveHandToField,		<cyfunction BNWGamePage.__CardMoveHandToField at 0x0A50A920>
+_BNWGamePage__CardMoveHandToField,		<cyfunction BNWGamePage.__CardMoveHandToField at 0x0AED6920>
 	arg0: self
 	arg1: is_player1_turn
 	arg2: card_number
 
 submodule._BNWGamePage__CardMoveHandToField
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__SetPlayer2CurCard,		<cyfunction BNWGamePage.__SetPlayer2CurCard at 0x0A50AA28>
+_BNWGamePage__SetPlayer2CurCard,		<cyfunction BNWGamePage.__SetPlayer2CurCard at 0x0AED6A28>
 	arg0: self
 	arg1: number
 
@@ -187,7 +187,7 @@ _BNWGamePage__player_score_object_tupel,		<member '_BNWGamePage__player_score_ob
 submodule._BNWGamePage__player_score_object_tupel
 
 
-_BNWGamePage__OpenResultPopup,		<cyfunction BNWGamePage.__OpenResultPopup at 0x0A50ACE8>
+_BNWGamePage__OpenResultPopup,		<cyfunction BNWGamePage.__OpenResultPopup at 0x0AED6CE8>
 	arg0: self
 	arg1: result
 	arg2: reward_item_count
@@ -220,12 +220,12 @@ EVENT_TYPE_CUR_CARD_HIDE,		6
 submodule.EVENT_TYPE_CUR_CARD_HIDE
 
 
-Show,		<cyfunction BNWGamePage.Show at 0x0A50A3F8>
+Show,		<cyfunction BNWGamePage.Show at 0x0AED63F8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__ClickCard,		<cyfunction BNWGamePage.__ClickCard at 0x0A50A6B8>
+_BNWGamePage__ClickCard,		<cyfunction BNWGamePage.__ClickCard at 0x0AED66B8>
 	arg0: self
 	arg1: number
 
@@ -241,7 +241,7 @@ __module__,		uiMiniGameBNW
 submodule.__module__
 
 
-_BNWGamePage__CurCardHide,		<cyfunction BNWGamePage.__CurCardHide at 0x0A50AC90>
+_BNWGamePage__CurCardHide,		<cyfunction BNWGamePage.__CurCardHide at 0x0AED6C90>
 	arg0: self
 
 submodule._BNWGamePage__CurCardHide
@@ -261,11 +261,11 @@ _BNWGamePage__end_game,		<member '_BNWGamePage__end_game' of 'BNWGamePage' objec
 submodule._BNWGamePage__end_game
 
 
-_BNWGamePage__CardMoveCo,		<cyfunction BNWGamePage.coroutine_wrapper.<locals>.wrapper at 0x0A50A8C8>
+_BNWGamePage__CardMoveCo,		<cyfunction BNWGamePage.coroutine_wrapper.<locals>.wrapper at 0x0AED68C8>
 
 submodule._BNWGamePage__CardMoveCo
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__UpdateEvent,		<cyfunction BNWGamePage.__UpdateEvent at 0x0A50AE48>
+_BNWGamePage__UpdateEvent,		<cyfunction BNWGamePage.__UpdateEvent at 0x0AED6E48>
 	arg0: self
 
 submodule._BNWGamePage__UpdateEvent
@@ -275,7 +275,7 @@ BNW_PLAYER_MAX,		2
 submodule.BNW_PLAYER_MAX
 
 
-_BNWGamePage__MoveTextEnd,		<cyfunction BNWGamePage.__MoveTextEnd at 0x0A50AB88>
+_BNWGamePage__MoveTextEnd,		<cyfunction BNWGamePage.__MoveTextEnd at 0x0AED6B88>
 	arg0: self
 	arg1: move_text_list_index
 	arg2: object_tuple_index
@@ -289,7 +289,7 @@ EVENT_TYPE_CARD_FLASH_END,		10
 submodule.EVENT_TYPE_CARD_FLASH_END
 
 
-_BNWGamePage__CardMoveEndHandToField,		<cyfunction BNWGamePage.__CardMoveEndHandToField at 0x0A50A978>
+_BNWGamePage__CardMoveEndHandToField,		<cyfunction BNWGamePage.__CardMoveEndHandToField at 0x0AED6978>
 	arg0: self
 	arg1: index
 	arg2: is_player1_turn
@@ -327,12 +327,12 @@ _BNWGamePage__player2_card_tuple,		<member '_BNWGamePage__player2_card_tuple' of
 submodule._BNWGamePage__player2_card_tuple
 
 
-OnUpdate,		<cyfunction BNWGamePage.OnUpdate at 0x0A50AD98>
+OnUpdate,		<cyfunction BNWGamePage.OnUpdate at 0x0AED6D98>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__CardMouseOver,		<cyfunction BNWGamePage.__CardMouseOver at 0x0A50A710>
+_BNWGamePage__CardMouseOver,		<cyfunction BNWGamePage.__CardMouseOver at 0x0AED6710>
 	arg0: self
 	arg1: number
 
@@ -348,26 +348,26 @@ _BNWGamePage__result_popup,		<member '_BNWGamePage__result_popup' of 'BNWGamePag
 submodule._BNWGamePage__result_popup
 
 
-_BNWGamePage__LoadWindow,		<cyfunction BNWGamePage.__LoadWindow at 0x0A50A500>
+_BNWGamePage__LoadWindow,		<cyfunction BNWGamePage.__LoadWindow at 0x0AED6500>
 	arg0: self
 
 submodule._BNWGamePage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-SetEvent,		<cyfunction BNWGamePage.SetEvent at 0x0A50AEA0>
+SetEvent,		<cyfunction BNWGamePage.SetEvent at 0x0AED6EA0>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.SetEvent
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__CreateMoveText,		<cyfunction BNWGamePage.__CreateMoveText at 0x0A50AB30>
+_BNWGamePage__CreateMoveText,		<cyfunction BNWGamePage.__CreateMoveText at 0x0AED6B30>
 	arg0: self
 	arg1: frist_text
 	arg2: second_text
 
 submodule._BNWGamePage__CreateMoveText
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__Initialize,		<cyfunction BNWGamePage.__Initialize at 0x0A50A608>
+_BNWGamePage__Initialize,		<cyfunction BNWGamePage.__Initialize at 0x0AED6608>
 	arg0: self
 
 submodule._BNWGamePage__Initialize
@@ -377,7 +377,7 @@ _BNWGamePage__is_hand_card_flash,		<member '_BNWGamePage__is_hand_card_flash' of
 submodule._BNWGamePage__is_hand_card_flash
 
 
-_BNWGamePage__SetThrowCardResult,		<cyfunction BNWGamePage.__SetThrowCardResult at 0x0A50AC38>
+_BNWGamePage__SetThrowCardResult,		<cyfunction BNWGamePage.__SetThrowCardResult at 0x0AED6C38>
 	arg0: self
 	arg1: result
 	arg2: player1_score
@@ -385,7 +385,7 @@ _BNWGamePage__SetThrowCardResult,		<cyfunction BNWGamePage.__SetThrowCardResult 
 
 submodule._BNWGamePage__SetThrowCardResult
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__SetPlayer1CurCard,		<cyfunction BNWGamePage.__SetPlayer1CurCard at 0x0A50A9D0>
+_BNWGamePage__SetPlayer1CurCard,		<cyfunction BNWGamePage.__SetPlayer1CurCard at 0x0AED69D0>
 	arg0: self
 	arg1: number
 
@@ -396,7 +396,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_BNWGamePage__CardMouseOverOut,		<cyfunction BNWGamePage.__CardMouseOverOut at 0x0A50A768>
+_BNWGamePage__CardMouseOverOut,		<cyfunction BNWGamePage.__CardMouseOverOut at 0x0AED6768>
 	arg0: self
 	arg1: number
 
@@ -412,7 +412,7 @@ EVENT_TYPE_END_PROCESS,		7
 submodule.EVENT_TYPE_END_PROCESS
 
 
-__del__,		<cyfunction BNWGamePage.__del__ at 0x0A50A2F0>
+__del__,		<cyfunction BNWGamePage.__del__ at 0x0AED62F0>
 	arg0: self
 
 submodule.__del__
@@ -422,7 +422,7 @@ _BNWGamePage__player2_odd_number_card_list,		<member '_BNWGamePage__player2_odd_
 submodule._BNWGamePage__player2_odd_number_card_list
 
 
-_BNWGamePage__GetPlayer2RandomNumber,		<cyfunction BNWGamePage.__GetPlayer2RandomNumber at 0x0A50AA80>
+_BNWGamePage__GetPlayer2RandomNumber,		<cyfunction BNWGamePage.__GetPlayer2RandomNumber at 0x0AED6A80>
 	arg0: self
 	arg1: is_even_number
 
@@ -433,12 +433,12 @@ EVENT_TYPE_DELAY,		2
 submodule.EVENT_TYPE_DELAY
 
 
-Close,		<cyfunction BNWGamePage.Close at 0x0A50A450>
+Close,		<cyfunction BNWGamePage.Close at 0x0AED6450>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-coroutine_wrapper,		<cyfunction BNWGamePage.coroutine_wrapper at 0x0A50A818>
+coroutine_wrapper,		<cyfunction BNWGamePage.coroutine_wrapper at 0x0AED6818>
 	arg0: original_func
 
 submodule.coroutine_wrapper
@@ -448,7 +448,7 @@ TEXT_MOVE_SPEED,		3.0
 submodule.TEXT_MOVE_SPEED
 
 
-_BNWGamePage__SetTurn,		<cyfunction BNWGamePage.__SetTurn at 0x0A50A660>
+_BNWGamePage__SetTurn,		<cyfunction BNWGamePage.__SetTurn at 0x0AED6660>
 	arg0: self
 	arg1: is_player1_turn
 
@@ -469,25 +469,25 @@ BNW_CARD_EVEN_NUMBER_COUNT,		5
 submodule.BNW_CARD_EVEN_NUMBER_COUNT
 
 
-Destroy,		<cyfunction BNWGamePage.Destroy at 0x0A50A348>
+Destroy,		<cyfunction BNWGamePage.Destroy at 0x0AED6348>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__SetScore,		<cyfunction BNWGamePage.__SetScore at 0x0A50ABE0>
+_BNWGamePage__SetScore,		<cyfunction BNWGamePage.__SetScore at 0x0AED6BE0>
 	arg0: self
 	arg1: is_player1
 	arg2: score
 
 submodule._BNWGamePage__SetScore
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-__init__,		<cyfunction BNWGamePage.__init__ at 0x0A50A298>
+__init__,		<cyfunction BNWGamePage.__init__ at 0x0AED6298>
 	arg0: self
 	arg1: control_window
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__GiveupAccept,		<cyfunction BNWGamePage.__GiveupAccept at 0x0A50A4A8>
+_BNWGamePage__GiveupAccept,		<cyfunction BNWGamePage.__GiveupAccept at 0x0AED64A8>
 	arg0: self
 
 submodule._BNWGamePage__GiveupAccept
@@ -517,7 +517,7 @@ _BNWGamePage__alarm_text_object_tuple,		<member '_BNWGamePage__alarm_text_object
 submodule._BNWGamePage__alarm_text_object_tuple
 
 
-_BNWGamePage__CreateMoveImg,		<cyfunction BNWGamePage.__CreateMoveImg at 0x0A50A7C0>
+_BNWGamePage__CreateMoveImg,		<cyfunction BNWGamePage.__CreateMoveImg at 0x0AED67C0>
 	arg0: self
 	arg1: is_player1_turn
 	arg2: card_number
@@ -531,7 +531,7 @@ _BNWGamePage__player1_card_over_tuple,		<member '_BNWGamePage__player1_card_over
 submodule._BNWGamePage__player1_card_over_tuple
 
 
-_BNWGamePage__CardThrow,		<cyfunction BNWGamePage.__CardThrow at 0x0A50AAD8>
+_BNWGamePage__CardThrow,		<cyfunction BNWGamePage.__CardThrow at 0x0AED6AD8>
 	arg0: self
 	arg1: is_other_player_card
 	arg2: number
@@ -543,12 +543,12 @@ CARD_MOVE_SPEED,		20.0
 submodule.CARD_MOVE_SPEED
 
 
-_BNWGamePage__BindObject,		<cyfunction BNWGamePage.__BindObject at 0x0A50A558>
+_BNWGamePage__BindObject,		<cyfunction BNWGamePage.__BindObject at 0x0AED6558>
 	arg0: self
 
 submodule._BNWGamePage__BindObject
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction BNWGamePage.OnPressEscapeKey at 0x0A50A3A0>
+OnPressEscapeKey,		<cyfunction BNWGamePage.OnPressEscapeKey at 0x0AED63A0>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -558,12 +558,12 @@ EVENT_TYPE_SET_TURN,		3
 submodule.EVENT_TYPE_SET_TURN
 
 
-_BNWGamePage__OpenGiveupQuestionDlg,		<cyfunction BNWGamePage.__OpenGiveupQuestionDlg at 0x0A50AD40>
+_BNWGamePage__OpenGiveupQuestionDlg,		<cyfunction BNWGamePage.__OpenGiveupQuestionDlg at 0x0AED6D40>
 	arg0: self
 
 submodule._BNWGamePage__OpenGiveupQuestionDlg
 Skipped: unbound method cython_function_or_method object must be called with BNWGamePage instance as first argument (got nothing instead)
-_BNWGamePage__BindEvent,		<cyfunction BNWGamePage.__BindEvent at 0x0A50A5B0>
+_BNWGamePage__BindEvent,		<cyfunction BNWGamePage.__BindEvent at 0x0AED65B0>
 	arg0: self
 
 submodule._BNWGamePage__BindEvent
@@ -616,7 +616,7 @@ _BNWWaitingPage__desc_board,		<member '_BNWWaitingPage__desc_board' of 'BNWWaiti
 submodule._BNWWaitingPage__desc_board
 
 
-_BNWWaitingPage__NextDescriptionPage,		<cyfunction BNWWaitingPage.__NextDescriptionPage at 0x0A50A088>
+_BNWWaitingPage__NextDescriptionPage,		<cyfunction BNWWaitingPage.__NextDescriptionPage at 0x0AED6088>
 	arg0: self
 
 submodule._BNWWaitingPage__NextDescriptionPage
@@ -626,7 +626,7 @@ _BNWWaitingPage__desc_index,		<member '_BNWWaitingPage__desc_index' of 'BNWWaiti
 submodule._BNWWaitingPage__desc_index
 
 
-__del__,		<cyfunction BNWWaitingPage.__del__ at 0x0A501D98>
+__del__,		<cyfunction BNWWaitingPage.__del__ at 0x0AECDD98>
 	arg0: self
 
 submodule.__del__
@@ -636,7 +636,7 @@ _BNWWaitingPage__VISIBLE_LINE_COUNT,		15
 submodule._BNWWaitingPage__VISIBLE_LINE_COUNT
 
 
-_BNWWaitingPage__ClickRewardTradeButton,		<cyfunction BNWWaitingPage.__ClickRewardTradeButton at 0x0A50A240>
+_BNWWaitingPage__ClickRewardTradeButton,		<cyfunction BNWWaitingPage.__ClickRewardTradeButton at 0x0AED6240>
 	arg0: self
 
 submodule._BNWWaitingPage__ClickRewardTradeButton
@@ -646,14 +646,14 @@ _BNWWaitingPage__description_box,		<member '_BNWWaitingPage__description_box' of
 submodule._BNWWaitingPage__description_box
 
 
-_BNWWaitingPage__ClickRankButton,		<cyfunction BNWWaitingPage.__ClickRankButton at 0x0A50A1E8>
+_BNWWaitingPage__ClickRankButton,		<cyfunction BNWWaitingPage.__ClickRankButton at 0x0AED61E8>
 	arg0: self
 
 submodule._BNWWaitingPage__ClickRankButton
 Skipped: unbound method cython_function_or_method object must be called with BNWWaitingPage instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiMiniGameBNW.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction BNWWaitingPage.OnPressEscapeKey at 0x0A501EF8>
+OnPressEscapeKey,		<cyfunction BNWWaitingPage.OnPressEscapeKey at 0x0AECDEF8>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -663,7 +663,7 @@ _BNWWaitingPage__start_question_dialog,		<member '_BNWWaitingPage__start_questio
 submodule._BNWWaitingPage__start_question_dialog
 
 
-Destroy,		<cyfunction BNWWaitingPage.Destroy at 0x0A501DF0>
+Destroy,		<cyfunction BNWWaitingPage.Destroy at 0x0AECDDF0>
 	arg0: self
 
 submodule.Destroy
@@ -673,28 +673,28 @@ _BNWWaitingPage__is_loaded,		<member '_BNWWaitingPage__is_loaded' of 'BNWWaiting
 submodule._BNWWaitingPage__is_loaded
 
 
-_BNWWaitingPage__ClickGameStartButton,		<cyfunction BNWWaitingPage.__ClickGameStartButton at 0x0A50A0E0>
+_BNWWaitingPage__ClickGameStartButton,		<cyfunction BNWWaitingPage.__ClickGameStartButton at 0x0AED60E0>
 	arg0: self
 
 submodule._BNWWaitingPage__ClickGameStartButton
 Skipped: unbound method cython_function_or_method object must be called with BNWWaitingPage instance as first argument (got nothing instead)
-__init__,		<cyfunction BNWWaitingPage.__init__ at 0x0A501D40>
+__init__,		<cyfunction BNWWaitingPage.__init__ at 0x0AECDD40>
 	arg0: self
 	arg1: control_window
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with BNWWaitingPage instance as first argument (got nothing instead)
-_BNWWaitingPage__StartAccept,		<cyfunction BNWWaitingPage.__StartAccept at 0x0A50A138>
+_BNWWaitingPage__StartAccept,		<cyfunction BNWWaitingPage.__StartAccept at 0x0AED6138>
 	arg0: self
 
 submodule._BNWWaitingPage__StartAccept
 Skipped: unbound method cython_function_or_method object must be called with BNWWaitingPage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction BNWWaitingPage.OnUpdate at 0x0A501FA8>
+OnUpdate,		<cyfunction BNWWaitingPage.OnUpdate at 0x0AECDFA8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with BNWWaitingPage instance as first argument (got nothing instead)
-Show,		<cyfunction BNWWaitingPage.Show at 0x0A501F50>
+Show,		<cyfunction BNWWaitingPage.Show at 0x0AECDF50>
 	arg0: self
 
 submodule.Show
@@ -704,7 +704,7 @@ _BNWWaitingPage__control_window,		<member '_BNWWaitingPage__control_window' of '
 submodule._BNWWaitingPage__control_window
 
 
-_BNWWaitingPage__LoadWindow,		<cyfunction BNWWaitingPage.__LoadWindow at 0x0A501E48>
+_BNWWaitingPage__LoadWindow,		<cyfunction BNWWaitingPage.__LoadWindow at 0x0AECDE48>
 	arg0: self
 
 submodule._BNWWaitingPage__LoadWindow
@@ -719,17 +719,17 @@ __qualname__,		BNWWaitingPage
 submodule.__qualname__
 
 
-_BNWWaitingPage__PrevDescriptionPage,		<cyfunction BNWWaitingPage.__PrevDescriptionPage at 0x0A50A030>
+_BNWWaitingPage__PrevDescriptionPage,		<cyfunction BNWWaitingPage.__PrevDescriptionPage at 0x0AED6030>
 	arg0: self
 
 submodule._BNWWaitingPage__PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with BNWWaitingPage instance as first argument (got nothing instead)
-_BNWWaitingPage__StartCancel,		<cyfunction BNWWaitingPage.__StartCancel at 0x0A50A190>
+_BNWWaitingPage__StartCancel,		<cyfunction BNWWaitingPage.__StartCancel at 0x0AED6190>
 	arg0: self
 
 submodule._BNWWaitingPage__StartCancel
 Skipped: unbound method cython_function_or_method object must be called with BNWWaitingPage instance as first argument (got nothing instead)
-Close,		<cyfunction BNWWaitingPage.Close at 0x0A501EA0>
+Close,		<cyfunction BNWWaitingPage.Close at 0x0AECDEA0>
 	arg0: self
 
 submodule.Close
@@ -752,22 +752,22 @@ _MiniGameBNW__game_page,		<member '_MiniGameBNW__game_page' of 'MiniGameBNW' obj
 submodule._MiniGameBNW__game_page
 
 
-Open,		<cyfunction MiniGameBNW.Open at 0x0A50C190>
+Open,		<cyfunction MiniGameBNW.Open at 0x0AED8190>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with MiniGameBNW instance as first argument (got nothing instead)
-Show,		<cyfunction MiniGameBNW.Show at 0x0A50C030>
+Show,		<cyfunction MiniGameBNW.Show at 0x0AED8030>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniGameBNW instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameBNW.__del__ at 0x0A50AF50>
+__del__,		<cyfunction MiniGameBNW.__del__ at 0x0AED6F50>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameBNW instance as first argument (got nothing instead)
-_MiniGameBNW__LoadWindow,		<cyfunction MiniGameBNW.__LoadWindow at 0x0A50C0E0>
+_MiniGameBNW__LoadWindow,		<cyfunction MiniGameBNW.__LoadWindow at 0x0AED80E0>
 	arg0: self
 
 submodule._MiniGameBNW__LoadWindow
@@ -797,13 +797,13 @@ __slots__,		('__is_loaded', '__state', '__cur_page', '__waiting_page', '__game_p
 submodule.__slots__
 
 
-ChangeState,		<cyfunction MiniGameBNW.ChangeState at 0x0A50C138>
+ChangeState,		<cyfunction MiniGameBNW.ChangeState at 0x0AED8138>
 	arg0: self
 	arg1: state
 
 submodule.ChangeState
 Skipped: unbound method cython_function_or_method object must be called with MiniGameBNW instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniGameBNW.Destroy at 0x0A50AFA8>
+Destroy,		<cyfunction MiniGameBNW.Destroy at 0x0AED6FA8>
 	arg0: self
 
 submodule.Destroy
@@ -813,7 +813,7 @@ _MiniGameBNW__is_loaded,		<member '_MiniGameBNW__is_loaded' of 'MiniGameBNW' obj
 submodule._MiniGameBNW__is_loaded
 
 
-Close,		<cyfunction MiniGameBNW.Close at 0x0A50C088>
+Close,		<cyfunction MiniGameBNW.Close at 0x0AED8088>
 	arg0: self
 
 submodule.Close
@@ -823,7 +823,7 @@ _MiniGameBNW__cur_page,		<member '_MiniGameBNW__cur_page' of 'MiniGameBNW' objec
 submodule._MiniGameBNW__cur_page
 
 
-BNWProcess,		<cyfunction MiniGameBNW.BNWProcess at 0x0A50C240>
+BNWProcess,		<cyfunction MiniGameBNW.BNWProcess at 0x0AED8240>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -836,12 +836,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MiniGameBNW.__init__ at 0x0A50AEF8>
+__init__,		<cyfunction MiniGameBNW.__init__ at 0x0AED6EF8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameBNW instance as first argument (got nothing instead)
-RefreshRankingList,		<cyfunction MiniGameBNW.RefreshRankingList at 0x0A50C1E8>
+RefreshRankingList,		<cyfunction MiniGameBNW.RefreshRankingList at 0x0AED81E8>
 	arg0: self
 
 submodule.RefreshRankingList

@@ -95,4 +95,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'uiMiniGameFishEvent'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'fish_event_game_state', 'type': 'int', 'value': 1}]}
+         {'name': 'fish_event_game_state', 'type': 'int', 'value': 0}]}

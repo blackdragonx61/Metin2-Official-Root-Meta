@@ -480,6 +480,7 @@
          {'name': 'MASK_ITEM_SUBTYPE_ARMOR_ARMOR_BODY', 'type': 'int', 'value': 0},
          {'name': 'MASK_ITEM_SUBTYPE_ARMOR_ARMOR_HEAD', 'type': 'int', 'value': 1},
          {'name': 'MASK_ITEM_SUBTYPE_ARMOR_ARMOR_SHIELD', 'type': 'int', 'value': 2},
+         {'name': 'MASK_ITEM_SUBTYPE_COSTUMES_AURA', 'type': 'int', 'value': 5},
          {'name': 'MASK_ITEM_SUBTYPE_COSTUMES_COSTUME_BODY', 'type': 'int', 'value': 1},
          {'name': 'MASK_ITEM_SUBTYPE_COSTUMES_COSTUME_HAIR', 'type': 'int', 'value': 2},
          {'name': 'MASK_ITEM_SUBTYPE_COSTUMES_COSTUME_WEAPON', 'type': 'int', 'value': 0},

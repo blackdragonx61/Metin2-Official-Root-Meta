@@ -36,17 +36,17 @@ __module__,		introCreate
 submodule.__module__
 
 
-CreateCharacter,		<cyfunction CreateCharacterWindow.CreateCharacter at 0x3022A500>
+CreateCharacter,		<cyfunction CreateCharacterWindow.CreateCharacter at 0x26D402F0>
 	arg0: self
 
 submodule.CreateCharacter
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-DisableWindow,		<cyfunction CreateCharacterWindow.DisableWindow at 0x3022A3F8>
+DisableWindow,		<cyfunction CreateCharacterWindow.DisableWindow at 0x26D40030>
 	arg0: self
 
 submodule.DisableWindow
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-RefreshStat,		<cyfunction CreateCharacterWindow.RefreshStat at 0x3022A920>
+RefreshStat,		<cyfunction CreateCharacterWindow.RefreshStat at 0x26D40240>
 	arg0: self
 
 submodule.RefreshStat
@@ -58,23 +58,23 @@ SLOT_ROTATION,		([135.0, 207.0, 279.0, 351.0, 63.0], [135.0, 225.0, 315.0, 45.0]
 submodule.SLOT_ROTATION
 
 
-__init__,		<cyfunction CreateCharacterWindow.__init__ at 0x3022A768>
+__init__,		<cyfunction CreateCharacterWindow.__init__ at 0x26C46FA8>
 	arg0: self
 	arg1: stream
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OverOutStatButton,		<cyfunction CreateCharacterWindow.OverOutStatButton at 0x3022AFA8>
+OverOutStatButton,		<cyfunction CreateCharacterWindow.OverOutStatButton at 0x26D40870>
 	arg0: self
 
 submodule.OverOutStatButton
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-_CreateCharacterWindow__IncreaseSlotIndex,		<cyfunction CreateCharacterWindow.__IncreaseSlotIndex at 0x3022AB30>
+_CreateCharacterWindow__IncreaseSlotIndex,		<cyfunction CreateCharacterWindow.__IncreaseSlotIndex at 0x26D403F8>
 	arg0: self
 
 submodule._CreateCharacterWindow__IncreaseSlotIndex
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-_CreateCharacterWindow__MakeCharacter,		<cyfunction CreateCharacterWindow.__MakeCharacter at 0x3022A978>
+_CreateCharacterWindow__MakeCharacter,		<cyfunction CreateCharacterWindow.__MakeCharacter at 0x26D400E0>
 	arg0: self
 	arg1: page
 	arg2: slot
@@ -82,12 +82,12 @@ _CreateCharacterWindow__MakeCharacter,		<cyfunction CreateCharacterWindow.__Make
 
 submodule._CreateCharacterWindow__MakeCharacter
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-EnableWindow,		<cyfunction CreateCharacterWindow.EnableWindow at 0x3022A660>
+EnableWindow,		<cyfunction CreateCharacterWindow.EnableWindow at 0x26C46E48>
 	arg0: self
 
 submodule.EnableWindow
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OnKeyDown,		<cyfunction CreateCharacterWindow.OnKeyDown at 0x3022AC38>
+OnKeyDown,		<cyfunction CreateCharacterWindow.OnKeyDown at 0x26D40660>
 	arg0: self
 	arg1: key
 
@@ -103,18 +103,18 @@ STAT_CON,		0
 submodule.STAT_CON
 
 
-NextDescriptionPage,		<cyfunction CreateCharacterWindow.NextDescriptionPage at 0x3022AA80>
+NextDescriptionPage,		<cyfunction CreateCharacterWindow.NextDescriptionPage at 0x26D404A8>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-_CreateCharacterWindow__SelectGender,		<cyfunction CreateCharacterWindow.__SelectGender at 0x3022A9D0>
+_CreateCharacterWindow__SelectGender,		<cyfunction CreateCharacterWindow.__SelectGender at 0x26D40138>
 	arg0: self
 	arg1: gender
 
 submodule._CreateCharacterWindow__SelectGender
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-CancelCreate,		<cyfunction CreateCharacterWindow.CancelCreate at 0x3022A298>
+CancelCreate,		<cyfunction CreateCharacterWindow.CancelCreate at 0x26D40348>
 	arg0: self
 
 submodule.CancelCreate
@@ -124,7 +124,7 @@ STAT_DESCRIPTION,		{0: 'N\xf6vekszik a TP \xe9s a v\xe9delem', 1: 'N\xf6vekszik 
 submodule.STAT_DESCRIPTION
 
 
-PopupMessage,		<cyfunction CreateCharacterWindow.PopupMessage at 0x3022AD40>
+PopupMessage,		<cyfunction CreateCharacterWindow.PopupMessage at 0x26D40768>
 	arg0: self
 	arg1: msg
 	arg2: func
@@ -132,13 +132,13 @@ PopupMessage,		<cyfunction CreateCharacterWindow.PopupMessage at 0x3022AD40>
 
 submodule.PopupMessage
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OverInStatButton,		<cyfunction CreateCharacterWindow.OverInStatButton at 0x3022AF50>
+OverInStatButton,		<cyfunction CreateCharacterWindow.OverInStatButton at 0x26D40818>
 	arg0: self
 	arg1: stat
 
 submodule.OverInStatButton
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OnCreateFailure,		<cyfunction CreateCharacterWindow.OnCreateFailure at 0x3022AEA0>
+OnCreateFailure,		<cyfunction CreateCharacterWindow.OnCreateFailure at 0x26D40608>
 	arg0: self
 	arg1: type
 
@@ -151,18 +151,18 @@ STAT_STR,		2
 submodule.STAT_STR
 
 
-PrevDescriptionPage,		<cyfunction CreateCharacterWindow.PrevDescriptionPage at 0x3022A870>
+PrevDescriptionPage,		<cyfunction CreateCharacterWindow.PrevDescriptionPage at 0x26D40450>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-_CreateCharacterWindow__CheckCreateCharacter,		<cyfunction CreateCharacterWindow.__CheckCreateCharacter at 0x3022AD98>
+_CreateCharacterWindow__CheckCreateCharacter,		<cyfunction CreateCharacterWindow.__CheckCreateCharacter at 0x26D40500>
 	arg0: self
 	arg1: name
 
 submodule._CreateCharacterWindow__CheckCreateCharacter
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction CreateCharacterWindow.__del__ at 0x3022A7C0>
+__del__,		<cyfunction CreateCharacterWindow.__del__ at 0x26C46DF0>
 	arg0: self
 
 submodule.__del__
@@ -187,44 +187,44 @@ __doc__,		None
 submodule.__doc__
 
 
-OnCreateSuccess,		<cyfunction CreateCharacterWindow.OnCreateSuccess at 0x3022AE48>
+OnCreateSuccess,		<cyfunction CreateCharacterWindow.OnCreateSuccess at 0x26D405B0>
 	arg0: self
 
 submodule.OnCreateSuccess
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-_CreateCharacterWindow__DecreaseSlotIndex,		<cyfunction CreateCharacterWindow.__DecreaseSlotIndex at 0x3022A818>
+_CreateCharacterWindow__DecreaseSlotIndex,		<cyfunction CreateCharacterWindow.__DecreaseSlotIndex at 0x26D403A0>
 	arg0: self
 
 submodule._CreateCharacterWindow__DecreaseSlotIndex
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-EmptyFunc,		<cyfunction CreateCharacterWindow.EmptyFunc at 0x3022ACE8>
+EmptyFunc,		<cyfunction CreateCharacterWindow.EmptyFunc at 0x26D40710>
 	arg0: self
 
 submodule.EmptyFunc
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OnPressExitKey,		<cyfunction CreateCharacterWindow.OnPressExitKey at 0x3022AEF8>
+OnPressExitKey,		<cyfunction CreateCharacterWindow.OnPressExitKey at 0x26D407C0>
 	arg0: self
 
 submodule.OnPressExitKey
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-_CreateCharacterWindow__SelectSlot,		<cyfunction CreateCharacterWindow.__SelectSlot at 0x3022A6B8>
+_CreateCharacterWindow__SelectSlot,		<cyfunction CreateCharacterWindow.__SelectSlot at 0x26D40298>
 	arg0: self
 	arg1: slot
 
 submodule._CreateCharacterWindow__SelectSlot
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction CreateCharacterWindow.OnUpdate at 0x3022AC90>
+OnUpdate,		<cyfunction CreateCharacterWindow.OnUpdate at 0x26D406B8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-_CreateCharacterWindow__SelectShape,		<cyfunction CreateCharacterWindow.__SelectShape at 0x3022AB88>
+_CreateCharacterWindow__SelectShape,		<cyfunction CreateCharacterWindow.__SelectShape at 0x26D40190>
 	arg0: self
 	arg1: shape
 
 submodule._CreateCharacterWindow__SelectShape
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-_CreateCharacterWindow__GetSlotChrID,		<cyfunction CreateCharacterWindow.__GetSlotChrID at 0x3022A5B0>
+_CreateCharacterWindow__GetSlotChrID,		<cyfunction CreateCharacterWindow.__GetSlotChrID at 0x26D40088>
 	arg0: self
 	arg1: page
 	arg2: slot
@@ -236,7 +236,7 @@ __qualname__,		CreateCharacterWindow
 submodule.__qualname__
 
 
-GetSlotIndex,		<cyfunction CreateCharacterWindow.GetSlotIndex at 0x3022ABE0>
+GetSlotIndex,		<cyfunction CreateCharacterWindow.GetSlotIndex at 0x26D401E8>
 	arg0: self
 
 submodule.GetSlotIndex
@@ -246,17 +246,17 @@ CREATE_STAT_POINT,		0
 submodule.CREATE_STAT_POINT
 
 
-Close,		<cyfunction CreateCharacterWindow.Close at 0x3022A710>
+Close,		<cyfunction CreateCharacterWindow.Close at 0x26C46D98>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-Open,		<cyfunction CreateCharacterWindow.Open at 0x3022A348>
+Open,		<cyfunction CreateCharacterWindow.Open at 0x26C46F50>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with CreateCharacterWindow instance as first argument (got nothing instead)
-ResetStat,		<cyfunction CreateCharacterWindow.ResetStat at 0x3022ADF0>
+ResetStat,		<cyfunction CreateCharacterWindow.ResetStat at 0x26D40558>
 	arg0: self
 
 submodule.ResetStat

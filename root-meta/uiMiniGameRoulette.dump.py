@@ -26,7 +26,7 @@ ROULETTE_SLOT_MAX,		20
 submodule.ROULETTE_SLOT_MAX
 
 
-_RouletteWindow__RangeCheck,		<cyfunction RouletteWindow.__RangeCheck at 0x0A5013A0>
+_RouletteWindow__RangeCheck,		<cyfunction RouletteWindow.__RangeCheck at 0x0AECD3A0>
 	arg0: self
 
 submodule._RouletteWindow__RangeCheck
@@ -36,22 +36,22 @@ USE_LIMIT_RANGE,		2000
 submodule.USE_LIMIT_RANGE
 
 
-_RouletteWindow__LoadWindow,		<cyfunction RouletteWindow.__LoadWindow at 0x0A4FCFA8>
+_RouletteWindow__LoadWindow,		<cyfunction RouletteWindow.__LoadWindow at 0x0AEC7FA8>
 	arg0: self
 
 submodule._RouletteWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction RouletteWindow.Destroy at 0x0A4FCEF8>
+Destroy,		<cyfunction RouletteWindow.Destroy at 0x0AEC7EF8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction RouletteWindow.__init__ at 0x0A4FCE48>
+__init__,		<cyfunction RouletteWindow.__init__ at 0x0AEC7E48>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-RouletteProcess,		<cyfunction RouletteWindow.RouletteProcess at 0x0A501710>
+RouletteProcess,		<cyfunction RouletteWindow.RouletteProcess at 0x0AECD710>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -63,7 +63,7 @@ __qualname__,		RouletteWindow
 submodule.__qualname__
 
 
-OverOutSlot,		<cyfunction RouletteWindow.OverOutSlot at 0x0A501240>
+OverOutSlot,		<cyfunction RouletteWindow.OverOutSlot at 0x0AECD240>
 	arg0: self
 
 submodule.OverOutSlot
@@ -73,7 +73,7 @@ spin_time_before_request,		((40, 60), (20, 40, 60))
 submodule.spin_time_before_request
 
 
-_RouletteWindow__RouletteUpdate,		<cyfunction RouletteWindow.__RouletteUpdate at 0x0A5013F8>
+_RouletteWindow__RouletteUpdate,		<cyfunction RouletteWindow.__RouletteUpdate at 0x0AECD3F8>
 	arg0: self
 
 submodule._RouletteWindow__RouletteUpdate
@@ -83,13 +83,13 @@ last_spin_time_after_request,		(400, 600)
 submodule.last_spin_time_after_request
 
 
-_RouletteWindow__SpinFix,		<cyfunction RouletteWindow.__SpinFix at 0x0A501660>
+_RouletteWindow__SpinFix,		<cyfunction RouletteWindow.__SpinFix at 0x0AECD660>
 	arg0: self
 	arg1: index
 
 submodule._RouletteWindow__SpinFix
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-ClickSpinButton,		<cyfunction RouletteWindow.ClickSpinButton at 0x0A501298>
+ClickSpinButton,		<cyfunction RouletteWindow.ClickSpinButton at 0x0AECD298>
 	arg0: self
 
 submodule.ClickSpinButton
@@ -104,19 +104,19 @@ __doc__,		None
 submodule.__doc__
 
 
-_RouletteWindow__MoveNext,		<cyfunction RouletteWindow.__MoveNext at 0x0A501500>
+_RouletteWindow__MoveNext,		<cyfunction RouletteWindow.__MoveNext at 0x0AECD500>
 	arg0: self
 	arg1: cur_time
 	arg2: pivot_time
 
 submodule._RouletteWindow__MoveNext
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction RouletteWindow.__del__ at 0x0A4FCEA0>
+__del__,		<cyfunction RouletteWindow.__del__ at 0x0AEC7EA0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-_RouletteWindow__SlotIndexGenerator,		<cyfunction RouletteWindow.__SlotIndexGenerator at 0x0A501558>
+_RouletteWindow__SlotIndexGenerator,		<cyfunction RouletteWindow.__SlotIndexGenerator at 0x0AECD558>
 	arg0: self
 
 submodule._RouletteWindow__SlotIndexGenerator
@@ -126,12 +126,12 @@ beginning_spin_time_after_request,		(60, 120)
 submodule.beginning_spin_time_after_request
 
 
-OnPressEscapeKey,		<cyfunction RouletteWindow.OnPressEscapeKey at 0x0A501088>
+OnPressEscapeKey,		<cyfunction RouletteWindow.OnPressEscapeKey at 0x0AECD088>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-Close,		<cyfunction RouletteWindow.Close at 0x0A5010E0>
+Close,		<cyfunction RouletteWindow.Close at 0x0AECD0E0>
 	arg0: self
 	arg1: is_force
 	arg2: is_send_packet
@@ -140,7 +140,7 @@ Close,		<cyfunction RouletteWindow.Close at 0x0A5010E0>
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction RouletteWindow.SetItemToolTip at 0x0A501030>
+SetItemToolTip,		<cyfunction RouletteWindow.SetItemToolTip at 0x0AECD030>
 	arg0: self
 	arg1: tooptip
 
@@ -151,7 +151,7 @@ middle_spin_time_after_request,		((160, 200, 240, 280, 320, 340, 350, 360, 370, 
 submodule.middle_spin_time_after_request
 
 
-OverInSlot,		<cyfunction RouletteWindow.OverInSlot at 0x0A5011E8>
+OverInSlot,		<cyfunction RouletteWindow.OverInSlot at 0x0AECD1E8>
 	arg0: self
 	arg1: slot_index
 
@@ -162,13 +162,13 @@ RESPONSE_TIME_OUT,		10000
 submodule.RESPONSE_TIME_OUT
 
 
-_RouletteWindow__Open,		<cyfunction RouletteWindow.__Open at 0x0A5015B0>
+_RouletteWindow__Open,		<cyfunction RouletteWindow.__Open at 0x0AECD5B0>
 	arg0: self
 	arg1: item_info
 
 submodule._RouletteWindow__Open
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-Show,		<cyfunction RouletteWindow.Show at 0x0A501138>
+Show,		<cyfunction RouletteWindow.Show at 0x0AECD138>
 	arg0: self
 
 submodule.Show
@@ -178,46 +178,46 @@ spin_count_before_request,		((20, 5), (20, 15, 5))
 submodule.spin_count_before_request
 
 
-_RouletteWindow__SetItemList,		<cyfunction RouletteWindow.__SetItemList at 0x0A501190>
+_RouletteWindow__SetItemList,		<cyfunction RouletteWindow.__SetItemList at 0x0AECD190>
 	arg0: self
 	arg1: item_data_tuple
 
 submodule._RouletteWindow__SetItemList
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-_RouletteWindow__SpinInitialize,		<cyfunction RouletteWindow.__SpinInitialize at 0x0A4FCF50>
+_RouletteWindow__SpinInitialize,		<cyfunction RouletteWindow.__SpinInitialize at 0x0AEC7F50>
 	arg0: self
 
 submodule._RouletteWindow__SpinInitialize
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-_RouletteWindow__TitleUpdate,		<cyfunction RouletteWindow.__TitleUpdate at 0x0A501348>
+_RouletteWindow__TitleUpdate,		<cyfunction RouletteWindow.__TitleUpdate at 0x0AECD348>
 	arg0: self
 
 submodule._RouletteWindow__TitleUpdate
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction RouletteWindow.OnUpdate at 0x0A5012F0>
+OnUpdate,		<cyfunction RouletteWindow.OnUpdate at 0x0AECD2F0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-_RouletteWindow__SpinEnd,		<cyfunction RouletteWindow.__SpinEnd at 0x0A5016B8>
+_RouletteWindow__SpinEnd,		<cyfunction RouletteWindow.__SpinEnd at 0x0AECD6B8>
 	arg0: self
 	arg1: result
 
 submodule._RouletteWindow__SpinEnd
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-_RouletteWindow__RouletteUpdateBeforeRequest,		<cyfunction RouletteWindow.__RouletteUpdateBeforeRequest at 0x0A501450>
+_RouletteWindow__RouletteUpdateBeforeRequest,		<cyfunction RouletteWindow.__RouletteUpdateBeforeRequest at 0x0AECD450>
 	arg0: self
 	arg1: cur_time
 
 submodule._RouletteWindow__RouletteUpdateBeforeRequest
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-_RouletteWindow__RouletteUpdateAfterRequest,		<cyfunction RouletteWindow.__RouletteUpdateAfterRequest at 0x0A5014A8>
+_RouletteWindow__RouletteUpdateAfterRequest,		<cyfunction RouletteWindow.__RouletteUpdateAfterRequest at 0x0AECD4A8>
 	arg0: self
 	arg1: cur_time
 
 submodule._RouletteWindow__RouletteUpdateAfterRequest
 Skipped: unbound method cython_function_or_method object must be called with RouletteWindow instance as first argument (got nothing instead)
-_RouletteWindow__StartSpin,		<cyfunction RouletteWindow.__StartSpin at 0x0A501608>
+_RouletteWindow__StartSpin,		<cyfunction RouletteWindow.__StartSpin at 0x0AECD608>
 	arg0: self
 
 submodule._RouletteWindow__StartSpin

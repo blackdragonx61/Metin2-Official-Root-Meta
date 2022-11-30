@@ -3,8 +3,8 @@
  'ElementDictionary': {},
  'IsShowWindowValue': False,
  'board': 0,
- 'hWnd': 843301136,
- 'infoGuildMark': <ui.MarkBox object at 0x3070CF70>,
+ 'hWnd': 766582640,
+ 'infoGuildMark': <ui.MarkBox object at 0x3F271E50>,
  'mapName': '',
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,
@@ -13,6 +13,6 @@
  'overOutArgs': None,
  'overOutFunc': None,
  'parentWindow': 0,
- 'tooltipInfo': <uiMiniMap.MapTextToolTip object at 0x305E1990>,
+ 'tooltipInfo': <uiMiniMap.MapTextToolTip object at 0x3F0BCF30>,
  'window_horizontal_align': 0,
  'window_vertical_align': 0}
