@@ -38,13 +38,13 @@ key: DIVISION_ITEM, val: 2
 key: DIVISION_GM, val: 3
 key: item, val: <module 'item' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
-key: LoadScript, val: <cyfunction LoadScript at 0x0EC18558>
+key: LoadScript, val: <cyfunction LoadScript at 0x0BD40B30>
 key: MAX_CHEQUE, val: 999
 key: FRIEND_SELECT_UI_SHOW_MAX, val: 10
 
 
 class MailBox:
-_MailBox__ClickPrevButton,		<cyfunction MailBox.__ClickPrevButton at 0x0EC24FA8>
+_MailBox__ClickPrevButton,		<cyfunction MailBox.__ClickPrevButton at 0x0BD4E5B0>
 	arg0: self
 
 submodule._MailBox__ClickPrevButton
@@ -54,179 +54,179 @@ __module__,		uiMailBox
 submodule.__module__
 
 
-_MailBox__PostGetItemsSuccess,		<cyfunction MailBox.__PostGetItemsSuccess at 0x0EC25298>
+_MailBox__PostGetItemsSuccess,		<cyfunction MailBox.__PostGetItemsSuccess at 0x0BD4E870>
 	arg0: self
 	arg1: data_index
 
 submodule._MailBox__PostGetItemsSuccess
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__SendPostAllDelete,		<cyfunction MailBox.__SendPostAllDelete at 0x0EC24C90>
+_MailBox__SendPostAllDelete,		<cyfunction MailBox.__SendPostAllDelete at 0x0BD4E298>
 	arg0: self
 
 submodule._MailBox__SendPostAllDelete
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__CreatePostList,		<cyfunction MailBox.__CreatePostList at 0x0EC24B30>
+_MailBox__CreatePostList,		<cyfunction MailBox.__CreatePostList at 0x0BD4E138>
 	arg0: self
 
 submodule._MailBox__CreatePostList
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__RefreshMailBoxGMButton,		<cyfunction MailBox.__RefreshMailBoxGMButton at 0x0EC24F50>
+_MailBox__RefreshMailBoxGMButton,		<cyfunction MailBox.__RefreshMailBoxGMButton at 0x0BD4E558>
 	arg0: self
 
 submodule._MailBox__RefreshMailBoxGMButton
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-Destroy,		<cyfunction MailBox.Destroy at 0x0EC246B8>
+Destroy,		<cyfunction MailBox.Destroy at 0x0BD4DC90>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-MailBoxProcess,		<cyfunction MailBox.MailBoxProcess at 0x0EC25660>
+MailBoxProcess,		<cyfunction MailBox.MailBoxProcess at 0x0BD4EC38>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.MailBoxProcess
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostDeleteSuccess,		<cyfunction MailBox.__PostDeleteSuccess at 0x0EC25348>
+_MailBox__PostDeleteSuccess,		<cyfunction MailBox.__PostDeleteSuccess at 0x0BD4E920>
 	arg0: self
 	arg1: data_index
 
 submodule._MailBox__PostDeleteSuccess
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-__init__,		<cyfunction MailBox.__init__ at 0x0EC24608>
+__init__,		<cyfunction MailBox.__init__ at 0x0BD4DBE0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__BindObject,		<cyfunction MailBox.__BindObject at 0x0EC248C8>
+_MailBox__BindObject,		<cyfunction MailBox.__BindObject at 0x0BD4DEA0>
 	arg0: self
 
 submodule._MailBox__BindObject
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__BindEvent,		<cyfunction MailBox.__BindEvent at 0x0EC24920>
+_MailBox__BindEvent,		<cyfunction MailBox.__BindEvent at 0x0BD4DEF8>
 	arg0: self
 
 submodule._MailBox__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__CreatePostReadWindow,		<cyfunction MailBox.__CreatePostReadWindow at 0x0EC25190>
+_MailBox__CreatePostReadWindow,		<cyfunction MailBox.__CreatePostReadWindow at 0x0BD4E768>
 	arg0: self
 
 submodule._MailBox__CreatePostReadWindow
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__OpenAllGetItemsFailPopup,		<cyfunction MailBox.__OpenAllGetItemsFailPopup at 0x0EC24EA0>
+_MailBox__OpenAllGetItemsFailPopup,		<cyfunction MailBox.__OpenAllGetItemsFailPopup at 0x0BD4E4A8>
 	arg0: self
 
 submodule._MailBox__OpenAllGetItemsFailPopup
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__ClickNextButton,		<cyfunction MailBox.__ClickNextButton at 0x0EC25030>
+_MailBox__ClickNextButton,		<cyfunction MailBox.__ClickNextButton at 0x0BD4E608>
 	arg0: self
 
 submodule._MailBox__ClickNextButton
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-CloseClear,		<cyfunction MailBox.CloseClear at 0x0EC24768>
+CloseClear,		<cyfunction MailBox.CloseClear at 0x0BD4DD40>
 	arg0: self
 
 submodule.CloseClear
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__OpenPostAllGetItemsQuestionDlg,		<cyfunction MailBox.__OpenPostAllGetItemsQuestionDlg at 0x0EC24D98>
+_MailBox__OpenPostAllGetItemsQuestionDlg,		<cyfunction MailBox.__OpenPostAllGetItemsQuestionDlg at 0x0BD4E3A0>
 	arg0: self
 
 submodule._MailBox__OpenPostAllGetItemsQuestionDlg
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__CreatePostWriteWindow,		<cyfunction MailBox.__CreatePostWriteWindow at 0x0EC251E8>
+_MailBox__CreatePostWriteWindow,		<cyfunction MailBox.__CreatePostWriteWindow at 0x0BD4E7C0>
 	arg0: self
 
 submodule._MailBox__CreatePostWriteWindow
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostAllDeleteSuccess,		<cyfunction MailBox.__PostAllDeleteSuccess at 0x0EC253F8>
+_MailBox__PostAllDeleteSuccess,		<cyfunction MailBox.__PostAllDeleteSuccess at 0x0BD4E9D0>
 	arg0: self
 
 submodule._MailBox__PostAllDeleteSuccess
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostAllGetItemsSuccess,		<cyfunction MailBox.__PostAllGetItemsSuccess at 0x0EC254A8>
+_MailBox__PostAllGetItemsSuccess,		<cyfunction MailBox.__PostAllGetItemsSuccess at 0x0BD4EA80>
 	arg0: self
 	arg1: getSuccessKeyList
 
 submodule._MailBox__PostAllGetItemsSuccess
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__AllPostButtonEnable,		<cyfunction MailBox.__AllPostButtonEnable at 0x0EC25138>
+_MailBox__AllPostButtonEnable,		<cyfunction MailBox.__AllPostButtonEnable at 0x0BD4E710>
 	arg0: self
 
 submodule._MailBox__AllPostButtonEnable
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostAllDeleteFail,		<cyfunction MailBox.__PostAllDeleteFail at 0x0EC25450>
+_MailBox__PostAllDeleteFail,		<cyfunction MailBox.__PostAllDeleteFail at 0x0BD4EA28>
 	arg0: self
 	arg1: result
 
 submodule._MailBox__PostAllDeleteFail
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-SetDSWindow,		<cyfunction MailBox.SetDSWindow at 0x0EC249D0>
+SetDSWindow,		<cyfunction MailBox.SetDSWindow at 0x0BD4DFA8>
 	arg0: self
 	arg1: ds_window
 
 submodule.SetDSWindow
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__RefreshPostButton,		<cyfunction MailBox.__RefreshPostButton at 0x0EC250E0>
+_MailBox__RefreshPostButton,		<cyfunction MailBox.__RefreshPostButton at 0x0BD4E6B8>
 	arg0: self
 	arg1: index
 
 submodule._MailBox__RefreshPostButton
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__ClosePostAllGetItemsQuestionDialog,		<cyfunction MailBox.__ClosePostAllGetItemsQuestionDialog at 0x0EC24E48>
+_MailBox__ClosePostAllGetItemsQuestionDialog,		<cyfunction MailBox.__ClosePostAllGetItemsQuestionDialog at 0x0BD4E450>
 	arg0: self
 
 submodule._MailBox__ClosePostAllGetItemsQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__ClickAllDeleteButton,		<cyfunction MailBox.__ClickAllDeleteButton at 0x0EC24B88>
+_MailBox__ClickAllDeleteButton,		<cyfunction MailBox.__ClickAllDeleteButton at 0x0BD4E190>
 	arg0: self
 
 submodule._MailBox__ClickAllDeleteButton
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__LoadWindow,		<cyfunction MailBox.__LoadWindow at 0x0EC24870>
+_MailBox__LoadWindow,		<cyfunction MailBox.__LoadWindow at 0x0BD4DE48>
 	arg0: self
 
 submodule._MailBox__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostAllGetItemsFail,		<cyfunction MailBox.__PostAllGetItemsFail at 0x0EC25500>
+_MailBox__PostAllGetItemsFail,		<cyfunction MailBox.__PostAllGetItemsFail at 0x0BD4EAD8>
 	arg0: self
 	arg1: result
 
 submodule._MailBox__PostAllGetItemsFail
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-__del__,		<cyfunction MailBox.__del__ at 0x0EC24660>
+__del__,		<cyfunction MailBox.__del__ at 0x0BD4DC38>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-MailBoxOpen,		<cyfunction MailBox.MailBoxOpen at 0x0EC25608>
+MailBoxOpen,		<cyfunction MailBox.MailBoxOpen at 0x0BD4EBE0>
 	arg0: self
 	arg1: is_distance_check
 
 submodule.MailBoxOpen
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__OpenPostAllDeleteFailPopupDlg,		<cyfunction MailBox.__OpenPostAllDeleteFailPopupDlg at 0x0EC24C38>
+_MailBox__OpenPostAllDeleteFailPopupDlg,		<cyfunction MailBox.__OpenPostAllDeleteFailPopupDlg at 0x0BD4E240>
 	arg0: self
 
 submodule._MailBox__OpenPostAllDeleteFailPopupDlg
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MailBox.OnPressEscapeKey at 0x0EC247C0>
+OnPressEscapeKey,		<cyfunction MailBox.OnPressEscapeKey at 0x0BD4DD98>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostDeleteFail,		<cyfunction MailBox.__PostDeleteFail at 0x0EC253A0>
+_MailBox__PostDeleteFail,		<cyfunction MailBox.__PostDeleteFail at 0x0BD4E978>
 	arg0: self
 	arg1: result
 
 submodule._MailBox__PostDeleteFail
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-SetInven,		<cyfunction MailBox.SetInven at 0x0EC24978>
+SetInven,		<cyfunction MailBox.SetInven at 0x0BD4DF50>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-CantPostItemSlot,		<cyfunction MailBox.CantPostItemSlot at 0x0EC255B0>
+CantPostItemSlot,		<cyfunction MailBox.CantPostItemSlot at 0x0BD4EB88>
 	arg0: self
 	arg1: slotIndex
 	arg2: slotWindow
@@ -234,51 +234,51 @@ CantPostItemSlot,		<cyfunction MailBox.CantPostItemSlot at 0x0EC255B0>
 
 submodule.CantPostItemSlot
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__ClickPostWriteButton,		<cyfunction MailBox.__ClickPostWriteButton at 0x0EC25240>
+_MailBox__ClickPostWriteButton,		<cyfunction MailBox.__ClickPostWriteButton at 0x0BD4E818>
 	arg0: self
 
 submodule._MailBox__ClickPostWriteButton
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-BindInterface,		<cyfunction MailBox.BindInterface at 0x0EC24A28>
+BindInterface,		<cyfunction MailBox.BindInterface at 0x0BD4E030>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__ClickAllGetItemsButton,		<cyfunction MailBox.__ClickAllGetItemsButton at 0x0EC24D40>
+_MailBox__ClickAllGetItemsButton,		<cyfunction MailBox.__ClickAllGetItemsButton at 0x0BD4E348>
 	arg0: self
 
 submodule._MailBox__ClickAllGetItemsButton
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction MailBox.SetItemToolTip at 0x0EC24A80>
+SetItemToolTip,		<cyfunction MailBox.SetItemToolTip at 0x0BD4E088>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostRefresh,		<cyfunction MailBox.__PostRefresh at 0x0EC25088>
+_MailBox__PostRefresh,		<cyfunction MailBox.__PostRefresh at 0x0BD4E660>
 	arg0: self
 
 submodule._MailBox__PostRefresh
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__SendPostAllGetItems,		<cyfunction MailBox.__SendPostAllGetItems at 0x0EC24DF0>
+_MailBox__SendPostAllGetItems,		<cyfunction MailBox.__SendPostAllGetItems at 0x0BD4E3F8>
 	arg0: self
 
 submodule._MailBox__SendPostAllGetItems
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-Show,		<cyfunction MailBox.Show at 0x0EC24818>
+Show,		<cyfunction MailBox.Show at 0x0BD4DDF0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__ClickPost,		<cyfunction MailBox.__ClickPost at 0x0EC24EF8>
+_MailBox__ClickPost,		<cyfunction MailBox.__ClickPost at 0x0BD4E500>
 	arg0: self
 	arg1: button_index
 	arg2: data_index
 
 submodule._MailBox__ClickPost
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction MailBox.OnUpdate at 0x0EC24AD8>
+OnUpdate,		<cyfunction MailBox.OnUpdate at 0x0BD4E0E0>
 	arg0: self
 
 submodule.OnUpdate
@@ -293,28 +293,28 @@ __qualname__,		MailBox
 submodule.__qualname__
 
 
-Close,		<cyfunction MailBox.Close at 0x0EC24710>
+Close,		<cyfunction MailBox.Close at 0x0BD4DCE8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__ClosePostAllDeleteQuestionDialog,		<cyfunction MailBox.__ClosePostAllDeleteQuestionDialog at 0x0EC24CE8>
+_MailBox__ClosePostAllDeleteQuestionDialog,		<cyfunction MailBox.__ClosePostAllDeleteQuestionDialog at 0x0BD4E2F0>
 	arg0: self
 
 submodule._MailBox__ClosePostAllDeleteQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__OpenPostAllDeleteQuestionDlg,		<cyfunction MailBox.__OpenPostAllDeleteQuestionDlg at 0x0EC24BE0>
+_MailBox__OpenPostAllDeleteQuestionDlg,		<cyfunction MailBox.__OpenPostAllDeleteQuestionDlg at 0x0BD4E1E8>
 	arg0: self
 
 submodule._MailBox__OpenPostAllDeleteQuestionDlg
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostGetItemsSuccessNoRefresh,		<cyfunction MailBox.__PostGetItemsSuccessNoRefresh at 0x0EC25558>
+_MailBox__PostGetItemsSuccessNoRefresh,		<cyfunction MailBox.__PostGetItemsSuccessNoRefresh at 0x0BD4EB30>
 	arg0: self
 	arg1: data_index
 
 submodule._MailBox__PostGetItemsSuccessNoRefresh
 Skipped: unbound method cython_function_or_method object must be called with MailBox instance as first argument (got nothing instead)
-_MailBox__PostGetItemsFail,		<cyfunction MailBox.__PostGetItemsFail at 0x0EC252F0>
+_MailBox__PostGetItemsFail,		<cyfunction MailBox.__PostGetItemsFail at 0x0BD4E8C8>
 	arg0: self
 	arg1: result
 
@@ -323,23 +323,23 @@ Skipped: unbound method cython_function_or_method object must be called with Mai
 
 
 class PostWrite:
-_PostWrite__ClickFriendName,		<cyfunction PostWrite.__ClickFriendName at 0x0EC23C90>
+_PostWrite__ClickFriendName,		<cyfunction PostWrite.__ClickFriendName at 0x0BD4D298>
 	arg0: self
 	arg1: i
 
 submodule._PostWrite__ClickFriendName
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__SendPostWrite,		<cyfunction PostWrite.__SendPostWrite at 0x0EC23EA0>
+_PostWrite__SendPostWrite,		<cyfunction PostWrite.__SendPostWrite at 0x0BD4D4A8>
 	arg0: self
 
 submodule._PostWrite__SendPostWrite
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction PostWrite.SelectItemSlot at 0x0EC23F50>
+SelectItemSlot,		<cyfunction PostWrite.SelectItemSlot at 0x0BD4D558>
 	arg0: self
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-OverInItem,		<cyfunction PostWrite.OverInItem at 0x0EC240E0>
+OverInItem,		<cyfunction PostWrite.OverInItem at 0x0BD4D6B8>
 	arg0: self
 
 submodule.OverInItem
@@ -349,28 +349,28 @@ __module__,		uiMailBox
 submodule.__module__
 
 
-_PostWrite__ClickWonYangWindow,		<cyfunction PostWrite.__ClickWonYangWindow at 0x0EC23B30>
+_PostWrite__ClickWonYangWindow,		<cyfunction PostWrite.__ClickWonYangWindow at 0x0BD4D138>
 	arg0: self
 
 submodule._PostWrite__ClickWonYangWindow
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__FriendNameOverOut,		<cyfunction PostWrite.__FriendNameOverOut at 0x0EC23C38>
+_PostWrite__FriendNameOverOut,		<cyfunction PostWrite.__FriendNameOverOut at 0x0BD4D240>
 	arg0: self
 	arg1: index
 
 submodule._PostWrite__FriendNameOverOut
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__ClosePostWriteQuestionDialog,		<cyfunction PostWrite.__ClosePostWriteQuestionDialog at 0x0EC23AD8>
+_PostWrite__ClosePostWriteQuestionDialog,		<cyfunction PostWrite.__ClosePostWriteQuestionDialog at 0x0BD4D0E0>
 	arg0: self
 
 submodule._PostWrite__ClosePostWriteQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__BindEvent,		<cyfunction PostWrite.__BindEvent at 0x0EC23818>
+_PostWrite__BindEvent,		<cyfunction PostWrite.__BindEvent at 0x0BD4CDF0>
 	arg0: self
 
 submodule._PostWrite__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-__init__,		<cyfunction PostWrite.__init__ at 0x0EC23500>
+__init__,		<cyfunction PostWrite.__init__ at 0x0BD4CAD8>
 	arg0: self
 
 submodule.__init__
@@ -380,110 +380,110 @@ __qualname__,		PostWrite
 submodule.__qualname__
 
 
-_PostWrite__FriendSelectWindow,		<cyfunction PostWrite.__FriendSelectWindow at 0x0EC23E48>
+_PostWrite__FriendSelectWindow,		<cyfunction PostWrite.__FriendSelectWindow at 0x0BD4D450>
 	arg0: self
 	arg1: show
 
 submodule._PostWrite__FriendSelectWindow
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-SendMoneyAccept,		<cyfunction PostWrite.SendMoneyAccept at 0x0EC23B88>
+SendMoneyAccept,		<cyfunction PostWrite.SendMoneyAccept at 0x0BD4D190>
 	arg0: self
 	arg1: money
 	arg2: cheque
 
 submodule.SendMoneyAccept
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction PostWrite.OverOutItem at 0x0EC24138>
+OverOutItem,		<cyfunction PostWrite.OverOutItem at 0x0BD4D710>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__DSWindowUpdate,		<cyfunction PostWrite.__DSWindowUpdate at 0x0EC244A8>
+_PostWrite__DSWindowUpdate,		<cyfunction PostWrite.__DSWindowUpdate at 0x0BD4DA80>
 	arg0: self
 
 submodule._PostWrite__DSWindowUpdate
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-OnTop,		<cyfunction PostWrite.OnTop at 0x0EC242F0>
+OnTop,		<cyfunction PostWrite.OnTop at 0x0BD4D8C8>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__ClickConfirmButton,		<cyfunction PostWrite.__ClickConfirmButton at 0x0EC23D98>
+_PostWrite__ClickConfirmButton,		<cyfunction PostWrite.__ClickConfirmButton at 0x0BD4D3A0>
 	arg0: self
 
 submodule._PostWrite__ClickConfirmButton
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-PostWriteResult,		<cyfunction PostWrite.PostWriteResult at 0x0EC245B0>
+PostWriteResult,		<cyfunction PostWrite.PostWriteResult at 0x0BD4DB88>
 	arg0: self
 	arg1: result
 
 submodule.PostWriteResult
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__OpenPostWriteQuestionDialog,		<cyfunction PostWrite.__OpenPostWriteQuestionDialog at 0x0EC23A80>
+_PostWrite__OpenPostWriteQuestionDialog,		<cyfunction PostWrite.__OpenPostWriteQuestionDialog at 0x0BD4D088>
 	arg0: self
 
 submodule._PostWrite__OpenPostWriteQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-PostWriteConfirmResult,		<cyfunction PostWrite.PostWriteConfirmResult at 0x0EC24558>
+PostWriteConfirmResult,		<cyfunction PostWrite.PostWriteConfirmResult at 0x0BD4DB30>
 	arg0: self
 	arg1: result
 
 submodule.PostWriteConfirmResult
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-SetDSWindow,		<cyfunction PostWrite.SetDSWindow at 0x0EC241E8>
+SetDSWindow,		<cyfunction PostWrite.SetDSWindow at 0x0BD4D7C0>
 	arg0: self
 	arg1: ds_window
 
 submodule.SetDSWindow
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-SetOnTopWindowNone,		<cyfunction PostWrite.SetOnTopWindowNone at 0x0EC23710>
+SetOnTopWindowNone,		<cyfunction PostWrite.SetOnTopWindowNone at 0x0BD4CCE8>
 	arg0: self
 
 submodule.SetOnTopWindowNone
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-SelectEmptySlot,		<cyfunction PostWrite.SelectEmptySlot at 0x0EC23EF8>
+SelectEmptySlot,		<cyfunction PostWrite.SelectEmptySlot at 0x0BD4D500>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__ClearSlotItem,		<cyfunction PostWrite.__ClearSlotItem at 0x0EC24088>
+_PostWrite__ClearSlotItem,		<cyfunction PostWrite.__ClearSlotItem at 0x0BD4D660>
 	arg0: self
 
 submodule._PostWrite__ClearSlotItem
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-__del__,		<cyfunction PostWrite.__del__ at 0x0EC23558>
+__del__,		<cyfunction PostWrite.__del__ at 0x0BD4CB30>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-Clear,		<cyfunction PostWrite.Clear at 0x0EC236B8>
+Clear,		<cyfunction PostWrite.Clear at 0x0BD4CC90>
 	arg0: self
 
 submodule.Clear
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__ClickFriendSelectButton,		<cyfunction PostWrite.__ClickFriendSelectButton at 0x0EC23DF0>
+_PostWrite__ClickFriendSelectButton,		<cyfunction PostWrite.__ClickFriendSelectButton at 0x0BD4D3F8>
 	arg0: self
 
 submodule._PostWrite__ClickFriendSelectButton
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-OnScroll,		<cyfunction PostWrite.OnScroll at 0x0EC23CE8>
+OnScroll,		<cyfunction PostWrite.OnScroll at 0x0BD4D2F0>
 	arg0: self
 
 submodule.OnScroll
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__FriendNameOver,		<cyfunction PostWrite.__FriendNameOver at 0x0EC23BE0>
+_PostWrite__FriendNameOver,		<cyfunction PostWrite.__FriendNameOver at 0x0BD4D1E8>
 	arg0: self
 	arg1: index
 
 submodule._PostWrite__FriendNameOver
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__BindObject,		<cyfunction PostWrite.__BindObject at 0x0EC237C0>
+_PostWrite__BindObject,		<cyfunction PostWrite.__BindObject at 0x0BD4CD98>
 	arg0: self
 
 submodule._PostWrite__BindObject
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction PostWrite.UseItemSlot at 0x0EC23FA8>
+UseItemSlot,		<cyfunction PostWrite.UseItemSlot at 0x0BD4D5B0>
 	arg0: self
 
 submodule.UseItemSlot
@@ -493,33 +493,33 @@ __doc__,		None
 submodule.__doc__
 
 
-OnPressEscapeKey,		<cyfunction PostWrite.OnPressEscapeKey at 0x0EC23608>
+OnPressEscapeKey,		<cyfunction PostWrite.OnPressEscapeKey at 0x0BD4CBE0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__ClickRenderBox,		<cyfunction PostWrite.__ClickRenderBox at 0x0EC24030>
+_PostWrite__ClickRenderBox,		<cyfunction PostWrite.__ClickRenderBox at 0x0BD4D608>
 	arg0: self
 
 submodule._PostWrite__ClickRenderBox
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__NameModifyCheck,		<cyfunction PostWrite.__NameModifyCheck at 0x0EC243F8>
+_PostWrite__NameModifyCheck,		<cyfunction PostWrite.__NameModifyCheck at 0x0BD4D9D0>
 	arg0: self
 
 submodule._PostWrite__NameModifyCheck
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__MessageEditLineTabEvent,		<cyfunction PostWrite.__MessageEditLineTabEvent at 0x0EC23920>
+_PostWrite__MessageEditLineTabEvent,		<cyfunction PostWrite.__MessageEditLineTabEvent at 0x0BD4CEF8>
 	arg0: self
 
 submodule._PostWrite__MessageEditLineTabEvent
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-SetInven,		<cyfunction PostWrite.SetInven at 0x0EC24190>
+SetInven,		<cyfunction PostWrite.SetInven at 0x0BD4D768>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-CantPostItemSlot,		<cyfunction PostWrite.CantPostItemSlot at 0x0EC24348>
+CantPostItemSlot,		<cyfunction PostWrite.CantPostItemSlot at 0x0BD4D920>
 	arg0: self
 	arg1: slotIndex
 	arg2: slotWindow
@@ -527,74 +527,74 @@ CantPostItemSlot,		<cyfunction PostWrite.CantPostItemSlot at 0x0EC24348>
 
 submodule.CantPostItemSlot
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-BindInterface,		<cyfunction PostWrite.BindInterface at 0x0EC24240>
+BindInterface,		<cyfunction PostWrite.BindInterface at 0x0BD4D818>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__ToEditLineTabEvent,		<cyfunction PostWrite.__ToEditLineTabEvent at 0x0EC23870>
+_PostWrite__ToEditLineTabEvent,		<cyfunction PostWrite.__ToEditLineTabEvent at 0x0BD4CE48>
 	arg0: self
 
 submodule._PostWrite__ToEditLineTabEvent
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__InvenUpdate,		<cyfunction PostWrite.__InvenUpdate at 0x0EC24450>
+_PostWrite__InvenUpdate,		<cyfunction PostWrite.__InvenUpdate at 0x0BD4DA28>
 	arg0: self
 
 submodule._PostWrite__InvenUpdate
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction PostWrite.SetItemToolTip at 0x0EC24298>
+SetItemToolTip,		<cyfunction PostWrite.SetItemToolTip at 0x0BD4D870>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-Show,		<cyfunction PostWrite.Show at 0x0EC23660>
+Show,		<cyfunction PostWrite.Show at 0x0BD4CC38>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__RefreshFriendListText,		<cyfunction PostWrite.__RefreshFriendListText at 0x0EC23D40>
+_PostWrite__RefreshFriendListText,		<cyfunction PostWrite.__RefreshFriendListText at 0x0BD4D348>
 	arg0: self
 
 submodule._PostWrite__RefreshFriendListText
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__TitleEditLineTabEvent,		<cyfunction PostWrite.__TitleEditLineTabEvent at 0x0EC238C8>
+_PostWrite__TitleEditLineTabEvent,		<cyfunction PostWrite.__TitleEditLineTabEvent at 0x0BD4CEA0>
 	arg0: self
 
 submodule._PostWrite__TitleEditLineTabEvent
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__CreateSendMoneyDialog,		<cyfunction PostWrite.__CreateSendMoneyDialog at 0x0EC23A28>
+_PostWrite__CreateSendMoneyDialog,		<cyfunction PostWrite.__CreateSendMoneyDialog at 0x0BD4D030>
 	arg0: self
 
 submodule._PostWrite__CreateSendMoneyDialog
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction PostWrite.OnUpdate at 0x0EC243A0>
+OnUpdate,		<cyfunction PostWrite.OnUpdate at 0x0BD4D978>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__RefreshFriendNameButton,		<cyfunction PostWrite.__RefreshFriendNameButton at 0x0EC239D0>
+_PostWrite__RefreshFriendNameButton,		<cyfunction PostWrite.__RefreshFriendNameButton at 0x0BD4CFA8>
 	arg0: self
 
 submodule._PostWrite__RefreshFriendNameButton
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__RefreshMessageCount,		<cyfunction PostWrite.__RefreshMessageCount at 0x0EC24500>
+_PostWrite__RefreshMessageCount,		<cyfunction PostWrite.__RefreshMessageCount at 0x0BD4DAD8>
 	arg0: self
 
 submodule._PostWrite__RefreshMessageCount
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__CreateFriendNameButton,		<cyfunction PostWrite.__CreateFriendNameButton at 0x0EC23978>
+_PostWrite__CreateFriendNameButton,		<cyfunction PostWrite.__CreateFriendNameButton at 0x0BD4CF50>
 	arg0: self
 
 submodule._PostWrite__CreateFriendNameButton
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-Close,		<cyfunction PostWrite.Close at 0x0EC235B0>
+Close,		<cyfunction PostWrite.Close at 0x0BD4CB88>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PostWrite instance as first argument (got nothing instead)
-_PostWrite__LoadWindow,		<cyfunction PostWrite.__LoadWindow at 0x0EC23768>
+_PostWrite__LoadWindow,		<cyfunction PostWrite.__LoadWindow at 0x0BD4CD40>
 	arg0: self
 
 submodule._PostWrite__LoadWindow
@@ -607,114 +607,114 @@ __module__,		uiMailBox
 submodule.__module__
 
 
-_PostRead__BindEvent,		<cyfunction PostRead.__BindEvent at 0x0EC18D40>
+_PostRead__BindEvent,		<cyfunction PostRead.__BindEvent at 0x0BD4C348>
 	arg0: self
 
 submodule._PostRead__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__SendPostDelete,		<cyfunction PostRead.__SendPostDelete at 0x0EC18FA8>
+_PostRead__SendPostDelete,		<cyfunction PostRead.__SendPostDelete at 0x0BD4C5B0>
 	arg0: self
 
 submodule._PostRead__SendPostDelete
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-OverInItem,		<cyfunction PostRead.OverInItem at 0x0EC23190>
+OverInItem,		<cyfunction PostRead.OverInItem at 0x0BD4C768>
 	arg0: self
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-Clear,		<cyfunction PostRead.Clear at 0x0EC18DF0>
+Clear,		<cyfunction PostRead.Clear at 0x0BD4C3F8>
 	arg0: self
 
 submodule.Clear
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__ClickBlockButton,		<cyfunction PostRead.__ClickBlockButton at 0x0EC18E48>
+_PostRead__ClickBlockButton,		<cyfunction PostRead.__ClickBlockButton at 0x0BD4C450>
 	arg0: self
 
 submodule._PostRead__ClickBlockButton
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-__del__,		<cyfunction PostRead.__del__ at 0x0EC18B30>
+__del__,		<cyfunction PostRead.__del__ at 0x0BD4C138>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-SetYang,		<cyfunction PostRead.SetYang at 0x0EC233F8>
+SetYang,		<cyfunction PostRead.SetYang at 0x0BD4C9D0>
 	arg0: self
 	arg1: yang
 
 submodule.SetYang
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__BlockName,		<cyfunction PostRead.__BlockName at 0x0EC18EA0>
+_PostRead__BlockName,		<cyfunction PostRead.__BlockName at 0x0BD4C4A8>
 	arg0: self
 
 submodule._PostRead__BlockName
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PostRead.OnPressEscapeKey at 0x0EC18BE0>
+OnPressEscapeKey,		<cyfunction PostRead.OnPressEscapeKey at 0x0BD4C1E8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-SetMessage,		<cyfunction PostRead.SetMessage at 0x0EC233A0>
+SetMessage,		<cyfunction PostRead.SetMessage at 0x0BD4C978>
 	arg0: self
 	arg1: message
 
 submodule.SetMessage
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-SetCheque,		<cyfunction PostRead.SetCheque at 0x0EC23450>
+SetCheque,		<cyfunction PostRead.SetCheque at 0x0BD4CA28>
 	arg0: self
 	arg1: cheque
 
 submodule.SetCheque
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-__init__,		<cyfunction PostRead.__init__ at 0x0EC18AD8>
+__init__,		<cyfunction PostRead.__init__ at 0x0BD4C0E0>
 	arg0: self
 	arg1: close_call_back_func
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-SetDataIndex,		<cyfunction PostRead.SetDataIndex at 0x0EC23298>
+SetDataIndex,		<cyfunction PostRead.SetDataIndex at 0x0BD4C870>
 	arg0: self
 	arg1: data_index
 
 submodule.SetDataIndex
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__LoadWindow,		<cyfunction PostRead.__LoadWindow at 0x0EC18C90>
+_PostRead__LoadWindow,		<cyfunction PostRead.__LoadWindow at 0x0BD4C298>
 	arg0: self
 
 submodule._PostRead__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__CloseGetItemsQuestionDlg,		<cyfunction PostRead.__CloseGetItemsQuestionDlg at 0x0EC23138>
+_PostRead__CloseGetItemsQuestionDlg,		<cyfunction PostRead.__CloseGetItemsQuestionDlg at 0x0BD4C710>
 	arg0: self
 
 submodule._PostRead__CloseGetItemsQuestionDlg
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction PostRead.SetItemToolTip at 0x0EC18D98>
+SetItemToolTip,		<cyfunction PostRead.SetItemToolTip at 0x0BD4C3A0>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__ClickRecvButton,		<cyfunction PostRead.__ClickRecvButton at 0x0EC23088>
+_PostRead__ClickRecvButton,		<cyfunction PostRead.__ClickRecvButton at 0x0BD4C660>
 	arg0: self
 
 submodule._PostRead__ClickRecvButton
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__SendPostGetItems,		<cyfunction PostRead.__SendPostGetItems at 0x0EC230E0>
+_PostRead__SendPostGetItems,		<cyfunction PostRead.__SendPostGetItems at 0x0BD4C6B8>
 	arg0: self
 
 submodule._PostRead__SendPostGetItems
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-SetFromName,		<cyfunction PostRead.SetFromName at 0x0EC232F0>
+SetFromName,		<cyfunction PostRead.SetFromName at 0x0BD4C8C8>
 	arg0: self
 	arg1: from_name
 
 submodule.SetFromName
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-Show,		<cyfunction PostRead.Show at 0x0EC18C38>
+Show,		<cyfunction PostRead.Show at 0x0BD4C240>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-GetDataIndex,		<cyfunction PostRead.GetDataIndex at 0x0EC23240>
+GetDataIndex,		<cyfunction PostRead.GetDataIndex at 0x0BD4C818>
 	arg0: self
 
 submodule.GetDataIndex
@@ -729,44 +729,44 @@ __qualname__,		PostRead
 submodule.__qualname__
 
 
-_PostRead__ClickDeleteButton,		<cyfunction PostRead.__ClickDeleteButton at 0x0EC18F50>
+_PostRead__ClickDeleteButton,		<cyfunction PostRead.__ClickDeleteButton at 0x0BD4C558>
 	arg0: self
 
 submodule._PostRead__ClickDeleteButton
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-SetItem,		<cyfunction PostRead.SetItem at 0x0EC234A8>
+SetItem,		<cyfunction PostRead.SetItem at 0x0BD4CA80>
 	arg0: self
 	arg1: index
 
 submodule.SetItem
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction PostRead.OverOutItem at 0x0EC231E8>
+OverOutItem,		<cyfunction PostRead.OverOutItem at 0x0BD4C7C0>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-Close,		<cyfunction PostRead.Close at 0x0EC18B88>
+Close,		<cyfunction PostRead.Close at 0x0BD4C190>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__CloseBlockQuestionDlg,		<cyfunction PostRead.__CloseBlockQuestionDlg at 0x0EC18EF8>
+_PostRead__CloseBlockQuestionDlg,		<cyfunction PostRead.__CloseBlockQuestionDlg at 0x0BD4C500>
 	arg0: self
 
 submodule._PostRead__CloseBlockQuestionDlg
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__ClosePostDeleteQuestionDlg,		<cyfunction PostRead.__ClosePostDeleteQuestionDlg at 0x0EC23030>
+_PostRead__ClosePostDeleteQuestionDlg,		<cyfunction PostRead.__ClosePostDeleteQuestionDlg at 0x0BD4C608>
 	arg0: self
 
 submodule._PostRead__ClosePostDeleteQuestionDlg
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-SetTitle,		<cyfunction PostRead.SetTitle at 0x0EC23348>
+SetTitle,		<cyfunction PostRead.SetTitle at 0x0BD4C920>
 	arg0: self
 	arg1: title
 
 submodule.SetTitle
 Skipped: unbound method cython_function_or_method object must be called with PostRead instance as first argument (got nothing instead)
-_PostRead__BindObject,		<cyfunction PostRead.__BindObject at 0x0EC18CE8>
+_PostRead__BindObject,		<cyfunction PostRead.__BindObject at 0x0BD4C2F0>
 	arg0: self
 
 submodule._PostRead__BindObject

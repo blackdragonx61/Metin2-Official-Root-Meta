@@ -17,7 +17,7 @@ key: __doc__, val: None
 
 
 class AuraWindow:
-SelectEmptySlot,		<cyfunction AuraWindow.SelectEmptySlot at 0x0EB72A80>
+SelectEmptySlot,		<cyfunction AuraWindow.SelectEmptySlot at 0x0B867C90>
 	arg0: self
 	arg1: selectedSlotPos
 
@@ -28,24 +28,24 @@ __module__,		uiAura
 submodule.__module__
 
 
-SelectItemSlot,		<cyfunction AuraWindow.SelectItemSlot at 0x0EB72BE0>
+SelectItemSlot,		<cyfunction AuraWindow.SelectItemSlot at 0x0B867DF0>
 	arg0: self
 	arg1: selectedSlotPos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction AuraWindow.OverInItem at 0x0EB729D0>
+OverInItem,		<cyfunction AuraWindow.OverInItem at 0x0B867BE0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-ClearAuraLevelUpWindowToolTip,		<cyfunction AuraWindow.ClearAuraLevelUpWindowToolTip at 0x0EB72C38>
+ClearAuraLevelUpWindowToolTip,		<cyfunction AuraWindow.ClearAuraLevelUpWindowToolTip at 0x0B867E48>
 	arg0: self
 
 submodule.ClearAuraLevelUpWindowToolTip
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-OnAuraAcceptEvent,		<cyfunction AuraWindow.OnAuraAcceptEvent at 0x0EB72AD8>
+OnAuraAcceptEvent,		<cyfunction AuraWindow.OnAuraAcceptEvent at 0x0B867CE8>
 	arg0: self
 	arg1: attachedInvenType
 	arg2: attachedSlotPos
@@ -53,39 +53,39 @@ OnAuraAcceptEvent,		<cyfunction AuraWindow.OnAuraAcceptEvent at 0x0EB72AD8>
 
 submodule.OnAuraAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-_AuraWindow__ShowToolTip,		<cyfunction AuraWindow.__ShowToolTip at 0x0EB72978>
+_AuraWindow__ShowToolTip,		<cyfunction AuraWindow.__ShowToolTip at 0x0B867B88>
 	arg0: self
 	arg1: slotIndex
 
 submodule._AuraWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction AuraWindow.OnPressEscapeKey at 0x0EB72D98>
+OnPressEscapeKey,		<cyfunction AuraWindow.OnPressEscapeKey at 0x0B867FA8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction AuraWindow.__init__ at 0x0EB726B8>
+__init__,		<cyfunction AuraWindow.__init__ at 0x0B8678C8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction AuraWindow.OnUpdate at 0x0EB72D40>
+OnUpdate,		<cyfunction AuraWindow.OnUpdate at 0x0B867F50>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction AuraWindow.SetItemToolTip at 0x0EB72920>
+SetItemToolTip,		<cyfunction AuraWindow.SetItemToolTip at 0x0B867B30>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-OnAcceCloseEvent,		<cyfunction AuraWindow.OnAcceCloseEvent at 0x0EB72B30>
+OnAcceCloseEvent,		<cyfunction AuraWindow.OnAcceCloseEvent at 0x0B867D40>
 	arg0: self
 
 submodule.OnAcceCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-Accept,		<cyfunction AuraWindow.Accept at 0x0EB72818>
+Accept,		<cyfunction AuraWindow.Accept at 0x0B867A28>
 	arg0: self
 
 submodule.Accept
@@ -100,50 +100,50 @@ __qualname__,		AuraWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction AuraWindow.__del__ at 0x0EB72710>
+__del__,		<cyfunction AuraWindow.__del__ at 0x0B867920>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-UseItemSlot,		<cyfunction AuraWindow.UseItemSlot at 0x0EB72B88>
+UseItemSlot,		<cyfunction AuraWindow.UseItemSlot at 0x0B867D98>
 	arg0: self
 	arg1: slotIndex
 
 submodule.UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction AuraWindow.OverOutItem at 0x0EB72A28>
+OverOutItem,		<cyfunction AuraWindow.OverOutItem at 0x0B867C38>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-_AuraWindow__LoadWindow,		<cyfunction AuraWindow.__LoadWindow at 0x0EB727C0>
+_AuraWindow__LoadWindow,		<cyfunction AuraWindow.__LoadWindow at 0x0B8679D0>
 	arg0: self
 	arg1: type
 
 submodule._AuraWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-Initialize,		<cyfunction AuraWindow.Initialize at 0x0EB72768>
+Initialize,		<cyfunction AuraWindow.Initialize at 0x0B867978>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-Close,		<cyfunction AuraWindow.Close at 0x0EB728C8>
+Close,		<cyfunction AuraWindow.Close at 0x0B867AD8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-Open,		<cyfunction AuraWindow.Open at 0x0EB72870>
+Open,		<cyfunction AuraWindow.Open at 0x0B867A80>
 	arg0: self
 	arg1: type
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-RefreshAuraWindow,		<cyfunction AuraWindow.RefreshAuraWindow at 0x0EB72C90>
+RefreshAuraWindow,		<cyfunction AuraWindow.RefreshAuraWindow at 0x0B867EA0>
 	arg0: self
 
 submodule.RefreshAuraWindow
 Skipped: unbound method cython_function_or_method object must be called with AuraWindow instance as first argument (got nothing instead)
-_AuraWindow__OnClosePopupDialog,		<cyfunction AuraWindow.__OnClosePopupDialog at 0x0EB72CE8>
+_AuraWindow__OnClosePopupDialog,		<cyfunction AuraWindow.__OnClosePopupDialog at 0x0B867EF8>
 	arg0: self
 
 submodule._AuraWindow__OnClosePopupDialog

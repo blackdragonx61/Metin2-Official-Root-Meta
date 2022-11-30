@@ -8,7 +8,7 @@
  'cost': 0,
  'dialogHeight': 0,
  'dlgQuestion': None,
- 'hWnd': 736178608,
+ 'hWnd': 946440256,
  'isLoaded': False,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,

@@ -37,37 +37,37 @@ __module__,		uiGemShop
 submodule.__module__
 
 
-_GemShopWindow__ShowToolTip,		<cyfunction GemShopWindow.__ShowToolTip at 0x0EC13558>
+_GemShopWindow__ShowToolTip,		<cyfunction GemShopWindow.__ShowToolTip at 0x0BD3BAD8>
 	arg0: self
 	arg1: slotIndex
 
 submodule._GemShopWindow__ShowToolTip
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction GemShopWindow.OverInItem at 0x0EC135B0>
+OverInItem,		<cyfunction GemShopWindow.OverInItem at 0x0BD3BB30>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-GemShopSlotBuy,		<cyfunction GemShopWindow.GemShopSlotBuy at 0x0EC134A8>
+GemShopSlotBuy,		<cyfunction GemShopWindow.GemShopSlotBuy at 0x0BD3BA28>
 	arg0: self
 	arg1: slotindex
 	arg2: enable
 
 submodule.GemShopSlotBuy
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-SlotAddQuestion,		<cyfunction GemShopWindow.SlotAddQuestion at 0x0EC13660>
+SlotAddQuestion,		<cyfunction GemShopWindow.SlotAddQuestion at 0x0BD3BBE0>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SlotAddQuestion
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-RefreshItemSlot,		<cyfunction GemShopWindow.RefreshItemSlot at 0x0EC13870>
+RefreshItemSlot,		<cyfunction GemShopWindow.RefreshItemSlot at 0x0BD3BDF0>
 	arg0: self
 
 submodule.RefreshItemSlot
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-SlotAddQuestionCancle,		<cyfunction GemShopWindow.SlotAddQuestionCancle at 0x0EC13710>
+SlotAddQuestionCancle,		<cyfunction GemShopWindow.SlotAddQuestionCancle at 0x0BD3BC90>
 	arg0: self
 
 submodule.SlotAddQuestionCancle
@@ -77,7 +77,7 @@ GEM_SHOP_ADD_ITEM_VNUM,		39064
 submodule.GEM_SHOP_ADD_ITEM_VNUM
 
 
-UseItemSlot,		<cyfunction GemShopWindow.UseItemSlot at 0x0EC13768>
+UseItemSlot,		<cyfunction GemShopWindow.UseItemSlot at 0x0BD3BCE8>
 	arg0: self
 	arg1: slotIndex
 
@@ -88,49 +88,49 @@ GEM_SHOP_REFRESH_ITEM_VNUM,		39063
 submodule.GEM_SHOP_REFRESH_ITEM_VNUM
 
 
-OnPressEscapeKey,		<cyfunction GemShopWindow.OnPressEscapeKey at 0x0EC13348>
+OnPressEscapeKey,		<cyfunction GemShopWindow.OnPressEscapeKey at 0x0BD3B8C8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction GemShopWindow.Destroy at 0x0EC133A0>
+Destroy,		<cyfunction GemShopWindow.Destroy at 0x0BD3B920>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-RefreshGemShopWIndow,		<cyfunction GemShopWindow.RefreshGemShopWIndow at 0x0EC133F8>
+RefreshGemShopWIndow,		<cyfunction GemShopWindow.RefreshGemShopWIndow at 0x0BD3B978>
 	arg0: self
 
 submodule.RefreshGemShopWIndow
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction GemShopWindow.__init__ at 0x0EC13190>
+__init__,		<cyfunction GemShopWindow.__init__ at 0x0BD3B710>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-_GemShopWindow__LoadWindow,		<cyfunction GemShopWindow.__LoadWindow at 0x0EC13240>
+_GemShopWindow__LoadWindow,		<cyfunction GemShopWindow.__LoadWindow at 0x0BD3B7C0>
 	arg0: self
 
 submodule._GemShopWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction GemShopWindow.SetItemToolTip at 0x0EC13500>
+SetItemToolTip,		<cyfunction GemShopWindow.SetItemToolTip at 0x0BD3BA80>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-SendBuyAccept,		<cyfunction GemShopWindow.SendBuyAccept at 0x0EC137C0>
+SendBuyAccept,		<cyfunction GemShopWindow.SendBuyAccept at 0x0BD3BD40>
 	arg0: self
 	arg1: slotindex
 
 submodule.SendBuyAccept
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-OnCloseEvent,		<cyfunction GemShopWindow.OnCloseEvent at 0x0EC13818>
+OnCloseEvent,		<cyfunction GemShopWindow.OnCloseEvent at 0x0BD3BD98>
 	arg0: self
 
 submodule.OnCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction GemShopWindow.OnUpdate at 0x0EC13920>
+OnUpdate,		<cyfunction GemShopWindow.OnUpdate at 0x0BD3BEA0>
 	arg0: self
 
 submodule.OnUpdate
@@ -145,37 +145,37 @@ __qualname__,		GemShopWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction GemShopWindow.__del__ at 0x0EC131E8>
+__del__,		<cyfunction GemShopWindow.__del__ at 0x0BD3B768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction GemShopWindow.OverOutItem at 0x0EC13608>
+OverOutItem,		<cyfunction GemShopWindow.OverOutItem at 0x0BD3BB88>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-SlotAddQuestionAccept,		<cyfunction GemShopWindow.SlotAddQuestionAccept at 0x0EC136B8>
+SlotAddQuestionAccept,		<cyfunction GemShopWindow.SlotAddQuestionAccept at 0x0BD3BC38>
 	arg0: self
 
 submodule.SlotAddQuestionAccept
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-Close,		<cyfunction GemShopWindow.Close at 0x0EC132F0>
+Close,		<cyfunction GemShopWindow.Close at 0x0BD3B870>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-SendRequestRefreshAccept,		<cyfunction GemShopWindow.SendRequestRefreshAccept at 0x0EC138C8>
+SendRequestRefreshAccept,		<cyfunction GemShopWindow.SendRequestRefreshAccept at 0x0BD3BE48>
 	arg0: self
 
 submodule.SendRequestRefreshAccept
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-Open,		<cyfunction GemShopWindow.Open at 0x0EC13298>
+Open,		<cyfunction GemShopWindow.Open at 0x0BD3B818>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with GemShopWindow instance as first argument (got nothing instead)
-GemShopSlotAdd,		<cyfunction GemShopWindow.GemShopSlotAdd at 0x0EC13450>
+GemShopSlotAdd,		<cyfunction GemShopWindow.GemShopSlotAdd at 0x0BD3B9D0>
 	arg0: self
 	arg1: slotindex
 	arg2: enable
