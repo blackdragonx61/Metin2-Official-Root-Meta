@@ -136,6 +136,7 @@
                     {'name': 'BUTTON_MONSTER_CARD_WINDOW', 'type': 'int', 'value': 3},
                     {'name': 'BUTTON_PARTY_MATCH_WINDOW', 'type': 'int', 'value': 4},
                     {'name': 'BUTTON_PET_INFO', 'type': 'int', 'value': 1},
+                    {'name': 'BUTTON_SUNGMAHEE_GATE_ACHIEV_WINDOW', 'type': 'int', 'value': 7},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'uiTaskBar'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'ExpandedTaskBar'}]},

@@ -1,36 +1,36 @@
 key: _chr, val: <built-in function chr>
-key: splitext, val: <cyfunction splitext at 0x09985D98>
+key: splitext, val: <cyfunction splitext at 0x09554D98>
 key: app, val: <module 'app' (built-in)>
 key: dbg, val: <module 'dbg' (built-in)>
 key: __main__, val: <module '__main__' (built-in)>
-key: __IsCompiledFile__, val: <cyfunction __IsCompiledFile__ at 0x09985DF0>
-key: open, val: <cyfunction open at 0x09985C38>
+key: __IsCompiledFile__, val: <cyfunction __IsCompiledFile__ at 0x09554DF0>
+key: open, val: <cyfunction open at 0x09554C38>
 key: LogBoxFile, val: system.LogBoxFile
 key: pack_file_iterator, val: <class 'system.pack_file_iterator'>
-key: RunMainScript, val: <cyfunction RunMainScript at 0x0B087030>
-key: __LoadTextFile__, val: <cyfunction __LoadTextFile__ at 0x09985E48>
+key: RunMainScript, val: <cyfunction RunMainScript at 0x09D35030>
+key: __LoadTextFile__, val: <cyfunction __LoadTextFile__ at 0x09554E48>
 key: TraceFile, val: system.TraceFile
-key: execfile, val: <cyfunction execfile at 0x09985EF8>
+key: execfile, val: <cyfunction execfile at 0x09554EF8>
 key: __package__, val: None
 key: imp, val: <module 'imp' (built-in)>
 key: _ModuleType, val: <type 'module'>
 key: rootlib, val: <module 'rootlib' (built-in)>
-key: __LoadCompiledFile__, val: <cyfunction __LoadCompiledFile__ at 0x09985EA0>
+key: __LoadCompiledFile__, val: <cyfunction __LoadCompiledFile__ at 0x09554EA0>
 key: __doc__, val: None
 key: loginMark, val: -cs
 key: old_open, val: <built-in function open>
 key: __builtins__, val: <module '__builtin__' (built-in)>
-key: __hybrid_import, val: <cyfunction __hybrid_import at 0x09985D40>
+key: __hybrid_import, val: <cyfunction __hybrid_import at 0x09554D40>
 key: sys, val: <module 'sys' (built-in)>
 key: __builtin__, val: <module '__builtin__' (built-in)>
 key: __name__, val: system
 key: old_import, val: <built-in function __import__>
-key: ShowException, val: <cyfunction ShowException at 0x09985FA8>
-key: _process_result, val: <cyfunction _process_result at 0x09985C90>
+key: ShowException, val: <cyfunction ShowException at 0x09554FA8>
+key: _process_result, val: <cyfunction _process_result at 0x09554C90>
 key: debugInfo, val: <module 'debugInfo' (built-in)>
 key: pack_file, val: <class 'system.pack_file'>
-key: GetExceptionString, val: <cyfunction GetExceptionString at 0x09985F50>
-key: module_do, val: <cyfunction <lambda> at 0x09985CE8>
+key: GetExceptionString, val: <cyfunction GetExceptionString at 0x09554F50>
+key: module_do, val: <cyfunction <lambda> at 0x09554CE8>
 key: TraceErrorFile, val: system.TraceErrorFile
 key: marshal, val: <module 'marshal' (built-in)>
 key: pack, val: <module 'pack' (built-in)>
@@ -42,7 +42,7 @@ __module__,		system
 submodule.__module__
 
 
-next,		<cyfunction pack_file_iterator.next at 0x09985A28>
+next,		<cyfunction pack_file_iterator.next at 0x09554A28>
 	arg0: self
 
 submodule.next
@@ -67,7 +67,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction pack_file_iterator.__init__ at 0x099859D0>
+__init__,		<cyfunction pack_file_iterator.__init__ at 0x095549D0>
 	arg0: self
 	arg1: packfile
 
@@ -91,7 +91,7 @@ __module__,		system
 submodule.__module__
 
 
-read,		<cyfunction pack_file.read at 0x09985B30>
+read,		<cyfunction pack_file.read at 0x09554B30>
 	arg0: self
 	arg1: len
 	default: None
@@ -103,22 +103,22 @@ __weakref__,		<attribute '__weakref__' of 'pack_file' objects>
 submodule.__weakref__
 
 
-readline,		<cyfunction pack_file.readline at 0x09985B88>
+readline,		<cyfunction pack_file.readline at 0x09554B88>
 	arg0: self
 
 submodule.readline
 Skipped: unbound method cython_function_or_method object must be called with pack_file instance as first argument (got nothing instead)
-readlines,		<cyfunction pack_file.readlines at 0x09985BE0>
+readlines,		<cyfunction pack_file.readlines at 0x09554BE0>
 	arg0: self
 
 submodule.readlines
 Skipped: unbound method cython_function_or_method object must be called with pack_file instance as first argument (got nothing instead)
-__iter__,		<cyfunction pack_file.__iter__ at 0x09985AD8>
+__iter__,		<cyfunction pack_file.__iter__ at 0x09554AD8>
 	arg0: self
 
 submodule.__iter__
 Skipped: unbound method cython_function_or_method object must be called with pack_file instance as first argument (got nothing instead)
-__init__,		<cyfunction pack_file.__init__ at 0x09985A80>
+__init__,		<cyfunction pack_file.__init__ at 0x09554A80>
 	arg0: self
 	arg1: filename
 	arg2: mode

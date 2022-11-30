@@ -21,7 +21,7 @@ key: __builtins__, val: <module '__builtin__' (built-in)>
 key: __test__, val: {}
 key: __name__, val: uiSkillBookCombination
 key: SKILLBOOK_COMBINATION_TYPE_NONE, val: 0
-key: types, val: <module 'types' from 'C:\m2\.HU\lib\types.pyc'>
+key: types, val: <module 'types' from 'C:\m2\.DE\metin2\de-DE\lib\types.pyc'>
 key: FRAGMENT_COMBI_UI_OPEN, val: 4
 key: SkillBookCombinationWindow, val: <class 'uiSkillBookCombination.SkillBookCombinationWindow'>
 key: SKILLBOOK_SLOT_MAX, val: 10
@@ -31,7 +31,7 @@ key: SKILLBOOK_COMBINATION_TYPE_SKILLBOOK, val: 1
 
 
 class SkillBookCombinationWindow:
-SelectEmptySlot,		<cyfunction SkillBookCombinationWindow.SelectEmptySlot at 0x0B0CD450>
+SelectEmptySlot,		<cyfunction SkillBookCombinationWindow.SelectEmptySlot at 0x0A1EFDF0>
 	arg0: self
 	arg1: slotIndex
 
@@ -42,61 +42,61 @@ __module__,		uiSkillBookCombination
 submodule.__module__
 
 
-_SkillBookCombinationWindow__SendOpenPacket,		<cyfunction SkillBookCombinationWindow.__SendOpenPacket at 0x0B0CD298>
+_SkillBookCombinationWindow__SendOpenPacket,		<cyfunction SkillBookCombinationWindow.__SendOpenPacket at 0x0A1EFC38>
 	arg0: self
 
 submodule._SkillBookCombinationWindow__SendOpenPacket
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction SkillBookCombinationWindow.SelectItemSlot at 0x0B0CD4A8>
+SelectItemSlot,		<cyfunction SkillBookCombinationWindow.SelectItemSlot at 0x0A1EFE48>
 	arg0: self
 	arg1: slotIndex
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction SkillBookCombinationWindow.OverInItem at 0x0B0CD3A0>
+OverInItem,		<cyfunction SkillBookCombinationWindow.OverInItem at 0x0A1EFD40>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-_SkillBookCombinationWindow__LoadWindow,		<cyfunction SkillBookCombinationWindow.__LoadWindow at 0x0B0CD1E8>
+_SkillBookCombinationWindow__LoadWindow,		<cyfunction SkillBookCombinationWindow.__LoadWindow at 0x0A1EFB88>
 	arg0: self
 
 submodule._SkillBookCombinationWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction SkillBookCombinationWindow.OnPressEscapeKey at 0x0B0CD660>
+OnPressEscapeKey,		<cyfunction SkillBookCombinationWindow.OnPressEscapeKey at 0x0A1F6030>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-SetCanMouseEventSlot,		<cyfunction SkillBookCombinationWindow.SetCanMouseEventSlot at 0x0B0CD558>
+SetCanMouseEventSlot,		<cyfunction SkillBookCombinationWindow.SetCanMouseEventSlot at 0x0A1EFEF8>
 	arg0: self
 	arg1: idx
 
 submodule.SetCanMouseEventSlot
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-SetInven,		<cyfunction SkillBookCombinationWindow.SetInven at 0x0B0CD608>
+SetInven,		<cyfunction SkillBookCombinationWindow.SetInven at 0x0A1EFFA8>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction SkillBookCombinationWindow.__init__ at 0x0B0CD088>
+__init__,		<cyfunction SkillBookCombinationWindow.__init__ at 0x0A1EFA28>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-_SkillBookCombinationWindow__SetLoca,		<cyfunction SkillBookCombinationWindow.__SetLoca at 0x0B0CD240>
+_SkillBookCombinationWindow__SetLoca,		<cyfunction SkillBookCombinationWindow.__SetLoca at 0x0A1EFBE0>
 	arg0: self
 
 submodule._SkillBookCombinationWindow__SetLoca
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction SkillBookCombinationWindow.OnUpdate at 0x0B0CD6B8>
+OnUpdate,		<cyfunction SkillBookCombinationWindow.OnUpdate at 0x0A1F6088>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-_SkillBookCombinationWindow__SendCombinationPacket,		<cyfunction SkillBookCombinationWindow.__SendCombinationPacket at 0x0B0CD348>
+_SkillBookCombinationWindow__SendCombinationPacket,		<cyfunction SkillBookCombinationWindow.__SendCombinationPacket at 0x0A1EFCE8>
 	arg0: self
 
 submodule._SkillBookCombinationWindow__SendCombinationPacket
@@ -111,49 +111,49 @@ __qualname__,		SkillBookCombinationWindow
 submodule.__qualname__
 
 
-__del__,		<cyfunction SkillBookCombinationWindow.__del__ at 0x0B0CD0E0>
+__del__,		<cyfunction SkillBookCombinationWindow.__del__ at 0x0A1EFA80>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction SkillBookCombinationWindow.OverOutItem at 0x0B0CD3F8>
+OverOutItem,		<cyfunction SkillBookCombinationWindow.OverOutItem at 0x0A1EFD98>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-_SkillBookCombinationWindow__CheckCantMouseEvent,		<cyfunction SkillBookCombinationWindow.__CheckCantMouseEvent at 0x0B0CD768>
+_SkillBookCombinationWindow__CheckCantMouseEvent,		<cyfunction SkillBookCombinationWindow.__CheckCantMouseEvent at 0x0A1F6138>
 	arg0: self
 
 submodule._SkillBookCombinationWindow__CheckCantMouseEvent
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-_SkillBookCombinationWindow__SendClosePacket,		<cyfunction SkillBookCombinationWindow.__SendClosePacket at 0x0B0CD2F0>
+_SkillBookCombinationWindow__SendClosePacket,		<cyfunction SkillBookCombinationWindow.__SendClosePacket at 0x0A1EFC90>
 	arg0: self
 
 submodule._SkillBookCombinationWindow__SendClosePacket
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-Close,		<cyfunction SkillBookCombinationWindow.Close at 0x0B0CD138>
+Close,		<cyfunction SkillBookCombinationWindow.Close at 0x0A1EFAD8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-ClearSlot,		<cyfunction SkillBookCombinationWindow.ClearSlot at 0x0B0CD500>
+ClearSlot,		<cyfunction SkillBookCombinationWindow.ClearSlot at 0x0A1EFEA0>
 	arg0: self
 	arg1: idx
 
 submodule.ClearSlot
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-Open,		<cyfunction SkillBookCombinationWindow.Open at 0x0B0CD190>
+Open,		<cyfunction SkillBookCombinationWindow.Open at 0x0A1EFB30>
 	arg0: self
 	arg1: type
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-ClickAcceptButton,		<cyfunction SkillBookCombinationWindow.ClickAcceptButton at 0x0B0CD5B0>
+ClickAcceptButton,		<cyfunction SkillBookCombinationWindow.ClickAcceptButton at 0x0A1EFF50>
 	arg0: self
 
 submodule.ClickAcceptButton
 Skipped: unbound method cython_function_or_method object must be called with SkillBookCombinationWindow instance as first argument (got nothing instead)
-_SkillBookCombinationWindow__RangeCheck,		<cyfunction SkillBookCombinationWindow.__RangeCheck at 0x0B0CD710>
+_SkillBookCombinationWindow__RangeCheck,		<cyfunction SkillBookCombinationWindow.__RangeCheck at 0x0A1F60E0>
 	arg0: self
 
 submodule._SkillBookCombinationWindow__RangeCheck

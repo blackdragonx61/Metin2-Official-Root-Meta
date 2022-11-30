@@ -218,6 +218,7 @@
                      {'args': ['self', 'curValue', 'limitValue'], 'defaults': [], 'name': 'GetLimitTextLineColor'},
                      {'args': ['self'], 'defaults': [], 'name': 'HideToolTip'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnUpdate'},
+                     {'args': ['self'], 'defaults': [], 'name': 'OptimizeTooltipWindowSize'},
                      {'args': ['self'], 'defaults': [], 'name': 'ResizeToolTip'},
                      {'args': ['self', 'fontName'], 'defaults': [], 'name': 'SetDefaultFontName'},
                      {'args': ['self', 'flag'], 'defaults': [], 'name': 'SetFollow'},

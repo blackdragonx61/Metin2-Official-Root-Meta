@@ -19,7 +19,7 @@ key: __name__, val: uiAuto
 key: guild, val: <module 'guild' (built-in)>
 key: item, val: <module 'item' (built-in)>
 key: ui, val: <module 'ui' (built-in)>
-key: os, val: <module 'os' from 'C:\m2\.HU\lib\os.pyc'>
+key: os, val: <module 'os' from 'C:\m2\.DE\metin2\de-DE\lib\os.pyc'>
 
 
 class AutoWindow:
@@ -28,12 +28,12 @@ __module__,		uiAuto
 submodule.__module__
 
 
-_AutoWindow__AutoSave,		<cyfunction AutoWindow.__AutoSave at 0x1AA43B88>
+_AutoWindow__AutoSave,		<cyfunction AutoWindow.__AutoSave at 0x171198C8>
 	arg0: self
 
 submodule._AutoWindow__AutoSave
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-OnDeactivateSkill,		<cyfunction AutoWindow.OnDeactivateSkill at 0x1AA43F50>
+OnDeactivateSkill,		<cyfunction AutoWindow.OnDeactivateSkill at 0x17119C90>
 	arg0: self
 	arg1: slot_index
 
@@ -69,7 +69,7 @@ _AutoWindow__is_read,		<member '_AutoWindow__is_read' of 'AutoWindow' objects>
 submodule._AutoWindow__is_read
 
 
-LoadAutoWindow,		<cyfunction AutoWindow.LoadAutoWindow at 0x1AA43C90>
+LoadAutoWindow,		<cyfunction AutoWindow.LoadAutoWindow at 0x171199D0>
 	arg0: self
 
 submodule.LoadAutoWindow
@@ -89,7 +89,7 @@ AUTO_COOLTIME_AE_INTERVER_X,		38
 submodule.AUTO_COOLTIME_AE_INTERVER_X
 
 
-RefreshSkillCoolTime,		<cyfunction AutoWindow.RefreshSkillCoolTime at 0x1AA4A240>
+RefreshSkillCoolTime,		<cyfunction AutoWindow.RefreshSkillCoolTime at 0x17119F50>
 	arg0: self
 
 submodule.RefreshSkillCoolTime
@@ -104,7 +104,7 @@ _AutoWindow__auto_onoff_button_list,		<member '_AutoWindow__auto_onoff_button_li
 submodule._AutoWindow__auto_onoff_button_list
 
 
-_AutoWindow__OnClickAutoOnOffButton,		<cyfunction AutoWindow.__OnClickAutoOnOffButton at 0x1AA43BE0>
+_AutoWindow__OnClickAutoOnOffButton,		<cyfunction AutoWindow.__OnClickAutoOnOffButton at 0x17119920>
 	arg0: self
 	arg1: type
 	arg2: number
@@ -113,12 +113,12 @@ _AutoWindow__OnClickAutoOnOffButton,		<cyfunction AutoWindow.__OnClickAutoOnOffB
 
 submodule._AutoWindow__OnClickAutoOnOffButton
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-_AutoWindow__AutoAllClear,		<cyfunction AutoWindow.__AutoAllClear at 0x1AA43A80>
+_AutoWindow__AutoAllClear,		<cyfunction AutoWindow.__AutoAllClear at 0x171197C0>
 	arg0: self
 
 submodule._AutoWindow__AutoAllClear
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction AutoWindow.Destroy at 0x1AA43EA0>
+Destroy,		<cyfunction AutoWindow.Destroy at 0x17119BE0>
 	arg0: self
 
 submodule.Destroy
@@ -128,13 +128,13 @@ AUTO_COOLTIME_AE_SLOT_INTERVER_Y,		29
 submodule.AUTO_COOLTIME_AE_SLOT_INTERVER_Y
 
 
-_AutoWindow__CheckCoolTimeText,		<cyfunction AutoWindow.__CheckCoolTimeText at 0x1AA43B30>
+_AutoWindow__CheckCoolTimeText,		<cyfunction AutoWindow.__CheckCoolTimeText at 0x17119870>
 	arg0: self
 	arg1: cool_time
 
 submodule._AutoWindow__CheckCoolTimeText
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction AutoWindow.__init__ at 0x1AA43870>
+__init__,		<cyfunction AutoWindow.__init__ at 0x171195B0>
 	arg0: self
 
 submodule.__init__
@@ -159,7 +159,7 @@ _AutoWindow__tooltip_skill,		<member '_AutoWindow__tooltip_skill' of 'AutoWindow
 submodule._AutoWindow__tooltip_skill
 
 
-SetAutoCooltime,		<cyfunction AutoWindow.SetAutoCooltime at 0x1AA4A0E0>
+SetAutoCooltime,		<cyfunction AutoWindow.SetAutoCooltime at 0x17119DF0>
 	arg0: self
 	arg1: slot_index
 	arg2: cool_time
@@ -171,12 +171,12 @@ _AutoWindow__auto_start_is_onoff,		<member '_AutoWindow__auto_start_is_onoff' of
 submodule._AutoWindow__auto_start_is_onoff
 
 
-_AutoWindow__AutoPotionClear,		<cyfunction AutoWindow.__AutoPotionClear at 0x1AA43A28>
+_AutoWindow__AutoPotionClear,		<cyfunction AutoWindow.__AutoPotionClear at 0x17119768>
 	arg0: self
 
 submodule._AutoWindow__AutoPotionClear
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-_AutoWindow__IsNumberic,		<cyfunction AutoWindow.__IsNumberic at 0x1AA43AD8>
+_AutoWindow__IsNumberic,		<cyfunction AutoWindow.__IsNumberic at 0x17119818>
 	arg0: self
 	arg1: text
 
@@ -212,12 +212,12 @@ AUTO_TOOLTIP_CLEAR_WIDTH,		66
 submodule.AUTO_TOOLTIP_CLEAR_WIDTH
 
 
-RefreshAutoPotionSlot,		<cyfunction AutoWindow.RefreshAutoPotionSlot at 0x1AA4A190>
+RefreshAutoPotionSlot,		<cyfunction AutoWindow.RefreshAutoPotionSlot at 0x17119EA0>
 	arg0: self
 
 submodule.RefreshAutoPotionSlot
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-_AutoWindow__OverActiveSkillSlot,		<cyfunction AutoWindow.__OverActiveSkillSlot at 0x1AA4A3A0>
+_AutoWindow__OverActiveSkillSlot,		<cyfunction AutoWindow.__OverActiveSkillSlot at 0x171220E0>
 	arg0: self
 	arg1: slot_index
 
@@ -253,7 +253,7 @@ _AutoWindow__auto_slot,		<member '_AutoWindow__auto_slot' of 'AutoWindow' object
 submodule._AutoWindow__auto_slot
 
 
-OnGameOver,		<cyfunction AutoWindow.OnGameOver at 0x1AA4A4A8>
+OnGameOver,		<cyfunction AutoWindow.OnGameOver at 0x171221E8>
 	arg0: self
 
 submodule.OnGameOver
@@ -263,17 +263,17 @@ _AutoWindow__auto_tooltip_clear,		<member '_AutoWindow__auto_tooltip_clear' of '
 submodule._AutoWindow__auto_tooltip_clear
 
 
-OnUseSkill,		<cyfunction AutoWindow.OnUseSkill at 0x1AA43FA8>
+OnUseSkill,		<cyfunction AutoWindow.OnUseSkill at 0x17119CE8>
 	arg0: self
 
 submodule.OnUseSkill
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction AutoWindow.__del__ at 0x1AA438C8>
+__del__,		<cyfunction AutoWindow.__del__ at 0x17119608>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-AutoOnOff,		<cyfunction AutoWindow.AutoOnOff at 0x1AA43C38>
+AutoOnOff,		<cyfunction AutoWindow.AutoOnOff at 0x17119978>
 	arg0: self
 	arg1: is_on_off
 	arg2: type
@@ -290,12 +290,12 @@ AUTO_OFF_START_NUMBER,		1
 submodule.AUTO_OFF_START_NUMBER
 
 
-_AutoWindow__EditLineKillFocus,		<cyfunction AutoWindow.__EditLineKillFocus at 0x1AA43E48>
+_AutoWindow__EditLineKillFocus,		<cyfunction AutoWindow.__EditLineKillFocus at 0x17119B88>
 	arg0: self
 
 submodule._AutoWindow__EditLineKillFocus
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-_AutoWindow__CreateGameTypeToolTip,		<cyfunction AutoWindow.__CreateGameTypeToolTip at 0x1AA43978>
+_AutoWindow__CreateGameTypeToolTip,		<cyfunction AutoWindow.__CreateGameTypeToolTip at 0x171196B8>
 	arg0: self
 	arg1: title
 	arg2: desc_list
@@ -312,7 +312,7 @@ _AutoWindow__auto_tooltip_button,		<member '_AutoWindow__auto_tooltip_button' of
 submodule._AutoWindow__auto_tooltip_button
 
 
-GetAutoStartonoff,		<cyfunction AutoWindow.GetAutoStartonoff at 0x1AA4A138>
+GetAutoStartonoff,		<cyfunction AutoWindow.GetAutoStartonoff at 0x17119E48>
 	arg0: self
 
 submodule.GetAutoStartonoff
@@ -322,12 +322,12 @@ _AutoWindow__auto_system_tooltip_list,		<member '_AutoWindow__auto_system_toolti
 submodule._AutoWindow__auto_system_tooltip_list
 
 
-OnPressEscapeKey,		<cyfunction AutoWindow.OnPressEscapeKey at 0x1AA4A450>
+OnPressEscapeKey,		<cyfunction AutoWindow.OnPressEscapeKey at 0x17122190>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-RefreshAutoSkillSlot,		<cyfunction AutoWindow.RefreshAutoSkillSlot at 0x1AA4A1E8>
+RefreshAutoSkillSlot,		<cyfunction AutoWindow.RefreshAutoSkillSlot at 0x17119EF8>
 	arg0: self
 
 submodule.RefreshAutoSkillSlot
@@ -337,7 +337,7 @@ _AutoWindow__time_edit_list,		<member '_AutoWindow__time_edit_list' of 'AutoWind
 submodule._AutoWindow__time_edit_list
 
 
-_AutoWindow__LoadWindow,		<cyfunction AutoWindow.__LoadWindow at 0x1AA43920>
+_AutoWindow__LoadWindow,		<cyfunction AutoWindow.__LoadWindow at 0x17119660>
 	arg0: self
 
 submodule._AutoWindow__LoadWindow
@@ -362,34 +362,34 @@ _AutoWindow__auto_tooltip,		<member '_AutoWindow__auto_tooltip' of 'AutoWindow' 
 submodule._AutoWindow__auto_tooltip
 
 
-_AutoWindow__SaveAutoInfo,		<cyfunction AutoWindow.__SaveAutoInfo at 0x1AA43D98>
+_AutoWindow__SaveAutoInfo,		<cyfunction AutoWindow.__SaveAutoInfo at 0x17119AD8>
 	arg0: self
 
 submodule._AutoWindow__SaveAutoInfo
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction AutoWindow.SetItemToolTip at 0x1AA4A088>
+SetItemToolTip,		<cyfunction AutoWindow.SetItemToolTip at 0x17119D98>
 	arg0: self
 	arg1: tooltip_item
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-SetSkillToolTip,		<cyfunction AutoWindow.SetSkillToolTip at 0x1AA4A030>
+SetSkillToolTip,		<cyfunction AutoWindow.SetSkillToolTip at 0x17119D40>
 	arg0: self
 	arg1: tooltip_skill
 
 submodule.SetSkillToolTip
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-OnActivateSkill,		<cyfunction AutoWindow.OnActivateSkill at 0x1AA43EF8>
+OnActivateSkill,		<cyfunction AutoWindow.OnActivateSkill at 0x17119C38>
 	arg0: self
 
 submodule.OnActivateSkill
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-Show,		<cyfunction AutoWindow.Show at 0x1AA43CE8>
+Show,		<cyfunction AutoWindow.Show at 0x17119A28>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-_AutoWindow__ReadAutoInfo,		<cyfunction AutoWindow.__ReadAutoInfo at 0x1AA43D40>
+_AutoWindow__ReadAutoInfo,		<cyfunction AutoWindow.__ReadAutoInfo at 0x17119A80>
 	arg0: self
 
 submodule._AutoWindow__ReadAutoInfo
@@ -399,7 +399,7 @@ AUTO_GAUGE_BAR_WIDTH,		175
 submodule.AUTO_GAUGE_BAR_WIDTH
 
 
-_AutoWindow__SelectActiveSkillSlot,		<cyfunction AutoWindow.__SelectActiveSkillSlot at 0x1AA4A348>
+_AutoWindow__SelectActiveSkillSlot,		<cyfunction AutoWindow.__SelectActiveSkillSlot at 0x17122088>
 	arg0: self
 	arg1: slot_index
 
@@ -415,12 +415,12 @@ AUTO_ONOFF_RANGE_NUMBER,		5
 submodule.AUTO_ONOFF_RANGE_NUMBER
 
 
-_AutoWindow__AutoSkillClear,		<cyfunction AutoWindow.__AutoSkillClear at 0x1AA439D0>
+_AutoWindow__AutoSkillClear,		<cyfunction AutoWindow.__AutoSkillClear at 0x17119710>
 	arg0: self
 
 submodule._AutoWindow__AutoSkillClear
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-Close,		<cyfunction AutoWindow.Close at 0x1AA43DF0>
+Close,		<cyfunction AutoWindow.Close at 0x17119B30>
 	arg0: self
 
 submodule.Close
@@ -430,19 +430,19 @@ AUTO_COOLTIME_MAX,		24
 submodule.AUTO_COOLTIME_MAX
 
 
-_AutoWindow__SelectActiveSkillEmptySlot,		<cyfunction AutoWindow.__SelectActiveSkillEmptySlot at 0x1AA4A2F0>
+_AutoWindow__SelectActiveSkillEmptySlot,		<cyfunction AutoWindow.__SelectActiveSkillEmptySlot at 0x17122030>
 	arg0: self
 	arg1: slot_index
 
 submodule._AutoWindow__SelectActiveSkillEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-_AutoWindow__AddAutoSlot,		<cyfunction AutoWindow.__AddAutoSlot at 0x1AA4A298>
+_AutoWindow__AddAutoSlot,		<cyfunction AutoWindow.__AddAutoSlot at 0x17119FA8>
 	arg0: self
 	arg1: slot_index
 
 submodule._AutoWindow__AddAutoSlot
 Skipped: unbound method cython_function_or_method object must be called with AutoWindow instance as first argument (got nothing instead)
-_AutoWindow__OverSkillSlotOutItem,		<cyfunction AutoWindow.__OverSkillSlotOutItem at 0x1AA4A3F8>
+_AutoWindow__OverSkillSlotOutItem,		<cyfunction AutoWindow.__OverSkillSlotOutItem at 0x17122138>
 	arg0: self
 
 submodule._AutoWindow__OverSkillSlotOutItem

@@ -1,5 +1,6 @@
 {'class': [{'class': [],
-            'func': [{'args': ['self'], 'defaults': [], 'name': 'Close'},
+            'func': [{'args': ['self', 'interface'], 'defaults': [], 'name': 'BindInterface'},
+                     {'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
                      {'args': ['self'], 'defaults': [], 'name': 'GetSystemOption'},
                      {'args': ['self'], 'defaults': [], 'name': 'HideAllSystemOptioin'},

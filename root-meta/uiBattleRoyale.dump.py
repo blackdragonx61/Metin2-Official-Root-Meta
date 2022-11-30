@@ -22,7 +22,7 @@ key: __doc__, val: None
 
 
 class BattleRoyaleDead:
-ReturnToTown,		<cyfunction BattleRoyaleDead.ReturnToTown at 0x0B5A5870>
+ReturnToTown,		<cyfunction BattleRoyaleDead.ReturnToTown at 0x17108240>
 	arg0: self
 
 submodule.ReturnToTown
@@ -32,14 +32,14 @@ __module__,		uiBattleRoyale
 submodule.__module__
 
 
-SetInfo,		<cyfunction BattleRoyaleDead.SetInfo at 0x0B5A5818>
+SetInfo,		<cyfunction BattleRoyaleDead.SetInfo at 0x171081E8>
 	arg0: self
 	arg1: who_killed
 	arg2: personal_rank
 
 submodule.SetInfo
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleDead instance as first argument (got nothing instead)
-__del__,		<cyfunction BattleRoyaleDead.__del__ at 0x0B5A5710>
+__del__,		<cyfunction BattleRoyaleDead.__del__ at 0x171080E0>
 	arg0: self
 
 submodule.__del__
@@ -49,22 +49,22 @@ __qualname__,		BattleRoyaleDead
 submodule.__qualname__
 
 
-Initialize,		<cyfunction BattleRoyaleDead.Initialize at 0x0B5A5768>
+Initialize,		<cyfunction BattleRoyaleDead.Initialize at 0x17108138>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleDead instance as first argument (got nothing instead)
-Close,		<cyfunction BattleRoyaleDead.Close at 0x0B5A5920>
+Close,		<cyfunction BattleRoyaleDead.Close at 0x171082F0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleDead instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction BattleRoyaleDead.LoadWindow at 0x0B5A57C0>
+LoadWindow,		<cyfunction BattleRoyaleDead.LoadWindow at 0x17108190>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleDead instance as first argument (got nothing instead)
-Open,		<cyfunction BattleRoyaleDead.Open at 0x0B5A58C8>
+Open,		<cyfunction BattleRoyaleDead.Open at 0x17108298>
 	arg0: self
 
 submodule.Open
@@ -74,7 +74,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction BattleRoyaleDead.__init__ at 0x0B5A56B8>
+__init__,		<cyfunction BattleRoyaleDead.__init__ at 0x17108088>
 	arg0: self
 
 submodule.__init__
@@ -87,14 +87,14 @@ __module__,		uiBattleRoyale
 submodule.__module__
 
 
-SetInfo,		<cyfunction BattleRoyaleKillInfo.SetInfo at 0x0B5A55B0>
+SetInfo,		<cyfunction BattleRoyaleKillInfo.SetInfo at 0x17102F50>
 	arg0: self
 	arg1: alive_count
 	arg2: personal_kill_count
 
 submodule.SetInfo
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleKillInfo instance as first argument (got nothing instead)
-__del__,		<cyfunction BattleRoyaleKillInfo.__del__ at 0x0B5A54A8>
+__del__,		<cyfunction BattleRoyaleKillInfo.__del__ at 0x17102E48>
 	arg0: self
 
 submodule.__del__
@@ -104,22 +104,22 @@ __qualname__,		BattleRoyaleKillInfo
 submodule.__qualname__
 
 
-Initialize,		<cyfunction BattleRoyaleKillInfo.Initialize at 0x0B5A5500>
+Initialize,		<cyfunction BattleRoyaleKillInfo.Initialize at 0x17102EA0>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleKillInfo instance as first argument (got nothing instead)
-Close,		<cyfunction BattleRoyaleKillInfo.Close at 0x0B5A5660>
+Close,		<cyfunction BattleRoyaleKillInfo.Close at 0x17108030>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleKillInfo instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction BattleRoyaleKillInfo.LoadWindow at 0x0B5A5558>
+LoadWindow,		<cyfunction BattleRoyaleKillInfo.LoadWindow at 0x17102EF8>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleKillInfo instance as first argument (got nothing instead)
-Open,		<cyfunction BattleRoyaleKillInfo.Open at 0x0B5A5608>
+Open,		<cyfunction BattleRoyaleKillInfo.Open at 0x17102FA8>
 	arg0: self
 
 submodule.Open
@@ -129,7 +129,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction BattleRoyaleKillInfo.__init__ at 0x0B5A5450>
+__init__,		<cyfunction BattleRoyaleKillInfo.__init__ at 0x17102DF0>
 	arg0: self
 
 submodule.__init__
@@ -137,7 +137,7 @@ Skipped: unbound method cython_function_or_method object must be called with Bat
 
 
 class BattleRoyaleApplication:
-BattleRoyaleProcess,		<cyfunction BattleRoyaleApplication.BattleRoyaleProcess at 0x0B5A5EA0>
+BattleRoyaleProcess,		<cyfunction BattleRoyaleApplication.BattleRoyaleProcess at 0x17108870>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -150,70 +150,70 @@ __module__,		uiBattleRoyale
 submodule.__module__
 
 
-ClickRankingButton,		<cyfunction BattleRoyaleApplication.ClickRankingButton at 0x0B5A5F50>
+ClickRankingButton,		<cyfunction BattleRoyaleApplication.ClickRankingButton at 0x17108920>
 	arg0: self
 
 submodule.ClickRankingButton
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-BattleRoyaleNotApplicated,		<cyfunction BattleRoyaleApplication.BattleRoyaleNotApplicated at 0x0B5AB240>
+BattleRoyaleNotApplicated,		<cyfunction BattleRoyaleApplication.BattleRoyaleNotApplicated at 0x17108BE0>
 	arg0: self
 
 submodule.BattleRoyaleNotApplicated
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-__del__,		<cyfunction BattleRoyaleApplication.__del__ at 0x0B5A5B88>
+__del__,		<cyfunction BattleRoyaleApplication.__del__ at 0x17108558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-StartBattleRoyale,		<cyfunction BattleRoyaleApplication.StartBattleRoyale at 0x0B5AB088>
+StartBattleRoyale,		<cyfunction BattleRoyaleApplication.StartBattleRoyale at 0x17108A28>
 	arg0: self
 
 submodule.StartBattleRoyale
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-BattleRoyaleApplicated,		<cyfunction BattleRoyaleApplication.BattleRoyaleApplicated at 0x0B5AB1E8>
+BattleRoyaleApplicated,		<cyfunction BattleRoyaleApplication.BattleRoyaleApplicated at 0x17108B88>
 	arg0: self
 
 submodule.BattleRoyaleApplicated
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiBattleRoyale.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction BattleRoyaleApplication.OnPressEscapeKey at 0x0B5A5D40>
+OnPressEscapeKey,		<cyfunction BattleRoyaleApplication.OnPressEscapeKey at 0x17108710>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-Close,		<cyfunction BattleRoyaleApplication.Close at 0x0B5A5CE8>
+Close,		<cyfunction BattleRoyaleApplication.Close at 0x171086B8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-OnStartBattleRoyale,		<cyfunction BattleRoyaleApplication.OnStartBattleRoyale at 0x0B5AB0E0>
+OnStartBattleRoyale,		<cyfunction BattleRoyaleApplication.OnStartBattleRoyale at 0x17108A80>
 	arg0: self
 	arg1: useSpecialItem
 
 submodule.OnStartBattleRoyale
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-__init__,		<cyfunction BattleRoyaleApplication.__init__ at 0x0B5A5B30>
+__init__,		<cyfunction BattleRoyaleApplication.__init__ at 0x17108500>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-PrevDescriptionPage,		<cyfunction BattleRoyaleApplication.PrevDescriptionPage at 0x0B5A5DF0>
+PrevDescriptionPage,		<cyfunction BattleRoyaleApplication.PrevDescriptionPage at 0x171087C0>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction BattleRoyaleApplication.OnUpdate at 0x0B5A5D98>
+OnUpdate,		<cyfunction BattleRoyaleApplication.OnUpdate at 0x17108768>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-ApplyBattleRoyale,		<cyfunction BattleRoyaleApplication.ApplyBattleRoyale at 0x0B5A5FA8>
+ApplyBattleRoyale,		<cyfunction BattleRoyaleApplication.ApplyBattleRoyale at 0x17108978>
 	arg0: self
 
 submodule.ApplyBattleRoyale
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-Open,		<cyfunction BattleRoyaleApplication.Open at 0x0B5A5C90>
+Open,		<cyfunction BattleRoyaleApplication.Open at 0x17108660>
 	arg0: self
 
 submodule.Open
@@ -223,42 +223,42 @@ __qualname__,		BattleRoyaleApplication
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction BattleRoyaleApplication.NextDescriptionPage at 0x0B5A5E48>
+NextDescriptionPage,		<cyfunction BattleRoyaleApplication.NextDescriptionPage at 0x17108818>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-ClickMainButton,		<cyfunction BattleRoyaleApplication.ClickMainButton at 0x0B5A5EF8>
+ClickMainButton,		<cyfunction BattleRoyaleApplication.ClickMainButton at 0x171088C8>
 	arg0: self
 
 submodule.ClickMainButton
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-BattleRoyaleStartable,		<cyfunction BattleRoyaleApplication.BattleRoyaleStartable at 0x0B5AB190>
+BattleRoyaleStartable,		<cyfunction BattleRoyaleApplication.BattleRoyaleStartable at 0x17108B30>
 	arg0: self
 
 submodule.BattleRoyaleStartable
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-CancelApplicationBattleRoyale,		<cyfunction BattleRoyaleApplication.CancelApplicationBattleRoyale at 0x0B5AB030>
+CancelApplicationBattleRoyale,		<cyfunction BattleRoyaleApplication.CancelApplicationBattleRoyale at 0x171089D0>
 	arg0: self
 
 submodule.CancelApplicationBattleRoyale
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-Initialize,		<cyfunction BattleRoyaleApplication.Initialize at 0x0B5A5BE0>
+Initialize,		<cyfunction BattleRoyaleApplication.Initialize at 0x171085B0>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-BattleRoyaleStart,		<cyfunction BattleRoyaleApplication.BattleRoyaleStart at 0x0B5AB298>
+BattleRoyaleStart,		<cyfunction BattleRoyaleApplication.BattleRoyaleStart at 0x17108C38>
 	arg0: self
 
 submodule.BattleRoyaleStart
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction BattleRoyaleApplication.LoadWindow at 0x0B5A5C38>
+LoadWindow,		<cyfunction BattleRoyaleApplication.LoadWindow at 0x17108608>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with BattleRoyaleApplication instance as first argument (got nothing instead)
-ExitBattleRoyale,		<cyfunction BattleRoyaleApplication.ExitBattleRoyale at 0x0B5AB138>
+ExitBattleRoyale,		<cyfunction BattleRoyaleApplication.ExitBattleRoyale at 0x17108AD8>
 	arg0: self
 
 submodule.ExitBattleRoyale
@@ -281,7 +281,7 @@ __module__,		uiBattleRoyale
 submodule.__module__
 
 
-SetInfo,		<cyfunction BattleRoyaleWinner.SetInfo at 0x0B5A5978>
+SetInfo,		<cyfunction BattleRoyaleWinner.SetInfo at 0x17108348>
 	arg0: self
 
 submodule.SetInfo

@@ -17,6 +17,7 @@ key: __name__, val: uiFlowerEvent
 key: ingameEventSystem, val: <module 'ingameEventSystem' (built-in)>
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
+key: uiMiniGame, val: <module 'uiMiniGame' (built-in)>
 
 
 class FlowerEventUtil:
@@ -25,13 +26,13 @@ __module__,		uiFlowerEvent
 submodule.__module__
 
 
-FlowerEventGetItemMessage,		<classmethod object at 0x0B5B0090>
+FlowerEventGetItemMessage,		<classmethod object at 0x2BE481B0>
 	arg0: cls
 	arg1: shoot_type
 
 submodule.FlowerEventGetItemMessage
 Skipped: FlowerEventGetItemMessage() takes exactly 2 positional arguments (1 given)
-IsFlowerEventEnd,		<classmethod object at 0x0B5B00D0>
+IsFlowerEventEnd,		<classmethod object at 0x2BE481F0>
 	arg0: cls
 
 submodule.IsFlowerEventEnd
@@ -56,7 +57,7 @@ _FlowerEventUtil__GET_SHOOT_MESSAGE_TYPE__FLOWER_EVENT_LOCA,		<member '_FlowerEv
 submodule._FlowerEventUtil__GET_SHOOT_MESSAGE_TYPE__FLOWER_EVENT_LOCA
 
 
-FlowerEventMessage,		<classmethod object at 0x0B5B00B0>
+FlowerEventMessage,		<classmethod object at 0x2BE481D0>
 	arg0: cls
 	arg1: chat_type
 
@@ -75,27 +76,42 @@ submodule.__doc__
 
 
 class FlowerEvent:
+_abc_cache,		<_weakrefset.WeakSet object at 0x2BE48130>
+
+submodule._abc_cache
+
+
 __module__,		uiFlowerEvent
 
 submodule.__module__
 
 
-OnPressEscapeKey,		<cyfunction FlowerEvent.OnPressEscapeKey at 0x0B5B12F0>
+OnPressEscapeKey,		<cyfunction FlowerEvent.OnPressEscapeKey at 0x2BE775B0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-__del__,		<cyfunction FlowerEvent.__del__ at 0x0B5B1088>
+__del__,		<cyfunction FlowerEvent.__del__ at 0x2BE772F0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-_FlowerEvent__ImgOverOut,		<cyfunction FlowerEvent.__ImgOverOut at 0x0B5B13F8>
+_abc_registry,		<_weakrefset.WeakSet object at 0x2BE480D0>
+
+submodule._abc_registry
+
+
+__abstractmethods__,		frozenset([])
+
+submodule.__abstractmethods__
+
+
+_FlowerEvent__ImgOverOut,		<cyfunction FlowerEvent.__ImgOverOut at 0x2BE776B8>
 	arg0: self
 
 submodule._FlowerEvent__ImgOverOut
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-_FlowerEvent__SetFlowerEventInfo,		<cyfunction FlowerEvent.__SetFlowerEventInfo at 0x0B5B1450>
+_FlowerEvent__SetFlowerEventInfo,		<cyfunction FlowerEvent.__SetFlowerEventInfo at 0x2BE77710>
 	arg0: self
 	arg1: shoot_type
 	arg2: shoot_count
@@ -107,12 +123,17 @@ __qualname__,		FlowerEvent
 submodule.__qualname__
 
 
+_abc_negative_cache_version,		10
+
+submodule._abc_negative_cache_version
+
+
 __doc__,		None
 
 submodule.__doc__
 
 
-InGameEventProcess,		<cyfunction FlowerEvent.InGameEventProcess at 0x0B5B1348>
+InGameEventProcess,		<cyfunction FlowerEvent.InGameEventProcess at 0x2BE77608>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -120,42 +141,47 @@ InGameEventProcess,		<cyfunction FlowerEvent.InGameEventProcess at 0x0B5B1348>
 
 submodule.InGameEventProcess
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-Destroy,		<cyfunction FlowerEvent.Destroy at 0x0B5B1138>
+Destroy,		<cyfunction FlowerEvent.Destroy at 0x2BE773F8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-Initialize,		<cyfunction FlowerEvent.Initialize at 0x0B5B10E0>
+Initialize,		<cyfunction FlowerEvent.Initialize at 0x2BE773A0>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-Close,		<cyfunction FlowerEvent.Close at 0x0B5B1298>
+Close,		<cyfunction FlowerEvent.Close at 0x2BE77558>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction FlowerEvent.LoadWindow at 0x0B5B1190>
+LoadWindow,		<cyfunction FlowerEvent.LoadWindow at 0x2BE77450>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-Open,		<cyfunction FlowerEvent.Open at 0x0B5B1240>
+_abc_negative_cache,		<_weakrefset.WeakSet object at 0x2BE48170>
+
+submodule._abc_negative_cache
+
+
+Open,		<cyfunction FlowerEvent.Open at 0x2BE77500>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-_FlowerEvent__ImgOverIn,		<cyfunction FlowerEvent.__ImgOverIn at 0x0B5B13A0>
+_FlowerEvent__ImgOverIn,		<cyfunction FlowerEvent.__ImgOverIn at 0x2BE77660>
 	arg0: self
 
 submodule._FlowerEvent__ImgOverIn
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-__init__,		<cyfunction FlowerEvent.__init__ at 0x0B5B1030>
+__init__,		<cyfunction FlowerEvent.__init__ at 0x2BE77348>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with FlowerEvent instance as first argument (got nothing instead)
-_FlowerEvent__OnClickListExchangeButton,		<cyfunction FlowerEvent.__OnClickListExchangeButton at 0x0B5B11E8>
+_FlowerEvent__OnClickListExchangeButton,		<cyfunction FlowerEvent.__OnClickListExchangeButton at 0x2BE774A8>
 	arg0: self
 	arg1: shoot_type
 

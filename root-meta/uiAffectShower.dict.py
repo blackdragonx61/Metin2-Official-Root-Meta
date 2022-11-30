@@ -81,7 +81,7 @@
                     {'name': '__module__', 'type': 'str', 'value': 'uiAffectShower'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'HorseImage'}]},
            {'class': [],
-            'func': [{'args': ['self', 'type', 'pointIdx', 'value', 'duration'], 'defaults': [], 'name': 'BINARY_NEW_AddAffect'},
+            'func': [{'args': ['self', 'type', 'pointIdx', 'value', 'duration', 'flag'], 'defaults': [None], 'name': 'BINARY_NEW_AddAffect'},
                      {'args': ['self', 'type', 'pointIdx'], 'defaults': [], 'name': 'BINARY_NEW_RemoveAffect'},
                      {'args': ['self', 'affect', 'point_idx'], 'defaults': [], 'name': 'BINARY_NEW_Remove_MountUpgrade_Passive_Skill_Affect'},
                      {'args': ['self', 'type', 'point_type', 'value', 'duration'], 'defaults': [], 'name': 'BINARY_NEW_UpdateAffect'},

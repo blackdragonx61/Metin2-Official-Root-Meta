@@ -32,6 +32,7 @@
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__RamadanEvent'},
                      {'args': ['self'], 'defaults': [], 'name': '__ServerCommand_Build'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__SummerEvent'},
+                     {'args': ['self', 'state', 'open_time'], 'defaults': [], 'name': '__SungmaheeGateState'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__ValentineEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__WorldBoss'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__XMasBoom_Enable'},
@@ -50,4 +51,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0B2E9F10>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x09F85030>}]}

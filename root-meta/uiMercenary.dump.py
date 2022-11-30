@@ -17,7 +17,7 @@ key: __test__, val: {}
 key: proxy, val: <built-in function proxy>
 key: wndMgr, val: <module 'wndMgr' (built-in)>
 key: __name__, val: uiMercenary
-key: copy, val: <module 'copy' from 'C:\m2\.HU\lib\copy.pyc'>
+key: copy, val: <module 'copy' from 'C:\m2\.DE\metin2\de-DE\lib\copy.pyc'>
 key: exception, val: <module 'exception' (built-in)>
 key: MercenaryManage, val: <class 'uiMercenary.MercenaryManage'>
 key: item, val: <module 'item' (built-in)>
@@ -36,7 +36,7 @@ __module__,		uiMercenary
 submodule.__module__
 
 
-SetFinalToolTipWidth,		<classmethod object at 0x1AAD7470>
+SetFinalToolTipWidth,		<classmethod object at 0x171BA1D0>
 	arg0: cls
 	arg1: tooltip
 
@@ -52,7 +52,7 @@ _MercenaryUtil__MISSION_MAP_LOCA,		{0: 'Nincs', 1: 'Seungryong-v\xf6lgy', 2: 'Yo
 submodule._MercenaryUtil__MISSION_MAP_LOCA
 
 
-ShowMercenarySpecificityToolTip,		<classmethod object at 0x1AAD73B0>
+ShowMercenarySpecificityToolTip,		<classmethod object at 0x171BA110>
 	arg0: cls
 	arg1: slot_index
 
@@ -63,7 +63,7 @@ _MercenaryUtil__MISSION_TYPE_LOCA,		{1: 'Felder\xedt\xf5', 2: 'Harcos', 3: 'Megm
 submodule._MercenaryUtil__MISSION_TYPE_LOCA
 
 
-OpenQuestionDialog,		<classmethod object at 0x1AAD7330>
+OpenQuestionDialog,		<classmethod object at 0x171BA090>
 	arg0: cls
 	arg1: text
 	arg2: accept_event
@@ -75,7 +75,7 @@ _MercenaryUtil__MERCENARY_SPECIFICITY_LEARN_LEVEL,		{10: [1, 2, 3, 4, 5, 6, 7, 8
 submodule._MercenaryUtil__MERCENARY_SPECIFICITY_LEARN_LEVEL
 
 
-GetMissionLocationName,		<classmethod object at 0x1AAD70D0>
+GetMissionLocationName,		<classmethod object at 0x1719DE10>
 	arg0: cls
 	arg1: mission_location
 
@@ -86,7 +86,7 @@ _MercenaryUtil__MISSION_SUGGESTION_IMG_FILENAME,		{1: 'd:/ymir work/ui/game/merc
 submodule._MercenaryUtil__MISSION_SUGGESTION_IMG_FILENAME
 
 
-GetMercenaryStateImgFileName,		<classmethod object at 0x1AAD7050>
+GetMercenaryStateImgFileName,		<classmethod object at 0x1719DD90>
 	arg0: cls
 	arg1: state_index
 
@@ -102,42 +102,42 @@ _MercenaryUtil__MISSION_STATE_IMG_FILENAME,		{0: 'd:/ymir work/ui/game/mercenary
 submodule._MercenaryUtil__MISSION_STATE_IMG_FILENAME
 
 
-GetSpecificityBenefitSecondtName,		<classmethod object at 0x1AAD7190>
+GetSpecificityBenefitSecondtName,		<classmethod object at 0x1719DED0>
 	arg0: cls
 	arg1: specificity_index
 
 submodule.GetSpecificityBenefitSecondtName
 Skipped: GetSpecificityBenefitSecondtName() takes exactly 2 positional arguments (1 given)
-HideNormalToolTip,		<classmethod object at 0x1AAD7430>
+HideNormalToolTip,		<classmethod object at 0x171BA190>
 	arg0: cls
 
 submodule.HideNormalToolTip
 Skipped: 'NoneType' object has no attribute 'locals'
-GetMercenarySkillBenefitName_2,		<classmethod object at 0x1AAD7250>
+GetMercenarySkillBenefitName_2,		<classmethod object at 0x1719DF90>
 	arg0: cls
 	arg1: skill_index
 
 submodule.GetMercenarySkillBenefitName_2
 Skipped: GetMercenarySkillBenefitName_2() takes exactly 2 positional arguments (1 given)
-GetMissionTypeName,		<classmethod object at 0x1AAD7110>
+GetMissionTypeName,		<classmethod object at 0x1719DE50>
 	arg0: cls
 	arg1: mission_type
 
 submodule.GetMissionTypeName
 Skipped: GetMissionTypeName() takes exactly 2 positional arguments (1 given)
-GetMercenarySkillBenefitName_1,		<classmethod object at 0x1AAD7210>
+GetMercenarySkillBenefitName_1,		<classmethod object at 0x1719DF50>
 	arg0: cls
 	arg1: skill_index
 
 submodule.GetMercenarySkillBenefitName_1
 Skipped: GetMercenarySkillBenefitName_1() takes exactly 2 positional arguments (1 given)
-GetSpecificityGradeValue,		<classmethod object at 0x1AAD71D0>
+GetSpecificityGradeValue,		<classmethod object at 0x1719DF10>
 	arg0: cls
 	arg1: specificity_index
 
 submodule.GetSpecificityGradeValue
 Skipped: GetSpecificityGradeValue() takes exactly 2 positional arguments (1 given)
-CloseQuestionDialog2,		<classmethod object at 0x1AAD7310>
+CloseQuestionDialog2,		<classmethod object at 0x171BA070>
 	arg0: cls
 
 submodule.CloseQuestionDialog2
@@ -147,7 +147,7 @@ _MercenaryUtil__MERCENARY_SKILL_BENEFIT_LOCA_1,		{1: 'Bevet\xe9s id\xf5tartama: 
 submodule._MercenaryUtil__MERCENARY_SKILL_BENEFIT_LOCA_1
 
 
-MercenaryAppendChat,		<classmethod object at 0x1AAD7490>
+MercenaryAppendChat,		<classmethod object at 0x171BA1F0>
 	arg0: cls
 	arg1: type
 	arg2: data
@@ -155,13 +155,13 @@ MercenaryAppendChat,		<classmethod object at 0x1AAD7490>
 
 submodule.MercenaryAppendChat
 Skipped: MercenaryAppendChat() takes at least 2 positional arguments (1 given)
-GetMissionName,		<classmethod object at 0x1AAD70B0>
+GetMissionName,		<classmethod object at 0x1719DDF0>
 	arg0: cls
 	arg1: mission_name
 
 submodule.GetMissionName
 Skipped: GetMissionName() takes exactly 2 positional arguments (1 given)
-GetMissionSuggestionImgFileName,		<classmethod object at 0x1AAD7070>
+GetMissionSuggestionImgFileName,		<classmethod object at 0x1719DDB0>
 	arg0: cls
 	arg1: mission_type
 
@@ -172,18 +172,18 @@ _MercenaryUtil__MERCENARY_SPECIFICITY_BENEFIT_2_LOCA,		{1: 'Bevet\xe9s id\xf5tar
 submodule._MercenaryUtil__MERCENARY_SPECIFICITY_BENEFIT_2_LOCA
 
 
-GetMissionStateName,		<classmethod object at 0x1AAD70F0>
+GetMissionStateName,		<classmethod object at 0x1719DE30>
 	arg0: cls
 	arg1: mission_state
 
 submodule.GetMissionStateName
 Skipped: GetMissionStateName() takes exactly 2 positional arguments (1 given)
-_MercenaryUtil__ClosePopupDialog,		<classmethod object at 0x1AAD72D0>
+_MercenaryUtil__ClosePopupDialog,		<classmethod object at 0x171BA030>
 	arg0: cls
 
 submodule._MercenaryUtil__ClosePopupDialog
 Skipped: 'NoneType' object has no attribute 'locals'
-MercenaryUtilSetLoca,		<classmethod object at 0x1AABAFD0>
+MercenaryUtilSetLoca,		<classmethod object at 0x1719DD30>
 	arg0: cls
 
 submodule.MercenaryUtilSetLoca
@@ -193,19 +193,19 @@ _MercenaryUtil__MERCENARY_SPECIFICITY_BENEFIT_1_LOCA,		{1: 'Siker es\xe9lye: +%.
 submodule._MercenaryUtil__MERCENARY_SPECIFICITY_BENEFIT_1_LOCA
 
 
-GetMissionStateImgFileName,		<classmethod object at 0x1AAD7090>
+GetMissionStateImgFileName,		<classmethod object at 0x1719DDD0>
 	arg0: cls
 	arg1: mission_state
 
 submodule.GetMissionStateImgFileName
 Skipped: GetMissionStateImgFileName() takes exactly 2 positional arguments (1 given)
-GetMercenarySkillBenefitValue_1,		<classmethod object at 0x1AAD7230>
+GetMercenarySkillBenefitValue_1,		<classmethod object at 0x1719DF70>
 	arg0: cls
 	arg1: skill_index
 
 submodule.GetMercenarySkillBenefitValue_1
 Skipped: GetMercenarySkillBenefitValue_1() takes exactly 2 positional arguments (1 given)
-ToolTipProgress,		<classmethod object at 0x1AAD7450>
+ToolTipProgress,		<classmethod object at 0x171BA1B0>
 	arg0: cls
 
 submodule.ToolTipProgress
@@ -215,24 +215,24 @@ _MercenaryUtil__question_popup,		None
 submodule._MercenaryUtil__question_popup
 
 
-GetMercenarySkillBenefitValue_2,		<classmethod object at 0x1AAD7270>
+GetMercenarySkillBenefitValue_2,		<classmethod object at 0x1719DFB0>
 	arg0: cls
 	arg1: skill_index
 
 submodule.GetMercenarySkillBenefitValue_2
 Skipped: GetMercenarySkillBenefitValue_2() takes exactly 2 positional arguments (1 given)
-SetCloseQuestionPopupEvent,		<classmethod object at 0x1AAD7350>
+SetCloseQuestionPopupEvent,		<classmethod object at 0x171BA0B0>
 	arg0: cls
 	arg1: close_event
 
 submodule.SetCloseQuestionPopupEvent
 Skipped: SetCloseQuestionPopupEvent() takes exactly 2 positional arguments (1 given)
-MercenaryUtilInit,		<classmethod object at 0x1AABAFB0>
+MercenaryUtilInit,		<classmethod object at 0x1719DD10>
 	arg0: cls
 
 submodule.MercenaryUtilInit
 Skipped: 'NoneType' object has no attribute 'locals'
-GetMercenaryNameImgFileName,		<classmethod object at 0x1AABAFF0>
+GetMercenaryNameImgFileName,		<classmethod object at 0x1719DD50>
 	arg0: cls
 	arg1: name_index
 
@@ -263,7 +263,7 @@ _MercenaryUtil__MERCENARY_SKILL_BENEFIT_VALUE_1,		{0: 0.0, 1: 0.2, 2: 0.2, 3: 0.
 submodule._MercenaryUtil__MERCENARY_SKILL_BENEFIT_VALUE_1
 
 
-GetSpecificityGainNextLevel,		<classmethod object at 0x1AAD7290>
+GetSpecificityGainNextLevel,		<classmethod object at 0x1719DFD0>
 	arg0: cls
 	arg1: current_level
 
@@ -274,19 +274,19 @@ _MercenaryUtil__MERCENARY_NAME_IMG_FILENAME,		{0: 'd:/ymir work/ui/game/mercenar
 submodule._MercenaryUtil__MERCENARY_NAME_IMG_FILENAME
 
 
-ShowMercenaryToolTip,		<classmethod object at 0x1AAD73D0>
+ShowMercenaryToolTip,		<classmethod object at 0x171BA130>
 	arg0: cls
 	arg1: slot_index
 
 submodule.ShowMercenaryToolTip
 Skipped: ShowMercenaryToolTip() takes exactly 2 positional arguments (1 given)
-OpenPopupDialog,		<classmethod object at 0x1AAD72B0>
+OpenPopupDialog,		<classmethod object at 0x1719DFF0>
 	arg0: cls
 	arg1: text
 
 submodule.OpenPopupDialog
 Skipped: OpenPopupDialog() takes exactly 2 positional arguments (1 given)
-ShowMercenaryStateToolTip,		<classmethod object at 0x1AAD7390>
+ShowMercenaryStateToolTip,		<classmethod object at 0x171BA0F0>
 	arg0: cls
 	arg1: slot_index
 
@@ -297,7 +297,7 @@ _MercenaryUtil__MERCENARY_NAME_LOCA,		{0: '\xc1tlagos', 1: '\xdcgyes', 2: 'Er\xf
 submodule._MercenaryUtil__MERCENARY_NAME_LOCA
 
 
-GetMercenaryName,		<classmethod object at 0x1AAD7130>
+GetMercenaryName,		<classmethod object at 0x1719DE70>
 	arg0: cls
 	arg1: name_index
 
@@ -313,13 +313,13 @@ _MercenaryUtil__MERCENARY_NAME_IMG_FILENAME__MERCENARY_SPECIFICITY_IMG_FILENAME_
 submodule._MercenaryUtil__MERCENARY_NAME_IMG_FILENAME__MERCENARY_SPECIFICITY_IMG_FILENAME__MERCENARY_STATE_IMG_FILENAME__MISSION_SUGGESTION_IMG_FILENAME__MISSION_STATE_IMG_FILENAME__MERCENARY_NAME_LOCA__MERCENARY_SPECIFICITY_LOCA__MERCENARY_SPECIFICITY_BENEFIT_1_LOCA__MERCENARY_SPECIFICITY_BENEFIT_2_LOCA__MERCENARY_SPECIFICITY_GRADE_LOWER_LOCA__MERCENARY_SKILL_NAME_LOCA__MERCENARY_SKILL_BENEFIT_LOCA_1__MERCENARY_SKILL_BENEFIT_VALUE_1__MERCENARY_SKILL_BENEFIT_LOCA_2__MERCENARY_SKILL_BENEFIT_VALUE_2__MISSION_TYPE_LOCA__MISSION_STATE_LOCA__MISSION_MAP_LOCA__MISSION_NAME_LOCA__MERCENARY_SPECIFICITY_VALUE__MERCENARY_SPECIFICITY_LEARN_LEVEL__accept_popup__question_popup__question_popup_2__mercenary_tooltip
 
 
-ShowNormalToolTip,		<classmethod object at 0x1AAD7410>
+ShowNormalToolTip,		<classmethod object at 0x171BA170>
 	arg0: cls
 	arg1: arg
 
 submodule.ShowNormalToolTip
 Skipped: ShowNormalToolTip() takes exactly 2 positional arguments (1 given)
-GetMercenarySkillName,		<classmethod object at 0x1AAD71F0>
+GetMercenarySkillName,		<classmethod object at 0x1719DF30>
 	arg0: cls
 	arg1: skill_index
 
@@ -330,7 +330,7 @@ _MercenaryUtil__MERCENARY_SPECIFICITY_VALUE,		{1: {0: 1, 1: 3, 2: 5}, 2: {0: 1, 
 submodule._MercenaryUtil__MERCENARY_SPECIFICITY_VALUE
 
 
-GetSpecificityBenefitFirstName,		<classmethod object at 0x1AAD7170>
+GetSpecificityBenefitFirstName,		<classmethod object at 0x1719DEB0>
 	arg0: cls
 	arg1: specificity_index
 
@@ -351,12 +351,12 @@ _MercenaryUtil__MERCENARY_STATE_IMG_FILENAME,		{0: 'd:/ymir work/ui/game/mercena
 submodule._MercenaryUtil__MERCENARY_STATE_IMG_FILENAME
 
 
-CloseMercenaryToolTip,		<classmethod object at 0x1AAD73F0>
+CloseMercenaryToolTip,		<classmethod object at 0x171BA150>
 	arg0: cls
 
 submodule.CloseMercenaryToolTip
 Skipped: 'NoneType' object has no attribute 'locals'
-GetSpecificityGradeName,		<classmethod object at 0x1AAD71B0>
+GetSpecificityGradeName,		<classmethod object at 0x1719DEF0>
 	arg0: cls
 	arg1: specificity_grade
 
@@ -377,7 +377,7 @@ __slots__,		__MERCENARY_NAME_IMG_FILENAME__MERCENARY_SPECIFICITY_IMG_FILENAME__M
 submodule.__slots__
 
 
-OpenQuestionDialog2,		<classmethod object at 0x1AAD72F0>
+OpenQuestionDialog2,		<classmethod object at 0x171BA050>
 	arg0: cls
 	arg1: text
 	arg2: text2
@@ -390,18 +390,18 @@ _MercenaryUtil__MERCENARY_SKILL_NAME_LOCA,		{1: 'Cs\xf6kkenti a bevet\xe9s id\xf
 submodule._MercenaryUtil__MERCENARY_SKILL_NAME_LOCA
 
 
-CloseQuestionDialog,		<classmethod object at 0x1AAD7370>
+CloseQuestionDialog,		<classmethod object at 0x171BA0D0>
 	arg0: cls
 
 submodule.CloseQuestionDialog
 Skipped: 'NoneType' object has no attribute 'locals'
-GetMercenarySpecificityImgFileName,		<classmethod object at 0x1AAD7030>
+GetMercenarySpecificityImgFileName,		<classmethod object at 0x1719DD70>
 	arg0: cls
 	arg1: specificity_index
 
 submodule.GetMercenarySpecificityImgFileName
 Skipped: GetMercenarySpecificityImgFileName() takes exactly 2 positional arguments (1 given)
-GetSpecificityName,		<classmethod object at 0x1AAD7150>
+GetSpecificityName,		<classmethod object at 0x1719DE90>
 	arg0: cls
 	arg1: specificity_index
 
@@ -415,17 +415,17 @@ __module__,		uiMercenary
 submodule.__module__
 
 
-_Mercenary__Initialize,		<cyfunction Mercenary.__Initialize at 0x1AAACEA0>
+_Mercenary__Initialize,		<cyfunction Mercenary.__Initialize at 0x17190C90>
 	arg0: self
 
 submodule._Mercenary__Initialize
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-RefreshMission,		<cyfunction Mercenary.RefreshMission at 0x1AAD27C0>
+RefreshMission,		<cyfunction Mercenary.RefreshMission at 0x171B45B0>
 	arg0: self
 
 submodule.RefreshMission
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-MercenaryExpandSlotItemUseAsk,		<cyfunction Mercenary.MercenaryExpandSlotItemUseAsk at 0x1AAD2240>
+MercenaryExpandSlotItemUseAsk,		<cyfunction Mercenary.MercenaryExpandSlotItemUseAsk at 0x171B4030>
 	arg0: self
 	arg1: need_item_count
 	arg2: window
@@ -433,22 +433,22 @@ MercenaryExpandSlotItemUseAsk,		<cyfunction Mercenary.MercenaryExpandSlotItemUse
 
 submodule.MercenaryExpandSlotItemUseAsk
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction Mercenary.OnMouseWheelButtonUp at 0x1AAACF50>
+OnMouseWheelButtonUp,		<cyfunction Mercenary.OnMouseWheelButtonUp at 0x17190D40>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-RequestMercenaryWindowOpen,		<cyfunction Mercenary.RequestMercenaryWindowOpen at 0x1AAD2138>
+RequestMercenaryWindowOpen,		<cyfunction Mercenary.RequestMercenaryWindowOpen at 0x17190EF8>
 	arg0: self
 
 submodule.RequestMercenaryWindowOpen
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-__init__,		<cyfunction Mercenary.__init__ at 0x1AAACDF0>
+__init__,		<cyfunction Mercenary.__init__ at 0x17190BE0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-MercenaryAppendChat,		<cyfunction Mercenary.MercenaryAppendChat at 0x1AAD23F8>
+MercenaryAppendChat,		<cyfunction Mercenary.MercenaryAppendChat at 0x171B41E8>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -456,7 +456,7 @@ MercenaryAppendChat,		<cyfunction Mercenary.MercenaryAppendChat at 0x1AAD23F8>
 
 submodule.MercenaryAppendChat
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-MercenaryDrainResult,		<cyfunction Mercenary.MercenaryDrainResult at 0x1AAD2768>
+MercenaryDrainResult,		<cyfunction Mercenary.MercenaryDrainResult at 0x171B4558>
 	arg0: self
 
 submodule.MercenaryDrainResult
@@ -466,12 +466,12 @@ _Mercenary__tab_img__tab_btn__tab_wnd__current_tab__is_loaded__question_item_use
 submodule._Mercenary__tab_img__tab_btn__tab_wnd__current_tab__is_loaded__question_item_use_popup
 
 
-MercenaryMissionAllRefresh,		<cyfunction Mercenary.MercenaryMissionAllRefresh at 0x1AAD26B8>
+MercenaryMissionAllRefresh,		<cyfunction Mercenary.MercenaryMissionAllRefresh at 0x171B44A8>
 	arg0: self
 
 submodule.MercenaryMissionAllRefresh
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-MercenaryDispatchSuccess,		<cyfunction Mercenary.MercenaryDispatchSuccess at 0x1AAD2710>
+MercenaryDispatchSuccess,		<cyfunction Mercenary.MercenaryDispatchSuccess at 0x171B4500>
 	arg0: self
 	arg1: mission_vid
 	arg2: map_number
@@ -483,28 +483,28 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseWheelButtonDown,		<cyfunction Mercenary.OnMouseWheelButtonDown at 0x1AAACFA8>
+OnMouseWheelButtonDown,		<cyfunction Mercenary.OnMouseWheelButtonDown at 0x17190D98>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-RefreshActiveText,		<cyfunction Mercenary.RefreshActiveText at 0x1AAD2450>
+RefreshActiveText,		<cyfunction Mercenary.RefreshActiveText at 0x171B4240>
 	arg0: self
 
 submodule.RefreshActiveText
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-_Mercenary__SelectTab,		<cyfunction Mercenary.__SelectTab at 0x1AAD20E0>
+_Mercenary__SelectTab,		<cyfunction Mercenary.__SelectTab at 0x17190EA0>
 	arg0: self
 	arg1: tab_key
 
 submodule._Mercenary__SelectTab
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-__del__,		<cyfunction Mercenary.__del__ at 0x1AAACE48>
+__del__,		<cyfunction Mercenary.__del__ at 0x17190C38>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-MercenaryResultFail,		<cyfunction Mercenary.MercenaryResultFail at 0x1AAD2608>
+MercenaryResultFail,		<cyfunction Mercenary.MercenaryResultFail at 0x171B43F8>
 	arg0: self
 	arg1: mission_vid
 	arg2: mission_name
@@ -512,47 +512,47 @@ MercenaryResultFail,		<cyfunction Mercenary.MercenaryResultFail at 0x1AAD2608>
 
 submodule.MercenaryResultFail
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-MercenaryGiveUpSuccess,		<cyfunction Mercenary.MercenaryGiveUpSuccess at 0x1AAD2660>
+MercenaryGiveUpSuccess,		<cyfunction Mercenary.MercenaryGiveUpSuccess at 0x171B4450>
 	arg0: self
 	arg1: mission_vid
 	arg2: map_number
 
 submodule.MercenaryGiveUpSuccess
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-RefreshCurrentMercenaryWindow,		<cyfunction Mercenary.RefreshCurrentMercenaryWindow at 0x1AAD2558>
+RefreshCurrentMercenaryWindow,		<cyfunction Mercenary.RefreshCurrentMercenaryWindow at 0x171B4348>
 	arg0: self
 
 submodule.RefreshCurrentMercenaryWindow
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction Mercenary.OnPressEscapeKey at 0x1AAD2030>
+OnPressEscapeKey,		<cyfunction Mercenary.OnPressEscapeKey at 0x17190DF0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-OpenMercenaryWindow,		<cyfunction Mercenary.OpenMercenaryWindow at 0x1AAD2190>
+OpenMercenaryWindow,		<cyfunction Mercenary.OpenMercenaryWindow at 0x17190F50>
 	arg0: self
 
 submodule.OpenMercenaryWindow
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-RefreshMercenaryManageList,		<cyfunction Mercenary.RefreshMercenaryManageList at 0x1AAD2500>
+RefreshMercenaryManageList,		<cyfunction Mercenary.RefreshMercenaryManageList at 0x171B42F0>
 	arg0: self
 
 submodule.RefreshMercenaryManageList
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-MercenaryResultSuccess,		<cyfunction Mercenary.MercenaryResultSuccess at 0x1AAD25B0>
+MercenaryResultSuccess,		<cyfunction Mercenary.MercenaryResultSuccess at 0x171B43A0>
 	arg0: self
 	arg1: mission_vid
 	arg2: data
 
 submodule.MercenaryResultSuccess
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-_Mercenary__MercenaryEmpoly,		<cyfunction Mercenary.__MercenaryEmpoly at 0x1AAD2348>
+_Mercenary__MercenaryEmpoly,		<cyfunction Mercenary.__MercenaryEmpoly at 0x171B4138>
 	arg0: self
 	arg1: need_yang
 
 submodule._Mercenary__MercenaryEmpoly
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-MercenaryAddAsk,		<cyfunction Mercenary.MercenaryAddAsk at 0x1AAD22F0>
+MercenaryAddAsk,		<cyfunction Mercenary.MercenaryAddAsk at 0x171B40E0>
 	arg0: self
 	arg1: skill_vnum
 	arg2: need_yang
@@ -561,20 +561,20 @@ MercenaryAddAsk,		<cyfunction Mercenary.MercenaryAddAsk at 0x1AAD22F0>
 
 submodule.MercenaryAddAsk
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction Mercenary.SetItemToolTip at 0x1AAD2818>
+SetItemToolTip,		<cyfunction Mercenary.SetItemToolTip at 0x171B4608>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-SetDispatchMercenary,		<cyfunction Mercenary.SetDispatchMercenary at 0x1AAD24A8>
+SetDispatchMercenary,		<cyfunction Mercenary.SetDispatchMercenary at 0x171B4298>
 	arg0: self
 	arg1: mercenary_slot_index
 	arg2: data
 
 submodule.SetDispatchMercenary
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction Mercenary.OnUpdate at 0x1AAD2088>
+OnUpdate,		<cyfunction Mercenary.OnUpdate at 0x17190E48>
 	arg0: self
 
 submodule.OnUpdate
@@ -584,7 +584,7 @@ __qualname__,		Mercenary
 submodule.__qualname__
 
 
-_Mercenary__LoadWindow,		<cyfunction Mercenary.__LoadWindow at 0x1AAACEF8>
+_Mercenary__LoadWindow,		<cyfunction Mercenary.__LoadWindow at 0x17190CE8>
 	arg0: self
 
 submodule._Mercenary__LoadWindow
@@ -594,17 +594,17 @@ __slots__,		__tab_img__tab_btn__tab_wnd__current_tab__is_loaded__question_item_u
 submodule.__slots__
 
 
-_Mercenary__MercenaryExpandSlotItemUse,		<cyfunction Mercenary.__MercenaryExpandSlotItemUse at 0x1AAD2298>
+_Mercenary__MercenaryExpandSlotItemUse,		<cyfunction Mercenary.__MercenaryExpandSlotItemUse at 0x171B4088>
 	arg0: self
 
 submodule._Mercenary__MercenaryExpandSlotItemUse
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-Close,		<cyfunction Mercenary.Close at 0x1AAD21E8>
+Close,		<cyfunction Mercenary.Close at 0x17190FA8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with Mercenary instance as first argument (got nothing instead)
-_Mercenary__CloseItemUseAskPopup,		<cyfunction Mercenary.__CloseItemUseAskPopup at 0x1AAD23A0>
+_Mercenary__CloseItemUseAskPopup,		<cyfunction Mercenary.__CloseItemUseAskPopup at 0x171B4190>
 	arg0: self
 
 submodule._Mercenary__CloseItemUseAskPopup
@@ -612,7 +612,7 @@ Skipped: unbound method cython_function_or_method object must be called with Mer
 
 
 class MercenaryManage:
-_MercenaryManage__MercenaryDelayCureAsk,		<cyfunction MercenaryManage.__MercenaryDelayCureAsk at 0x1AAD5660>
+_MercenaryManage__MercenaryDelayCureAsk,		<cyfunction MercenaryManage.__MercenaryDelayCureAsk at 0x171B7450>
 	arg0: self
 
 submodule._MercenaryManage__MercenaryDelayCureAsk
@@ -622,13 +622,13 @@ __module__,		uiMercenary
 submodule.__module__
 
 
-_MercenaryManage__SetSlotSecondCoverImg,		<cyfunction MercenaryManage.__SetSlotSecondCoverImg at 0x1AAD5978>
+_MercenaryManage__SetSlotSecondCoverImg,		<cyfunction MercenaryManage.__SetSlotSecondCoverImg at 0x171B7768>
 	arg0: self
 	arg1: selected_slot_pos
 
 submodule._MercenaryManage__SetSlotSecondCoverImg
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__RefreshCureFireBtn,		<cyfunction MercenaryManage.__RefreshCureFireBtn at 0x1AAD55B0>
+_MercenaryManage__RefreshCureFireBtn,		<cyfunction MercenaryManage.__RefreshCureFireBtn at 0x171B73A0>
 	arg0: self
 
 submodule._MercenaryManage__RefreshCureFireBtn
@@ -638,17 +638,17 @@ MERCENARY_LIST_SPECIFICITY_SLOT_START_INDEX,		24
 submodule.MERCENARY_LIST_SPECIFICITY_SLOT_START_INDEX
 
 
-RefreshMercenaryInjuryEndTime,		<cyfunction MercenaryManage.RefreshMercenaryInjuryEndTime at 0x1AAD5088>
+RefreshMercenaryInjuryEndTime,		<cyfunction MercenaryManage.RefreshMercenaryInjuryEndTime at 0x171B6E48>
 	arg0: self
 
 submodule.RefreshMercenaryInjuryEndTime
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-SetUnselectMainDrainSlot,		<cyfunction MercenaryManage.SetUnselectMainDrainSlot at 0x1AAD5298>
+SetUnselectMainDrainSlot,		<cyfunction MercenaryManage.SetUnselectMainDrainSlot at 0x171B7088>
 	arg0: self
 
 submodule.SetUnselectMainDrainSlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__MercenaryDrainNextLevelExpRefresh,		<cyfunction MercenaryManage.__MercenaryDrainNextLevelExpRefresh at 0x1AAD53A0>
+_MercenaryManage__MercenaryDrainNextLevelExpRefresh,		<cyfunction MercenaryManage.__MercenaryDrainNextLevelExpRefresh at 0x171B7190>
 	arg0: self
 
 submodule._MercenaryManage__MercenaryDrainNextLevelExpRefresh
@@ -663,44 +663,44 @@ _MercenaryManage__manage_current_page_index__select_slot__main_drain_slot__sub_d
 submodule._MercenaryManage__manage_current_page_index__select_slot__main_drain_slot__sub_drain_slot_dict__sub_drain_slot_real_dict__mercenary_list_slot__drain_main_icon_slot__sub_mercenary_slot__mercenary_list_left_arrow__mercenary_list_right_arrow__mercenary_fire_btn__mercenary_immediately_cure_btn__mercenary_delay_cure_btn__mercenary_regist_drain_btn__drain_start_btn__mercenary_info_name_txt__mercenary_info_level_txt__mercenary_info_exp_txt__mercenary_info_skill_txt__mercenary_info_skill_effect_1_txt__mercenary_info_skill_effect_2_txt__mercenary_info_specificity_effect_1_txt__mercenary_info_specificity_effect_2_txt__mercenary_info_specificity_effect_3_txt__mercenary_next_level_edit_txt__mercenary_next_exp_edit_txt
 
 
-_MercenaryManage__LoadWindow,		<cyfunction MercenaryManage.__LoadWindow at 0x1AAD4EF8>
+_MercenaryManage__LoadWindow,		<cyfunction MercenaryManage.__LoadWindow at 0x171B6CE8>
 	arg0: self
 
 submodule._MercenaryManage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-MercenaryFire,		<cyfunction MercenaryManage.MercenaryFire at 0x1AAD5818>
+MercenaryFire,		<cyfunction MercenaryManage.MercenaryFire at 0x171B7608>
 	arg0: self
 
 submodule.MercenaryFire
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__MercenaryListArrowClick,		<cyfunction MercenaryManage.__MercenaryListArrowClick at 0x1AAD58C8>
+_MercenaryManage__MercenaryListArrowClick,		<cyfunction MercenaryManage.__MercenaryListArrowClick at 0x171B76B8>
 	arg0: self
 	arg1: type
 
 submodule._MercenaryManage__MercenaryListArrowClick
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__ClearDrainSubMercenarySlot,		<cyfunction MercenaryManage.__ClearDrainSubMercenarySlot at 0x1AAD5138>
+_MercenaryManage__ClearDrainSubMercenarySlot,		<cyfunction MercenaryManage.__ClearDrainSubMercenarySlot at 0x171B6EF8>
 	arg0: self
 
 submodule._MercenaryManage__ClearDrainSubMercenarySlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-__init__,		<cyfunction MercenaryManage.__init__ at 0x1AAD4DF0>
+__init__,		<cyfunction MercenaryManage.__init__ at 0x171B6BE0>
 	arg0: self
 	arg1: parent
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-RefreshMercenaryWindow,		<cyfunction MercenaryManage.RefreshMercenaryWindow at 0x1AAD5870>
+RefreshMercenaryWindow,		<cyfunction MercenaryManage.RefreshMercenaryWindow at 0x171B7660>
 	arg0: self
 
 submodule.RefreshMercenaryWindow
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-MercenaryDrainResult,		<cyfunction MercenaryManage.MercenaryDrainResult at 0x1AAD5450>
+MercenaryDrainResult,		<cyfunction MercenaryManage.MercenaryDrainResult at 0x171B7240>
 	arg0: self
 
 submodule.MercenaryDrainResult
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-SetUnselectItemSlot,		<cyfunction MercenaryManage.SetUnselectItemSlot at 0x1AAD5920>
+SetUnselectItemSlot,		<cyfunction MercenaryManage.SetUnselectItemSlot at 0x171B7710>
 	arg0: self
 	arg1: selected_slot_pos
 
@@ -711,28 +711,28 @@ MERCENARY_DRAIN_WARNING_LEVEL,		20
 submodule.MERCENARY_DRAIN_WARNING_LEVEL
 
 
-_MercenaryManage__MercenaryDrainStart,		<cyfunction MercenaryManage.__MercenaryDrainStart at 0x1AAD5558>
+_MercenaryManage__MercenaryDrainStart,		<cyfunction MercenaryManage.__MercenaryDrainStart at 0x171B7348>
 	arg0: self
 
 submodule._MercenaryManage__MercenaryDrainStart
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__ClearMercenaryInfoText,		<cyfunction MercenaryManage.__ClearMercenaryInfoText at 0x1AAD5030>
+_MercenaryManage__ClearMercenaryInfoText,		<cyfunction MercenaryManage.__ClearMercenaryInfoText at 0x171B6DF0>
 	arg0: self
 
 submodule._MercenaryManage__ClearMercenaryInfoText
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__MercenaryImmediatelyCureAsk,		<cyfunction MercenaryManage.__MercenaryImmediatelyCureAsk at 0x1AAD5710>
+_MercenaryManage__MercenaryImmediatelyCureAsk,		<cyfunction MercenaryManage.__MercenaryImmediatelyCureAsk at 0x171B7500>
 	arg0: self
 
 submodule._MercenaryManage__MercenaryImmediatelyCureAsk
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-SetUnselectSubDrainSlot,		<cyfunction MercenaryManage.SetUnselectSubDrainSlot at 0x1AAD51E8>
+SetUnselectSubDrainSlot,		<cyfunction MercenaryManage.SetUnselectSubDrainSlot at 0x171B6FA8>
 	arg0: self
 	arg1: sub_slot_index
 
 submodule.SetUnselectSubDrainSlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-OverInItemSubDrainSlot,		<cyfunction MercenaryManage.OverInItemSubDrainSlot at 0x1AAD5190>
+OverInItemSubDrainSlot,		<cyfunction MercenaryManage.OverInItemSubDrainSlot at 0x171B6F50>
 	arg0: self
 	arg1: sub_slot_index
 
@@ -748,81 +748,81 @@ __doc__,		None
 submodule.__doc__
 
 
-_MercenaryManage__ClearLevelUpInfo,		<cyfunction MercenaryManage.__ClearLevelUpInfo at 0x1AAD54A8>
+_MercenaryManage__ClearLevelUpInfo,		<cyfunction MercenaryManage.__ClearLevelUpInfo at 0x171B7298>
 	arg0: self
 
 submodule._MercenaryManage__ClearLevelUpInfo
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__MercenaryInfoRefresh,		<cyfunction MercenaryManage.__MercenaryInfoRefresh at 0x1AAD50E0>
+_MercenaryManage__MercenaryInfoRefresh,		<cyfunction MercenaryManage.__MercenaryInfoRefresh at 0x171B6EA0>
 	arg0: self
 	arg1: slot_index
 
 submodule._MercenaryManage__MercenaryInfoRefresh
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-OverInMercenaryListslot,		<cyfunction MercenaryManage.OverInMercenaryListslot at 0x1AAD5A28>
+OverInMercenaryListslot,		<cyfunction MercenaryManage.OverInMercenaryListslot at 0x171B7818>
 	arg0: self
 	arg1: slot_index
 
 submodule.OverInMercenaryListslot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__RefreshDrainSubMercenarySlot,		<cyfunction MercenaryManage.__RefreshDrainSubMercenarySlot at 0x1AAD53F8>
+_MercenaryManage__RefreshDrainSubMercenarySlot,		<cyfunction MercenaryManage.__RefreshDrainSubMercenarySlot at 0x171B71E8>
 	arg0: self
 
 submodule._MercenaryManage__RefreshDrainSubMercenarySlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-OverOutslot,		<cyfunction MercenaryManage.OverOutslot at 0x1AAD5A80>
+OverOutslot,		<cyfunction MercenaryManage.OverOutslot at 0x171B7870>
 	arg0: self
 
 submodule.OverOutslot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-__del__,		<cyfunction MercenaryManage.__del__ at 0x1AAD4E48>
+__del__,		<cyfunction MercenaryManage.__del__ at 0x171B6C38>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__CheckInjuryEndTime,		<cyfunction MercenaryManage.__CheckInjuryEndTime at 0x1AAD5608>
+_MercenaryManage__CheckInjuryEndTime,		<cyfunction MercenaryManage.__CheckInjuryEndTime at 0x171B73F8>
 	arg0: self
 
 submodule._MercenaryManage__CheckInjuryEndTime
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-OverInItemMainDrainSlot,		<cyfunction MercenaryManage.OverInItemMainDrainSlot at 0x1AAD5240>
+OverInItemMainDrainSlot,		<cyfunction MercenaryManage.OverInItemMainDrainSlot at 0x171B7030>
 	arg0: self
 	arg1: slot_index
 
 submodule.OverInItemMainDrainSlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__MercenaryRegistDrain,		<cyfunction MercenaryManage.__MercenaryRegistDrain at 0x1AAD5348>
+_MercenaryManage__MercenaryRegistDrain,		<cyfunction MercenaryManage.__MercenaryRegistDrain at 0x171B7138>
 	arg0: self
 
 submodule._MercenaryManage__MercenaryRegistDrain
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__MercenaryFireAsk,		<cyfunction MercenaryManage.__MercenaryFireAsk at 0x1AAD57C0>
+_MercenaryManage__MercenaryFireAsk,		<cyfunction MercenaryManage.__MercenaryFireAsk at 0x171B75B0>
 	arg0: self
 
 submodule._MercenaryManage__MercenaryFireAsk
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction MercenaryManage.SelectItemSlot at 0x1AAD59D0>
+SelectItemSlot,		<cyfunction MercenaryManage.SelectItemSlot at 0x171B77C0>
 	arg0: self
 	arg1: selected_slot_pos
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__MercenaryDrainSubRegist,		<cyfunction MercenaryManage.__MercenaryDrainSubRegist at 0x1AAD52F0>
+_MercenaryManage__MercenaryDrainSubRegist,		<cyfunction MercenaryManage.__MercenaryDrainSubRegist at 0x171B70E0>
 	arg0: self
 
 submodule._MercenaryManage__MercenaryDrainSubRegist
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-Show,		<cyfunction MercenaryManage.Show at 0x1AAD4F50>
+Show,		<cyfunction MercenaryManage.Show at 0x171B6D40>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__MercenaryDrainStartAsk,		<cyfunction MercenaryManage.__MercenaryDrainStartAsk at 0x1AAD5500>
+_MercenaryManage__MercenaryDrainStartAsk,		<cyfunction MercenaryManage.__MercenaryDrainStartAsk at 0x171B72F0>
 	arg0: self
 
 submodule._MercenaryManage__MercenaryDrainStartAsk
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-MercenaryDelayCure,		<cyfunction MercenaryManage.MercenaryDelayCure at 0x1AAD56B8>
+MercenaryDelayCure,		<cyfunction MercenaryManage.MercenaryDelayCure at 0x171B74A8>
 	arg0: self
 
 submodule.MercenaryDelayCure
@@ -832,7 +832,7 @@ __qualname__,		MercenaryManage
 submodule.__qualname__
 
 
-MercenaryImmediatelyCure,		<cyfunction MercenaryManage.MercenaryImmediatelyCure at 0x1AAD5768>
+MercenaryImmediatelyCure,		<cyfunction MercenaryManage.MercenaryImmediatelyCure at 0x171B7558>
 	arg0: self
 
 submodule.MercenaryImmediatelyCure
@@ -842,12 +842,12 @@ __slots__,		__manage_current_page_index__select_slot__main_drain_slot__sub_drain
 submodule.__slots__
 
 
-Close,		<cyfunction MercenaryManage.Close at 0x1AAD4FA8>
+Close,		<cyfunction MercenaryManage.Close at 0x171B6D98>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MercenaryManage instance as first argument (got nothing instead)
-_MercenaryManage__Initialize,		<cyfunction MercenaryManage.__Initialize at 0x1AAD4EA0>
+_MercenaryManage__Initialize,		<cyfunction MercenaryManage.__Initialize at 0x171B6C90>
 	arg0: self
 
 submodule._MercenaryManage__Initialize
@@ -855,13 +855,13 @@ Skipped: unbound method cython_function_or_method object must be called with Mer
 
 
 class MercenaryMission:
-_MercenaryMission__MercenaryPossibleCountImgEvent,		<cyfunction MercenaryMission.__MercenaryPossibleCountImgEvent at 0x1AAD4978>
+_MercenaryMission__MercenaryPossibleCountImgEvent,		<cyfunction MercenaryMission.__MercenaryPossibleCountImgEvent at 0x171B6768>
 	arg0: self
 	arg1: event_type
 
 submodule._MercenaryMission__MercenaryPossibleCountImgEvent
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__SetMercenaryListSlotSecondCoverImg,		<cyfunction MercenaryMission.__SetMercenaryListSlotSecondCoverImg at 0x1AAD4C90>
+_MercenaryMission__SetMercenaryListSlotSecondCoverImg,		<cyfunction MercenaryMission.__SetMercenaryListSlotSecondCoverImg at 0x171B6A80>
 	arg0: self
 	arg1: slot_index
 
@@ -872,18 +872,18 @@ _MercenaryMission__mission_list_data__mission_refresh_btn__mission_active_txt__m
 submodule._MercenaryMission__mission_list_data__mission_refresh_btn__mission_active_txt__mission_list_scrollbar__mercenary_mission_list_slot__mercenary_list_current_page__mercenary_list_left_btn__mercenary_list_right_btn__mission_join_btn__mission_auto_join_btn__mercenary_possible_count_txt__mercenary_possible_count_img__mercenary_info_name_text__mercenary_info_exp_text__mercenary_info_skill_text__mercenary_info_specificity_text__mission_info_data__reward_list_btn__mission_reward_list_window__current_reward_list_mission_index__mercenary_dispatch_slot__all_cancle_btn__mission_dispatch_benefit__current_state_text_1__current_state_text_2__mission_control_btn__dispatch_mercenary_dict__dispatch_mercenary_real_dict__mission_result_window__select_mission_info
 
 
-_MercenaryMission__RefreshMercenaryList,		<cyfunction MercenaryMission.__RefreshMercenaryList at 0x1AAD4AD8>
+_MercenaryMission__RefreshMercenaryList,		<cyfunction MercenaryMission.__RefreshMercenaryList at 0x171B68C8>
 	arg0: self
 
 submodule._MercenaryMission__RefreshMercenaryList
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-OverInDisPatchSlot,		<cyfunction MercenaryMission.OverInDisPatchSlot at 0x1AAD4818>
+OverInDisPatchSlot,		<cyfunction MercenaryMission.OverInDisPatchSlot at 0x171B6608>
 	arg0: self
 	arg1: slot_index
 
 submodule.OverInDisPatchSlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-RefreshMission,		<cyfunction MercenaryMission.RefreshMission at 0x1AAD3B30>
+RefreshMission,		<cyfunction MercenaryMission.RefreshMission at 0x171B5920>
 	arg0: self
 
 submodule.RefreshMission
@@ -893,23 +893,23 @@ MERCENARY_DISPATCH_MAX_SLOT,		6
 submodule.MERCENARY_DISPATCH_MAX_SLOT
 
 
-RefreshMercenaryWindow,		<cyfunction MercenaryMission.RefreshMercenaryWindow at 0x1AAD3A28>
+RefreshMercenaryWindow,		<cyfunction MercenaryMission.RefreshMercenaryWindow at 0x171B5818>
 	arg0: self
 
 submodule.RefreshMercenaryWindow
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshMercenaryInfoText,		<cyfunction MercenaryMission.__RefreshMercenaryInfoText at 0x1AAD4A28>
+_MercenaryMission__RefreshMercenaryInfoText,		<cyfunction MercenaryMission.__RefreshMercenaryInfoText at 0x171B6818>
 	arg0: self
 	arg1: slot_index
 
 submodule._MercenaryMission__RefreshMercenaryInfoText
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MissionRefreshAsk,		<cyfunction MercenaryMission.__MissionRefreshAsk at 0x1AAD3DF0>
+_MercenaryMission__MissionRefreshAsk,		<cyfunction MercenaryMission.__MissionRefreshAsk at 0x171B5BE0>
 	arg0: self
 
 submodule._MercenaryMission__MissionRefreshAsk
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshDispatchMercenaryBenefitText,		<cyfunction MercenaryMission.__RefreshDispatchMercenaryBenefitText at 0x1AAD44A8>
+_MercenaryMission__RefreshDispatchMercenaryBenefitText,		<cyfunction MercenaryMission.__RefreshDispatchMercenaryBenefitText at 0x171B6298>
 	arg0: self
 
 submodule._MercenaryMission__RefreshDispatchMercenaryBenefitText
@@ -921,14 +921,14 @@ submodule.MERCENARY_LIST_STATE_SLOT_START_INDEX
 
 SelectMissionData,		uiMercenary.SelectMissionData
 Skip: class SelectMissionData has no attribute 'func_code'
-MercenaryDispatchSuccess,		<cyfunction MercenaryMission.MercenaryDispatchSuccess at 0x1AAD3D98>
+MercenaryDispatchSuccess,		<cyfunction MercenaryMission.MercenaryDispatchSuccess at 0x171B5B88>
 	arg0: self
 	arg1: mission_vid
 	arg2: map_number
 
 submodule.MercenaryDispatchSuccess
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-MissionListImgEvent,		<cyfunction MercenaryMission.MissionListImgEvent at 0x1AAD42F0>
+MissionListImgEvent,		<cyfunction MercenaryMission.MissionListImgEvent at 0x171B60E0>
 	arg0: self
 	arg1: event_type
 	arg2: index
@@ -945,85 +945,85 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseWheelButtonDown,		<cyfunction MercenaryMission.OnMouseWheelButtonDown at 0x1AAD4450>
+OnMouseWheelButtonDown,		<cyfunction MercenaryMission.OnMouseWheelButtonDown at 0x171B6240>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryDispatchAsk,		<cyfunction MercenaryMission.__MercenaryDispatchAsk at 0x1AAD3EA0>
+_MercenaryMission__MercenaryDispatchAsk,		<cyfunction MercenaryMission.__MercenaryDispatchAsk at 0x171B5C90>
 	arg0: self
 	arg1: check_item
 
 submodule._MercenaryMission__MercenaryDispatchAsk
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryDispatch,		<cyfunction MercenaryMission.__MercenaryDispatch at 0x1AAD3EF8>
+_MercenaryMission__MercenaryDispatch,		<cyfunction MercenaryMission.__MercenaryDispatch at 0x171B5CE8>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryDispatch
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__ScrollEvent,		<cyfunction MercenaryMission.__ScrollEvent at 0x1AAD43A0>
+_MercenaryMission__ScrollEvent,		<cyfunction MercenaryMission.__ScrollEvent at 0x171B6190>
 	arg0: self
 
 submodule._MercenaryMission__ScrollEvent
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-SelectMissionMercenarySlot,		<cyfunction MercenaryMission.SelectMissionMercenarySlot at 0x1AAD4CE8>
+SelectMissionMercenarySlot,		<cyfunction MercenaryMission.SelectMissionMercenarySlot at 0x171B6AD8>
 	arg0: self
 	arg1: slot_index
 
 submodule.SelectMissionMercenarySlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-OverOutMissionMercenarySlot,		<cyfunction MercenaryMission.OverOutMissionMercenarySlot at 0x1AAD4BE0>
+OverOutMissionMercenarySlot,		<cyfunction MercenaryMission.OverOutMissionMercenarySlot at 0x171B69D0>
 	arg0: self
 
 submodule.OverOutMissionMercenarySlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshMissionInfo,		<cyfunction MercenaryMission.__RefreshMissionInfo at 0x1AAD4500>
+_MercenaryMission__RefreshMissionInfo,		<cyfunction MercenaryMission.__RefreshMissionInfo at 0x171B62F0>
 	arg0: self
 	arg1: index
 
 submodule._MercenaryMission__RefreshMissionInfo
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-OverInMissionMercenarySlot,		<cyfunction MercenaryMission.OverInMissionMercenarySlot at 0x1AAD4B88>
+OverInMissionMercenarySlot,		<cyfunction MercenaryMission.OverInMissionMercenarySlot at 0x171B6978>
 	arg0: self
 	arg1: slot_index
 
 submodule.OverInMissionMercenarySlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-MissionListStateImgEvent,		<cyfunction MercenaryMission.MissionListStateImgEvent at 0x1AAD4298>
+MissionListStateImgEvent,		<cyfunction MercenaryMission.MissionListStateImgEvent at 0x171B6088>
 	arg0: self
 	arg1: event_type
 	arg2: index
 
 submodule.MissionListStateImgEvent
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-MercenaryResultSuccess,		<cyfunction MercenaryMission.MercenaryResultSuccess at 0x1AAD3C38>
+MercenaryResultSuccess,		<cyfunction MercenaryMission.MercenaryResultSuccess at 0x171B5A28>
 	arg0: self
 	arg1: mission_vid
 	arg2: data
 
 submodule.MercenaryResultSuccess
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryMissionResultRequestDontUsingItem,		<cyfunction MercenaryMission.__MercenaryMissionResultRequestDontUsingItem at 0x1AAD4138>
+_MercenaryMission__MercenaryMissionResultRequestDontUsingItem,		<cyfunction MercenaryMission.__MercenaryMissionResultRequestDontUsingItem at 0x171B5EF8>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryMissionResultRequestDontUsingItem
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__AutoDispatch,		<cyfunction MercenaryMission.__AutoDispatch at 0x1AAD4920>
+_MercenaryMission__AutoDispatch,		<cyfunction MercenaryMission.__AutoDispatch at 0x171B6710>
 	arg0: self
 
 submodule._MercenaryMission__AutoDispatch
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshDispatchCountText,		<cyfunction MercenaryMission.__RefreshDispatchCountText at 0x1AAD4A80>
+_MercenaryMission__RefreshDispatchCountText,		<cyfunction MercenaryMission.__RefreshDispatchCountText at 0x171B6870>
 	arg0: self
 
 submodule._MercenaryMission__RefreshDispatchCountText
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-Show,		<cyfunction MercenaryMission.Show at 0x1AAD3920>
+Show,		<cyfunction MercenaryMission.Show at 0x171B5710>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__SelectFirstMission,		<cyfunction MercenaryMission.__SelectFirstMission at 0x1AAD3BE0>
+_MercenaryMission__SelectFirstMission,		<cyfunction MercenaryMission.__SelectFirstMission at 0x171B59D0>
 	arg0: self
 
 submodule._MercenaryMission__SelectFirstMission
@@ -1035,7 +1035,7 @@ submodule.__qualname__
 
 MissionInfo,		uiMercenary.MissionInfo
 Skip: class MissionInfo has no attribute 'func_code'
-_MercenaryMission__ClearMercenaryInfoText,		<cyfunction MercenaryMission.__ClearMercenaryInfoText at 0x1AAD49D0>
+_MercenaryMission__ClearMercenaryInfoText,		<cyfunction MercenaryMission.__ClearMercenaryInfoText at 0x171B67C0>
 	arg0: self
 
 submodule._MercenaryMission__ClearMercenaryInfoText
@@ -1045,23 +1045,23 @@ MERCENARY_MISSION_MAX_COUNT,		10
 submodule.MERCENARY_MISSION_MAX_COUNT
 
 
-SetUnselectMissionMercenarySlot,		<cyfunction MercenaryMission.SetUnselectMissionMercenarySlot at 0x1AAD4C38>
+SetUnselectMissionMercenarySlot,		<cyfunction MercenaryMission.SetUnselectMissionMercenarySlot at 0x171B6A28>
 	arg0: self
 	arg1: slot_index
 
 submodule.SetUnselectMissionMercenarySlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-Close,		<cyfunction MercenaryMission.Close at 0x1AAD3978>
+Close,		<cyfunction MercenaryMission.Close at 0x171B5768>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__AllCancleDispatchMercenary,		<cyfunction MercenaryMission.__AllCancleDispatchMercenary at 0x1AAD48C8>
+_MercenaryMission__AllCancleDispatchMercenary,		<cyfunction MercenaryMission.__AllCancleDispatchMercenary at 0x171B66B8>
 	arg0: self
 
 submodule._MercenaryMission__AllCancleDispatchMercenary
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MissionJoin,		<cyfunction MercenaryMission.__MissionJoin at 0x1AAD4D40>
+_MercenaryMission__MissionJoin,		<cyfunction MercenaryMission.__MissionJoin at 0x171B6B30>
 	arg0: self
 
 submodule._MercenaryMission__MissionJoin
@@ -1071,7 +1071,7 @@ __module__,		uiMercenary
 submodule.__module__
 
 
-_MercenaryMission__MercenaryMissionResultRequestUsingItem,		<cyfunction MercenaryMission.__MercenaryMissionResultRequestUsingItem at 0x1AAD40E0>
+_MercenaryMission__MercenaryMissionResultRequestUsingItem,		<cyfunction MercenaryMission.__MercenaryMissionResultRequestUsingItem at 0x171B5EA0>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryMissionResultRequestUsingItem
@@ -1081,22 +1081,22 @@ MERCENARY_LIST_SPECIFICITY_SLOT_START_INDEX,		8
 submodule.MERCENARY_LIST_SPECIFICITY_SLOT_START_INDEX
 
 
-RefreshActiveText,		<cyfunction MercenaryMission.RefreshActiveText at 0x1AAD39D0>
+RefreshActiveText,		<cyfunction MercenaryMission.RefreshActiveText at 0x171B57C0>
 	arg0: self
 
 submodule.RefreshActiveText
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryDispatchUsingItemClose,		<cyfunction MercenaryMission.__MercenaryDispatchUsingItemClose at 0x1AAD3FA8>
+_MercenaryMission__MercenaryDispatchUsingItemClose,		<cyfunction MercenaryMission.__MercenaryDispatchUsingItemClose at 0x171B5D98>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryDispatchUsingItemClose
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshResultMissionProcess,		<cyfunction MercenaryMission.__RefreshResultMissionProcess at 0x1AAD3B88>
+_MercenaryMission__RefreshResultMissionProcess,		<cyfunction MercenaryMission.__RefreshResultMissionProcess at 0x171B5978>
 	arg0: self
 
 submodule._MercenaryMission__RefreshResultMissionProcess
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshDispatchSlot,		<cyfunction MercenaryMission.__RefreshDispatchSlot at 0x1AAD47C0>
+_MercenaryMission__RefreshDispatchSlot,		<cyfunction MercenaryMission.__RefreshDispatchSlot at 0x171B65B0>
 	arg0: self
 	arg1: check_except
 	default: True
@@ -1108,48 +1108,48 @@ MERCENARY_MISSION_SHOW_MAX_COUNT,		4
 submodule.MERCENARY_MISSION_SHOW_MAX_COUNT
 
 
-_MercenaryMission__MissionRewardWindowOpen,		<cyfunction MercenaryMission.__MissionRewardWindowOpen at 0x1AAD4608>
+_MercenaryMission__MissionRewardWindowOpen,		<cyfunction MercenaryMission.__MissionRewardWindowOpen at 0x171B63F8>
 	arg0: self
 
 submodule._MercenaryMission__MissionRewardWindowOpen
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction MercenaryMission.OnMouseWheelButtonUp at 0x1AAD43F8>
+OnMouseWheelButtonUp,		<cyfunction MercenaryMission.OnMouseWheelButtonUp at 0x171B61E8>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-__init__,		<cyfunction MercenaryMission.__init__ at 0x1AAD37C0>
+__init__,		<cyfunction MercenaryMission.__init__ at 0x171B55B0>
 	arg0: self
 	arg1: parent
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__GetScrollPos,		<cyfunction MercenaryMission.__GetScrollPos at 0x1AAD4348>
+_MercenaryMission__GetScrollPos,		<cyfunction MercenaryMission.__GetScrollPos at 0x171B6138>
 	arg0: self
 
 submodule._MercenaryMission__GetScrollPos
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__Initialize,		<cyfunction MercenaryMission.__Initialize at 0x1AAD3870>
+_MercenaryMission__Initialize,		<cyfunction MercenaryMission.__Initialize at 0x171B5660>
 	arg0: self
 
 submodule._MercenaryMission__Initialize
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__LoadWindow,		<cyfunction MercenaryMission.__LoadWindow at 0x1AAD38C8>
+_MercenaryMission__LoadWindow,		<cyfunction MercenaryMission.__LoadWindow at 0x171B56B8>
 	arg0: self
 
 submodule._MercenaryMission__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-__del__,		<cyfunction MercenaryMission.__del__ at 0x1AAD3818>
+__del__,		<cyfunction MercenaryMission.__del__ at 0x171B5608>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-MercenaryMissionAllRefresh,		<cyfunction MercenaryMission.MercenaryMissionAllRefresh at 0x1AAD3CE8>
+MercenaryMissionAllRefresh,		<cyfunction MercenaryMission.MercenaryMissionAllRefresh at 0x171B5AD8>
 	arg0: self
 
 submodule.MercenaryMissionAllRefresh
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-SetUnselectDisPatchSlot,		<cyfunction MercenaryMission.SetUnselectDisPatchSlot at 0x1AAD4870>
+SetUnselectDisPatchSlot,		<cyfunction MercenaryMission.SetUnselectDisPatchSlot at 0x171B6660>
 	arg0: self
 	arg1: select_slot_index
 
@@ -1160,28 +1160,28 @@ MERCENARY_DISPATCH_STATE_START_SLOT,		12
 submodule.MERCENARY_DISPATCH_STATE_START_SLOT
 
 
-_MercenaryMission__RefreshMissionList,		<cyfunction MercenaryMission.__RefreshMissionList at 0x1AAD3AD8>
+_MercenaryMission__RefreshMissionList,		<cyfunction MercenaryMission.__RefreshMissionList at 0x171B58C8>
 	arg0: self
 
 submodule._MercenaryMission__RefreshMissionList
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryListArrowClick,		<cyfunction MercenaryMission.__MercenaryListArrowClick at 0x1AAD4B30>
+_MercenaryMission__MercenaryListArrowClick,		<cyfunction MercenaryMission.__MercenaryListArrowClick at 0x171B6920>
 	arg0: self
 	arg1: type
 
 submodule._MercenaryMission__MercenaryListArrowClick
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__SetMissionListImgDeafult,		<cyfunction MercenaryMission.__SetMissionListImgDeafult at 0x1AAD4240>
+_MercenaryMission__SetMissionListImgDeafult,		<cyfunction MercenaryMission.__SetMissionListImgDeafult at 0x171B6030>
 	arg0: self
 
 submodule._MercenaryMission__SetMissionListImgDeafult
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__SetDisPatchEmptyAllSlot,		<cyfunction MercenaryMission.__SetDisPatchEmptyAllSlot at 0x1AAD4768>
+_MercenaryMission__SetDisPatchEmptyAllSlot,		<cyfunction MercenaryMission.__SetDisPatchEmptyAllSlot at 0x171B6558>
 	arg0: self
 
 submodule._MercenaryMission__SetDisPatchEmptyAllSlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-MercenaryResultFail,		<cyfunction MercenaryMission.MercenaryResultFail at 0x1AAD3C90>
+MercenaryResultFail,		<cyfunction MercenaryMission.MercenaryResultFail at 0x171B5A80>
 	arg0: self
 	arg1: mission_vid
 	arg2: mission_name
@@ -1189,7 +1189,7 @@ MercenaryResultFail,		<cyfunction MercenaryMission.MercenaryResultFail at 0x1AAD
 
 submodule.MercenaryResultFail
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshMissionState,		<cyfunction MercenaryMission.__RefreshMissionState at 0x1AAD4D98>
+_MercenaryMission__RefreshMissionState,		<cyfunction MercenaryMission.__RefreshMissionState at 0x171B6B88>
 	arg0: self
 	arg1: state
 	arg2: data
@@ -1197,47 +1197,47 @@ _MercenaryMission__RefreshMissionState,		<cyfunction MercenaryMission.__RefreshM
 
 submodule._MercenaryMission__RefreshMissionState
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshMissionInfoNeedActiveSuccessPct,		<cyfunction MercenaryMission.__RefreshMissionInfoNeedActiveSuccessPct at 0x1AAD4558>
+_MercenaryMission__RefreshMissionInfoNeedActiveSuccessPct,		<cyfunction MercenaryMission.__RefreshMissionInfoNeedActiveSuccessPct at 0x171B6348>
 	arg0: self
 
 submodule._MercenaryMission__RefreshMissionInfoNeedActiveSuccessPct
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__RefreshAndShowMissionRewardWindow,		<cyfunction MercenaryMission.__RefreshAndShowMissionRewardWindow at 0x1AAD4660>
+_MercenaryMission__RefreshAndShowMissionRewardWindow,		<cyfunction MercenaryMission.__RefreshAndShowMissionRewardWindow at 0x171B6450>
 	arg0: self
 
 submodule._MercenaryMission__RefreshAndShowMissionRewardWindow
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
 MissionData,		uiMercenary.MissionData
 Skip: class MissionData has no attribute 'func_code'
-SetItemToolTip,		<cyfunction MercenaryMission.SetItemToolTip at 0x1AAD45B0>
+SetItemToolTip,		<cyfunction MercenaryMission.SetItemToolTip at 0x171B63A0>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-SetDispatchMercenary,		<cyfunction MercenaryMission.SetDispatchMercenary at 0x1AAD46B8>
+SetDispatchMercenary,		<cyfunction MercenaryMission.SetDispatchMercenary at 0x171B64A8>
 	arg0: self
 	arg1: mercenary_slot_index
 	arg2: data
 
 submodule.SetDispatchMercenary
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryMissionGiveUpAsk,		<cyfunction MercenaryMission.__MercenaryMissionGiveUpAsk at 0x1AAD4190>
+_MercenaryMission__MercenaryMissionGiveUpAsk,		<cyfunction MercenaryMission.__MercenaryMissionGiveUpAsk at 0x171B5F50>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryMissionGiveUpAsk
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryDispatchUsingItem,		<cyfunction MercenaryMission.__MercenaryDispatchUsingItem at 0x1AAD3F50>
+_MercenaryMission__MercenaryDispatchUsingItem,		<cyfunction MercenaryMission.__MercenaryDispatchUsingItem at 0x171B5D40>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryDispatchUsingItem
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryMissionResultRequestAsk,		<cyfunction MercenaryMission.__MercenaryMissionResultRequestAsk at 0x1AAD4030>
+_MercenaryMission__MercenaryMissionResultRequestAsk,		<cyfunction MercenaryMission.__MercenaryMissionResultRequestAsk at 0x171B5DF0>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryMissionResultRequestAsk
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-RefreshMissionRunTime,		<cyfunction MercenaryMission.RefreshMissionRunTime at 0x1AAD3A80>
+RefreshMissionRunTime,		<cyfunction MercenaryMission.RefreshMissionRunTime at 0x171B5870>
 	arg0: self
 
 submodule.RefreshMissionRunTime
@@ -1247,32 +1247,32 @@ __slots__,		__mission_list_data__mission_refresh_btn__mission_active_txt__missio
 submodule.__slots__
 
 
-MercenaryGiveUpSuccess,		<cyfunction MercenaryMission.MercenaryGiveUpSuccess at 0x1AAD3D40>
+MercenaryGiveUpSuccess,		<cyfunction MercenaryMission.MercenaryGiveUpSuccess at 0x171B5B30>
 	arg0: self
 	arg1: mission_vid
 	arg2: map_number
 
 submodule.MercenaryGiveUpSuccess
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__SetDisPatchEmptySlot,		<cyfunction MercenaryMission.__SetDisPatchEmptySlot at 0x1AAD4710>
+_MercenaryMission__SetDisPatchEmptySlot,		<cyfunction MercenaryMission.__SetDisPatchEmptySlot at 0x171B6500>
 	arg0: self
 	arg1: slot_index
 
 submodule._MercenaryMission__SetDisPatchEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryMissionGiveUp,		<cyfunction MercenaryMission.__MercenaryMissionGiveUp at 0x1AAD41E8>
+_MercenaryMission__MercenaryMissionGiveUp,		<cyfunction MercenaryMission.__MercenaryMissionGiveUp at 0x171B5FA8>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryMissionGiveUp
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
-_MercenaryMission__MercenaryMissionResultRequest,		<cyfunction MercenaryMission.__MercenaryMissionResultRequest at 0x1AAD4088>
+_MercenaryMission__MercenaryMissionResultRequest,		<cyfunction MercenaryMission.__MercenaryMissionResultRequest at 0x171B5E48>
 	arg0: self
 
 submodule._MercenaryMission__MercenaryMissionResultRequest
 Skipped: unbound method cython_function_or_method object must be called with MercenaryMission instance as first argument (got nothing instead)
 MissionDispatchBenefit,		uiMercenary.MissionDispatchBenefit
 Skip: class MissionDispatchBenefit has no attribute 'func_code'
-_MercenaryMission__MissionRefresh,		<cyfunction MercenaryMission.__MissionRefresh at 0x1AAD3E48>
+_MercenaryMission__MissionRefresh,		<cyfunction MercenaryMission.__MissionRefresh at 0x171B5C38>
 	arg0: self
 
 submodule._MercenaryMission__MissionRefresh
