@@ -161,7 +161,6 @@
          {'name': 'FRIEND_SELECT_UI_SHOW_MAX', 'type': 'int', 'value': 10},
          {'name': 'GM_ICON_PATH', 'type': 'str', 'value': 'd:/ymir work/ui/game/mailbox/mailbox_icon_gm.sub'},
          {'name': 'ITEM_ICON_PATH', 'type': 'str', 'value': 'd:/ymir work/ui/game/mailbox/mailbox_icon_item.sub'},
-         {'name': 'MAILBOX_MAX_DISTANCE', 'type': 'int', 'value': 1000},
          {'name': 'MAX_CHEQUE', 'type': 'int', 'value': 999},
          {'name': 'MAX_YANG', 'type': 'int', 'value': 9998999},
          {'name': 'POST_ICON_PATH', 'type': 'str', 'value': 'd:/ymir work/ui/game/mailbox/mailbox_icon_post.sub'},

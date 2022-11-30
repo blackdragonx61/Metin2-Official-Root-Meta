@@ -29,7 +29,6 @@
             'var': [{'name': 'CHANGELOOK_SLOT_LEFT', 'type': 'int', 'value': 0},
                     {'name': 'CHANGELOOK_SLOT_MAX', 'type': 'int', 'value': 2},
                     {'name': 'CHANGELOOK_SLOT_RIGHT', 'type': 'int', 'value': 1},
-                    {'name': 'USE_CHANGELOOKWINDOW_LIMIT_RANGE', 'type': 'int', 'value': 500},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'uiChangeLook'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'ChangeLookWindow'}]}],

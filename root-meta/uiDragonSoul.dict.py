@@ -3,6 +3,8 @@
                      {'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},
+                     {'args': ['self'], 'defaults': [], 'name': 'OnUpdate'},
+                     {'args': ['self'], 'defaults': [], 'name': 'Open'},
                      {'args': ['self', 'reason', 'inven_type', 'inven_pos'], 'defaults': [], 'name': 'RefineFail'},
                      {'args': ['self', 'inven_type', 'inven_pos'], 'defaults': [], 'name': 'RefineSucceed'},
                      {'args': ['self'], 'defaults': [], 'name': 'Refresh'},

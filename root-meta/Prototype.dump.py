@@ -4,7 +4,7 @@ key: app, val: <module 'app' (built-in)>
 key: dbg, val: <module 'dbg' (built-in)>
 key: __package__, val: None
 key: systemSetting, val: <module 'systemSetting' (built-in)>
-key: RunApp, val: <cyfunction RunApp at 0x0ABD0660>
+key: RunApp, val: <cyfunction RunApp at 0x0CB796B8>
 key: musicInfo, val: <module 'musicInfo' (built-in)>
 key: mouseModule, val: <module 'mouseModule' (built-in)>
 key: wndMgr, val: <module 'wndMgr' (built-in)>

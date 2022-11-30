@@ -2,6 +2,7 @@
  'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetCurrentSafeboxSize'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetGuildBankInfoData'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetGuildBankInfoSize'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemApplyRandom'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemAttribute'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemChangeLookVnum'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemCount'},

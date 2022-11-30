@@ -21,6 +21,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsBoomMap'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsLateSummerEventMap'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsMapInfoByMapName'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsNewWorldGuildMap'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsReviveTargetMap'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterDungeonMapName'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterEnvironmentData'},

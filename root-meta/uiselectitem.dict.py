@@ -1,6 +1,7 @@
 {'class': [{'class': [],
             'func': [{'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'LoadWindow'},
+                     {'args': ['self'], 'defaults': [], 'name': 'OnUpdate'},
                      {'args': ['self'], 'defaults': [], 'name': 'Open'},
                      {'args': ['self', 'slotIndex'], 'defaults': [], 'name': 'OverInItem'},
                      {'args': ['self'], 'defaults': [], 'name': 'OverOutItem'},
@@ -13,5 +14,5 @@
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiselectitem'}, {'name': '__qualname__', 'type': 'str', 'value': 'SelectItemWindow'}]}],
  'func': [],
- 'import': ['__builtin__', 'app', 'item', 'm2netm2g', 'playerm2g2', 'ui', 'wndMgr'],
+ 'import': ['__builtin__', 'app', 'item', 'm2netm2g', 'playerm2g2', 'ui', 'mouseModule', 'wndMgr'],
  'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiselectitem'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

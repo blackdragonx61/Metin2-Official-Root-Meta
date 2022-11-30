@@ -7,6 +7,8 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetChequeFromTarget'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetElkFromSelf'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetElkFromTarget'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemApplyRandomFromSelf'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemApplyRandomFromTarget'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemAttributeFromSelf'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemAttributeFromTarget'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemCountFromSelf'},

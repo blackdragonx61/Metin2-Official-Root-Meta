@@ -28,7 +28,6 @@
             'import': [],
             'var': [{'name': 'RESPONSE_TIME_OUT', 'type': 'int', 'value': 10000},
                     {'name': 'ROULETTE_SLOT_MAX', 'type': 'int', 'value': 20},
-                    {'name': 'USE_LIMIT_RANGE', 'type': 'int', 'value': 2000},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'uiMiniGameRoulette'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'RouletteWindow'},

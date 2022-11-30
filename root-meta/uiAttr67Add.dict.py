@@ -42,7 +42,6 @@
          {'name': 'ROOT_PATH', 'type': 'str', 'value': 'd:/ymir work/ui/game/attr6th7th/'},
          {'name': 'SUCCESS_PER_MATERIAL', 'type': 'float', 'value': 2.0},
          {'name': 'SUPPORT_MAX_COUNT', 'type': 'int', 'value': 5},
-         {'name': 'USE_LIMIT_RANGE', 'type': 'int', 'value': 1000},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
          {'name': '__name__', 'type': 'str', 'value': 'uiAttr67Add'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},

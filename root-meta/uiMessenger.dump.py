@@ -42,17 +42,17 @@ __module__,		uiMessenger
 submodule.__module__
 
 
-CanRemove,		<cyfunction MessengerBlockFriendItem.CanRemove at 0x0AF30D40>
+CanRemove,		<cyfunction MessengerBlockFriendItem.CanRemove at 0x1C6C7FA8>
 	arg0: self
 
 submodule.CanRemove
 Skipped: unbound method cython_function_or_method object must be called with MessengerBlockFriendItem instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerBlockFriendItem.__del__ at 0x0AF30CE8>
+__del__,		<cyfunction MessengerBlockFriendItem.__del__ at 0x1C6C7F50>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MessengerBlockFriendItem instance as first argument (got nothing instead)
-OnRemove,		<cyfunction MessengerBlockFriendItem.OnRemove at 0x0AF30D98>
+OnRemove,		<cyfunction MessengerBlockFriendItem.OnRemove at 0x1C6C8030>
 	arg0: self
 
 submodule.OnRemove
@@ -62,7 +62,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MessengerBlockFriendItem.__init__ at 0x0AF30C90>
+__init__,		<cyfunction MessengerBlockFriendItem.__init__ at 0x1C6C7EF8>
 	arg0: self
 	arg1: getParentEvent
 
@@ -76,17 +76,17 @@ __module__,		uiMessenger
 submodule.__module__
 
 
-__del__,		<cyfunction MessengerGuildItem.__del__ at 0x0AF308C8>
+__del__,		<cyfunction MessengerGuildItem.__del__ at 0x1C6C7B30>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MessengerGuildItem instance as first argument (got nothing instead)
-OnRemove,		<cyfunction MessengerGuildItem.OnRemove at 0x0AF30A28>
+OnRemove,		<cyfunction MessengerGuildItem.OnRemove at 0x1C6C7C90>
 	arg0: self
 
 submodule.OnRemove
 Skipped: unbound method cython_function_or_method object must be called with MessengerGuildItem instance as first argument (got nothing instead)
-CanWarp,		<cyfunction MessengerGuildItem.CanWarp at 0x0AF30920>
+CanWarp,		<cyfunction MessengerGuildItem.CanWarp at 0x1C6C7B88>
 	arg0: self
 
 submodule.CanWarp
@@ -96,7 +96,7 @@ __qualname__,		MessengerGuildItem
 submodule.__qualname__
 
 
-CanRemove,		<cyfunction MessengerGuildItem.CanRemove at 0x0AF309D0>
+CanRemove,		<cyfunction MessengerGuildItem.CanRemove at 0x1C6C7C38>
 	arg0: self
 
 submodule.CanRemove
@@ -106,13 +106,13 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MessengerGuildItem.__init__ at 0x0AF30870>
+__init__,		<cyfunction MessengerGuildItem.__init__ at 0x1C6C7AD8>
 	arg0: self
 	arg1: getParentEvent
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MessengerGuildItem instance as first argument (got nothing instead)
-OnWarp,		<cyfunction MessengerGuildItem.OnWarp at 0x0AF30978>
+OnWarp,		<cyfunction MessengerGuildItem.OnWarp at 0x1C6C7BE0>
 	arg0: self
 
 submodule.OnWarp
@@ -120,14 +120,14 @@ Skipped: unbound method cython_function_or_method object must be called with Mes
 
 
 class MessengerBlockGroup:
-AppendMember,		<cyfunction MessengerBlockGroup.AppendMember at 0x0AF30EA0>
+AppendMember,		<cyfunction MessengerBlockGroup.AppendMember at 0x1C6C8138>
 	arg0: self
 	arg1: key
 	arg2: name
 
 submodule.AppendMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerBlockGroup instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerBlockGroup.__del__ at 0x0AF30E48>
+__del__,		<cyfunction MessengerBlockGroup.__del__ at 0x1C6C80E0>
 	arg0: self
 
 submodule.__del__
@@ -147,7 +147,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MessengerBlockGroup.__init__ at 0x0AF30DF0>
+__init__,		<cyfunction MessengerBlockGroup.__init__ at 0x1C6C8088>
 	arg0: self
 	arg1: getParentEvent
 
@@ -156,22 +156,22 @@ Skipped: unbound method cython_function_or_method object must be called with Mes
 
 
 class MessengerItem:
-GetStepWidth,		<cyfunction MessengerItem.GetStepWidth at 0x0AF2FA80>
+GetStepWidth,		<cyfunction MessengerItem.GetStepWidth at 0x1C6C6CE8>
 	arg0: self
 
 submodule.GetStepWidth
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-OnMouseOverOut,		<cyfunction MessengerItem.OnMouseOverOut at 0x0AF2FD98>
+OnMouseOverOut,		<cyfunction MessengerItem.OnMouseOverOut at 0x1C6C7030>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerItem.__del__ at 0x0AF2F870>
+__del__,		<cyfunction MessengerItem.__del__ at 0x1C6C6AD8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-GetName,		<cyfunction MessengerItem.GetName at 0x0AF2FA28>
+GetName,		<cyfunction MessengerItem.GetName at 0x1C6C6C90>
 	arg0: self
 
 submodule.GetName
@@ -181,64 +181,64 @@ __module__,		uiMessenger
 submodule.__module__
 
 
-CanWarp,		<cyfunction MessengerItem.CanWarp at 0x0AF2FC90>
+CanWarp,		<cyfunction MessengerItem.CanWarp at 0x1C6C6EF8>
 	arg0: self
 
 submodule.CanWarp
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-CanRemove,		<cyfunction MessengerItem.CanRemove at 0x0AF2FBE0>
+CanRemove,		<cyfunction MessengerItem.CanRemove at 0x1C6C6E48>
 	arg0: self
 
 submodule.CanRemove
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-OnWhisper,		<cyfunction MessengerItem.OnWhisper at 0x0AF2FB88>
+OnWhisper,		<cyfunction MessengerItem.OnWhisper at 0x1C6C6DF0>
 	arg0: self
 
 submodule.OnWhisper
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-__init__,		<cyfunction MessengerItem.__init__ at 0x0AF2F818>
+__init__,		<cyfunction MessengerItem.__init__ at 0x1C6C6A80>
 	arg0: self
 	arg1: getParentEvent
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-IsOnline,		<cyfunction MessengerItem.IsOnline at 0x0AF2FB30>
+IsOnline,		<cyfunction MessengerItem.IsOnline at 0x1C6C6D98>
 	arg0: self
 
 submodule.IsOnline
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-OnMouseLeftButtonDown,		<cyfunction MessengerItem.OnMouseLeftButtonDown at 0x0AF2FDF0>
+OnMouseLeftButtonDown,		<cyfunction MessengerItem.OnMouseLeftButtonDown at 0x1C6C7088>
 	arg0: self
 
 submodule.OnMouseLeftButtonDown
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-OnRender,		<cyfunction MessengerItem.OnRender at 0x0AF2FEA0>
+OnRender,		<cyfunction MessengerItem.OnRender at 0x1C6C7138>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-SetName,		<cyfunction MessengerItem.SetName at 0x0AF2F8C8>
+SetName,		<cyfunction MessengerItem.SetName at 0x1C6C6B30>
 	arg0: self
 	arg1: name
 
 submodule.SetName
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-UnSelect,		<cyfunction MessengerItem.UnSelect at 0x0AF2F9D0>
+UnSelect,		<cyfunction MessengerItem.UnSelect at 0x1C6C6C38>
 	arg0: self
 
 submodule.UnSelect
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-OnRemove,		<cyfunction MessengerItem.OnRemove at 0x0AF2FC38>
+OnRemove,		<cyfunction MessengerItem.OnRemove at 0x1C6C6EA0>
 	arg0: self
 
 submodule.OnRemove
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-OnMouseLeftButtonDoubleClick,		<cyfunction MessengerItem.OnMouseLeftButtonDoubleClick at 0x0AF2FE48>
+OnMouseLeftButtonDoubleClick,		<cyfunction MessengerItem.OnMouseLeftButtonDoubleClick at 0x1C6C70E0>
 	arg0: self
 
 submodule.OnMouseLeftButtonDoubleClick
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-SetLovePoint,		<cyfunction MessengerItem.SetLovePoint at 0x0AF2F920>
+SetLovePoint,		<cyfunction MessengerItem.SetLovePoint at 0x1C6C6B88>
 	arg0: self
 	arg1: lovePoint
 
@@ -249,12 +249,12 @@ __qualname__,		MessengerItem
 submodule.__qualname__
 
 
-CanWhisper,		<cyfunction MessengerItem.CanWhisper at 0x0AF2FAD8>
+CanWhisper,		<cyfunction MessengerItem.CanWhisper at 0x1C6C6D40>
 	arg0: self
 
 submodule.CanWhisper
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction MessengerItem.OnMouseOverIn at 0x0AF2FD40>
+OnMouseOverIn,		<cyfunction MessengerItem.OnMouseOverIn at 0x1C6C6FA8>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -264,12 +264,12 @@ __doc__,		None
 submodule.__doc__
 
 
-Select,		<cyfunction MessengerItem.Select at 0x0AF2F978>
+Select,		<cyfunction MessengerItem.Select at 0x1C6C6BE0>
 	arg0: self
 
 submodule.Select
 Skipped: unbound method cython_function_or_method object must be called with MessengerItem instance as first argument (got nothing instead)
-OnWarp,		<cyfunction MessengerItem.OnWarp at 0x0AF2FCE8>
+OnWarp,		<cyfunction MessengerItem.OnWarp at 0x1C6C6F50>
 	arg0: self
 
 submodule.OnWarp
@@ -277,7 +277,7 @@ Skipped: unbound method cython_function_or_method object must be called with Mes
 
 
 class MessengerWindow:
-OnDoubleClickItem,		<cyfunction MessengerWindow.OnDoubleClickItem at 0x0AF32A28>
+OnDoubleClickItem,		<cyfunction MessengerWindow.OnDoubleClickItem at 0x1C6C8C90>
 	arg0: self
 	arg1: item
 
@@ -288,57 +288,57 @@ __module__,		uiMessenger
 submodule.__module__
 
 
-OnAddFriend,		<cyfunction MessengerWindow.OnAddFriend at 0x0AF32768>
+OnAddFriend,		<cyfunction MessengerWindow.OnAddFriend at 0x1C6C89D0>
 	arg0: self
 
 submodule.OnAddFriend
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
 ResizeButton,		<class 'uiMessenger.ResizeButton'>
 Skip: type object 'ResizeButton' has no attribute 'func_code'
-OnCloseQuestionDialog,		<cyfunction MessengerWindow.OnCloseQuestionDialog at 0x0AF322F0>
+OnCloseQuestionDialog,		<cyfunction MessengerWindow.OnCloseQuestionDialog at 0x1C6C8558>
 	arg0: self
 
 submodule.OnCloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnCancelAddFriend,		<cyfunction MessengerWindow.OnCancelAddFriend at 0x0AF327C0>
+OnCancelAddFriend,		<cyfunction MessengerWindow.OnCancelAddFriend at 0x1C6C8A28>
 	arg0: self
 
 submodule.OnCancelAddFriend
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-GetSelf,		<cyfunction MessengerWindow.GetSelf at 0x0AF32A80>
+GetSelf,		<cyfunction MessengerWindow.GetSelf at 0x1C6C8CE8>
 	arg0: self
 
 submodule.GetSelf
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-_MessengerWindow__AddGroup,		<cyfunction MessengerWindow.__AddGroup at 0x0AF324A8>
+_MessengerWindow__AddGroup,		<cyfunction MessengerWindow.__AddGroup at 0x1C6C8710>
 	arg0: self
 
 submodule._MessengerWindow__AddGroup
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnPressGuildButton,		<cyfunction MessengerWindow.OnPressGuildButton at 0x0AF326B8>
+OnPressGuildButton,		<cyfunction MessengerWindow.OnPressGuildButton at 0x1C6C8920>
 	arg0: self
 
 submodule.OnPressGuildButton
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnRemoveAllList,		<cyfunction MessengerWindow.OnRemoveAllList at 0x0AF32C38>
+OnRemoveAllList,		<cyfunction MessengerWindow.OnRemoveAllList at 0x1C6C8EA0>
 	arg0: self
 	arg1: groupIndex
 
 submodule.OnRemoveAllList
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction MessengerWindow.Destroy at 0x0AF32298>
+Destroy,		<cyfunction MessengerWindow.Destroy at 0x1C6C8500>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-SetSize,		<cyfunction MessengerWindow.SetSize at 0x0AF323A0>
+SetSize,		<cyfunction MessengerWindow.SetSize at 0x1C6C8608>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.SetSize
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnLogin,		<cyfunction MessengerWindow.OnLogin at 0x0AF32C90>
+OnLogin,		<cyfunction MessengerWindow.OnLogin at 0x1C6C8EF8>
 	arg0: self
 	arg1: groupIndex
 	arg2: key
@@ -347,17 +347,17 @@ OnLogin,		<cyfunction MessengerWindow.OnLogin at 0x0AF32C90>
 
 submodule.OnLogin
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction MessengerWindow.__init__ at 0x0AF32138>
+__init__,		<cyfunction MessengerWindow.__init__ at 0x1C6C83A0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnCloseInputDialog,		<cyfunction MessengerWindow.OnCloseInputDialog at 0x0AF32660>
+OnCloseInputDialog,		<cyfunction MessengerWindow.OnCloseInputDialog at 0x1C6C88C8>
 	arg0: self
 
 submodule.OnCloseInputDialog
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-_MessengerWindow__AddList,		<cyfunction MessengerWindow.__AddList at 0x0AF32B88>
+_MessengerWindow__AddList,		<cyfunction MessengerWindow.__AddList at 0x1C6C8DF0>
 	arg0: self
 	arg1: groupIndex
 	arg2: key
@@ -365,29 +365,29 @@ _MessengerWindow__AddList,		<cyfunction MessengerWindow.__AddList at 0x0AF32B88>
 
 submodule._MessengerWindow__AddList
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnPressAddFriendButton,		<cyfunction MessengerWindow.OnPressAddFriendButton at 0x0AF32710>
+OnPressAddFriendButton,		<cyfunction MessengerWindow.OnPressAddFriendButton at 0x1C6C8978>
 	arg0: self
 
 submodule.OnPressAddFriendButton
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnLogoutLover,		<cyfunction MessengerWindow.OnLogoutLover at 0x0AF32E48>
+OnLogoutLover,		<cyfunction MessengerWindow.OnLogoutLover at 0x1C6CA0E0>
 	arg0: self
 
 submodule.OnLogoutLover
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnResizeDialog,		<cyfunction MessengerWindow.OnResizeDialog at 0x0AF323F8>
+OnResizeDialog,		<cyfunction MessengerWindow.OnResizeDialog at 0x1C6C8660>
 	arg0: self
 
 submodule.OnResizeDialog
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnAddLover,		<cyfunction MessengerWindow.OnAddLover at 0x0AF32D40>
+OnAddLover,		<cyfunction MessengerWindow.OnAddLover at 0x1C6C8FA8>
 	arg0: self
 	arg1: name
 	arg2: lovePoint
 
 submodule.OnAddLover
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnSelectItem,		<cyfunction MessengerWindow.OnSelectItem at 0x0AF329D0>
+OnSelectItem,		<cyfunction MessengerWindow.OnSelectItem at 0x1C6C8C38>
 	arg0: self
 	arg1: item
 
@@ -398,7 +398,7 @@ START_POSITION,		40
 submodule.START_POSITION
 
 
-RefreshMessenger,		<cyfunction MessengerWindow.RefreshMessenger at 0x0AF32B30>
+RefreshMessenger,		<cyfunction MessengerWindow.RefreshMessenger at 0x1C6C8D98>
 	arg0: self
 
 submodule.RefreshMessenger
@@ -408,112 +408,112 @@ __doc__,		None
 submodule.__doc__
 
 
-OnPressRemoveButton,		<cyfunction MessengerWindow.OnPressRemoveButton at 0x0AF32870>
+OnPressRemoveButton,		<cyfunction MessengerWindow.OnPressRemoveButton at 0x1C6C8AD8>
 	arg0: self
 
 submodule.OnPressRemoveButton
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-_MessengerWindow__AddFamilyGroup,		<cyfunction MessengerWindow.__AddFamilyGroup at 0x0AF32500>
+_MessengerWindow__AddFamilyGroup,		<cyfunction MessengerWindow.__AddFamilyGroup at 0x1C6C8768>
 	arg0: self
 
 submodule._MessengerWindow__AddFamilyGroup
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnBlockFriend,		<cyfunction MessengerWindow.OnBlockFriend at 0x0AF32F50>
+OnBlockFriend,		<cyfunction MessengerWindow.OnBlockFriend at 0x1C6CA1E8>
 	arg0: self
 
 submodule.OnBlockFriend
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerWindow.__del__ at 0x0AF32240>
+__del__,		<cyfunction MessengerWindow.__del__ at 0x1C6C84A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnPressBlockButton,		<cyfunction MessengerWindow.OnPressBlockButton at 0x0AF32EF8>
+OnPressBlockButton,		<cyfunction MessengerWindow.OnPressBlockButton at 0x1C6CA190>
 	arg0: self
 
 submodule.OnPressBlockButton
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-ClearLoverInfo,		<cyfunction MessengerWindow.ClearLoverInfo at 0x0AF32EA0>
+ClearLoverInfo,		<cyfunction MessengerWindow.ClearLoverInfo at 0x1C6CA138>
 	arg0: self
 
 submodule.ClearLoverInfo
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnScroll,		<cyfunction MessengerWindow.OnScroll at 0x0AF32920>
+OnScroll,		<cyfunction MessengerWindow.OnScroll at 0x1C6C8B88>
 	arg0: self
 
 submodule.OnScroll
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-_MessengerWindow__LoadWindow,		<cyfunction MessengerWindow.__LoadWindow at 0x0AF321E8>
+_MessengerWindow__LoadWindow,		<cyfunction MessengerWindow.__LoadWindow at 0x1C6C8450>
 	arg0: self
 
 submodule._MessengerWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction MessengerWindow.OnPressEscapeKey at 0x0AF32978>
+OnPressEscapeKey,		<cyfunction MessengerWindow.OnPressEscapeKey at 0x1C6C8BE0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-_MessengerWindow__LocateMember,		<cyfunction MessengerWindow.__LocateMember at 0x0AF32450>
+_MessengerWindow__LocateMember,		<cyfunction MessengerWindow.__LocateMember at 0x1C6C86B8>
 	arg0: self
 
 submodule._MessengerWindow__LocateMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnRemoveList,		<cyfunction MessengerWindow.OnRemoveList at 0x0AF32BE0>
+OnRemoveList,		<cyfunction MessengerWindow.OnRemoveList at 0x1C6C8E48>
 	arg0: self
 	arg1: groupIndex
 	arg2: key
 
 submodule.OnRemoveList
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnRefreshList,		<cyfunction MessengerWindow.OnRefreshList at 0x0AF32AD8>
+OnRefreshList,		<cyfunction MessengerWindow.OnRefreshList at 0x1C6C8D40>
 	arg0: self
 
 submodule.OnRefreshList
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-ClearGuildMember,		<cyfunction MessengerWindow.ClearGuildMember at 0x0AF32558>
+ClearGuildMember,		<cyfunction MessengerWindow.ClearGuildMember at 0x1C6C87C0>
 	arg0: self
 
 submodule.ClearGuildMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-SetWhisperButtonEvent,		<cyfunction MessengerWindow.SetWhisperButtonEvent at 0x0AF325B0>
+SetWhisperButtonEvent,		<cyfunction MessengerWindow.SetWhisperButtonEvent at 0x1C6C8818>
 	arg0: self
 	arg1: event
 
 submodule.SetWhisperButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-SetGuildButtonEvent,		<cyfunction MessengerWindow.SetGuildButtonEvent at 0x0AF32608>
+SetGuildButtonEvent,		<cyfunction MessengerWindow.SetGuildButtonEvent at 0x1C6C8870>
 	arg0: self
 	arg1: event
 
 submodule.SetGuildButtonEvent
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnCancelBlockFriend,		<cyfunction MessengerWindow.OnCancelBlockFriend at 0x0AF32FA8>
+OnCancelBlockFriend,		<cyfunction MessengerWindow.OnCancelBlockFriend at 0x1C6CA240>
 	arg0: self
 
 submodule.OnCancelBlockFriend
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-Show,		<cyfunction MessengerWindow.Show at 0x0AF32190>
+Show,		<cyfunction MessengerWindow.Show at 0x1C6C83F8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnPressWhisperButton,		<cyfunction MessengerWindow.OnPressWhisperButton at 0x0AF32818>
+OnPressWhisperButton,		<cyfunction MessengerWindow.OnPressWhisperButton at 0x1C6C8A80>
 	arg0: self
 
 submodule.OnPressWhisperButton
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnRemove,		<cyfunction MessengerWindow.OnRemove at 0x0AF328C8>
+OnRemove,		<cyfunction MessengerWindow.OnRemove at 0x1C6C8B30>
 	arg0: self
 
 submodule.OnRemove
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnUpdateLovePoint,		<cyfunction MessengerWindow.OnUpdateLovePoint at 0x0AF32D98>
+OnUpdateLovePoint,		<cyfunction MessengerWindow.OnUpdateLovePoint at 0x1C6CA030>
 	arg0: self
 	arg1: lovePoint
 
 submodule.OnUpdateLovePoint
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-OnLogout,		<cyfunction MessengerWindow.OnLogout at 0x0AF32CE8>
+OnLogout,		<cyfunction MessengerWindow.OnLogout at 0x1C6C8F50>
 	arg0: self
 	arg1: groupIndex
 	arg2: key
@@ -527,12 +527,12 @@ __qualname__,		MessengerWindow
 submodule.__qualname__
 
 
-OnLoginLover,		<cyfunction MessengerWindow.OnLoginLover at 0x0AF32DF0>
+OnLoginLover,		<cyfunction MessengerWindow.OnLoginLover at 0x1C6CA088>
 	arg0: self
 
 submodule.OnLoginLover
 Skipped: unbound method cython_function_or_method object must be called with MessengerWindow instance as first argument (got nothing instead)
-Close,		<cyfunction MessengerWindow.Close at 0x0AF32348>
+Close,		<cyfunction MessengerWindow.Close at 0x1C6C85B0>
 	arg0: self
 
 submodule.Close
@@ -550,24 +550,24 @@ __module__,		uiMessenger
 submodule.__module__
 
 
-GetLover,		<cyfunction MessengerFamilyGroup.GetLover at 0x0AF32030>
+GetLover,		<cyfunction MessengerFamilyGroup.GetLover at 0x1C6C8298>
 	arg0: self
 
 submodule.GetLover
 Skipped: unbound method cython_function_or_method object must be called with MessengerFamilyGroup instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerFamilyGroup.__del__ at 0x0AF30F50>
+__del__,		<cyfunction MessengerFamilyGroup.__del__ at 0x1C6C81E8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MessengerFamilyGroup instance as first argument (got nothing instead)
-AppendMember,		<cyfunction MessengerFamilyGroup.AppendMember at 0x0AF30FA8>
+AppendMember,		<cyfunction MessengerFamilyGroup.AppendMember at 0x1C6C8240>
 	arg0: self
 	arg1: key
 	arg2: name
 
 submodule.AppendMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerFamilyGroup instance as first argument (got nothing instead)
-__init__,		<cyfunction MessengerFamilyGroup.__init__ at 0x0AF30EF8>
+__init__,		<cyfunction MessengerFamilyGroup.__init__ at 0x1C6C8190>
 	arg0: self
 	arg1: getParentEvent
 
@@ -581,14 +581,14 @@ submodule.__doc__
 
 
 class MessengerGuildGroup:
-AppendMember,		<cyfunction MessengerGuildGroup.AppendMember at 0x0AF30C38>
+AppendMember,		<cyfunction MessengerGuildGroup.AppendMember at 0x1C6C7EA0>
 	arg0: self
 	arg1: key
 	arg2: name
 
 submodule.AppendMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerGuildGroup instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerGuildGroup.__del__ at 0x0AF30BE0>
+__del__,		<cyfunction MessengerGuildGroup.__del__ at 0x1C6C7E48>
 	arg0: self
 
 submodule.__del__
@@ -608,7 +608,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MessengerGuildGroup.__init__ at 0x0AF30B88>
+__init__,		<cyfunction MessengerGuildGroup.__init__ at 0x1C6C7DF0>
 	arg0: self
 	arg1: getParentEvent
 
@@ -617,7 +617,7 @@ Skipped: unbound method cython_function_or_method object must be called with Mes
 
 
 class MessengerMemberItem:
-GetStepWidth,		<cyfunction MessengerMemberItem.GetStepWidth at 0x0AF2FFA8>
+GetStepWidth,		<cyfunction MessengerMemberItem.GetStepWidth at 0x1C6C7240>
 	arg0: self
 
 submodule.GetStepWidth
@@ -627,7 +627,7 @@ STATE_OFFLINE,		0
 submodule.STATE_OFFLINE
 
 
-__del__,		<cyfunction MessengerMemberItem.__del__ at 0x0AF2FF50>
+__del__,		<cyfunction MessengerMemberItem.__del__ at 0x1C6C71E8>
 	arg0: self
 
 submodule.__del__
@@ -642,34 +642,34 @@ __module__,		uiMessenger
 submodule.__module__
 
 
-SetKey,		<cyfunction MessengerMemberItem.SetKey at 0x0AF30030>
+SetKey,		<cyfunction MessengerMemberItem.SetKey at 0x1C6C7298>
 	arg0: self
 	arg1: key
 
 submodule.SetKey
 Skipped: unbound method cython_function_or_method object must be called with MessengerMemberItem instance as first argument (got nothing instead)
-Online,		<cyfunction MessengerMemberItem.Online at 0x0AF30138>
+Online,		<cyfunction MessengerMemberItem.Online at 0x1C6C73A0>
 	arg0: self
 
 submodule.Online
 Skipped: unbound method cython_function_or_method object must be called with MessengerMemberItem instance as first argument (got nothing instead)
-Offline,		<cyfunction MessengerMemberItem.Offline at 0x0AF30190>
+Offline,		<cyfunction MessengerMemberItem.Offline at 0x1C6C73F8>
 	arg0: self
 
 submodule.Offline
 Skipped: unbound method cython_function_or_method object must be called with MessengerMemberItem instance as first argument (got nothing instead)
-CanWhisper,		<cyfunction MessengerMemberItem.CanWhisper at 0x0AF301E8>
+CanWhisper,		<cyfunction MessengerMemberItem.CanWhisper at 0x1C6C7450>
 	arg0: self
 
 submodule.CanWhisper
 Skipped: unbound method cython_function_or_method object must be called with MessengerMemberItem instance as first argument (got nothing instead)
-__init__,		<cyfunction MessengerMemberItem.__init__ at 0x0AF2FEF8>
+__init__,		<cyfunction MessengerMemberItem.__init__ at 0x1C6C7190>
 	arg0: self
 	arg1: getParentEvent
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MessengerMemberItem instance as first argument (got nothing instead)
-IsOnline,		<cyfunction MessengerMemberItem.IsOnline at 0x0AF300E0>
+IsOnline,		<cyfunction MessengerMemberItem.IsOnline at 0x1C6C7348>
 	arg0: self
 
 submodule.IsOnline
@@ -684,13 +684,13 @@ IMAGE_FILE_NAME,		{'OFFLINE': 'd:/ymir work/ui/game/windows/messenger_list_offli
 submodule.IMAGE_FILE_NAME
 
 
-IsSameKey,		<cyfunction MessengerMemberItem.IsSameKey at 0x0AF30088>
+IsSameKey,		<cyfunction MessengerMemberItem.IsSameKey at 0x1C6C72F0>
 	arg0: self
 	arg1: key
 
 submodule.IsSameKey
 Skipped: unbound method cython_function_or_method object must be called with MessengerMemberItem instance as first argument (got nothing instead)
-OnWhisper,		<cyfunction MessengerMemberItem.OnWhisper at 0x0AF30240>
+OnWhisper,		<cyfunction MessengerMemberItem.OnWhisper at 0x1C6C74A8>
 	arg0: self
 
 submodule.OnWhisper
@@ -700,7 +700,7 @@ __doc__,		None
 submodule.__doc__
 
 
-Select,		<cyfunction MessengerMemberItem.Select at 0x0AF30298>
+Select,		<cyfunction MessengerMemberItem.Select at 0x1C6C7500>
 	arg0: self
 
 submodule.Select
@@ -718,17 +718,17 @@ __module__,		uiMessenger
 submodule.__module__
 
 
-CanRemove,		<cyfunction MessengerFriendItem.CanRemove at 0x0AF307C0>
+CanRemove,		<cyfunction MessengerFriendItem.CanRemove at 0x1C6C7A28>
 	arg0: self
 
 submodule.CanRemove
 Skipped: unbound method cython_function_or_method object must be called with MessengerFriendItem instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerFriendItem.__del__ at 0x0AF30768>
+__del__,		<cyfunction MessengerFriendItem.__del__ at 0x1C6C79D0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MessengerFriendItem instance as first argument (got nothing instead)
-OnRemove,		<cyfunction MessengerFriendItem.OnRemove at 0x0AF30818>
+OnRemove,		<cyfunction MessengerFriendItem.OnRemove at 0x1C6C7A80>
 	arg0: self
 
 submodule.OnRemove
@@ -738,7 +738,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MessengerFriendItem.__init__ at 0x0AF30710>
+__init__,		<cyfunction MessengerFriendItem.__init__ at 0x1C6C7978>
 	arg0: self
 	arg1: getParentEvent
 
@@ -747,17 +747,17 @@ Skipped: unbound method cython_function_or_method object must be called with Mes
 
 
 class MessengerGroupItem:
-ClearMember,		<cyfunction MessengerGroupItem.ClearMember at 0x0AF30450>
+ClearMember,		<cyfunction MessengerGroupItem.ClearMember at 0x1C6C76B8>
 	arg0: self
 
 submodule.ClearMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-IsOpen,		<cyfunction MessengerGroupItem.IsOpen at 0x0AF305B0>
+IsOpen,		<cyfunction MessengerGroupItem.IsOpen at 0x1C6C7818>
 	arg0: self
 
 submodule.IsOpen
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerGroupItem.__del__ at 0x0AF30348>
+__del__,		<cyfunction MessengerGroupItem.__del__ at 0x1C6C75B0>
 	arg0: self
 
 submodule.__del__
@@ -767,7 +767,7 @@ __doc__,		None
 submodule.__doc__
 
 
-AppendMember,		<cyfunction MessengerGroupItem.AppendMember at 0x0AF303A0>
+AppendMember,		<cyfunction MessengerGroupItem.AppendMember at 0x1C6C7608>
 	arg0: self
 	arg1: member
 	arg2: key
@@ -775,7 +775,7 @@ AppendMember,		<cyfunction MessengerGroupItem.AppendMember at 0x0AF303A0>
 
 submodule.AppendMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-GetLogoutMemberList,		<cyfunction MessengerGroupItem.GetLogoutMemberList at 0x0AF30558>
+GetLogoutMemberList,		<cyfunction MessengerGroupItem.GetLogoutMemberList at 0x1C6C77C0>
 	arg0: self
 
 submodule.GetLogoutMemberList
@@ -795,40 +795,40 @@ IMAGE_FILE_NAME,		{'CLOSE': 'd:/ymir work/ui/game/windows/messenger_list_close.s
 submodule.IMAGE_FILE_NAME
 
 
-__init__,		<cyfunction MessengerGroupItem.__init__ at 0x0AF302F0>
+__init__,		<cyfunction MessengerGroupItem.__init__ at 0x1C6C7558>
 	arg0: self
 	arg1: getParentEvent
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-RemoveMember,		<cyfunction MessengerGroupItem.RemoveMember at 0x0AF303F8>
+RemoveMember,		<cyfunction MessengerGroupItem.RemoveMember at 0x1C6C7660>
 	arg0: self
 	arg1: item
 
 submodule.RemoveMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-Close,		<cyfunction MessengerGroupItem.Close at 0x0AF30660>
+Close,		<cyfunction MessengerGroupItem.Close at 0x1C6C78C8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-Open,		<cyfunction MessengerGroupItem.Open at 0x0AF30608>
+Open,		<cyfunction MessengerGroupItem.Open at 0x1C6C7870>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-FindMember,		<cyfunction MessengerGroupItem.FindMember at 0x0AF304A8>
+FindMember,		<cyfunction MessengerGroupItem.FindMember at 0x1C6C7710>
 	arg0: self
 	arg1: key
 
 submodule.FindMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-Select,		<cyfunction MessengerGroupItem.Select at 0x0AF306B8>
+Select,		<cyfunction MessengerGroupItem.Select at 0x1C6C7920>
 	arg0: self
 
 submodule.Select
 Skipped: unbound method cython_function_or_method object must be called with MessengerGroupItem instance as first argument (got nothing instead)
-GetLoginMemberList,		<cyfunction MessengerGroupItem.GetLoginMemberList at 0x0AF30500>
+GetLoginMemberList,		<cyfunction MessengerGroupItem.GetLoginMemberList at 0x1C6C7768>
 	arg0: self
 
 submodule.GetLoginMemberList
@@ -836,14 +836,14 @@ Skipped: unbound method cython_function_or_method object must be called with Mes
 
 
 class MessengerFriendGroup:
-AppendMember,		<cyfunction MessengerFriendGroup.AppendMember at 0x0AF30B30>
+AppendMember,		<cyfunction MessengerFriendGroup.AppendMember at 0x1C6C7D98>
 	arg0: self
 	arg1: key
 	arg2: name
 
 submodule.AppendMember
 Skipped: unbound method cython_function_or_method object must be called with MessengerFriendGroup instance as first argument (got nothing instead)
-__del__,		<cyfunction MessengerFriendGroup.__del__ at 0x0AF30AD8>
+__del__,		<cyfunction MessengerFriendGroup.__del__ at 0x1C6C7D40>
 	arg0: self
 
 submodule.__del__
@@ -863,7 +863,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MessengerFriendGroup.__init__ at 0x0AF30A80>
+__init__,		<cyfunction MessengerFriendGroup.__init__ at 0x1C6C7CE8>
 	arg0: self
 	arg1: getParentEvent
 

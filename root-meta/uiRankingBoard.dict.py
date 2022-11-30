@@ -4,6 +4,7 @@
                      {'args': ['self', 'event_type', 'slot'], 'defaults': [], 'name': 'EventProgress'},
                      {'args': ['self', 'event_type'], 'defaults': [], 'name': 'MyEventProgress'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},
+                     {'args': ['self'], 'defaults': [], 'name': 'OnUpdate'},
                      {'args': ['self', 'type', 'category'], 'defaults': [], 'name': 'Open'},
                      {'args': ['self'], 'defaults': [], 'name': 'RefreshRankingList'},
                      {'args': ['self'], 'defaults': [], 'name': 'Show'},
@@ -43,5 +44,5 @@
                     {'name': '__module__', 'type': 'str', 'value': 'uiRankingBoard'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'RankingBoardWindow'}]}],
  'func': [],
- 'import': ['ranking', 'uiToolTip', '__builtin__', 'app', 'ui', 'colorInfo', 'localeInfo'],
+ 'import': ['ranking', 'uiToolTip', '__builtin__', 'app', 'playerm2g2', 'ui', 'mouseModule', 'colorInfo', 'localeInfo'],
  'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiRankingBoard'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

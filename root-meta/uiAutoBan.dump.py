@@ -21,62 +21,62 @@ __module__,		uiAutoBan
 submodule.__module__
 
 
-__del__,		<cyfunction AutoBanQuizWindow.__del__ at 0x26D4A5B0>
+__del__,		<cyfunction AutoBanQuizWindow.__del__ at 0x1CE33450>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-Clear,		<cyfunction AutoBanQuizWindow.Clear at 0x26D4ABE0>
+Clear,		<cyfunction AutoBanQuizWindow.Clear at 0x1CE33A28>
 	arg0: self
 
 submodule.Clear
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-Refresh,		<cyfunction AutoBanQuizWindow.Refresh at 0x26D4AD40>
+Refresh,		<cyfunction AutoBanQuizWindow.Refresh at 0x1CE33D98>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction AutoBanQuizWindow.OnPressEscapeKey at 0x26D4AEA0>
+OnPressEscapeKey,		<cyfunction AutoBanQuizWindow.OnPressEscapeKey at 0x1CE33920>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-Close,		<cyfunction AutoBanQuizWindow.Close at 0x26D4AC90>
+Close,		<cyfunction AutoBanQuizWindow.Close at 0x1CE33B30>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction AutoBanQuizWindow.Destroy at 0x26D4AA80>
+Destroy,		<cyfunction AutoBanQuizWindow.Destroy at 0x1CE33BE0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-_AutoBanQuizWindow__OnClickSelectButton1,		<cyfunction AutoBanQuizWindow.__OnClickSelectButton1 at 0x26D4AD98>
+_AutoBanQuizWindow__OnClickSelectButton1,		<cyfunction AutoBanQuizWindow.__OnClickSelectButton1 at 0x1CE33AD8>
 	arg0: self
 
 submodule._AutoBanQuizWindow__OnClickSelectButton1
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction AutoBanQuizWindow.__init__ at 0x26D4A978>
+__init__,		<cyfunction AutoBanQuizWindow.__init__ at 0x1CE33978>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction AutoBanQuizWindow.OnUpdate at 0x26D4AEF8>
+OnUpdate,		<cyfunction AutoBanQuizWindow.OnUpdate at 0x1CE33E48>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-_AutoBanQuizWindow__OnClickRefreshButton,		<cyfunction AutoBanQuizWindow.__OnClickRefreshButton at 0x26D4AE48>
+_AutoBanQuizWindow__OnClickRefreshButton,		<cyfunction AutoBanQuizWindow.__OnClickRefreshButton at 0x1CE33500>
 	arg0: self
 
 submodule._AutoBanQuizWindow__OnClickRefreshButton
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-_AutoBanQuizWindow__OnClickAnswerButton,		<cyfunction AutoBanQuizWindow.__OnClickAnswerButton at 0x26D4A608>
+_AutoBanQuizWindow__OnClickAnswerButton,		<cyfunction AutoBanQuizWindow.__OnClickAnswerButton at 0x1CE335B0>
 	arg0: self
 
 submodule._AutoBanQuizWindow__OnClickAnswerButton
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-_AutoBanQuizWindow__Select,		<cyfunction AutoBanQuizWindow.__Select at 0x26D4A500>
+_AutoBanQuizWindow__Select,		<cyfunction AutoBanQuizWindow.__Select at 0x1CE33608>
 	arg0: self
 	arg1: index
 
@@ -87,22 +87,22 @@ __qualname__,		AutoBanQuizWindow
 submodule.__qualname__
 
 
-_AutoBanQuizWindow__OnClickSelectButton2,		<cyfunction AutoBanQuizWindow.__OnClickSelectButton2 at 0x26D4AAD8>
+_AutoBanQuizWindow__OnClickSelectButton2,		<cyfunction AutoBanQuizWindow.__OnClickSelectButton2 at 0x1CE33D40>
 	arg0: self
 
 submodule._AutoBanQuizWindow__OnClickSelectButton2
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-LoadWindow,		<cyfunction AutoBanQuizWindow.LoadWindow at 0x26D4ACE8>
+LoadWindow,		<cyfunction AutoBanQuizWindow.LoadWindow at 0x1CE33710>
 	arg0: self
 
 submodule.LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-_AutoBanQuizWindow__OnClickSelectButton0,		<cyfunction AutoBanQuizWindow.__OnClickSelectButton0 at 0x26D4AB30>
+_AutoBanQuizWindow__OnClickSelectButton0,		<cyfunction AutoBanQuizWindow.__OnClickSelectButton0 at 0x1CE33CE8>
 	arg0: self
 
 submodule._AutoBanQuizWindow__OnClickSelectButton0
 Skipped: unbound method cython_function_or_method object must be called with AutoBanQuizWindow instance as first argument (got nothing instead)
-Open,		<cyfunction AutoBanQuizWindow.Open at 0x26D4AB88>
+Open,		<cyfunction AutoBanQuizWindow.Open at 0x1CE33B88>
 	arg0: self
 	arg1: open
 	arg2: quiz

@@ -37,7 +37,6 @@
          {'name': 'SKILLBOOK_COMBI_UI_OPEN', 'type': 'int', 'value': 1},
          {'name': 'SKILLBOOK_NEED_MONEY', 'type': 'int', 'value': 1000000},
          {'name': 'SKILLBOOK_SLOT_MAX', 'type': 'int', 'value': 10},
-         {'name': 'USE_LIMIT_RANGE', 'type': 'int', 'value': 1000},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
          {'name': '__name__', 'type': 'str', 'value': 'uiSkillBookCombination'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},

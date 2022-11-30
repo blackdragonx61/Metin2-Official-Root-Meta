@@ -26,7 +26,6 @@
             'var': [{'name': 'GEM_SHOP_ADD_ITEM_VNUM', 'type': 'int', 'value': 39064},
                     {'name': 'GEM_SHOP_REFRESH_ITEM_VNUM', 'type': 'int', 'value': 39063},
                     {'name': 'GEM_SHOP_SLOT_MAX', 'type': 'int', 'value': 9},
-                    {'name': 'GEM_SHOP_WINDOW_LIMIT_RANGE', 'type': 'int', 'value': 500},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'uiGemShop'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'GemShopWindow'}]}],

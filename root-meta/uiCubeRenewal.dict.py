@@ -159,7 +159,6 @@
          {'name': 'MAX_MATERIAL_COUNT', 'type': 'int', 'value': 5},
          {'name': 'MAX_MATERIAL_QUANTITY', 'type': 'int', 'value': 999},
          {'name': 'ROOT_PATH', 'type': 'str', 'value': 'd:/ymir work/ui/game/cube/'},
-         {'name': 'USE_CUBE_DISTANCE', 'type': 'int', 'value': 1000},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
          {'name': '__name__', 'type': 'str', 'value': 'uiCubeRenewal'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},

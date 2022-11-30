@@ -38,4 +38,4 @@
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiItemCombination'}, {'name': '__qualname__', 'type': 'str', 'value': 'ItemCombinationWindow'}]}],
  'func': [],
  'import': ['chatm2g', 'app', 'uiPrivateShopBuilder', 'uiPickMoney', 'm2netm2g', 'playerm2g2', 'uiRefine', 'constInfo', 'grp', 'uiToolTip', 'uiAttachMetin', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', 'snd', '__builtin__', 'ime', 'wndMgr', 'item', 'ui'],
- 'var': [{'name': 'USE_WINDOW_LIMIT_RANGE', 'type': 'int', 'value': 500}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiItemCombination'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}
+ 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiItemCombination'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

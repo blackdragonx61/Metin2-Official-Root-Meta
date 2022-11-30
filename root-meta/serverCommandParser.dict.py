@@ -12,6 +12,8 @@
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__DayMode_Update'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FishEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FlowerEvent'},
+                     {'args': ['self', 'state', 'running_time', 'map_index', 'pos_x', 'pos_y', 'interval_sec'], 'defaults': [], 'name': '__GuildSiteAuctionNotice'},
+                     {'args': ['self', 'abndon_time', 'interval_sec'], 'defaults': [], 'name': '__GuildSiteTaxInfo'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__Halloween_box_event'},
                      {'args': ['self'], 'defaults': [], 'name': '__ItemMall_Open'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__LateSummerEvent'},
@@ -45,4 +47,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0AC84B50>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0CC1F7D0>}]}

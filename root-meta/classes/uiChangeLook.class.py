@@ -8,7 +8,7 @@
  'Title': None,
  'TitleText': '',
  'changeType': 0,
- 'hWnd': 763998000,
+ 'hWnd': 712015880,
  'isloded': 0,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,
