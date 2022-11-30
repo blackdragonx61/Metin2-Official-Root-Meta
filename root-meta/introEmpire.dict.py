@@ -34,12 +34,12 @@
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self', 'stream'], 'defaults': [], 'name': '__init__'}],
             'import': [],
-            'var': [{'name': 'EMPIRE_DESCRIPTION_TEXT_FILE_NAME', 'type': 'dict', 'value': {1: 'locale/br/empiredesc_a.txt', 2: 'locale/br/empiredesc_b.txt', 3: 'locale/br/empiredesc_c.txt'}},
-                    {'name': 'EMPIRE_NAME', 'type': 'dict', 'value': {1: 'Shinsu', 2: 'Chunjo', 3: 'Jinno'}},
+            'var': [{'name': 'EMPIRE_DESCRIPTION_TEXT_FILE_NAME', 'type': 'dict', 'value': {1: 'locale/hu/empiredesc_a.txt', 2: 'locale/hu/empiredesc_b.txt', 3: 'locale/hu/empiredesc_c.txt'}},
+                    {'name': 'EMPIRE_NAME', 'type': 'dict', 'value': {1: 'Shinsoo birodalom', 2: 'Chunjo birodalom', 3: 'Jinno birodalom'}},
                     {'name': 'EMPIRE_NAME_COLOR', 'type': 'dict', 'value': {1: (0.745, 0, 0), 2: (0.8666, 0.6156, 0.1843), 3: (0.2235, 0.2549, 0.749)}},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'introEmpire'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'SelectEmpireWindow'}]}],
  'func': [],
  'import': ['event', '_weakref', 'snd', 'musicInfo', 'uiToolTip', '__builtin__', 'app', 'uiScriptLocale', 'dbg', 'systemSetting', 'm2netm2g', 'ui', 'wndMgr', 'localeInfo'],
- 'var': [{'name': 'LOCALE_PATH', 'type': 'str', 'value': 'uiscript/1252_'}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'introEmpire'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}
+ 'var': [{'name': 'LOCALE_PATH', 'type': 'str', 'value': 'uiscript/1250_'}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'introEmpire'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

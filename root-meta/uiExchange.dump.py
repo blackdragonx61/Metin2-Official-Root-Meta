@@ -24,91 +24,91 @@ __module__,		uiExchange
 submodule.__module__
 
 
-OnPickMoney,		<cyfunction ExchangeDialog.OnPickMoney at 0x08C4E2F0>
+OnPickMoney,		<cyfunction ExchangeDialog.OnPickMoney at 0x082EAB88>
 	arg0: self
 	arg1: money
 	arg2: cheque
 
 submodule.OnPickMoney
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-OpenPickMoneyDialog,		<cyfunction ExchangeDialog.OpenPickMoneyDialog at 0x08C4E298>
+OpenPickMoneyDialog,		<cyfunction ExchangeDialog.OpenPickMoneyDialog at 0x082EAB30>
 	arg0: self
 	arg1: focus_idx
 
 submodule.OpenPickMoneyDialog
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-CloseDialog,		<cyfunction ExchangeDialog.CloseDialog at 0x08C4E1E8>
+CloseDialog,		<cyfunction ExchangeDialog.CloseDialog at 0x082EAA80>
 	arg0: self
 
 submodule.CloseDialog
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction ExchangeDialog.__del__ at 0x08C4E088>
+__del__,		<cyfunction ExchangeDialog.__del__ at 0x082EA920>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-AcceptExchange,		<cyfunction ExchangeDialog.AcceptExchange at 0x08C4E348>
+AcceptExchange,		<cyfunction ExchangeDialog.AcceptExchange at 0x082EABE0>
 	arg0: self
 
 submodule.AcceptExchange
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-Refresh,		<cyfunction ExchangeDialog.Refresh at 0x08C4E500>
+Refresh,		<cyfunction ExchangeDialog.Refresh at 0x082EAD98>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-OverInTargetItem,		<cyfunction ExchangeDialog.OverInTargetItem at 0x08C4E5B0>
+OverInTargetItem,		<cyfunction ExchangeDialog.OverInTargetItem at 0x082EAE48>
 	arg0: self
 	arg1: slotIndex
 
 submodule.OverInTargetItem
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-AddExchangeItemSlotIndex,		<cyfunction ExchangeDialog.AddExchangeItemSlotIndex at 0x08C4E818>
+AddExchangeItemSlotIndex,		<cyfunction ExchangeDialog.AddExchangeItemSlotIndex at 0x082EE0E0>
 	arg0: self
 	arg1: type
 	arg2: idx
 
 submodule.AddExchangeItemSlotIndex
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction ExchangeDialog.LoadDialog at 0x08C4E0E0>
+LoadDialog,		<cyfunction ExchangeDialog.LoadDialog at 0x082EA978>
 	arg0: self
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction ExchangeDialog.Destroy at 0x08C4E138>
+Destroy,		<cyfunction ExchangeDialog.Destroy at 0x082EA9D0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-SetInven,		<cyfunction ExchangeDialog.SetInven at 0x08C4E7C0>
+SetInven,		<cyfunction ExchangeDialog.SetInven at 0x082EE088>
 	arg0: self
 	arg1: type
 	arg2: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-OnTop,		<cyfunction ExchangeDialog.OnTop at 0x08C4E768>
+OnTop,		<cyfunction ExchangeDialog.OnTop at 0x082EE030>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction ExchangeDialog.__init__ at 0x08C4E030>
+__init__,		<cyfunction ExchangeDialog.__init__ at 0x082EA8C8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-BindInterface,		<cyfunction ExchangeDialog.BindInterface at 0x08C4E710>
+BindInterface,		<cyfunction ExchangeDialog.BindInterface at 0x082EAFA8>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction ExchangeDialog.OnUpdate at 0x08C4E660>
+OnUpdate,		<cyfunction ExchangeDialog.OnUpdate at 0x082EAEF8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-CantTradableItem,		<cyfunction ExchangeDialog.CantTradableItem at 0x08C4E6B8>
+CantTradableItem,		<cyfunction ExchangeDialog.CantTradableItem at 0x082EAF50>
 	arg0: self
 	arg1: slotIndex
 	arg2: type
@@ -116,24 +116,24 @@ CantTradableItem,		<cyfunction ExchangeDialog.CantTradableItem at 0x08C4E6B8>
 
 submodule.CantTradableItem
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-SelectOwnerEmptySlot,		<cyfunction ExchangeDialog.SelectOwnerEmptySlot at 0x08C4E3A0>
+SelectOwnerEmptySlot,		<cyfunction ExchangeDialog.SelectOwnerEmptySlot at 0x082EAC38>
 	arg0: self
 	arg1: SlotIndex
 
 submodule.SelectOwnerEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction ExchangeDialog.SetItemToolTip at 0x08C4E240>
+SetItemToolTip,		<cyfunction ExchangeDialog.SetItemToolTip at 0x082EAAD8>
 	arg0: self
 	arg1: tooltipItem
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-RefreshOwnerSlot,		<cyfunction ExchangeDialog.RefreshOwnerSlot at 0x08C4E450>
+RefreshOwnerSlot,		<cyfunction ExchangeDialog.RefreshOwnerSlot at 0x082EACE8>
 	arg0: self
 
 submodule.RefreshOwnerSlot
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-RefreshTargetSlot,		<cyfunction ExchangeDialog.RefreshTargetSlot at 0x08C4E4A8>
+RefreshTargetSlot,		<cyfunction ExchangeDialog.RefreshTargetSlot at 0x082EAD40>
 	arg0: self
 
 submodule.RefreshTargetSlot
@@ -143,17 +143,17 @@ __qualname__,		ExchangeDialog
 submodule.__qualname__
 
 
-OpenDialog,		<cyfunction ExchangeDialog.OpenDialog at 0x08C4E190>
+OpenDialog,		<cyfunction ExchangeDialog.OpenDialog at 0x082EAA28>
 	arg0: self
 
 submodule.OpenDialog
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction ExchangeDialog.OverOutItem at 0x08C4E608>
+OverOutItem,		<cyfunction ExchangeDialog.OverOutItem at 0x082EAEA0>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with ExchangeDialog instance as first argument (got nothing instead)
-OverInOwnerItem,		<cyfunction ExchangeDialog.OverInOwnerItem at 0x08C4E558>
+OverInOwnerItem,		<cyfunction ExchangeDialog.OverInOwnerItem at 0x082EADF0>
 	arg0: self
 	arg1: slotIndex
 
@@ -164,7 +164,7 @@ __doc__,		None
 submodule.__doc__
 
 
-SelectOwnerItemSlot,		<cyfunction ExchangeDialog.SelectOwnerItemSlot at 0x08C4E3F8>
+SelectOwnerItemSlot,		<cyfunction ExchangeDialog.SelectOwnerItemSlot at 0x082EAC90>
 	arg0: self
 	arg1: SlotIndex
 

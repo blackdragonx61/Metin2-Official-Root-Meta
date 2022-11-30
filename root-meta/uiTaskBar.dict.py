@@ -15,6 +15,7 @@
                                 {'args': ['self'], 'defaults': [], 'name': 'OnOverOutItem'},
                                 {'args': ['self', 'dummy'], 'defaults': [], 'name': 'OnSelectItemSlot'},
                                 {'args': ['self'], 'defaults': [], 'name': 'RefreshSkill'},
+                                {'args': ['self'], 'defaults': [], 'name': 'RefreshSkillCoolTime'},
                                 {'args': ['self', 'skillSlotNumber'], 'defaults': [], 'name': 'SetSkill'},
                                 {'args': ['self', 'event', 'arg'], 'defaults': [0], 'name': 'SetSkillEvent'},
                                 {'args': ['self', 'tooltip'], 'defaults': [], 'name': 'SetSkillToolTip'},
@@ -42,6 +43,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'OverOutItem'},
                      {'args': ['self'], 'defaults': [], 'name': 'RefreshQuickSlot'},
                      {'args': ['self'], 'defaults': [], 'name': 'RefreshSkill'},
+                     {'args': ['self'], 'defaults': [], 'name': 'RefreshSkillCoolTime'},
                      {'args': ['self'], 'defaults': [], 'name': 'RefreshStamina'},
                      {'args': ['self'], 'defaults': [], 'name': 'RefreshStatus'},
                      {'args': ['self', 'slotIndex'], 'defaults': [], 'name': 'RemoveQuickSlotIndex'},
@@ -155,5 +157,5 @@
           {'args': [], 'defaults': [], 'name': 'SaveMouseButtonSettings'},
           {'args': ['dir', 'event'], 'defaults': [], 'name': 'SetMouseButtonSetting'},
           {'args': ['n'], 'defaults': [], 'name': 'unsigned32'}],
- 'import': ['emotion', 'app', 'm2netm2g', 'playerm2g2', 'skill', 'constInfo', 'uiToolTip', 'mouseModule', 'uiScriptLocale', 'localeInfo', '__builtin__', 'wndMgr', 'item', 'ui'],
+ 'import': ['emotion', 'app', 'm2netm2g', 'playerm2g2', 'skill', 'constInfo', 'uiToolTip', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', '__builtin__', 'wndMgr', 'item', 'ui'],
  'var': [{'name': 'MOUSE_SETTINGS', 'type': 'list', 'value': [5, 3]}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiTaskBar'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

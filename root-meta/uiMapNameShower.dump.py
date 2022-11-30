@@ -16,7 +16,7 @@ STATE_HIDE,		0
 submodule.STATE_HIDE
 
 
-_MapNameShower__Initialize,		<cyfunction MapNameShower.__Initialize at 0x08B915B0>
+_MapNameShower__Initialize,		<cyfunction MapNameShower.__Initialize at 0x08348240>
 	arg0: self
 
 submodule._MapNameShower__Initialize
@@ -26,7 +26,7 @@ STATE_SHOW,		2
 submodule.STATE_SHOW
 
 
-Update,		<cyfunction MapNameShower.Update at 0x08B91500>
+Update,		<cyfunction MapNameShower.Update at 0x083489D0>
 	arg0: self
 
 submodule.Update
@@ -36,7 +36,7 @@ MAP_NAME_IMAGE,		{}
 submodule.MAP_NAME_IMAGE
 
 
-ShowMapName,		<cyfunction MapNameShower.ShowMapName at 0x08B916B8>
+ShowMapName,		<cyfunction MapNameShower.ShowMapName at 0x08348A28>
 	arg0: self
 	arg1: mapName
 	arg2: x
@@ -54,7 +54,7 @@ __module__,		uiMapNameShower
 submodule.__module__
 
 
-_MapNameShower__GetDevilTowerFloor,		<cyfunction MapNameShower.__GetDevilTowerFloor at 0x08B91608>
+_MapNameShower__GetDevilTowerFloor,		<cyfunction MapNameShower.__GetDevilTowerFloor at 0x08348298>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -66,12 +66,12 @@ __qualname__,		MapNameShower
 submodule.__qualname__
 
 
-__del__,		<cyfunction MapNameShower.__del__ at 0x08B91B30>
+__del__,		<cyfunction MapNameShower.__del__ at 0x083481E8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MapNameShower instance as first argument (got nothing instead)
-_MapNameShower__GetDevilBase,		<cyfunction MapNameShower.__GetDevilBase at 0x08B91660>
+_MapNameShower__GetDevilBase,		<cyfunction MapNameShower.__GetDevilBase at 0x083482F0>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -88,7 +88,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MapNameShower.__init__ at 0x08B91B88>
+__init__,		<cyfunction MapNameShower.__init__ at 0x08331CE8>
 	arg0: self
 
 submodule.__init__

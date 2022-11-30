@@ -1,979 +1,1142 @@
-key: ATTACH_METIN_TITLE, val: Combinar itens
-key: LOGIN_SELECT_OK, val: Selecionar
-key: HELP_SP, val: MP
-key: GUILD_BUILDING_PRICE, val: Preço
-key: GUILD_GRADE_RANK, val: Título
-key: MC_SUMMON_BUTTON, val: Invocar
-key: HELP_CAMERA, val: Mudar visão de câmera
-key: GRAPHICONOFF_EFFECT_LEVEL2, val: 2
-key: GRAPHICONOFF_DROP_ITEM_LEVEL1_TOOLTIP, val: Mostrar todos os itens no chão
-key: OPTION_SOUND, val: SFX
-key: DO_REFINE, val: Refinar
-key: PET_ATTR_DETERMINE_TITLE, val: Atributo identificado do Pet
-key: MESSENGER_WHISPER, val: Mensagem Particular
-key: GUILD_PATH, val: locale/br/ui/guild/
-key: BATTLE_ROYALE_MAINBUTTON_APPLICATION, val: Registrar
-key: GUILD_WAR_ACCEPT, val: Aceitar Guerra entre Guildas
-key: KEYCHANGE_UP2, val: Frente2
-key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL, val: Loja Pessoal
-key: GUILD_BASEINFO_BANKLASTOUT, val: Último usuário
-key: PARTY_MATCH_TEXT_DUNGEON_SELECT, val: Escolha a Dungeon
-key: OPTION_MUSIC, val: BGM
-key: OPTION_INPUT_MOBILE_BUTTON, val: Inserir número de celular
-key: CHARACTER_MUTUAL_ACTION, val: Expressões interativas
-key: CREATE_NEXT, val: Próximo
-key: GUILD_GEM, val: Pedra
-key: PET_INFORMATION_DEFENCE, val: Defesa
-key: GUILD_BASEINFO_DEAL, val: negóciação
-key: MINI_GAME_CHALLENGE_RANK_TAB_TITLE_RANK, val: Ranking
-key: BNW_RANK_UI_RANK, val: Rank
-key: TASKBAR_CHAT, val: Chat [<Enter>]
-key: HELP_OPEN_ZONEMAP, val: <M> é usado para abrir e fechar o Mapa completo
-key: MINI_BOSS_DUNGEON_TOOTIP_03, val: Rank Dungeon Vermelha
-key: MINI_BOSS_DUNGEON_TOOTIP_01, val: Boss info
-key: GUILD_INFO_DECALRE_WAR, val: Declarar guerra
-key: MINI_BOSS_DUNGEON_TOOTIP_07, val: Reset restante
-key: MINI_BOSS_DUNGEON_TOOTIP_04, val: Entrar
-key: MINI_BOSS_DUNGEON_TOOTIP_05, val: Tempo restante
-key: CHANGE_PASSWORD_OLD, val: Senha original
-key: PET_NAME_CHANGE_WINDOW_TITLE, val: Mudar o Nome
-key: PRIVATESHOPSEARCH_SEARCH, val: Buscar
-key: OPTION_NIGHT_MODE_OFF, val: off
-key: SYSTEM_CHANGE, val: Selecionar personagem
-key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL2_TOOLTIP, val: Mostrar lojas pessoais dentro de um raio de 50M
-key: MINI_GAME_YUTNORI_REWARD_TEXT, val: Receber Recompensa
-key: AUTO_AUTO_SKILL, val: Habilidade
-key: CATCHKING_EVENT_SIMPLE_DESC, val: locale/br/catchking_event_simple_desc.txt
-key: LUCKY_BOX_RETRY_BUTTON, val: Reusar Caixa da Sorte
-key: GUILD_ATTENDANCE_LOCA8, val: 70 ou mais: Medalha de Honra x12
-key: MESSENGER_TITLE, val: Lista de contatos
-key: GUILD_ATTENDANCE_LOCA3, val: 20 ou mais: Medalha de Honra x2
-key: PET_REVIVE_REUSLT_TEXT, val: Resultado
-key: LOGIN_SELECT_BUTTON, val: Servidor
-key: GUILD_DONATE_COUNT, val: Doações disponíveis: %d/%d
-key: GUILD_DRAGONLAIR_RANKING_MEMBER, val: Membros
-key: GUILD_DONATE_HIGH_MATERIAL, val: Superior
-key: GUILD_ATTENDANCE_LOCA5, val: 40 ou mais: Medalha de Honra x6
-key: GUILD_ATTENDANCE_LOCA4, val: 30 ou mais: Medalha de Honra x4
-key: SELECT_PLAYTIME, val: Tempo de jogo
-key: PRIVATESHOPSEARCH_PRICE, val: Preço
-key: MINI_GAME_BLACK_AND_WHITE_DONATE, val: Doar
-key: PET_ATTR_CHANGE_ITEM_TEXT, val: Item para alterar atributo do Pet
-key: OPTION_SHADOW_QUALITY, val: Efeito Sombra
-key: MINI_GAME_CHALLENGE_REWARD_TAB_CHALLENGE_EXP_TITLT_TEXT, val: EXP Desafio
-key: BATTLE_FILED_RANK, val: Rank
-key: GUILD_WAR_ENEMY, val: Guilda inimiga
-key: AUTO_CLEAR, val: Limpar
-key: GUILD_INFO_LEVEL, val: Nível
-key: OPTION_PVPMODE_GUILD, val: Guilda
-key: HELP_OPEN_CHAT, val: <Enter> abre e fecha a janela de conversa
-key: MC_ACHIEV_BONUS_NONE, val: Nenhum Bônus
-key: MINI_GAME_CHALLENGE_GAME_TAB_TEXT_WIN_UP, val: VOCÊ
+key: ATTACH_METIN_TITLE, val: Szellemkõ használata
+key: HELP_AUTO_ATTACK, val: Egérkattintásonként automatikus támadást aktivál.
+key: HELP_SP, val: Mana pontok (MP)
+key: OPTION_SNOW_MODE_ON, val: Be
+key: GUILD_GRADE_RANK, val: Rang
+key: OPTION_PVPMODE_GUILD, val: Céh
+key: HELP_CAMERA, val: Kameranézet
+key: OPTION_SOUND, val: Hatás
+key: STRENGTH, val: Erõsítés
+key: DO_REFINE, val: Nemesít
+key: TASKBAR_CHARACTER, val: Karakter [C/V/B/N]
+key: PET_ATTR_DETERMINE_TITLE, val: Új kedvenc típus
+key: MESSENGER_WHISPER, val: Súgás
+key: GUILD_PATH, val: locale/hu/ui/guild/
+key: GUILD_WAR_ACCEPT, val: Céh hadüzenet elfogadása
+key: KEYCHANGE_UP2, val: Elõre
+key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL, val: Magán boltok
+key: GUILD_BASEINFO_BANKLASTOUT, val: Ut. kivett tárgy
+key: PREMIUM_PRIVATE_SHOP_MODIFY_BUTTON, val: Módosít
+key: PARTY_MATCH_TEXT_DUNGEON_SELECT, val: Válassz kazamatát
+key: MOUSEBUTTON_AUTO_ATTACK, val: Automatikus támadás
+key: OPTION_INPUT_MOBILE_BUTTON, val: Mobiltelefonszám megadása
+key: DRAGON_GATE_NAME, val: 
+key: LoadLocaleFile, val: <cyfunction LoadLocaleFile at 0x0810C7C0>
+key: CREATE_NEXT, val: Tovább
+key: GUILD_GEM, val: Drágakõ
+key: LOOTING_SYSTEM_INIT, val: Visszaállít
+key: MINI_BOSS_DUNGEON_TOOTIP_08, val: Jutalmam
+key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL1_TOOLTIP, val: Mindent mutat
+key: SELECT_ATTR_TITLE, val: Megbûvölõ tárgy+
+key: MINI_GAME_YUTNORI_PROBABILITY, val: Valószínûség
+key: TASKBAR_CHAT, val: Cset ablak [Enter]
+key: HELP_OPEN_ZONEMAP, val: Nagy térkép megnyitása: M
+key: MINI_BOSS_DUNGEON_TOOTIP_03, val: Apokalipszis 81. szint felettieknek
+key: LOOTING_SYSTEM_COMMON, val: Egyéb felszerelés
+key: GUILD_INFO_DECALRE_WAR, val: Hadat üzen
+key: MINI_BOSS_DUNGEON_TOOTIP_07, val: Hátralévõ Apokalipszisek
+key: MINI_BOSS_DUNGEON_TOOTIP_04, val: Belépés
+key: MINI_BOSS_DUNGEON_TOOTIP_05, val: Maradék idõ
+key: CHANGE_PASSWORD_OLD, val: Régi jelszó
+key: KEYCHANGE_CAM_ZOOM_OUT1, val: Kamera (távolít)
+key: PRIVATESHOPSEARCH_SEARCH, val: Keresés
+key: OPTION_NIGHT_MODE_OFF, val: Ki
+key: GUILD_DONATE_MEDAL_OF_HONOR, val: Bátorság medálja
+key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL2_TOOLTIP, val: Minden megjelenítése nagy távolságban
+key: LOGIN_PASSWORD, val: Jelszó
+key: LOOTING_SYSTEM_QUESTION_HEAD, val: Itt tudod beállítani a sisakok begyûjtésének részleteit.
+key: LOOTING_SYSTEM_DS, val: Sárkánykõ-alkímia
+key: AUTO_AUTO_SKILL, val: Készségek
+key: CATCHKING_EVENT_SIMPLE_DESC, val: locale/hu/catchking_event_simple_desc.txt
+key: GUILD_ATTENDANCE_LOCA9, val: Indul: naponta 5:00 órakor
+key: GUILD_ATTENDANCE_LOCA8, val: 70 vagy több: 12x Bátorság medálja
+key: MC_TAB_BUTTON_SOLO, val: Nyílt terep-gyûjtemény
+key: GUILD_ATTENDANCE_LOCA3, val: 20 vagy több: 2x Bátorság medálja
+key: GUILD_ATTENDANCE_LOCA2, val: 10 vagy több: 1x Bátorság medálja
+key: GUILD_ATTENDANCE_LOCA1, val: Elsõ részvétel: 1x Bátorság medálja
+key: GUILD_DONATE_COUNT, val: Szabad adományozás: %d/%d
+key: GUILD_ATTENDANCE_LOCA7, val: 60 vagy több: 10x Bátorság medálja
+key: GUILD_ATTENDANCE_LOCA6, val: 50 vagy több: 8x Bátorság medálja
+key: GUILD_ATTENDANCE_LOCA5, val: 40 vagy több: 6x Bátorság medálja
+key: ATTR_67_REGIST_SLOT_TITLE, val: Céltárgy
+key: SELECT_PLAYTIME, val: Játékidõ
+key: MC_TAB_BUTTON_CARD_MISSION, val: Kártya megbízás
+key: KEYCHANGE_CAM_ZOOM_IN2, val: Kamera (közelít)
+key: MINI_GAME_BLACK_AND_WHITE_DONATE, val: Adományozás
+key: PET_ATTR_CHANGE_ITEM_TEXT, val: Kedvenc megbûvölõ
+key: OPTION_SHADOW_QUALITY, val: Árnyékminõség
+key: BATTLE_FILED_RANK, val: Helyezés
+key: GUILD_WAR_ENEMY, val: Ellenség
+key: AUTO_CLEAR, val: Töröl
+key: GUILD_INFO_LEVEL, val: Céh-szint
+key: MINI_GAME_YUTNORI_YUTSEM6, val: Back Do
+key: MINI_GAME_RUMI_DISCARD_TEXT, val: Biztonságos mód
+key: HELP_OPEN_CHAT, val: Cset ablak megnyitása: Enter
+key: MC_ACHIEV_BONUS_NONE, val: Nincs bónusz
 key: AUTOBAN_QUIZ_ANSWER, val: ANSWER
-key: AUTO_POTION_SETTING, val: Poção
-key: PET_ATTR_CONFIRMATION, val: Alterar
-key: PET_INFORMATION_AGE, val: Idade
-key: HELP_SHOW_ALL_NAME, val: <Alt> exibe o nome de todos os personagens e itens
-key: MAILBOX_POST_READ_RECV, val: Receber
-key: MINI_GAME_YUTNORI_PLAYER_TEXT, val: Jogador
-key: MAILBOX_POST_WRITE_BUTTON_TEXT, val: Enviar
-key: AUTO_START, val: Iniciar
-key: MYSHOP_DECO_SELECT_MODEL, val: Modelo de Decoração
-key: GRAPHICONOFF_NPC_NAME_STATUS, val: Nome de NPC
+key: AUTO_POTION_SETTING, val: Bájitalok
+key: LOOTING_SYSTEM_CATEGORY_COMMON_BELT, val: Övek
+key: PRIVATE_SHOP_SEARCH_BY_VNUM_SEARCH_BUTTON_TEXT, val: Keresés
+key: PET_INFORMATION_COSTUME_BONUS, val: Öltözék bónusz
+key: MINI_GAME_YUTNORI_YUTSEM2, val: Gae
+key: PET_INFORMATION_AGE, val: Kor
+key: HELP_SHOW_ALL_NAME, val: Nevek megmutatása: Alt
+key: MINI_GAME_YUTNORI_YUTSEM3, val: Geol
+key: MINI_GAME_YUTNORI_PLAYER_TEXT, val: Játékos
+key: MAILBOX_POST_WRITE_BUTTON_TEXT, val: Küldés
+key: PASSIVE_ATTR_UI_CHARGE_BUTTON, val: Feltölt
+key: AUTO_START, val: Indítás
+key: MYSHOP_DECO_SELECT_MODEL, val: Válaszd ki boltod megjelenését!
+key: GRAPHICONOFF_NPC_NAME_STATUS, val: NPC nevek
 key: MINI_GAME_YUTNORI_YUTSEM1, val: Do
-key: OPTION_SHADOW_QUALITY_BAD, val: Baixa
-key: KEYCHANGE_CAM_UP1, val: CamCima1
-key: KEYCHANGE_CAM_UP2, val: CamCima2
-key: OPTION_FOG_LIGHT, val: Baixa
-key: GUILD_MARK, val: Emblema da guilda
-key: WHISPER_BAN, val: Bloquear
-key: MINIMIZE, val: Minimizar
-key: MC_TAB_BUTTON_CARD_MISSION, val: Cartas de Missão
-key: OPTION_FOG_OFF, val: Off
-key: AUTO_AUTO_RESTART, val: Ressuscitar Auto
-key: KEYCHANGE_UP1, val: Frente1
-key: GUILD_MEMBER_KNIGHT, val: Líder
-key: MAILBOX_POST_WRITE_TITLE, val: Título
-key: OPTION_SHADOW_TARGET_GROUND, val: 2
-key: AUTO_AUTO_RANGE, val: Alcance Auto
-key: MC_TAB_BUTTON_PARTY, val: Coleção de Dungeons
-key: GAMEOPTION_TITLE, val: Opções de jogo
-key: GRAPHICONOFF_DROP_ITEM_LEVEL3_TOOLTIP, val: Mostrar apenas formato dos itens
-key: GUILD_BASEINFO_MONEYBANKINFO, val: Status do Banco da Guilda
-key: GUILD_BUILDING_DIRECTION, val: Direção
-key: MALL_TITLE, val: Retirada do Item Mall
-key: GRAPHICONOFF_PET_STATUS_OFF, val: OFF
-key: KEYCHANGE_EMOTION9, val: Emoção9
-key: KEYCHANGE_EMOTION8, val: Emoção8
-key: KEYCHANGE_EMOTION3, val: Emoção3
-key: KEYCHANGE_EMOTION2, val: Emoção2
-key: DRAGONSOUL_REFINE_WINDOW_TITLE, val: Refinamento de Pedra de Dragão
-key: KEYCHANGE_EMOTION7, val: Emoção7
-key: KEYCHANGE_EMOTION6, val: Emoção6
-key: PET_INFORMATION_LEVEL, val: Nível
-key: KEYCHANGE_EMOTION4, val: Emoção4
-key: CUBE_RENEWAL_TITLE, val: Cubo
-key: GUILD_WAR_NORMAL, val: Batalha
-key: HELP_CHANGE_PK_MODE, val: <Ctrl>+<B> Se desmontado, envia o cavalo ao estábulo
-key: GRAPHICONOFF_NPC_NAME_STATUS_OFF, val: OFF
-key: BATTLE_FILED_RANK_POINT, val: Pontos
-key: EMPIRE_EXIT, val: Voltar
-key: GUILD_BASEINFO_TITLE, val: Informação do Terreno
-key: DO_CHANGE_ATTR, val: Prosseguir
-key: HELP_ATTACK_KEY, val: <Espaço> ou <Botão esquerdo do mouse> são usados para atacar com seu personagem
-key: EMPIRE_PATH, val: locale/br/ui/empire/
-key: PET_INFORMATION_LIFE_TIME, val: Duração
-key: BATTLE_FIELD_INFO, val: Informações
-key: COMB_TITLE, val: Janela de Combinação
-key: GUILD_BOARD_REFRESH, val: Atualizar <F5>
-key: OPTION_MOB_INFO_LEVEL, val: Nível
-key: GUILD_NAME, val: Guilda
-key: GRAPHICONOFF_PET_STATUS_OFF_TOOLTIP, val: Esconder pet
-key: SAFE_TITLE, val: Armazém
-key: MINI_GAME_CHALLENGE_GAME_TAB_TEXT_BETTING, val: Desafio
-key: HELP_PICK_ITEM, val: <'> ou <Z> são usados para apanhar os itens no chão
-key: GUILD_BUILDING_CHANGE, val: Mover
-key: MYSHOP_DECO_CANCEL, val: Fechar
-key: MC_PROMOTION_BUTTON, val: Promover
-key: WHISPER_REPORT, val: test
+key: OPTION_SHADOW_QUALITY_BAD, val: Alacsony
+key: KEYCHANGE_CAM_UP1, val: Kamera (fel)
+key: KEYCHANGE_CAM_UP2, val: Kamera (fel)
+key: OPTION_FOG_LIGHT, val: Kevés
+key: GUILD_MARK, val: Céh jel
+key: WHISPER_BAN, val: Letiltás
+key: MINIMIZE, val: Minimalizál
+key: BANNER_MYSTERY_BOX_BUTTON_2, val: ZSÁKMÁNY-VADÁSZAT II
+key: OPTION_FOG_OFF, val: Ki
+key: MINI_GAME_FISH_HELP_TEXT, val: Súgó
+key: SUNGMAHEE_TOWER_MISSION_TYPE_ALL_KILL_MOB_PAUSE_SPECIAL, val: Pusztítsd el az összes szörnyet és Démon követ!
+key: CHATTING_SETTING_TITLE, val: Chat beállítások
+key: KEYCHANGE_UP1, val: Elõre
+key: AUTO_AUTO_RESTART, val: Újraéledés
+key: MAILBOX_POST_WRITE_TITLE, val: Tárgy
+key: CHATTING_SETTING_DICE_SETTING, val: Kocka beállítások
+key: PREMIUM_PRIVATE_SHOP_SHOP_CLOSE_BUTTON, val: Bolt zárása
+key: AUTO_AUTO_RANGE, val: Kis hatókör
+key: MC_TAB_BUTTON_PARTY, val: Kazamata-gyûjtemény
+key: GAMEOPTION_TITLE, val: Játék opciók
+key: GRAPHICONOFF_DROP_ITEM_LEVEL3_TOOLTIP, val: Effekt & Név elrejtése
+key: GUILD_BASEINFO_MONEYBANKINFO, val: Céhbank információ
+key: GUILD_DRAGONLAIR_RANKING_NAME, val: Céh
+key: EVENT_REWARD_TITLE, val: Jutalom
+key: SUNGMAHEE_TOWER_MISSION_TYPE_BOSS, val: Öld meg az összes szörnyet!
+key: EMPIRE_ALL, val: Összes
+key: KEYCHANGE_EMOTION8, val: Érzelem (vihar)
+key: GUILD_BASEINFO_TITLE, val: Terület-információ
+key: KEYCHANGE_EMOTION2, val: Érzelem (Yang)
+key: DRAGONSOUL_REFINE_WINDOW_TITLE, val: Nemesítési ablak
+key: KEYCHANGE_EMOTION7, val: Érzelem (ötlet)
+key: KEYCHANGE_EMOTION6, val: Érzelem (bomba)
+key: KEYCHANGE_EMOTION5, val: Érzelem (szívek)
+key: KEYCHANGE_EMOTION4, val: Érzelem (szív)
+key: CUBE_RENEWAL_TITLE, val: Fejlesztés
+key: GUILD_WAR_NORMAL, val: Harcmezõ
+key: HELP_CHANGE_PK_MODE, val: Támadási mód váltás: bal egérgomb beállítása
+key: GRAPHICONOFF_NPC_NAME_STATUS_OFF, val: Ki
+key: BATTLE_FILED_RANK_POINT, val: Pontok
+key: CHATTING_SETTING_EXP, val: Tapasztalat
+key: EMPIRE_EXIT, val: Bezár
+key: DO_CHANGE_ATTR, val: Mehet
+key: GUILD_WAR_JOINMEMBER_TEN, val: 10
+key: EMPIRE_PATH, val: locale/hu/ui/empire/
+key: PET_INFORMATION_LIFE_TIME, val: Óra
+key: BATTLE_FIELD_INFO, val: Harci övezet
+key: CHARACTER_QUEST, val: Küldetések
+key: COMB_TITLE, val: 
+key: GUILD_BOARD_REFRESH, val: Frissít
+key: OPTION_MOB_INFO_LEVEL, val: Szint
+key: GUILD_NAME, val: Céh
+key: GRAPHICONOFF_PET_STATUS_OFF_TOOLTIP, val: Kedvencek elrejtése
+key: CHATTING_SETTING_TABNAME, val: Chat név beállítása
+key: SAFE_TITLE, val: Tárolóhely
+key: MINI_GAME_BLACK_AND_WHITE_START_BUTTON, val: Indítás
+key: SELECT_TITLE, val: Cím választás
+key: KEYCHANGE_SLOT3, val: 3-as hely
+key: HELP_PICK_ITEM, val: Tárgyak összegyûjtése: 0 vagy Y billentyû, vagy bal egérgomb
+key: LOOTING_SYSTEM_CATEGORY_COSTUME_MOUNT, val: Hátasok
+key: GUILD_BUILDING_CHANGE, val: Cserélni
+key: MYSHOP_DECO_CANCEL, val: Bezár
+key: MC_PROMOTION_BUTTON, val: Elõléptetés
+key: WHISPER_REPORT, val: 
+key: MISTS_ISLAND_TITLE_RANK, val: Rang/státusz információ
 key: app, val: <module 'app' (built-in)>
-key: AUTO_OFF, val: Off
-key: BANNER_CARNIVAL_EVENT, val: Carnaval
-key: HELP_SYSTEM_BUTTON, val: Menu
-key: MINI_GAME_CHALLENGE_RANK_TAB_REWARD_CONFIRM_TEXT, val: Premiações do Ranking
-key: OPTION_ALWAYS_SHOW_NAME, val: Nome
-key: LoadLocaleFile, val: <cyfunction LoadLocaleFile at 0x08A01030>
-key: MINI_BOSS_DUNGEON_DESC, val: locale/br/mini_bossdungeon_event_desc.txt
-key: MC_ACHIEV_SORT_DISABLE, val: Não conquistado
-key: GUILD_WAR_WIN, val: Vença os jogos
-key: QUEST_UI_TEXT_LEVELUP, val: Missão de Caça
-key: CHANGE_ATTR_SELECT, val: Trocar Bônus
-key: KEYCHANGE_CAM_RIGHT2, val: CamDireita2
-key: GEMSHOP_LEFTTIME, val: Duração
-key: PRIVATESHOPSEARCH_SELLER, val: Vendedor
-key: GUILD_WAR_WIN_FIVE, val: Melhor de cinco
-key: MINI_GAME_CHALLENGE_TAB_REWARD, val: Recompensa do Desafio
-key: KEYCHANGE_HELP_WINDOW, val: Ajuda
-key: CREATE_WOMAN, val: Feminino
-key: OPTION_VIEW_CHAT_OFF, val: Ocultar
-key: REFINE_MONEY, val: Custo da Refinação
-key: GUILD_MEMBER_VOTE_CHECK, val: ChecarVotos
-key: MISTS_ISLAND_EMPIRE_SCORE, val: Pontuação Reino
-key: DRAGONSOUL_TAP_TITLE_2, val: Rubi
-key: GUILD_BASEINFO_GUILDLAND, val: Terreno da Guilda
-key: OPTION_BLOCK_PARTY, val: Grupo
-key: KEYCHANGE_SLOT8, val: Slot8
-key: KEYCHANGE_SLOT7, val: Slot7
-key: SELECT_PATH, val: locale/br/ui/select/
-key: KEYCHANGE_SLOT5, val: Slot5
-key: KEYCHANGE_SLOT4, val: Slot4
-key: KEYCHANGE_SLOT3, val: Slot3
-key: KEYCHANGE_SLOT2, val: Slot2
-key: KEYCHANGE_SLOT1, val: Slot1
-key: OPTION_CAMERA_DISTANCE, val: Câmera
+key: KEYCHANGE_RIGHT1, val: Jobb
+key: HELP_SYSTEM_BUTTON, val: Rendszer billentyûk
+key: PASSWORD_DESC_3, val: Megváltoztattad már a jelszavad?
+key: OPTION_SHADOW_TARGET_ALL_TOOLTIP, val: Árnyék mindenre
+key: GUILD_BUILDING_GRADE, val: Rang
+key: EXPIRED_TIME, val: A rendezvény véget ért.
+key: GUILD_BUILDING_CHANGE_FIX, val: Céh újjáépítése
+key: PASSWORD_DESC_2, val: a raktár megnyitásához.
+key: OPTION_NAME_COLOR_NORMAL, val: Normális
+key: GUILD_WAR_WIN, val: Menetek
+key: TASKBAR_MESSENGER, val: Barátok [Alt+M]
+key: QUEST_UI_TEXT_LEVELUP, val: Vadászküldetések
+key: CHANGE_ATTR_SELECT, val: Bónusz megváltoztatása
+key: KEYCHANGE_CAM_RIGHT2, val: Kamera (jobb)
+key: PRIVATE_SHOP_SEARCH_BY_VNUM_BOARD_TITLE, val: Összes találat
+key: GEMSHOP_LEFTTIME, val: Hátralévõ idõ:
+key: PRIVATESHOPSEARCH_SELLER, val: Eladó
+key: PET_INFORMATION_DEFENCE, val: Védekezés
+key: CREATE_WOMAN, val: Asszony
+key: OPTION_VIEW_CHAT_OFF, val: Elrejt
+key: MISTS_ISLAND_RANK, val: Helyezés
+key: MISTS_ISLAND_EMPIRE_SCORE, val: Birodalom pontszáma
+key: REFINE_ELEMENT_CHANGE_COST_TITLE, val: Ára
+key: CHATTING_SETTING_ITEM, val: Tárgyak
+key: OPTION_PVPMODE_FREE, val: Szabad
+key: DRAGONSOUL_TAP_TITLE_2, val: Sárkányrubin
+key: GUILD_BASEINFO_GUILDLAND, val: Céhterület
+key: OPTION_BLOCK_PARTY, val: Csoport
+key: KEYCHANGE_SLOT8, val: 8-as hely
+key: KEYCHANGE_SLOT7, val: 7-es hely
+key: SELECT_PATH, val: locale/hu/ui/select/
+key: KEYCHANGE_SLOT5, val: 5-ös hely
+key: KEYCHANGE_SLOT4, val: 4-es hely
+key: BATTLE_FIELD_OPERATION_TIME_ALL, val: Jelenleg nyitva a belépéshez.
+key: KEYCHANGE_SLOT2, val: 2-es hely
+key: KEYCHANGE_SLOT1, val: 1-es hely
+key: OPTION_CAMERA_DISTANCE, val: Kamera
 key: GRAPHICONOFF_EFFECT_LEVEL5, val: 5
-key: MINI_GAME_RUMI_DISCARD_TEXT, val: janela de confirmação
-key: OPTION_SNOW_TEXTURE_MODE_ON, val: on
+key: GRAPHICONOFF_EFFECT_LEVEL4, val: 4
+key: OPTION_SNOW_TEXTURE_MODE_ON, val: Be
 key: GRAPHICONOFF_EFFECT_LEVEL1, val: 1
 key: GRAPHICONOFF_EFFECT_LEVEL3, val: 3
-key: PARTY_MATCH_TEXT_DUNGEON_NAME, val: Nome da Dungeon
-key: MINI_GAME_YUTNORI_START_TEXT, val: Iniciar
-key: MINI_BOSS_DUNGEON_TITLE_NUM, val: Rank
-key: PET_REVIVE_TARGET, val: Pet que será ressuscitado
-key: MC_ACHIEV_DISABLE, val: Conquista não registrada
-key: GUILD_WAR_GAMETIME_SIXTY, val: 60 minutos
-key: GUILD_BUILDING_LOG, val: Tronco
+key: GRAPHICONOFF_EFFECT_LEVEL2, val: 2
+key: MINI_GAME_YUTNORI_START_TEXT, val: Indítás
+key: GUILD_DONATE_MIDDLE_MATERIAL, val: Közepes adomány
+key: PET_REVIVE_TARGET, val: Felélesztendõ kedvenc
+key: MC_ACHIEV_DISABLE, val: Inaktív
+key: GUILD_WAR_GAMETIME_SIXTY, val: 60 perc
+key: BATTLE_FIELD_OPERATION_TIME_END, val: A Harci övezet még nyitva %s órán át.
 key: CREATE_SP, val: INT
-key: OPTION_NAME_COLOR_NORMAL, val: Normal
-key: PRIVATESHOPSEARCH_SELECT, val: Selecionar
-key: MINI_BOSS_DUNGEON_TOOTIP_06, val: Minha contribuição
+key: MINI_BOSS_DUNGEON_TOOTIP_01, val: Kazamata áttekintés
+key: MINI_GAME_CATCHKING_SELECTION_NUMBER, val: Felfedett kártya
+key: WORLD_BOSS_RANK_NAME, val: Név
+key: KEYCHANGE_RIDE_BYE, val: Ló elküldése
+key: GRAPHICONOFF_PET_STATUS_OFF, val: Ki
+key: MINI_BOSS_DUNGEON_TOOTIP_06, val: Apokalipszis pontjaim
 key: MINI_GAME_YUTNORI_YUTSEM4, val: Yut
 key: MINI_GAME_YUTNORI_YUTSEM5, val: Mo
-key: MINI_GAME_YUTNORI_YUTSEM2, val: Ge
-key: MINI_GAME_YUTNORI_YUTSEM3, val: Geol
-key: GUILD_SKILL_PASSIVE, val: Skills Passivas
-key: HELP_CHAT, val: - Você pode conversar com grupo específicos digitando !(shout), $(party) ou %(guild) na janela do chat.
-key: MESSENGER_DELETE_FRIEND, val: Remover contato
-key: OPTION_TARGET_BOARD, val: Alvo
-key: GUILD_WAR_JOINMEMBER_TEN, val: 10
-key: GUILD_DONATE_TAB_MIDDLE, val: Doação Média
-key: GUILD_BUILDING_STONE, val: Pedra
-key: AUTO_AUTO_ATTACK, val: Ataque 
-key: GUILD_DONATE_MEDAL_OF_HONOR, val: Medalha de Honra
-key: GUILD_CRYSTAL, val: Cristal
-key: GUILD_BUILDING_TITLE, val: Construções da Guilda
-key: COSTUME_WINDOW_TITLE, val: Trajes
-key: KEYCHANGE_CAM_ZOOM_OUT1, val: CamZoomOut1
-key: KEYCHANGE_MONSTER_CARD_WINDOW, val: Cartas de Monstro
-key: KEYCHANGE_RIDE_BYE, val: Retornar Cavalo
-key: STEP, val: Brilho
-key: GUILD_BUILDING_CHANGE_LIST, val: Lista de Objetos da Guilda
-key: KEYCHANGE_CAM_ZOOM_OUT2, val: CamZoomOut2
-key: GUILD_MEMBER_RANK, val: Título
-key: PRIVATESHOPSEARCH_JOB, val: Classe
+key: BANNER_LUCKY_EVENT, val: SZÖRNY-VADÁSZAT
+key: MAILBOX_POST_READ_RECV, val: Begyûjt
+key: GUILD_SKILL_PASSIVE, val: Passzív
+key: HELP_CHAT, val: Egy bizonyos csoportban való beszélgetéshez kezdd üzeneted a következõk egyikével: !(hívás), #(csoport cset) vagy %(céh cset).
+key: LANGUAGE_FR, val: Francia
+key: MESSENGER_DELETE_FRIEND, val: Töröl
+key: OPTION_TARGET_BOARD, val: Cél menü
+key: FLOWER_EVENT_SHOOT_LILY_TEXT, val: Liliom hajtás
+key: GUILD_DONATE_TAB_MIDDLE, val: Közepes adomány
+key: MINI_GAME_YUTNORI_THROW, val: Dobás
+key: GUILD_BUILDING_STONE, val: Kõ
+key: AUTO_AUTO_ATTACK, val: Támadás
+key: LOOTING_SYSTEM_CATEGORY_JOB_WARRIOR, val: Harcos
+key: GUILD_CRYSTAL, val: Kristály
+key: SUNGMAHEE_TOWER_MISSION_TYPE_STAIRS, val: Menj fel a lépcsõn a következõ szintre!
+key: GUILD_BUILDING_TITLE, val: Céhház építés
+key: PET_NAME_CHANGE_WINDOW_TITLE, val: Névváltoztatás
+key: OPTION_SNOW_MODE_OFF, val: Ki
+key: KEYCHANGE_MONSTER_CARD_WINDOW, val: Szörnykártya
+key: CHATTING_SETTING_TALKING, val: Általános
+key: STEP, val: Tisztasági minõség
+key: PREMIUM_PRIVATE_SHOP_TAX_ADJUSTMENT_BUTTON, val: Begyûjt
+key: ROULETTE_TITLE, val: Jutalmak
+key: REFINE_ELEMENT_CHANGE_TITLE, val: Elem megváltoztatása
+key: GUILD_BUILDING_CHANGE_LIST, val: Céh-ingatlanlista
+key: KEYCHANGE_CAM_ZOOM_OUT2, val: Kamera (távolít)
+key: GUILD_MEMBER_RANK, val: Rang
+key: MC_SHUFFLE_BUTTON, val: Megbízáskártyák megkeverése
 key: OPTION_SHADOW_TARGET_ALL, val: 4
-key: GUILD_LANDDEAL_VOTE_DEALGUILDNAME, val: G. compradora
-key: GEMSHOP_TITLA, val: Mercado de Gaya
-key: MC_SHUFFLE_BUTTON, val: Reiniciar Cartas de Missão
-key: GUILD_ATTENDANCE_TITLE, val: Recompensa por Presença
-key: TOTAL_RANKING, val: Ranking Total
-key: MC_MOTION_BUTTON, val: Movimento
-key: HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON, val: A visão da câmera é ajustável através do botão através do botão scroll do mouse,
-key: MINI_GAME_CATCHKING_SCORE, val: Pontuação
-key: CHAT_FILTER_DICE, val: Dado
-key: FISHING_RENEWAL_TITLE, val: Pescaria
-key: CREATE_MAN, val: Masculino
-key: HELP_OPEN_QUEST, val: <N> é usado para acessar o quadro de Quests
+key: LOOTING_SYSTEM_CATEGORY_COSTUME_AURA, val: Aura öltözékek
+key: PET_NAME_CHANGE_BUTTON, val: Csere
+key: COSTUME_TITLE, val: Öltözékek
+key: GEMSHOP_TITLA, val: GAYA PIAC
+key: DRAGON_GATE_AUTO_REINFORCE_TEXT, val: 
+key: EVENT_NAME_TITLE, val: Név
+key: LOOTING_SYSTEM_ETC, val: Egyéb tárgy
+key: TOTAL_RANKING, val: Összesített rangsor
+key: SELECT_DEX_GRADE, val: ÜGY
+key: OPTION_NIGHT_MODE_ON, val: Be
+key: MC_MOTION_BUTTON, val: Mozgás
+key: HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON, val: Alapértelmezett kameraállás: középsõ egérgomb
+key: MINI_GAME_CATCHKING_SCORE, val: Pontszám
+key: CHAT_FILTER_DICE, val: Kocka
+key: PET_ATTR_CONFIRMATION, val: Változtat
+key: FISHING_RENEWAL_TITLE, val: Horgászat
+key: CREATE_MAN, val: Férfi
+key: HELP_OPEN_QUEST, val: Feladat ablak megnyitása: N
+key: SUNGMAHEE_TOWER_MISSION_TYPE_FINDING_RIGHT_MATCH_METIN_STONE, val: Semmisítsd meg az elátkozott Metint!
 key: GUILD_WAR_JOINMEMBER_FIVE, val: 5
-key: DRAGONSOUL_ACTIVATE, val: Ativar 
-key: MC_MISSION_INIT_BUTTON, val: Resetar Missão
-key: OPTION_NIGHT_MODE, val: Noite
-key: GUILD_MASTER_CHANGE_TITLEBAR, val: Mudar Líder
-key: GUILD_WAR_TYPE_NORMAL, val: Batalha Campal
-key: REFINE_ELEMENT_CHANGE_EARTH, val: Terra
-key: BANNER_LARBOR_DAY_EVENT, val: Dia do Trabalho
-key: CHANGE_PASSWORD_TITLE, val: Troca de senha
-key: MC_REWARD_CARD_BUTTON, val: Receber Recompensa
-key: CANCEL, val: Fechar
-key: OPTION_FOG_DENSE, val: Alta
-key: MAILBOX_POST_READ_BLOCK, val: [Bloquear]
-key: GUILD_SKILL_ACTIVE, val: Skills Ativas
-key: GUILD_GRADE_PERMISSION_SKILL, val: Habilidades
-key: OPTION_SETTING, val: Definir
-key: GUILD_MEMBER_JOB, val: Classe
-key: GUILD_MEMBER_SPECIFIC_GRAVITY, val: Exp %
-key: OPTION_CAMERA_DISTANCE_SHORT, val: Perto
-key: PET_REVIVE_TITLE, val: Ressuscitar Pet
-key: GUILD_ATTENDANCE_LOCA9, val: Reinicialização da Presença: 05:00 AM
-key: KEYCHANGE_PET_WINDOW, val: Pet
-key: MOUSEBUTTON_CAMERA, val: Câmera
-key: OPTION_SALESTEXT, val: Loja
-key: MESSAGE, val: Mensagem
-key: GUILD_SKILLPAGE_LADDER, val: Ponto de Ranking
-key: KEYCHANGE_SAVE, val: Salvar
-key: MC_TAB_BUTTON_SOLO, val: Coleção do Mapa
-key: TASKBAR_NEXT_QUICKSLOT, val: Atalhos seguintes [<Shift>+<Número> ou <Alt>]
-key: OPTION_PVPMODE_FREE_TOOLTIP, val: Permite atacar todos os jogadores
-key: KEYCHANGE_SLOT_KET, val: Tecla de Slot
-key: REFINE_ELEMENT_CHANGE_ELECT, val: Relâmpago
-key: MINI_GAME_CHALLENGE_REWARD_TAB_TITLE_LEVEL, val: Subir Nível
-key: MC_TAB_BUTTON_ACHIEV, val: Livro de Conquistas
-key: MINI_GAME_CATCHKING_HIGH_SCORE, val: Maior pontuação
-key: GUILD_BASEINFO_GOLDMANAGE, val: Gerenciamento de gold
-key: GUILD_ATTENDANCE_LOCA2, val: 10 ou mais: Medalha de Honra x1
-key: MINI_GAME_CHALLENGE_GAME_TAB_TEXT_CHALLENGE, val: Desafio
-key: QUEST_UI_TEXT_COLLECTION, val: Missão de Coleta
-key: INVENTORY_TITLE, val: Inventário
-key: OPTION_MOBILE, val: Número de celular
-key: GUILD_BUILDING_CHANGE_FIX, val: Reparar Objeto da Guilda
-key: GRAPHICONOFF_EFFECT_LEVEL5_TOOLTIP, val: Esconder todos os efeitos
-key: LOGIN_REGION_TITLE, val: Escolha o Reino
-key: GUILD_GRADE_PERMISSION_DELETE, val: Expulsar
-key: GUILD_ATTENDANCE_LOCA7, val: 60 ou mais: Medalha de Honra x10
-key: BANNER_MYSTERY_BOX_BUTTON, val: Baú Misterioso
-key: GUILD_BASEINFO_MONEYOUT, val: saída
-key: KEYCHANGE_CAM_ZOOM_IN2, val: CamZoomIn2
-key: GUILD_ATTENDANCE_LOCA6, val: 50 ou mais: Medalha de Honra x8
-key: OPTION_TITLE, val: Opções
-key: CHANGE_PASSWORD_CONFIRM, val: Confirme a nova senha
-key: KEYCHANGE_SKILL_WINDOW, val: Habilidades
-key: MESSENGER_BLOCK_FRIEND, val: Lista de Bloqueio
-key: PET_REVIVE_MATERIAL_TITLE, val: Material
-key: STRUCTURE_VIEW_TYPE_STRUCTURE, val: Estruturas
-key: ACCE_RESULT, val: Resultado
-key: AUTO_AUTO_POSITION, val: Poção
-key: AURA_MAIN, val: Principal
-key: PET_ATTR_CHANGE_TITLE, val: Alterar atributo do Pet
-key: BATTLE_FIELD_OPERATION_TIME_NA, val: Fechado
-key: KEYCHANGE_RIDE, val: Montar
-key: BANNER_NEW_XMAS_BUTTON, val: Natal
-key: GUILD_WAR_REPORT, val: Registros das Guerras de Guilda
-key: AUTO_SETTING, val: Configuração
-key: MISTS_ISLAND_INFO_TEXT, val: Informação sobre rank e status
-key: COMB_MATERIAL, val: Material
-key: GUILD_WAR_TYPE_DEFENSE, val: Guerra do Escudo
-key: MINI_GAME_CHALLENGE_REWARD_TAB_USE_CHALLENGE_EXP_TEXT, val: Usar
-key: GUILD_WAR_WIN_ONE, val: Uma vitória
-key: MINI_GAME_CHALLENGE_TITLE, val: Evento do Desafio
+key: localeDict, val: {'ATTACH_METIN_TITLE': 'Szellemk\xf5 haszn\xe1lata', 'HELP_AUTO_ATTACK': 'Eg\xe9rkattint\xe1sonk\xe9nt automatikus t\xe1mad\xe1st aktiv\xe1l.', 'HELP_SP': 'Mana pontok (MP)', 'OPTION_SNOW_MODE_ON': 'Be', 'GUILD_GRADE_RANK': 'Rang', 'OPTION_PVPMODE_GUILD': 'C\xe9h', 'HELP_CAMERA': 'Kameran\xe9zet', 'OPTION_SOUND': 'Hat\xe1s', 'STRENGTH': 'Er\xf5s\xedt\xe9s', 'DO_REFINE': 'Nemes\xedt', 'TASKBAR_CHARACTER': 'Karakter [C/V/B/N]', 'PET_ATTR_DETERMINE_TITLE': '\xdaj kedvenc t\xedpus', 'MESSENGER_WHISPER': 'S\xfag\xe1s', 'GUILD_PATH': 'locale/hu/ui/guild/', 'GUILD_WAR_ACCEPT': 'C\xe9h had\xfczenet elfogad\xe1sa', 'KEYCHANGE_UP2': 'El\xf5re', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL': 'Mag\xe1n boltok', 'GUILD_BASEINFO_BANKLASTOUT': 'Ut. kivett t\xe1rgy', 'PREMIUM_PRIVATE_SHOP_MODIFY_BUTTON': 'M\xf3dos\xedt', 'PARTY_MATCH_TEXT_DUNGEON_SELECT': 'V\xe1lassz kazamat\xe1t', 'MOUSEBUTTON_AUTO_ATTACK': 'Automatikus t\xe1mad\xe1s', 'OPTION_INPUT_MOBILE_BUTTON': 'Mobiltelefonsz\xe1m megad\xe1sa', 'DRAGON_GATE_NAME': '', 'LoadLocaleFile': <cyfunction LoadLocaleFile at 0x0810C7C0>, 'CREATE_NEXT': 'Tov\xe1bb', 'GUILD_GEM': 'Dr\xe1gak\xf5', 'LOOTING_SYSTEM_INIT': 'Vissza\xe1ll\xedt', 'MINI_BOSS_DUNGEON_TOOTIP_08': 'Jutalmam', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL1_TOOLTIP': 'Mindent mutat', 'SELECT_ATTR_TITLE': 'Megb\xfbv\xf6l\xf5 t\xe1rgy+', 'MINI_GAME_YUTNORI_PROBABILITY': 'Val\xf3sz\xedn\xfbs\xe9g', 'TASKBAR_CHAT': 'Cset ablak [Enter]', 'HELP_OPEN_ZONEMAP': 'Nagy t\xe9rk\xe9p megnyit\xe1sa: M', 'MINI_BOSS_DUNGEON_TOOTIP_03': 'Apokalipszis 81. szint felettieknek', 'LOOTING_SYSTEM_COMMON': 'Egy\xe9b felszerel\xe9s', 'GUILD_INFO_DECALRE_WAR': 'Hadat \xfczen', 'MINI_BOSS_DUNGEON_TOOTIP_07': 'H\xe1tral\xe9v\xf5 Apokalipszisek', 'MINI_BOSS_DUNGEON_TOOTIP_04': 'Bel\xe9p\xe9s', 'MINI_BOSS_DUNGEON_TOOTIP_05': 'Marad\xe9k id\xf5', 'CHANGE_PASSWORD_OLD': 'R\xe9gi jelsz\xf3', 'KEYCHANGE_CAM_ZOOM_OUT1': 'Kamera (t\xe1vol\xedt)', 'PRIVATESHOPSEARCH_SEARCH': 'Keres\xe9s', 'OPTION_NIGHT_MODE_OFF': 'Ki', 'GUILD_DONATE_MEDAL_OF_HONOR': 'B\xe1tors\xe1g med\xe1lja', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL2_TOOLTIP': 'Minden megjelen\xedt\xe9se nagy t\xe1vols\xe1gban', 'LOGIN_PASSWORD': 'Jelsz\xf3', 'LOOTING_SYSTEM_QUESTION_HEAD': 'Itt tudod be\xe1ll\xedtani a sisakok begy\xfbjt\xe9s\xe9nek r\xe9szleteit.', 'LOOTING_SYSTEM_DS': 'S\xe1rk\xe1nyk\xf5-alk\xedmia', 'AUTO_AUTO_SKILL': 'K\xe9szs\xe9gek', 'CATCHKING_EVENT_SIMPLE_DESC': 'locale/hu/catchking_event_simple_desc.txt', 'GUILD_ATTENDANCE_LOCA9': 'Indul: naponta 5:00 \xf3rakor', 'GUILD_ATTENDANCE_LOCA8': '70 vagy t\xf6bb: 12x B\xe1tors\xe1g med\xe1lja', 'MC_TAB_BUTTON_SOLO': 'Ny\xedlt terep-gy\xfbjtem\xe9ny', 'GUILD_ATTENDANCE_LOCA3': '20 vagy t\xf6bb: 2x B\xe1tors\xe1g med\xe1lja', 'GUILD_ATTENDANCE_LOCA2': '10 vagy t\xf6bb: 1x B\xe1tors\xe1g med\xe1lja', 'GUILD_ATTENDANCE_LOCA1': 'Els\xf5 r\xe9szv\xe9tel: 1x B\xe1tors\xe1g med\xe1lja', 'GUILD_DONATE_COUNT': 'Szabad adom\xe1nyoz\xe1s: %d/%d', 'GUILD_ATTENDANCE_LOCA7': '60 vagy t\xf6bb: 10x B\xe1tors\xe1g med\xe1lja', 'GUILD_ATTENDANCE_LOCA6': '50 vagy t\xf6bb: 8x B\xe1tors\xe1g med\xe1lja', 'GUILD_ATTENDANCE_LOCA5': '40 vagy t\xf6bb: 6x B\xe1tors\xe1g med\xe1lja', 'ATTR_67_REGIST_SLOT_TITLE': 'C\xe9lt\xe1rgy', 'SELECT_PLAYTIME': 'J\xe1t\xe9kid\xf5', 'MC_TAB_BUTTON_CARD_MISSION': 'K\xe1rtya megb\xedz\xe1s', 'KEYCHANGE_CAM_ZOOM_IN2': 'Kamera (k\xf6zel\xedt)', 'MINI_GAME_BLACK_AND_WHITE_DONATE': 'Adom\xe1nyoz\xe1s', 'PET_ATTR_CHANGE_ITEM_TEXT': 'Kedvenc megb\xfbv\xf6l\xf5', 'OPTION_SHADOW_QUALITY': '\xc1rny\xe9kmin\xf5s\xe9g', 'BATTLE_FILED_RANK': 'Helyez\xe9s', 'GUILD_WAR_ENEMY': 'Ellens\xe9g', 'AUTO_CLEAR': 'T\xf6r\xf6l', 'GUILD_INFO_LEVEL': 'C\xe9h-szint', 'MINI_GAME_YUTNORI_YUTSEM6': 'Back Do', 'MINI_GAME_RUMI_DISCARD_TEXT': 'Biztons\xe1gos m\xf3d', 'HELP_OPEN_CHAT': 'Cset ablak megnyit\xe1sa: Enter', 'MC_ACHIEV_BONUS_NONE': 'Nincs b\xf3nusz', 'AUTOBAN_QUIZ_ANSWER': 'ANSWER', 'AUTO_POTION_SETTING': 'B\xe1jitalok', 'LOOTING_SYSTEM_CATEGORY_COMMON_BELT': '\xd6vek', 'PRIVATE_SHOP_SEARCH_BY_VNUM_SEARCH_BUTTON_TEXT': 'Keres\xe9s', 'PET_INFORMATION_COSTUME_BONUS': '\xd6lt\xf6z\xe9k b\xf3nusz', 'MINI_GAME_YUTNORI_YUTSEM2': 'Gae', 'PET_INFORMATION_AGE': 'Kor', 'HELP_SHOW_ALL_NAME': 'Nevek megmutat\xe1sa: Alt', 'MINI_GAME_YUTNORI_YUTSEM3': 'Geol', 'MINI_GAME_YUTNORI_PLAYER_TEXT': 'J\xe1t\xe9kos', 'MAILBOX_POST_WRITE_BUTTON_TEXT': 'K\xfcld\xe9s', 'PASSIVE_ATTR_UI_CHARGE_BUTTON': 'Felt\xf6lt', 'AUTO_START': 'Ind\xedt\xe1s', 'MYSHOP_DECO_SELECT_MODEL': 'V\xe1laszd ki boltod megjelen\xe9s\xe9t!', 'GRAPHICONOFF_NPC_NAME_STATUS': 'NPC nevek', 'MINI_GAME_YUTNORI_YUTSEM1': 'Do', 'OPTION_SHADOW_QUALITY_BAD': 'Alacsony', 'KEYCHANGE_CAM_UP1': 'Kamera (fel)', 'KEYCHANGE_CAM_UP2': 'Kamera (fel)', 'OPTION_FOG_LIGHT': 'Kev\xe9s', 'GUILD_MARK': 'C\xe9h jel', 'WHISPER_BAN': 'Letilt\xe1s', 'MINIMIZE': 'Minimaliz\xe1l', 'BANNER_MYSTERY_BOX_BUTTON_2': 'ZS\xc1KM\xc1NY-VAD\xc1SZAT II', 'OPTION_FOG_OFF': 'Ki', 'MINI_GAME_FISH_HELP_TEXT': 'S\xfag\xf3', 'SUNGMAHEE_TOWER_MISSION_TYPE_ALL_KILL_MOB_PAUSE_SPECIAL': 'Puszt\xedtsd el az \xf6sszes sz\xf6rnyet \xe9s D\xe9mon k\xf6vet!', 'CHATTING_SETTING_TITLE': 'Chat be\xe1ll\xedt\xe1sok', 'KEYCHANGE_UP1': 'El\xf5re', 'AUTO_AUTO_RESTART': '\xdajra\xe9led\xe9s', 'MAILBOX_POST_WRITE_TITLE': 'T\xe1rgy', 'CHATTING_SETTING_DICE_SETTING': 'Kocka be\xe1ll\xedt\xe1sok', 'PREMIUM_PRIVATE_SHOP_SHOP_CLOSE_BUTTON': 'Bolt z\xe1r\xe1sa', 'AUTO_AUTO_RANGE': 'Kis hat\xf3k\xf6r', 'MC_TAB_BUTTON_PARTY': 'Kazamata-gy\xfbjtem\xe9ny', 'GAMEOPTION_TITLE': 'J\xe1t\xe9k opci\xf3k', 'GRAPHICONOFF_DROP_ITEM_LEVEL3_TOOLTIP': 'Effekt & N\xe9v elrejt\xe9se', 'GUILD_BASEINFO_MONEYBANKINFO': 'C\xe9hbank inform\xe1ci\xf3', 'GUILD_DRAGONLAIR_RANKING_NAME': 'C\xe9h', 'EVENT_REWARD_TITLE': 'Jutalom', 'SUNGMAHEE_TOWER_MISSION_TYPE_BOSS': '\xd6ld meg az \xf6sszes sz\xf6rnyet!', 'EMPIRE_ALL': '\xd6sszes', 'KEYCHANGE_EMOTION8': '\xc9rzelem (vihar)', 'GUILD_BASEINFO_TITLE': 'Ter\xfclet-inform\xe1ci\xf3', 'KEYCHANGE_EMOTION2': '\xc9rzelem (Yang)', 'DRAGONSOUL_REFINE_WINDOW_TITLE': 'Nemes\xedt\xe9si ablak', 'KEYCHANGE_EMOTION7': '\xc9rzelem (\xf6tlet)', 'KEYCHANGE_EMOTION6': '\xc9rzelem (bomba)', 'KEYCHANGE_EMOTION5': '\xc9rzelem (sz\xedvek)', 'KEYCHANGE_EMOTION4': '\xc9rzelem (sz\xedv)', 'CUBE_RENEWAL_TITLE': 'Fejleszt\xe9s', 'GUILD_WAR_NORMAL': 'Harcmez\xf5', 'HELP_CHANGE_PK_MODE': 'T\xe1mad\xe1si m\xf3d v\xe1lt\xe1s: bal eg\xe9rgomb be\xe1ll\xedt\xe1sa', 'GRAPHICONOFF_NPC_NAME_STATUS_OFF': 'Ki', 'BATTLE_FILED_RANK_POINT': 'Pontok', 'CHATTING_SETTING_EXP': 'Tapasztalat', 'EMPIRE_EXIT': 'Bez\xe1r', 'DO_CHANGE_ATTR': 'Mehet', 'GUILD_WAR_JOINMEMBER_TEN': '10', 'EMPIRE_PATH': 'locale/hu/ui/empire/', 'PET_INFORMATION_LIFE_TIME': '\xd3ra', 'BATTLE_FIELD_INFO': 'Harci \xf6vezet', 'CHARACTER_QUEST': 'K\xfcldet\xe9sek', 'COMB_TITLE': '', 'GUILD_BOARD_REFRESH': 'Friss\xedt', 'OPTION_MOB_INFO_LEVEL': 'Szint', 'GUILD_NAME': 'C\xe9h', 'GRAPHICONOFF_PET_STATUS_OFF_TOOLTIP': 'Kedvencek elrejt\xe9se', 'CHATTING_SETTING_TABNAME': 'Chat n\xe9v be\xe1ll\xedt\xe1sa', 'SAFE_TITLE': 'T\xe1rol\xf3hely', 'MINI_GAME_BLACK_AND_WHITE_START_BUTTON': 'Ind\xedt\xe1s', 'SELECT_TITLE': 'C\xedm v\xe1laszt\xe1s', 'KEYCHANGE_SLOT3': '3-as hely', 'HELP_PICK_ITEM': 'T\xe1rgyak \xf6sszegy\xfbjt\xe9se: 0 vagy Y billenty\xfb, vagy bal eg\xe9rgomb', 'LOOTING_SYSTEM_CATEGORY_COSTUME_MOUNT': 'H\xe1tasok', 'GUILD_BUILDING_CHANGE': 'Cser\xe9lni', 'MYSHOP_DECO_CANCEL': 'Bez\xe1r', 'MC_PROMOTION_BUTTON': 'El\xf5l\xe9ptet\xe9s', 'WHISPER_REPORT': '', 'MISTS_ISLAND_TITLE_RANK': 'Rang/st\xe1tusz inform\xe1ci\xf3', 'app': <module 'app' (built-in)>, 'KEYCHANGE_RIGHT1': 'Jobb', 'HELP_SYSTEM_BUTTON': 'Rendszer billenty\xfbk', 'PASSWORD_DESC_3': 'Megv\xe1ltoztattad m\xe1r a jelszavad?', 'OPTION_SHADOW_TARGET_ALL_TOOLTIP': '\xc1rny\xe9k mindenre', 'GUILD_BUILDING_GRADE': 'Rang', 'EXPIRED_TIME': 'A rendezv\xe9ny v\xe9get \xe9rt.', 'GUILD_BUILDING_CHANGE_FIX': 'C\xe9h \xfajj\xe1\xe9p\xedt\xe9se', 'PASSWORD_DESC_2': 'a rakt\xe1r megnyit\xe1s\xe1hoz.', 'OPTION_NAME_COLOR_NORMAL': 'Norm\xe1lis', 'GUILD_WAR_WIN': 'Menetek', 'TASKBAR_MESSENGER': 'Bar\xe1tok [Alt+M]', 'QUEST_UI_TEXT_LEVELUP': 'Vad\xe1szk\xfcldet\xe9sek', 'CHANGE_ATTR_SELECT': 'B\xf3nusz megv\xe1ltoztat\xe1sa', 'KEYCHANGE_CAM_RIGHT2': 'Kamera (jobb)', 'PRIVATE_SHOP_SEARCH_BY_VNUM_BOARD_TITLE': '\xd6sszes tal\xe1lat', 'GEMSHOP_LEFTTIME': 'H\xe1tral\xe9v\xf5 id\xf5:', 'PRIVATESHOPSEARCH_SELLER': 'Elad\xf3', 'PET_INFORMATION_DEFENCE': 'V\xe9dekez\xe9s', 'CREATE_WOMAN': 'Asszony', 'OPTION_VIEW_CHAT_OFF': 'Elrejt', 'MISTS_ISLAND_RANK': 'Helyez\xe9s', 'MISTS_ISLAND_EMPIRE_SCORE': 'Birodalom pontsz\xe1ma', 'REFINE_ELEMENT_CHANGE_COST_TITLE': '\xc1ra', 'CHATTING_SETTING_ITEM': 'T\xe1rgyak', 'OPTION_PVPMODE_FREE': 'Szabad', 'DRAGONSOUL_TAP_TITLE_2': 'S\xe1rk\xe1nyrubin', 'GUILD_BASEINFO_GUILDLAND': 'C\xe9hter\xfclet', 'OPTION_BLOCK_PARTY': 'Csoport', 'KEYCHANGE_SLOT8': '8-as hely', 'KEYCHANGE_SLOT7': '7-es hely', 'SELECT_PATH': 'locale/hu/ui/select/', 'KEYCHANGE_SLOT5': '5-\xf6s hely', 'KEYCHANGE_SLOT4': '4-es hely', 'BATTLE_FIELD_OPERATION_TIME_ALL': 'Jelenleg nyitva a bel\xe9p\xe9shez.', 'KEYCHANGE_SLOT2': '2-es hely', 'KEYCHANGE_SLOT1': '1-es hely', 'OPTION_CAMERA_DISTANCE': 'Kamera', 'GRAPHICONOFF_EFFECT_LEVEL5': '5', 'GRAPHICONOFF_EFFECT_LEVEL4': '4', 'OPTION_SNOW_TEXTURE_MODE_ON': 'Be', 'GRAPHICONOFF_EFFECT_LEVEL1': '1', 'GRAPHICONOFF_EFFECT_LEVEL3': '3', 'GRAPHICONOFF_EFFECT_LEVEL2': '2', 'MINI_GAME_YUTNORI_START_TEXT': 'Ind\xedt\xe1s', 'GUILD_DONATE_MIDDLE_MATERIAL': 'K\xf6zepes adom\xe1ny', 'PET_REVIVE_TARGET': 'Fel\xe9lesztend\xf5 kedvenc', 'MC_ACHIEV_DISABLE': 'Inakt\xedv', 'GUILD_WAR_GAMETIME_SIXTY': '60 perc', 'BATTLE_FIELD_OPERATION_TIME_END': 'A Harci \xf6vezet m\xe9g nyitva %s \xf3r\xe1n \xe1t.', 'CREATE_SP': 'INT', 'MINI_BOSS_DUNGEON_TOOTIP_01': 'Kazamata \xe1ttekint\xe9s', 'MINI_GAME_CATCHKING_SELECTION_NUMBER': 'Felfedett k\xe1rtya', 'WORLD_BOSS_RANK_NAME': 'N\xe9v', 'KEYCHANGE_RIDE_BYE': 'L\xf3 elk\xfcld\xe9se', 'GRAPHICONOFF_PET_STATUS_OFF': 'Ki', 'MINI_BOSS_DUNGEON_TOOTIP_06': 'Apokalipszis pontjaim', 'MINI_GAME_YUTNORI_YUTSEM4': 'Yut', 'MINI_GAME_YUTNORI_YUTSEM5': 'Mo', 'BANNER_LUCKY_EVENT': 'SZ\xd6RNY-VAD\xc1SZAT', 'MAILBOX_POST_READ_RECV': 'Begy\xfbjt', 'GUILD_SKILL_PASSIVE': 'Passz\xedv', 'HELP_CHAT': 'Egy bizonyos csoportban val\xf3 besz\xe9lget\xe9shez kezdd \xfczeneted a k\xf6vetkez\xf5k egyik\xe9vel: !(h\xedv\xe1s), #(csoport cset) vagy %(c\xe9h cset).', 'LANGUAGE_FR': 'Francia', 'MESSENGER_DELETE_FRIEND': 'T\xf6r\xf6l', 'OPTION_TARGET_BOARD': 'C\xe9l men\xfc', 'FLOWER_EVENT_SHOOT_LILY_TEXT': 'Liliom hajt\xe1s', 'GUILD_DONATE_TAB_MIDDLE': 'K\xf6zepes adom\xe1ny', 'MINI_GAME_YUTNORI_THROW': 'Dob\xe1s', 'GUILD_BUILDING_STONE': 'K\xf5', 'AUTO_AUTO_ATTACK': 'T\xe1mad\xe1s', 'LOOTING_SYSTEM_CATEGORY_JOB_WARRIOR': 'Harcos', 'GUILD_CRYSTAL': 'Krist\xe1ly', 'SUNGMAHEE_TOWER_MISSION_TYPE_STAIRS': 'Menj fel a l\xe9pcs\xf5n a k\xf6vetkez\xf5 szintre!', 'GUILD_BUILDING_TITLE': 'C\xe9hh\xe1z \xe9p\xedt\xe9s', 'PET_NAME_CHANGE_WINDOW_TITLE': 'N\xe9vv\xe1ltoztat\xe1s', 'OPTION_SNOW_MODE_OFF': 'Ki', 'KEYCHANGE_MONSTER_CARD_WINDOW': 'Sz\xf6rnyk\xe1rtya', 'CHATTING_SETTING_TALKING': '\xc1ltal\xe1nos', 'STEP': 'Tisztas\xe1gi min\xf5s\xe9g', 'PREMIUM_PRIVATE_SHOP_TAX_ADJUSTMENT_BUTTON': 'Begy\xfbjt', 'ROULETTE_TITLE': 'Jutalmak', 'REFINE_ELEMENT_CHANGE_TITLE': 'Elem megv\xe1ltoztat\xe1sa', 'GUILD_BUILDING_CHANGE_LIST': 'C\xe9h-ingatlanlista', 'KEYCHANGE_CAM_ZOOM_OUT2': 'Kamera (t\xe1vol\xedt)', 'GUILD_MEMBER_RANK': 'Rang', 'MC_SHUFFLE_BUTTON': 'Megb\xedz\xe1sk\xe1rty\xe1k megkever\xe9se', 'OPTION_SHADOW_TARGET_ALL': '4', 'LOOTING_SYSTEM_CATEGORY_COSTUME_AURA': 'Aura \xf6lt\xf6z\xe9kek', 'PET_NAME_CHANGE_BUTTON': 'Csere', 'COSTUME_TITLE': '\xd6lt\xf6z\xe9kek', 'GEMSHOP_TITLA': 'GAYA PIAC', 'DRAGON_GATE_AUTO_REINFORCE_TEXT': '', 'EVENT_NAME_TITLE': 'N\xe9v', 'LOOTING_SYSTEM_ETC': 'Egy\xe9b t\xe1rgy', 'TOTAL_RANKING': '\xd6sszes\xedtett rangsor', 'SELECT_DEX_GRADE': '\xdcGY', 'OPTION_NIGHT_MODE_ON': 'Be', 'MC_MOTION_BUTTON': 'Mozg\xe1s', 'HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON': 'Alap\xe9rtelmezett kamera\xe1ll\xe1s: k\xf6z\xe9ps\xf5 eg\xe9rgomb', 'MINI_GAME_CATCHKING_SCORE': 'Pontsz\xe1m', 'CHAT_FILTER_DICE': 'Kocka', 'PET_ATTR_CONFIRMATION': 'V\xe1ltoztat', 'FISHING_RENEWAL_TITLE': 'Horg\xe1szat', 'CREATE_MAN': 'F\xe9rfi', 'HELP_OPEN_QUEST': 'Feladat ablak megnyit\xe1sa: N', 'SUNGMAHEE_TOWER_MISSION_TYPE_FINDING_RIGHT_MATCH_METIN_STONE': 'Semmis\xedtsd meg az el\xe1tkozott Metint!', 'GUILD_WAR_JOINMEMBER_FIVE': '5', 'localeDict': {...}, 'DRAGONSOUL_ACTIVATE': 'Aktiv\xe1l\xe1s', 'MC_MISSION_INIT_BUTTON': 'Megb\xedz\xe1sszint-vissza\xe1ll\xedt\xe1s', 'OPTION_NIGHT_MODE': '\xc9jjel', 'CHATTING_SETTING_GUILD': 'C\xe9h', 'PRIVATESHOPSEARCH_SELECT': 'V\xe1laszt\xe1s', 'MINI_GAME_CATCHKING_RETRY': 'J\xe1tssz \xfajra', 'GUILD_WAR_TYPE_NORMAL': 'Mezei harc', 'REFINE_ELEMENT_CHANGE_EARTH': 'F\xf6ld', 'MINI_GAME_YUTNORI_REWARD_TEXT': 'Jutalom', 'CHANGE_PASSWORD_TITLE': 'Jelsz\xf3 v\xe1ltoztat\xe1s', 'MC_REWARD_CARD_BUTTON': 'Gy\xfbjts Sz\xf6rnyk\xe1rty\xe1t', 'CANCEL': 'Megszak\xedt', 'OPTION_CAMERA_DISTANCE_LONG': 'T\xe1voli', 'OPTION_FOG_DENSE': 'Sok', 'KEYCHANGE_DOWN1': 'H\xe1tra', 'LOOTING_SYSTEM_SKILL_BOOK': 'K\xe9szs\xe9gk\xf6nyv', 'GUILD_SKILL_ACTIVE': 'Akt\xedv', 'GUILD_GRADE_PERMISSION_SKILL': 'C\xe9h-k\xe9szs\xe9gek', 'OPTION_SETTING': 'Megnyit', 'BATTLE_FILED_RANK_EMPIRE': 'Birodalom', 'OPTION_ALWAYS_SHOW_NAME': 'N\xe9v', 'GUILD_BANKINFO_TITLE': 'C\xe9hrakt\xe1r log', 'OPTION_CAMERA_DISTANCE_SHORT': 'K\xf6zeli', 'KEYCHANGE_RIDE_PEED': 'L\xf3 etet\xe9se', 'PET_REVIVE_TITLE': 'H\xe1zikedvenc fel\xe9leszt\xe9se', 'LUCKY_BOX_RETRY_BUTTON': 'Pr\xf3ba-szerencse: \xfaj t\xe1rgy', 'LOOTING_SYSTEM_TITLE': 'Zs\xe1km\xe1nygy\xfbjt\xf5', 'KEYCHANGE_PET_WINDOW': 'H\xe1zikedvenc', 'MOUSEBUTTON_CAMERA': 'Kamera', 'PREMIUM_PRIVATE_SHOP': 'Pr\xe9mium mag\xe1nbolt', 'OPTION_SALESTEXT': 'Bolt n\xe9v', 'MESSAGE': 'Ez egy \xfczenet', 'GUILD_SKILLPAGE_LADDER': 'Rangpontok', 'KEYCHANGE_SAVE': 'Ment\xe9s', 'MC_EXCHANGE_BUTTON': 'Csere', 'GUILD_GRADE_PERMISSION_WAR': 'Kiv\xe1laszthat tagokat bajt\xe1rsaknak', 'OPTION_PVPMODE_FREE_TOOLTIP': 'Minden j\xe1t\xe9kost megt\xe1madhatsz.', 'KEYCHANGE_SLOT_KET': 'Gyorsgombok', 'REFINE_ELEMENT_CHANGE_ELECT': 'Vill\xe1m', 'PREMIUM_PRIVATE_SHOP_YANG_ICON': 'Begy\xfbjthet\xf5 Yang', 'MC_TAB_BUTTON_ACHIEV': 'Eredm\xe9ny b\xf3nusz', 'OPTION_MUSIC': 'Zene', 'MINI_GAME_CATCHKING_HIGH_SCORE': 'Rekord', 'LOOTING_SYSTEM_CATEGORY_COSTUME_ARMOR': '\xd6lt\xf6z\xe9kek', 'LOOTING_SYSTEM_EXIT_WITH_SAVING': 'Ment\xe9s \xe9s kil\xe9p\xe9s?', 'PET_REVIVE_REUSLT_TEXT': 'Eredm\xe9ny', '__package__': None, 'LOGIN_SELECT_BUTTON': 'V\xe1laszt', 'SELECT_ATTR_SELECT': 'V\xe1laszt\xe1s', 'INVENTORY_TITLE': 'Lelt\xe1r', 'OPTION_MOBILE': 'Mobiltelefon', 'CHATTING_SETTING_DETAIL': 'Rendszer be\xe1ll\xedt\xe1sok', 'GRAPHICONOFF_EFFECT_LEVEL5_TOOLTIP': 'Mindent elrejt', 'LOGIN_REGION_TITLE': 'Sz\xe1mlakibocs\xe1t\xe1s helysz\xedne', 'COMB_ATTRIBUTE': 'Kiindul\xe1s', 'GUILD_DRAGONLAIR_RANKING_MEMBER': 'Tag', 'BANNER_MYSTERY_BOX_BUTTON': 'ZS\xc1KM\xc1NY-VAD\xc1SZAT I', 'WORLD_BOSS_RANK_RANK': 'Helyez\xe9s', 'OPTION_TITLE': 'Opci\xf3k', 'CHANGE_PASSWORD_CONFIRM': '\xdaj jelsz\xf3 ism\xe9t', 'KEYCHANGE_SKILL_WINDOW': 'K\xe9szs\xe9gek', 'WORLD_BOSS_DESC_FILE': 'locale/hu/world_boss_desc.txt', 'QUEST_UI_TEXT_COLLECTION': 'Biol\xf3gus k\xfcldet\xe9sek', 'GUILD_ATTENDANCE_LOCA4': '30 vagy t\xf6bb: 4x B\xe1tors\xe1g med\xe1lja', 'MESSENGER_BLOCK_FRIEND': 'Blokkol', 'LANGUAGE_IT': 'Olasz', 'PASSIVE_ATTR_UI_ADD_BUTTON': 'Hozz\xe1ad', 'AUTO_AUTO_POSITION': 'B\xe1jitalok', 'AURA_MAIN': 'Aura \xf6lt\xf6z\xe9k', 'SUNGMAHEE_TOWER_ELEMENT_FIRE': 'T\xfbz', 'PET_ATTR_CHANGE_TITLE': 'H\xe1zikedvenc t\xedpus megv\xe1ltoztat\xe1sa', 'BATTLE_FIELD_OPERATION_TIME_NA': 'Pillanatnyilag lez\xe1rva a bel\xe9p\xe9s el\xf5l.', 'KEYCHANGE_RIDE': 'H\xe1tas', 'KEYCHANGE_ROOT1': 'Felvesz', 'GUILD_WAR_REPORT': 'Csatajelent\xe9s', 'AUTO_SETTING': 'Be\xe1ll\xedt\xe1sok', 'DUTCHAUCTION_BUTTON': 'Menj', 'COMB_MATERIAL': 'Kiindul\xe1s', 'GUILD_WAR_TYPE_DEFENSE': 'Pajzs-harc', 'GUILD_WAR_WIN_ONE': '1', 'REFINE_ELEMENT_CHANGE_FIRE': 'T\xfbz', 'SELECT_SP': 'INT', 'AUTO_SKILL_SETTING': 'K\xe9szs\xe9gek', 'GUILD_DONATE_TAB_HIGH': 'Nagy adom\xe1ny', 'LOGIN_SELECT_OK': 'OK', 'CHATTING_SETTING_LANGUAGE_2': '2. nyelv', 'CHATTING_SETTING_LANGUAGE_3': '3. nyelv', 'GUILD_INFO': 'C\xe9h inform\xe1ci\xf3', 'CHATTING_SETTING_LANGUAGE_1': '1. nyelv', 'name': 'locale/hu', 'MC_WARP_BUTTON': 'Teleport', 'GUILD_GRADE_WRITE': '\xcdrni', 'PREMIUM_PRIVATE_SHOP_WON_ICON': 'Begy\xfbjthet\xf5 Won', 'BANNER_ROULETTE_BUTTON': 'V\xe9r ritu\xe1l\xe9', 'GUILD_INFO_ENEMY_GUILD': 'Ellens\xe9ges c\xe9h', 'SHOP_TITLE': 'Bolt', 'GUILD_INFO_REST_EXP': 'Sz\xfcks\xe9ges tapasztalat', 'LOOTING_SYSTEM_CATEGORY_COMMON': 'Egy\xe9b', 'OPTION_FOG_ON': 'Be', 'OPTION_FOG': 'K\xf6d', 'LOOTING_SYSTEM_QUESTION_DS': 'Itt tudod be\xe1ll\xedtani a S\xe1rk\xe1nyk\xf5-alk\xedmia t\xe1rgyak begy\xfbjt\xe9s\xe9nek r\xe9szleteit.', 'CATCHKING_EVENT_DESC': 'locale/hu/catchking_event_desc.txt', 'SELECT_HP': 'VIT', 'SUNGMAHEE_TOWER_MISSION_TYPE_COMPLETE': 'K\xfcldet\xe9s teljes\xedtve', 'FLOWER_EVENT_EXCHANGE_BUTTON_TEXT': 'Bev\xe1lt\xe1s', 'OPTION_PVPMODE_REVENGE_TOOLTIP': 'Csak elt\xe9r\xf5 vil\xe1gk\xe9p\xfb j\xe1t\xe9kost t\xe1madhatsz meg.', 'PRIVATESHOPSEARCH_PRICE': '\xc1r', 'GUILD_MEMBER_KNIGHT': 'Bajt\xe1rs', 'TASKBAR_INVENTORY': 'Lelt\xe1r [I]', 'OPTION_SHADOW_QUALITY_GOOD': 'Magas', 'LOOTING_SYSTEM_QUESTION_ETC': 'Ide tartozik minden anyag, kiv\xe9ve a felszerel\xe9sek, \xf6lt\xf6z\xe9kek, fogy\xf3t\xe1rgyak, k\xe9szs\xe9g k\xf6nyvek, stb.', 'OPTION_PVPMODE_PEACE': 'B\xe9ke', 'BANNER_VALENTINE_BUTTON': 'VALENTIN NAP', 'REFINE_ELEMENT_CHANGE_WIND': 'Sz\xe9l', 'PRIVATESHOPSEARCH_ITEMTYPE': 'T\xe1rgyak', 'PET_INFORMATION_TITLE': 'H\xe1zikedvenc', 'HELP_OFF_QUESTSCROLL': 'Jelen\xedtsd meg/rejtsd el a k\xfcldet\xe9stekercseket a <CTRL> + Q-val.', 'MC_ACHIEV_ABLE_REGIST': 'Bev\xe1lt', 'LOOTING_SYSTEM_ON': 'BE', 'GRAPHICONOFF_DROP_ITEM_LEVEL4': '4', 'GRAPHICONOFF_DROP_ITEM_LEVEL5': '5', 'PET_FEED_TITLE': 'Etet\xe9s', 'SUNGHAHEE_TOWER_CLEAR': 'K\xe9sz', 'GRAPHICONOFF_DROP_ITEM_LEVEL1': '1', 'GRAPHICONOFF_DROP_ITEM_LEVEL2': '2', 'GRAPHICONOFF_DROP_ITEM_LEVEL3': '3', 'ENTER_BATTLE_FIELD': 'Bel\xe9pni', 'CHARACTER_SPECTIAL_ACTION': 'K\xfcl\xf6nleges akci\xf3k', 'GUILD_BASEINFO_SMEITER': 'C\xe9h-alkimista', 'OPTION_TARGET_BOARD_VIEW': 'Megmutat', 'KEYCHANGE_DSS1': 'DS [\xc9g]', 'GUILD_DONATE_HIGH_MATERIAL': 'Nagy adom\xe1ny', 'HELP_CLICK_OTHER_PLAYER': 'Jobb kattint\xe1s a m\xe1sik j\xe1t\xe9koson keresked\xe9shez, csoportalak\xedt\xe1shoz, vagy hogy kih\xedvd p\xe1rbajra.', 'GUILD_INFO_UPLOAD_MARK': 'Jel felt\xf6lt\xe9s', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL3_TOOLTIP': 'Minden megjelen\xedt\xe9se k\xf6zepes t\xe1vols\xe1gban', 'LANGUAGE_NONE': 'Nincs kiv\xe1lasztva', '__builtins__': <module '__builtin__' (built-in)>, 'MESSENGER_TITLE': 'Bar\xe1t', 'LANGUAGE_PL': 'Lengyel', 'MYSHOP_DECO_DEFAULT': 'Alap\xe9rtelmezett', 'GUILD_WAR_GAMETIME_THIRTY': '30 perc', 'MINI_BOSS_DUNGEON_DESC_BTN': 'Rendezv\xe9ny-szab\xe1lyok', 'LANGUAGE_PT': 'Portug\xe1l', 'LOGIN_SELECT_TITLE': 'Szervert v\xe1laszt', 'KEYCHANGE_RIGHT2': 'Jobb', 'HELP_MOVE_KEY': 'Vez\xe9rl\xe9s: W, A, S, D, vagy ny\xedl billenty\xfbk', 'AUTO_OFF': 'Ki', 'OPTION_EFFECT': 'Tal\xe1lati info.', 'MC_ACHIEV_SORT_DISABLE': 'Nem teljes\xfclt', 'PASSWORD_DESC_1': '\xcdrd be a jelszavad', 'CREATE_SEX': 'Neme', 'PASSWORD_DESC_5': 'V\xe1ltoztasd meg a jelszavad a rakt\xe1rban.', 'PASSWORD_DESC_4': 'Ha m\xe9g nem, a jelszavad "000000" lesz.', 'CREATE_STAT_RESET': 'Vissza', 'DRAGONSOUL_TAP_TITLE_3': 'S\xe1rk\xe1nyj\xe1de', 'RESTART_HERE': '\xdajraind\xedt itt', 'DRAGONSOUL_TAP_TITLE_1': 'S\xe1rk\xe1nygy\xe9m\xe1nt', 'DRAGONSOUL_TAP_TITLE_6': 'S\xe1rk\xe1ny\xf3nix', 'MYSHOP_DECO_NEXT': 'K\xf6vetkez\xf5', 'DRAGONSOUL_TAP_TITLE_4': 'S\xe1rk\xe1nyzaf\xedr', 'DRAGONSOUL_TAP_TITLE_5': 'S\xe1rk\xe1nygr\xe1n\xe1t', 'LOOTING_SYSTEM_CONSUMPTION': 'Fogy\xf3t\xe1rgyak', 'LOOTING_SYSTEM_COSTUME': '\xd6lt\xf6z\xe9k', 'GUILD_SYMBOL': 'C\xe9h z\xe1szl\xf3', 'CHATTING_SETTING_NOTICE': '\xdczenet', 'MARKLIST_TITLE': 'C\xe9h jelet regisztr\xe1l', 'FLOWER_EVENT_SHOOT_SUNFLOWER_TEXT': 'Napraforg\xf3 hajt\xe1s', 'OPTION_SHADOW_QUALITY_AVERAGE': 'K\xf6zepes', 'OPTION_KEY_SETTING': 'Billenty\xfbzet', 'CHATTING_SETTING_SHOUT': 'H\xedv\xf3 chat', 'DRAGON_GATE_SIDE_NAME': '', 'AUTO_POSITION_SETTING': 'B\xe1jitalok', 'BATTLE_FILED_RANK_NAME': 'N\xe9v', 'HELP_OPEN_SKILL': 'K\xe9pess\xe9g ablak megnyit\xe1sa: V', 'WINDOWS_PATH': 'locale/hu/ui/windows/', 'GUILD_DONATE_TITLE': 'EXP adom\xe1ny', 'KEYCHANGE_PARTY_MATCH_WINDOW': 'Csoport keres\xe9s', 'PREMIUM_PRIVATE_SHOP_TAX_ADJUSTMENT_DIALOG_TITLE': 'Begy\xfbjt', 'GUILD_GRADE_PERMISSION_JOIN': 'Felvehet j\xe1t\xe9kost a c\xe9hbe', 'SYSTEMOPTION_TITLE': 'Rendszer opci\xf3k', 'LOOTING_SYSTEM_WEARING_LEVEL': 'Sz\xfcks\xe9ges szint', 'MC_ACHIEV_SHOW': 'R\xe9szletek', 'GUILD_MEMBER_OUT_TITLEBAR': 'Tag elt\xe1vol\xedt\xe1sa', 'GUILD_GRADE_CHANGE_GRADE_NAME': '\xdaj rang n\xe9v', 'LANGUAGE_TR': 'T\xf6r\xf6k', 'BNW_RANK_UI_NAME': 'N\xe9v', 'OPTION_SHADOW_QUALITY_GOOD_TOOLTIP': 'Magas \xe1rny\xe9kmin\xf5s\xe9g', 'AUTO_END': '\xc1llj', 'GUILD_MONEY': 'Yang', 'BATTLE_ROYALE_APPLICATION_TITLE': 'Battle Royale', 'GUILD_INFO_NAME': 'C\xe9h n\xe9v', 'SELECT_ATT_GRADE': 'ER\xd5', 'MOUSEBUTTON_SKILL': 'K\xe9szs\xe9g', 'GUILD_DONATE_GUILD_EXP': 'C\xe9h EXP', 'SYSTEM_HELP': 'Seg\xedts\xe9g', 'GRAPHICONOFF_DROP_ITEM_APPLY': 'Alkalmaz', 'QUEST_UI_TEXT_DAILY': 'Napi k\xfcldet\xe9s', 'LANGUAGE_EN': 'Angol', 'REFINE_ELEMENT_UPGRADE_TITLE': 'Fejleszt\xe9s', 'MAILBOX_POST_READ_BLOCK': 'Blokkol', 'GUILD_MEMBER_NAME': 'N\xe9v', 'KEYCHANGE_DDS_WINDOW': 'DSS', 'GAME_EXIT_OBSERVER': 'Megfigyel\xf5 m\xf3dot befejezni', 'GRAPHICONOFF_PET_STATUS_ON': 'Be', 'LANGUAGE_ES': 'Spanyol', 'BANNER_OLYMPIC_BUTTON': 'H\xd5S RENDEZV\xc9NY', 'GUILD_BASEINFO_LOCALE': 'Elhelyezked\xe9s', 'MESSENGER_OPEN_GUILD': 'C\xe9h ablak nyit\xe1s', 'EXCHANGE_TITLE': 'Keresked\xe9s', 'DRAGONSOUL_TITLE': 'S\xe1rk\xe1nyk\xf5-alk\xedmia', 'SUNGMAHEE_TOWER_ELEMENT_ELEC': 'Vill\xe1m', 'OPTION_BLOCK': 'Letilt', 'BATTLE_ROYALE_MAINBUTTON_APPLICATION': 'R\xe9szv\xe9tel', 'OPTION_VIEW_CHAT': 'Cset sor', 'CODEPAGE': '1250', 'QUEST_UI_TEXT_SYSTEM': 'J\xe1t\xe9k k\xfcldet\xe9sek', 'SYSTEM_EXIT': 'J\xe1t\xe9k befejez\xe9s', 'BANNER_FOOTBALL_BUTTON': 'FOCI', 'MAILBOX_TITLE': 'Bej\xf6v\xf5 \xfczenetek', 'LOOTING_SYSTEM_CATEGORY_COMMON_EAR': 'F\xfclbeval\xf3k', 'MOUSEBUTTON_ATTACK': 'T\xe1mad', 'SELECT_DELETE': 'T\xf6r\xf6l', 'SUNGMAHEE_TOWER_EXIT_BUTTON': 'Kil\xe9p\xe9s', 'MINI_GAME_CATCHKING_TITLE': 'Kapd el a Kir\xe1lyt', 'MC_REQUEST_MISSION_BUTTON': 'Megb\xedz\xe1s elfogad\xe1sa', 'MAILBOX_POST_READ_FROM': 'Felad\xf3', 'ACCE_ABSORB': 'B\xf3nusz abszorpci\xf3', 'FLOWER_EVENT_TITLE': 'Hajt\xe1sok a lelt\xe1rban', 'ReloadLocaleFile': <cyfunction ReloadLocaleFile at 0x0810C870>, 'GUILD_WAR_TYPE_DIE': 'Ar\xe9na-harc', 'MINI_GAME_YUTNORI_REMAIN_COUNT': 'K\xf6r\xf6k', 'CHARACTER_MUTUAL_ACTION': 'Interakt\xedv akci\xf3', 'ATTENDANCE_TITLE': 'F\xf5sz\xf6rny-kasz\xe1l\xf3 esem\xe9ny', 'LOOTING_SYSTEM_CATEGORY_JOB_WOLFMAN': 'V\xe9rfarkas', 'LOGIN_EXIT': 'Bez\xe1r', 'GRAPHICONOFF_NPC_NAME_STATUS_ON_TOOLTIP': 'NPC nevek mutat\xe1sa', 'MC_ACHIEV_APPLY': 'Haszn\xe1l', 'GUILD_WAR_REPORTLIST': '\xc1ttekint\xe9s (Csat\xe1k: Cs, Gy\xf5zelmek: Gy, Veres\xe9gek: V, D\xf6ntetlenek: D)', 'KEYCHANGE_MINIMAP_WINDOW': 'Nagy t\xe9rk\xe9p', 'OPTION_SNOW_TEXTURE_MODE': 'H\xf3', 'LOOTING_SYSTEM_QUESTION_ARMOR': 'Itt tudod be\xe1ll\xedtani a p\xe1nc\xe9lok begy\xfbjt\xe9s\xe9nek r\xe9szleteit.', 'LOOTING_SYSTEM_QUESTION_UNIQUE': 'Itt tudod be\xe1ll\xedtani az egyedi t\xe1rgyak begy\xfbjt\xe9s\xe9nek r\xe9szleteit.', 'CHARACTER_SKILL': 'K\xe9pess\xe9g', 'LOOTING_SYSTEM_REFINE': 'Fejleszt\xe9s', 'GUILD_BASEINFO_BUILDING': 'C\xe9h\xe9p\xfclet', 'PRIVATE_SHOP_CLOSE_BUTTON': 'Bolt z\xe1r\xe1s', 'GUILDWINDOW_BASE_BUFF': 'C\xe9h-b\xf3nusz', 'PRIVATE_SHOP_TITLE': 'Mag\xe1n bolt nyit\xe1s', 'TASKBAR_MONEY_EXPAND': 'Vagyon', 'GUILD_WAR_JOINMEMBER_FIFTEEN': '15', 'GUILD_WAR_ALLSCORE': 'Minden h\xe1bor\xfa', 'OPTION_SHADOW_TARGET': '\xc1rny\xe9k szintje', 'LUCKY_BOX_TITLE_NAME': 'Szerencse-l\xe1da', 'LOOTING_SYSTEM_CATEGORY_JOB_PUBLIC': 'Egy\xe9b', 'OPTION_MUSIC_CHANGE': 'V\xe1ltani', 'GAME_SKILL_UP': 'K\xe9pess\xe9g fejleszt\xe9s', 'GUILD_DEPOSIT': 'Fizetni', 'SUNGMAHEE_TOWER_REWARD_INFO_TITLE': 'Jutalmak', 'QUEST_UI_TEXT_SUB': 'Mell\xe9kk\xfcldet\xe9sek', 'BANNER_WORLD_BOSS_BUTTON': 'Megaf\xf5sz\xf6rny', 'LOOTING_SYSTEM_CATEGORY_COSTUME_HAIR': 'Frizur\xe1k', 'REFINE_SELECT': 'Nemes\xedt\xe9s', 'HELP_HELP': 'Seg\xedts\xe9g megmutat\xe1sa: H', 'HELP_SERVER': 'Kijelzi a szervert \xe9s a csatorn\xe1t.', 'BATTLE_FIELD_OPERATION_TIME': 'A Harci \xf6vezetbe %s:00 \xe9s %s:00 k\xf6z\xf6tt lehet bel\xe9pni.', 'OPTION_BLOCK_GUILD': 'C\xe9h', 'OPTION_PVPMODE': 'PvP M\xf3d', 'GUILD_WAR_TYPE_FLAG': 'Kapd el a z\xe1szl\xf3t', 'REPORT_VIOLENT_WHISPER': '', 'GUILD_WITHDRAW': 'Kivon', 'GUILD_BASEINFO_POWER': 'Az Er\xf5 olt\xe1ra', 'MARKET_TITLE': 'Bet\xf6lt', 'GUILD_DONATE_TAB_NORMAL': 'Kicsi adom\xe1ny', 'GUILD_ATTENDANCE_TITLE': 'R\xe9szv\xe9teli jutalom', 'OPTION_BLOCK_EXCHANGE': 'Keresked\xe9s', 'GUILD_GRADE_NUM': 'Nr.', 'RESTART_GIVEUP': 'Felad\xe1s', 'OPTION_LANGUAGE_SELECT': 'Nyelv', 'MAILBOX_POST_READ_MAIN_TITLE': '\xdczenet', 'KEYCHANGE_BASEACTION': 'Standard gombok', 'CUBE_REQUIRE_MATERIAL_OR': 'vagy', 'FLOWER_EVENT_SHOOT_MAY_BELL_TEXT': 'Gy\xf6ngyvir\xe1g hajt\xe1s', 'MAILBOX_POST_WRITE_CLOSE_TEXT': 'Bez\xe1r', 'GAME_STAT_UP': 'St\xe1tusz emel\xe9s', 'MONSTER_CARD_ACHIEV_BONUS': 'Eredm\xe9nyek', 'MC_ACHIEV_SORT_APPLYING': 'Akt\xedv', 'REFINE_ELEMENT_CHANGE_DARK': 'S\xf6t\xe9ts\xe9g', 'GUILD_WAR_BATTLE_TYPE': 'Harci m\xf3d', 'GUILD_GRADE_PERMISSION_NOTICE': '\xcdrhat c\xe9h\xfczenetet', 'PET_INFORMATION_LIFETIME_BUTTON': 'Etet\xe9s', 'OPTION_PVPMODE_GUILD_TOOLTIP': 'C\xe9htagokat kiv\xe9ve minden j\xe1t\xe9kost megt\xe1madhatsz.', 'LUCKY_BOX_RECV_NAME': 'Tartalma:', 'GUILD_MEMBER_JOB': 'Oszt\xe1ly', 'GRADE': 'Oszt\xe1ly', 'BANNER_CATCHKING_BUTTON': 'Kapd el a Kir\xe1lyt', 'KEYCHANGE_MESSENGER_WINDOW': 'Bar\xe1tok', 'GRAPHICONOFF_NPC_NAME_STATUS_ON': 'Be', 'LOOTING_SYSTEM_OFF': 'KI', 'GUILD_BASENAME': 'B\xe1zisn\xe9v', 'MC_ACHIEV_SORT_ALL': '\xd6sszes', 'REFINE_INFO': 'Es\xe9ly a sikeres jav\xedt\xe1sra: 100%', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL5_TOOLTIP': 'Minden megjelen\xedt\xe9se a k\xf6zvetlen k\xf6zelben', 'KEYCHANGE_QUICKSLOT3': '3-as szint', 'KEYCHANGE_QUICKSLOT2': '2-es szint', 'HELP_OPEN_WHISPER': 'Suttog\xe1s ablak megnyit\xe1sa: Shift + Enter', 'LANGUAGE_DE': 'N\xe9met', 'LOGIN_CONNECTING': 'A szerverhez leszel kapcsolva.', 'EMPIRE_SELECT': 'V\xe1lasztani', 'ITEM_MALL': 'T\xe1rgy piac', 'MC_SUMMON_BUTTON': 'Id\xe9z\xe9s', 'GUILD_INFO_MEMBER_AVG_LEVEL': '\xc1tlagos Szint', 'KEYCHANGE_GUILD_WINDOW': 'C\xe9h', 'LOCALE_UISCRIPT_PATH': 'locale/hu/ui/', 'PET_INFORMATION_ABILITIES': 'B\xf3nuszok', 'PARTY_MATCH_TEXT_REQUEST_MATCH': 'Keres\xe9s', 'GUILD_INFO_ENEMY_GUILD_EMPTY': 'Nincs', 'CHATTING_SETTING_DICE': 'Kocka', 'STEP_SELECT': 'Tisztas\xe1gi min\xf5s\xe9g', 'SELECT_METIN_STONE_TITLE': 'Szellemk\xf5 v\xe1laszt\xe1s', 'SUNGMAHEE_TOWER_MISSION_TYPE_CHESS_FAIL': '\xd6ld meg az \xf6sszes sz\xf6rnyet!', 'MINI_GAME_CATCHKING_START_TEXT': 'Ind\xedt\xe1s', 'MINI_GAME_YUTNORI_COM_TEXT': 'Sz\xe1m\xedt\xf3g\xe9p', 'SELECT_EXIT': 'Bez\xe1r', 'GRAPHICONOFF_DROP_ITEM_LEVEL1_TOOLTIP': 'Effekt & N\xe9v mutat\xe1sa', 'AUTO_SAVE': 'Ment\xe9s', 'WORLD_BUSS_REWARD_BUTTON': 'Jutalom begy\xfbjt\xe9se', 'SELECT_SELECT': 'Start', 'JOBDESC_WOLFMAN_PATH': 'locale/hu/jobdesc_wolfman.txt', 'OPTION_SHADOW_QUALITY_BAD_TOOLTIP': 'Alacsony \xe1rny\xe9kmin\xf5s\xe9g', 'JOBDESC_SURA_PATH': 'locale/hu/jobdesc_sura.txt', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL2': '2', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL3': '3', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL1': '1', 'CREATE_ATT_GRADE': 'Er\xf5', 'DRAGONSOUL_PAGE_BUTTON_2': 'Metszett', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL4': '4', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL5': '5', 'HELP_SCREEN_CAPTURE': 'K\xe9perny\xf5k\xe9p ment\xe9se: Nyomtat\xe1s (a "Metin2\\screenshot" k\xf6nyvt\xe1rban lesz elmentve egy f\xe1jlba)', 'CUBE_TITLE': 'Nemes\xedt\xe9si ablak', 'KEYCHANGE_CAM_RIGHT1': 'Kamera (jobb)', 'LANGUAGE_AE': 'Arab', 'LOOTING_SYSTEM_CATEGORY_COMMON_PENDANT': 'Talizm\xe1nok', 'PET_REVIVE_CANCEL_BUTTON': 'M\xe9gse', 'GUILD_DONATE_NORMAL_MATERIAL': '120.000 Yang', 'MINI_GAME_BLACK_AND_WHITE_GAME_TITLE': 'L\xe1t\xf3k p\xe1rbaja', 'CREATE_SHAPE': 'Kin\xe9zet', 'CHATTING_SETTING_SAVE': 'Ment\xe9s', 'PET_FFED_BUTTON_TEXT': 'Etet\xe9s', 'LOOTING_SYSTEM_CATEGORY_JOB_ASSASSIN': 'Nindzsa', 'MAILBOX_POST_WRITE_CONFIRM_TEXT': 'C\xedmzett ellen\xf5rz\xe9se', 'SUNGMAHEE_TOWER_MISSION_TYPE_SEAL_RELEASE': 'T\xf6rd fel a pecs\xe9tet a Pecs\xe9tk\xf5vel!', 'PET_REVIVE_MATERIAL_TITLE': 'Anyag', 'PARTY_MATCH_TEXT_REQUEST_MATCH_CANCEL': 'M\xe9gse', 'MUSICLIST_TITLE': 'Zene v\xe1laszt\xe1s', 'MINI_GAME_CATCHKING_CHALLENGE': 'T\xe9t', 'BATTLE_ROYALE_DESC_FILE': 'locale/hu/battle_royale_desc.txt', 'GUILD_MASTER_CHANGE_TITLEBAR': 'C\xe9hvezet\xe9s \xe1tad\xe1sa', 'EXIT_BATTLE_FIELD_ON_DEAD': 'El akarod hagyni a Harci \xf6vezetet %d ponttal?', 'SELECT_LEVEL': 'Szint', 'HELP_GUILD_WINDOW': 'C\xe9h ablak megnyit\xe1sa: Alt+G', 'KEYCHANGE_ATTACK': 'T\xe1mad\xe1s', 'TASKBAR_DRAGON_SOUL': 'S\xe1rk\xe1nyk\xf5-alk\xedmia', 'GUILD_BASEINFO_MONEY': 'Egyenleg', 'KEYCHANGE_KEY_SETTING': 'Billenty\xfbzet be\xe1ll\xedt\xe1sok', 'PET_REVIVE_BUTTON': 'Fel\xe9leszt\xe9s', 'WORLD_BOSS_RANK_GUILD_NAME': 'C\xe9h', 'KEYCHANGE_ROOT2': 'Felvesz', 'BANNER_NEW_XMAS_BUTTON': 'KAR\xc1CSONY', 'SUNGMAHEE_TOWER_ELEMENT_WIND': 'Sz\xe9l', 'GUILD_WAR_GAINSCORE_HUNDRED': '100', 'GRADE_SELECT': 'Oszt\xe1ly', 'HELP_MESSENGER_WINDOW': 'Bar\xe1tlista megnyit\xe1sa: Alt+M', 'TASKBAR_EXPAND': 'Meghosszabb\xedt\xe1s', 'CHATTING_SETTING_CLEAR': 'Vissza\xe1ll\xedt', 'TASKBAR_SYSTEM': 'Opci\xf3k [ESC]', 'MC_ACHIEV_FIELD': 'Ny\xedlt terep eredm\xe9nyek', 'YES': 'Igen', 'MALL_TITLE': 'T\xe1rgypiac rakt\xe1r', 'KEYCHANGE_SCREENSHOT': 'K\xe9perny\xf5k\xe9p', 'QUEST_UI_TEXT_EVENT': 'Esem\xe9ny k\xfcldet\xe9sek', 'SAFE_CHANGE_PASSWORD': 'Jelsz\xf3 v\xe1ltoztat\xe1s', 'CHARACTER_MAIN': 'Karakter', 'PET_HATCHING_NIK': 'Kedvenc neve', 'MINIGAME_FISH_EVENT_USE_COUNT': 'Darab', 'ATTACH_METIN_INFO': 'Haszn\xe1lni akarod a Szellemk\xf6vet?', 'WORLD_BOSS_RANKING_BUTTON': 'Ranglista', 'KEYCHANGE_EMOTION9': '\xc9rzelem (sajn\xe1lat)', 'PET_INFORMATION_EXP_BUTTON': 'T\xe1rgy EXP', 'MESSENGER_USE_GUILD_MOVE_SKILL': 'Haszn\xe1ld a c\xe9h mozgat\xf3k\xe9szs\xe9get', 'KEYCHANGE_CANCLE': 'M\xe9gsem', 'TASKBAR_NEXT_QUICKSLOT': 'K\xf6vetkez\xf5 gyors el\xe9r\xe9s\xfb mez\xf5 [Shift+Sz\xe1m, Alt]', 'OPTION_MOB_INFO_AGGR': 'Agressz\xedv', 'HELP_EXP': 'Tapasztalat', 'LOOTING_SYSTEM_QUESTION_CONSUMPTION': 'Ide tartoznak a fogy\xf3t\xe1rgyak, p\xe9ld\xe1ul b\xe1jitalok, \xc1ld\xe1s tekercs, stb.', 'INVENTORY_PAGE_BUTTON_TOOLTIP_1': '1. lelt\xe1r', 'GUILD_BANKINFO_NAME': 'Tag', 'GUILD_BUILDING_INFO': '\xc9p\xfclet- \xe9s k\xf6lts\xe9ginform\xe1ci\xf3k', 'HELP_FURY': 'J\xe1t\xe9kbeli t\xe1rgy piac', 'LOOTING_SYSTEM_QUESTION_COMMON': 'Itt tudod be\xe1ll\xedtani az egy\xe9b t\xe1rgyak begy\xfbjt\xe9s\xe9nek r\xe9szleteit, melyeket minden karakteroszt\xe1ly haszn\xe1lhat.', 'CREATE_CREATE': 'L\xe9trehoz', 'GAME_GUILD_WAR_JOIN': 'C\xe9hh\xe1bor\xfaba l\xe9p', 'MAILBOX_POST_WRITE_SEND_TEXT': 'K\xfcld\xe9s', 'MINI_GAME_CATCHKING_MYNUMBER': 'K\xe1rty\xe1m', 'PRIVATESHOPSEARCH_LEVEL': 'Szint', 'DRAGONSOUL_PAGE_BUTTON_1': 'Nyers', 'FISH_EVENT_DESC': 'locale/hu/fish_event_desc.txt', 'DRAGONSOUL_PAGE_BUTTON_3': 'Ritka', 'DRAGONSOUL_PAGE_BUTTON_4': 'Antik', 'DRAGONSOUL_PAGE_BUTTON_5': 'Legend\xe1s', 'DRAGONSOUL_PAGE_BUTTON_6': 'Mitikus', 'BNW_GAME_UI_COM': 'Ellenf\xe9l', 'KEYCHANGE_CAM_LEFT1': 'Kamera (bal)', 'COMB_MAIN': 'C\xe9l', 'KEYCHANGE_EMOTION1': '\xc9rzelem (szomor\xfa)', 'OPTION_SHADOW_TARGET_GROUND_AND_SOLO_TOOLTIP': '\xc1rny\xe9k a h\xe1tt\xe9rhez \xe9s a j\xe1t\xe9kosokhoz', 'SELECT_ATTR_CURRENT': 'Jelenlegi', 'SUNGMAHEE_TOWER_ENTER_TITLE': 'Sung Mahi tornya', 'LOOTING_SYSTEM_QUESTION_WEAPON': 'A fegyverekhez tartozik minden felszerelhet\xf5 fegyver, p\xe9ld\xe1ul a nyilak.', 'GUILD_INFO_OFFER_EXP': 'Befektet', 'GUILD_INFO_CUR_EXP': 'Tapasztalat', 'MAILBOX_POST_ALL_DELETE_BUTTON': '\xd6sszes t\xf6rl\xe9se', 'MINI_GAME_YUTNORI_TITLE': 'Yut Nori', 'GUILD_BUILDING_CATEGORY_TITLE': '\xc9p\xedt\xf5 darabok', 'ROULETTE_SPIN_TEXT2': '50 l\xe9lek', 'SELECT_EMPIRE_NAME': 'Birodalom neve', 'PARTY_MATCH_TEXT_DUNGEON_NAME': 'Kazamata', 'HELP_OPEN_LOG': 'Cset-log megnyit\xe1sa: L', 'PREMIUM_PRIVATE_SHOP_TITLE': 'Mag\xe1nbolt', 'WEEKLY_RANKING': 'Heti rangsor', 'GAME_HELP': 'Seg\xedts\xe9g', 'GRAPHICONOFF_EFFECT_LEVEL3_TOOLTIP': 'Csak a saj\xe1t \xe9s m\xe1s j\xe1t\xe9kosok effektjei', 'KEYCHANGE_CAM_DOWN2': 'Kamera (le)', 'KEYCHANGE_CAM_DOWN1': 'Kamera (le)', 'BANNER_BLACK_AND_WHITE_BUTTON': 'L\xe1t\xf3k p\xe1rbaja', 'LOOTING_SYSTEM_ARMOR': 'P\xe1nc\xe9l', 'LOOTING_SYSTEM_QUESTION_SKILL_BOOK': 'Ide tartoznak bizonyos karakteroszt\xe1lyok \xe9s meghat\xe1rozott k\xe9szs\xe9gekhez tartoz\xf3 k\xe9szs\xe9gk\xf6nyvek.', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL4_TOOLTIP': 'Minden megjelen\xedt\xe9se kis t\xe1vols\xe1gban', 'MINI_GAME_FISH_START_TEXT': 'Ind\xedt\xe1s', 'GUILD_WAR_WIN_FIVE': '5', 'SUNGMAHEE_TOWER_MISSION_TYPE_CORRECT_ITEM_USE': 'Tal\xe1ld meg a kulcsot, majd menek\xfclj el!', 'KEYCHANGE_ACTION_WINDOW': 'Akci\xf3k', 'HELP_HELP_KEY': 'Az alap\xe9rtelmezett be\xe1ll\xedt\xe1sok megjelennek a seg\xedts\xe9g k\xe9perny\xf5n.', 'GUILD_GRADE_PERMISSION_DELETE': 'Elt\xe1vol\xedt\xe1s a c\xe9hb\xf5l', 'TASKBAR_PET_INFO': 'H\xe1zikedvenc inf\xf3', 'KEYCHANGE_PASSIVE_ATTR2': 'Ereklyeb\xf3nusz (F\xf6ld)', 'LANGUAGE_HU': 'Magyar', 'PRIVATESHOPSEARCH_BUY': 'V\xe1s\xe1rol', 'GUILD_INFO_MARK': 'C\xe9h jel', 'KEYCHANGE_NEXT_TARGET': 'K\xf6vetkez\xf5 c\xe9lpont', 'OPTION_BLOCK_WHISPER': 'S\xfag\xe1s', 'BANNER_YUTNORI_BUTTON': 'Yut Nori', 'OPTION_NAME_COLOR': 'Sz\xedn n\xe9v', 'LOOTING_SYSTEM_CATEGORY_COMMON_GLOVE': 'Keszty\xfbk', 'KEYCHANGE_PASSIVE_ATTR1': 'Ereklyeb\xf3nusz (Menny)', 'PREMIUM_PRIVATE_SHOP_NOTICE_OPEN': 'A mag\xe1nbolt megnyit\xe1sra ker\xfclt.', 'SUNGMAHEE_TOWER_ELEMENT_DARK': 'S\xf6t\xe9ts\xe9g', 'GUILD_WAR_GAINSCORE_FIFTY': '50', 'ROULETTE_SPIN_TEXT3': '250.000 Yang', 'PRIVATESHOPSEARCH_REFINE': 'T\xe1rgyszint', 'OPPOSITES': 'Visszautas\xedt', 'SUNGMAHEE_TOWER_ENTER_BUTTON': 'Bel\xe9p\xe9s', 'GUILD_WAR_GAMETIME_TEN': '10 perc', 'ACCE_MAIN': 'P\xe1nt 1', 'PET_HATCHING_BUTTON': 'Kikel\xe9s', 'LOOTING_SYSTEM_QUESTION_COSTUME': 'Itt tudod be\xe1ll\xedtani a felszerelhet\xf5 \xf6lt\xf6z\xe9kek begy\xfbjt\xe9s\xe9nek r\xe9szleteit.', 'SYSTEM_MALL': 'T\xe1rgy piac', 'BANNER_FISH_BUTTON': 'HAL-KIRAK\xd3S', 'GUILD_BUILDING_PLY': 'Furn\xe9r', 'GRAPHICONOFF_PRIVATE_SHOP_APPLY': 'Alkalmaz', 'EMPIRE_A': 'Shinsoo', 'EMPIRE_C': 'Jinno', 'EMPIRE_B': 'Chunjo', 'GRAPHICONOFF_DROP_ITEM_LEVEL4_TOOLTIP': 'T\xe1rgyak elrejt\xe9se & kurzorra nevek mutat\xe1sa', 'DRAGON_GATE_REINFORCE_TEXT': '', 'GUILD_BUILDING_FIX': '\xdajj\xe1\xe9p\xedt\xe9s', 'KEYCHANGE_HELP_WINDOW': 'Seg\xedts\xe9g', 'OPTION_PVPMODE_PEACE_TOOLTIP': 'Nem t\xe1madhatod meg a saj\xe1t birodalmad j\xe1t\xe9kosait.', 'SELECT_ORIGIN_STAT': 'Kezd\xf5pont', 'KEYCHANGE_AUTO_WINDOW': 'Auto-vad\xe1szat', 'GUILD_BUILDING_LOG': 'T\xf6nk', 'PET_INFORMATION_EXP': 'Tapasztalat', 'GUILD_BOARD_ID': 'N\xe9v', 'OPTION_SNOW_MODE': 'H\xf3es\xe9s', 'LOOTING_SYSTEM_CATEGORY_JOB_SHAMAN': 'S\xe1m\xe1n', '__doc__': None, 'GUILD_METIN_STONE': 'Szellemk\xf5', 'KEYCHANGE_LEFT2': 'Bal', 'PRIVATE_SHOP_SEARCH_BY_VNUM_CANCEL_BUTTON_TEXT': 'M\xe9gse', 'LOOTING_SYSTEM_CATEGORY_COSTUME_WEAPON': 'Fegyver-kin\xe9zetek', 'PRIVATESHOPSEARCH_SEARCH_BAR': 'Keres\xe9s', 'PREMIUM_PRIVATE_SHOP_ITEM_TAKE_OUT': 'T\xe1rgy begy\xfbjt\xe9se', 'PRIVATESHOPSEARCH_COUNT': 'Mennyis\xe9g', 'MINI_GAME_RUMI_START_TEXT': 'Kezd\xe9s', 'CUBE_RENEWAL_BELT_IMPROVE': 'Es\xe9ly n\xf6vel\xe9se', 'EMPIRE_PREV': 'Vissza', 'KEYCHANGE_DRAGON_GATE': '', 'OPTION_MUSIC_DEFAULT_THEMA': 'Metin2 alap zene', 'COSTUME_WINDOW_TITLE': 'Viseletek', 'HELP_ATTACK_KEY': 'T\xe1mad\xe1s: bal eg\xe9rgomb vagy sz\xf3k\xf6z billenty\xfb', 'SYSTEM_MOVE_CHANNEL': 'Csatorna v\xe1lt\xe1s', 'PASSIVE_ATTR_UI_TITLE': 'Ereklyeb\xf3nusz', 'GUILD_BUILDING_PRICE': '\xc1r', 'OPTION_FOG_MIDDLE': 'K\xf6zepes', 'SELECT_SUNGMA_STAT': 'Sung Ma akarata', 'GUILD_BASEINFO_FACTORY': 'C\xe9h-kov\xe1cs', 'BNW_RANK_UI_RANK': 'Helyez\xe9s', 'KEYCHANGE_IMPOSSIBLE_CHANGE': '[CTRL], [ALT], [SHIFT] itt nincs enged\xe9lyezve!', 'BANNER_SUMMER_BUTTON': 'NY\xc1RI RENDEZV\xc9NY', 'OPTION_SHADOW_TARGET_GROUND_TOOLTIP': 'H\xe1tt\xe9r', 'MINI_GAME_RUMI_SCORE': 'Pontsz\xe1m', 'OPTION_SNOW_TEXTURE_MODE_OFF': 'Ki', 'KEYCHANGE_LEFT1': 'Bal', 'GUILD_DONATE_BUTTON_OVER_TEXT': 'V\xe9letlenszer\xfb t\xe1rgy', 'GUILD_INFO_MEMBER_NUM': 'Tagok sz\xe1ma', 'CHARACTER_EMOTICON': '\xc9rzelem', 'SUNGMAHEE_TOWER_DUNGEON_ENTER_QUESTION': 'Szeretn\xe9l bel\xe9pni a %d. szintre?', 'SELECT_NAME': 'N\xe9v', 'GUILD_WAR_SKILL': 'C\xe9h-k\xe9szs\xe9gek', 'EMPIREDESC_B': 'locale/hu/empiredesc_b.txt', 'EMPIREDESC_C': 'locale/hu/empiredesc_c.txt', 'LOOTING_SYSTEM_WEAPON': 'Fegyver', 'EMPIREDESC_A': 'locale/hu/empiredesc_a.txt', 'PREMIUM_PRIVATE_SHOP_NOTICE_MODIFY': 'A mag\xe1nbolt jelenleg m\xf3dos\xedt\xe1s alatt \xe1ll.', 'AUTO_AUTO_POTION': 'B\xe1jitalok', 'WORLD_BOSS_RANK_EMPIRE': 'Birodalom', 'QUEST_UI_TEXT_MAIN': 'F\xf5k\xfcldet\xe9sek', 'MINI_GAME_CATCHKING_POPUP_CONFIRM': 'Pop-up be/ki', 'MINI_GAME_CATCHKING_HELP_TEXT': 'Szab\xe1lyok', 'OPTION_SHADOW_TARGET_GROUND': '2', 'EXCHANGE_ACCEPT': 'OK', 'WORLD_BOSS_RUN_TIME_TEXT': 'Harc ideje', 'CREATE_LAST_POINT': 'Pont', 'LANGUAGE_RO': 'Rom\xe1n', 'LOOTING_SYSTEM_CATEGORY_JOB': 'Karakteroszt\xe1ly', 'GUILD_INFO_UPLOAD_SYMBOL': 'Z\xe1szl\xf3 felt\xf6lt\xe9s', 'STRENGTH_SELECT': 'Szint', 'BLACK_AND_WHITE_DESC': 'locale/hu/black_and_white_desc.txt', 'LOOTING_SYSTEM_HEAD': 'Sisak', 'BANNER_HALLOWEEN_BUTTON': 'HALLOWEEN', 'KEYCHANGE_QUEST_WINDOW': 'K\xfcldet\xe9sek', 'PARTY_MEMBER_INFO_NAME': 'Csoportt\xe1rs neve', 'HELP_MINIMAP_QUEST': 'A k\xfcldet\xe9sek villog\xf3 ikonokk\xe9nt jelennek meg a minit\xe9rk\xe9pen \xe9s a nagy t\xe9rk\xe9pen.', 'GUILD_SKILLPAGE_RANK': 'Rang', 'CREATE_DEX_GRADE': '\xdcGY', 'GUILD_WAR_WARP': 'Ar\xe9na', 'MC_ACHIEV_REGIST': 'Eredm\xe9ny bev\xe1lt\xe1sa', 'KEYCHANGE_MINIMAP_MINER': 'Minit\xe9rk\xe9p (-)', 'CURRENT_POINT': 'Jelenlegi pontok: %s', 'PET_INFORMATION_LEVEL': 'Szint', 'GUILD_WAR_CTF': 'Z\xe1szl\xf3', 'WORLD_BOSS_MIN_DAMAGE_TEXT': 'Sz\xfcks\xe9ges min. sebz\xe9s', 'WORLD_BOSS_RANK': 'Megaf\xf5sz\xf6rny ranglista', 'SUNGMAHEE_TOWER_ELEMENT_ICE': 'J\xe9g', 'LOOTING_SYSTEM_CATEGORY_COMMON_SHIELD': 'Pajzsok', 'GUILD_BASEINFO_MONEYLASTOUT': 'Utols\xf3 kiv\xe9t', 'PET_PRIMIUM_FEEDSTUFF_DESC': 'locale/hu/pet_primium_feedstuff_desc.txt', 'PRIVATESHOPSEARCH_ITEMNAME': 'N\xe9v', 'GUILD_BANKINFO_TYPE': 'T\xe1rgy/Fizet\xf5eszk\xf6z', 'PET_INFORMATION_EVOL_BUTTON': 'Nevel\xe9s', 'CHATTING_SETTING_DEFAULT_TITLE': 'Sz\xfbr\xf5', 'MC_ACHIEV_FIELD_BONUS': 'Ny\xedlt terep b\xf3nusz', 'TASKBAR_PREV_QUICKSLOT': 'El\xf5z\xf5 gyors el\xe9r\xe9s\xfb mez\xf5 [Shift+Sz\xe1m]', 'LOOTING_SYSTEM_CATEGORY_COMMON_NECK': 'Nyakl\xe1ncok', 'SYSTEM_CHANGE': 'Karakter csere', 'MINI_GAME_BLACK_AND_WHITE_RANK_BUTTON': 'Helyez\xe9sek', 'MINI_BOSS_DUNGEON_TITLE_NUM': 'Helyez\xe9s', 'GUILD_WAR_JOINMEMBER': 'Tagok', 'AUTO_TITLE': 'Auto-vad.', 'KEYCHANGE_RIDE_HORSE': 'H\xe1tas', 'JOBDESC_ASSASSIN_PATH': 'locale/hu/jobdesc_assassin.txt', 'SUNGMAHEE_TOWER_MISSION_TYPE_NORMAL': '\xd6ld meg az \xf6sszes sz\xf6rnyet!', 'ATTR_67_MATERIAL_SLOT_TITLE': 'Er\xf5szil\xe1nkok', 'GUILD_BUILDING_PREVIEW': 'El\xf5n\xe9zet', 'LANGUAGE_DK': 'D\xe1n', 'SELECT_CREATE': 'L\xe9trehoz', 'MINIGAME_RUMI_DESC': 'locale/hu/mini_game_okey_desc.txt', 'MINI_GAME_RUMI_LBUTTON_DESC': 'Bal kattint\xe1s k\xe1rtya hozz\xe1ad\xe1s\xe1hoz', 'GUILD_MEMBER_PACE_ATTENDANCE': 'R\xe9szv\xe9tel ({0}/{1})', 'GRAPHICONOFF_DROP_ITEM_LEVEL': 'T\xe1rgy dob\xe1s', 'DUTCHAUCTION_TITLE': 'Vill\xe1m aukci\xf3', 'ACCE_SERVE': 'P\xe1nt 2', 'MINI_GAME_YUTNORI_SCORE': 'Pontsz\xe1m', 'GUILD_WAR_TYPE_TIME': 'T\xe1mad\xe1s id\xf5re', 'LOOTING_SYSTEM_CATEGORY_COMMON_PICK': 'Cs\xe1k\xe1nyok', 'LOGIN_PATH': 'locale/hu/ui/login/', 'PET_INFORMATION_HP': 'TP', 'GRAPHICONOFF_EFFECT_APPLY': 'Alkalmaz', 'KEYCHANGE_QUEST_SCROLL_ONOFF': 'K\xfcldet\xe9stekercsek', 'MINI_BOSS_DUNGEON_TOOTIP_02': 'Apokalipszis 40-80. szint k\xf6z\xf6ttieknek', 'GRAPHICONOFF_EFFECT_LEVEL': 'Effektek', 'ATTR_67_SUPPORT_SLOT_TITLE': 'Er\xf5s\xedt\xf5', 'SUNGMAHEE_TOWER_ELEMENT_EARTH': 'F\xf6ld', 'OPTION_BLOCK_FRIEND': 'Bar\xe1tok', 'LOOTING_SYSTEM_SAVE': 'Ment\xe9s', 'GUILD_WAR_WIN_THREE': '3', 'INVENTORY_PAGE_BUTTON_TOOLTIP_3': '3. lelt\xe1r', 'INVENTORY_PAGE_BUTTON_TOOLTIP_2': '2. lelt\xe1r', 'AURA_SUB': 'Anyag', 'KEYCHANGE_CAM_LEFT2': 'Kamera (bal)', 'INVENTORY_PAGE_BUTTON_TOOLTIP_4': '4. lelt\xe1r', 'OPTION_DELETE_MOBILE_BUTTON': 'Telefonsz\xe1m t\xf6rl\xe9s', 'HELP_EMOTINO': 'Mutasd ki \xe9rzelmeid a <CTRL> + <1~9> billenty\xfbkombin\xe1ci\xf3kkal.', 'PET_AGE_TEXT': 'Kedvenc kora', 'KEYCHANGE_DOWN2': 'H\xe1tra', 'ACCE_COMBINE': 'Kombin\xe1ci\xf3', 'KEYCHANGE_DSS2': 'DS [F\xf6ld]', 'HELP_CONTROL_CAMERA_BY_RIGHTBUTTON': 'Alternat\xedv kamera\xe1ll\xe1s: hozz\xe1rendel\xe9s a jobb vagy bal eg\xe9rgombhoz', 'KEYCHANGE_SHOW_NAME': 'Nevek mutat\xe1sa', 'MINI_GAME_RUMI_RBUTTON_DESC': 'Jobb kattint\xe1s k\xe1rtya elvet\xe9s\xe9hez', 'ACCE_RESULT': 'Eredm\xe9ny', 'MAILBOX_POST_WRITE_TO': 'C\xedmzett', 'GUILD_WAR_TYPE_TIGER': 'Megsemmis\xedt\xe9s', 'JOBDESC_SHAMAN_PATH': 'locale/hu/jobdesc_shaman.txt', 'CHARACTER_NORMAL_ACTION': 'Norm\xe1l akci\xf3', 'MINI_GAME_YUTNORI_PROB_DESC': 'V\xe1lassz egy Yut \xe9rt\xe9ket, aminek emelkedjen az es\xe9lye dob\xe1skor.', 'GAME_QUEST': 'Feladat', 'MINI_BOSS_DUNGEON_TITLE_NAME': 'N\xe9v', 'GUILD_BASEINFO_LANDSCAPE': 'Egy\xe9b', 'LOGIN_SELECT_EXIT': 'Bez\xe1r', 'COMB_APPEARANCE': 'C\xe9l', 'PARTY_MATCH_TEXT_ENTREE_LEVEL': 'Szint: %d', 'ROULETTE_SPECIAL_TITLE': 'Jutalmak (%s)', 'MC_POLY_BUTTON': '\xc1tv\xe1ltoz\xe1s', 'QUEST_UI_TEXT_SCROLL': 'Misszi\xf3k\xf6nyv k\xfcldet\xe9sek', 'CHATTING_SETTING_PARTY': 'Csoport', 'GRAPHICONOFF_DROP_ITEM_LEVEL5_TOOLTIP': 'T\xe1rgyak & nevek elrejt\xe9se', 'GUILD_MEMBER_LEVEL': 'Szint', 'LOCALE_INTERFACE_FILE_NAME': 'locale/hu/locale_interface.txt', 'ZONE_MAP': 'Nagy t\xe9rk\xe9p', 'LOOTING_SYSTEM_CATEGORY_COMMON_ROD': 'Horg\xe1szbotok', 'PASSIVE_ATTR_ACTIVATE_BUTTON': 'Aktiv\xe1l', 'STRUCTURE_VIEW_TYPE_STRUCTURE': 'Elrejt', 'AUTOBAN_QUIZ_REST_TIME': 'REST_TIME', 'GUILD_INFO_MASTER_VALUE': 'Vezet\xf5', 'LANGUAGE_RU': 'Orosz', 'GUILD_WAR_JOINMEMBER_COUNT': 'Tagok', 'OPTION_SHADOW_TARGET_NONE_TOOLTIP': 'Nincs \xe1rny\xe9k', 'MISTS_ISLAND_INFO_TEXT': 'Rang/st\xe1tusz inform\xe1ci\xf3', 'OK': 'OK', 'HELP_KEYSETTING': 'Kicser\xe9lheted a r\xf6gz\xedtett billenty\xfbidet a j\xe1t\xe9k be\xe1ll\xedt\xe1sokban.', 'BATTLE_ROYALE_MAINBUTTON_RANKING': 'Ranglista', 'GUILD_WAR_DECLARE': 'C\xe9h h\xe1bor\xfat kinyilv\xe1n\xedt', 'FLOWER_EVENT_SHOOT_DAFFODIL_TEXT': 'N\xe1rcisz hajt\xe1s', 'GUILD_DONATE_MY_MEDAL_OF_HONOR': 'B\xe1tors\xe1g med\xe1ljaim', 'KEYCHANGE_CAM_ZOOM_IN1': 'Kamera (k\xf6zel\xedt)', 'MISTS_ISLAND_TITLE_SCORE': '\xc1ttekint\xe9s', 'ROULETTE_SPIN_TEXT1': 'FORGAT', 'PET_INFORMATION_LIFE': 'Id\xf5tartam', 'DRAGON_GATE_BASE_NAME': '', 'GUILD_BANK_CLOSE': 'Bez\xe1r', 'REFINE_ELEMENT_CHANGE_ICE': 'J\xe9g', 'GRAPHICONOFF_EFFECT_LEVEL4_TOOLTIP': 'Csak saj\xe1t', 'GUILD_WAR_SCORE': 'Csatajelent\xe9s', 'GUILD_SKILL_STATE': 'C\xe9h k\xe9pess\xe9g', 'MC_ACHIEV_SORT_REGIST': 'Aktiv\xe1lhat\xf3', 'MAILBOX_POST_SEND_TITLE': '\xdczenet', 'GUILD_INFO_MASTER': 'Vezet\xf5', 'HELP_QUICKSLOT': 'Gyors el\xe9r\xe9si mez\xf5k', 'MINI_BOSS_DUNGEON_DESC': 'locale/hu/mini_bossdungeon_event_desc.txt', 'MESSENGER_MOBILE': 'SMS k\xf6ld\xe9s', 'MC_ACHIEV_SORT_ABLE_REGIST': 'Bev\xe1lt', 'OPTION_VIEW_CHAT_ON': 'Mutat', 'DRAGON_GATE_SIDE_NAME_BY_INDEX': '', 'MAILBOX_POST_READ_DELETE': 'T\xf6r\xf6l', 'ACCEPT': 'OK', 'MISTS_ISLAND_END_TIME': 'Befejez\xe9s ideje', 'MAILBOX_POST_ALL_RECEIVE': '\xd6sszes begy\xfbjt\xe9se', 'MC_ACHIEV_DUNGEON_BONUS': 'Kazamata b\xf3nusz', 'GUILD_DROP_RESOURCE2': 'Er\xf5forr\xe1s eldob\xe1s', 'PRIVATESHOPSEARCH_JOB': 'Oszt\xe1ly', 'CZ_REWARD_WINDOW_TITLE': 'Zodi\xe1kus templom', 'SUNGMAHEE_TOWER_MISSION_TYPE_FINDING_RIGHT_MATCH_METIN_STONE_FAIL': '\xd6ld meg az \xf6sszes sz\xf6rnyet!', 'WHISPER_SEND': 'K\xfcld', 'LOOTING_SYSTEM_CATEGORY_COSTUME': '\xd6lt\xf6z\xe9k', 'LOOTING_SYSTEM_INIT_QUESTION_DIALOG_TITLE': 'Szeretn\xe9d az alap\xe9rtelmezett be\xe1ll\xedt\xe1sokat vissza\xe1ll\xedtani?', 'LUCKY_BOX_NOTICE_YANG': '\xdaj t\xe1rgy v\xe1laszt\xe1s\xe1nak Yang k\xf6lts\xe9ge', 'BANNER_FLOWER_BUTTON': 'VIR\xc1GOK EREJE', 'GUILD_RESOURCE_INFO': 'Forr\xe1s inform\xe1ci\xf3k', 'SUNGMAHEE_TOWER_MY_RANK_TITLE': 'Helyez\xe9s', 'BNW_RANK_UI_COUNT': 'Adom\xe1nyok', 'REFINE_ELEMENT_DOWNGRADE_TITLE': 'Visszafejleszt\xe9s', 'OPTION_ENV_EFFECT': 'K\xf6rnyezet', 'LANGUAGE_GR': 'G\xf6r\xf6g', 'SHOP_SELL': 'Elad', 'KEYCHANGE_CLEAR': 'Standard', 'GUILD_SKIlL_HEAL_GSP': 'Felt\xf6lteni', 'WORLD_BOSS_RANK_TIER': 'Zs\xe1km\xe1ny szint', 'OPTION_MOB_INFO': 'Sz\xf6rny-inf\xf3', 'GUILD_WATER': 'V\xedz', 'GUILD_DRAGONLAIR_RANKING_TIME': 'Id\xf5', 'SHOP_BUY': 'V\xe1s\xe1rol', 'GUILD_SKILL_POWER': 'Energia', 'MINI_BOSS_TITLE': 'Zodi\xe1kus Apokalipszis', 'BANNER_MINIBOSS_BUTTON': 'Zodi\xe1kus Apokalipszis', 'GUILD_BANK_INFO': 'T\xe1rol\xf3oldal:', 'GRAPHICONOFF_PET_STATUS': 'Kedvencek', 'LOGIN_ID': 'Felhaszn\xe1l\xf3n\xe9v', 'OPTION_SHADOW_QUALITY_AVERAGE_TOOLTIP': 'K\xf6zepes \xe1rny\xe9kmin\xf5s\xe9g', 'GUILD_BUILDING_DIRECTION': 'Ir\xe1ny', 'MC_ACHIEV_DUNGEON': 'Kazamata eredm\xe9nyek', 'PARTY_MATCH_TEXT_REQUIRED_ITEMS': 'Sz\xfcks\xe9ges t\xe1rgy', 'CHATTING_SETTING_GOLD': 'P\xe9nz', 'HELP_OPEN_INVENTORY': 'Lelt\xe1r ablak megnyit\xe1sa: I', 'LOAD_ERROR': 'Az adatf\xe1jl megs\xe9r\xfclt. Install\xe1ld \xfajra a klienst. Nyomd meg az ESC gombot.', 'SYSTEM_OPTION': 'Rendszer opci\xf3k', '__name__': 'uiScriptLocale', 'HELP_OPEN_CHARACTER': 'Karakter ablak megnyit\xe1sa: C', 'KEYCHANGE_MINIMAP_PLUS': 'Minit\xe9rk\xe9p (+)', 'GRAPHICONOFF_PET_STATUS_ON_TOOLTIP': 'Kedvencek mutat\xe1sa', 'BATTLE_FIELD_OPERATION_TIME_OPEN': 'Megny\xedlik a bel\xe9p\xe9sre %s \xf3ra m\xfalva %s \xf3r\xe1ra.', 'SKILL_SUPPORT_TITLE': 'Standard k\xe9szs\xe9gek', 'SUNGMAHEE_TOWER_MISSION_TYPE_SURVIVE': 'Verj vissza minden t\xe1mad\xe1st!', 'ATTR_67_ADD_TITLE': 'B\xf3nusz hozz\xe1ad\xe1sa', 'MC_ACHIEV_APPLYING': 'Akt\xedv', 'SYSTEM_LOGOUT': 'Kil\xe9p\xe9s', 'MYSHOP_DECO_SELECT_TITLE': 'V\xe1laszd ki neved megjelen\xe9s\xe9t!', 'OPTION_BLOCK_PARTY_REQUEST': 'K\xe9r\xe9s', 'DRAGONSOUL_CHANGE_ATTR_WINDOW_TITLE': 'Mitikus s\xe1rk\xe1nyk\xf5 b\xf3nusz\xe1nak megv\xe1ltoztat\xe1sa', 'REFINE_TTILE': 'Jav\xedt\xe1sok', 'WORLD_BOSS_TITLE': 'Megaf\xf5sz\xf6rny legy\xf5zve', 'KEYCHANGE_EMOTION3': '\xc9rzelem (zene)', 'GUILD_DRAGONLAIR_RANKING': 'Helyez\xe9sek', 'BANNER_MONSTERBACK_BUTTON': '\xdct\xe9spontok bev\xe1lt\xe1sa', 'CREATE_PREV': 'Vissza', 'MISTS_ISLAND_EMPIRE_NAME': 'Birodalom neve', 'MAPNAME_PATH': 'locale/hu/ui/mapname/', 'PREMIUM_PRIVATE_SHOP_NOTICE_NO_TICKET': 'Nincs jegy', 'OPTION_PVPMODE_REVENGE': 'Ellens\xe9g', 'HELP_CHARACTER_BUTTON2': 'Bar\xe1tlista \xe9s Be\xe1ll\xedt\xe1sok)', 'HELP_CHARACTER_BUTTON1': '(Karakter ablak, Lelt\xe1r ablak,', 'NO': 'Nem', 'WORLD_BOSS_BREAK_TIME_TEXT': 'V\xe1rakoz\xe1s', 'EXIT_BATTLE_FIELD': 'T\xe9nyleg el szeretn\xe9d hagyni a Harci \xf6vezetet?', 'LOOTING_SYSTEM_QUESTION_EVENT': 'Itt tudod be\xe1ll\xedtani a rendezv\xe9ny t\xe1rgyak begy\xfbjt\xe9s\xe9nek r\xe9szleteit.', 'TASKBAR_DISABLE': 'Kikapcsolva', 'EVENT_ALARM_TITLE': 'Rendezv\xe9nyek \xe1ttekint\xe9se', 'WARP_MI_LABEL': 'A megt\xe1madott szent\xe9lyhez', 'MISTS_ISLAND_EXIT': 'Kil\xe9p\xe9s', 'PET_INFORMATION_SP': 'MP', 'BATTLE_ROYALE_RETURN_TO_TOWN': 'Visszat\xe9r\xe9s a faluba', 'LOOTING_SYSTEM_EXIT_WITHOUT_SAVING': 'Kil\xe9p\xe9s ment\xe9s n\xe9lk\xfcl?', 'LOGIN_CONNECT': 'Csatlakozik', 'GRAPHICONOFF_EFFECT_LEVEL1_TOOLTIP': 'Mindent mutat', 'OPTION_ENV_EFFECT_ON': 'Be', 'PARTY_MATCH_TEXT_LEVEL_LIMIT': 'Szint k\xf6vetelm\xe9ny', 'CHAT_FILTER': 'Csetsz\xfbr\xf5', 'REFINE_MONEY': 'Nemes\xedt\xe9si d\xedj', 'MYSHOP_DECO_PREV': 'Vissza', 'PICK_MONEY_TITLE': 'Feloszt', 'STRUCTURE_VIEW_MODE': 'Dekor\xe1ci\xf3', 'OPTION_ALWAYS_SHOW_NAME_ON': 'Mindig', 'FLOWER_EVENT_SHOOT_CHRYSANTHEMUM_TEXT': 'Krizant\xe9m hajt\xe1s', 'GRAPHICONOFF_DROP_ITEM_LEVEL2_TOOLTIP': 'Effekt elrejt\xe9se', 'GUILD_BUILDING_OPERATE': 'Kiszolg\xe1l', 'WHISPER_NAME': 'Suttog\xe1s', 'CLOSE': 'Bez\xe1r', 'GUILD_MINENAL': '\xc1sv\xe1ny', 'GUILD_BANKINFO_USETYPE': 'Akci\xf3', 'MINI_GAME_BLACK_AND_WHITE_WAITTING_TITLE': 'L\xe1t\xf3k p\xe1rbaja', 'OPTION_SALESTEXT_VIEW_OFF': 'Elrejt', 'MYSHOP_DECO_OK': 'Meger\xf5s\xedt', 'OPTION_ENV_EFFECT_OFF': 'Ki', 'GUILD_DONATE_GET_MEDAL_OF_HONOR': '%d', 'MISTS_ISLAND_SCORE': 'Pontsz\xe1m', 'KEYCHANGE_INGAMEEVENT': 'RENDEZV\xc9NY', 'SUNGMAHEE_TOWER_ELEMENT_TITLE': 'Elemek a szinten', 'ATTR_67_ADD': 'B\xf3nusz hozz\xe1ad\xe1sa', 'GUILD_WAR_GAINSCORE_THIRTY': '30', 'LOOTING_SYSTEM_CATEGORY_COMMON_FOOTS': 'Cip\xf5k', 'LOOTING_SYSTEM_EVENT': 'Rendezv\xe9ny t\xe1rgy', 'LANGUAGE_NL': 'Holland', 'END_TIME': 'Akt\xedv rendezv\xe9ny', 'GUILD_BUILDING_REFRESH': 'Friss\xedt', 'GUILD_WATER_STONE': 'Aqua k\xf5', 'SUNGMAHEE_TOWER_MISSION_TYPE_MONSTER_CHESS': '\xd6lj meg egy sz\xf6rnyp\xe1rost, melyek nem tartoznak \xf6ssze!', 'OPTION_SHADOW_TARGET_NONE': '1', 'HELP_MOUSE_RIGHT': 'Jobb eg\xe9rgomb funkci\xf3', 'LOOTING_SYSTEM_CATEGORY_COSTUME_ACCE': 'V\xe1llp\xe1ntok', 'PASSWORD_TITLE': 'Jelsz\xf3 ment\xe9s', 'LOOTING_SYSTEM_CATEGORY_JOB_SURA': 'Sura', 'KEYCHANGE_AUTORUN': 'Auto. fut\xe1s', 'GUILD_MEMBER_SPECIFIC_GRAVITY': 'Befektet.', 'MESSENGER_ADD_FRIEND': 'Bar\xe1t hozz\xe1ad\xe1sa', 'SELECT_NO_GUILD': 'Nincs c\xe9h', 'GUILD_WAR_GAMETIME': 'Csata ideje', 'HELP_ATTACK': 'Eg\xe9rkattint\xe1sonk\xe9nt egyszeri t\xe1mad\xe1st aktiv\xe1l.', 'HELP_MOUSE_LEFT': 'Bal eg\xe9rgomb funkci\xf3', 'PET_HATCHING_WINDOW_TITLE': 'Inkub\xe1tor', 'CHATTING_SETTING_LANGUAGE_CUR': 'Jelenlegi nyelv ( %s )', 'MARKLIST_REFRESH': 'Aktualiz\xe1l', 'MAILBOX_POST_READ_TITLE': 'T\xe1rgy', 'HELP_OPEN_MINIMAP': 'Mini t\xe9rk\xe9p megnyit\xe1sa: Shift + M', 'OPTION_TARGET_BOARD_NO_VIEW': 'Bez\xe1r', 'GUILD_BUILDING_POSITION': 'Fekv\xe9s', 'KEYCHANGE_INTERFACE': 'Ablak', 'YUTNORI_EVENT_DESC': 'locale/hu/yutnori_event_desc.txt', 'COMB_SKILLBOOK_TILE': 'K\xf6nyvekkel \xfczletelni', 'CHARACTER_ACTION': 'Akci\xf3', 'JOBDESC_WARRIOR_PATH': 'locale/hu/jobdesc_warrior.txt', 'RESTART_IMMEDIATE': '\xdajra\xe9leszt\xf5', 'HELP_HP': '\xc9leter\xf5 (TP)', 'MINI_GAME_FISH_TITLE': 'Hal-kirak\xf3s', 'CREATE_NAME': 'N\xe9v', 'PET_ATTR_OK': 'Bez\xe1r', 'CUBE_REQUIRE_MATERIAL': 'Sz\xfcks\xe9ges anyagok', 'CHATTING_SETTING_LIST': 'Lista', 'BANNER_SOUL_BUTTON': 'L\xc9LEK RENDEZV\xc9NY', 'HELP_SKILL': 'Itt haszn\xe1lhatsz egy k\xe9szs\xe9get a jobb eg\xe9rgombbal.', 'SELECT_ATTR_CHANGED': '\xdaj', 'OPTION_SALESTEXT_VIEW_ON': 'Mutat', 'MINI_GAME_RUMI_EXIT': 'V\xe9ge', 'GUILD_BUILDING_NAME': '\xc9p\xfclet n\xe9v', 'EMPIRE_NEXT': 'Tov\xe1bb', 'ATTENDANCE_DESC': 'locale/hu/attendance_desc.txt', 'LOGIN_DEFAULT_SERVERADDR': 'Szervern\xe9v, 1. csatorna', 'KEYCHANGE_STATUS_WINDOW': 'Karakter', 'LANGUAGE_CZ': 'Cseh', 'LOOTING_SYSTEM_CATEGORY_COMMON_WRIST': 'Kark\xf6t\xf5k', 'HELP_MINIMAP': 'Megmutatja a minit\xe9rk\xe9pet.', 'PRIVATE_SHOP_NAME': 'Bolt neve', 'OPTION_LANGUAGE_CHANGE': 'OK', 'PREMIUM_PRIVATE_SHOP_NOTICE_NONE': 'A mag\xe1nbolt nincs nyitva.', 'PET_CHANGE_TEXT': 'H\xe1zikedvenc', 'KEYCHANGE_SLOT6': '6-os hely', '__test__': {}, 'MINI_GAME_CATCHKING_REWARD': 'Jutalmad', 'GUILD_BUILDING_CHANGE_DELETE': 'T\xf6r\xf6l', 'SUNGMAHEE_TOWER_ELEMENT_ALL': '\xd6sszes', 'BANNER_RAMADAN_BUTTON': 'RAMAD\xc1N', 'GUILD_BOARD_TEXT': '\xdczenet', 'MINI_GAME_RUMI_TITLE': 'Metin2 Okey k\xe1rtyaj\xe1t\xe9k', 'AUTOBAN_QUIZ_REFRESH': 'REFRESH', 'CHATTING_SETTING_SYSTEM': 'Rendszer', 'PET_INFORMATION_SKILL': 'K\xe9szs\xe9g', 'FRAGMENT_COMB_TITLE': 'K\xe9szs\xe9gk\xf6nyvek kombin\xe1l\xe1sa', 'LUCKY_BOX_RECV_BUTTON': 'T\xe1rgy elfogad\xe1sa', 'GUILD_DROP_RESOURCE1': 'itt', 'CHANGE_PASSWORD_NEW': '\xdaj jelsz\xf3', 'BANNER_BATTLE_ROYALE_BUTTON': 'Battle Royale', 'BANNER_ATTENDANCE_BUTTON': 'F\xf5sz\xf6rny-kasz\xe1l\xf3 esem\xe9ny', 'SUNGMAHEE_TOWER_DUNGEON_EXIT_QUESTION': 'Szeretn\xe9d feladni a kih\xedv\xe1st?', 'PREMIUM_PRIVATE_SHOP_REOPEN_BUTTON': 'Megnyit', 'SUNGMAHEE_TOWER_MISSION_TYPE_DEBUFF_RELEASE': '\xd6ld meg az \xf6sszes sz\xf6rnyet!', 'MINI_BOSS_DUNGEON_TITLE_POINT': 'Apokalipszis-pontok', 'MALL_PASSWORD_TITLE': 'Jelsz\xf3', 'GRAPHICONOFF_EFFECT_LEVEL2_TOOLTIP': 'Csak a saj\xe1t \xe9s a sz\xf6rnyek effektjei', 'GUILD_GRADE_PERMISSION_BANK': 'Haszn\xe1lhatja a c\xe9hbankot \xe9s -rakt\xe1rat', 'LOOTING_SYSTEM_UNIQUE': 'Egyedi', 'BANNER_EASTER_BUTTON': 'H\xdaSV\xc9T', 'DESC_BATTLE_FIELD_PATH': 'locale/hu/desc_battle_field.txt', 'KEYCHANGE_QUICKSLOT1': '1-es szint', 'GUILD_BASEINFO_BANK': 'C\xe9hrakt\xe1r', 'GUILD_DRAGONLAIR_RANKING_COUNT': 'Rang', 'BANNER_OKEY_BUTTON': 'Okey esem\xe9ny', 'KEYCHANGE_CHAT_WINDOW': 'Csetlog', 'WORLD_BOSS_TOTAL_DAMAGE_TEXT': '\xd6sszes sebz\xe9s', 'GUILD_WAR_GAINSCORE': 'Pontok', 'REFINE_COST': 'Jav\xedt\xe1si k\xf6lts\xe9gek: 0 Yang', 'GUILD_BANKINFO_CLOSE': 'Bez\xe1r', 'CREATE_HP': 'VIT', 'CUBE_INFO_TITLE': 'Finom\xedt\xe1si k\xe9zik\xf6nyv', 'MINI_GAME_BLACK_AND_WHITE_REWARD_TRADE': 'D\xedjak', 'OPTION_SHADOW_TARGET_GROUND_AND_SOLO': '3', 'PREMIUM_PRIVATE_SHOP_REMAIN_TEXT_ICON': 'H\xe1tral\xe9v\xf5 id\xf5', 'OPTION_LOOTING_SETTING': 'Zs\xe1km\xe1ny', 'RESTART_TOWN': '\xdajraind\xedt a v\xe1rosban', 'KEYCHANGE_INVENTORY_WINDOW': 'Lelt\xe1r', 'SUNGMAHEE_TOWER_INFO_BOARD_FLOOR': 'E%d', 'GUILD_BUILDING_LIST_TITLE': '\xc9p\xfclet lista', 'CHATTING_SETTING_CANCLE': 'Vissza\xe1ll\xedt', 'OPTION_NAME_COLOR_EMPIRE': 'Birod. Sz\xedn', 'KEYCHANGE_QUICKSLOT4': '4-es szint', 'AUTO_ON': 'Be', 'GUILD_INFO_NAME_VALUE': 'Ez egy c\xe9h n\xe9v', 'OPTION_ALWAYS_SHOW_NAME_OFF': 'Korl\xe1tozott', 'GRAPHICONOFF_NPC_NAME_STATUS_OFF_TOOLTIP': 'NPC nevek elrejt\xe9se'}
+key: DRAGONSOUL_ACTIVATE, val: Aktiválás
+key: MC_MISSION_INIT_BUTTON, val: Megbízásszint-visszaállítás
+key: OPTION_NIGHT_MODE, val: Éjjel
+key: CHATTING_SETTING_GUILD, val: Céh
+key: PRIVATESHOPSEARCH_SELECT, val: Választás
+key: MINI_GAME_CATCHKING_RETRY, val: Játssz újra
+key: GUILD_WAR_TYPE_NORMAL, val: Mezei harc
+key: REFINE_ELEMENT_CHANGE_EARTH, val: Föld
+key: MINI_GAME_YUTNORI_REWARD_TEXT, val: Jutalom
+key: CHANGE_PASSWORD_TITLE, val: Jelszó változtatás
+key: MC_REWARD_CARD_BUTTON, val: Gyûjts Szörnykártyát
+key: CANCEL, val: Megszakít
+key: OPTION_CAMERA_DISTANCE_LONG, val: Távoli
+key: OPTION_FOG_DENSE, val: Sok
+key: KEYCHANGE_DOWN1, val: Hátra
+key: LOOTING_SYSTEM_SKILL_BOOK, val: Készségkönyv
+key: GUILD_SKILL_ACTIVE, val: Aktív
+key: GUILD_GRADE_PERMISSION_SKILL, val: Céh-készségek
+key: OPTION_SETTING, val: Megnyit
+key: BATTLE_FILED_RANK_EMPIRE, val: Birodalom
+key: OPTION_ALWAYS_SHOW_NAME, val: Név
+key: GUILD_BANKINFO_TITLE, val: Céhraktár log
+key: OPTION_CAMERA_DISTANCE_SHORT, val: Közeli
+key: KEYCHANGE_RIDE_PEED, val: Ló etetése
+key: PET_REVIVE_TITLE, val: Házikedvenc felélesztése
+key: LUCKY_BOX_RETRY_BUTTON, val: Próba-szerencse: új tárgy
+key: LOOTING_SYSTEM_TITLE, val: Zsákmánygyûjtõ
+key: KEYCHANGE_PET_WINDOW, val: Házikedvenc
+key: MOUSEBUTTON_CAMERA, val: Kamera
+key: PREMIUM_PRIVATE_SHOP, val: Prémium magánbolt
+key: OPTION_SALESTEXT, val: Bolt név
+key: MESSAGE, val: Ez egy üzenet
+key: GUILD_SKILLPAGE_LADDER, val: Rangpontok
+key: KEYCHANGE_SAVE, val: Mentés
+key: MC_EXCHANGE_BUTTON, val: Csere
+key: GUILD_GRADE_PERMISSION_WAR, val: Kiválaszthat tagokat bajtársaknak
+key: OPTION_PVPMODE_FREE_TOOLTIP, val: Minden játékost megtámadhatsz.
+key: KEYCHANGE_SLOT_KET, val: Gyorsgombok
+key: REFINE_ELEMENT_CHANGE_ELECT, val: Villám
+key: PREMIUM_PRIVATE_SHOP_YANG_ICON, val: Begyûjthetõ Yang
+key: MC_TAB_BUTTON_ACHIEV, val: Eredmény bónusz
+key: OPTION_MUSIC, val: Zene
+key: MINI_GAME_CATCHKING_HIGH_SCORE, val: Rekord
+key: LOOTING_SYSTEM_CATEGORY_COSTUME_ARMOR, val: Öltözékek
+key: LOOTING_SYSTEM_EXIT_WITH_SAVING, val: Mentés és kilépés?
+key: PET_REVIVE_REUSLT_TEXT, val: Eredmény
+key: __package__, val: None
+key: LOGIN_SELECT_BUTTON, val: Választ
+key: SELECT_ATTR_SELECT, val: Választás
+key: INVENTORY_TITLE, val: Leltár
+key: OPTION_MOBILE, val: Mobiltelefon
+key: CHATTING_SETTING_DETAIL, val: Rendszer beállítások
+key: GRAPHICONOFF_EFFECT_LEVEL5_TOOLTIP, val: Mindent elrejt
+key: LOGIN_REGION_TITLE, val: Számlakibocsátás helyszíne
+key: COMB_ATTRIBUTE, val: Kiindulás
+key: GUILD_DRAGONLAIR_RANKING_MEMBER, val: Tag
+key: BANNER_MYSTERY_BOX_BUTTON, val: ZSÁKMÁNY-VADÁSZAT I
+key: WORLD_BOSS_RANK_RANK, val: Helyezés
+key: OPTION_TITLE, val: Opciók
+key: CHANGE_PASSWORD_CONFIRM, val: Új jelszó ismét
+key: KEYCHANGE_SKILL_WINDOW, val: Készségek
+key: WORLD_BOSS_DESC_FILE, val: locale/hu/world_boss_desc.txt
+key: QUEST_UI_TEXT_COLLECTION, val: Biológus küldetések
+key: GUILD_ATTENDANCE_LOCA4, val: 30 vagy több: 4x Bátorság medálja
+key: MESSENGER_BLOCK_FRIEND, val: Blokkol
+key: LANGUAGE_IT, val: Olasz
+key: PASSIVE_ATTR_UI_ADD_BUTTON, val: Hozzáad
+key: AUTO_AUTO_POSITION, val: Bájitalok
+key: AURA_MAIN, val: Aura öltözék
+key: SUNGMAHEE_TOWER_ELEMENT_FIRE, val: Tûz
+key: PET_ATTR_CHANGE_TITLE, val: Házikedvenc típus megváltoztatása
+key: BATTLE_FIELD_OPERATION_TIME_NA, val: Pillanatnyilag lezárva a belépés elõl.
+key: KEYCHANGE_RIDE, val: Hátas
+key: KEYCHANGE_ROOT1, val: Felvesz
+key: GUILD_WAR_REPORT, val: Csatajelentés
+key: AUTO_SETTING, val: Beállítások
+key: DUTCHAUCTION_BUTTON, val: Menj
+key: COMB_MATERIAL, val: Kiindulás
+key: GUILD_WAR_TYPE_DEFENSE, val: Pajzs-harc
+key: GUILD_WAR_WIN_ONE, val: 1
+key: REFINE_ELEMENT_CHANGE_FIRE, val: Tûz
 key: SELECT_SP, val: INT
-key: KEYCHANGE_SHOW_NAME, val: Exibir Nome
-key: GUILD_WAR_TYPE_TIGER, val: Aniquilação
-key: MINI_BOSS_DUNGEON_TITLE_NAME, val: Usuário
-key: LOGIN_SELECT_EXIT, val: Voltar
-key: GUILD_INFO, val: Informações da guilda
-key: name, val: locale/br
-key: MC_WARP_BUTTON, val: Teleportar
-key: GUILD_GRADE_WRITE, val: Enviar
-key: MC_ACHIEV_SORT_REGIST, val: Pode ser aplicado
-key: GUILD_INFO_ENEMY_GUILD, val: Guildas inimigas
-key: SHOP_TITLE, val: Loja
-key: GUILD_INFO_REST_EXP, val: Próximo nível
-key: OPTION_FOG_ON, val: On
-key: OPTION_MOB_INFO, val: Info Monstro
-key: CATCHKING_EVENT_DESC, val: locale/br/catchking_event_desc.txt
-key: EXIT_BATTLE_FIELD, val: Você quer sair da Batalha Campal?
-key: OPTION_PVPMODE_REVENGE_TOOLTIP, val: Ataca somente personagens com Classe de Honra oposta
-key: MINI_BOSS_DUNGEON_TOOTIP_08, val: Recompensa de contribuição
-key: TASKBAR_INVENTORY, val: Inventário [<I>]
-key: OPTION_SHADOW_QUALITY_GOOD, val: Alta
-key: MINI_GAME_CHALLENGE_TAB_RANK, val: Ranking
-key: GUILD_ATTENDANCE_LOCA1, val: Presença Básica: Medalha de Honra x1
-key: OPTION_PVPMODE_PEACE, val: Pacífico
-key: BANNER_VALENTINE_BUTTON, val: Dia dos Namorados
-key: LUCKY_BOX_RECV_NAME, val: Item disponível para receber
-key: REFINE_ELEMENT_CHANGE_WIND, val: Vento
-key: PRIVATESHOPSEARCH_ITEMTYPE, val: Itens
-key: PET_INFORMATION_TITLE, val: Informação do Pet
-key: HELP_OFF_QUESTSCROLL, val: - Você esconder os pergaminhos de quest com as teclas <Ctrl> + Q.
-key: MC_ACHIEV_ABLE_REGIST, val: Pode ser registrada
+key: AUTO_SKILL_SETTING, val: Készségek
+key: GUILD_DONATE_TAB_HIGH, val: Nagy adomány
+key: LOGIN_SELECT_OK, val: OK
+key: CHATTING_SETTING_LANGUAGE_2, val: 2. nyelv
+key: CHATTING_SETTING_LANGUAGE_3, val: 3. nyelv
+key: GUILD_INFO, val: Céh információ
+key: CHATTING_SETTING_LANGUAGE_1, val: 1. nyelv
+key: name, val: locale/hu
+key: MC_WARP_BUTTON, val: Teleport
+key: GUILD_GRADE_WRITE, val: Írni
+key: PREMIUM_PRIVATE_SHOP_WON_ICON, val: Begyûjthetõ Won
+key: BANNER_ROULETTE_BUTTON, val: Vér rituálé
+key: GUILD_INFO_ENEMY_GUILD, val: Ellenséges céh
+key: SHOP_TITLE, val: Bolt
+key: GUILD_INFO_REST_EXP, val: Szükséges tapasztalat
+key: LOOTING_SYSTEM_CATEGORY_COMMON, val: Egyéb
+key: OPTION_FOG_ON, val: Be
+key: OPTION_FOG, val: Köd
+key: LOOTING_SYSTEM_QUESTION_DS, val: Itt tudod beállítani a Sárkánykõ-alkímia tárgyak begyûjtésének részleteit.
+key: CATCHKING_EVENT_DESC, val: locale/hu/catchking_event_desc.txt
+key: SELECT_HP, val: VIT
+key: SUNGMAHEE_TOWER_MISSION_TYPE_COMPLETE, val: Küldetés teljesítve
+key: FLOWER_EVENT_EXCHANGE_BUTTON_TEXT, val: Beváltás
+key: OPTION_PVPMODE_REVENGE_TOOLTIP, val: Csak eltérõ világképû játékost támadhatsz meg.
+key: PRIVATESHOPSEARCH_PRICE, val: Ár
+key: GUILD_MEMBER_KNIGHT, val: Bajtárs
+key: TASKBAR_INVENTORY, val: Leltár [I]
+key: OPTION_SHADOW_QUALITY_GOOD, val: Magas
+key: LOOTING_SYSTEM_QUESTION_ETC, val: Ide tartozik minden anyag, kivéve a felszerelések, öltözékek, fogyótárgyak, készség könyvek, stb.
+key: OPTION_PVPMODE_PEACE, val: Béke
+key: BANNER_VALENTINE_BUTTON, val: VALENTIN NAP
+key: REFINE_ELEMENT_CHANGE_WIND, val: Szél
+key: PRIVATESHOPSEARCH_ITEMTYPE, val: Tárgyak
+key: PET_INFORMATION_TITLE, val: Házikedvenc
+key: HELP_OFF_QUESTSCROLL, val: Jelenítsd meg/rejtsd el a küldetéstekercseket a <CTRL> + Q-val.
+key: MC_ACHIEV_ABLE_REGIST, val: Bevált
+key: LOOTING_SYSTEM_ON, val: BE
 key: GRAPHICONOFF_DROP_ITEM_LEVEL4, val: 4
-key: CHARACTER_QUEST, val: Quests
-key: PET_FEED_TITLE, val: Alimentar
-key: MINI_GAME_CHALLENGE_REWARD_TAB_LEVEL, val: Nv. %d
+key: GRAPHICONOFF_DROP_ITEM_LEVEL5, val: 5
+key: PET_FEED_TITLE, val: Etetés
+key: SUNGHAHEE_TOWER_CLEAR, val: Kész
 key: GRAPHICONOFF_DROP_ITEM_LEVEL1, val: 1
 key: GRAPHICONOFF_DROP_ITEM_LEVEL2, val: 2
-key: WHISPER_SEND, val: Enviar
-key: ENTER_BATTLE_FIELD, val: Entrar
-key: CHARACTER_SPECTIAL_ACTION, val: Ação Especial
-key: GUILD_BASEINFO_SMEITER, val: Fornalha da Guilda
-key: OPTION_TARGET_BOARD_VIEW, val: Exibir
-key: KEYCHANGE_DSS1, val: PdD[Céu]
-key: KEYCHANGE_DSS2, val: PdD[Terra]
-key: HELP_CLICK_OTHER_PLAYER, val: - Você pode iniciar uma negociação, grupo ou duelo ao clicar com o botão direito em personagens.
-key: GUILD_INFO_UPLOAD_MARK, val: Escolher emblema
-key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL3_TOOLTIP, val: Mostrar lojas pessoais dentro de um raio de 25M
+key: GRAPHICONOFF_DROP_ITEM_LEVEL3, val: 3
+key: ENTER_BATTLE_FIELD, val: Belépni
+key: CHARACTER_SPECTIAL_ACTION, val: Különleges akciók
+key: GUILD_BASEINFO_SMEITER, val: Céh-alkimista
+key: OPTION_TARGET_BOARD_VIEW, val: Megmutat
+key: KEYCHANGE_DSS1, val: DS [Ég]
+key: GUILD_DONATE_HIGH_MATERIAL, val: Nagy adomány
+key: HELP_CLICK_OTHER_PLAYER, val: Jobb kattintás a másik játékoson kereskedéshez, csoportalakításhoz, vagy hogy kihívd párbajra.
+key: GUILD_INFO_UPLOAD_MARK, val: Jel feltöltés
+key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL3_TOOLTIP, val: Minden megjelenítése közepes távolságban
+key: LANGUAGE_NONE, val: Nincs kiválasztva
 key: __builtins__, val: <module '__builtin__' (built-in)>
-key: SELECT_NAME, val: Nome
-key: MYSHOP_DECO_DEFAULT, val: Padrão
-key: KEYCHANGE_QUEST_SCROLL_ONOFF, val: Scroll
-key: MINI_GAME_CHALLENGE_COM_VS_PC, val: Desafiante VS Jogador
-key: MINI_GAME_CHALLENGE_RANK_DESC, val: locale/br/mini_game_challenge_rank_desc.txt
-key: MINI_BOSS_DUNGEON_DESC_BTN, val: Dicas
-key: MINI_GAME_CHALLENGE_REWARD_TAB_LEVEL_TEXT, val: Nível
-key: GUILD_DONATE_GUILD_EXP, val: Experiência da Guilda
-key: KEYCHANGE_RIGHT2, val: Direita2
-key: HELP_MOVE_KEY, val: Use <W>, <S>, <A>, <D> ou as setas para mover seu personagem
-key: KEYCHANGE_RIGHT1, val: Direita1
-key: OPTION_EFFECT, val: Dano
-key: PASSWORD_DESC_2, val: para abrir o Item Mall
-key: PASSWORD_DESC_1, val: Insira sua senha
-key: CREATE_SEX, val: Sexo
-key: CREATE_STAT_RESET, val: Reiniciar
-key: DRAGONSOUL_TAP_TITLE_3, val: Jade
-key: RESTART_HERE, val: Retornar aqui
-key: DRAGONSOUL_TAP_TITLE_1, val: Diamante
-key: DRAGONSOUL_TAP_TITLE_6, val: Ônix
-key: DRAGONSOUL_TAP_TITLE_4, val: Safira
-key: DRAGONSOUL_TAP_TITLE_5, val: Granada
-key: GUILD_SYMBOL, val: Bandeira da guilda
-key: MINI_GAME_CHALLENGE_RANK_TAB_TITLE_LEVEL, val: Nível
-key: MARKLIST_TITLE, val: Emblema da guilda
-key: QUEST_UI_TEXT_EVENT, val: Missão de Evento
-key: OPTION_SHADOW_QUALITY_AVERAGE, val: Normal
-key: OPTION_KEY_SETTING, val: Atalhos
-key: BANNER_LUCKY_EVENT, val: Evento da Sorte
-key: KEYCHANGE_RIDE_PEED, val: Alimentar Cavalo
-key: AUTO_POSITION_SETTING, val: Poção
-key: BATTLE_FILED_RANK_NAME, val: Nome
-key: HELP_OPEN_SKILL, val: <V> abre sua janela de Skills
-key: WINDOWS_PATH, val: locale/br/ui/windows/
-key: GUILD_DONATE_TITLE, val: Doar Experiência
-key: KEYCHANGE_PARTY_MATCH_WINDOW, val: Formação de Grupo
-key: HELP_AUTO_ATTACK, val: Ataque Automático
-key: GUILD_GRADE_PERMISSION_JOIN, val: Juntar
-key: SYSTEMOPTION_TITLE, val: Opções de sistema
-key: MINI_GAME_RUMI_SCORE, val: Pontos
-key: MINI_GAME_FISH_START_TEXT, val: Iniciar
-key: GUILD_MEMBER_OUT_TITLEBAR, val: Expulsar
-key: GUILD_GRADE_CHANGE_GRADE_NAME, val: Alterar título
-key: BNW_RANK_UI_NAME, val: Nickname
-key: OPTION_SHADOW_QUALITY_GOOD_TOOLTIP, val: Qualidade de sombra alta
-key: AUTO_END, val: Finalizar
-key: GUILD_MONEY, val: Gold da Guilda
+key: MESSENGER_TITLE, val: Barát
+key: LANGUAGE_PL, val: Lengyel
+key: MYSHOP_DECO_DEFAULT, val: Alapértelmezett
+key: GUILD_WAR_GAMETIME_THIRTY, val: 30 perc
+key: MINI_BOSS_DUNGEON_DESC_BTN, val: Rendezvény-szabályok
+key: LANGUAGE_PT, val: Portugál
+key: LOGIN_SELECT_TITLE, val: Szervert választ
+key: KEYCHANGE_RIGHT2, val: Jobb
+key: HELP_MOVE_KEY, val: Vezérlés: W, A, S, D, vagy nyíl billentyûk
+key: AUTO_OFF, val: Ki
+key: OPTION_EFFECT, val: Találati info.
+key: MC_ACHIEV_SORT_DISABLE, val: Nem teljesült
+key: PASSWORD_DESC_1, val: Írd be a jelszavad
+key: CREATE_SEX, val: Neme
+key: PASSWORD_DESC_5, val: Változtasd meg a jelszavad a raktárban.
+key: PASSWORD_DESC_4, val: Ha még nem, a jelszavad "000000" lesz.
+key: CREATE_STAT_RESET, val: Vissza
+key: DRAGONSOUL_TAP_TITLE_3, val: Sárkányjáde
+key: RESTART_HERE, val: Újraindít itt
+key: DRAGONSOUL_TAP_TITLE_1, val: Sárkánygyémánt
+key: DRAGONSOUL_TAP_TITLE_6, val: Sárkányónix
+key: MYSHOP_DECO_NEXT, val: Következõ
+key: DRAGONSOUL_TAP_TITLE_4, val: Sárkányzafír
+key: DRAGONSOUL_TAP_TITLE_5, val: Sárkánygránát
+key: LOOTING_SYSTEM_CONSUMPTION, val: Fogyótárgyak
+key: LOOTING_SYSTEM_COSTUME, val: Öltözék
+key: GUILD_SYMBOL, val: Céh zászló
+key: CHATTING_SETTING_NOTICE, val: Üzenet
+key: MARKLIST_TITLE, val: Céh jelet regisztrál
+key: FLOWER_EVENT_SHOOT_SUNFLOWER_TEXT, val: Napraforgó hajtás
+key: OPTION_SHADOW_QUALITY_AVERAGE, val: Közepes
+key: OPTION_KEY_SETTING, val: Billentyûzet
+key: CHATTING_SETTING_SHOUT, val: Hívó chat
+key: DRAGON_GATE_SIDE_NAME, val: 
+key: AUTO_POSITION_SETTING, val: Bájitalok
+key: BATTLE_FILED_RANK_NAME, val: Név
+key: HELP_OPEN_SKILL, val: Képesség ablak megnyitása: V
+key: WINDOWS_PATH, val: locale/hu/ui/windows/
+key: GUILD_DONATE_TITLE, val: EXP adomány
+key: KEYCHANGE_PARTY_MATCH_WINDOW, val: Csoport keresés
+key: PREMIUM_PRIVATE_SHOP_TAX_ADJUSTMENT_DIALOG_TITLE, val: Begyûjt
+key: GUILD_GRADE_PERMISSION_JOIN, val: Felvehet játékost a céhbe
+key: SYSTEMOPTION_TITLE, val: Rendszer opciók
+key: LOOTING_SYSTEM_WEARING_LEVEL, val: Szükséges szint
+key: MC_ACHIEV_SHOW, val: Részletek
+key: GUILD_MEMBER_OUT_TITLEBAR, val: Tag eltávolítása
+key: GUILD_GRADE_CHANGE_GRADE_NAME, val: Új rang név
+key: LANGUAGE_TR, val: Török
+key: BNW_RANK_UI_NAME, val: Név
+key: OPTION_SHADOW_QUALITY_GOOD_TOOLTIP, val: Magas árnyékminõség
+key: AUTO_END, val: Állj
+key: GUILD_MONEY, val: Yang
 key: BATTLE_ROYALE_APPLICATION_TITLE, val: Battle Royale
-key: GUILD_INFO_NAME, val: Nome
-key: SELECT_ATT_GRADE, val: FOR
-key: MOUSEBUTTON_SKILL, val: Skill
-key: LOGIN_SELECT_TITLE, val: Escolha o Servidor
-key: SYSTEM_HELP, val: Ajuda
-key: GRAPHICONOFF_DROP_ITEM_APPLY, val: Aplicar
-key: QUEST_UI_TEXT_DAILY, val: Missão Diária
-key: REFINE_ELEMENT_UPGRADE_TITLE, val: Melhorar Nível
-key: GUILD_MEMBER_NAME, val: Personagem
+key: GUILD_INFO_NAME, val: Céh név
+key: SELECT_ATT_GRADE, val: ERÕ
+key: MOUSEBUTTON_SKILL, val: Készség
+key: GUILD_DONATE_GUILD_EXP, val: Céh EXP
+key: SYSTEM_HELP, val: Segítség
+key: GRAPHICONOFF_DROP_ITEM_APPLY, val: Alkalmaz
+key: QUEST_UI_TEXT_DAILY, val: Napi küldetés
+key: LANGUAGE_EN, val: Angol
+key: REFINE_ELEMENT_UPGRADE_TITLE, val: Fejlesztés
+key: MAILBOX_POST_READ_BLOCK, val: Blokkol
+key: GUILD_MEMBER_NAME, val: Név
 key: KEYCHANGE_DDS_WINDOW, val: DSS
-key: GAME_EXIT_OBSERVER, val: Sair do modo Espectador
-key: GRAPHICONOFF_PET_STATUS_ON, val: ON
-key: GUILD_BUILDING_PREVIEW, val: Visualizar
-key: BANNER_OLYMPIC_BUTTON, val: Olimpíadas
-key: GUILD_BASEINFO_LOCALE, val: Localização do Terreno
-key: GUILD_BASEINFO_LANDABANDON, val: aband. terreno
-key: MESSENGER_OPEN_GUILD, val: Abrir janela de guilda
-key: EXCHANGE_TITLE, val: Negociar
-key: DRAGONSOUL_TITLE, val: Pedra de Dragão
-key: PRIVATE_SHOP_CLOSE_BUTTON, val: Fechar
-key: KEYCHANGE_MINIMAP_PLUS, val: Mini-mapa+
-key: MINI_GAME_CHALLENGE_REWARD_TAB_WAITING_TIME, val: Tempo de espera: %s
-key: COMB_ATTRIBUTE, val: Traje 2
-key: CODEPAGE, val: 1252
-key: QUEST_UI_TEXT_SYSTEM, val: Missão de Sistema
-key: SYSTEM_EXIT, val: Fechar o jogo
-key: BANNER_FOOTBALL_BUTTON, val: Copa do Mundo
-key: MAILBOX_TITLE, val: Caixa de Correio
-key: MOUSEBUTTON_ATTACK, val: Atacar
-key: SELECT_DELETE, val: Excluir
-key: TASKBAR_PREV_QUICKSLOT, val: Atalhos anteriores [<Shift>+<Número>]
-key: MINI_GAME_CATCHKING_TITLE, val: Pegue o REI
-key: BANNER_CHALLENGE_BUTTON, val: Desafio
-key: MC_REQUEST_MISSION_BUTTON, val: Receber Missão
-key: MAILBOX_POST_READ_FROM, val: De:
-key: ACCE_ABSORB, val: Bônus de Absorção
-key: MUSICLIST_TITLE, val: Lista de BGM
-key: ReloadLocaleFile, val: <cyfunction ReloadLocaleFile at 0x08A010E0>
-key: GUILD_WAR_TYPE_DIE, val: Batalha de Arena
-key: MINI_GAME_YUTNORI_REMAIN_COUNT, val: Contagem Restante
-key: KEYCHANGE_EMOTION5, val: Emoção5
-key: ATTENDANCE_TITLE, val: Quest Diária
-key: LOGIN_EXIT, val: Fechar
-key: GUILD_BASEINFO_MONEYIN, val: entrada
-key: GRAPHICONOFF_NPC_NAME_STATUS_ON_TOOLTIP, val: Mostrar nome de NPCs
-key: MC_ACHIEV_APPLY, val: Aplicar
-key: GUILD_WAR_REPORTLIST, val: Registros (Guerra / Vitória / Derrota / Empate)
-key: KEYCHANGE_MINIMAP_WINDOW, val: Mini-mapa
-key: OPTION_SNOW_TEXTURE_MODE, val: Neve
-key: CHARACTER_SKILL, val: Skills
-key: GUILD_BASEINFO_BUILDING, val: Prédios da Guilda
-key: OPTION_BLOCK, val: Bloquear
-key: GUILDWINDOW_BASE_BUFF, val: Benefícios da Guilda
-key: PRIVATE_SHOP_TITLE, val: Loja particular
-key: TASKBAR_MONEY_EXPAND, val: Expansão Monetária
+key: GAME_EXIT_OBSERVER, val: Megfigyelõ módot befejezni
+key: GRAPHICONOFF_PET_STATUS_ON, val: Be
+key: LANGUAGE_ES, val: Spanyol
+key: BANNER_OLYMPIC_BUTTON, val: HÕS RENDEZVÉNY
+key: GUILD_BASEINFO_LOCALE, val: Elhelyezkedés
+key: MESSENGER_OPEN_GUILD, val: Céh ablak nyitás
+key: EXCHANGE_TITLE, val: Kereskedés
+key: DRAGONSOUL_TITLE, val: Sárkánykõ-alkímia
+key: SUNGMAHEE_TOWER_ELEMENT_ELEC, val: Villám
+key: OPTION_BLOCK, val: Letilt
+key: BATTLE_ROYALE_MAINBUTTON_APPLICATION, val: Részvétel
+key: OPTION_VIEW_CHAT, val: Cset sor
+key: CODEPAGE, val: 1250
+key: QUEST_UI_TEXT_SYSTEM, val: Játék küldetések
+key: SYSTEM_EXIT, val: Játék befejezés
+key: BANNER_FOOTBALL_BUTTON, val: FOCI
+key: MAILBOX_TITLE, val: Bejövõ üzenetek
+key: LOOTING_SYSTEM_CATEGORY_COMMON_EAR, val: Fülbevalók
+key: MOUSEBUTTON_ATTACK, val: Támad
+key: SELECT_DELETE, val: Töröl
+key: SUNGMAHEE_TOWER_EXIT_BUTTON, val: Kilépés
+key: MINI_GAME_CATCHKING_TITLE, val: Kapd el a Királyt
+key: MC_REQUEST_MISSION_BUTTON, val: Megbízás elfogadása
+key: MAILBOX_POST_READ_FROM, val: Feladó
+key: ACCE_ABSORB, val: Bónusz abszorpció
+key: FLOWER_EVENT_TITLE, val: Hajtások a leltárban
+key: ReloadLocaleFile, val: <cyfunction ReloadLocaleFile at 0x0810C870>
+key: GUILD_WAR_TYPE_DIE, val: Aréna-harc
+key: MINI_GAME_YUTNORI_REMAIN_COUNT, val: Körök
+key: CHARACTER_MUTUAL_ACTION, val: Interaktív akció
+key: ATTENDANCE_TITLE, val: Fõszörny-kaszáló esemény
+key: LOOTING_SYSTEM_CATEGORY_JOB_WOLFMAN, val: Vérfarkas
+key: LOGIN_EXIT, val: Bezár
+key: GRAPHICONOFF_NPC_NAME_STATUS_ON_TOOLTIP, val: NPC nevek mutatása
+key: MC_ACHIEV_APPLY, val: Használ
+key: GUILD_WAR_REPORTLIST, val: Áttekintés (Csaták: Cs, Gyõzelmek: Gy, Vereségek: V, Döntetlenek: D)
+key: KEYCHANGE_MINIMAP_WINDOW, val: Nagy térkép
+key: OPTION_SNOW_TEXTURE_MODE, val: Hó
+key: LOOTING_SYSTEM_QUESTION_ARMOR, val: Itt tudod beállítani a páncélok begyûjtésének részleteit.
+key: LOOTING_SYSTEM_QUESTION_UNIQUE, val: Itt tudod beállítani az egyedi tárgyak begyûjtésének részleteit.
+key: CHARACTER_SKILL, val: Képesség
+key: LOOTING_SYSTEM_REFINE, val: Fejlesztés
+key: GUILD_BASEINFO_BUILDING, val: Céhépület
+key: PRIVATE_SHOP_CLOSE_BUTTON, val: Bolt zárás
+key: GUILDWINDOW_BASE_BUFF, val: Céh-bónusz
+key: PRIVATE_SHOP_TITLE, val: Magán bolt nyitás
+key: TASKBAR_MONEY_EXPAND, val: Vagyon
 key: GUILD_WAR_JOINMEMBER_FIFTEEN, val: 15
-key: GUILD_WAR_ALLSCORE, val: Registros de Todos Placares
-key: BATTLE_FIELD_OPERATION_TIME_END, val: Aberto: %s sobrando.
-key: LUCKY_BOX_TITLE_NAME, val: Caixa da Sorte
-key: OPTION_MUSIC_CHANGE, val: Alterar
-key: GAME_SKILL_UP, val: Ponto de Skill
-key: GUILD_DEPOSIT, val: Doar
-key: REFINE_ELEMENT_CHANGE_TITLE, val: Alterar Elemento
-key: PET_PRIMIUM_FEEDSTUFF_DESC, val: locale/br/pet_primium_feedstuff_desc.txt
-key: PET_INFORMATION_EVOL_BUTTON, val: Evoluir
-key: REFINE_SELECT, val: Selecionar Refinação
-key: HELP_HELP, val: <H> abre a janela de ajuda. Também pode ser acessada através do Menu, acessado com a tecla <Esc>
-key: HELP_SERVER, val: - Exibe o servidor e o canal
-key: OPTION_PVPMODE, val: Modo PvP
-key: GUILD_WAR_TYPE_FLAG, val: Batalha da Bandeira
-key: MINIGAME_RUMI_DESC, val: locale/br/mini_game_okey_desc.txt
-key: GUILD_WITHDRAW, val: Retirar
-key: GUILD_BASEINFO_POWER, val: Altar do Poder
-key: MARKET_TITLE, val: Loja
-key: GUILD_DONATE_TAB_NORMAL, val: Doação Padrão
-key: HELP_KEYSETTING, val: - Você pode definir a tecla de atalho em 'Teclas de Atalho', no menu opções.
-key: MINI_GAME_YUTNORI_YUTSEM6, val: Back-do
-key: OPTION_BLOCK_EXCHANGE, val: Negociação
-key: MAILBOX_POST_ALL_RECEIVE, val: Receber todos
-key: RESTART_GIVEUP, val: Desistir
-key: OPTION_LANGUAGE_SELECT, val: Language Support
-key: GRAPHICONOFF_DROP_ITEM_LEVEL, val: Item Drop
-key: KEYCHANGE_BASEACTION, val: Ações
-key: HELP_OPEN_CHARACTER, val: <C> abre a janela de Status do personagem
-key: MAILBOX_POST_WRITE_CLOSE_TEXT, val: Fechar
-key: GAME_STAT_UP, val: Ponto de Status
-key: MONSTER_CARD_ACHIEV_BONUS, val: Bônus de Conquista
-key: REFINE_ELEMENT_CHANGE_DARK, val: Trevas
-key: GUILD_WAR_BATTLE_TYPE, val: Tipo de Batalha
-key: PICK_MONEY_TITLE, val: Quantia
-key: GUILD_DONATE_NORMAL_MATERIAL, val: 120.000 gold
-key: PET_INFORMATION_LIFETIME_BUTTON, val: Alimentar
-key: OPTION_PVPMODE_GUILD_TOOLTIP, val: Permite atacar todos os jogadores, exceto membros da guilda
-key: MC_ACHIEV_SORT_APPLYING, val: Aplicado
-key: GRADE, val: Classe
-key: BANNER_CATCHKING_BUTTON, val: Pegue o Rei
-key: KEYCHANGE_MESSENGER_WINDOW, val: Contatos
-key: GRAPHICONOFF_NPC_NAME_STATUS_ON, val: ON
-key: MINI_BOSS_DUNGEON_TOOTIP_02, val: Rank Dungeon Azul
-key: MINI_BOSS_TITLE, val: Dungeon de Mini Boss
-key: LOGIN_DEFAULT_SERVERADDR, val: Nome do servidor, canal 1
-key: MAILBOX_POST_WRITE_SEND_TEXT, val: Enviar
-key: MINI_GAME_CHALLENGE_REWARD_TAB_PREMIUM, val: Premium
-key: REFINE_INFO, val: Chance de Refinação bem-sucedida: 100%
-key: OPPOSITES, val: Discordar
-key: KEYCHANGE_QUICKSLOT3, val: Trocar Slot3
-key: KEYCHANGE_QUICKSLOT2, val: Trocar Slot2
-key: HELP_OPEN_WHISPER, val: <Shift>+<Enter> abre a janela de Mensagens Particulares
-key: MINI_GAME_CATCHKING_MYNUMBER, val: Minhas cartas
-key: LOGIN_CONNECTING, val: Conectando...
-key: EMPIRE_SELECT, val: Selecionar
-key: KEYCHANGE_QUICKSLOT4, val: Trocar Slot4
-key: GUILD_GRADE_PERMISSION_WAR, val: Guerra
-key: MINI_GAME_FISH_HELP_TEXT, val: Ajuda
-key: MINI_GAME_CHALLENGE_GAME_TAB_TEXT_SELECT, val: Selecionar
-key: GUILD_INFO_MEMBER_AVG_LEVEL, val: Nível médio
-key: KEYCHANGE_GUILD_WINDOW, val: Guilda
-key: LOCALE_UISCRIPT_PATH, val: locale/br/ui/
-key: PARTY_MATCH_TEXT_REQUEST_MATCH, val: Registrar
-key: GUILD_INFO_ENEMY_GUILD_EMPTY, val: Nenhuma
-key: STEP_SELECT, val: Brilho
-key: SELECT_METIN_STONE_TITLE, val: Escolha a gema
-key: MINI_GAME_CATCHKING_START_TEXT, val: Começar
-key: MINI_GAME_YUTNORI_COM_TEXT, val: Alma Invocada
-key: SELECT_EXIT, val: Voltar
-key: MC_ACHIEV_DUNGEON, val: Conquistas de Calabouço
-key: AUTO_SAVE, val: Salvar
-key: SELECT_SELECT, val: Selecionar Personagem
-key: JOBDESC_WOLFMAN_PATH, val: locale/br/jobdesc_wolfman.txt
-key: OPTION_SHADOW_QUALITY_BAD_TOOLTIP, val: Qualidade de sombra baixa
-key: DRAGONSOUL_PAGE_BUTTON_1, val: Com(D)
+key: GUILD_WAR_ALLSCORE, val: Minden háború
+key: OPTION_SHADOW_TARGET, val: Árnyék szintje
+key: LUCKY_BOX_TITLE_NAME, val: Szerencse-láda
+key: LOOTING_SYSTEM_CATEGORY_JOB_PUBLIC, val: Egyéb
+key: OPTION_MUSIC_CHANGE, val: Váltani
+key: GAME_SKILL_UP, val: Képesség fejlesztés
+key: GUILD_DEPOSIT, val: Fizetni
+key: SUNGMAHEE_TOWER_REWARD_INFO_TITLE, val: Jutalmak
+key: QUEST_UI_TEXT_SUB, val: Mellékküldetések
+key: BANNER_WORLD_BOSS_BUTTON, val: Megafõszörny
+key: LOOTING_SYSTEM_CATEGORY_COSTUME_HAIR, val: Frizurák
+key: REFINE_SELECT, val: Nemesítés
+key: HELP_HELP, val: Segítség megmutatása: H
+key: HELP_SERVER, val: Kijelzi a szervert és a csatornát.
+key: BATTLE_FIELD_OPERATION_TIME, val: A Harci övezetbe %s:00 és %s:00 között lehet belépni.
+key: OPTION_BLOCK_GUILD, val: Céh
+key: OPTION_PVPMODE, val: PvP Mód
+key: GUILD_WAR_TYPE_FLAG, val: Kapd el a zászlót
+key: REPORT_VIOLENT_WHISPER, val: 
+key: GUILD_WITHDRAW, val: Kivon
+key: GUILD_BASEINFO_POWER, val: Az Erõ oltára
+key: MARKET_TITLE, val: Betölt
+key: GUILD_DONATE_TAB_NORMAL, val: Kicsi adomány
+key: GUILD_ATTENDANCE_TITLE, val: Részvételi jutalom
+key: OPTION_BLOCK_EXCHANGE, val: Kereskedés
+key: GUILD_GRADE_NUM, val: Nr.
+key: RESTART_GIVEUP, val: Feladás
+key: OPTION_LANGUAGE_SELECT, val: Nyelv
+key: MAILBOX_POST_READ_MAIN_TITLE, val: Üzenet
+key: KEYCHANGE_BASEACTION, val: Standard gombok
+key: CUBE_REQUIRE_MATERIAL_OR, val: vagy
+key: FLOWER_EVENT_SHOOT_MAY_BELL_TEXT, val: Gyöngyvirág hajtás
+key: MAILBOX_POST_WRITE_CLOSE_TEXT, val: Bezár
+key: GAME_STAT_UP, val: Státusz emelés
+key: MONSTER_CARD_ACHIEV_BONUS, val: Eredmények
+key: MC_ACHIEV_SORT_APPLYING, val: Aktív
+key: REFINE_ELEMENT_CHANGE_DARK, val: Sötétség
+key: GUILD_WAR_BATTLE_TYPE, val: Harci mód
+key: GUILD_GRADE_PERMISSION_NOTICE, val: Írhat céhüzenetet
+key: PET_INFORMATION_LIFETIME_BUTTON, val: Etetés
+key: OPTION_PVPMODE_GUILD_TOOLTIP, val: Céhtagokat kivéve minden játékost megtámadhatsz.
+key: LUCKY_BOX_RECV_NAME, val: Tartalma:
+key: GUILD_MEMBER_JOB, val: Osztály
+key: GRADE, val: Osztály
+key: BANNER_CATCHKING_BUTTON, val: Kapd el a Királyt
+key: KEYCHANGE_MESSENGER_WINDOW, val: Barátok
+key: GRAPHICONOFF_NPC_NAME_STATUS_ON, val: Be
+key: LOOTING_SYSTEM_OFF, val: KI
+key: GUILD_BASENAME, val: Bázisnév
+key: MC_ACHIEV_SORT_ALL, val: Összes
+key: REFINE_INFO, val: Esély a sikeres javításra: 100%
+key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL5_TOOLTIP, val: Minden megjelenítése a közvetlen közelben
+key: KEYCHANGE_QUICKSLOT3, val: 3-as szint
+key: KEYCHANGE_QUICKSLOT2, val: 2-es szint
+key: HELP_OPEN_WHISPER, val: Suttogás ablak megnyitása: Shift + Enter
+key: LANGUAGE_DE, val: Német
+key: LOGIN_CONNECTING, val: A szerverhez leszel kapcsolva.
+key: EMPIRE_SELECT, val: Választani
+key: ITEM_MALL, val: Tárgy piac
+key: MC_SUMMON_BUTTON, val: Idézés
+key: GUILD_INFO_MEMBER_AVG_LEVEL, val: Átlagos Szint
+key: KEYCHANGE_GUILD_WINDOW, val: Céh
+key: LOCALE_UISCRIPT_PATH, val: locale/hu/ui/
+key: PET_INFORMATION_ABILITIES, val: Bónuszok
+key: PARTY_MATCH_TEXT_REQUEST_MATCH, val: Keresés
+key: GUILD_INFO_ENEMY_GUILD_EMPTY, val: Nincs
+key: CHATTING_SETTING_DICE, val: Kocka
+key: STEP_SELECT, val: Tisztasági minõség
+key: SELECT_METIN_STONE_TITLE, val: Szellemkõ választás
+key: SUNGMAHEE_TOWER_MISSION_TYPE_CHESS_FAIL, val: Öld meg az összes szörnyet!
+key: MINI_GAME_CATCHKING_START_TEXT, val: Indítás
+key: MINI_GAME_YUTNORI_COM_TEXT, val: Számítógép
+key: SELECT_EXIT, val: Bezár
+key: GRAPHICONOFF_DROP_ITEM_LEVEL1_TOOLTIP, val: Effekt & Név mutatása
+key: AUTO_SAVE, val: Mentés
+key: WORLD_BUSS_REWARD_BUTTON, val: Jutalom begyûjtése
+key: SELECT_SELECT, val: Start
+key: JOBDESC_WOLFMAN_PATH, val: locale/hu/jobdesc_wolfman.txt
+key: OPTION_SHADOW_QUALITY_BAD_TOOLTIP, val: Alacsony árnyékminõség
+key: JOBDESC_SURA_PATH, val: locale/hu/jobdesc_sura.txt
 key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL2, val: 2
 key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL3, val: 3
 key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL1, val: 1
-key: CREATE_ATT_GRADE, val: FOR
-key: DRAGONSOUL_PAGE_BUTTON_2, val: Incom(C)
+key: CREATE_ATT_GRADE, val: Erõ
+key: DRAGONSOUL_PAGE_BUTTON_2, val: Metszett
 key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL4, val: 4
 key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL5, val: 5
-key: HELP_SCREEN_CAPTURE, val: <Print Screen> captura uma imagem. A imagem será salva na pasta Metin2/Screenshots
-key: CUBE_TITLE, val: Cubo
-key: KEYCHANGE_CAM_RIGHT1, val: CamDireita1
-key: REFINE_ELEMENT_CHANGE_COST_TITLE, val: Custo
-key: OPTION_VIEW_CHAT, val: Chat
-key: PET_REVIVE_CANCEL_BUTTON, val: Cancelar
-key: OPTION_CAMERA_DISTANCE_LONG, val: Longe
-key: MINI_GAME_BLACK_AND_WHITE_GAME_TITLE, val: Duelo de Videntes
-key: CREATE_SHAPE, val: Vestimenta
-key: MAILBOX_POST_WRITE_CONFIRM_TEXT, val: [Checar Personagem]
-key: PARTY_MATCH_TEXT_REQUEST_MATCH_CANCEL, val: Cancelar Registro
-key: MINI_GAME_CATCHKING_CHALLENGE, val: Desafio
-key: BATTLE_ROYALE_DESC_FILE, val: locale/br/battle_royale_desc.txt
-key: PET_INFORMATION_ABILITIES, val: Habilidades
-key: EXIT_BATTLE_FIELD_ON_DEAD, val: Você quer sair com %d ponto(s)?
-key: GUILD_BASEINFO_VOTE, val: voto
-key: HELP_GUILD_WINDOW, val: <Alt>+<G> abre e fecha a janela de Guilda
-key: KEYCHANGE_ATTACK, val: Ataque
-key: TASKBAR_DRAGON_SOUL, val: Pedra de Dragão
-key: GUILD_BASEINFO_MONEY, val: Dinheiro da Guilda
-key: KEYCHANGE_KEY_SETTING, val: Definir Teclas de Atalho
-key: PET_REVIVE_BUTTON, val: Ressuscitar
-key: KEYCHANGE_ROOT2, val: Apanhar2
-key: KEYCHANGE_ROOT1, val: Apanhar1
-key: COMB_MAIN, val: Base
-key: GRADE_SELECT, val: Classe
-key: HELP_MESSENGER_WINDOW, val: <Alt>+<M> acessa a Lista de Contatos
-key: GUILD_DRAGONLAIR_RANKING_NAME, val: Guilda
-key: MINI_GAME_CHALLENGE_GAME_TAB_TEXT_DRAW, val: EMPATE
-key: TASKBAR_SYSTEM, val: Menu [<Esc>]
-key: MC_ACHIEV_FIELD, val: Conquistas de Campo
-key: YES, val: Sim
-key: EVENT_REWARD_TITLE, val: Recompensa do Evento
-key: KEYCHANGE_SCREENSHOT, val: ScreenShot
-key: GUILD_WAR_GAMETIME, val: Tempo de batalha
-key: SAFE_CHANGE_PASSWORD, val: Alterar senha
-key: CHARACTER_MAIN, val: Status
-key: HELP_ATTACK, val: Ataque
-key: MINIGAME_FISH_EVENT_USE_COUNT, val: Número Usado
-key: ATTACH_METIN_INFO, val: Quer mesmo combinar?
-key: GUILD_DONATE_MIDDLE_MATERIAL, val: Média
-key: EMPIRE_ALL, val: Todos
-key: MESSENGER_USE_GUILD_MOVE_SKILL, val: Usar skill de mover a guilda
-key: KEYCHANGE_CANCLE, val: Cancelar
-key: OPTION_MOB_INFO_AGGR, val: Agressivo
-key: HELP_EXP, val: Experiência
-key: AURA_SUB, val: Material
-key: GUILD_BANKINFO_NAME, val: Nome
-key: GUILD_BUILDING_INFO, val: Informações
-key: HELP_FURY, val: Indicador de Fúria (não implementado)
-key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL1_TOOLTIP, val: Mostrar todas as lojas pessoais
-key: CREATE_CREATE, val: Criar
-key: GAME_GUILD_WAR_JOIN, val: EntrarGuerraGuilda
-key: MC_ACHIEV_SORT_ALL, val: Ver tudo
-key: GUILD_BUILDING_LIST_TITLE, val: Unidades de construção
-key: PRIVATESHOPSEARCH_LEVEL, val: Nível
-key: JOBDESC_SURA_PATH, val: locale/br/jobdesc_sura.txt
-key: FISH_EVENT_DESC, val: locale/br/fish_event_desc.txt
-key: DRAGONSOUL_PAGE_BUTTON_3, val: Rara(B)
-key: DRAGONSOUL_PAGE_BUTTON_4, val: Antiga(A)
-key: DRAGONSOUL_PAGE_BUTTON_5, val: Lendária(S)
-key: DRAGONSOUL_PAGE_BUTTON_6, val: Mítica(SS)
-key: BNW_GAME_UI_COM, val: Adversário
-key: MINI_GAME_CHALLENGE_REWARD_TAB_USE_EXP_GAUGE_TEXT, val: %d%%
-key: INVENTORY_PAGE_BUTTON_TOOLTIP_4, val: Inventário IIII
-key: GUILD_WAR_GAINSCORE_HUNDRED, val: 100 pontos
-key: KEYCHANGE_EMOTION1, val: Emoção1
-key: OPTION_SHADOW_TARGET_GROUND_AND_SOLO_TOOLTIP, val: Mostrar sombra do ambiente e de personagens
-key: MINI_GAME_CHALLENGE_REWARD_TAB_COMMON_TEXT, val: Normal
-key: GUILD_INFO_OFFER_EXP, val: Investir
-key: GUILD_INFO_CUR_EXP, val: Experiência
-key: MAILBOX_POST_ALL_DELETE_BUTTON, val: Deletar todos
-key: MINI_GAME_YUTNORI_TITLE, val: Yutnori
-key: GUILD_BUILDING_CATEGORY_TITLE, val: Classificação
-key: SELECT_EMPIRE_NAME, val: Reino
-key: HELP_OPEN_LOG, val: <L> abre o histórico de chat
-key: TASKBAR_PET_INFO, val: Pet Info
-key: WEEKLY_RANKING, val: Ranking Semanal
-key: GAME_HELP, val: Ajuda
-key: GRAPHICONOFF_EFFECT_LEVEL3_TOOLTIP, val: Mostrar apenas meus efeitos e de outros jogadores
-key: KEYCHANGE_CAM_DOWN2, val: CamBaixo2
-key: KEYCHANGE_CAM_DOWN1, val: CamBaixo1
-key: BANNER_BLACK_AND_WHITE_BUTTON, val: Duelo de Videntes
-key: OPTION_SNOW_MODE, val: Nevando
-key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL4_TOOLTIP, val: Mostrar lojas pessoais dentro de um raio de 10M
-key: KEYCHANGE_DOWN1, val: Trás1
-key: CURRENT_POINT, val: Pontos Atuais: %s
-key: KEYCHANGE_ACTION_WINDOW, val: Ação
-key: HELP_MINIMAP_QUEST, val: - Você pode iniciar a quest ao ir ao ponto piscante no mini mapa.
-key: GUILD_WAR_WARP, val: Arena
-key: PRIVATESHOPSEARCH_BUY, val: Comprar
-key: GUILD_INFO_MARK, val: Emblema
-key: KEYCHANGE_NEXT_TARGET, val: Próximo Alvo
-key: OPTION_BLOCK_WHISPER, val: Mensagens
-key: OPTION_BLOCK_FRIEND, val: Contato
-key: OPTION_NAME_COLOR, val: Cor nome
-key: KEYCHANGE_LEFT2, val: Esquerda2
-key: GRAPHICONOFF_EFFECT_LEVEL4, val: 4
-key: GUILD_WAR_GAINSCORE_FIFTY, val: 50 pontos
-key: MINI_GAME_CHALLENGE_GAME_TAB_TEXT_WIN_DOWN, val: VENCEU
-key: PRIVATESHOPSEARCH_REFINE, val: Nível do Item
-key: GUILD_WAR_GAMETIME_TEN, val: 10 minutos
-key: ACCE_MAIN, val: Faixa 1
-key: PET_HATCHING_BUTTON, val: Incubar
-key: MINI_GAME_CHALLENGE_TAB_DESC, val: Detalhes
-key: BANNER_FISH_BUTTON, val: Pesca
-key: GUILD_BUILDING_PLY, val: Compensado
-key: GRAPHICONOFF_PRIVATE_SHOP_APPLY, val: Aplicar
-key: EMPIRE_A, val: Shinsu 
-key: GUILD_DRAGONLAIR_RANKING, val: Ranking de Guildas
-key: MAPNAME_PATH, val: locale/br/ui/mapname/
-key: GRAPHICONOFF_DROP_ITEM_LEVEL4_TOOLTIP, val: Esconder itens, mas mostrar nome ao passar mouse em cima
-key: PET_INFORMATION_LIFE, val: Vida
-key: OPTION_NIGHT_MODE_ON, val: on
-key: LOGIN_CONNECT, val: Conectar
-key: OPTION_PVPMODE_PEACE_TOOLTIP, val: Não ataca outros jogadores, mas é possível contra-atacar
-key: KEYCHANGE_AUTO_WINDOW, val: Auto
-key: PET_INFORMATION_EXP, val: EXP
-key: MINI_GAME_CHALLENGE_DESC, val: locale/br/mini_game_challenge_desc.txt
-key: MINI_GAME_CHALLENGE_TAB_PLAY, val: Mini Game
-key: GUILD_BOARD_ID, val: Personagem
-key: __doc__, val: None
-key: GUILD_METIN_STONE, val: Pedra Espiritual
-key: ZONE_MAP, val: Mapa Completo
-key: MINI_GAME_YUTNORI_PROB_DESC, val: O Yut Sem selecionado terá maior probabilidade de aparecer.
-key: MINI_GAME_CHALLENGE_REWARD_TAB_REWARD_BUTTON_TEXT, val: Obter Prêmio
-key: GUILD_WAR_GAMETIME_THIRTY, val: 30 minutos
-key: PRIVATESHOPSEARCH_COUNT, val: Quantidade
-key: MINI_GAME_RUMI_START_TEXT, val: Começar
-key: CUBE_RENEWAL_BELT_IMPROVE, val: Aumentar Chance
-key: EMPIRE_PREV, val: Anterior
-key: OPTION_MUSIC_DEFAULT_THEMA, val: BGM Padrão
-key: CREATE_HP, val: VIT
-key: KEYCHANGE_LEFT1, val: Esquerda1
-key: OPTION_SNOW_MODE_ON, val: on
-key: OPTION_FOG_MIDDLE, val: Média
-key: SYSTEM_MOVE_CHANNEL, val: Trocar Canal
-key: GUILD_BASEINFO_FACTORY, val: Forja da Guilda
-key: MINI_GAME_YUTNORI_PROBABILITY, val: Jogada
-key: MINI_GAME_YUTNORI_THROW, val: Jogar Yut
-key: BANNER_SUMMER_BUTTON, val: Verão
-key: OPTION_SHADOW_TARGET_GROUND_TOOLTIP, val: Mostrar sombra do ambiente
-key: GUILD_DONATE_BUTTON_OVER_TEXT, val: Receberá aleatoriamente um dos itens acima
-key: GUILD_INFO_MEMBER_NUM, val: Membros
-key: CHARACTER_EMOTICON, val: Emoticons
-key: GUILD_WAR_SKILL, val: Habilidade de Guilda & Registro
-key: EMPIREDESC_B, val: locale/br/empiredesc_b.txt
-key: EMPIREDESC_C, val: locale/br/empiredesc_c.txt
-key: EMPIREDESC_A, val: locale/br/empiredesc_a.txt
-key: OPTION_SNOW_MODE_OFF, val: off
-key: MINI_GAME_CHALLENGE_GAME_TAB_TEXT_LOSE_DOWN, val: PERDEU
-key: QUEST_UI_TEXT_MAIN, val: Missão Principal
-key: MINI_GAME_CATCHKING_POPUP_CONFIRM, val: confirmação
-key: MINI_GAME_CATCHKING_HELP_TEXT, val: Ajuda
-key: PET_AGE_TEXT, val: Idade do Pet
-key: GUILD_BANKINFO_TITLE, val: Informação do Banco da Guilda
-key: EXCHANGE_ACCEPT, val: Aceitar
-key: CREATE_LAST_POINT, val: Pontos
-key: MINI_GAME_CHALLENGE_YANG_TEXT, val: Gold
-key: GUILD_INFO_UPLOAD_SYMBOL, val: Selecionar bandeira
-key: STRENGTH_SELECT, val: Level
-key: BLACK_AND_WHITE_DESC, val: locale/br/black_and_white_desc.txt
-key: MINI_GAME_CHALLENGE_GAME_TAB_TEXT_LOSE_UP, val: VOCÊ
-key: BANNER_HALLOWEEN_BUTTON, val: Halloween
-key: KEYCHANGE_QUEST_WINDOW, val: Quests
-key: PARTY_MEMBER_INFO_NAME, val: Membro
-key: HELP_HELP_KEY, val: - Mas a página de ajuda mostra a informação sobre as teclas de atalho padrões.
-key: GUILD_SKILLPAGE_RANK, val: Rank
-key: CREATE_DEX_GRADE, val: DES
-key: MC_ACHIEV_REGIST, val: Registrar
-key: GRAPHICONOFF_DROP_ITEM_LEVEL5, val: 5
-key: KEYCHANGE_MINIMAP_MINER, val: Mini-mapa-
-key: __package__, val: None
-key: MINI_GAME_BLACK_AND_WHITE_START_BUTTON, val: Jogar
-key: TASKBAR_MESSENGER, val: Lista de contatos [<Alt>+<M>]
-key: GUILD_BASEINFO_MONEYLASTOUT, val: Última retirada
-key: localeDict, val: {'ATTACH_METIN_TITLE': 'Combinar itens', 'LOGIN_SELECT_OK': 'Selecionar', 'HELP_SP': 'MP', 'GUILD_BUILDING_PRICE': 'Pre\xe7o', 'GUILD_GRADE_RANK': 'T\xedtulo', 'MC_SUMMON_BUTTON': 'Invocar', 'HELP_CAMERA': 'Mudar vis\xe3o de c\xe2mera', 'GRAPHICONOFF_EFFECT_LEVEL2': '2', 'GRAPHICONOFF_DROP_ITEM_LEVEL1_TOOLTIP': 'Mostrar todos os itens no ch\xe3o', 'OPTION_SOUND': 'SFX', 'DO_REFINE': 'Refinar', 'PET_ATTR_DETERMINE_TITLE': 'Atributo identificado do Pet', 'MESSENGER_WHISPER': 'Mensagem Particular', 'GUILD_PATH': 'locale/br/ui/guild/', 'BATTLE_ROYALE_MAINBUTTON_APPLICATION': 'Registrar', 'GUILD_WAR_ACCEPT': 'Aceitar Guerra entre Guildas', 'KEYCHANGE_UP2': 'Frente2', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL': 'Loja Pessoal', 'GUILD_BASEINFO_BANKLASTOUT': '\xdaltimo usu\xe1rio', 'PARTY_MATCH_TEXT_DUNGEON_SELECT': 'Escolha a Dungeon', 'OPTION_MUSIC': 'BGM', 'OPTION_INPUT_MOBILE_BUTTON': 'Inserir n\xfamero de celular', 'CHARACTER_MUTUAL_ACTION': 'Express\xf5es interativas', 'CREATE_NEXT': 'Pr\xf3ximo', 'GUILD_GEM': 'Pedra', 'PET_INFORMATION_DEFENCE': 'Defesa', 'GUILD_BASEINFO_DEAL': 'neg\xf3cia\xe7\xe3o', 'MINI_GAME_CHALLENGE_RANK_TAB_TITLE_RANK': 'Ranking', 'BNW_RANK_UI_RANK': 'Rank', 'TASKBAR_CHAT': 'Chat [<Enter>]', 'HELP_OPEN_ZONEMAP': '<M> \xe9 usado para abrir e fechar o Mapa completo', 'MINI_BOSS_DUNGEON_TOOTIP_03': 'Rank Dungeon Vermelha', 'MINI_BOSS_DUNGEON_TOOTIP_01': 'Boss info', 'GUILD_INFO_DECALRE_WAR': 'Declarar guerra', 'MINI_BOSS_DUNGEON_TOOTIP_07': 'Reset restante', 'MINI_BOSS_DUNGEON_TOOTIP_04': 'Entrar', 'MINI_BOSS_DUNGEON_TOOTIP_05': 'Tempo restante', 'CHANGE_PASSWORD_OLD': 'Senha original', 'PET_NAME_CHANGE_WINDOW_TITLE': 'Mudar o Nome', 'PRIVATESHOPSEARCH_SEARCH': 'Buscar', 'OPTION_NIGHT_MODE_OFF': 'off', 'SYSTEM_CHANGE': 'Selecionar personagem', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL2_TOOLTIP': 'Mostrar lojas pessoais dentro de um raio de 50M', 'MINI_GAME_YUTNORI_REWARD_TEXT': 'Receber Recompensa', 'AUTO_AUTO_SKILL': 'Habilidade', 'CATCHKING_EVENT_SIMPLE_DESC': 'locale/br/catchking_event_simple_desc.txt', 'LUCKY_BOX_RETRY_BUTTON': 'Reusar Caixa da Sorte', 'GUILD_ATTENDANCE_LOCA8': '70 ou mais: Medalha de Honra x12', 'MESSENGER_TITLE': 'Lista de contatos', 'GUILD_ATTENDANCE_LOCA3': '20 ou mais: Medalha de Honra x2', 'PET_REVIVE_REUSLT_TEXT': 'Resultado', 'LOGIN_SELECT_BUTTON': 'Servidor', 'GUILD_DONATE_COUNT': 'Doa\xe7\xf5es dispon\xedveis: %d/%d', 'GUILD_DRAGONLAIR_RANKING_MEMBER': 'Membros', 'GUILD_DONATE_HIGH_MATERIAL': 'Superior', 'GUILD_ATTENDANCE_LOCA5': '40 ou mais: Medalha de Honra x6', 'GUILD_ATTENDANCE_LOCA4': '30 ou mais: Medalha de Honra x4', 'SELECT_PLAYTIME': 'Tempo de jogo', 'PRIVATESHOPSEARCH_PRICE': 'Pre\xe7o', 'MINI_GAME_BLACK_AND_WHITE_DONATE': 'Doar', 'PET_ATTR_CHANGE_ITEM_TEXT': 'Item para alterar atributo do Pet', 'OPTION_SHADOW_QUALITY': 'Efeito Sombra', 'MINI_GAME_CHALLENGE_REWARD_TAB_CHALLENGE_EXP_TITLT_TEXT': 'EXP Desafio', 'BATTLE_FILED_RANK': 'Rank', 'GUILD_WAR_ENEMY': 'Guilda inimiga', 'AUTO_CLEAR': 'Limpar', 'GUILD_INFO_LEVEL': 'N\xedvel', 'OPTION_PVPMODE_GUILD': 'Guilda', 'HELP_OPEN_CHAT': '<Enter> abre e fecha a janela de conversa', 'MC_ACHIEV_BONUS_NONE': 'Nenhum B\xf4nus', 'MINI_GAME_CHALLENGE_GAME_TAB_TEXT_WIN_UP': 'VOC\xca', 'AUTOBAN_QUIZ_ANSWER': 'ANSWER', 'AUTO_POTION_SETTING': 'Po\xe7\xe3o', 'PET_ATTR_CONFIRMATION': 'Alterar', 'PET_INFORMATION_AGE': 'Idade', 'HELP_SHOW_ALL_NAME': '<Alt> exibe o nome de todos os personagens e itens', 'MAILBOX_POST_READ_RECV': 'Receber', 'MINI_GAME_YUTNORI_PLAYER_TEXT': 'Jogador', 'MAILBOX_POST_WRITE_BUTTON_TEXT': 'Enviar', 'AUTO_START': 'Iniciar', 'MYSHOP_DECO_SELECT_MODEL': 'Modelo de Decora\xe7\xe3o', 'GRAPHICONOFF_NPC_NAME_STATUS': 'Nome de NPC', 'MINI_GAME_YUTNORI_YUTSEM1': 'Do', 'OPTION_SHADOW_QUALITY_BAD': 'Baixa', 'KEYCHANGE_CAM_UP1': 'CamCima1', 'KEYCHANGE_CAM_UP2': 'CamCima2', 'OPTION_FOG_LIGHT': 'Baixa', 'GUILD_MARK': 'Emblema da guilda', 'WHISPER_BAN': 'Bloquear', 'MINIMIZE': 'Minimizar', 'MC_TAB_BUTTON_CARD_MISSION': 'Cartas de Miss\xe3o', 'OPTION_FOG_OFF': 'Off', 'AUTO_AUTO_RESTART': 'Ressuscitar Auto', 'KEYCHANGE_UP1': 'Frente1', 'GUILD_MEMBER_KNIGHT': 'L\xedder', 'MAILBOX_POST_WRITE_TITLE': 'T\xedtulo', 'OPTION_SHADOW_TARGET_GROUND': '2', 'AUTO_AUTO_RANGE': 'Alcance Auto', 'MC_TAB_BUTTON_PARTY': 'Cole\xe7\xe3o de Dungeons', 'GAMEOPTION_TITLE': 'Op\xe7\xf5es de jogo', 'GRAPHICONOFF_DROP_ITEM_LEVEL3_TOOLTIP': 'Mostrar apenas formato dos itens', 'GUILD_BASEINFO_MONEYBANKINFO': 'Status do Banco da Guilda', 'GUILD_BUILDING_DIRECTION': 'Dire\xe7\xe3o', 'MALL_TITLE': 'Retirada do Item Mall', 'GRAPHICONOFF_PET_STATUS_OFF': 'OFF', 'KEYCHANGE_EMOTION9': 'Emo\xe7\xe3o9', 'KEYCHANGE_EMOTION8': 'Emo\xe7\xe3o8', 'KEYCHANGE_EMOTION3': 'Emo\xe7\xe3o3', 'KEYCHANGE_EMOTION2': 'Emo\xe7\xe3o2', 'DRAGONSOUL_REFINE_WINDOW_TITLE': 'Refinamento de Pedra de Drag\xe3o', 'KEYCHANGE_EMOTION7': 'Emo\xe7\xe3o7', 'KEYCHANGE_EMOTION6': 'Emo\xe7\xe3o6', 'PET_INFORMATION_LEVEL': 'N\xedvel', 'KEYCHANGE_EMOTION4': 'Emo\xe7\xe3o4', 'CUBE_RENEWAL_TITLE': 'Cubo', 'GUILD_WAR_NORMAL': 'Batalha', 'HELP_CHANGE_PK_MODE': '<Ctrl>+<B> Se desmontado, envia o cavalo ao est\xe1bulo', 'GRAPHICONOFF_NPC_NAME_STATUS_OFF': 'OFF', 'BATTLE_FILED_RANK_POINT': 'Pontos', 'EMPIRE_EXIT': 'Voltar', 'GUILD_BASEINFO_TITLE': 'Informa\xe7\xe3o do Terreno', 'DO_CHANGE_ATTR': 'Prosseguir', 'HELP_ATTACK_KEY': '<Espa\xe7o> ou <Bot\xe3o esquerdo do mouse> s\xe3o usados para atacar com seu personagem', 'EMPIRE_PATH': 'locale/br/ui/empire/', 'PET_INFORMATION_LIFE_TIME': 'Dura\xe7\xe3o', 'BATTLE_FIELD_INFO': 'Informa\xe7\xf5es', 'COMB_TITLE': 'Janela de Combina\xe7\xe3o', 'GUILD_BOARD_REFRESH': 'Atualizar <F5>', 'OPTION_MOB_INFO_LEVEL': 'N\xedvel', 'GUILD_NAME': 'Guilda', 'GRAPHICONOFF_PET_STATUS_OFF_TOOLTIP': 'Esconder pet', 'SAFE_TITLE': 'Armaz\xe9m', 'MINI_GAME_CHALLENGE_GAME_TAB_TEXT_BETTING': 'Desafio', 'HELP_PICK_ITEM': "<'> ou <Z> s\xe3o usados para apanhar os itens no ch\xe3o", 'GUILD_BUILDING_CHANGE': 'Mover', 'MYSHOP_DECO_CANCEL': 'Fechar', 'MC_PROMOTION_BUTTON': 'Promover', 'WHISPER_REPORT': 'test', 'app': <module 'app' (built-in)>, 'AUTO_OFF': 'Off', 'BANNER_CARNIVAL_EVENT': 'Carnaval', 'HELP_SYSTEM_BUTTON': 'Menu', 'MINI_GAME_CHALLENGE_RANK_TAB_REWARD_CONFIRM_TEXT': 'Premia\xe7\xf5es do Ranking', 'OPTION_ALWAYS_SHOW_NAME': 'Nome', 'LoadLocaleFile': <cyfunction LoadLocaleFile at 0x08A01030>, 'MINI_BOSS_DUNGEON_DESC': 'locale/br/mini_bossdungeon_event_desc.txt', 'MC_ACHIEV_SORT_DISABLE': 'N\xe3o conquistado', 'GUILD_WAR_WIN': 'Ven\xe7a os jogos', 'QUEST_UI_TEXT_LEVELUP': 'Miss\xe3o de Ca\xe7a', 'CHANGE_ATTR_SELECT': 'Trocar B\xf4nus', 'KEYCHANGE_CAM_RIGHT2': 'CamDireita2', 'GEMSHOP_LEFTTIME': 'Dura\xe7\xe3o', 'PRIVATESHOPSEARCH_SELLER': 'Vendedor', 'GUILD_WAR_WIN_FIVE': 'Melhor de cinco', 'MINI_GAME_CHALLENGE_TAB_REWARD': 'Recompensa do Desafio', 'KEYCHANGE_HELP_WINDOW': 'Ajuda', 'CREATE_WOMAN': 'Feminino', 'OPTION_VIEW_CHAT_OFF': 'Ocultar', 'REFINE_MONEY': 'Custo da Refina\xe7\xe3o', 'GUILD_MEMBER_VOTE_CHECK': 'ChecarVotos', 'MISTS_ISLAND_EMPIRE_SCORE': 'Pontua\xe7\xe3o Reino', 'DRAGONSOUL_TAP_TITLE_2': 'Rubi', 'GUILD_BASEINFO_GUILDLAND': 'Terreno da Guilda', 'OPTION_BLOCK_PARTY': 'Grupo', 'KEYCHANGE_SLOT8': 'Slot8', 'KEYCHANGE_SLOT7': 'Slot7', 'SELECT_PATH': 'locale/br/ui/select/', 'KEYCHANGE_SLOT5': 'Slot5', 'KEYCHANGE_SLOT4': 'Slot4', 'KEYCHANGE_SLOT3': 'Slot3', 'KEYCHANGE_SLOT2': 'Slot2', 'KEYCHANGE_SLOT1': 'Slot1', 'OPTION_CAMERA_DISTANCE': 'C\xe2mera', 'GRAPHICONOFF_EFFECT_LEVEL5': '5', 'MINI_GAME_RUMI_DISCARD_TEXT': 'janela de confirma\xe7\xe3o', 'OPTION_SNOW_TEXTURE_MODE_ON': 'on', 'GRAPHICONOFF_EFFECT_LEVEL1': '1', 'GRAPHICONOFF_EFFECT_LEVEL3': '3', 'PARTY_MATCH_TEXT_DUNGEON_NAME': 'Nome da Dungeon', 'MINI_GAME_YUTNORI_START_TEXT': 'Iniciar', 'MINI_BOSS_DUNGEON_TITLE_NUM': 'Rank', 'PET_REVIVE_TARGET': 'Pet que ser\xe1 ressuscitado', 'MC_ACHIEV_DISABLE': 'Conquista n\xe3o registrada', 'GUILD_WAR_GAMETIME_SIXTY': '60 minutos', 'GUILD_BUILDING_LOG': 'Tronco', 'CREATE_SP': 'INT', 'OPTION_NAME_COLOR_NORMAL': 'Normal', 'PRIVATESHOPSEARCH_SELECT': 'Selecionar', 'MINI_BOSS_DUNGEON_TOOTIP_06': 'Minha contribui\xe7\xe3o', 'MINI_GAME_YUTNORI_YUTSEM4': 'Yut', 'MINI_GAME_YUTNORI_YUTSEM5': 'Mo', 'MINI_GAME_YUTNORI_YUTSEM2': 'Ge', 'MINI_GAME_YUTNORI_YUTSEM3': 'Geol', 'GUILD_SKILL_PASSIVE': 'Skills Passivas', 'HELP_CHAT': '- Voc\xea pode conversar com grupo espec\xedficos digitando !(shout), $(party) ou %(guild) na janela do chat.', 'MESSENGER_DELETE_FRIEND': 'Remover contato', 'OPTION_TARGET_BOARD': 'Alvo', 'GUILD_WAR_JOINMEMBER_TEN': '10', 'GUILD_DONATE_TAB_MIDDLE': 'Doa\xe7\xe3o M\xe9dia', 'GUILD_BUILDING_STONE': 'Pedra', 'AUTO_AUTO_ATTACK': 'Ataque ', 'GUILD_DONATE_MEDAL_OF_HONOR': 'Medalha de Honra', 'GUILD_CRYSTAL': 'Cristal', 'GUILD_BUILDING_TITLE': 'Constru\xe7\xf5es da Guilda', 'COSTUME_WINDOW_TITLE': 'Trajes', 'KEYCHANGE_CAM_ZOOM_OUT1': 'CamZoomOut1', 'KEYCHANGE_MONSTER_CARD_WINDOW': 'Cartas de Monstro', 'KEYCHANGE_RIDE_BYE': 'Retornar Cavalo', 'STEP': 'Brilho', 'GUILD_BUILDING_CHANGE_LIST': 'Lista de Objetos da Guilda', 'KEYCHANGE_CAM_ZOOM_OUT2': 'CamZoomOut2', 'GUILD_MEMBER_RANK': 'T\xedtulo', 'PRIVATESHOPSEARCH_JOB': 'Classe', 'OPTION_SHADOW_TARGET_ALL': '4', 'GUILD_LANDDEAL_VOTE_DEALGUILDNAME': 'G. compradora', 'GEMSHOP_TITLA': 'Mercado de Gaya', 'MC_SHUFFLE_BUTTON': 'Reiniciar Cartas de Miss\xe3o', 'GUILD_ATTENDANCE_TITLE': 'Recompensa por Presen\xe7a', 'TOTAL_RANKING': 'Ranking Total', 'MC_MOTION_BUTTON': 'Movimento', 'HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON': 'A vis\xe3o da c\xe2mera \xe9 ajust\xe1vel atrav\xe9s do bot\xe3o atrav\xe9s do bot\xe3o scroll do mouse,', 'MINI_GAME_CATCHKING_SCORE': 'Pontua\xe7\xe3o', 'CHAT_FILTER_DICE': 'Dado', 'FISHING_RENEWAL_TITLE': 'Pescaria', 'CREATE_MAN': 'Masculino', 'HELP_OPEN_QUEST': '<N> \xe9 usado para acessar o quadro de Quests', 'GUILD_WAR_JOINMEMBER_FIVE': '5', 'DRAGONSOUL_ACTIVATE': 'Ativar ', 'MC_MISSION_INIT_BUTTON': 'Resetar Miss\xe3o', 'OPTION_NIGHT_MODE': 'Noite', 'GUILD_MASTER_CHANGE_TITLEBAR': 'Mudar L\xedder', 'GUILD_WAR_TYPE_NORMAL': 'Batalha Campal', 'REFINE_ELEMENT_CHANGE_EARTH': 'Terra', 'BANNER_LARBOR_DAY_EVENT': 'Dia do Trabalho', 'CHANGE_PASSWORD_TITLE': 'Troca de senha', 'MC_REWARD_CARD_BUTTON': 'Receber Recompensa', 'CANCEL': 'Fechar', 'OPTION_FOG_DENSE': 'Alta', 'MAILBOX_POST_READ_BLOCK': '[Bloquear]', 'GUILD_SKILL_ACTIVE': 'Skills Ativas', 'GUILD_GRADE_PERMISSION_SKILL': 'Habilidades', 'OPTION_SETTING': 'Definir', 'GUILD_MEMBER_JOB': 'Classe', 'GUILD_MEMBER_SPECIFIC_GRAVITY': 'Exp %', 'OPTION_CAMERA_DISTANCE_SHORT': 'Perto', 'PET_REVIVE_TITLE': 'Ressuscitar Pet', 'GUILD_ATTENDANCE_LOCA9': 'Reinicializa\xe7\xe3o da Presen\xe7a: 05:00 AM', 'KEYCHANGE_PET_WINDOW': 'Pet', 'MOUSEBUTTON_CAMERA': 'C\xe2mera', 'OPTION_SALESTEXT': 'Loja', 'MESSAGE': 'Mensagem', 'GUILD_SKILLPAGE_LADDER': 'Ponto de Ranking', 'KEYCHANGE_SAVE': 'Salvar', 'MC_TAB_BUTTON_SOLO': 'Cole\xe7\xe3o do Mapa', 'TASKBAR_NEXT_QUICKSLOT': 'Atalhos seguintes [<Shift>+<N\xfamero> ou <Alt>]', 'OPTION_PVPMODE_FREE_TOOLTIP': 'Permite atacar todos os jogadores', 'KEYCHANGE_SLOT_KET': 'Tecla de Slot', 'REFINE_ELEMENT_CHANGE_ELECT': 'Rel\xe2mpago', 'MINI_GAME_CHALLENGE_REWARD_TAB_TITLE_LEVEL': 'Subir N\xedvel', 'MC_TAB_BUTTON_ACHIEV': 'Livro de Conquistas', 'MINI_GAME_CATCHKING_HIGH_SCORE': 'Maior pontua\xe7\xe3o', 'GUILD_BASEINFO_GOLDMANAGE': 'Gerenciamento de gold', 'GUILD_ATTENDANCE_LOCA2': '10 ou mais: Medalha de Honra x1', 'MINI_GAME_CHALLENGE_GAME_TAB_TEXT_CHALLENGE': 'Desafio', 'QUEST_UI_TEXT_COLLECTION': 'Miss\xe3o de Coleta', 'INVENTORY_TITLE': 'Invent\xe1rio', 'OPTION_MOBILE': 'N\xfamero de celular', 'GUILD_BUILDING_CHANGE_FIX': 'Reparar Objeto da Guilda', 'GRAPHICONOFF_EFFECT_LEVEL5_TOOLTIP': 'Esconder todos os efeitos', 'LOGIN_REGION_TITLE': 'Escolha o Reino', 'GUILD_GRADE_PERMISSION_DELETE': 'Expulsar', 'GUILD_ATTENDANCE_LOCA7': '60 ou mais: Medalha de Honra x10', 'BANNER_MYSTERY_BOX_BUTTON': 'Ba\xfa Misterioso', 'GUILD_BASEINFO_MONEYOUT': 'sa\xedda', 'KEYCHANGE_CAM_ZOOM_IN2': 'CamZoomIn2', 'GUILD_ATTENDANCE_LOCA6': '50 ou mais: Medalha de Honra x8', 'OPTION_TITLE': 'Op\xe7\xf5es', 'CHANGE_PASSWORD_CONFIRM': 'Confirme a nova senha', 'KEYCHANGE_SKILL_WINDOW': 'Habilidades', 'MESSENGER_BLOCK_FRIEND': 'Lista de Bloqueio', 'PET_REVIVE_MATERIAL_TITLE': 'Material', 'STRUCTURE_VIEW_TYPE_STRUCTURE': 'Estruturas', 'ACCE_RESULT': 'Resultado', 'AUTO_AUTO_POSITION': 'Po\xe7\xe3o', 'AURA_MAIN': 'Principal', 'PET_ATTR_CHANGE_TITLE': 'Alterar atributo do Pet', 'BATTLE_FIELD_OPERATION_TIME_NA': 'Fechado', 'KEYCHANGE_RIDE': 'Montar', 'BANNER_NEW_XMAS_BUTTON': 'Natal', 'GUILD_WAR_REPORT': 'Registros das Guerras de Guilda', 'AUTO_SETTING': 'Configura\xe7\xe3o', 'MISTS_ISLAND_INFO_TEXT': 'Informa\xe7\xe3o sobre rank e status', 'COMB_MATERIAL': 'Material', 'GUILD_WAR_TYPE_DEFENSE': 'Guerra do Escudo', 'MINI_GAME_CHALLENGE_REWARD_TAB_USE_CHALLENGE_EXP_TEXT': 'Usar', 'GUILD_WAR_WIN_ONE': 'Uma vit\xf3ria', 'MINI_GAME_CHALLENGE_TITLE': 'Evento do Desafio', 'SELECT_SP': 'INT', 'KEYCHANGE_SHOW_NAME': 'Exibir Nome', 'GUILD_WAR_TYPE_TIGER': 'Aniquila\xe7\xe3o', 'MINI_BOSS_DUNGEON_TITLE_NAME': 'Usu\xe1rio', 'LOGIN_SELECT_EXIT': 'Voltar', 'GUILD_INFO': 'Informa\xe7\xf5es da guilda', 'name': 'locale/br', 'MC_WARP_BUTTON': 'Teleportar', 'GUILD_GRADE_WRITE': 'Enviar', 'MC_ACHIEV_SORT_REGIST': 'Pode ser aplicado', 'GUILD_INFO_ENEMY_GUILD': 'Guildas inimigas', 'SHOP_TITLE': 'Loja', 'GUILD_INFO_REST_EXP': 'Pr\xf3ximo n\xedvel', 'OPTION_FOG_ON': 'On', 'OPTION_MOB_INFO': 'Info Monstro', 'CATCHKING_EVENT_DESC': 'locale/br/catchking_event_desc.txt', 'EXIT_BATTLE_FIELD': 'Voc\xea quer sair da Batalha Campal?', 'OPTION_PVPMODE_REVENGE_TOOLTIP': 'Ataca somente personagens com Classe de Honra oposta', 'MINI_BOSS_DUNGEON_TOOTIP_08': 'Recompensa de contribui\xe7\xe3o', 'TASKBAR_INVENTORY': 'Invent\xe1rio [<I>]', 'OPTION_SHADOW_QUALITY_GOOD': 'Alta', 'MINI_GAME_CHALLENGE_TAB_RANK': 'Ranking', 'GUILD_ATTENDANCE_LOCA1': 'Presen\xe7a B\xe1sica: Medalha de Honra x1', 'OPTION_PVPMODE_PEACE': 'Pac\xedfico', 'BANNER_VALENTINE_BUTTON': 'Dia dos Namorados', 'LUCKY_BOX_RECV_NAME': 'Item dispon\xedvel para receber', 'REFINE_ELEMENT_CHANGE_WIND': 'Vento', 'PRIVATESHOPSEARCH_ITEMTYPE': 'Itens', 'PET_INFORMATION_TITLE': 'Informa\xe7\xe3o do Pet', 'HELP_OFF_QUESTSCROLL': '- Voc\xea esconder os pergaminhos de quest com as teclas <Ctrl> + Q.', 'MC_ACHIEV_ABLE_REGIST': 'Pode ser registrada', 'GRAPHICONOFF_DROP_ITEM_LEVEL4': '4', 'CHARACTER_QUEST': 'Quests', 'PET_FEED_TITLE': 'Alimentar', 'MINI_GAME_CHALLENGE_REWARD_TAB_LEVEL': 'Nv. %d', 'GRAPHICONOFF_DROP_ITEM_LEVEL1': '1', 'GRAPHICONOFF_DROP_ITEM_LEVEL2': '2', 'WHISPER_SEND': 'Enviar', 'ENTER_BATTLE_FIELD': 'Entrar', 'CHARACTER_SPECTIAL_ACTION': 'A\xe7\xe3o Especial', 'GUILD_BASEINFO_SMEITER': 'Fornalha da Guilda', 'OPTION_TARGET_BOARD_VIEW': 'Exibir', 'KEYCHANGE_DSS1': 'PdD[C\xe9u]', 'KEYCHANGE_DSS2': 'PdD[Terra]', 'HELP_CLICK_OTHER_PLAYER': '- Voc\xea pode iniciar uma negocia\xe7\xe3o, grupo ou duelo ao clicar com o bot\xe3o direito em personagens.', 'GUILD_INFO_UPLOAD_MARK': 'Escolher emblema', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL3_TOOLTIP': 'Mostrar lojas pessoais dentro de um raio de 25M', '__builtins__': <module '__builtin__' (built-in)>, 'SELECT_NAME': 'Nome', 'MYSHOP_DECO_DEFAULT': 'Padr\xe3o', 'KEYCHANGE_QUEST_SCROLL_ONOFF': 'Scroll', 'MINI_GAME_CHALLENGE_COM_VS_PC': 'Desafiante VS Jogador', 'MINI_GAME_CHALLENGE_RANK_DESC': 'locale/br/mini_game_challenge_rank_desc.txt', 'MINI_BOSS_DUNGEON_DESC_BTN': 'Dicas', 'MINI_GAME_CHALLENGE_REWARD_TAB_LEVEL_TEXT': 'N\xedvel', 'GUILD_DONATE_GUILD_EXP': 'Experi\xeancia da Guilda', 'KEYCHANGE_RIGHT2': 'Direita2', 'HELP_MOVE_KEY': 'Use <W>, <S>, <A>, <D> ou as setas para mover seu personagem', 'KEYCHANGE_RIGHT1': 'Direita1', 'OPTION_EFFECT': 'Dano', 'PASSWORD_DESC_2': 'para abrir o Item Mall', 'PASSWORD_DESC_1': 'Insira sua senha', 'CREATE_SEX': 'Sexo', 'CREATE_STAT_RESET': 'Reiniciar', 'DRAGONSOUL_TAP_TITLE_3': 'Jade', 'RESTART_HERE': 'Retornar aqui', 'DRAGONSOUL_TAP_TITLE_1': 'Diamante', 'DRAGONSOUL_TAP_TITLE_6': '\xd4nix', 'DRAGONSOUL_TAP_TITLE_4': 'Safira', 'DRAGONSOUL_TAP_TITLE_5': 'Granada', 'GUILD_SYMBOL': 'Bandeira da guilda', 'MINI_GAME_CHALLENGE_RANK_TAB_TITLE_LEVEL': 'N\xedvel', 'MARKLIST_TITLE': 'Emblema da guilda', 'QUEST_UI_TEXT_EVENT': 'Miss\xe3o de Evento', 'OPTION_SHADOW_QUALITY_AVERAGE': 'Normal', 'OPTION_KEY_SETTING': 'Atalhos', 'BANNER_LUCKY_EVENT': 'Evento da Sorte', 'KEYCHANGE_RIDE_PEED': 'Alimentar Cavalo', 'AUTO_POSITION_SETTING': 'Po\xe7\xe3o', 'BATTLE_FILED_RANK_NAME': 'Nome', 'HELP_OPEN_SKILL': '<V> abre sua janela de Skills', 'WINDOWS_PATH': 'locale/br/ui/windows/', 'GUILD_DONATE_TITLE': 'Doar Experi\xeancia', 'KEYCHANGE_PARTY_MATCH_WINDOW': 'Forma\xe7\xe3o de Grupo', 'HELP_AUTO_ATTACK': 'Ataque Autom\xe1tico', 'GUILD_GRADE_PERMISSION_JOIN': 'Juntar', 'SYSTEMOPTION_TITLE': 'Op\xe7\xf5es de sistema', 'MINI_GAME_RUMI_SCORE': 'Pontos', 'MINI_GAME_FISH_START_TEXT': 'Iniciar', 'GUILD_MEMBER_OUT_TITLEBAR': 'Expulsar', 'GUILD_GRADE_CHANGE_GRADE_NAME': 'Alterar t\xedtulo', 'BNW_RANK_UI_NAME': 'Nickname', 'OPTION_SHADOW_QUALITY_GOOD_TOOLTIP': 'Qualidade de sombra alta', 'AUTO_END': 'Finalizar', 'GUILD_MONEY': 'Gold da Guilda', 'BATTLE_ROYALE_APPLICATION_TITLE': 'Battle Royale', 'GUILD_INFO_NAME': 'Nome', 'SELECT_ATT_GRADE': 'FOR', 'MOUSEBUTTON_SKILL': 'Skill', 'LOGIN_SELECT_TITLE': 'Escolha o Servidor', 'SYSTEM_HELP': 'Ajuda', 'GRAPHICONOFF_DROP_ITEM_APPLY': 'Aplicar', 'QUEST_UI_TEXT_DAILY': 'Miss\xe3o Di\xe1ria', 'REFINE_ELEMENT_UPGRADE_TITLE': 'Melhorar N\xedvel', 'GUILD_MEMBER_NAME': 'Personagem', 'KEYCHANGE_DDS_WINDOW': 'DSS', 'GAME_EXIT_OBSERVER': 'Sair do modo Espectador', 'GRAPHICONOFF_PET_STATUS_ON': 'ON', 'GUILD_BUILDING_PREVIEW': 'Visualizar', 'BANNER_OLYMPIC_BUTTON': 'Olimp\xedadas', 'GUILD_BASEINFO_LOCALE': 'Localiza\xe7\xe3o do Terreno', 'GUILD_BASEINFO_LANDABANDON': 'aband. terreno', 'MESSENGER_OPEN_GUILD': 'Abrir janela de guilda', 'EXCHANGE_TITLE': 'Negociar', 'DRAGONSOUL_TITLE': 'Pedra de Drag\xe3o', 'PRIVATE_SHOP_CLOSE_BUTTON': 'Fechar', 'KEYCHANGE_MINIMAP_PLUS': 'Mini-mapa+', 'MINI_GAME_CHALLENGE_REWARD_TAB_WAITING_TIME': 'Tempo de espera: %s', 'COMB_ATTRIBUTE': 'Traje 2', 'CODEPAGE': '1252', 'QUEST_UI_TEXT_SYSTEM': 'Miss\xe3o de Sistema', 'SYSTEM_EXIT': 'Fechar o jogo', 'BANNER_FOOTBALL_BUTTON': 'Copa do Mundo', 'MAILBOX_TITLE': 'Caixa de Correio', 'MOUSEBUTTON_ATTACK': 'Atacar', 'SELECT_DELETE': 'Excluir', 'TASKBAR_PREV_QUICKSLOT': 'Atalhos anteriores [<Shift>+<N\xfamero>]', 'MINI_GAME_CATCHKING_TITLE': 'Pegue o REI', 'BANNER_CHALLENGE_BUTTON': 'Desafio', 'MC_REQUEST_MISSION_BUTTON': 'Receber Miss\xe3o', 'MAILBOX_POST_READ_FROM': 'De:', 'ACCE_ABSORB': 'B\xf4nus de Absor\xe7\xe3o', 'MUSICLIST_TITLE': 'Lista de BGM', 'ReloadLocaleFile': <cyfunction ReloadLocaleFile at 0x08A010E0>, 'GUILD_WAR_TYPE_DIE': 'Batalha de Arena', 'MINI_GAME_YUTNORI_REMAIN_COUNT': 'Contagem Restante', 'KEYCHANGE_EMOTION5': 'Emo\xe7\xe3o5', 'ATTENDANCE_TITLE': 'Quest Di\xe1ria', 'LOGIN_EXIT': 'Fechar', 'GUILD_BASEINFO_MONEYIN': 'entrada', 'GRAPHICONOFF_NPC_NAME_STATUS_ON_TOOLTIP': 'Mostrar nome de NPCs', 'MC_ACHIEV_APPLY': 'Aplicar', 'GUILD_WAR_REPORTLIST': 'Registros (Guerra / Vit\xf3ria / Derrota / Empate)', 'KEYCHANGE_MINIMAP_WINDOW': 'Mini-mapa', 'OPTION_SNOW_TEXTURE_MODE': 'Neve', 'CHARACTER_SKILL': 'Skills', 'GUILD_BASEINFO_BUILDING': 'Pr\xe9dios da Guilda', 'OPTION_BLOCK': 'Bloquear', 'GUILDWINDOW_BASE_BUFF': 'Benef\xedcios da Guilda', 'PRIVATE_SHOP_TITLE': 'Loja particular', 'TASKBAR_MONEY_EXPAND': 'Expans\xe3o Monet\xe1ria', 'GUILD_WAR_JOINMEMBER_FIFTEEN': '15', 'GUILD_WAR_ALLSCORE': 'Registros de Todos Placares', 'BATTLE_FIELD_OPERATION_TIME_END': 'Aberto: %s sobrando.', 'LUCKY_BOX_TITLE_NAME': 'Caixa da Sorte', 'OPTION_MUSIC_CHANGE': 'Alterar', 'GAME_SKILL_UP': 'Ponto de Skill', 'GUILD_DEPOSIT': 'Doar', 'REFINE_ELEMENT_CHANGE_TITLE': 'Alterar Elemento', 'PET_PRIMIUM_FEEDSTUFF_DESC': 'locale/br/pet_primium_feedstuff_desc.txt', 'PET_INFORMATION_EVOL_BUTTON': 'Evoluir', 'REFINE_SELECT': 'Selecionar Refina\xe7\xe3o', 'HELP_HELP': '<H> abre a janela de ajuda. Tamb\xe9m pode ser acessada atrav\xe9s do Menu, acessado com a tecla <Esc>', 'HELP_SERVER': '- Exibe o servidor e o canal', 'OPTION_PVPMODE': 'Modo PvP', 'GUILD_WAR_TYPE_FLAG': 'Batalha da Bandeira', 'MINIGAME_RUMI_DESC': 'locale/br/mini_game_okey_desc.txt', 'GUILD_WITHDRAW': 'Retirar', 'GUILD_BASEINFO_POWER': 'Altar do Poder', 'MARKET_TITLE': 'Loja', 'GUILD_DONATE_TAB_NORMAL': 'Doa\xe7\xe3o Padr\xe3o', 'HELP_KEYSETTING': "- Voc\xea pode definir a tecla de atalho em 'Teclas de Atalho', no menu op\xe7\xf5es.", 'MINI_GAME_YUTNORI_YUTSEM6': 'Back-do', 'OPTION_BLOCK_EXCHANGE': 'Negocia\xe7\xe3o', 'MAILBOX_POST_ALL_RECEIVE': 'Receber todos', 'RESTART_GIVEUP': 'Desistir', 'OPTION_LANGUAGE_SELECT': 'Language Support', 'GRAPHICONOFF_DROP_ITEM_LEVEL': 'Item Drop', 'KEYCHANGE_BASEACTION': 'A\xe7\xf5es', 'HELP_OPEN_CHARACTER': '<C> abre a janela de Status do personagem', 'MAILBOX_POST_WRITE_CLOSE_TEXT': 'Fechar', 'GAME_STAT_UP': 'Ponto de Status', 'MONSTER_CARD_ACHIEV_BONUS': 'B\xf4nus de Conquista', 'REFINE_ELEMENT_CHANGE_DARK': 'Trevas', 'GUILD_WAR_BATTLE_TYPE': 'Tipo de Batalha', 'PICK_MONEY_TITLE': 'Quantia', 'GUILD_DONATE_NORMAL_MATERIAL': '120.000 gold', 'PET_INFORMATION_LIFETIME_BUTTON': 'Alimentar', 'OPTION_PVPMODE_GUILD_TOOLTIP': 'Permite atacar todos os jogadores, exceto membros da guilda', 'MC_ACHIEV_SORT_APPLYING': 'Aplicado', 'GRADE': 'Classe', 'BANNER_CATCHKING_BUTTON': 'Pegue o Rei', 'KEYCHANGE_MESSENGER_WINDOW': 'Contatos', 'GRAPHICONOFF_NPC_NAME_STATUS_ON': 'ON', 'MINI_BOSS_DUNGEON_TOOTIP_02': 'Rank Dungeon Azul', 'MINI_BOSS_TITLE': 'Dungeon de Mini Boss', 'LOGIN_DEFAULT_SERVERADDR': 'Nome do servidor, canal 1', 'MAILBOX_POST_WRITE_SEND_TEXT': 'Enviar', 'MINI_GAME_CHALLENGE_REWARD_TAB_PREMIUM': 'Premium', 'REFINE_INFO': 'Chance de Refina\xe7\xe3o bem-sucedida: 100%', 'OPPOSITES': 'Discordar', 'KEYCHANGE_QUICKSLOT3': 'Trocar Slot3', 'KEYCHANGE_QUICKSLOT2': 'Trocar Slot2', 'HELP_OPEN_WHISPER': '<Shift>+<Enter> abre a janela de Mensagens Particulares', 'MINI_GAME_CATCHKING_MYNUMBER': 'Minhas cartas', 'LOGIN_CONNECTING': 'Conectando...', 'EMPIRE_SELECT': 'Selecionar', 'KEYCHANGE_QUICKSLOT4': 'Trocar Slot4', 'GUILD_GRADE_PERMISSION_WAR': 'Guerra', 'MINI_GAME_FISH_HELP_TEXT': 'Ajuda', 'MINI_GAME_CHALLENGE_GAME_TAB_TEXT_SELECT': 'Selecionar', 'GUILD_INFO_MEMBER_AVG_LEVEL': 'N\xedvel m\xe9dio', 'KEYCHANGE_GUILD_WINDOW': 'Guilda', 'LOCALE_UISCRIPT_PATH': 'locale/br/ui/', 'PARTY_MATCH_TEXT_REQUEST_MATCH': 'Registrar', 'GUILD_INFO_ENEMY_GUILD_EMPTY': 'Nenhuma', 'STEP_SELECT': 'Brilho', 'SELECT_METIN_STONE_TITLE': 'Escolha a gema', 'MINI_GAME_CATCHKING_START_TEXT': 'Come\xe7ar', 'MINI_GAME_YUTNORI_COM_TEXT': 'Alma Invocada', 'SELECT_EXIT': 'Voltar', 'MC_ACHIEV_DUNGEON': 'Conquistas de Calabou\xe7o', 'AUTO_SAVE': 'Salvar', 'SELECT_SELECT': 'Selecionar Personagem', 'JOBDESC_WOLFMAN_PATH': 'locale/br/jobdesc_wolfman.txt', 'OPTION_SHADOW_QUALITY_BAD_TOOLTIP': 'Qualidade de sombra baixa', 'DRAGONSOUL_PAGE_BUTTON_1': 'Com(D)', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL2': '2', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL3': '3', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL1': '1', 'CREATE_ATT_GRADE': 'FOR', 'DRAGONSOUL_PAGE_BUTTON_2': 'Incom(C)', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL4': '4', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL5': '5', 'HELP_SCREEN_CAPTURE': '<Print Screen> captura uma imagem. A imagem ser\xe1 salva na pasta Metin2/Screenshots', 'CUBE_TITLE': 'Cubo', 'KEYCHANGE_CAM_RIGHT1': 'CamDireita1', 'REFINE_ELEMENT_CHANGE_COST_TITLE': 'Custo', 'OPTION_VIEW_CHAT': 'Chat', 'PET_REVIVE_CANCEL_BUTTON': 'Cancelar', 'OPTION_CAMERA_DISTANCE_LONG': 'Longe', 'MINI_GAME_BLACK_AND_WHITE_GAME_TITLE': 'Duelo de Videntes', 'CREATE_SHAPE': 'Vestimenta', 'MAILBOX_POST_WRITE_CONFIRM_TEXT': '[Checar Personagem]', 'PARTY_MATCH_TEXT_REQUEST_MATCH_CANCEL': 'Cancelar Registro', 'MINI_GAME_CATCHKING_CHALLENGE': 'Desafio', 'BATTLE_ROYALE_DESC_FILE': 'locale/br/battle_royale_desc.txt', 'PET_INFORMATION_ABILITIES': 'Habilidades', 'EXIT_BATTLE_FIELD_ON_DEAD': 'Voc\xea quer sair com %d ponto(s)?', 'GUILD_BASEINFO_VOTE': 'voto', 'HELP_GUILD_WINDOW': '<Alt>+<G> abre e fecha a janela de Guilda', 'KEYCHANGE_ATTACK': 'Ataque', 'TASKBAR_DRAGON_SOUL': 'Pedra de Drag\xe3o', 'GUILD_BASEINFO_MONEY': 'Dinheiro da Guilda', 'KEYCHANGE_KEY_SETTING': 'Definir Teclas de Atalho', 'PET_REVIVE_BUTTON': 'Ressuscitar', 'KEYCHANGE_ROOT2': 'Apanhar2', 'KEYCHANGE_ROOT1': 'Apanhar1', 'COMB_MAIN': 'Base', 'GRADE_SELECT': 'Classe', 'HELP_MESSENGER_WINDOW': '<Alt>+<M> acessa a Lista de Contatos', 'GUILD_DRAGONLAIR_RANKING_NAME': 'Guilda', 'MINI_GAME_CHALLENGE_GAME_TAB_TEXT_DRAW': 'EMPATE', 'TASKBAR_SYSTEM': 'Menu [<Esc>]', 'MC_ACHIEV_FIELD': 'Conquistas de Campo', 'YES': 'Sim', 'EVENT_REWARD_TITLE': 'Recompensa do Evento', 'KEYCHANGE_SCREENSHOT': 'ScreenShot', 'GUILD_WAR_GAMETIME': 'Tempo de batalha', 'SAFE_CHANGE_PASSWORD': 'Alterar senha', 'CHARACTER_MAIN': 'Status', 'HELP_ATTACK': 'Ataque', 'MINIGAME_FISH_EVENT_USE_COUNT': 'N\xfamero Usado', 'ATTACH_METIN_INFO': 'Quer mesmo combinar?', 'GUILD_DONATE_MIDDLE_MATERIAL': 'M\xe9dia', 'EMPIRE_ALL': 'Todos', 'MESSENGER_USE_GUILD_MOVE_SKILL': 'Usar skill de mover a guilda', 'KEYCHANGE_CANCLE': 'Cancelar', 'OPTION_MOB_INFO_AGGR': 'Agressivo', 'HELP_EXP': 'Experi\xeancia', 'AURA_SUB': 'Material', 'GUILD_BANKINFO_NAME': 'Nome', 'GUILD_BUILDING_INFO': 'Informa\xe7\xf5es', 'HELP_FURY': 'Indicador de F\xfaria (n\xe3o implementado)', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL1_TOOLTIP': 'Mostrar todas as lojas pessoais', 'CREATE_CREATE': 'Criar', 'GAME_GUILD_WAR_JOIN': 'EntrarGuerraGuilda', 'MC_ACHIEV_SORT_ALL': 'Ver tudo', 'GUILD_BUILDING_LIST_TITLE': 'Unidades de constru\xe7\xe3o', 'PRIVATESHOPSEARCH_LEVEL': 'N\xedvel', 'JOBDESC_SURA_PATH': 'locale/br/jobdesc_sura.txt', 'FISH_EVENT_DESC': 'locale/br/fish_event_desc.txt', 'DRAGONSOUL_PAGE_BUTTON_3': 'Rara(B)', 'DRAGONSOUL_PAGE_BUTTON_4': 'Antiga(A)', 'DRAGONSOUL_PAGE_BUTTON_5': 'Lend\xe1ria(S)', 'DRAGONSOUL_PAGE_BUTTON_6': 'M\xedtica(SS)', 'BNW_GAME_UI_COM': 'Advers\xe1rio', 'MINI_GAME_CHALLENGE_REWARD_TAB_USE_EXP_GAUGE_TEXT': '%d%%', 'INVENTORY_PAGE_BUTTON_TOOLTIP_4': 'Invent\xe1rio IIII', 'GUILD_WAR_GAINSCORE_HUNDRED': '100 pontos', 'KEYCHANGE_EMOTION1': 'Emo\xe7\xe3o1', 'OPTION_SHADOW_TARGET_GROUND_AND_SOLO_TOOLTIP': 'Mostrar sombra do ambiente e de personagens', 'MINI_GAME_CHALLENGE_REWARD_TAB_COMMON_TEXT': 'Normal', 'GUILD_INFO_OFFER_EXP': 'Investir', 'GUILD_INFO_CUR_EXP': 'Experi\xeancia', 'MAILBOX_POST_ALL_DELETE_BUTTON': 'Deletar todos', 'MINI_GAME_YUTNORI_TITLE': 'Yutnori', 'GUILD_BUILDING_CATEGORY_TITLE': 'Classifica\xe7\xe3o', 'SELECT_EMPIRE_NAME': 'Reino', 'HELP_OPEN_LOG': '<L> abre o hist\xf3rico de chat', 'TASKBAR_PET_INFO': 'Pet Info', 'WEEKLY_RANKING': 'Ranking Semanal', 'GAME_HELP': 'Ajuda', 'GRAPHICONOFF_EFFECT_LEVEL3_TOOLTIP': 'Mostrar apenas meus efeitos e de outros jogadores', 'KEYCHANGE_CAM_DOWN2': 'CamBaixo2', 'KEYCHANGE_CAM_DOWN1': 'CamBaixo1', 'BANNER_BLACK_AND_WHITE_BUTTON': 'Duelo de Videntes', 'OPTION_SNOW_MODE': 'Nevando', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL4_TOOLTIP': 'Mostrar lojas pessoais dentro de um raio de 10M', 'KEYCHANGE_DOWN1': 'Tr\xe1s1', 'CURRENT_POINT': 'Pontos Atuais: %s', 'KEYCHANGE_ACTION_WINDOW': 'A\xe7\xe3o', 'HELP_MINIMAP_QUEST': '- Voc\xea pode iniciar a quest ao ir ao ponto piscante no mini mapa.', 'GUILD_WAR_WARP': 'Arena', 'PRIVATESHOPSEARCH_BUY': 'Comprar', 'GUILD_INFO_MARK': 'Emblema', 'KEYCHANGE_NEXT_TARGET': 'Pr\xf3ximo Alvo', 'OPTION_BLOCK_WHISPER': 'Mensagens', 'OPTION_BLOCK_FRIEND': 'Contato', 'OPTION_NAME_COLOR': 'Cor nome', 'KEYCHANGE_LEFT2': 'Esquerda2', 'GRAPHICONOFF_EFFECT_LEVEL4': '4', 'GUILD_WAR_GAINSCORE_FIFTY': '50 pontos', 'MINI_GAME_CHALLENGE_GAME_TAB_TEXT_WIN_DOWN': 'VENCEU', 'PRIVATESHOPSEARCH_REFINE': 'N\xedvel do Item', 'GUILD_WAR_GAMETIME_TEN': '10 minutos', 'ACCE_MAIN': 'Faixa 1', 'PET_HATCHING_BUTTON': 'Incubar', 'MINI_GAME_CHALLENGE_TAB_DESC': 'Detalhes', 'BANNER_FISH_BUTTON': 'Pesca', 'GUILD_BUILDING_PLY': 'Compensado', 'GRAPHICONOFF_PRIVATE_SHOP_APPLY': 'Aplicar', 'EMPIRE_A': 'Shinsu ', 'GUILD_DRAGONLAIR_RANKING': 'Ranking de Guildas', 'MAPNAME_PATH': 'locale/br/ui/mapname/', 'GRAPHICONOFF_DROP_ITEM_LEVEL4_TOOLTIP': 'Esconder itens, mas mostrar nome ao passar mouse em cima', 'PET_INFORMATION_LIFE': 'Vida', 'OPTION_NIGHT_MODE_ON': 'on', 'LOGIN_CONNECT': 'Conectar', 'OPTION_PVPMODE_PEACE_TOOLTIP': 'N\xe3o ataca outros jogadores, mas \xe9 poss\xedvel contra-atacar', 'KEYCHANGE_AUTO_WINDOW': 'Auto', 'PET_INFORMATION_EXP': 'EXP', 'MINI_GAME_CHALLENGE_DESC': 'locale/br/mini_game_challenge_desc.txt', 'MINI_GAME_CHALLENGE_TAB_PLAY': 'Mini Game', 'GUILD_BOARD_ID': 'Personagem', '__doc__': None, 'GUILD_METIN_STONE': 'Pedra Espiritual', 'ZONE_MAP': 'Mapa Completo', 'MINI_GAME_YUTNORI_PROB_DESC': 'O Yut Sem selecionado ter\xe1 maior probabilidade de aparecer.', 'MINI_GAME_CHALLENGE_REWARD_TAB_REWARD_BUTTON_TEXT': 'Obter Pr\xeamio', 'GUILD_WAR_GAMETIME_THIRTY': '30 minutos', 'PRIVATESHOPSEARCH_COUNT': 'Quantidade', 'MINI_GAME_RUMI_START_TEXT': 'Come\xe7ar', 'CUBE_RENEWAL_BELT_IMPROVE': 'Aumentar Chance', 'EMPIRE_PREV': 'Anterior', 'OPTION_MUSIC_DEFAULT_THEMA': 'BGM Padr\xe3o', 'CREATE_HP': 'VIT', 'KEYCHANGE_LEFT1': 'Esquerda1', 'OPTION_SNOW_MODE_ON': 'on', 'OPTION_FOG_MIDDLE': 'M\xe9dia', 'SYSTEM_MOVE_CHANNEL': 'Trocar Canal', 'GUILD_BASEINFO_FACTORY': 'Forja da Guilda', 'MINI_GAME_YUTNORI_PROBABILITY': 'Jogada', 'MINI_GAME_YUTNORI_THROW': 'Jogar Yut', 'BANNER_SUMMER_BUTTON': 'Ver\xe3o', 'OPTION_SHADOW_TARGET_GROUND_TOOLTIP': 'Mostrar sombra do ambiente', 'GUILD_DONATE_BUTTON_OVER_TEXT': 'Receber\xe1 aleatoriamente um dos itens acima', 'GUILD_INFO_MEMBER_NUM': 'Membros', 'CHARACTER_EMOTICON': 'Emoticons', 'GUILD_WAR_SKILL': 'Habilidade de Guilda & Registro', 'EMPIREDESC_B': 'locale/br/empiredesc_b.txt', 'EMPIREDESC_C': 'locale/br/empiredesc_c.txt', 'EMPIREDESC_A': 'locale/br/empiredesc_a.txt', 'OPTION_SNOW_MODE_OFF': 'off', 'MINI_GAME_CHALLENGE_GAME_TAB_TEXT_LOSE_DOWN': 'PERDEU', 'QUEST_UI_TEXT_MAIN': 'Miss\xe3o Principal', 'MINI_GAME_CATCHKING_POPUP_CONFIRM': 'confirma\xe7\xe3o', 'MINI_GAME_CATCHKING_HELP_TEXT': 'Ajuda', 'PET_AGE_TEXT': 'Idade do Pet', 'GUILD_BANKINFO_TITLE': 'Informa\xe7\xe3o do Banco da Guilda', 'EXCHANGE_ACCEPT': 'Aceitar', 'CREATE_LAST_POINT': 'Pontos', 'MINI_GAME_CHALLENGE_YANG_TEXT': 'Gold', 'GUILD_INFO_UPLOAD_SYMBOL': 'Selecionar bandeira', 'STRENGTH_SELECT': 'Level', 'BLACK_AND_WHITE_DESC': 'locale/br/black_and_white_desc.txt', 'MINI_GAME_CHALLENGE_GAME_TAB_TEXT_LOSE_UP': 'VOC\xca', 'BANNER_HALLOWEEN_BUTTON': 'Halloween', 'KEYCHANGE_QUEST_WINDOW': 'Quests', 'PARTY_MEMBER_INFO_NAME': 'Membro', 'HELP_HELP_KEY': '- Mas a p\xe1gina de ajuda mostra a informa\xe7\xe3o sobre as teclas de atalho padr\xf5es.', 'GUILD_SKILLPAGE_RANK': 'Rank', 'CREATE_DEX_GRADE': 'DES', 'MC_ACHIEV_REGIST': 'Registrar', 'GRAPHICONOFF_DROP_ITEM_LEVEL5': '5', 'KEYCHANGE_MINIMAP_MINER': 'Mini-mapa-', '__package__': None, 'MINI_GAME_BLACK_AND_WHITE_START_BUTTON': 'Jogar', 'TASKBAR_MESSENGER': 'Lista de contatos [<Alt>+<M>]', 'GUILD_BASEINFO_MONEYLASTOUT': '\xdaltima retirada', 'localeDict': {...}, 'GUILD_BANKINFO_TYPE': 'Item,Gold', 'MC_ACHIEV_FIELD_BONUS': 'B\xf4nus do Campo', 'MINI_GAME_CHALLENGE_RANK_TAB_TITLE_NAME': 'Nickname', 'BANNER_FLOWER_BUTTON': 'Evento das Flores', 'MINI_GAME_BLACK_AND_WHITE_RANK_BUTTON': 'Ranking', 'GUILD_WAR_JOINMEMBER': 'Membros', 'AUTO_TITLE': 'Autom\xe1tico', 'GUILD_LANDDEAL_VOTE_DEALGOLD': 'Valor (gold)', 'KEYCHANGE_RIDE_HORSE': 'Montar Cavalo', 'JOBDESC_ASSASSIN_PATH': 'locale/br/jobdesc_assassin.txt', 'AUTO_AUTO_POTION': 'Po\xe7\xe3o Auto', 'SELECT_TITLE': 'T\xedtulo', 'SELECT_CREATE': 'Novo Personagem', 'REPORT_VIOLENT_WHISPER': 'test', 'MINI_GAME_RUMI_LBUTTON_DESC': 'Insere a carta.', 'GUILD_MEMBER_PACE_ATTENDANCE': 'Presen\xe7a ({0}/{1})', 'MC_ACHIEV_SHOW': 'Detalhes', 'ACCE_SERVE': 'Faixa 2', 'MINI_GAME_YUTNORI_SCORE': 'Pontos', 'GUILD_WAR_TYPE_TIME': 'Time-Attack', 'SELECT_HP': 'VIT', 'LOGIN_PATH': 'locale/br/ui/login/', 'PET_INFORMATION_HP': 'HP', 'GRAPHICONOFF_EFFECT_APPLY': 'Aplicar', 'SYSTEM_MALL': 'Loja de itens', 'PET_FFED_BUTTON_TEXT': 'Alimentar', 'GRAPHICONOFF_EFFECT_LEVEL': 'Efeito', 'BANNER_YUTNORI_BUTTON': 'Yutnori', 'GUILD_WAR_WIN_THREE': 'Melhor de tr\xeas', 'INVENTORY_PAGE_BUTTON_TOOLTIP_3': 'Invent\xe1rio III', 'INVENTORY_PAGE_BUTTON_TOOLTIP_2': 'Invent\xe1rio II', 'INVENTORY_PAGE_BUTTON_TOOLTIP_1': 'Invent\xe1rio', 'GUILD_LANDDEAL_VOTE': 'NegociarTerreno', 'KEYCHANGE_CAM_LEFT2': 'CamEsquerda2', 'REFINE_ELEMENT_CHANGE_FIRE': 'Fogo', 'MC_EXCHANGE_BUTTON': 'Trocar', 'KEYCHANGE_CAM_LEFT1': 'CamEsquerda1', 'OPTION_DELETE_MOBILE_BUTTON': 'Remover n\xfamero de celular', 'HELP_EMOTINO': '- Voc\xea pode expressar suas emo\xe7\xf5es com as teclas <Ctrl> + <1~9>.', 'STRENGTH': 'Level', 'KEYCHANGE_DOWN2': 'Tr\xe1s2', 'ACCE_COMBINE': 'Combina\xe7\xe3o', 'HELP_CONTROL_CAMERA_BY_RIGHTBUTTON': '<Ctrl>+<Bot\xe3o direito do mouse> \xe9 usado para olhar ao redor do personagem', 'AUTO_SKILL_SETTING': 'Habilidade', 'MINI_GAME_RUMI_RBUTTON_DESC': 'Descarta a carta.', 'SKILL_SUPPORT_TITLE': 'Skills Passivas', 'MAILBOX_POST_WRITE_TO': 'Para:', 'GUILD_DONATE_TAB_HIGH': 'Doa\xe7\xe3o Superior', 'GRAPHICONOFF_PRIVATE_SHOP_LEVEL5_TOOLTIP': 'Mostrar lojas pessoais dentro de um raio de 3M', 'JOBDESC_SHAMAN_PATH': 'locale/br/jobdesc_shaman.txt', 'CHARACTER_NORMAL_ACTION': 'Express\xf5es', 'PRIVATESHOPSEARCH_SEARCH_BAR': 'Busca', 'GAME_QUEST': 'Quests', 'TASKBAR_EXPAND': 'Maximizar', 'GUILD_BASEINFO_LANDSCAPE': 'Paisagem', 'COMB_APPEARANCE': 'Traje 1', 'PARTY_MATCH_TEXT_ENTREE_LEVEL': 'N\xedvel : %d', 'MC_POLY_BUTTON': 'Transformar', 'QUEST_UI_TEXT_SCROLL': 'Miss\xe3o de Pergaminho', 'GRAPHICONOFF_DROP_ITEM_LEVEL5_TOOLTIP': 'Esconder itens no ch\xe3o', 'GUILD_MEMBER_LEVEL': 'N\xedvel', 'LOCALE_INTERFACE_FILE_NAME': 'locale/br/locale_interface.txt', 'AUTOBAN_QUIZ_REST_TIME': 'REST_TIME', 'GUILD_INFO_MASTER_VALUE': 'L\xedder', 'OPTION_SNOW_TEXTURE_MODE_OFF': 'off', 'GRAPHICONOFF_DROP_ITEM_LEVEL3': '3', 'GUILD_WAR_JOINMEMBER_COUNT': 'Membros', 'OPTION_SHADOW_TARGET_NONE_TOOLTIP': 'Sem sombra', 'GUILD_BUILDING_CHANGE_DELETE': 'Excluir', 'OK': 'Ok', 'MISTS_ISLAND_TITLE_RANK': 'Informa\xe7\xe3o sobre rank e status', 'MYSHOP_DECO_NEXT': 'Pr\xf3ximo', 'GUILD_WAR_DECLARE': 'Declarar guerra entre guildas', 'OPTION_SHADOW_TARGET_ALL_TOOLTIP': 'Mostrar todas as sombras', 'GUILD_DONATE_MY_MEDAL_OF_HONOR': 'Medalhas de Honra atuais', 'KEYCHANGE_CAM_ZOOM_IN1': 'CamZoomIn1', 'MISTS_ISLAND_TITLE_SCORE': 'Status de Ocupa\xe7\xe3o', 'GUILD_BANK_INFO': 'Checar informa\xe7\xe3o', 'GUILD_BANK_CLOSE': 'Fechar', 'REFINE_ELEMENT_CHANGE_ICE': 'Gelo', 'GUILD_BUILDING_GRADE': 'Posi\xe7\xe3o', 'GUILD_WAR_SCORE': 'Placar da Guerra de Guilda', 'GUILD_SKILL_STATE': 'Skills da guilda', 'BATTLE_ROYALE_MAINBUTTON_RANKING': 'Ranking', 'REFINE_TTILE': 'Refina\xe7\xe3o', 'EXPIRED_TIME': 'Evento finalizado', 'AUTOBAN_QUIZ_REFRESH': 'REFRESH', 'HELP_QUICKSLOT': 'Atalhos', 'KEYCHANGE_STATUS_WINDOW': 'Status', 'MESSENGER_MOBILE': 'Enviar SMS', 'MC_ACHIEV_SORT_ABLE_REGIST': 'Pode ser registrado', 'MINI_GAME_CHALLENGE_REWARD_TAB_REWARD_BUTTON_COMPLETE_TEXT': 'Complete', 'BANNER_DOLL_EVENT': 'Boneca Ind\xedgena', 'PET_INFORMATION_SP': 'MP', 'OPTION_PVPMODE_FREE': 'Livre', 'ACCEPT': 'OK', 'MISTS_ISLAND_END_TIME': 'T\xe9rmino', 'MC_ACHIEV_DUNGEON_BONUS': 'B\xf4nus do Calabou\xe7o', 'MINI_GAME_CHALLENGE_BETTING_TEXT': 'LANCES', 'MOUSEBUTTON_AUTO_ATTACK': 'Ataque Autom\xe1tico', 'CZ_REWARD_WINDOW_TITLE': 'Templo do Zod\xedaco', 'PET_NAME_CHANGE_BUTTON': 'Mudar', 'EVENT_NAME_TITLE': 'Nome do Evento', 'LUCKY_BOX_NOTICE_YANG': 'Precisa de Gold para reusar', 'TASKBAR_CHARACTER': 'Status [<C>/<V>/<B>/<N>]', 'GUILD_RESOURCE_INFO': 'Informa\xe7\xf5es de recursos', 'BNW_RANK_UI_COUNT': 'Doa\xe7\xf5es', 'REFINE_ELEMENT_DOWNGRADE_TITLE': 'Diminuir N\xedvel', 'MINI_GAME_CATCHKING_RETRY': 'Tentar de novo', 'SHOP_SELL': 'Vender', 'KEYCHANGE_CLEAR': 'Limpar', 'GUILD_SKIlL_HEAL_GSP': 'Restaurar GSP', 'GUILD_WATER': '\xc1gua', 'GUILD_DRAGONLAIR_RANKING_TIME': 'Conclus\xe3o', 'SHOP_BUY': 'Comprar', 'GUILD_SKILL_POWER': 'GSP', 'MAILBOX_POST_READ_MAIN_TITLE': 'Caixa de Entrada', 'OPTION_FOG': 'Neblina', 'PET_INFORMATION_EXP_BUTTON': 'EXP de Item', 'GRAPHICONOFF_PET_STATUS': 'Pet', 'OPTION_SHADOW_QUALITY_AVERAGE_TOOLTIP': 'Qualidade de sombra normal', 'REFINE_COST': 'Custo da Refina\xe7\xe3o: 0 Gold', 'MINI_GAME_CATCHKING_SELECTION_NUMBER': 'Cartas selecionadas', 'PARTY_MATCH_TEXT_REQUIRED_ITEMS': 'Item Necess\xe1rio', 'HELP_OPEN_INVENTORY': '<I> acessa a janela de Invent\xe1rio', 'MINI_GAME_CHALLENGE_REWARD_TAB_REMAIN_CYCLE_END_TIME': 'Tempo restante at\xe9 a recompensa do desafio reiniciar', 'LOAD_ERROR': 'Os dados est\xe3o corrompidos. Por favor reinstale o Metin 2. Pressione Esc para sair.', 'GRAPHICONOFF_EFFECT_LEVEL4_TOOLTIP': 'Mostra apenas meus efeitos', 'SYSTEM_OPTION': 'Op\xe7\xf5es de sistema', '__name__': 'uiScriptLocale', 'CUBE_REQUIRE_MATERIAL_OR': 'ou', 'GRAPHICONOFF_PET_STATUS_ON_TOOLTIP': 'Mostrar pet', 'BATTLE_FIELD_OPERATION_TIME_OPEN': 'Tempo Restante: %s (Aberto por %s hora(s))', 'GUILD_GRADE_NUM': 'Posi\xe7\xe3o', 'MC_ACHIEV_APPLYING': 'B\xf4nus aplicado', 'MINI_BOSS_DUNGEON_TITLE_POINT': 'Pts. Acumulados', 'MYSHOP_DECO_SELECT_TITLE': 'T\xedtulo de Decora\xe7\xe3o', 'OPTION_BLOCK_PARTY_REQUEST': 'Participar', 'DRAGONSOUL_CHANGE_ATTR_WINDOW_TITLE': 'Troca de B\xf4nus Pedra do Drag\xe3o M\xedtica', 'MAILBOX_POST_SEND_TITLE': 'Enviar', 'BANNER_BATTLE_ROYALE_BUTTON': 'Battle Royale', 'EMPIRE_C': 'Jinno', 'BANNER_MONSTERBACK_BUTTON': 'Evento de P\xe1scoa: O Retorno', 'CREATE_PREV': 'Anterior', 'MISTS_ISLAND_EMPIRE_NAME': 'Nome do Reino', 'EMPIRE_B': 'Chunjo', 'OPTION_PVPMODE_REVENGE': 'Honra', 'HELP_CHARACTER_BUTTON2': 'Lista de Contatos e Menu', 'HELP_CHARACTER_BUTTON1': 'Janelas de Status, Invent\xe1rio, ', 'GUILD_BUILDING_FIX': 'Realocar', 'GUILD_BANK_NUMBER': 'N\xfamero do Banco', 'EVENT_ALARM_TITLE': 'Aviso de Evento', 'WARP_MI_LABEL': 'Mover para o santu\xe1rio sob ataque', 'MISTS_ISLAND_EXIT': 'Sair', 'BATTLE_ROYALE_RETURN_TO_TOWN': 'Retornar para cidade', 'NO': 'N\xe3o', 'GRAPHICONOFF_EFFECT_LEVEL1_TOOLTIP': 'Mostrar todos os efeitos', 'PARTY_MATCH_TEXT_LEVEL_LIMIT': 'N\xedvel Necess\xe1rio', 'CHAT_FILTER': 'Chat Filter', 'MISTS_ISLAND_RANK': 'Rank', 'MYSHOP_DECO_PREV': 'Anterior', 'GUILD_GRADE_PERMISSION_NOTICE': 'Nota', 'MINI_GAME_CHALLENGE_ITEM_NAME_TEXT': 'Ticket de Desafio', 'STRUCTURE_VIEW_MODE': 'Esconder', 'OPTION_ALWAYS_SHOW_NAME_ON': 'Sempre', 'TASKBAR_DISABLE': 'Fechar', 'GRAPHICONOFF_DROP_ITEM_LEVEL2_TOOLTIP': 'Mostrar apenas nomes e formatos dos itens', 'GUILD_BUILDING_OPERATE': 'Operar', 'WHISPER_NAME': 'Mensagem Particular com', 'CLOSE': 'Fechar', 'GUILD_BASEINFO_BANK': 'Banco da Guilda', 'GUILD_BANKINFO_USETYPE': 'Usar', 'MINI_GAME_BLACK_AND_WHITE_WAITTING_TITLE': 'Ajuda', 'OPTION_SALESTEXT_VIEW_OFF': 'Esconder', 'MYSHOP_DECO_OK': 'Finalizar', 'QUEST_UI_TEXT_SUB': 'Miss\xe3o Secund\xe1ria', 'GUILD_DONATE_GET_MEDAL_OF_HONOR': '%d', 'MISTS_ISLAND_SCORE': 'Pontua\xe7\xe3o', 'KEYCHANGE_INGAMEEVENT': 'Evento', 'OPTION_SHADOW_TARGET': 'Sombras', 'GUILD_WAR_GAINSCORE_THIRTY': '30 pontos', 'END_TIME': 'Evento ativo at\xe9 END_TIME', 'GUILD_BUILDING_REFRESH': 'Atualizar <F5>', 'GUILD_WATER_STONE': "Pedra d'\xe1gua", 'OPTION_SHADOW_TARGET_NONE': '1', 'HELP_MOUSE_RIGHT': 'Fun\xe7\xe3o [Bot\xe3o Direito do Mouse]', 'PASSWORD_TITLE': 'Senha do Armaz\xe9m', 'SELECT_LEVEL': 'N\xedvel', 'KEYCHANGE_AUTORUN': 'Corrida Auto', 'BANNER_MINIBOSS_BUTTON': 'BOSS DUNGEON', 'MESSENGER_ADD_FRIEND': 'Adicionar contato', 'SELECT_NO_GUILD': 'Sem guilda', 'SELECT_DEX_GRADE': 'DES', 'PET_HATCHING_NIK': 'Nickname', 'HELP_MOUSE_LEFT': 'Fun\xe7\xe3o [Bot\xe3o Esquerdo do Mouse]', 'PET_HATCHING_WINDOW_TITLE': 'Incubadora', 'MARKLIST_REFRESH': 'Atualizar', 'MAILBOX_POST_READ_TITLE': 'T\xedtulo', 'HELP_OPEN_MINIMAP': '<Shift>+<M> abre e fecha o Mini-Mapa', 'GUILD_BUILDING_POSITION': 'Localiza\xe7\xe3o', 'KEYCHANGE_INTERFACE': 'Interface', 'YUTNORI_EVENT_DESC': 'locale/br/yutnori_event_desc.txt', 'COMB_SKILLBOOK_TILE': 'Trocar Livros', 'CHARACTER_ACTION': 'A\xe7\xf5es', 'JOBDESC_WARRIOR_PATH': 'locale/br/jobdesc_warrior.txt', 'RESTART_IMMEDIATE': 'O Player que Renasce', 'HELP_HP': 'HP', 'MINI_GAME_FISH_TITLE': 'Evento de Pesca', 'CREATE_NAME': 'Nome', 'PET_ATTR_OK': 'Confirmar', 'CUBE_REQUIRE_MATERIAL': 'Requirements', 'BANNER_SOUL_BUTTON': 'Magatama', 'MINI_GAME_CHALLENGE_BUTTON_TEXT': 'Desafiar', 'HELP_SKILL': 'Habilidade', 'OPTION_SALESTEXT_VIEW_ON': 'Mostrar', 'MINI_GAME_RUMI_EXIT': 'Sair', 'GUILD_BUILDING_NAME': 'Nome', 'EMPIRE_NEXT': 'Pr\xf3ximo', 'ATTENDANCE_DESC': 'locale/br/attendance_desc.txt', 'GUILD_BASENAME': 'Nome', 'PRIVATESHOPSEARCH_ITEMNAME': 'Itens Nome', 'BATTLE_FILED_RANK_EMPIRE': 'Reino', 'HELP_MINIMAP': '- Exibe o mini mapa', 'PRIVATE_SHOP_NAME': 'Nome da loja', 'OPTION_LANGUAGE_CHANGE': 'Apply', 'PET_CHANGE_TEXT': 'Pet que ser\xe1 alterado', 'KEYCHANGE_SLOT6': 'Slot6', '__test__': {}, 'MINI_GAME_CATCHKING_REWARD': 'Pegar recompensar', 'OPTION_BLOCK_GUILD': 'Guilda', 'BANNER_RAMADAN_BUTTON': 'Ramad\xe3', 'GUILD_BOARD_TEXT': 'Mensagem', 'MINI_GAME_RUMI_TITLE': 'Okey - Metin 2', 'GUILD_INFO_MASTER': 'L\xedder', 'MAILBOX_POST_READ_DELETE': 'Deletar', 'PET_INFORMATION_SKILL': 'Habilidades', 'GUILD_DROP_RESOURCE2': 'Aqui', 'LUCKY_BOX_RECV_BUTTON': 'Receber item', 'GUILD_DROP_RESOURCE1': 'Recursos de Drop', 'CHANGE_PASSWORD_NEW': 'Nova senha', 'BATTLE_FIELD_OPERATION_TIME_ALL': 'Aberto : Todo o tempo', 'BANNER_ATTENDANCE_BUTTON': 'Quest Di\xe1ria', 'SYSTEM_LOGOUT': 'Logout', 'MALL_PASSWORD_TITLE': 'Senha', 'GRAPHICONOFF_EFFECT_LEVEL2_TOOLTIP': 'Mostrar apenas meus efeitos e de monstros', 'GUILD_GRADE_PERMISSION_BANK': 'Banco', 'MINI_GAME_CHALLENGE_GAME_TAB_CHECK_TEXT': 'Desafio instant\xe2neo', 'BANNER_EASTER_BUTTON': 'P\xe1scoa', 'DESC_BATTLE_FIELD_PATH': 'locale/br/desc_battle_field.txt', 'KEYCHANGE_QUICKSLOT1': 'Trocar Slot1', 'GUILD_MINENAL': 'Mineral', 'GUILD_DRAGONLAIR_RANKING_COUNT': 'Ranking', 'BANNER_OKEY_BUTTON': 'Okey Evento', 'KEYCHANGE_CHAT_WINDOW': 'Chat', 'GUILD_WAR_GAINSCORE': 'Placar', 'GUILD_BANKINFO_CLOSE': 'Fechar', 'OPTION_VIEW_CHAT_ON': 'Exibir', 'CUBE_INFO_TITLE': 'Recipe', 'MINI_GAME_BLACK_AND_WHITE_REWARD_TRADE': 'Trocar Pr\xeamio', 'OPTION_SHADOW_TARGET_GROUND_AND_SOLO': '3', 'RESTART_TOWN': 'Retornar na cidade', 'KEYCHANGE_INVENTORY_WINDOW': 'Invent\xe1rio', 'GUILD_WAR_CTF': 'Captura', 'OPTION_TARGET_BOARD_NO_VIEW': 'Ocultar', 'OPTION_NAME_COLOR_EMPIRE': 'Reino', 'AUTO_ON': 'On', 'GUILD_INFO_NAME_VALUE': 'Nome', 'OPTION_ALWAYS_SHOW_NAME_OFF': 'Tecla <Alt>', 'GRAPHICONOFF_NPC_NAME_STATUS_OFF_TOOLTIP': 'Esconder nome de NPCs'}
-key: GUILD_BANKINFO_TYPE, val: Item,Gold
-key: MC_ACHIEV_FIELD_BONUS, val: Bônus do Campo
-key: MINI_GAME_CHALLENGE_RANK_TAB_TITLE_NAME, val: Nickname
-key: BANNER_FLOWER_BUTTON, val: Evento das Flores
-key: MINI_GAME_BLACK_AND_WHITE_RANK_BUTTON, val: Ranking
-key: GUILD_WAR_JOINMEMBER, val: Membros
-key: AUTO_TITLE, val: Automático
-key: GUILD_LANDDEAL_VOTE_DEALGOLD, val: Valor (gold)
-key: KEYCHANGE_RIDE_HORSE, val: Montar Cavalo
-key: JOBDESC_ASSASSIN_PATH, val: locale/br/jobdesc_assassin.txt
-key: AUTO_AUTO_POTION, val: Poção Auto
-key: SELECT_TITLE, val: Título
-key: SELECT_CREATE, val: Novo Personagem
-key: REPORT_VIOLENT_WHISPER, val: test
-key: MINI_GAME_RUMI_LBUTTON_DESC, val: Insere a carta.
-key: GUILD_MEMBER_PACE_ATTENDANCE, val: Presença ({0}/{1})
-key: MC_ACHIEV_SHOW, val: Detalhes
-key: ACCE_SERVE, val: Faixa 2
-key: MINI_GAME_YUTNORI_SCORE, val: Pontos
-key: GUILD_WAR_TYPE_TIME, val: Time-Attack
-key: SELECT_HP, val: VIT
-key: LOGIN_PATH, val: locale/br/ui/login/
-key: PET_INFORMATION_HP, val: HP
-key: GRAPHICONOFF_EFFECT_APPLY, val: Aplicar
-key: SYSTEM_MALL, val: Loja de itens
-key: PET_FFED_BUTTON_TEXT, val: Alimentar
-key: GRAPHICONOFF_EFFECT_LEVEL, val: Efeito
-key: BANNER_YUTNORI_BUTTON, val: Yutnori
-key: GUILD_WAR_WIN_THREE, val: Melhor de três
-key: INVENTORY_PAGE_BUTTON_TOOLTIP_3, val: Inventário III
-key: INVENTORY_PAGE_BUTTON_TOOLTIP_2, val: Inventário II
-key: INVENTORY_PAGE_BUTTON_TOOLTIP_1, val: Inventário
-key: GUILD_LANDDEAL_VOTE, val: NegociarTerreno
-key: KEYCHANGE_CAM_LEFT2, val: CamEsquerda2
-key: REFINE_ELEMENT_CHANGE_FIRE, val: Fogo
-key: MC_EXCHANGE_BUTTON, val: Trocar
-key: KEYCHANGE_CAM_LEFT1, val: CamEsquerda1
-key: OPTION_DELETE_MOBILE_BUTTON, val: Remover número de celular
-key: HELP_EMOTINO, val: - Você pode expressar suas emoções com as teclas <Ctrl> + <1~9>.
-key: STRENGTH, val: Level
-key: KEYCHANGE_DOWN2, val: Trás2
-key: ACCE_COMBINE, val: Combinação
-key: HELP_CONTROL_CAMERA_BY_RIGHTBUTTON, val: <Ctrl>+<Botão direito do mouse> é usado para olhar ao redor do personagem
-key: AUTO_SKILL_SETTING, val: Habilidade
-key: MINI_GAME_RUMI_RBUTTON_DESC, val: Descarta a carta.
-key: SKILL_SUPPORT_TITLE, val: Skills Passivas
-key: MAILBOX_POST_WRITE_TO, val: Para:
-key: GUILD_DONATE_TAB_HIGH, val: Doação Superior
-key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL5_TOOLTIP, val: Mostrar lojas pessoais dentro de um raio de 3M
-key: JOBDESC_SHAMAN_PATH, val: locale/br/jobdesc_shaman.txt
-key: CHARACTER_NORMAL_ACTION, val: Expressões
-key: PRIVATESHOPSEARCH_SEARCH_BAR, val: Busca
-key: GAME_QUEST, val: Quests
-key: TASKBAR_EXPAND, val: Maximizar
-key: GUILD_BASEINFO_LANDSCAPE, val: Paisagem
-key: COMB_APPEARANCE, val: Traje 1
-key: PARTY_MATCH_TEXT_ENTREE_LEVEL, val: Nível : %d
-key: MC_POLY_BUTTON, val: Transformar
-key: QUEST_UI_TEXT_SCROLL, val: Missão de Pergaminho
-key: GRAPHICONOFF_DROP_ITEM_LEVEL5_TOOLTIP, val: Esconder itens no chão
-key: GUILD_MEMBER_LEVEL, val: Nível
-key: LOCALE_INTERFACE_FILE_NAME, val: locale/br/locale_interface.txt
-key: AUTOBAN_QUIZ_REST_TIME, val: REST_TIME
-key: GUILD_INFO_MASTER_VALUE, val: Líder
-key: OPTION_SNOW_TEXTURE_MODE_OFF, val: off
-key: GRAPHICONOFF_DROP_ITEM_LEVEL3, val: 3
-key: GUILD_WAR_JOINMEMBER_COUNT, val: Membros
-key: OPTION_SHADOW_TARGET_NONE_TOOLTIP, val: Sem sombra
-key: GUILD_BUILDING_CHANGE_DELETE, val: Excluir
-key: OK, val: Ok
-key: MISTS_ISLAND_TITLE_RANK, val: Informação sobre rank e status
-key: MYSHOP_DECO_NEXT, val: Próximo
-key: GUILD_WAR_DECLARE, val: Declarar guerra entre guildas
-key: OPTION_SHADOW_TARGET_ALL_TOOLTIP, val: Mostrar todas as sombras
-key: GUILD_DONATE_MY_MEDAL_OF_HONOR, val: Medalhas de Honra atuais
-key: KEYCHANGE_CAM_ZOOM_IN1, val: CamZoomIn1
-key: MISTS_ISLAND_TITLE_SCORE, val: Status de Ocupação
-key: GUILD_BANK_INFO, val: Checar informação
-key: GUILD_BANK_CLOSE, val: Fechar
-key: REFINE_ELEMENT_CHANGE_ICE, val: Gelo
-key: GUILD_BUILDING_GRADE, val: Posição
-key: GUILD_WAR_SCORE, val: Placar da Guerra de Guilda
-key: GUILD_SKILL_STATE, val: Skills da guilda
-key: BATTLE_ROYALE_MAINBUTTON_RANKING, val: Ranking
-key: REFINE_TTILE, val: Refinação
-key: EXPIRED_TIME, val: Evento finalizado
-key: AUTOBAN_QUIZ_REFRESH, val: REFRESH
-key: HELP_QUICKSLOT, val: Atalhos
-key: KEYCHANGE_STATUS_WINDOW, val: Status
-key: MESSENGER_MOBILE, val: Enviar SMS
-key: MC_ACHIEV_SORT_ABLE_REGIST, val: Pode ser registrado
-key: MINI_GAME_CHALLENGE_REWARD_TAB_REWARD_BUTTON_COMPLETE_TEXT, val: Complete
-key: BANNER_DOLL_EVENT, val: Boneca Indígena
-key: PET_INFORMATION_SP, val: MP
-key: OPTION_PVPMODE_FREE, val: Livre
-key: ACCEPT, val: OK
-key: MISTS_ISLAND_END_TIME, val: Término
-key: MC_ACHIEV_DUNGEON_BONUS, val: Bônus do Calabouço
-key: MINI_GAME_CHALLENGE_BETTING_TEXT, val: LANCES
-key: MOUSEBUTTON_AUTO_ATTACK, val: Ataque Automático
-key: CZ_REWARD_WINDOW_TITLE, val: Templo do Zodíaco
-key: PET_NAME_CHANGE_BUTTON, val: Mudar
-key: EVENT_NAME_TITLE, val: Nome do Evento
-key: LUCKY_BOX_NOTICE_YANG, val: Precisa de Gold para reusar
-key: TASKBAR_CHARACTER, val: Status [<C>/<V>/<B>/<N>]
-key: GUILD_RESOURCE_INFO, val: Informações de recursos
-key: BNW_RANK_UI_COUNT, val: Doações
-key: REFINE_ELEMENT_DOWNGRADE_TITLE, val: Diminuir Nível
-key: MINI_GAME_CATCHKING_RETRY, val: Tentar de novo
-key: SHOP_SELL, val: Vender
-key: KEYCHANGE_CLEAR, val: Limpar
-key: GUILD_SKIlL_HEAL_GSP, val: Restaurar GSP
-key: GUILD_WATER, val: Água
-key: GUILD_DRAGONLAIR_RANKING_TIME, val: Conclusão
-key: SHOP_BUY, val: Comprar
-key: GUILD_SKILL_POWER, val: GSP
-key: MAILBOX_POST_READ_MAIN_TITLE, val: Caixa de Entrada
-key: OPTION_FOG, val: Neblina
-key: PET_INFORMATION_EXP_BUTTON, val: EXP de Item
-key: GRAPHICONOFF_PET_STATUS, val: Pet
-key: OPTION_SHADOW_QUALITY_AVERAGE_TOOLTIP, val: Qualidade de sombra normal
-key: REFINE_COST, val: Custo da Refinação: 0 Gold
-key: MINI_GAME_CATCHKING_SELECTION_NUMBER, val: Cartas selecionadas
-key: PARTY_MATCH_TEXT_REQUIRED_ITEMS, val: Item Necessário
-key: HELP_OPEN_INVENTORY, val: <I> acessa a janela de Inventário
-key: MINI_GAME_CHALLENGE_REWARD_TAB_REMAIN_CYCLE_END_TIME, val: Tempo restante até a recompensa do desafio reiniciar
-key: LOAD_ERROR, val: Os dados estão corrompidos. Por favor reinstale o Metin 2. Pressione Esc para sair.
-key: GRAPHICONOFF_EFFECT_LEVEL4_TOOLTIP, val: Mostra apenas meus efeitos
-key: SYSTEM_OPTION, val: Opções de sistema
-key: __name__, val: uiScriptLocale
-key: CUBE_REQUIRE_MATERIAL_OR, val: ou
-key: GRAPHICONOFF_PET_STATUS_ON_TOOLTIP, val: Mostrar pet
-key: BATTLE_FIELD_OPERATION_TIME_OPEN, val: Tempo Restante: %s (Aberto por %s hora(s))
-key: GUILD_GRADE_NUM, val: Posição
-key: MC_ACHIEV_APPLYING, val: Bônus aplicado
-key: MINI_BOSS_DUNGEON_TITLE_POINT, val: Pts. Acumulados
-key: MYSHOP_DECO_SELECT_TITLE, val: Título de Decoração
-key: OPTION_BLOCK_PARTY_REQUEST, val: Participar
-key: DRAGONSOUL_CHANGE_ATTR_WINDOW_TITLE, val: Troca de Bônus Pedra do Dragão Mítica
-key: MAILBOX_POST_SEND_TITLE, val: Enviar
-key: BANNER_BATTLE_ROYALE_BUTTON, val: Battle Royale
+key: HELP_SCREEN_CAPTURE, val: Képernyõkép mentése: Nyomtatás (a "Metin2\screenshot" könyvtárban lesz elmentve egy fájlba)
+key: CUBE_TITLE, val: Nemesítési ablak
+key: KEYCHANGE_CAM_RIGHT1, val: Kamera (jobb)
+key: LANGUAGE_AE, val: Arab
+key: LOOTING_SYSTEM_CATEGORY_COMMON_PENDANT, val: Talizmánok
+key: PET_REVIVE_CANCEL_BUTTON, val: Mégse
+key: GUILD_DONATE_NORMAL_MATERIAL, val: 120.000 Yang
+key: MINI_GAME_BLACK_AND_WHITE_GAME_TITLE, val: Látók párbaja
+key: CREATE_SHAPE, val: Kinézet
+key: CHATTING_SETTING_SAVE, val: Mentés
+key: PET_FFED_BUTTON_TEXT, val: Etetés
+key: LOOTING_SYSTEM_CATEGORY_JOB_ASSASSIN, val: Nindzsa
+key: MAILBOX_POST_WRITE_CONFIRM_TEXT, val: Címzett ellenõrzése
+key: SUNGMAHEE_TOWER_MISSION_TYPE_SEAL_RELEASE, val: Törd fel a pecsétet a Pecsétkõvel!
+key: PET_REVIVE_MATERIAL_TITLE, val: Anyag
+key: PARTY_MATCH_TEXT_REQUEST_MATCH_CANCEL, val: Mégse
+key: MUSICLIST_TITLE, val: Zene választás
+key: MINI_GAME_CATCHKING_CHALLENGE, val: Tét
+key: BATTLE_ROYALE_DESC_FILE, val: locale/hu/battle_royale_desc.txt
+key: GUILD_MASTER_CHANGE_TITLEBAR, val: Céhvezetés átadása
+key: EXIT_BATTLE_FIELD_ON_DEAD, val: El akarod hagyni a Harci övezetet %d ponttal?
+key: SELECT_LEVEL, val: Szint
+key: HELP_GUILD_WINDOW, val: Céh ablak megnyitása: Alt+G
+key: KEYCHANGE_ATTACK, val: Támadás
+key: TASKBAR_DRAGON_SOUL, val: Sárkánykõ-alkímia
+key: GUILD_BASEINFO_MONEY, val: Egyenleg
+key: KEYCHANGE_KEY_SETTING, val: Billentyûzet beállítások
+key: PET_REVIVE_BUTTON, val: Felélesztés
+key: WORLD_BOSS_RANK_GUILD_NAME, val: Céh
+key: KEYCHANGE_ROOT2, val: Felvesz
+key: BANNER_NEW_XMAS_BUTTON, val: KARÁCSONY
+key: SUNGMAHEE_TOWER_ELEMENT_WIND, val: Szél
+key: GUILD_WAR_GAINSCORE_HUNDRED, val: 100
+key: GRADE_SELECT, val: Osztály
+key: HELP_MESSENGER_WINDOW, val: Barátlista megnyitása: Alt+M
+key: TASKBAR_EXPAND, val: Meghosszabbítás
+key: CHATTING_SETTING_CLEAR, val: Visszaállít
+key: TASKBAR_SYSTEM, val: Opciók [ESC]
+key: MC_ACHIEV_FIELD, val: Nyílt terep eredmények
+key: YES, val: Igen
+key: MALL_TITLE, val: Tárgypiac raktár
+key: KEYCHANGE_SCREENSHOT, val: Képernyõkép
+key: QUEST_UI_TEXT_EVENT, val: Esemény küldetések
+key: SAFE_CHANGE_PASSWORD, val: Jelszó változtatás
+key: CHARACTER_MAIN, val: Karakter
+key: PET_HATCHING_NIK, val: Kedvenc neve
+key: MINIGAME_FISH_EVENT_USE_COUNT, val: Darab
+key: ATTACH_METIN_INFO, val: Használni akarod a Szellemkövet?
+key: WORLD_BOSS_RANKING_BUTTON, val: Ranglista
+key: KEYCHANGE_EMOTION9, val: Érzelem (sajnálat)
+key: PET_INFORMATION_EXP_BUTTON, val: Tárgy EXP
+key: MESSENGER_USE_GUILD_MOVE_SKILL, val: Használd a céh mozgatókészséget
+key: KEYCHANGE_CANCLE, val: Mégsem
+key: TASKBAR_NEXT_QUICKSLOT, val: Következõ gyors elérésû mezõ [Shift+Szám, Alt]
+key: OPTION_MOB_INFO_AGGR, val: Agresszív
+key: HELP_EXP, val: Tapasztalat
+key: LOOTING_SYSTEM_QUESTION_CONSUMPTION, val: Ide tartoznak a fogyótárgyak, például bájitalok, Áldás tekercs, stb.
+key: INVENTORY_PAGE_BUTTON_TOOLTIP_1, val: 1. leltár
+key: GUILD_BANKINFO_NAME, val: Tag
+key: GUILD_BUILDING_INFO, val: Épület- és költséginformációk
+key: HELP_FURY, val: Játékbeli tárgy piac
+key: LOOTING_SYSTEM_QUESTION_COMMON, val: Itt tudod beállítani az egyéb tárgyak begyûjtésének részleteit, melyeket minden karakterosztály használhat.
+key: CREATE_CREATE, val: Létrehoz
+key: GAME_GUILD_WAR_JOIN, val: Céhháborúba lép
+key: MAILBOX_POST_WRITE_SEND_TEXT, val: Küldés
+key: MINI_GAME_CATCHKING_MYNUMBER, val: Kártyám
+key: PRIVATESHOPSEARCH_LEVEL, val: Szint
+key: DRAGONSOUL_PAGE_BUTTON_1, val: Nyers
+key: FISH_EVENT_DESC, val: locale/hu/fish_event_desc.txt
+key: DRAGONSOUL_PAGE_BUTTON_3, val: Ritka
+key: DRAGONSOUL_PAGE_BUTTON_4, val: Antik
+key: DRAGONSOUL_PAGE_BUTTON_5, val: Legendás
+key: DRAGONSOUL_PAGE_BUTTON_6, val: Mitikus
+key: BNW_GAME_UI_COM, val: Ellenfél
+key: KEYCHANGE_CAM_LEFT1, val: Kamera (bal)
+key: COMB_MAIN, val: Cél
+key: KEYCHANGE_EMOTION1, val: Érzelem (szomorú)
+key: OPTION_SHADOW_TARGET_GROUND_AND_SOLO_TOOLTIP, val: Árnyék a háttérhez és a játékosokhoz
+key: SELECT_ATTR_CURRENT, val: Jelenlegi
+key: SUNGMAHEE_TOWER_ENTER_TITLE, val: Sung Mahi tornya
+key: LOOTING_SYSTEM_QUESTION_WEAPON, val: A fegyverekhez tartozik minden felszerelhetõ fegyver, például a nyilak.
+key: GUILD_INFO_OFFER_EXP, val: Befektet
+key: GUILD_INFO_CUR_EXP, val: Tapasztalat
+key: MAILBOX_POST_ALL_DELETE_BUTTON, val: Összes törlése
+key: MINI_GAME_YUTNORI_TITLE, val: Yut Nori
+key: GUILD_BUILDING_CATEGORY_TITLE, val: Építõ darabok
+key: ROULETTE_SPIN_TEXT2, val: 50 lélek
+key: SELECT_EMPIRE_NAME, val: Birodalom neve
+key: PARTY_MATCH_TEXT_DUNGEON_NAME, val: Kazamata
+key: HELP_OPEN_LOG, val: Cset-log megnyitása: L
+key: PREMIUM_PRIVATE_SHOP_TITLE, val: Magánbolt
+key: WEEKLY_RANKING, val: Heti rangsor
+key: GAME_HELP, val: Segítség
+key: GRAPHICONOFF_EFFECT_LEVEL3_TOOLTIP, val: Csak a saját és más játékosok effektjei
+key: KEYCHANGE_CAM_DOWN2, val: Kamera (le)
+key: KEYCHANGE_CAM_DOWN1, val: Kamera (le)
+key: BANNER_BLACK_AND_WHITE_BUTTON, val: Látók párbaja
+key: LOOTING_SYSTEM_ARMOR, val: Páncél
+key: LOOTING_SYSTEM_QUESTION_SKILL_BOOK, val: Ide tartoznak bizonyos karakterosztályok és meghatározott készségekhez tartozó készségkönyvek.
+key: GRAPHICONOFF_PRIVATE_SHOP_LEVEL4_TOOLTIP, val: Minden megjelenítése kis távolságban
+key: MINI_GAME_FISH_START_TEXT, val: Indítás
+key: GUILD_WAR_WIN_FIVE, val: 5
+key: SUNGMAHEE_TOWER_MISSION_TYPE_CORRECT_ITEM_USE, val: Találd meg a kulcsot, majd menekülj el!
+key: KEYCHANGE_ACTION_WINDOW, val: Akciók
+key: HELP_HELP_KEY, val: Az alapértelmezett beállítások megjelennek a segítség képernyõn.
+key: GUILD_GRADE_PERMISSION_DELETE, val: Eltávolítás a céhbõl
+key: TASKBAR_PET_INFO, val: Házikedvenc infó
+key: KEYCHANGE_PASSIVE_ATTR2, val: Ereklyebónusz (Föld)
+key: LANGUAGE_HU, val: Magyar
+key: PRIVATESHOPSEARCH_BUY, val: Vásárol
+key: GUILD_INFO_MARK, val: Céh jel
+key: KEYCHANGE_NEXT_TARGET, val: Következõ célpont
+key: OPTION_BLOCK_WHISPER, val: Súgás
+key: BANNER_YUTNORI_BUTTON, val: Yut Nori
+key: OPTION_NAME_COLOR, val: Szín név
+key: LOOTING_SYSTEM_CATEGORY_COMMON_GLOVE, val: Kesztyûk
+key: KEYCHANGE_PASSIVE_ATTR1, val: Ereklyebónusz (Menny)
+key: PREMIUM_PRIVATE_SHOP_NOTICE_OPEN, val: A magánbolt megnyitásra került.
+key: SUNGMAHEE_TOWER_ELEMENT_DARK, val: Sötétség
+key: GUILD_WAR_GAINSCORE_FIFTY, val: 50
+key: ROULETTE_SPIN_TEXT3, val: 250.000 Yang
+key: PRIVATESHOPSEARCH_REFINE, val: Tárgyszint
+key: OPPOSITES, val: Visszautasít
+key: SUNGMAHEE_TOWER_ENTER_BUTTON, val: Belépés
+key: GUILD_WAR_GAMETIME_TEN, val: 10 perc
+key: ACCE_MAIN, val: Pánt 1
+key: PET_HATCHING_BUTTON, val: Kikelés
+key: LOOTING_SYSTEM_QUESTION_COSTUME, val: Itt tudod beállítani a felszerelhetõ öltözékek begyûjtésének részleteit.
+key: SYSTEM_MALL, val: Tárgy piac
+key: BANNER_FISH_BUTTON, val: HAL-KIRAKÓS
+key: GUILD_BUILDING_PLY, val: Furnér
+key: GRAPHICONOFF_PRIVATE_SHOP_APPLY, val: Alkalmaz
+key: EMPIRE_A, val: Shinsoo
 key: EMPIRE_C, val: Jinno
-key: BANNER_MONSTERBACK_BUTTON, val: Evento de Páscoa: O Retorno
-key: CREATE_PREV, val: Anterior
-key: MISTS_ISLAND_EMPIRE_NAME, val: Nome do Reino
 key: EMPIRE_B, val: Chunjo
-key: OPTION_PVPMODE_REVENGE, val: Honra
-key: HELP_CHARACTER_BUTTON2, val: Lista de Contatos e Menu
-key: HELP_CHARACTER_BUTTON1, val: Janelas de Status, Inventário, 
-key: GUILD_BUILDING_FIX, val: Realocar
-key: GUILD_BANK_NUMBER, val: Número do Banco
-key: EVENT_ALARM_TITLE, val: Aviso de Evento
-key: WARP_MI_LABEL, val: Mover para o santuário sob ataque
-key: MISTS_ISLAND_EXIT, val: Sair
-key: BATTLE_ROYALE_RETURN_TO_TOWN, val: Retornar para cidade
-key: NO, val: Não
-key: GRAPHICONOFF_EFFECT_LEVEL1_TOOLTIP, val: Mostrar todos os efeitos
-key: PARTY_MATCH_TEXT_LEVEL_LIMIT, val: Nível Necessário
-key: CHAT_FILTER, val: Chat Filter
-key: MISTS_ISLAND_RANK, val: Rank
-key: MYSHOP_DECO_PREV, val: Anterior
-key: GUILD_GRADE_PERMISSION_NOTICE, val: Nota
-key: MINI_GAME_CHALLENGE_ITEM_NAME_TEXT, val: Ticket de Desafio
-key: STRUCTURE_VIEW_MODE, val: Esconder
-key: OPTION_ALWAYS_SHOW_NAME_ON, val: Sempre
-key: TASKBAR_DISABLE, val: Fechar
-key: GRAPHICONOFF_DROP_ITEM_LEVEL2_TOOLTIP, val: Mostrar apenas nomes e formatos dos itens
-key: GUILD_BUILDING_OPERATE, val: Operar
-key: WHISPER_NAME, val: Mensagem Particular com
-key: CLOSE, val: Fechar
-key: GUILD_BASEINFO_BANK, val: Banco da Guilda
-key: GUILD_BANKINFO_USETYPE, val: Usar
-key: MINI_GAME_BLACK_AND_WHITE_WAITTING_TITLE, val: Ajuda
-key: OPTION_SALESTEXT_VIEW_OFF, val: Esconder
-key: MYSHOP_DECO_OK, val: Finalizar
-key: QUEST_UI_TEXT_SUB, val: Missão Secundária
+key: GRAPHICONOFF_DROP_ITEM_LEVEL4_TOOLTIP, val: Tárgyak elrejtése & kurzorra nevek mutatása
+key: DRAGON_GATE_REINFORCE_TEXT, val: 
+key: GUILD_BUILDING_FIX, val: Újjáépítés
+key: KEYCHANGE_HELP_WINDOW, val: Segítség
+key: OPTION_PVPMODE_PEACE_TOOLTIP, val: Nem támadhatod meg a saját birodalmad játékosait.
+key: SELECT_ORIGIN_STAT, val: Kezdõpont
+key: KEYCHANGE_AUTO_WINDOW, val: Auto-vadászat
+key: GUILD_BUILDING_LOG, val: Tönk
+key: PET_INFORMATION_EXP, val: Tapasztalat
+key: GUILD_BOARD_ID, val: Név
+key: OPTION_SNOW_MODE, val: Hóesés
+key: LOOTING_SYSTEM_CATEGORY_JOB_SHAMAN, val: Sámán
+key: __doc__, val: None
+key: GUILD_METIN_STONE, val: Szellemkõ
+key: KEYCHANGE_LEFT2, val: Bal
+key: PRIVATE_SHOP_SEARCH_BY_VNUM_CANCEL_BUTTON_TEXT, val: Mégse
+key: LOOTING_SYSTEM_CATEGORY_COSTUME_WEAPON, val: Fegyver-kinézetek
+key: PRIVATESHOPSEARCH_SEARCH_BAR, val: Keresés
+key: PREMIUM_PRIVATE_SHOP_ITEM_TAKE_OUT, val: Tárgy begyûjtése
+key: PRIVATESHOPSEARCH_COUNT, val: Mennyiség
+key: MINI_GAME_RUMI_START_TEXT, val: Kezdés
+key: CUBE_RENEWAL_BELT_IMPROVE, val: Esély növelése
+key: EMPIRE_PREV, val: Vissza
+key: KEYCHANGE_DRAGON_GATE, val: 
+key: OPTION_MUSIC_DEFAULT_THEMA, val: Metin2 alap zene
+key: COSTUME_WINDOW_TITLE, val: Viseletek
+key: HELP_ATTACK_KEY, val: Támadás: bal egérgomb vagy szóköz billentyû
+key: SYSTEM_MOVE_CHANNEL, val: Csatorna váltás
+key: PASSIVE_ATTR_UI_TITLE, val: Ereklyebónusz
+key: GUILD_BUILDING_PRICE, val: Ár
+key: OPTION_FOG_MIDDLE, val: Közepes
+key: SELECT_SUNGMA_STAT, val: Sung Ma akarata
+key: GUILD_BASEINFO_FACTORY, val: Céh-kovács
+key: BNW_RANK_UI_RANK, val: Helyezés
+key: KEYCHANGE_IMPOSSIBLE_CHANGE, val: [CTRL], [ALT], [SHIFT] itt nincs engedélyezve!
+key: BANNER_SUMMER_BUTTON, val: NYÁRI RENDEZVÉNY
+key: OPTION_SHADOW_TARGET_GROUND_TOOLTIP, val: Háttér
+key: MINI_GAME_RUMI_SCORE, val: Pontszám
+key: OPTION_SNOW_TEXTURE_MODE_OFF, val: Ki
+key: KEYCHANGE_LEFT1, val: Bal
+key: GUILD_DONATE_BUTTON_OVER_TEXT, val: Véletlenszerû tárgy
+key: GUILD_INFO_MEMBER_NUM, val: Tagok száma
+key: CHARACTER_EMOTICON, val: Érzelem
+key: SUNGMAHEE_TOWER_DUNGEON_ENTER_QUESTION, val: Szeretnél belépni a %d. szintre?
+key: SELECT_NAME, val: Név
+key: GUILD_WAR_SKILL, val: Céh-készségek
+key: EMPIREDESC_B, val: locale/hu/empiredesc_b.txt
+key: EMPIREDESC_C, val: locale/hu/empiredesc_c.txt
+key: LOOTING_SYSTEM_WEAPON, val: Fegyver
+key: EMPIREDESC_A, val: locale/hu/empiredesc_a.txt
+key: PREMIUM_PRIVATE_SHOP_NOTICE_MODIFY, val: A magánbolt jelenleg módosítás alatt áll.
+key: AUTO_AUTO_POTION, val: Bájitalok
+key: WORLD_BOSS_RANK_EMPIRE, val: Birodalom
+key: QUEST_UI_TEXT_MAIN, val: Fõküldetések
+key: MINI_GAME_CATCHKING_POPUP_CONFIRM, val: Pop-up be/ki
+key: MINI_GAME_CATCHKING_HELP_TEXT, val: Szabályok
+key: OPTION_SHADOW_TARGET_GROUND, val: 2
+key: EXCHANGE_ACCEPT, val: OK
+key: WORLD_BOSS_RUN_TIME_TEXT, val: Harc ideje
+key: CREATE_LAST_POINT, val: Pont
+key: LANGUAGE_RO, val: Román
+key: LOOTING_SYSTEM_CATEGORY_JOB, val: Karakterosztály
+key: GUILD_INFO_UPLOAD_SYMBOL, val: Zászló feltöltés
+key: STRENGTH_SELECT, val: Szint
+key: BLACK_AND_WHITE_DESC, val: locale/hu/black_and_white_desc.txt
+key: LOOTING_SYSTEM_HEAD, val: Sisak
+key: BANNER_HALLOWEEN_BUTTON, val: HALLOWEEN
+key: KEYCHANGE_QUEST_WINDOW, val: Küldetések
+key: PARTY_MEMBER_INFO_NAME, val: Csoporttárs neve
+key: HELP_MINIMAP_QUEST, val: A küldetések villogó ikonokként jelennek meg a minitérképen és a nagy térképen.
+key: GUILD_SKILLPAGE_RANK, val: Rang
+key: CREATE_DEX_GRADE, val: ÜGY
+key: GUILD_WAR_WARP, val: Aréna
+key: MC_ACHIEV_REGIST, val: Eredmény beváltása
+key: KEYCHANGE_MINIMAP_MINER, val: Minitérkép (-)
+key: CURRENT_POINT, val: Jelenlegi pontok: %s
+key: PET_INFORMATION_LEVEL, val: Szint
+key: GUILD_WAR_CTF, val: Zászló
+key: WORLD_BOSS_MIN_DAMAGE_TEXT, val: Szükséges min. sebzés
+key: WORLD_BOSS_RANK, val: Megafõszörny ranglista
+key: SUNGMAHEE_TOWER_ELEMENT_ICE, val: Jég
+key: LOOTING_SYSTEM_CATEGORY_COMMON_SHIELD, val: Pajzsok
+key: GUILD_BASEINFO_MONEYLASTOUT, val: Utolsó kivét
+key: PET_PRIMIUM_FEEDSTUFF_DESC, val: locale/hu/pet_primium_feedstuff_desc.txt
+key: PRIVATESHOPSEARCH_ITEMNAME, val: Név
+key: GUILD_BANKINFO_TYPE, val: Tárgy/Fizetõeszköz
+key: PET_INFORMATION_EVOL_BUTTON, val: Nevelés
+key: CHATTING_SETTING_DEFAULT_TITLE, val: Szûrõ
+key: MC_ACHIEV_FIELD_BONUS, val: Nyílt terep bónusz
+key: TASKBAR_PREV_QUICKSLOT, val: Elõzõ gyors elérésû mezõ [Shift+Szám]
+key: LOOTING_SYSTEM_CATEGORY_COMMON_NECK, val: Nyakláncok
+key: SYSTEM_CHANGE, val: Karakter csere
+key: MINI_GAME_BLACK_AND_WHITE_RANK_BUTTON, val: Helyezések
+key: MINI_BOSS_DUNGEON_TITLE_NUM, val: Helyezés
+key: GUILD_WAR_JOINMEMBER, val: Tagok
+key: AUTO_TITLE, val: Auto-vad.
+key: KEYCHANGE_RIDE_HORSE, val: Hátas
+key: JOBDESC_ASSASSIN_PATH, val: locale/hu/jobdesc_assassin.txt
+key: SUNGMAHEE_TOWER_MISSION_TYPE_NORMAL, val: Öld meg az összes szörnyet!
+key: ATTR_67_MATERIAL_SLOT_TITLE, val: Erõszilánkok
+key: GUILD_BUILDING_PREVIEW, val: Elõnézet
+key: LANGUAGE_DK, val: Dán
+key: SELECT_CREATE, val: Létrehoz
+key: MINIGAME_RUMI_DESC, val: locale/hu/mini_game_okey_desc.txt
+key: MINI_GAME_RUMI_LBUTTON_DESC, val: Bal kattintás kártya hozzáadásához
+key: GUILD_MEMBER_PACE_ATTENDANCE, val: Részvétel ({0}/{1})
+key: GRAPHICONOFF_DROP_ITEM_LEVEL, val: Tárgy dobás
+key: DUTCHAUCTION_TITLE, val: Villám aukció
+key: ACCE_SERVE, val: Pánt 2
+key: MINI_GAME_YUTNORI_SCORE, val: Pontszám
+key: GUILD_WAR_TYPE_TIME, val: Támadás idõre
+key: LOOTING_SYSTEM_CATEGORY_COMMON_PICK, val: Csákányok
+key: LOGIN_PATH, val: locale/hu/ui/login/
+key: PET_INFORMATION_HP, val: TP
+key: GRAPHICONOFF_EFFECT_APPLY, val: Alkalmaz
+key: KEYCHANGE_QUEST_SCROLL_ONOFF, val: Küldetéstekercsek
+key: MINI_BOSS_DUNGEON_TOOTIP_02, val: Apokalipszis 40-80. szint közöttieknek
+key: GRAPHICONOFF_EFFECT_LEVEL, val: Effektek
+key: ATTR_67_SUPPORT_SLOT_TITLE, val: Erõsítõ
+key: SUNGMAHEE_TOWER_ELEMENT_EARTH, val: Föld
+key: OPTION_BLOCK_FRIEND, val: Barátok
+key: LOOTING_SYSTEM_SAVE, val: Mentés
+key: GUILD_WAR_WIN_THREE, val: 3
+key: INVENTORY_PAGE_BUTTON_TOOLTIP_3, val: 3. leltár
+key: INVENTORY_PAGE_BUTTON_TOOLTIP_2, val: 2. leltár
+key: AURA_SUB, val: Anyag
+key: KEYCHANGE_CAM_LEFT2, val: Kamera (bal)
+key: INVENTORY_PAGE_BUTTON_TOOLTIP_4, val: 4. leltár
+key: OPTION_DELETE_MOBILE_BUTTON, val: Telefonszám törlés
+key: HELP_EMOTINO, val: Mutasd ki érzelmeid a <CTRL> + <1~9> billentyûkombinációkkal.
+key: PET_AGE_TEXT, val: Kedvenc kora
+key: KEYCHANGE_DOWN2, val: Hátra
+key: ACCE_COMBINE, val: Kombináció
+key: KEYCHANGE_DSS2, val: DS [Föld]
+key: HELP_CONTROL_CAMERA_BY_RIGHTBUTTON, val: Alternatív kameraállás: hozzárendelés a jobb vagy bal egérgombhoz
+key: KEYCHANGE_SHOW_NAME, val: Nevek mutatása
+key: MINI_GAME_RUMI_RBUTTON_DESC, val: Jobb kattintás kártya elvetéséhez
+key: ACCE_RESULT, val: Eredmény
+key: MAILBOX_POST_WRITE_TO, val: Címzett
+key: GUILD_WAR_TYPE_TIGER, val: Megsemmisítés
+key: JOBDESC_SHAMAN_PATH, val: locale/hu/jobdesc_shaman.txt
+key: CHARACTER_NORMAL_ACTION, val: Normál akció
+key: MINI_GAME_YUTNORI_PROB_DESC, val: Válassz egy Yut értéket, aminek emelkedjen az esélye dobáskor.
+key: GAME_QUEST, val: Feladat
+key: MINI_BOSS_DUNGEON_TITLE_NAME, val: Név
+key: GUILD_BASEINFO_LANDSCAPE, val: Egyéb
+key: LOGIN_SELECT_EXIT, val: Bezár
+key: COMB_APPEARANCE, val: Cél
+key: PARTY_MATCH_TEXT_ENTREE_LEVEL, val: Szint: %d
+key: ROULETTE_SPECIAL_TITLE, val: Jutalmak (%s)
+key: MC_POLY_BUTTON, val: Átváltozás
+key: QUEST_UI_TEXT_SCROLL, val: Missziókönyv küldetések
+key: CHATTING_SETTING_PARTY, val: Csoport
+key: GRAPHICONOFF_DROP_ITEM_LEVEL5_TOOLTIP, val: Tárgyak & nevek elrejtése
+key: GUILD_MEMBER_LEVEL, val: Szint
+key: LOCALE_INTERFACE_FILE_NAME, val: locale/hu/locale_interface.txt
+key: ZONE_MAP, val: Nagy térkép
+key: LOOTING_SYSTEM_CATEGORY_COMMON_ROD, val: Horgászbotok
+key: PASSIVE_ATTR_ACTIVATE_BUTTON, val: Aktivál
+key: STRUCTURE_VIEW_TYPE_STRUCTURE, val: Elrejt
+key: AUTOBAN_QUIZ_REST_TIME, val: REST_TIME
+key: GUILD_INFO_MASTER_VALUE, val: Vezetõ
+key: LANGUAGE_RU, val: Orosz
+key: GUILD_WAR_JOINMEMBER_COUNT, val: Tagok
+key: OPTION_SHADOW_TARGET_NONE_TOOLTIP, val: Nincs árnyék
+key: MISTS_ISLAND_INFO_TEXT, val: Rang/státusz információ
+key: OK, val: OK
+key: HELP_KEYSETTING, val: Kicserélheted a rögzített billentyûidet a játék beállításokban.
+key: BATTLE_ROYALE_MAINBUTTON_RANKING, val: Ranglista
+key: GUILD_WAR_DECLARE, val: Céh háborút kinyilvánít
+key: FLOWER_EVENT_SHOOT_DAFFODIL_TEXT, val: Nárcisz hajtás
+key: GUILD_DONATE_MY_MEDAL_OF_HONOR, val: Bátorság medáljaim
+key: KEYCHANGE_CAM_ZOOM_IN1, val: Kamera (közelít)
+key: MISTS_ISLAND_TITLE_SCORE, val: Áttekintés
+key: ROULETTE_SPIN_TEXT1, val: FORGAT
+key: PET_INFORMATION_LIFE, val: Idõtartam
+key: DRAGON_GATE_BASE_NAME, val: 
+key: GUILD_BANK_CLOSE, val: Bezár
+key: REFINE_ELEMENT_CHANGE_ICE, val: Jég
+key: GRAPHICONOFF_EFFECT_LEVEL4_TOOLTIP, val: Csak saját
+key: GUILD_WAR_SCORE, val: Csatajelentés
+key: GUILD_SKILL_STATE, val: Céh képesség
+key: MC_ACHIEV_SORT_REGIST, val: Aktiválható
+key: MAILBOX_POST_SEND_TITLE, val: Üzenet
+key: GUILD_INFO_MASTER, val: Vezetõ
+key: HELP_QUICKSLOT, val: Gyors elérési mezõk
+key: MINI_BOSS_DUNGEON_DESC, val: locale/hu/mini_bossdungeon_event_desc.txt
+key: MESSENGER_MOBILE, val: SMS köldés
+key: MC_ACHIEV_SORT_ABLE_REGIST, val: Bevált
+key: OPTION_VIEW_CHAT_ON, val: Mutat
+key: DRAGON_GATE_SIDE_NAME_BY_INDEX, val: 
+key: MAILBOX_POST_READ_DELETE, val: Töröl
+key: ACCEPT, val: OK
+key: MISTS_ISLAND_END_TIME, val: Befejezés ideje
+key: MAILBOX_POST_ALL_RECEIVE, val: Összes begyûjtése
+key: MC_ACHIEV_DUNGEON_BONUS, val: Kazamata bónusz
+key: GUILD_DROP_RESOURCE2, val: Erõforrás eldobás
+key: PRIVATESHOPSEARCH_JOB, val: Osztály
+key: CZ_REWARD_WINDOW_TITLE, val: Zodiákus templom
+key: SUNGMAHEE_TOWER_MISSION_TYPE_FINDING_RIGHT_MATCH_METIN_STONE_FAIL, val: Öld meg az összes szörnyet!
+key: WHISPER_SEND, val: Küld
+key: LOOTING_SYSTEM_CATEGORY_COSTUME, val: Öltözék
+key: LOOTING_SYSTEM_INIT_QUESTION_DIALOG_TITLE, val: Szeretnéd az alapértelmezett beállításokat visszaállítani?
+key: LUCKY_BOX_NOTICE_YANG, val: Új tárgy választásának Yang költsége
+key: BANNER_FLOWER_BUTTON, val: VIRÁGOK EREJE
+key: GUILD_RESOURCE_INFO, val: Forrás információk
+key: SUNGMAHEE_TOWER_MY_RANK_TITLE, val: Helyezés
+key: BNW_RANK_UI_COUNT, val: Adományok
+key: REFINE_ELEMENT_DOWNGRADE_TITLE, val: Visszafejlesztés
+key: OPTION_ENV_EFFECT, val: Környezet
+key: LANGUAGE_GR, val: Görög
+key: SHOP_SELL, val: Elad
+key: KEYCHANGE_CLEAR, val: Standard
+key: GUILD_SKIlL_HEAL_GSP, val: Feltölteni
+key: WORLD_BOSS_RANK_TIER, val: Zsákmány szint
+key: OPTION_MOB_INFO, val: Szörny-infó
+key: GUILD_WATER, val: Víz
+key: GUILD_DRAGONLAIR_RANKING_TIME, val: Idõ
+key: SHOP_BUY, val: Vásárol
+key: GUILD_SKILL_POWER, val: Energia
+key: MINI_BOSS_TITLE, val: Zodiákus Apokalipszis
+key: BANNER_MINIBOSS_BUTTON, val: Zodiákus Apokalipszis
+key: GUILD_BANK_INFO, val: Tárolóoldal:
+key: GRAPHICONOFF_PET_STATUS, val: Kedvencek
+key: LOGIN_ID, val: Felhasználónév
+key: OPTION_SHADOW_QUALITY_AVERAGE_TOOLTIP, val: Közepes árnyékminõség
+key: GUILD_BUILDING_DIRECTION, val: Irány
+key: MC_ACHIEV_DUNGEON, val: Kazamata eredmények
+key: PARTY_MATCH_TEXT_REQUIRED_ITEMS, val: Szükséges tárgy
+key: CHATTING_SETTING_GOLD, val: Pénz
+key: HELP_OPEN_INVENTORY, val: Leltár ablak megnyitása: I
+key: LOAD_ERROR, val: Az adatfájl megsérült. Installáld újra a klienst. Nyomd meg az ESC gombot.
+key: SYSTEM_OPTION, val: Rendszer opciók
+key: __name__, val: uiScriptLocale
+key: HELP_OPEN_CHARACTER, val: Karakter ablak megnyitása: C
+key: KEYCHANGE_MINIMAP_PLUS, val: Minitérkép (+)
+key: GRAPHICONOFF_PET_STATUS_ON_TOOLTIP, val: Kedvencek mutatása
+key: BATTLE_FIELD_OPERATION_TIME_OPEN, val: Megnyílik a belépésre %s óra múlva %s órára.
+key: SKILL_SUPPORT_TITLE, val: Standard készségek
+key: SUNGMAHEE_TOWER_MISSION_TYPE_SURVIVE, val: Verj vissza minden támadást!
+key: ATTR_67_ADD_TITLE, val: Bónusz hozzáadása
+key: MC_ACHIEV_APPLYING, val: Aktív
+key: SYSTEM_LOGOUT, val: Kilépés
+key: MYSHOP_DECO_SELECT_TITLE, val: Válaszd ki neved megjelenését!
+key: OPTION_BLOCK_PARTY_REQUEST, val: Kérés
+key: DRAGONSOUL_CHANGE_ATTR_WINDOW_TITLE, val: Mitikus sárkánykõ bónuszának megváltoztatása
+key: REFINE_TTILE, val: Javítások
+key: WORLD_BOSS_TITLE, val: Megafõszörny legyõzve
+key: KEYCHANGE_EMOTION3, val: Érzelem (zene)
+key: GUILD_DRAGONLAIR_RANKING, val: Helyezések
+key: BANNER_MONSTERBACK_BUTTON, val: Ütéspontok beváltása
+key: CREATE_PREV, val: Vissza
+key: MISTS_ISLAND_EMPIRE_NAME, val: Birodalom neve
+key: MAPNAME_PATH, val: locale/hu/ui/mapname/
+key: PREMIUM_PRIVATE_SHOP_NOTICE_NO_TICKET, val: Nincs jegy
+key: OPTION_PVPMODE_REVENGE, val: Ellenség
+key: HELP_CHARACTER_BUTTON2, val: Barátlista és Beállítások)
+key: HELP_CHARACTER_BUTTON1, val: (Karakter ablak, Leltár ablak,
+key: NO, val: Nem
+key: WORLD_BOSS_BREAK_TIME_TEXT, val: Várakozás
+key: EXIT_BATTLE_FIELD, val: Tényleg el szeretnéd hagyni a Harci övezetet?
+key: LOOTING_SYSTEM_QUESTION_EVENT, val: Itt tudod beállítani a rendezvény tárgyak begyûjtésének részleteit.
+key: TASKBAR_DISABLE, val: Kikapcsolva
+key: EVENT_ALARM_TITLE, val: Rendezvények áttekintése
+key: WARP_MI_LABEL, val: A megtámadott szentélyhez
+key: MISTS_ISLAND_EXIT, val: Kilépés
+key: PET_INFORMATION_SP, val: MP
+key: BATTLE_ROYALE_RETURN_TO_TOWN, val: Visszatérés a faluba
+key: LOOTING_SYSTEM_EXIT_WITHOUT_SAVING, val: Kilépés mentés nélkül?
+key: LOGIN_CONNECT, val: Csatlakozik
+key: GRAPHICONOFF_EFFECT_LEVEL1_TOOLTIP, val: Mindent mutat
+key: OPTION_ENV_EFFECT_ON, val: Be
+key: PARTY_MATCH_TEXT_LEVEL_LIMIT, val: Szint követelmény
+key: CHAT_FILTER, val: Csetszûrõ
+key: REFINE_MONEY, val: Nemesítési díj
+key: MYSHOP_DECO_PREV, val: Vissza
+key: PICK_MONEY_TITLE, val: Feloszt
+key: STRUCTURE_VIEW_MODE, val: Dekoráció
+key: OPTION_ALWAYS_SHOW_NAME_ON, val: Mindig
+key: FLOWER_EVENT_SHOOT_CHRYSANTHEMUM_TEXT, val: Krizantém hajtás
+key: GRAPHICONOFF_DROP_ITEM_LEVEL2_TOOLTIP, val: Effekt elrejtése
+key: GUILD_BUILDING_OPERATE, val: Kiszolgál
+key: WHISPER_NAME, val: Suttogás
+key: CLOSE, val: Bezár
+key: GUILD_MINENAL, val: Ásvány
+key: GUILD_BANKINFO_USETYPE, val: Akció
+key: MINI_GAME_BLACK_AND_WHITE_WAITTING_TITLE, val: Látók párbaja
+key: OPTION_SALESTEXT_VIEW_OFF, val: Elrejt
+key: MYSHOP_DECO_OK, val: Megerõsít
+key: OPTION_ENV_EFFECT_OFF, val: Ki
 key: GUILD_DONATE_GET_MEDAL_OF_HONOR, val: %d
-key: MISTS_ISLAND_SCORE, val: Pontuação
-key: KEYCHANGE_INGAMEEVENT, val: Evento
-key: OPTION_SHADOW_TARGET, val: Sombras
-key: GUILD_WAR_GAINSCORE_THIRTY, val: 30 pontos
-key: END_TIME, val: Evento ativo até END_TIME
-key: GUILD_BUILDING_REFRESH, val: Atualizar <F5>
-key: GUILD_WATER_STONE, val: Pedra d'água
+key: MISTS_ISLAND_SCORE, val: Pontszám
+key: KEYCHANGE_INGAMEEVENT, val: RENDEZVÉNY
+key: SUNGMAHEE_TOWER_ELEMENT_TITLE, val: Elemek a szinten
+key: ATTR_67_ADD, val: Bónusz hozzáadása
+key: GUILD_WAR_GAINSCORE_THIRTY, val: 30
+key: LOOTING_SYSTEM_CATEGORY_COMMON_FOOTS, val: Cipõk
+key: LOOTING_SYSTEM_EVENT, val: Rendezvény tárgy
+key: LANGUAGE_NL, val: Holland
+key: END_TIME, val: Aktív rendezvény
+key: GUILD_BUILDING_REFRESH, val: Frissít
+key: GUILD_WATER_STONE, val: Aqua kõ
+key: SUNGMAHEE_TOWER_MISSION_TYPE_MONSTER_CHESS, val: Ölj meg egy szörnypárost, melyek nem tartoznak össze!
 key: OPTION_SHADOW_TARGET_NONE, val: 1
-key: HELP_MOUSE_RIGHT, val: Função [Botão Direito do Mouse]
-key: PASSWORD_TITLE, val: Senha do Armazém
-key: SELECT_LEVEL, val: Nível
-key: KEYCHANGE_AUTORUN, val: Corrida Auto
-key: BANNER_MINIBOSS_BUTTON, val: BOSS DUNGEON
-key: MESSENGER_ADD_FRIEND, val: Adicionar contato
-key: SELECT_NO_GUILD, val: Sem guilda
-key: SELECT_DEX_GRADE, val: DES
-key: PET_HATCHING_NIK, val: Nickname
-key: HELP_MOUSE_LEFT, val: Função [Botão Esquerdo do Mouse]
-key: PET_HATCHING_WINDOW_TITLE, val: Incubadora
-key: MARKLIST_REFRESH, val: Atualizar
-key: MAILBOX_POST_READ_TITLE, val: Título
-key: HELP_OPEN_MINIMAP, val: <Shift>+<M> abre e fecha o Mini-Mapa
-key: GUILD_BUILDING_POSITION, val: Localização
-key: KEYCHANGE_INTERFACE, val: Interface
-key: YUTNORI_EVENT_DESC, val: locale/br/yutnori_event_desc.txt
-key: COMB_SKILLBOOK_TILE, val: Trocar Livros
-key: CHARACTER_ACTION, val: Ações
-key: JOBDESC_WARRIOR_PATH, val: locale/br/jobdesc_warrior.txt
-key: RESTART_IMMEDIATE, val: O Player que Renasce
-key: HELP_HP, val: HP
-key: MINI_GAME_FISH_TITLE, val: Evento de Pesca
-key: CREATE_NAME, val: Nome
-key: PET_ATTR_OK, val: Confirmar
-key: CUBE_REQUIRE_MATERIAL, val: Requirements
-key: BANNER_SOUL_BUTTON, val: Magatama
-key: MINI_GAME_CHALLENGE_BUTTON_TEXT, val: Desafiar
-key: HELP_SKILL, val: Habilidade
-key: OPTION_SALESTEXT_VIEW_ON, val: Mostrar
-key: MINI_GAME_RUMI_EXIT, val: Sair
-key: GUILD_BUILDING_NAME, val: Nome
-key: EMPIRE_NEXT, val: Próximo
-key: ATTENDANCE_DESC, val: locale/br/attendance_desc.txt
-key: GUILD_BASENAME, val: Nome
-key: PRIVATESHOPSEARCH_ITEMNAME, val: Itens Nome
-key: BATTLE_FILED_RANK_EMPIRE, val: Reino
-key: HELP_MINIMAP, val: - Exibe o mini mapa
-key: PRIVATE_SHOP_NAME, val: Nome da loja
-key: OPTION_LANGUAGE_CHANGE, val: Apply
-key: PET_CHANGE_TEXT, val: Pet que será alterado
-key: KEYCHANGE_SLOT6, val: Slot6
+key: HELP_MOUSE_RIGHT, val: Jobb egérgomb funkció
+key: LOOTING_SYSTEM_CATEGORY_COSTUME_ACCE, val: Vállpántok
+key: PASSWORD_TITLE, val: Jelszó mentés
+key: LOOTING_SYSTEM_CATEGORY_JOB_SURA, val: Sura
+key: KEYCHANGE_AUTORUN, val: Auto. futás
+key: GUILD_MEMBER_SPECIFIC_GRAVITY, val: Befektet.
+key: MESSENGER_ADD_FRIEND, val: Barát hozzáadása
+key: SELECT_NO_GUILD, val: Nincs céh
+key: GUILD_WAR_GAMETIME, val: Csata ideje
+key: HELP_ATTACK, val: Egérkattintásonként egyszeri támadást aktivál.
+key: HELP_MOUSE_LEFT, val: Bal egérgomb funkció
+key: PET_HATCHING_WINDOW_TITLE, val: Inkubátor
+key: CHATTING_SETTING_LANGUAGE_CUR, val: Jelenlegi nyelv ( %s )
+key: MARKLIST_REFRESH, val: Aktualizál
+key: MAILBOX_POST_READ_TITLE, val: Tárgy
+key: HELP_OPEN_MINIMAP, val: Mini térkép megnyitása: Shift + M
+key: OPTION_TARGET_BOARD_NO_VIEW, val: Bezár
+key: GUILD_BUILDING_POSITION, val: Fekvés
+key: KEYCHANGE_INTERFACE, val: Ablak
+key: YUTNORI_EVENT_DESC, val: locale/hu/yutnori_event_desc.txt
+key: COMB_SKILLBOOK_TILE, val: Könyvekkel üzletelni
+key: CHARACTER_ACTION, val: Akció
+key: JOBDESC_WARRIOR_PATH, val: locale/hu/jobdesc_warrior.txt
+key: RESTART_IMMEDIATE, val: Újraélesztõ
+key: HELP_HP, val: Életerõ (TP)
+key: MINI_GAME_FISH_TITLE, val: Hal-kirakós
+key: CREATE_NAME, val: Név
+key: PET_ATTR_OK, val: Bezár
+key: CUBE_REQUIRE_MATERIAL, val: Szükséges anyagok
+key: CHATTING_SETTING_LIST, val: Lista
+key: BANNER_SOUL_BUTTON, val: LÉLEK RENDEZVÉNY
+key: HELP_SKILL, val: Itt használhatsz egy készséget a jobb egérgombbal.
+key: SELECT_ATTR_CHANGED, val: Új
+key: OPTION_SALESTEXT_VIEW_ON, val: Mutat
+key: MINI_GAME_RUMI_EXIT, val: Vége
+key: GUILD_BUILDING_NAME, val: Épület név
+key: EMPIRE_NEXT, val: Tovább
+key: ATTENDANCE_DESC, val: locale/hu/attendance_desc.txt
+key: LOGIN_DEFAULT_SERVERADDR, val: Szervernév, 1. csatorna
+key: KEYCHANGE_STATUS_WINDOW, val: Karakter
+key: LANGUAGE_CZ, val: Cseh
+key: LOOTING_SYSTEM_CATEGORY_COMMON_WRIST, val: Karkötõk
+key: HELP_MINIMAP, val: Megmutatja a minitérképet.
+key: PRIVATE_SHOP_NAME, val: Bolt neve
+key: OPTION_LANGUAGE_CHANGE, val: OK
+key: PREMIUM_PRIVATE_SHOP_NOTICE_NONE, val: A magánbolt nincs nyitva.
+key: PET_CHANGE_TEXT, val: Házikedvenc
+key: KEYCHANGE_SLOT6, val: 6-os hely
 key: __test__, val: {}
-key: MINI_GAME_CATCHKING_REWARD, val: Pegar recompensar
-key: OPTION_BLOCK_GUILD, val: Guilda
-key: BANNER_RAMADAN_BUTTON, val: Ramadã
-key: GUILD_BOARD_TEXT, val: Mensagem
-key: MINI_GAME_RUMI_TITLE, val: Okey - Metin 2
-key: GUILD_INFO_MASTER, val: Líder
-key: MAILBOX_POST_READ_DELETE, val: Deletar
-key: PET_INFORMATION_SKILL, val: Habilidades
-key: GUILD_DROP_RESOURCE2, val: Aqui
-key: LUCKY_BOX_RECV_BUTTON, val: Receber item
-key: GUILD_DROP_RESOURCE1, val: Recursos de Drop
-key: CHANGE_PASSWORD_NEW, val: Nova senha
-key: BATTLE_FIELD_OPERATION_TIME_ALL, val: Aberto : Todo o tempo
-key: BANNER_ATTENDANCE_BUTTON, val: Quest Diária
-key: SYSTEM_LOGOUT, val: Logout
-key: MALL_PASSWORD_TITLE, val: Senha
-key: GRAPHICONOFF_EFFECT_LEVEL2_TOOLTIP, val: Mostrar apenas meus efeitos e de monstros
-key: GUILD_GRADE_PERMISSION_BANK, val: Banco
-key: MINI_GAME_CHALLENGE_GAME_TAB_CHECK_TEXT, val: Desafio instantâneo
-key: BANNER_EASTER_BUTTON, val: Páscoa
-key: DESC_BATTLE_FIELD_PATH, val: locale/br/desc_battle_field.txt
-key: KEYCHANGE_QUICKSLOT1, val: Trocar Slot1
-key: GUILD_MINENAL, val: Mineral
-key: GUILD_DRAGONLAIR_RANKING_COUNT, val: Ranking
-key: BANNER_OKEY_BUTTON, val: Okey Evento
-key: KEYCHANGE_CHAT_WINDOW, val: Chat
-key: GUILD_WAR_GAINSCORE, val: Placar
-key: GUILD_BANKINFO_CLOSE, val: Fechar
-key: OPTION_VIEW_CHAT_ON, val: Exibir
-key: CUBE_INFO_TITLE, val: Recipe
-key: MINI_GAME_BLACK_AND_WHITE_REWARD_TRADE, val: Trocar Prêmio
+key: MINI_GAME_CATCHKING_REWARD, val: Jutalmad
+key: GUILD_BUILDING_CHANGE_DELETE, val: Töröl
+key: SUNGMAHEE_TOWER_ELEMENT_ALL, val: Összes
+key: BANNER_RAMADAN_BUTTON, val: RAMADÁN
+key: GUILD_BOARD_TEXT, val: Üzenet
+key: MINI_GAME_RUMI_TITLE, val: Metin2 Okey kártyajáték
+key: AUTOBAN_QUIZ_REFRESH, val: REFRESH
+key: CHATTING_SETTING_SYSTEM, val: Rendszer
+key: PET_INFORMATION_SKILL, val: Készség
+key: FRAGMENT_COMB_TITLE, val: Készségkönyvek kombinálása
+key: LUCKY_BOX_RECV_BUTTON, val: Tárgy elfogadása
+key: GUILD_DROP_RESOURCE1, val: itt
+key: CHANGE_PASSWORD_NEW, val: Új jelszó
+key: BANNER_BATTLE_ROYALE_BUTTON, val: Battle Royale
+key: BANNER_ATTENDANCE_BUTTON, val: Fõszörny-kaszáló esemény
+key: SUNGMAHEE_TOWER_DUNGEON_EXIT_QUESTION, val: Szeretnéd feladni a kihívást?
+key: PREMIUM_PRIVATE_SHOP_REOPEN_BUTTON, val: Megnyit
+key: SUNGMAHEE_TOWER_MISSION_TYPE_DEBUFF_RELEASE, val: Öld meg az összes szörnyet!
+key: MINI_BOSS_DUNGEON_TITLE_POINT, val: Apokalipszis-pontok
+key: MALL_PASSWORD_TITLE, val: Jelszó
+key: GRAPHICONOFF_EFFECT_LEVEL2_TOOLTIP, val: Csak a saját és a szörnyek effektjei
+key: GUILD_GRADE_PERMISSION_BANK, val: Használhatja a céhbankot és -raktárat
+key: LOOTING_SYSTEM_UNIQUE, val: Egyedi
+key: BANNER_EASTER_BUTTON, val: HÚSVÉT
+key: DESC_BATTLE_FIELD_PATH, val: locale/hu/desc_battle_field.txt
+key: KEYCHANGE_QUICKSLOT1, val: 1-es szint
+key: GUILD_BASEINFO_BANK, val: Céhraktár
+key: GUILD_DRAGONLAIR_RANKING_COUNT, val: Rang
+key: BANNER_OKEY_BUTTON, val: Okey esemény
+key: KEYCHANGE_CHAT_WINDOW, val: Csetlog
+key: WORLD_BOSS_TOTAL_DAMAGE_TEXT, val: Összes sebzés
+key: GUILD_WAR_GAINSCORE, val: Pontok
+key: REFINE_COST, val: Javítási költségek: 0 Yang
+key: GUILD_BANKINFO_CLOSE, val: Bezár
+key: CREATE_HP, val: VIT
+key: CUBE_INFO_TITLE, val: Finomítási kézikönyv
+key: MINI_GAME_BLACK_AND_WHITE_REWARD_TRADE, val: Díjak
 key: OPTION_SHADOW_TARGET_GROUND_AND_SOLO, val: 3
-key: RESTART_TOWN, val: Retornar na cidade
-key: KEYCHANGE_INVENTORY_WINDOW, val: Inventário
-key: GUILD_WAR_CTF, val: Captura
-key: OPTION_TARGET_BOARD_NO_VIEW, val: Ocultar
-key: OPTION_NAME_COLOR_EMPIRE, val: Reino
-key: AUTO_ON, val: On
-key: GUILD_INFO_NAME_VALUE, val: Nome
-key: OPTION_ALWAYS_SHOW_NAME_OFF, val: Tecla <Alt>
-key: GRAPHICONOFF_NPC_NAME_STATUS_OFF_TOOLTIP, val: Esconder nome de NPCs
+key: PREMIUM_PRIVATE_SHOP_REMAIN_TEXT_ICON, val: Hátralévõ idõ
+key: OPTION_LOOTING_SETTING, val: Zsákmány
+key: RESTART_TOWN, val: Újraindít a városban
+key: KEYCHANGE_INVENTORY_WINDOW, val: Leltár
+key: SUNGMAHEE_TOWER_INFO_BOARD_FLOOR, val: E%d
+key: GUILD_BUILDING_LIST_TITLE, val: Épület lista
+key: CHATTING_SETTING_CANCLE, val: Visszaállít
+key: OPTION_NAME_COLOR_EMPIRE, val: Birod. Szín
+key: KEYCHANGE_QUICKSLOT4, val: 4-es szint
+key: AUTO_ON, val: Be
+key: GUILD_INFO_NAME_VALUE, val: Ez egy céh név
+key: OPTION_ALWAYS_SHOW_NAME_OFF, val: Korlátozott
+key: GRAPHICONOFF_NPC_NAME_STATUS_OFF_TOOLTIP, val: NPC nevek elrejtése
 
 

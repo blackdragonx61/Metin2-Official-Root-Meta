@@ -7,7 +7,7 @@ key: MAX_BELT_IMPROVE_ITEM_QUANTITY, val: 40
 key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: ItemCategoryGroup, val: <class 'uiCubeRenewal.ItemCategoryGroup'>
-key: wraps, val: <function wraps at 0x08814CB0>
+key: wraps, val: <function wraps at 0x07F03CF0>
 key: BELT_IMPROVE_ITEM_VNUM, val: (79605,)
 key: ime, val: <module 'ime' (built-in)>
 key: grp, val: <module 'grp' (built-in)>
@@ -40,7 +40,7 @@ key: ItemDetailObject, val: <class 'uiCubeRenewal.ItemDetailObject'>
 
 
 class ItemCategoryGroup:
-closer,		<cyfunction ItemCategoryGroup.closer at 0x08D727C0>
+closer,		<cyfunction ItemCategoryGroup.closer at 0x1A13BEF8>
 	arg0: self
 	arg1: a1
 	arg2: a2
@@ -48,7 +48,7 @@ closer,		<cyfunction ItemCategoryGroup.closer at 0x08D727C0>
 
 submodule.closer
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryGroup instance as first argument (got nothing instead)
-CloseMenu,		<cyfunction ItemCategoryGroup.CloseMenu at 0x08D725B0>
+CloseMenu,		<cyfunction ItemCategoryGroup.CloseMenu at 0x1A13BCE8>
 	arg0: self
 
 submodule.CloseMenu
@@ -58,30 +58,30 @@ __module__,		uiCubeRenewal
 submodule.__module__
 
 
-OnListScrollMove,		<cyfunction ItemCategoryGroup.OnListScrollMove at 0x08D72768>
+OnListScrollMove,		<cyfunction ItemCategoryGroup.OnListScrollMove at 0x1A13BEA0>
 	arg0: self
 
 submodule.OnListScrollMove
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryGroup instance as first argument (got nothing instead)
-binary_search,		<cyfunction ItemCategoryGroup.binary_search at 0x08D72818>
+binary_search,		<cyfunction ItemCategoryGroup.binary_search at 0x1A13BF50>
 	arg0: self
 	arg1: A
 	arg2: B
 
 submodule.binary_search
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryGroup instance as first argument (got nothing instead)
-__del__,		<cyfunction ItemCategoryGroup.__del__ at 0x08D72500>
+__del__,		<cyfunction ItemCategoryGroup.__del__ at 0x1A13BC38>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryGroup instance as first argument (got nothing instead)
-AddItem,		<cyfunction ItemCategoryGroup.AddItem at 0x08D72608>
+AddItem,		<cyfunction ItemCategoryGroup.AddItem at 0x1A13BD40>
 	arg0: self
 	arg1: cube_item
 
 submodule.AddItem
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryGroup instance as first argument (got nothing instead)
-Refresh,		<cyfunction ItemCategoryGroup.Refresh at 0x08D72710>
+Refresh,		<cyfunction ItemCategoryGroup.Refresh at 0x1A13BE48>
 	arg0: self
 	arg1: pivot_y
 	default: 0
@@ -93,25 +93,25 @@ __qualname__,		ItemCategoryGroup
 submodule.__qualname__
 
 
-SelectItem,		<cyfunction ItemCategoryGroup.SelectItem at 0x08D72870>
+SelectItem,		<cyfunction ItemCategoryGroup.SelectItem at 0x1A13BFA8>
 	arg0: self
 	arg1: list_index
 	arg2: selected
 
 submodule.SelectItem
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryGroup instance as first argument (got nothing instead)
-ClearItemList,		<cyfunction ItemCategoryGroup.ClearItemList at 0x08D726B8>
+ClearItemList,		<cyfunction ItemCategoryGroup.ClearItemList at 0x1A13BDF0>
 	arg0: self
 
 submodule.ClearItemList
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryGroup instance as first argument (got nothing instead)
-RegisterScrollBar,		<cyfunction ItemCategoryGroup.RegisterScrollBar at 0x08D72558>
+RegisterScrollBar,		<cyfunction ItemCategoryGroup.RegisterScrollBar at 0x1A13BC90>
 	arg0: self
 	arg1: scroll_bar
 
 submodule.RegisterScrollBar
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryGroup instance as first argument (got nothing instead)
-GetRecentlyAddedDetailObject,		<cyfunction ItemCategoryGroup.GetRecentlyAddedDetailObject at 0x08D72660>
+GetRecentlyAddedDetailObject,		<cyfunction ItemCategoryGroup.GetRecentlyAddedDetailObject at 0x1A13BD98>
 	arg0: self
 	arg1: group
 	default: None
@@ -123,7 +123,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ItemCategoryGroup.__init__ at 0x08D724A8>
+__init__,		<cyfunction ItemCategoryGroup.__init__ at 0x1A13BBE0>
 	arg0: self
 	arg1: parent
 
@@ -132,7 +132,7 @@ Skipped: unbound method cython_function_or_method object must be called with Ite
 
 
 class ItemDetailGroup:
-CloseItem,		<cyfunction ItemDetailGroup.CloseItem at 0x08D72D40>
+CloseItem,		<cyfunction ItemDetailGroup.CloseItem at 0x1A13D4A8>
 	arg0: self
 
 submodule.CloseItem
@@ -142,17 +142,17 @@ __module__,		uiCubeRenewal
 submodule.__module__
 
 
-OpenItem,		<cyfunction ItemDetailGroup.OpenItem at 0x08D72D98>
+OpenItem,		<cyfunction ItemDetailGroup.OpenItem at 0x1A13D500>
 	arg0: self
 
 submodule.OpenItem
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailGroup instance as first argument (got nothing instead)
-__del__,		<cyfunction ItemDetailGroup.__del__ at 0x08D72C38>
+__del__,		<cyfunction ItemDetailGroup.__del__ at 0x1A13D3A0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailGroup instance as first argument (got nothing instead)
-AddItem,		<cyfunction ItemDetailGroup.AddItem at 0x08D72C90>
+AddItem,		<cyfunction ItemDetailGroup.AddItem at 0x1A13D3F8>
 	arg0: self
 	arg1: cube_item
 
@@ -163,12 +163,12 @@ __qualname__,		ItemDetailGroup
 submodule.__qualname__
 
 
-ClickFunc,		<cyfunction ItemDetailGroup.ClickFunc at 0x08D72DF0>
+ClickFunc,		<cyfunction ItemDetailGroup.ClickFunc at 0x1A13D558>
 	arg0: self
 
 submodule.ClickFunc
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailGroup instance as first argument (got nothing instead)
-ClearItemList,		<cyfunction ItemDetailGroup.ClearItemList at 0x08D72CE8>
+ClearItemList,		<cyfunction ItemDetailGroup.ClearItemList at 0x1A13D450>
 	arg0: self
 
 submodule.ClearItemList
@@ -178,7 +178,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ItemDetailGroup.__init__ at 0x08D72BE0>
+__init__,		<cyfunction ItemDetailGroup.__init__ at 0x1A13D348>
 	arg0: self
 	arg1: parent
 	arg2: cube_item
@@ -193,7 +193,7 @@ __qualname__,		ItemCategoryObject
 submodule.__qualname__
 
 
-ShowOpendImg,		<cyfunction ItemCategoryObject.ShowOpendImg at 0x08D71D40>
+ShowOpendImg,		<cyfunction ItemCategoryObject.ShowOpendImg at 0x1A13B4A8>
 	arg0: self
 
 submodule.ShowOpendImg
@@ -203,12 +203,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__del__,		<cyfunction ItemCategoryObject.__del__ at 0x08D71C90>
+__del__,		<cyfunction ItemCategoryObject.__del__ at 0x1A13B3F8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryObject instance as first argument (got nothing instead)
-_ItemCategoryObject__CreateObject,		<cyfunction ItemCategoryObject.__CreateObject at 0x08D71CE8>
+_ItemCategoryObject__CreateObject,		<cyfunction ItemCategoryObject.__CreateObject at 0x1A13B450>
 	arg0: self
 
 submodule._ItemCategoryObject__CreateObject
@@ -218,14 +218,14 @@ __module__,		uiCubeRenewal
 submodule.__module__
 
 
-__init__,		<cyfunction ItemCategoryObject.__init__ at 0x08D71C38>
+__init__,		<cyfunction ItemCategoryObject.__init__ at 0x1A13B3A0>
 	arg0: self
 	arg1: parent
 	arg2: item_category
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with ItemCategoryObject instance as first argument (got nothing instead)
-ShowClosedImg,		<cyfunction ItemCategoryObject.ShowClosedImg at 0x08D71D98>
+ShowClosedImg,		<cyfunction ItemCategoryObject.ShowClosedImg at 0x1A13B500>
 	arg0: self
 
 submodule.ShowClosedImg
@@ -238,92 +238,92 @@ __module__,		uiCubeRenewal
 submodule.__module__
 
 
-SelectItem,		<cyfunction CubeWindow.SelectItem at 0x08D710E0>
+SelectItem,		<cyfunction CubeWindow.SelectItem at 0x1A132818>
 	arg0: self
 	arg1: list_index
 	arg2: selected
 
 submodule.SelectItem
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-ActivateItemSlot,		<cyfunction CubeWindow.ActivateItemSlot at 0x08D71348>
+ActivateItemSlot,		<cyfunction CubeWindow.ActivateItemSlot at 0x1A132A80>
 	arg0: self
 	arg1: item_vnum
 	arg2: item_quantity
 
 submodule.ActivateItemSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OnClickResultQuantity,		<cyfunction CubeWindow.__OnClickResultQuantity at 0x08D717C0>
+_CubeWindow__OnClickResultQuantity,		<cyfunction CubeWindow.__OnClickResultQuantity at 0x1A132EF8>
 	arg0: self
 
 submodule._CubeWindow__OnClickResultQuantity
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-ClearActivatedSlots,		<cyfunction CubeWindow.ClearActivatedSlots at 0x08D713A0>
+ClearActivatedSlots,		<cyfunction CubeWindow.ClearActivatedSlots at 0x1A132AD8>
 	arg0: self
 
 submodule.ClearActivatedSlots
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction CubeWindow.Destroy at 0x08D66EF8>
+Destroy,		<cyfunction CubeWindow.Destroy at 0x1A132660>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction CubeWindow.OnMouseWheelButtonUp at 0x08D71B88>
+OnMouseWheelButtonUp,		<cyfunction CubeWindow.OnMouseWheelButtonUp at 0x1A13B2F0>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__LoadWindow,		<cyfunction CubeWindow.__LoadWindow at 0x08D71030>
+_CubeWindow__LoadWindow,		<cyfunction CubeWindow.__LoadWindow at 0x1A132768>
 	arg0: self
 
 submodule._CubeWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction CubeWindow.__init__ at 0x08D66D98>
+__init__,		<cyfunction CubeWindow.__init__ at 0x1A132500>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction CubeWindow.OnUpdate at 0x08D71088>
+OnUpdate,		<cyfunction CubeWindow.OnUpdate at 0x1A1327C0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OverInCubeMaterialSlot,		<cyfunction CubeWindow.__OverInCubeMaterialSlot at 0x08D714A8>
+_CubeWindow__OverInCubeMaterialSlot,		<cyfunction CubeWindow.__OverInCubeMaterialSlot at 0x1A132BE0>
 	arg0: self
 	arg1: material_idx
 
 submodule._CubeWindow__OverInCubeMaterialSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__UseItemSlot,		<cyfunction CubeWindow.__UseItemSlot at 0x08D71920>
+_CubeWindow__UseItemSlot,		<cyfunction CubeWindow.__UseItemSlot at 0x1A13B088>
 	arg0: self
 
 submodule._CubeWindow__UseItemSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OverInItem,		<cyfunction CubeWindow.__OverInItem at 0x08D71870>
+_CubeWindow__OverInItem,		<cyfunction CubeWindow.__OverInItem at 0x1A132FA8>
 	arg0: self
 
 submodule._CubeWindow__OverInItem
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OnResultQuantitySub,		<cyfunction CubeWindow.__OnResultQuantitySub at 0x08D715B0>
+_CubeWindow__OnResultQuantitySub,		<cyfunction CubeWindow.__OnResultQuantitySub at 0x1A132CE8>
 	arg0: self
 
 submodule._CubeWindow__OnResultQuantitySub
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-ClearBeltImproveSlot,		<cyfunction CubeWindow.ClearBeltImproveSlot at 0x08D71818>
+ClearBeltImproveSlot,		<cyfunction CubeWindow.ClearBeltImproveSlot at 0x1A132F50>
 	arg0: self
 
 submodule.ClearBeltImproveSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OverOutCubeMaterialSlot,		<cyfunction CubeWindow.__OverOutCubeMaterialSlot at 0x08D71500>
+_CubeWindow__OverOutCubeMaterialSlot,		<cyfunction CubeWindow.__OverOutCubeMaterialSlot at 0x1A132C38>
 	arg0: self
 
 submodule._CubeWindow__OverOutCubeMaterialSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OverOutItem,		<cyfunction CubeWindow.__OverOutItem at 0x08D718C8>
+_CubeWindow__OverOutItem,		<cyfunction CubeWindow.__OverOutItem at 0x1A13B030>
 	arg0: self
 
 submodule._CubeWindow__OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-GetPossibleMakeQuantity,		<cyfunction CubeWindow.GetPossibleMakeQuantity at 0x08D71298>
+GetPossibleMakeQuantity,		<cyfunction CubeWindow.GetPossibleMakeQuantity at 0x1A1329D0>
 	arg0: self
 	arg1: list_index
 
@@ -334,96 +334,96 @@ __doc__,		None
 submodule.__doc__
 
 
-RefreshRewardQuantity,		<cyfunction CubeWindow.RefreshRewardQuantity at 0x08D711E8>
+RefreshRewardQuantity,		<cyfunction CubeWindow.RefreshRewardQuantity at 0x1A132920>
 	arg0: self
 	arg1: list_index
 
 submodule.RefreshRewardQuantity
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-OnMouseWheelButtonDown,		<cyfunction CubeWindow.OnMouseWheelButtonDown at 0x08D71BE0>
+OnMouseWheelButtonDown,		<cyfunction CubeWindow.OnMouseWheelButtonDown at 0x1A13B348>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__SelectEmptySlot,		<cyfunction CubeWindow.__SelectEmptySlot at 0x08D71978>
+_CubeWindow__SelectEmptySlot,		<cyfunction CubeWindow.__SelectEmptySlot at 0x1A13B0E0>
 	arg0: self
 
 submodule._CubeWindow__SelectEmptySlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-LoadCubeData,		<cyfunction CubeWindow.LoadCubeData at 0x08D66FA8>
+LoadCubeData,		<cyfunction CubeWindow.LoadCubeData at 0x1A132710>
 	arg0: self
 	arg1: npc_vnum
 
 submodule.LoadCubeData
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction CubeWindow.__del__ at 0x08D66DF0>
+__del__,		<cyfunction CubeWindow.__del__ at 0x1A132558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-RefreshCubeWindow,		<cyfunction CubeWindow.RefreshCubeWindow at 0x08D71138>
+RefreshCubeWindow,		<cyfunction CubeWindow.RefreshCubeWindow at 0x1A132870>
 	arg0: self
 
 submodule.RefreshCubeWindow
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OverOutCubeRewardSlot,		<cyfunction CubeWindow.__OverOutCubeRewardSlot at 0x08D71450>
+_CubeWindow__OverOutCubeRewardSlot,		<cyfunction CubeWindow.__OverOutCubeRewardSlot at 0x1A132B88>
 	arg0: self
 
 submodule._CubeWindow__OverOutCubeRewardSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-Refresh,		<cyfunction CubeWindow.Refresh at 0x08D71B30>
+Refresh,		<cyfunction CubeWindow.Refresh at 0x1A13B298>
 	arg0: self
 
 submodule.Refresh
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-RefreshPossibleMakeQuantity,		<cyfunction CubeWindow.RefreshPossibleMakeQuantity at 0x08D71240>
+RefreshPossibleMakeQuantity,		<cyfunction CubeWindow.RefreshPossibleMakeQuantity at 0x1A132978>
 	arg0: self
 
 submodule.RefreshPossibleMakeQuantity
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OnResultQuantityChange,		<cyfunction CubeWindow.__OnResultQuantityChange at 0x08D71608>
+_CubeWindow__OnResultQuantityChange,		<cyfunction CubeWindow.__OnResultQuantityChange at 0x1A132D40>
 	arg0: self
 
 submodule._CubeWindow__OnResultQuantityChange
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-OnAcceptCubeMake,		<cyfunction CubeWindow.OnAcceptCubeMake at 0x08D71710>
+OnAcceptCubeMake,		<cyfunction CubeWindow.OnAcceptCubeMake at 0x1A132E48>
 	arg0: self
 
 submodule.OnAcceptCubeMake
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-ActivateSlot,		<cyfunction CubeWindow.ActivateSlot at 0x08D712F0>
+ActivateSlot,		<cyfunction CubeWindow.ActivateSlot at 0x1A132A28>
 	arg0: self
 	arg1: slot
 
 submodule.ActivateSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-SetInven,		<cyfunction CubeWindow.SetInven at 0x08D66F50>
+SetInven,		<cyfunction CubeWindow.SetInven at 0x1A1326B8>
 	arg0: self
 	arg1: inventory
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-OpenCubemakeQuestionDialog,		<cyfunction CubeWindow.OpenCubemakeQuestionDialog at 0x08D716B8>
+OpenCubemakeQuestionDialog,		<cyfunction CubeWindow.OpenCubemakeQuestionDialog at 0x1A132DF0>
 	arg0: self
 
 submodule.OpenCubemakeQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OnClickCancelButton,		<cyfunction CubeWindow.__OnClickCancelButton at 0x08D71768>
+_CubeWindow__OnClickCancelButton,		<cyfunction CubeWindow.__OnClickCancelButton at 0x1A132EA0>
 	arg0: self
 
 submodule._CubeWindow__OnClickCancelButton
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__SelectItemSlot,		<cyfunction CubeWindow.__SelectItemSlot at 0x08D719D0>
+_CubeWindow__SelectItemSlot,		<cyfunction CubeWindow.__SelectItemSlot at 0x1A13B138>
 	arg0: self
 
 submodule._CubeWindow__SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-CloseWithServerNotice,		<cyfunction CubeWindow.CloseWithServerNotice at 0x08D71AD8>
+CloseWithServerNotice,		<cyfunction CubeWindow.CloseWithServerNotice at 0x1A13B240>
 	arg0: self
 
 submodule.CloseWithServerNotice
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OnClickMakeButton,		<cyfunction CubeWindow.__OnClickMakeButton at 0x08D71660>
+_CubeWindow__OnClickMakeButton,		<cyfunction CubeWindow.__OnClickMakeButton at 0x1A132D98>
 	arg0: self
 
 submodule._CubeWindow__OnClickMakeButton
@@ -433,37 +433,37 @@ __qualname__,		CubeWindow
 submodule.__qualname__
 
 
-_CubeWindow__OnResultQuantityAdd,		<cyfunction CubeWindow.__OnResultQuantityAdd at 0x08D71558>
+_CubeWindow__OnResultQuantityAdd,		<cyfunction CubeWindow.__OnResultQuantityAdd at 0x1A132C90>
 	arg0: self
 
 submodule._CubeWindow__OnResultQuantityAdd
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__Initialize,		<cyfunction CubeWindow.__Initialize at 0x08D66E48>
+_CubeWindow__Initialize,		<cyfunction CubeWindow.__Initialize at 0x1A1325B0>
 	arg0: self
 
 submodule._CubeWindow__Initialize
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-Close,		<cyfunction CubeWindow.Close at 0x08D71A80>
+Close,		<cyfunction CubeWindow.Close at 0x1A13B1E8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-_CubeWindow__OverInCubeRewardSlot,		<cyfunction CubeWindow.__OverInCubeRewardSlot at 0x08D713F8>
+_CubeWindow__OverInCubeRewardSlot,		<cyfunction CubeWindow.__OverInCubeRewardSlot at 0x1A132B30>
 	arg0: self
 
 submodule._CubeWindow__OverInCubeRewardSlot
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-Open,		<cyfunction CubeWindow.Open at 0x08D71A28>
+Open,		<cyfunction CubeWindow.Open at 0x1A13B190>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-ClearCubeData,		<cyfunction CubeWindow.ClearCubeData at 0x08D66EA0>
+ClearCubeData,		<cyfunction CubeWindow.ClearCubeData at 0x1A132608>
 	arg0: self
 
 submodule.ClearCubeData
 Skipped: unbound method cython_function_or_method object must be called with CubeWindow instance as first argument (got nothing instead)
-RefreshSelectItem,		<cyfunction CubeWindow.RefreshSelectItem at 0x08D71190>
+RefreshSelectItem,		<cyfunction CubeWindow.RefreshSelectItem at 0x1A1328C8>
 	arg0: self
 	arg1: list_index
 
@@ -472,18 +472,18 @@ Skipped: unbound method cython_function_or_method object must be called with Cub
 
 
 class ItemObject:
-ShowOpendImg,		<cyfunction ItemObject.ShowOpendImg at 0x08D71EF8>
+ShowOpendImg,		<cyfunction ItemObject.ShowOpendImg at 0x1A13B660>
 	arg0: self
 
 submodule.ShowOpendImg
 Skipped: unbound method cython_function_or_method object must be called with ItemObject instance as first argument (got nothing instead)
-SetOneTextLine,		<cyfunction ItemObject.SetOneTextLine at 0x08D72030>
+SetOneTextLine,		<cyfunction ItemObject.SetOneTextLine at 0x1A13B768>
 	arg0: self
 	arg1: item_text
 
 submodule.SetOneTextLine
 Skipped: unbound method cython_function_or_method object must be called with ItemObject instance as first argument (got nothing instead)
-__del__,		<cyfunction ItemObject.__del__ at 0x08D71E48>
+__del__,		<cyfunction ItemObject.__del__ at 0x1A13B5B0>
 	arg0: self
 
 submodule.__del__
@@ -493,7 +493,7 @@ __module__,		uiCubeRenewal
 submodule.__module__
 
 
-ShowClosedImg,		<cyfunction ItemObject.ShowClosedImg at 0x08D71F50>
+ShowClosedImg,		<cyfunction ItemObject.ShowClosedImg at 0x1A13B6B8>
 	arg0: self
 
 submodule.ShowClosedImg
@@ -503,14 +503,14 @@ __qualname__,		ItemObject
 submodule.__qualname__
 
 
-SetTwoTextLine,		<cyfunction ItemObject.SetTwoTextLine at 0x08D71FA8>
+SetTwoTextLine,		<cyfunction ItemObject.SetTwoTextLine at 0x1A13B710>
 	arg0: self
 	arg1: quantity_text
 	arg2: item_text
 
 submodule.SetTwoTextLine
 Skipped: unbound method cython_function_or_method object must be called with ItemObject instance as first argument (got nothing instead)
-_ItemObject__CreateObject,		<cyfunction ItemObject.__CreateObject at 0x08D71EA0>
+_ItemObject__CreateObject,		<cyfunction ItemObject.__CreateObject at 0x1A13B608>
 	arg0: self
 
 submodule._ItemObject__CreateObject
@@ -520,7 +520,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ItemObject.__init__ at 0x08D71DF0>
+__init__,		<cyfunction ItemObject.__init__ at 0x1A13B558>
 	arg0: self
 	arg1: parent
 	arg2: cubeItem
@@ -530,12 +530,12 @@ Skipped: unbound method cython_function_or_method object must be called with Ite
 
 
 class ItemGroup:
-CloseItem,		<cyfunction ItemGroup.CloseItem at 0x08D72AD8>
+CloseItem,		<cyfunction ItemGroup.CloseItem at 0x1A13D240>
 	arg0: self
 
 submodule.CloseItem
 Skipped: unbound method cython_function_or_method object must be called with ItemGroup instance as first argument (got nothing instead)
-ChildShow,		<cyfunction ItemGroup.ChildShow at 0x08D72B88>
+ChildShow,		<cyfunction ItemGroup.ChildShow at 0x1A13D2F0>
 	arg0: self
 
 submodule.ChildShow
@@ -545,23 +545,23 @@ __module__,		uiCubeRenewal
 submodule.__module__
 
 
-OpenItem,		<cyfunction ItemGroup.OpenItem at 0x08D72A80>
+OpenItem,		<cyfunction ItemGroup.OpenItem at 0x1A13D1E8>
 	arg0: self
 
 submodule.OpenItem
 Skipped: unbound method cython_function_or_method object must be called with ItemGroup instance as first argument (got nothing instead)
-__del__,		<cyfunction ItemGroup.__del__ at 0x08D72920>
+__del__,		<cyfunction ItemGroup.__del__ at 0x1A13D088>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ItemGroup instance as first argument (got nothing instead)
-AddItem,		<cyfunction ItemGroup.AddItem at 0x08D72978>
+AddItem,		<cyfunction ItemGroup.AddItem at 0x1A13D0E0>
 	arg0: self
 	arg1: cube_item
 
 submodule.AddItem
 Skipped: unbound method cython_function_or_method object must be called with ItemGroup instance as first argument (got nothing instead)
-CloseItemChild,		<cyfunction ItemGroup.CloseItemChild at 0x08D72B30>
+CloseItemChild,		<cyfunction ItemGroup.CloseItemChild at 0x1A13D298>
 	arg0: self
 
 submodule.CloseItemChild
@@ -571,12 +571,12 @@ __qualname__,		ItemGroup
 submodule.__qualname__
 
 
-ClickFunc,		<cyfunction ItemGroup.ClickFunc at 0x08D72A28>
+ClickFunc,		<cyfunction ItemGroup.ClickFunc at 0x1A13D190>
 	arg0: self
 
 submodule.ClickFunc
 Skipped: unbound method cython_function_or_method object must be called with ItemGroup instance as first argument (got nothing instead)
-ClearItemList,		<cyfunction ItemGroup.ClearItemList at 0x08D729D0>
+ClearItemList,		<cyfunction ItemGroup.ClearItemList at 0x1A13D138>
 	arg0: self
 
 submodule.ClearItemList
@@ -586,7 +586,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ItemGroup.__init__ at 0x08D728C8>
+__init__,		<cyfunction ItemGroup.__init__ at 0x1A13D030>
 	arg0: self
 	arg1: parent
 	arg2: item_category
@@ -596,27 +596,27 @@ Skipped: unbound method cython_function_or_method object must be called with Ite
 
 
 class ItemDetailObject:
-ToggleSelect,		<cyfunction ItemDetailObject.ToggleSelect at 0x08D72298>
+ToggleSelect,		<cyfunction ItemDetailObject.ToggleSelect at 0x1A13B9D0>
 	arg0: self
 
 submodule.ToggleSelect
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailObject instance as first argument (got nothing instead)
-ShowSelectedImg,		<cyfunction ItemDetailObject.ShowSelectedImg at 0x08D721E8>
+ShowSelectedImg,		<cyfunction ItemDetailObject.ShowSelectedImg at 0x1A13B920>
 	arg0: self
 
 submodule.ShowSelectedImg
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailObject instance as first argument (got nothing instead)
-_ItemDetailObject__OnMouseLeftButtonUp,		<cyfunction ItemDetailObject.__OnMouseLeftButtonUp at 0x08D722F0>
+_ItemDetailObject__OnMouseLeftButtonUp,		<cyfunction ItemDetailObject.__OnMouseLeftButtonUp at 0x1A13BA28>
 	arg0: self
 
 submodule._ItemDetailObject__OnMouseLeftButtonUp
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailObject instance as first argument (got nothing instead)
-__del__,		<cyfunction ItemDetailObject.__del__ at 0x08D720E0>
+__del__,		<cyfunction ItemDetailObject.__del__ at 0x1A13B818>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailObject instance as first argument (got nothing instead)
-_ItemDetailObject__OnMouseOverIn,		<cyfunction ItemDetailObject.__OnMouseOverIn at 0x08D72348>
+_ItemDetailObject__OnMouseOverIn,		<cyfunction ItemDetailObject.__OnMouseOverIn at 0x1A13BA80>
 	arg0: self
 
 submodule._ItemDetailObject__OnMouseOverIn
@@ -626,13 +626,13 @@ __module__,		uiCubeRenewal
 submodule.__module__
 
 
-EnableItem,		<cyfunction ItemDetailObject.EnableItem at 0x08D72240>
+EnableItem,		<cyfunction ItemDetailObject.EnableItem at 0x1A13B978>
 	arg0: self
 	arg1: select
 
 submodule.EnableItem
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailObject instance as first argument (got nothing instead)
-SetOneTextLine,		<cyfunction ItemDetailObject.SetOneTextLine at 0x08D72450>
+SetOneTextLine,		<cyfunction ItemDetailObject.SetOneTextLine at 0x1A13BB88>
 	arg0: self
 	arg1: item_text
 
@@ -643,22 +643,22 @@ __qualname__,		ItemDetailObject
 submodule.__qualname__
 
 
-_ItemDetailObject__CreateObject,		<cyfunction ItemDetailObject.__CreateObject at 0x08D72138>
+_ItemDetailObject__CreateObject,		<cyfunction ItemDetailObject.__CreateObject at 0x1A13B870>
 	arg0: self
 
 submodule._ItemDetailObject__CreateObject
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailObject instance as first argument (got nothing instead)
-_ItemDetailObject__OnMouseOverOut,		<cyfunction ItemDetailObject.__OnMouseOverOut at 0x08D723A0>
+_ItemDetailObject__OnMouseOverOut,		<cyfunction ItemDetailObject.__OnMouseOverOut at 0x1A13BAD8>
 	arg0: self
 
 submodule._ItemDetailObject__OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailObject instance as first argument (got nothing instead)
-ShowDefaultImg,		<cyfunction ItemDetailObject.ShowDefaultImg at 0x08D72190>
+ShowDefaultImg,		<cyfunction ItemDetailObject.ShowDefaultImg at 0x1A13B8C8>
 	arg0: self
 
 submodule.ShowDefaultImg
 Skipped: unbound method cython_function_or_method object must be called with ItemDetailObject instance as first argument (got nothing instead)
-SetTwoTextLine,		<cyfunction ItemDetailObject.SetTwoTextLine at 0x08D723F8>
+SetTwoTextLine,		<cyfunction ItemDetailObject.SetTwoTextLine at 0x1A13BB30>
 	arg0: self
 	arg1: quantity_text
 	arg2: item_text
@@ -670,7 +670,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ItemDetailObject.__init__ at 0x08D72088>
+__init__,		<cyfunction ItemDetailObject.__init__ at 0x1A13B7C0>
 	arg0: self
 	arg1: parent
 	arg2: cubeItem

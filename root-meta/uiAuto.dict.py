@@ -11,6 +11,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'OnUseSkill'},
                      {'args': ['self'], 'defaults': [], 'name': 'RefreshAutoPotionSlot'},
                      {'args': ['self'], 'defaults': [], 'name': 'RefreshAutoSkillSlot'},
+                     {'args': ['self'], 'defaults': [], 'name': 'RefreshSkillCoolTime'},
                      {'args': ['self', 'slot_index', 'cool_time'], 'defaults': [], 'name': 'SetAutoCooltime'},
                      {'args': ['self', 'tooltip_item'], 'defaults': [], 'name': 'SetItemToolTip'},
                      {'args': ['self', 'tooltip_skill'], 'defaults': [], 'name': 'SetSkillToolTip'},
@@ -98,5 +99,5 @@
                                '__auto_tooltip_clear',
                                '__hackPunishmentPopupDialog')}]}],
  'func': [],
- 'import': ['guild', 'uiToolTip', '__builtin__', 'localeInfo', 'app', 'uiScriptLocale', 'chrmgrm2g', 'item', 'chr', 'playerm2g2', 'ui', 'mouseModule', 'wndMgr', 'skill', 'os'],
+ 'import': ['app', 'm2netm2g', 'playerm2g2', 'skill', 'uiToolTip', 'chr', 'chrmgrm2g', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', '__builtin__', 'wndMgr', 'guild', 'item', 'ui', 'os'],
  'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiAuto'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

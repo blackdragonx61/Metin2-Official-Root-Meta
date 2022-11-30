@@ -3,7 +3,7 @@ key: CatchKingSimpleWaitingPage, val: <class 'uiMiniGameCatchKing.CatchKingSimpl
 key: FILED_CARD_X, val: 5
 key: LOW_TOTAL_SCORE, val: 400
 key: EVENT_TYPE_POPUP, val: 10
-key: wraps, val: <function wraps at 0x08814CB0>
+key: wraps, val: <function wraps at 0x07F03CF0>
 key: constInfo, val: <module 'constInfo' (built-in)>
 key: STATE_NONE, val: 0
 key: EVENT_TYPE_SET_ARROW, val: 7
@@ -41,7 +41,7 @@ key: proxy, val: <built-in function proxy>
 key: CatchKingGamePage, val: <class 'uiMiniGameCatchKing.CatchKingGamePage'>
 key: wndMgr, val: <module 'wndMgr' (built-in)>
 key: __name__, val: uiMiniGameCatchKing
-key: card_tooltip, val: {1: 'Pode ganhar uma carta [1] alocada', 2: 'Pode ganhar uma carta [1], [2] alocada', 3: 'Pode ganhar uma carta [1], [2], [3] alocada', 4: 'Pode ganhar uma carta [1], [2], [3], [4] alocada', 5: 'Se a carta [5] est\xe1 ao redor do local selecionado, voc\xea n\xe3o ganhar\xe1 a carta.\\nPode ganhar uma carta [1],[2],[3],[4],[5] alocada', 6: 'Pode ganhar apenas a carta [K] alocada'}
+key: card_tooltip, val: {1: '\xdcti az al\xe1bbi k\xe1rty\xe1t: [1]', 2: '\xdcti az al\xe1bbi k\xe1rty\xe1kat: [1], [2]', 3: '\xdcti az al\xe1bbi k\xe1rty\xe1kat: [1], [2], [3]', 4: '\xdcti az al\xe1bbi k\xe1rty\xe1kat: [1], [2], [3], [4]', 5: '\xdcti az al\xe1bbi k\xe1rty\xe1kat: [1], [2], [3], [4], [5]\\nHa van egy m\xe1sik [5] a felford\xedtott k\xe1rtya k\xf6r\xfcl,\\nakkor v\xe9get \xe9r a k\xf6r \xe9s nem kapsz pontot \xe9rte.', 6: '\xdcti az al\xe1bbi k\xe1rty\xe1t: [K]'}
 key: EVENT_TYPE_SUCCESS_EFFECT, val: 8
 key: EVENT_TYPE_HELP_POPUP, val: 15
 key: TOTAL_SCORE_HIGH_FONT_COLOR, val: 4294967193
@@ -60,13 +60,13 @@ key: CATCHKING_START_YANG, val: 30000
 key: STATE_WAITING, val: 1
 key: EVENT_TYPE_HIDE_NUMBER5_AREA, val: 14
 key: CATCHKING_WINDOW_HEIGHT, val: 336
-key: GetImgPath, val: <cyfunction GetImgPath at 0x08D0BD98>
+key: GetImgPath, val: <cyfunction GetImgPath at 0x084811E8>
 key: TOTAL_SCORE_LOW_FONT_COLOR, val: -3750202
 key: __doc__, val: None
 key: deque, val: <type 'collections.deque'>
 key: EVENT_TYPE_SET_NUMBER, val: 3
 key: EVENT_TYPE_SET_STATE, val: 5
-key: GetEndImgPath, val: <cyfunction GetEndImgPath at 0x08D0BDF0>
+key: GetEndImgPath, val: <cyfunction GetEndImgPath at 0x08481240>
 key: __test__, val: {}
 key: card_default_count, val: {1: 5, 2: 2, 3: 2, 4: 1, 5: 1, 6: 1}
 key: CK_STATE_REWARD_END, val: 5
@@ -74,7 +74,7 @@ key: CK_STATE_WAIT, val: 1
 key: MID_TOTAL_SCORE, val: 550
 key: EVENT_TYPE_DELAY, val: 2
 key: ui, val: <module 'ui' (built-in)>
-key: LoadScript, val: <cyfunction LoadScript at 0x08D0BD40>
+key: LoadScript, val: <cyfunction LoadScript at 0x08481190>
 key: MiniGameCatchKing, val: <class 'uiMiniGameCatchKing.MiniGameCatchKing'>
 key: EVNET_TYPE_BINGO_CHECK, val: 9
 key: CATCHKING_START_ITEM_VNUM, val: 79604
@@ -82,7 +82,7 @@ key: HELP_MSG_TYPE_SEARCH_NUMBER5, val: 4
 key: CARD_HEIGHT, val: 36
 key: EVENT_TYPE_SET_SCORE, val: 6
 key: EVENT_TYPE_INSER_DELAY, val: 1
-key: score_tooltip, val: ('Ouro do Rei[%s]: [550] ou mais', 'Prata do Rei[%s]: [400] ~ [549]', 'Bronze do Rei[%s]: [10] ~ [399]', 'Adicione +10 pontos por um bingo')
+key: score_tooltip, val: ('%s: 550 \xe9s felette', '%s: 400 \xe9s 549 k\xf6z\xf6tt', '%s: 10 \xe9s 399 k\xf6z\xf6tt', '10 b\xf3nusz pontot kapsz, ha minden k\xe1rty\xe1t felford\xedtasz egy vonalban.')
 key: m2netm2g, val: <module 'm2netm2g' (built-in)>
 key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: FIELD_CARD_Y, val: 5
@@ -96,34 +96,34 @@ key: uiCommon, val: <module 'uiCommon' (built-in)>
 key: snd, val: <module 'snd' (built-in)>
 key: CARD_MOVE_SPEED, val: 25.0
 key: CK_STATE_FIELD_CLICK, val: 2
-key: GetCardTooltip, val: <cyfunction GetCardTooltip at 0x08D0BE48>
+key: GetCardTooltip, val: <cyfunction GetCardTooltip at 0x08481298>
 key: FIELD_CARD_MAX, val: 25
-key: challenge_tooltip, val: ('Pode receber recompensas de acordo com o n\xfamero de %s que voc\xea usou.', '(M\xe1ximo %d seria poss\xedvel.)')
+key: challenge_tooltip, val: ('Ha t\xf6bb %s-t teszel fel t\xe9tk\xe9nt, pont ugyanannyi l\xe1d\xe1t fogsz jutalmul kapni.', 'Maximum t\xe9t: %d Kir\xe1lypakli.')
 key: EVENT_TYPE_INIT_FIELD_CARD, val: 0
 
 
 class CatchKingSimpleWaitingPage:
-CloseStartDlg,		<cyfunction CatchKingSimpleWaitingPage.CloseStartDlg at 0x08D19870>
+CloseStartDlg,		<cyfunction CatchKingSimpleWaitingPage.CloseStartDlg at 0x08481C90>
 	arg0: self
 
 submodule.CloseStartDlg
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-_CatchKingSimpleWaitingPage__LoadWindow,		<cyfunction CatchKingSimpleWaitingPage.__LoadWindow at 0x08D19660>
+_CatchKingSimpleWaitingPage__LoadWindow,		<cyfunction CatchKingSimpleWaitingPage.__LoadWindow at 0x08481A80>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-PrevDescriptionPage,		<cyfunction CatchKingSimpleWaitingPage.PrevDescriptionPage at 0x08D19A80>
+PrevDescriptionPage,		<cyfunction CatchKingSimpleWaitingPage.PrevDescriptionPage at 0x08481EA0>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-_CatchKingSimpleWaitingPage__ClickHelpButton,		<cyfunction CatchKingSimpleWaitingPage.__ClickHelpButton at 0x08D19978>
+_CatchKingSimpleWaitingPage__ClickHelpButton,		<cyfunction CatchKingSimpleWaitingPage.__ClickHelpButton at 0x08481D98>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__ClickHelpButton
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-_CatchKingSimpleWaitingPage__StartCancel,		<cyfunction CatchKingSimpleWaitingPage.__StartCancel at 0x08D19920>
+_CatchKingSimpleWaitingPage__StartCancel,		<cyfunction CatchKingSimpleWaitingPage.__StartCancel at 0x08481D40>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__StartCancel
@@ -133,70 +133,70 @@ __module__,		uiMiniGameCatchKing
 submodule.__module__
 
 
-BindControlWindow,		<cyfunction CatchKingSimpleWaitingPage.BindControlWindow at 0x08D19768>
+BindControlWindow,		<cyfunction CatchKingSimpleWaitingPage.BindControlWindow at 0x08481B88>
 	arg0: self
 	arg1: control_window
 
 submodule.BindControlWindow
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-__del__,		<cyfunction CatchKingSimpleWaitingPage.__del__ at 0x08D19608>
+__del__,		<cyfunction CatchKingSimpleWaitingPage.__del__ at 0x08481A28>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-_CatchKingSimpleWaitingPage__OverOutChallengeText,		<cyfunction CatchKingSimpleWaitingPage.__OverOutChallengeText at 0x08D19B88>
+_CatchKingSimpleWaitingPage__OverOutChallengeText,		<cyfunction CatchKingSimpleWaitingPage.__OverOutChallengeText at 0x08481FA8>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__OverOutChallengeText
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiMiniGameCatchKing.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-_CatchKingSimpleWaitingPage__ClickStartButton,		<cyfunction CatchKingSimpleWaitingPage.__ClickStartButton at 0x08D19818>
+_CatchKingSimpleWaitingPage__ClickStartButton,		<cyfunction CatchKingSimpleWaitingPage.__ClickStartButton at 0x08481C38>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__ClickStartButton
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-_CatchKingSimpleWaitingPage__StartAccept,		<cyfunction CatchKingSimpleWaitingPage.__StartAccept at 0x08D198C8>
+_CatchKingSimpleWaitingPage__StartAccept,		<cyfunction CatchKingSimpleWaitingPage.__StartAccept at 0x08481CE8>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__StartAccept
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-Destroy,		<cyfunction CatchKingSimpleWaitingPage.Destroy at 0x08D19710>
+Destroy,		<cyfunction CatchKingSimpleWaitingPage.Destroy at 0x08481B30>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-_CatchKingSimpleWaitingPage__OverInChallengeText,		<cyfunction CatchKingSimpleWaitingPage.__OverInChallengeText at 0x08D19B30>
+_CatchKingSimpleWaitingPage__OverInChallengeText,		<cyfunction CatchKingSimpleWaitingPage.__OverInChallengeText at 0x08481F50>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__OverInChallengeText
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-_CatchKingSimpleWaitingPage__ClickUpArrowButton,		<cyfunction CatchKingSimpleWaitingPage.__ClickUpArrowButton at 0x08D19BE0>
+_CatchKingSimpleWaitingPage__ClickUpArrowButton,		<cyfunction CatchKingSimpleWaitingPage.__ClickUpArrowButton at 0x0848E030>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__ClickUpArrowButton
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-__init__,		<cyfunction CatchKingSimpleWaitingPage.__init__ at 0x08D195B0>
+__init__,		<cyfunction CatchKingSimpleWaitingPage.__init__ at 0x084819D0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction CatchKingSimpleWaitingPage.OnUpdate at 0x08D19A28>
+OnUpdate,		<cyfunction CatchKingSimpleWaitingPage.OnUpdate at 0x08481E48>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-Show,		<cyfunction CatchKingSimpleWaitingPage.Show at 0x08D199D0>
+Show,		<cyfunction CatchKingSimpleWaitingPage.Show at 0x08481DF0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction CatchKingSimpleWaitingPage.OnPressEscapeKey at 0x08D197C0>
+OnPressEscapeKey,		<cyfunction CatchKingSimpleWaitingPage.OnPressEscapeKey at 0x08481BE0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-_CatchKingSimpleWaitingPage__ClickDownArrowButton,		<cyfunction CatchKingSimpleWaitingPage.__ClickDownArrowButton at 0x08D19C38>
+_CatchKingSimpleWaitingPage__ClickDownArrowButton,		<cyfunction CatchKingSimpleWaitingPage.__ClickDownArrowButton at 0x0848E088>
 	arg0: self
 
 submodule._CatchKingSimpleWaitingPage__ClickDownArrowButton
@@ -211,12 +211,12 @@ __qualname__,		CatchKingSimpleWaitingPage
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction CatchKingSimpleWaitingPage.NextDescriptionPage at 0x08D19AD8>
+NextDescriptionPage,		<cyfunction CatchKingSimpleWaitingPage.NextDescriptionPage at 0x08481EF8>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with CatchKingSimpleWaitingPage instance as first argument (got nothing instead)
-Close,		<cyfunction CatchKingSimpleWaitingPage.Close at 0x08D196B8>
+Close,		<cyfunction CatchKingSimpleWaitingPage.Close at 0x08481AD8>
 	arg0: self
 
 submodule.Close
@@ -229,7 +229,7 @@ submodule.VISIBLE_LINE_COUNT
 
 
 class CatchKingWaitingPage:
-_CatchKingWaitingPage__LoadWindow,		<cyfunction CatchKingWaitingPage.__LoadWindow at 0x08D190E0>
+_CatchKingWaitingPage__LoadWindow,		<cyfunction CatchKingWaitingPage.__LoadWindow at 0x08481500>
 	arg0: self
 
 submodule._CatchKingWaitingPage__LoadWindow
@@ -239,17 +239,17 @@ __module__,		uiMiniGameCatchKing
 submodule.__module__
 
 
-PrevDescriptionPage,		<cyfunction CatchKingWaitingPage.PrevDescriptionPage at 0x08D193A0>
+PrevDescriptionPage,		<cyfunction CatchKingWaitingPage.PrevDescriptionPage at 0x084817C0>
 	arg0: self
 
 submodule.PrevDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
-__del__,		<cyfunction CatchKingWaitingPage.__del__ at 0x08D19088>
+__del__,		<cyfunction CatchKingWaitingPage.__del__ at 0x084814A8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction CatchKingWaitingPage.BindControlWindow at 0x08D191E8>
+BindControlWindow,		<cyfunction CatchKingWaitingPage.BindControlWindow at 0x08481608>
 	arg0: self
 	arg1: control_window
 
@@ -257,32 +257,32 @@ submodule.BindControlWindow
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiMiniGameCatchKing.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-OnPressEscapeKey,		<cyfunction CatchKingWaitingPage.OnPressEscapeKey at 0x08D19240>
+OnPressEscapeKey,		<cyfunction CatchKingWaitingPage.OnPressEscapeKey at 0x08481660>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
-Destroy,		<cyfunction CatchKingWaitingPage.Destroy at 0x08D19190>
+Destroy,		<cyfunction CatchKingWaitingPage.Destroy at 0x084815B0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
-_CatchKingWaitingPage__ClickStartButton,		<cyfunction CatchKingWaitingPage.__ClickStartButton at 0x08D19298>
+_CatchKingWaitingPage__ClickStartButton,		<cyfunction CatchKingWaitingPage.__ClickStartButton at 0x084816B8>
 	arg0: self
 
 submodule._CatchKingWaitingPage__ClickStartButton
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
-__init__,		<cyfunction CatchKingWaitingPage.__init__ at 0x08D19030>
+__init__,		<cyfunction CatchKingWaitingPage.__init__ at 0x08481450>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction CatchKingWaitingPage.OnUpdate at 0x08D19348>
+OnUpdate,		<cyfunction CatchKingWaitingPage.OnUpdate at 0x08481768>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
-Show,		<cyfunction CatchKingWaitingPage.Show at 0x08D192F0>
+Show,		<cyfunction CatchKingWaitingPage.Show at 0x08481710>
 	arg0: self
 
 submodule.Show
@@ -297,12 +297,12 @@ __qualname__,		CatchKingWaitingPage
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction CatchKingWaitingPage.NextDescriptionPage at 0x08D193F8>
+NextDescriptionPage,		<cyfunction CatchKingWaitingPage.NextDescriptionPage at 0x08481818>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with CatchKingWaitingPage instance as first argument (got nothing instead)
-Close,		<cyfunction CatchKingWaitingPage.Close at 0x08D19138>
+Close,		<cyfunction CatchKingWaitingPage.Close at 0x08481558>
 	arg0: self
 
 submodule.Close
@@ -315,44 +315,44 @@ submodule.VISIBLE_LINE_COUNT
 
 
 class CatchKingGamePage:
-_CatchKingGamePage__ShowNumber5Area,		<cyfunction CatchKingGamePage.__ShowNumber5Area at 0x08D1A9D0>
+_CatchKingGamePage__ShowNumber5Area,		<cyfunction CatchKingGamePage.__ShowNumber5Area at 0x0848EDF0>
 	arg0: self
 	arg1: index
 
 submodule._CatchKingGamePage__ShowNumber5Area
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__BindEvent,		<cyfunction CatchKingGamePage.__BindEvent at 0x08D1A608>
+_CatchKingGamePage__BindEvent,		<cyfunction CatchKingGamePage.__BindEvent at 0x0848EA28>
 	arg0: self
 
 submodule._CatchKingGamePage__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-coroutine_wrapper,		<cyfunction CatchKingGamePage.coroutine_wrapper at 0x08D1B190>
+coroutine_wrapper,		<cyfunction CatchKingGamePage.coroutine_wrapper at 0x0848F5B0>
 	arg0: original_func
 
 submodule.coroutine_wrapper
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction CatchKingGamePage.OnPressEscapeKey at 0x08D1A3F8>
+OnPressEscapeKey,		<cyfunction CatchKingGamePage.OnPressEscapeKey at 0x0848E818>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__LoadWindow,		<cyfunction CatchKingGamePage.__LoadWindow at 0x08D1A558>
+_CatchKingGamePage__LoadWindow,		<cyfunction CatchKingGamePage.__LoadWindow at 0x0848E978>
 	arg0: self
 
 submodule._CatchKingGamePage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__ShowHelpPopup,		<cyfunction CatchKingGamePage.__ShowHelpPopup at 0x08D1B6B8>
+_CatchKingGamePage__ShowHelpPopup,		<cyfunction CatchKingGamePage.__ShowHelpPopup at 0x0848FAD8>
 	arg0: self
 	arg1: type
 
 submodule._CatchKingGamePage__ShowHelpPopup
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__BindObject,		<cyfunction CatchKingGamePage.__BindObject at 0x08D1A5B0>
+_CatchKingGamePage__BindObject,		<cyfunction CatchKingGamePage.__BindObject at 0x0848E9D0>
 	arg0: self
 
 submodule._CatchKingGamePage__BindObject
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-SetNumber,		<cyfunction CatchKingGamePage.SetNumber at 0x08D1B2F0>
+SetNumber,		<cyfunction CatchKingGamePage.SetNumber at 0x0848F710>
 	arg0: self
 	arg1: type
 	arg2: index
@@ -360,28 +360,28 @@ SetNumber,		<cyfunction CatchKingGamePage.SetNumber at 0x08D1B2F0>
 
 submodule.SetNumber
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__UpdateEvent,		<cyfunction CatchKingGamePage.__UpdateEvent at 0x08D1AFA8>
+_CatchKingGamePage__UpdateEvent,		<cyfunction CatchKingGamePage.__UpdateEvent at 0x0848F3F8>
 	arg0: self
 
 submodule._CatchKingGamePage__UpdateEvent
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__RefreshFieldCardArrow,		<cyfunction CatchKingGamePage.__RefreshFieldCardArrow at 0x08D1A978>
+_CatchKingGamePage__RefreshFieldCardArrow,		<cyfunction CatchKingGamePage.__RefreshFieldCardArrow at 0x0848ED98>
 	arg0: self
 	arg1: index
 
 submodule._CatchKingGamePage__RefreshFieldCardArrow
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-Destroy,		<cyfunction CatchKingGamePage.Destroy at 0x08D1A3A0>
+Destroy,		<cyfunction CatchKingGamePage.Destroy at 0x0848E7C0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-__init__,		<cyfunction CatchKingGamePage.__init__ at 0x08D1A2F0>
+__init__,		<cyfunction CatchKingGamePage.__init__ at 0x0848E710>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__ClickConfirmCheckButton,		<cyfunction CatchKingGamePage.__ClickConfirmCheckButton at 0x08D1A710>
+_CatchKingGamePage__ClickConfirmCheckButton,		<cyfunction CatchKingGamePage.__ClickConfirmCheckButton at 0x0848EB30>
 	arg0: self
 
 submodule._CatchKingGamePage__ClickConfirmCheckButton
@@ -396,96 +396,96 @@ __module__,		uiMiniGameCatchKing
 submodule.__module__
 
 
-OverInHand,		<cyfunction CatchKingGamePage.OverInHand at 0x08D1A818>
+OverInHand,		<cyfunction CatchKingGamePage.OverInHand at 0x0848EC38>
 	arg0: self
 	arg1: index
 
 submodule.OverInHand
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__CardMoveCo,		<cyfunction CatchKingGamePage.coroutine_wrapper.<locals>.wrapper at 0x08D1B240>
+_CatchKingGamePage__CardMoveCo,		<cyfunction CatchKingGamePage.coroutine_wrapper.<locals>.wrapper at 0x0848F660>
 
 submodule._CatchKingGamePage__CardMoveCo
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-RewardSuccessPostProcess,		<cyfunction CatchKingGamePage.RewardSuccessPostProcess at 0x08D1B5B0>
+RewardSuccessPostProcess,		<cyfunction CatchKingGamePage.RewardSuccessPostProcess at 0x0848F9D0>
 	arg0: self
 
 submodule.RewardSuccessPostProcess
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__SuccessExplosionEffectKeyFrame1,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectKeyFrame1 at 0x08D1ABE0>
+_CatchKingGamePage__SuccessExplosionEffectKeyFrame1,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectKeyFrame1 at 0x0848F030>
 	arg0: self
 	arg1: cur_frame
 
 submodule._CatchKingGamePage__SuccessExplosionEffectKeyFrame1
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__SuccessExplosionEffectKeyFrame2,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectKeyFrame2 at 0x08D1AC90>
+_CatchKingGamePage__SuccessExplosionEffectKeyFrame2,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectKeyFrame2 at 0x0848F0E0>
 	arg0: self
 	arg1: cur_frame
 
 submodule._CatchKingGamePage__SuccessExplosionEffectKeyFrame2
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__SuccessExplosionEffectKeyFrame3,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectKeyFrame3 at 0x08D1AD40>
+_CatchKingGamePage__SuccessExplosionEffectKeyFrame3,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectKeyFrame3 at 0x0848F190>
 	arg0: self
 	arg1: cur_frame
 
 submodule._CatchKingGamePage__SuccessExplosionEffectKeyFrame3
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-Initialize,		<cyfunction CatchKingGamePage.Initialize at 0x08D1AA80>
+Initialize,		<cyfunction CatchKingGamePage.Initialize at 0x0848EEA0>
 	arg0: self
 
 submodule.Initialize
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-OverOutHand,		<cyfunction CatchKingGamePage.OverOutHand at 0x08D1A870>
+OverOutHand,		<cyfunction CatchKingGamePage.OverOutHand at 0x0848EC90>
 	arg0: self
 	arg1: index
 
 submodule.OverOutHand
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-SetScore,		<cyfunction CatchKingGamePage.SetScore at 0x08D1AAD8>
+SetScore,		<cyfunction CatchKingGamePage.SetScore at 0x0848EEF8>
 	arg0: self
 	arg1: score
 
 submodule.SetScore
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-OverOutFieldCard,		<cyfunction CatchKingGamePage.OverOutFieldCard at 0x08D1A920>
+OverOutFieldCard,		<cyfunction CatchKingGamePage.OverOutFieldCard at 0x0848ED40>
 	arg0: self
 	arg1: index
 
 submodule.OverOutFieldCard
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-SetExplosion,		<cyfunction CatchKingGamePage.SetExplosion at 0x08D1B3A0>
+SetExplosion,		<cyfunction CatchKingGamePage.SetExplosion at 0x0848F7C0>
 	arg0: self
 	arg1: type
 	arg2: index
 
 submodule.SetExplosion
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__ExplosionEnd,		<cyfunction CatchKingGamePage.__ExplosionEnd at 0x08D1B3F8>
+_CatchKingGamePage__ExplosionEnd,		<cyfunction CatchKingGamePage.__ExplosionEnd at 0x0848F818>
 	arg0: self
 
 submodule._CatchKingGamePage__ExplosionEnd
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-ClickField,		<cyfunction CatchKingGamePage.ClickField at 0x08D1AEA0>
+ClickField,		<cyfunction CatchKingGamePage.ClickField at 0x0848F2F0>
 	arg0: self
 	arg1: index
 
 submodule.ClickField
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__CreateNumber5AnimationImage,		<cyfunction CatchKingGamePage.__CreateNumber5AnimationImage at 0x08D1A6B8>
+_CatchKingGamePage__CreateNumber5AnimationImage,		<cyfunction CatchKingGamePage.__CreateNumber5AnimationImage at 0x0848EAD8>
 	arg0: self
 
 submodule._CatchKingGamePage__CreateNumber5AnimationImage
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__ClickRewardButton,		<cyfunction CatchKingGamePage.__ClickRewardButton at 0x08D1AEF8>
+_CatchKingGamePage__ClickRewardButton,		<cyfunction CatchKingGamePage.__ClickRewardButton at 0x0848F348>
 	arg0: self
 
 submodule._CatchKingGamePage__ClickRewardButton
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__OverOutScore,		<cyfunction CatchKingGamePage.__OverOutScore at 0x08D1A7C0>
+_CatchKingGamePage__OverOutScore,		<cyfunction CatchKingGamePage.__OverOutScore at 0x0848EBE0>
 	arg0: self
 
 submodule._CatchKingGamePage__OverOutScore
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-SetEndNumber,		<cyfunction CatchKingGamePage.SetEndNumber at 0x08D1B348>
+SetEndNumber,		<cyfunction CatchKingGamePage.SetEndNumber at 0x0848F768>
 	arg0: self
 	arg1: type
 	arg2: index
@@ -493,13 +493,13 @@ SetEndNumber,		<cyfunction CatchKingGamePage.SetEndNumber at 0x08D1B348>
 
 submodule.SetEndNumber
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-BindControlWindow,		<cyfunction CatchKingGamePage.BindControlWindow at 0x08D1A450>
+BindControlWindow,		<cyfunction CatchKingGamePage.BindControlWindow at 0x0848E870>
 	arg0: self
 	arg1: control_window
 
 submodule.BindControlWindow
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-FieldCardClickResult,		<cyfunction CatchKingGamePage.FieldCardClickResult at 0x08D1B450>
+FieldCardClickResult,		<cyfunction CatchKingGamePage.FieldCardClickResult at 0x0848F870>
 	arg0: self
 	arg1: index
 	arg2: number
@@ -512,12 +512,12 @@ FieldCardClickResult,		<cyfunction CatchKingGamePage.FieldCardClickResult at 0x0
 
 submodule.FieldCardClickResult
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-__del__,		<cyfunction CatchKingGamePage.__del__ at 0x08D1A348>
+__del__,		<cyfunction CatchKingGamePage.__del__ at 0x0848E768>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__ChangeState,		<cyfunction CatchKingGamePage.__ChangeState at 0x08D1B030>
+_CatchKingGamePage__ChangeState,		<cyfunction CatchKingGamePage.__ChangeState at 0x0848F450>
 	arg0: self
 	arg1: new_state
 
@@ -528,7 +528,7 @@ __doc__,		None
 submodule.__doc__
 
 
-CardMoveHandToMyNumber,		<cyfunction CatchKingGamePage.CardMoveHandToMyNumber at 0x08D1B298>
+CardMoveHandToMyNumber,		<cyfunction CatchKingGamePage.CardMoveHandToMyNumber at 0x0848F6B8>
 	arg0: self
 	arg1: src_type
 	arg2: src_index
@@ -538,34 +538,34 @@ CardMoveHandToMyNumber,		<cyfunction CatchKingGamePage.CardMoveHandToMyNumber at
 
 submodule.CardMoveHandToMyNumber
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-Close,		<cyfunction CatchKingGamePage.Close at 0x08D1A500>
+Close,		<cyfunction CatchKingGamePage.Close at 0x0848E920>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__CreateObject,		<cyfunction CatchKingGamePage.__CreateObject at 0x08D1A660>
+_CatchKingGamePage__CreateObject,		<cyfunction CatchKingGamePage.__CreateObject at 0x0848EA80>
 	arg0: self
 
 submodule._CatchKingGamePage__CreateObject
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__CalculBingo,		<cyfunction CatchKingGamePage.__CalculBingo at 0x08D1B558>
+_CatchKingGamePage__CalculBingo,		<cyfunction CatchKingGamePage.__CalculBingo at 0x0848F978>
 	arg0: self
 
 submodule._CatchKingGamePage__CalculBingo
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__OverInScore,		<cyfunction CatchKingGamePage.__OverInScore at 0x08D1A768>
+_CatchKingGamePage__OverInScore,		<cyfunction CatchKingGamePage.__OverInScore at 0x0848EB88>
 	arg0: self
 
 submodule._CatchKingGamePage__OverInScore
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-GetCardPosition,		<cyfunction CatchKingGamePage.GetCardPosition at 0x08D1B0E0>
+GetCardPosition,		<cyfunction CatchKingGamePage.GetCardPosition at 0x0848F500>
 	arg0: self
 	arg1: type
 	arg2: index
 
 submodule.GetCardPosition
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__GetHelpMsgType,		<cyfunction CatchKingGamePage.__GetHelpMsgType at 0x08D1B4A8>
+_CatchKingGamePage__GetHelpMsgType,		<cyfunction CatchKingGamePage.__GetHelpMsgType at 0x0848F8C8>
 	arg0: self
 	arg1: number
 	arg2: is_catch
@@ -574,12 +574,12 @@ _CatchKingGamePage__GetHelpMsgType,		<cyfunction CatchKingGamePage.__GetHelpMsgT
 
 submodule._CatchKingGamePage__GetHelpMsgType
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__HideNumber5Area,		<cyfunction CatchKingGamePage.__HideNumber5Area at 0x08D1AA28>
+_CatchKingGamePage__HideNumber5Area,		<cyfunction CatchKingGamePage.__HideNumber5Area at 0x0848EE48>
 	arg0: self
 
 submodule._CatchKingGamePage__HideNumber5Area
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-CreateMoveImg,		<cyfunction CatchKingGamePage.CreateMoveImg at 0x08D1B088>
+CreateMoveImg,		<cyfunction CatchKingGamePage.CreateMoveImg at 0x0848F4A8>
 	arg0: self
 	arg1: src_type
 	arg2: src_index
@@ -591,40 +591,40 @@ CreateMoveImg,		<cyfunction CatchKingGamePage.CreateMoveImg at 0x08D1B088>
 
 submodule.CreateMoveImg
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__SuccessEffectEndFrameEvent,		<cyfunction CatchKingGamePage.__SuccessEffectEndFrameEvent at 0x08D1AD98>
+_CatchKingGamePage__SuccessEffectEndFrameEvent,		<cyfunction CatchKingGamePage.__SuccessEffectEndFrameEvent at 0x0848F1E8>
 	arg0: self
 
 submodule._CatchKingGamePage__SuccessEffectEndFrameEvent
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-Show,		<cyfunction CatchKingGamePage.Show at 0x08D1A4A8>
+Show,		<cyfunction CatchKingGamePage.Show at 0x0848E8C8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-GameEndProcess,		<cyfunction CatchKingGamePage.GameEndProcess at 0x08D1B608>
+GameEndProcess,		<cyfunction CatchKingGamePage.GameEndProcess at 0x0848FA28>
 	arg0: self
 	arg1: data
 
 submodule.GameEndProcess
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-OverInFieldCard,		<cyfunction CatchKingGamePage.OverInFieldCard at 0x08D1A8C8>
+OverInFieldCard,		<cyfunction CatchKingGamePage.OverInFieldCard at 0x0848ECE8>
 	arg0: self
 	arg1: index
 
 submodule.OverInFieldCard
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction CatchKingGamePage.OnUpdate at 0x08D1AF50>
+OnUpdate,		<cyfunction CatchKingGamePage.OnUpdate at 0x0848F3A0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__IsFieldCardOpen,		<cyfunction CatchKingGamePage.__IsFieldCardOpen at 0x08D1B500>
+_CatchKingGamePage__IsFieldCardOpen,		<cyfunction CatchKingGamePage.__IsFieldCardOpen at 0x0848F920>
 	arg0: self
 	arg1: index
 
 submodule._CatchKingGamePage__IsFieldCardOpen
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__CardMoveEndHandToMyNumber,		<cyfunction CatchKingGamePage.__CardMoveEndHandToMyNumber at 0x08D1B138>
+_CatchKingGamePage__CardMoveEndHandToMyNumber,		<cyfunction CatchKingGamePage.__CardMoveEndHandToMyNumber at 0x0848F558>
 	arg0: self
 	arg1: index
 	arg2: src_type
@@ -635,33 +635,33 @@ _CatchKingGamePage__CardMoveEndHandToMyNumber,		<cyfunction CatchKingGamePage.__
 
 submodule._CatchKingGamePage__CardMoveEndHandToMyNumber
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__ClearSuccessEffect,		<cyfunction CatchKingGamePage.__ClearSuccessEffect at 0x08D1ADF0>
+_CatchKingGamePage__ClearSuccessEffect,		<cyfunction CatchKingGamePage.__ClearSuccessEffect at 0x0848F240>
 	arg0: self
 
 submodule._CatchKingGamePage__ClearSuccessEffect
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-SetHighScore,		<cyfunction CatchKingGamePage.SetHighScore at 0x08D1B660>
+SetHighScore,		<cyfunction CatchKingGamePage.SetHighScore at 0x0848FA80>
 	arg0: self
 	arg1: high_score
 
 submodule.SetHighScore
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__SuccessExplosionEffectEndFrame2,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectEndFrame2 at 0x08D1AC38>
+_CatchKingGamePage__SuccessExplosionEffectEndFrame2,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectEndFrame2 at 0x0848F088>
 	arg0: self
 
 submodule._CatchKingGamePage__SuccessExplosionEffectEndFrame2
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__SuccessExplosionEffectEndFrame3,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectEndFrame3 at 0x08D1ACE8>
+_CatchKingGamePage__SuccessExplosionEffectEndFrame3,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectEndFrame3 at 0x0848F138>
 	arg0: self
 
 submodule._CatchKingGamePage__SuccessExplosionEffectEndFrame3
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__SuccessExplosionEffectEndFrame1,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectEndFrame1 at 0x08D1AB88>
+_CatchKingGamePage__SuccessExplosionEffectEndFrame1,		<cyfunction CatchKingGamePage.__SuccessExplosionEffectEndFrame1 at 0x0848EFA8>
 	arg0: self
 
 submodule._CatchKingGamePage__SuccessExplosionEffectEndFrame1
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-ClickHand,		<cyfunction CatchKingGamePage.ClickHand at 0x08D1AE48>
+ClickHand,		<cyfunction CatchKingGamePage.ClickHand at 0x0848F298>
 	arg0: self
 	arg1: index
 	arg2: is_auto_click
@@ -669,7 +669,7 @@ ClickHand,		<cyfunction CatchKingGamePage.ClickHand at 0x08D1AE48>
 
 submodule.ClickHand
 Skipped: unbound method cython_function_or_method object must be called with CatchKingGamePage instance as first argument (got nothing instead)
-_CatchKingGamePage__RefreshScore,		<cyfunction CatchKingGamePage.__RefreshScore at 0x08D1AB30>
+_CatchKingGamePage__RefreshScore,		<cyfunction CatchKingGamePage.__RefreshScore at 0x0848EF50>
 	arg0: self
 
 submodule._CatchKingGamePage__RefreshScore
@@ -677,23 +677,23 @@ Skipped: unbound method cython_function_or_method object must be called with Cat
 
 
 class CatchKingCard:
-_CatchKingCard__OverFunc,		<cyfunction CatchKingCard.__OverFunc at 0x08D19DF0>
+_CatchKingCard__OverFunc,		<cyfunction CatchKingCard.__OverFunc at 0x0848E240>
 	arg0: self
 
 submodule._CatchKingCard__OverFunc
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-SetNumber,		<cyfunction CatchKingCard.SetNumber at 0x08D1A0E0>
+SetNumber,		<cyfunction CatchKingCard.SetNumber at 0x0848E500>
 	arg0: self
 	arg1: card_number
 
 submodule.SetNumber
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-__del__,		<cyfunction CatchKingCard.__del__ at 0x08D19CE8>
+__del__,		<cyfunction CatchKingCard.__del__ at 0x0848E138>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-SetEndNumber,		<cyfunction CatchKingCard.SetEndNumber at 0x08D1A138>
+SetEndNumber,		<cyfunction CatchKingCard.SetEndNumber at 0x0848E558>
 	arg0: self
 	arg1: card_number
 
@@ -704,41 +704,41 @@ __module__,		uiMiniGameCatchKing
 submodule.__module__
 
 
-SetBingo,		<cyfunction CatchKingCard.SetBingo at 0x08D1A190>
+SetBingo,		<cyfunction CatchKingCard.SetBingo at 0x0848E5B0>
 	arg0: self
 	arg1: is_show
 
 submodule.SetBingo
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-_CatchKingCard__OverOutFunc,		<cyfunction CatchKingCard.__OverOutFunc at 0x08D19E48>
+_CatchKingCard__OverOutFunc,		<cyfunction CatchKingCard.__OverOutFunc at 0x0848E298>
 	arg0: self
 
 submodule._CatchKingCard__OverOutFunc
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-_CatchKingCard__ClickFunc,		<cyfunction CatchKingCard.__ClickFunc at 0x08D19D98>
+_CatchKingCard__ClickFunc,		<cyfunction CatchKingCard.__ClickFunc at 0x0848E1E8>
 	arg0: self
 
 submodule._CatchKingCard__ClickFunc
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-SetShowOverImg,		<cyfunction CatchKingCard.SetShowOverImg at 0x08D1A088>
+SetShowOverImg,		<cyfunction CatchKingCard.SetShowOverImg at 0x0848E4A8>
 	arg0: self
 	arg1: is_show
 
 submodule.SetShowOverImg
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-SetCount,		<cyfunction CatchKingCard.SetCount at 0x08D1A1E8>
+SetCount,		<cyfunction CatchKingCard.SetCount at 0x0848E608>
 	arg0: self
 	arg1: count
 
 submodule.SetCount
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-_CatchKingCard__CreateCardOverImg,		<cyfunction CatchKingCard.__CreateCardOverImg at 0x08D19F50>
+_CatchKingCard__CreateCardOverImg,		<cyfunction CatchKingCard.__CreateCardOverImg at 0x0848E3A0>
 	arg0: self
 	arg1: parent
 
 submodule._CatchKingCard__CreateCardOverImg
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-__init__,		<cyfunction CatchKingCard.__init__ at 0x08D19C90>
+__init__,		<cyfunction CatchKingCard.__init__ at 0x0848E0E0>
 	arg0: self
 	arg1: parent
 	arg2: default_x
@@ -754,18 +754,18 @@ __init__,		<cyfunction CatchKingCard.__init__ at 0x08D19C90>
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-_CatchKingCard__CreateBingoImg,		<cyfunction CatchKingCard.__CreateBingoImg at 0x08D19EF8>
+_CatchKingCard__CreateBingoImg,		<cyfunction CatchKingCard.__CreateBingoImg at 0x0848E348>
 	arg0: self
 	arg1: parent
 
 submodule._CatchKingCard__CreateBingoImg
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-_CatchKingCard__CreateObject,		<cyfunction CatchKingCard.__CreateObject at 0x08D19D40>
+_CatchKingCard__CreateObject,		<cyfunction CatchKingCard.__CreateObject at 0x0848E190>
 	arg0: self
 
 submodule._CatchKingCard__CreateObject
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-_CatchKingCard__CreateCountImg,		<cyfunction CatchKingCard.__CreateCountImg at 0x08D19FA8>
+_CatchKingCard__CreateCountImg,		<cyfunction CatchKingCard.__CreateCountImg at 0x0848E3F8>
 	arg0: self
 	arg1: parent
 
@@ -776,18 +776,18 @@ __qualname__,		CatchKingCard
 submodule.__qualname__
 
 
-_CatchKingCard__CreateArrowImg,		<cyfunction CatchKingCard.__CreateArrowImg at 0x08D1A030>
+_CatchKingCard__CreateArrowImg,		<cyfunction CatchKingCard.__CreateArrowImg at 0x0848E450>
 	arg0: self
 	arg1: parent
 
 submodule._CatchKingCard__CreateArrowImg
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-GetCount,		<cyfunction CatchKingCard.GetCount at 0x08D1A240>
+GetCount,		<cyfunction CatchKingCard.GetCount at 0x0848E660>
 	arg0: self
 
 submodule.GetCount
 Skipped: unbound method cython_function_or_method object must be called with CatchKingCard instance as first argument (got nothing instead)
-SetArrow,		<cyfunction CatchKingCard.SetArrow at 0x08D1A298>
+SetArrow,		<cyfunction CatchKingCard.SetArrow at 0x0848E6B8>
 	arg0: self
 	arg1: is_show
 
@@ -798,7 +798,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_CatchKingCard__CreateDefaultCard,		<cyfunction CatchKingCard.__CreateDefaultCard at 0x08D19EA0>
+_CatchKingCard__CreateDefaultCard,		<cyfunction CatchKingCard.__CreateDefaultCard at 0x0848E2F0>
 	arg0: self
 	arg1: parent
 
@@ -812,17 +812,17 @@ __module__,		uiMiniGameCatchKing
 submodule.__module__
 
 
-Show,		<cyfunction MiniGameCatchKing.Show at 0x08D1B7C0>
+Show,		<cyfunction MiniGameCatchKing.Show at 0x0848FBE0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniGameCatchKing instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameCatchKing.__del__ at 0x08D1B768>
+__del__,		<cyfunction MiniGameCatchKing.__del__ at 0x0848FB88>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameCatchKing instance as first argument (got nothing instead)
-Close,		<cyfunction MiniGameCatchKing.Close at 0x08D1B818>
+Close,		<cyfunction MiniGameCatchKing.Close at 0x0848FC38>
 	arg0: self
 
 submodule.Close
@@ -832,30 +832,30 @@ __qualname__,		MiniGameCatchKing
 submodule.__qualname__
 
 
-CatchKingProcess,		<cyfunction MiniGameCatchKing.CatchKingProcess at 0x08D1B9D0>
+CatchKingProcess,		<cyfunction MiniGameCatchKing.CatchKingProcess at 0x0848FDF0>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.CatchKingProcess
 Skipped: unbound method cython_function_or_method object must be called with MiniGameCatchKing instance as first argument (got nothing instead)
-ChangeState,		<cyfunction MiniGameCatchKing.ChangeState at 0x08D1B920>
+ChangeState,		<cyfunction MiniGameCatchKing.ChangeState at 0x0848FD40>
 	arg0: self
 	arg1: state
 
 submodule.ChangeState
 Skipped: unbound method cython_function_or_method object must be called with MiniGameCatchKing instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniGameCatchKing.Destroy at 0x08D1B870>
+Destroy,		<cyfunction MiniGameCatchKing.Destroy at 0x0848FC90>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MiniGameCatchKing instance as first argument (got nothing instead)
-_MiniGameCatchKing__LoadWindow,		<cyfunction MiniGameCatchKing.__LoadWindow at 0x08D1B8C8>
+_MiniGameCatchKing__LoadWindow,		<cyfunction MiniGameCatchKing.__LoadWindow at 0x0848FCE8>
 	arg0: self
 
 submodule._MiniGameCatchKing__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameCatchKing instance as first argument (got nothing instead)
-Open,		<cyfunction MiniGameCatchKing.Open at 0x08D1B978>
+Open,		<cyfunction MiniGameCatchKing.Open at 0x0848FD98>
 	arg0: self
 
 submodule.Open
@@ -865,7 +865,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction MiniGameCatchKing.__init__ at 0x08D1B710>
+__init__,		<cyfunction MiniGameCatchKing.__init__ at 0x0848FB30>
 	arg0: self
 
 submodule.__init__

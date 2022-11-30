@@ -3,6 +3,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'Close'},
                      {'args': ['self'], 'defaults': [], 'name': 'CloseWhenOpenQuest'},
                      {'args': ['self'], 'defaults': [], 'name': 'Destroy'},
+                     {'args': ['self'], 'defaults': [], 'name': 'InitWebPage'},
                      {'args': ['self'], 'defaults': [], 'name': 'LoadWindow'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnPressEscapeKey'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnUpdate'},

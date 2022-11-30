@@ -7,7 +7,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'OverOutItem'},
                      {'args': ['self', 'event'], 'defaults': [], 'name': 'SetCloseEvent'},
                      {'args': ['self', 'slotIndex', 'attrIndex', 'type', 'value'], 'defaults': [], 'name': 'SetEquipmentDialogAttr'},
-                     {'args': ['self', 'slotIndex', 'vnum', 'count', 'dwChangeLookVnum', 'refine_element'], 'defaults': [], 'name': 'SetEquipmentDialogItem'},
+                     {'args': ['self', 'slotIndex', 'vnum', 'count', 'dwChangeLookVnum', 'refine_element', 'apply_random_list', 'setValue'], 'defaults': [], 'name': 'SetEquipmentDialogItem'},
                      {'args': ['self', 'slotIndex', 'socketIndex', 'value'], 'defaults': [], 'name': 'SetEquipmentDialogSocket'},
                      {'args': ['self', 'tooltipItem'], 'defaults': [], 'name': 'SetItemToolTip'},
                      {'args': ['self'], 'defaults': [], 'name': '__LoadDialog'},

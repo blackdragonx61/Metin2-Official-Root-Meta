@@ -30,14 +30,14 @@ key: FishEventGamePage, val: <class 'uiMiniGameFishEvent.FishEventGamePage'>
 key: item, val: <module 'item' (built-in)>
 key: ITEM_FISH_EVENT_BOX, val: 25106
 key: ui, val: <module 'ui' (built-in)>
-key: LoadScript, val: <cyfunction LoadScript at 0x08CF0C90>
+key: LoadScript, val: <cyfunction LoadScript at 0x0846B0E0>
 key: __test__, val: {}
 key: fish_event_game_state, val: 0
 key: MiniGameFish, val: <class 'uiMiniGameFishEvent.MiniGameFish'>
 
 
 class FishEventGameWaitingPage:
-OnUpdate,		<cyfunction FishEventGameWaitingPage.OnUpdate at 0x08CF9190>
+OnUpdate,		<cyfunction FishEventGameWaitingPage.OnUpdate at 0x0846B5B0>
 	arg0: self
 
 submodule.OnUpdate
@@ -47,22 +47,22 @@ __module__,		uiMiniGameFishEvent
 submodule.__module__
 
 
-_FishEventGameWaitingPage__LoadWindow,		<cyfunction FishEventGameWaitingPage.__LoadWindow at 0x08CF0F50>
+_FishEventGameWaitingPage__LoadWindow,		<cyfunction FishEventGameWaitingPage.__LoadWindow at 0x0846B3A0>
 	arg0: self
 
 submodule._FishEventGameWaitingPage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with FishEventGameWaitingPage instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction FishEventGameWaitingPage.OnPressEscapeKey at 0x08CF9088>
+OnPressEscapeKey,		<cyfunction FishEventGameWaitingPage.OnPressEscapeKey at 0x0846B4A8>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with FishEventGameWaitingPage instance as first argument (got nothing instead)
-Show,		<cyfunction FishEventGameWaitingPage.Show at 0x08CF9138>
+Show,		<cyfunction FishEventGameWaitingPage.Show at 0x0846B558>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with FishEventGameWaitingPage instance as first argument (got nothing instead)
-__del__,		<cyfunction FishEventGameWaitingPage.__del__ at 0x08CF0EA0>
+__del__,		<cyfunction FishEventGameWaitingPage.__del__ at 0x0846B2F0>
 	arg0: self
 
 submodule.__del__
@@ -72,30 +72,30 @@ __qualname__,		FishEventGameWaitingPage
 submodule.__qualname__
 
 
-NextDescriptionPage,		<cyfunction FishEventGameWaitingPage.NextDescriptionPage at 0x08CF9240>
+NextDescriptionPage,		<cyfunction FishEventGameWaitingPage.NextDescriptionPage at 0x0846B660>
 	arg0: self
 
 submodule.NextDescriptionPage
 Skipped: unbound method cython_function_or_method object must be called with FishEventGameWaitingPage instance as first argument (got nothing instead)
 DescriptionBox,		<class 'uiMiniGameFishEvent.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-SetMiniGameFish,		<cyfunction FishEventGameWaitingPage.SetMiniGameFish at 0x08CF0EF8>
+SetMiniGameFish,		<cyfunction FishEventGameWaitingPage.SetMiniGameFish at 0x0846B348>
 	arg0: self
 	arg1: mini_game_fish
 
 submodule.SetMiniGameFish
 Skipped: unbound method cython_function_or_method object must be called with FishEventGameWaitingPage instance as first argument (got nothing instead)
-_FishEventGameWaitingPage__ClickStartButton,		<cyfunction FishEventGameWaitingPage.__ClickStartButton at 0x08CF90E0>
+_FishEventGameWaitingPage__ClickStartButton,		<cyfunction FishEventGameWaitingPage.__ClickStartButton at 0x0846B500>
 	arg0: self
 
 submodule._FishEventGameWaitingPage__ClickStartButton
 Skipped: unbound method cython_function_or_method object must be called with FishEventGameWaitingPage instance as first argument (got nothing instead)
-Close,		<cyfunction FishEventGameWaitingPage.Close at 0x08CF0FA8>
+Close,		<cyfunction FishEventGameWaitingPage.Close at 0x0846B3F8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with FishEventGameWaitingPage instance as first argument (got nothing instead)
-Destroy,		<cyfunction FishEventGameWaitingPage.Destroy at 0x08CF9030>
+Destroy,		<cyfunction FishEventGameWaitingPage.Destroy at 0x0846B450>
 	arg0: self
 
 submodule.Destroy
@@ -105,12 +105,12 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction FishEventGameWaitingPage.__init__ at 0x08CF0E48>
+__init__,		<cyfunction FishEventGameWaitingPage.__init__ at 0x0846B298>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with FishEventGameWaitingPage instance as first argument (got nothing instead)
-PrevDescriptionPage,		<cyfunction FishEventGameWaitingPage.PrevDescriptionPage at 0x08CF91E8>
+PrevDescriptionPage,		<cyfunction FishEventGameWaitingPage.PrevDescriptionPage at 0x0846B608>
 	arg0: self
 
 submodule.PrevDescriptionPage
@@ -123,53 +123,53 @@ __module__,		uiMiniGameFishEvent
 submodule.__module__
 
 
-OnPressEscapeKey,		<cyfunction FishEventGamePage.OnPressEscapeKey at 0x08CF9500>
+OnPressEscapeKey,		<cyfunction FishEventGamePage.OnPressEscapeKey at 0x0846B920>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-SelectItemSlot,		<cyfunction FishEventGamePage.SelectItemSlot at 0x08CF9C38>
+SelectItemSlot,		<cyfunction FishEventGamePage.SelectItemSlot at 0x08471088>
 	arg0: self
 	arg1: slotIndex
 	arg2: type
 
 submodule.SelectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-OverInItem,		<cyfunction FishEventGamePage.OverInItem at 0x08CF9768>
+OverInItem,		<cyfunction FishEventGamePage.OverInItem at 0x0846BB88>
 	arg0: self
 	arg1: slotIndex
 	arg2: type
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-DropQuestionDialog,		<cyfunction FishEventGamePage.DropQuestionDialog at 0x08CF9D98>
+DropQuestionDialog,		<cyfunction FishEventGamePage.DropQuestionDialog at 0x084711E8>
 	arg0: self
 
 submodule.DropQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__QuestionCancel,		<cyfunction FishEventGamePage.__QuestionCancel at 0x08CF9D40>
+_FishEventGamePage__QuestionCancel,		<cyfunction FishEventGamePage.__QuestionCancel at 0x08471190>
 	arg0: self
 
 submodule._FishEventGamePage__QuestionCancel
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__DropAccept,		<cyfunction FishEventGamePage.__DropAccept at 0x08CF9DF0>
+_FishEventGamePage__DropAccept,		<cyfunction FishEventGamePage.__DropAccept at 0x08471240>
 	arg0: self
 
 submodule._FishEventGamePage__DropAccept
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-Destroy,		<cyfunction FishEventGamePage.Destroy at 0x08CF95B0>
+Destroy,		<cyfunction FishEventGamePage.Destroy at 0x0846B9D0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__AddFishEventSlot,		<cyfunction FishEventGamePage.__AddFishEventSlot at 0x08CF9920>
+_FishEventGamePage__AddFishEventSlot,		<cyfunction FishEventGamePage.__AddFishEventSlot at 0x0846BD40>
 	arg0: self
 	arg1: type
 	arg2: pos
 
 submodule._FishEventGamePage__AddFishEventSlot
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-__init__,		<cyfunction FishEventGamePage.__init__ at 0x08CF9298>
+__init__,		<cyfunction FishEventGamePage.__init__ at 0x0846B6B8>
 	arg0: self
 
 submodule.__init__
@@ -179,23 +179,23 @@ __qualname__,		FishEventGamePage
 submodule.__qualname__
 
 
-_FishEventGamePage__UseAccept,		<cyfunction FishEventGamePage.__UseAccept at 0x08CF9C90>
+_FishEventGamePage__UseAccept,		<cyfunction FishEventGamePage.__UseAccept at 0x084710E0>
 	arg0: self
 	arg1: type
 
 submodule._FishEventGamePage__UseAccept
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__ClickHelpButton,		<cyfunction FishEventGamePage.__ClickHelpButton at 0x08CF9710>
+_FishEventGamePage__ClickHelpButton,		<cyfunction FishEventGamePage.__ClickHelpButton at 0x0846BB30>
 	arg0: self
 
 submodule._FishEventGamePage__ClickHelpButton
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__ScoreTextEffectEndFrameEvent,		<cyfunction FishEventGamePage.__ScoreTextEffectEndFrameEvent at 0x08CFA030>
+_FishEventGamePage__ScoreTextEffectEndFrameEvent,		<cyfunction FishEventGamePage.__ScoreTextEffectEndFrameEvent at 0x08471450>
 	arg0: self
 
 submodule._FishEventGamePage__ScoreTextEffectEndFrameEvent
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-MiniGameFishUse,		<cyfunction FishEventGamePage.MiniGameFishUse at 0x08CF9E48>
+MiniGameFishUse,		<cyfunction FishEventGamePage.MiniGameFishUse at 0x08471298>
 	arg0: self
 	arg1: window
 	arg2: pos
@@ -203,122 +203,122 @@ MiniGameFishUse,		<cyfunction FishEventGamePage.MiniGameFishUse at 0x08CF9E48>
 
 submodule.MiniGameFishUse
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__UseAcceptCancel,		<cyfunction FishEventGamePage.__UseAcceptCancel at 0x08CF9CE8>
+_FishEventGamePage__UseAcceptCancel,		<cyfunction FishEventGamePage.__UseAcceptCancel at 0x08471138>
 	arg0: self
 
 submodule._FishEventGamePage__UseAcceptCancel
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-MiniGameFishAdd,		<cyfunction FishEventGamePage.MiniGameFishAdd at 0x08CF9A80>
+MiniGameFishAdd,		<cyfunction FishEventGamePage.MiniGameFishAdd at 0x0846BEA0>
 	arg0: self
 	arg1: pos
 	arg2: shape
 
 submodule.MiniGameFishAdd
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-SetMiniGameFish,		<cyfunction FishEventGamePage.SetMiniGameFish at 0x08CF9348>
+SetMiniGameFish,		<cyfunction FishEventGamePage.SetMiniGameFish at 0x0846B768>
 	arg0: self
 	arg1: mini_game_fish
 
 submodule.SetMiniGameFish
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-ClearFishBoxSlot,		<cyfunction FishEventGamePage.ClearFishBoxSlot at 0x08CF9BE0>
+ClearFishBoxSlot,		<cyfunction FishEventGamePage.ClearFishBoxSlot at 0x08471030>
 	arg0: self
 	arg1: type
 	default: 3
 
 submodule.ClearFishBoxSlot
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__UnselectItemGameSlotEvent,		<cyfunction FishEventGamePage.__UnselectItemGameSlotEvent at 0x08CF98C8>
+_FishEventGamePage__UnselectItemGameSlotEvent,		<cyfunction FishEventGamePage.__UnselectItemGameSlotEvent at 0x0846BCE8>
 	arg0: self
 	arg1: slotIndex
 
 submodule._FishEventGamePage__UnselectItemGameSlotEvent
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-MiniGameFishCount,		<cyfunction FishEventGamePage.MiniGameFishCount at 0x08CF9B30>
+MiniGameFishCount,		<cyfunction FishEventGamePage.MiniGameFishCount at 0x0846BF50>
 	arg0: self
 	arg1: count
 
 submodule.MiniGameFishCount
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-__del__,		<cyfunction FishEventGamePage.__del__ at 0x08CF92F0>
+__del__,		<cyfunction FishEventGamePage.__del__ at 0x0846B710>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__UnselectEmptyGameSlot,		<cyfunction FishEventGamePage.__UnselectEmptyGameSlot at 0x08CF9870>
+_FishEventGamePage__UnselectEmptyGameSlot,		<cyfunction FishEventGamePage.__UnselectEmptyGameSlot at 0x0846BC90>
 	arg0: self
 	arg1: slotIndex
 
 submodule._FishEventGamePage__UnselectEmptyGameSlot
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-SetOnTopWindowNone,		<cyfunction FishEventGamePage.SetOnTopWindowNone at 0x08CF9608>
+SetOnTopWindowNone,		<cyfunction FishEventGamePage.SetOnTopWindowNone at 0x0846BA28>
 	arg0: self
 
 submodule.SetOnTopWindowNone
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__ScoreEffectEndFrameEvent1,		<cyfunction FishEventGamePage.__ScoreEffectEndFrameEvent1 at 0x08CF9EF8>
+_FishEventGamePage__ScoreEffectEndFrameEvent1,		<cyfunction FishEventGamePage.__ScoreEffectEndFrameEvent1 at 0x08471348>
 	arg0: self
 
 submodule._FishEventGamePage__ScoreEffectEndFrameEvent1
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__ScoreEffectEndFrameEvent2,		<cyfunction FishEventGamePage.__ScoreEffectEndFrameEvent2 at 0x08CF9F50>
+_FishEventGamePage__ScoreEffectEndFrameEvent2,		<cyfunction FishEventGamePage.__ScoreEffectEndFrameEvent2 at 0x084713A0>
 	arg0: self
 
 submodule._FishEventGamePage__ScoreEffectEndFrameEvent2
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__ScoreEffectEndFrameEvent3,		<cyfunction FishEventGamePage.__ScoreEffectEndFrameEvent3 at 0x08CF9FA8>
+_FishEventGamePage__ScoreEffectEndFrameEvent3,		<cyfunction FishEventGamePage.__ScoreEffectEndFrameEvent3 at 0x084713F8>
 	arg0: self
 
 submodule._FishEventGamePage__ScoreEffectEndFrameEvent3
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-SetInven,		<cyfunction FishEventGamePage.SetInven at 0x08CF93A0>
+SetInven,		<cyfunction FishEventGamePage.SetInven at 0x0846B7C0>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-OnTop,		<cyfunction FishEventGamePage.OnTop at 0x08CF9660>
+OnTop,		<cyfunction FishEventGamePage.OnTop at 0x0846BA80>
 	arg0: self
 
 submodule.OnTop
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-BindInterface,		<cyfunction FishEventGamePage.BindInterface at 0x08CF93F8>
+BindInterface,		<cyfunction FishEventGamePage.BindInterface at 0x0846B818>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__UnselectItemSlot,		<cyfunction FishEventGamePage.__UnselectItemSlot at 0x08CF9818>
+_FishEventGamePage__UnselectItemSlot,		<cyfunction FishEventGamePage.__UnselectItemSlot at 0x0846BC38>
 	arg0: self
 	arg1: slotIndex
 	arg2: type
 
 submodule._FishEventGamePage__UnselectItemSlot
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction FishEventGamePage.SetItemToolTip at 0x08CF9450>
+SetItemToolTip,		<cyfunction FishEventGamePage.SetItemToolTip at 0x0846B870>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__AddAccept,		<cyfunction FishEventGamePage.__AddAccept at 0x08CF9A28>
+_FishEventGamePage__AddAccept,		<cyfunction FishEventGamePage.__AddAccept at 0x0846BE48>
 	arg0: self
 	arg1: slotIndex
 
 submodule._FishEventGamePage__AddAccept
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-Show,		<cyfunction FishEventGamePage.Show at 0x08CF96B8>
+Show,		<cyfunction FishEventGamePage.Show at 0x0846BAD8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__SelectEmptyGameSlot,		<cyfunction FishEventGamePage.__SelectEmptyGameSlot at 0x08CF99D0>
+_FishEventGamePage__SelectEmptyGameSlot,		<cyfunction FishEventGamePage.__SelectEmptyGameSlot at 0x0846BDF0>
 	arg0: self
 	arg1: slotIndex
 
 submodule._FishEventGamePage__SelectEmptyGameSlot
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-DeattachObject,		<cyfunction FishEventGamePage.DeattachObject at 0x08CF9EA0>
+DeattachObject,		<cyfunction FishEventGamePage.DeattachObject at 0x084712F0>
 	arg0: self
 
 submodule.DeattachObject
@@ -328,38 +328,38 @@ __doc__,		None
 submodule.__doc__
 
 
-OnUpdate,		<cyfunction FishEventGamePage.OnUpdate at 0x08CF9B88>
+OnUpdate,		<cyfunction FishEventGamePage.OnUpdate at 0x0846BFA8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__ClearCompletionEffect,		<cyfunction FishEventGamePage.__ClearCompletionEffect at 0x08CFA088>
+_FishEventGamePage__ClearCompletionEffect,		<cyfunction FishEventGamePage.__ClearCompletionEffect at 0x084714A8>
 	arg0: self
 
 submodule._FishEventGamePage__ClearCompletionEffect
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction FishEventGamePage.OverOutItem at 0x08CF97C0>
+OverOutItem,		<cyfunction FishEventGamePage.OverOutItem at 0x0846BBE0>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-MiniGameFishReward,		<cyfunction FishEventGamePage.MiniGameFishReward at 0x08CF9AD8>
+MiniGameFishReward,		<cyfunction FishEventGamePage.MiniGameFishReward at 0x0846BEF8>
 	arg0: self
 	arg1: vnum
 
 submodule.MiniGameFishReward
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__LoadWindow,		<cyfunction FishEventGamePage.__LoadWindow at 0x08CF94A8>
+_FishEventGamePage__LoadWindow,		<cyfunction FishEventGamePage.__LoadWindow at 0x0846B8C8>
 	arg0: self
 
 submodule._FishEventGamePage__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-Close,		<cyfunction FishEventGamePage.Close at 0x08CF9558>
+Close,		<cyfunction FishEventGamePage.Close at 0x0846B978>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with FishEventGamePage instance as first argument (got nothing instead)
-_FishEventGamePage__SelectEmptySlot,		<cyfunction FishEventGamePage.__SelectEmptySlot at 0x08CF9978>
+_FishEventGamePage__SelectEmptySlot,		<cyfunction FishEventGamePage.__SelectEmptySlot at 0x0846BD98>
 	arg0: self
 	arg1: slotIndex
 	arg2: type
@@ -374,62 +374,62 @@ __module__,		uiMiniGameFishEvent
 submodule.__module__
 
 
-MiniGameFishCount,		<cyfunction MiniGameFish.MiniGameFishCount at 0x08CFA558>
+MiniGameFishCount,		<cyfunction MiniGameFish.MiniGameFishCount at 0x08471978>
 	arg0: self
 	arg1: count
 
 submodule.MiniGameFishCount
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-__del__,		<cyfunction MiniGameFish.__del__ at 0x08CFA138>
+__del__,		<cyfunction MiniGameFish.__del__ at 0x08471558>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-_MiniGameFish__LoadWindow,		<cyfunction MiniGameFish.__LoadWindow at 0x08CFA298>
+_MiniGameFish__LoadWindow,		<cyfunction MiniGameFish.__LoadWindow at 0x084716B8>
 	arg0: self
 
 submodule._MiniGameFish__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-CantFishEventSlot,		<cyfunction MiniGameFish.CantFishEventSlot at 0x08CFA5B0>
+CantFishEventSlot,		<cyfunction MiniGameFish.CantFishEventSlot at 0x084719D0>
 	arg0: self
 	arg1: InvenSlot
 
 submodule.CantFishEventSlot
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-Destroy,		<cyfunction MiniGameFish.Destroy at 0x08CFA240>
+Destroy,		<cyfunction MiniGameFish.Destroy at 0x08471660>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-SetInven,		<cyfunction MiniGameFish.SetInven at 0x08CFA2F0>
+SetInven,		<cyfunction MiniGameFish.SetInven at 0x08471710>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-__init__,		<cyfunction MiniGameFish.__init__ at 0x08CFA0E0>
+__init__,		<cyfunction MiniGameFish.__init__ at 0x08471500>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-BindInterface,		<cyfunction MiniGameFish.BindInterface at 0x08CFA348>
+BindInterface,		<cyfunction MiniGameFish.BindInterface at 0x08471768>
 	arg0: self
 	arg1: interface
 
 submodule.BindInterface
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction MiniGameFish.SetItemToolTip at 0x08CFA3A0>
+SetItemToolTip,		<cyfunction MiniGameFish.SetItemToolTip at 0x084717C0>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-Show,		<cyfunction MiniGameFish.Show at 0x08CFA190>
+Show,		<cyfunction MiniGameFish.Show at 0x084715B0>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-MiniGameFishUse,		<cyfunction MiniGameFish.MiniGameFishUse at 0x08CFA450>
+MiniGameFishUse,		<cyfunction MiniGameFish.MiniGameFishUse at 0x08471870>
 	arg0: self
 	arg1: window
 	arg2: pos
@@ -447,24 +447,24 @@ __qualname__,		MiniGameFish
 submodule.__qualname__
 
 
-Close,		<cyfunction MiniGameFish.Close at 0x08CFA1E8>
+Close,		<cyfunction MiniGameFish.Close at 0x08471608>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-Open,		<cyfunction MiniGameFish.Open at 0x08CFA3F8>
+Open,		<cyfunction MiniGameFish.Open at 0x08471818>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-MiniGameFishAdd,		<cyfunction MiniGameFish.MiniGameFishAdd at 0x08CFA4A8>
+MiniGameFishAdd,		<cyfunction MiniGameFish.MiniGameFishAdd at 0x084718C8>
 	arg0: self
 	arg1: pos
 	arg2: shape
 
 submodule.MiniGameFishAdd
 Skipped: unbound method cython_function_or_method object must be called with MiniGameFish instance as first argument (got nothing instead)
-MiniGameFishReward,		<cyfunction MiniGameFish.MiniGameFishReward at 0x08CFA500>
+MiniGameFishReward,		<cyfunction MiniGameFish.MiniGameFishReward at 0x08471920>
 	arg0: self
 	arg1: vnum
 

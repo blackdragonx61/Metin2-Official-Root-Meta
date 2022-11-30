@@ -25,6 +25,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetCheckWidth'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetCursorPosition'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetMax'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetMovableEditLineMode'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetNumberMode'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetStringMode'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetText'},

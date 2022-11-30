@@ -19,6 +19,7 @@ key: __doc__, val: None
 key: uiCommon, val: <module 'uiCommon' (built-in)>
 key: __builtins__, val: <module '__builtin__' (built-in)>
 key: __test__, val: {}
+key: SET_VALUE_MIN_REFINE_LEVEL, val: 7
 key: __name__, val: uiRefine
 key: REFINE_ELEMENT_DOWNGRADE_YANG, val: 10000000
 key: REFINE_ELEMENT_ITEM_TYPE_TUPLE, val: (1,)
@@ -33,7 +34,7 @@ _RefineElementDialog__title_name,		<member '_RefineElementDialog__title_name' of
 submodule._RefineElementDialog__title_name
 
 
-_RefineElementDialog__UpdateDialog,		<cyfunction RefineElementDialog.__UpdateDialog at 0x08B1AC38>
+_RefineElementDialog__UpdateDialog,		<cyfunction RefineElementDialog.__UpdateDialog at 0x08265240>
 	arg0: self
 
 submodule._RefineElementDialog__UpdateDialog
@@ -43,7 +44,7 @@ _RefineElementDialog__cost_text,		<member '_RefineElementDialog__cost_text' of '
 submodule._RefineElementDialog__cost_text
 
 
-_RefineElementDialog__Open,		<cyfunction RefineElementDialog.__Open at 0x08B1AB30>
+_RefineElementDialog__Open,		<cyfunction RefineElementDialog.__Open at 0x08265138>
 	arg0: self
 	arg1: refine_type
 	arg2: material_pos
@@ -51,7 +52,7 @@ _RefineElementDialog__Open,		<cyfunction RefineElementDialog.__Open at 0x08B1AB3
 
 submodule._RefineElementDialog__Open
 Skipped: unbound method cython_function_or_method object must be called with RefineElementDialog instance as first argument (got nothing instead)
-CanRefineElementDowngrade,		<classmethod object at 0x08B17D90>
+CanRefineElementDowngrade,		<classmethod object at 0x08260F90>
 	arg0: cls
 	arg1: material_window
 	arg2: material_pos
@@ -64,19 +65,19 @@ CanRefineElementDowngrade,		<classmethod object at 0x08B17D90>
 
 submodule.CanRefineElementDowngrade
 Skipped: CanRefineElementDowngrade() takes at least 5 positional arguments (1 given)
-_RefineElementDialog__UpgradeUIOpen,		<cyfunction RefineElementDialog.__UpgradeUIOpen at 0x08B1AB88>
+_RefineElementDialog__UpgradeUIOpen,		<cyfunction RefineElementDialog.__UpgradeUIOpen at 0x08265190>
 	arg0: self
 	arg1: material_pos
 	arg2: item_pos
 
 submodule._RefineElementDialog__UpgradeUIOpen
 Skipped: unbound method cython_function_or_method object must be called with RefineElementDialog instance as first argument (got nothing instead)
-_RefineElementDialog__Clear,		<cyfunction RefineElementDialog.__Clear at 0x08B1AAD8>
+_RefineElementDialog__Clear,		<cyfunction RefineElementDialog.__Clear at 0x082650E0>
 	arg0: self
 
 submodule._RefineElementDialog__Clear
 Skipped: unbound method cython_function_or_method object must be called with RefineElementDialog instance as first argument (got nothing instead)
-RefineElementProcess,		<cyfunction RefineElementDialog.RefineElementProcess at 0x08B1AA80>
+RefineElementProcess,		<cyfunction RefineElementDialog.RefineElementProcess at 0x08265088>
 	arg0: self
 	arg1: type
 	arg2: refine_type
@@ -99,17 +100,17 @@ __doc__,		None
 submodule.__doc__
 
 
-__del__,		<cyfunction RefineElementDialog.__del__ at 0x08B1A768>
+__del__,		<cyfunction RefineElementDialog.__del__ at 0x08264D40>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RefineElementDialog instance as first argument (got nothing instead)
-_RefineElementDialog__MakeSlot,		<cyfunction RefineElementDialog.__MakeSlot at 0x08B1A8C8>
+_RefineElementDialog__MakeSlot,		<cyfunction RefineElementDialog.__MakeSlot at 0x08264EA0>
 	arg0: self
 
 submodule._RefineElementDialog__MakeSlot
 Skipped: unbound method cython_function_or_method object must be called with RefineElementDialog instance as first argument (got nothing instead)
-SetInven,		<cyfunction RefineElementDialog.SetInven at 0x08B1A870>
+SetInven,		<cyfunction RefineElementDialog.SetInven at 0x08264E48>
 	arg0: self
 	arg1: inven
 
@@ -125,7 +126,7 @@ _RefineElementDialog__apply_type,		<member '_RefineElementDialog__apply_type' of
 submodule._RefineElementDialog__apply_type
 
 
-_RefineElementDialog__CancelRefine,		<cyfunction RefineElementDialog.__CancelRefine at 0x08B1AD40>
+_RefineElementDialog__CancelRefine,		<cyfunction RefineElementDialog.__CancelRefine at 0x08265348>
 	arg0: self
 
 submodule._RefineElementDialog__CancelRefine
@@ -145,7 +146,7 @@ _RefineElementDialog__item_image,		<member '_RefineElementDialog__item_image' of
 submodule._RefineElementDialog__item_image
 
 
-_RefineElementDialog__LoadScript,		<cyfunction RefineElementDialog.__LoadScript at 0x08B1A818>
+_RefineElementDialog__LoadScript,		<cyfunction RefineElementDialog.__LoadScript at 0x08264DF0>
 	arg0: self
 
 submodule._RefineElementDialog__LoadScript
@@ -155,7 +156,7 @@ __module__,		uiRefine
 submodule.__module__
 
 
-_RefineElementDialog__SetMouseEventSlot,		<cyfunction RefineElementDialog.__SetMouseEventSlot at 0x08B1AA28>
+_RefineElementDialog__SetMouseEventSlot,		<cyfunction RefineElementDialog.__SetMouseEventSlot at 0x08265030>
 	arg0: self
 	arg1: is_cant_mouse_event
 
@@ -171,12 +172,12 @@ _RefineElementDialog__is_loaded,		<member '_RefineElementDialog__is_loaded' of '
 submodule._RefineElementDialog__is_loaded
 
 
-Destroy,		<cyfunction RefineElementDialog.Destroy at 0x08B1A7C0>
+Destroy,		<cyfunction RefineElementDialog.Destroy at 0x08264D98>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with RefineElementDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction RefineElementDialog.__init__ at 0x08B1A710>
+__init__,		<cyfunction RefineElementDialog.__init__ at 0x08264CE8>
 	arg0: self
 
 submodule.__init__
@@ -191,7 +192,7 @@ _RefineElementDialog__material_pos,		<member '_RefineElementDialog__material_pos
 submodule._RefineElementDialog__material_pos
 
 
-_RefineElementDialog__MakeItemImage,		<cyfunction RefineElementDialog.__MakeItemImage at 0x08B1A920>
+_RefineElementDialog__MakeItemImage,		<cyfunction RefineElementDialog.__MakeItemImage at 0x08264EF8>
 	arg0: self
 
 submodule._RefineElementDialog__MakeItemImage
@@ -206,7 +207,7 @@ _RefineElementDialog__tooltip,		<member '_RefineElementDialog__tooltip' of 'Refi
 submodule._RefineElementDialog__tooltip
 
 
-CanRefineElementUpgrade,		<classmethod object at 0x08B17D70>
+CanRefineElementUpgrade,		<classmethod object at 0x08260F70>
 	arg0: cls
 	arg1: material_window
 	arg2: material_pos
@@ -224,7 +225,7 @@ REFINE_ELEMENT_RANDOM_VALUE_MAX,		8
 submodule.REFINE_ELEMENT_RANDOM_VALUE_MAX
 
 
-OnPressEscapeKey,		<cyfunction RefineElementDialog.OnPressEscapeKey at 0x08B1AC90>
+OnPressEscapeKey,		<cyfunction RefineElementDialog.OnPressEscapeKey at 0x08265298>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -244,19 +245,19 @@ REFINE_ELEMENT_RANDOM_BONUS_VALUE_MAX,		12
 submodule.REFINE_ELEMENT_RANDOM_BONUS_VALUE_MAX
 
 
-_RefineElementDialog__DowngradeUIOpen,		<cyfunction RefineElementDialog.__DowngradeUIOpen at 0x08B1ABE0>
+_RefineElementDialog__DowngradeUIOpen,		<cyfunction RefineElementDialog.__DowngradeUIOpen at 0x082651E8>
 	arg0: self
 	arg1: material_pos
 	arg2: item_pos
 
 submodule._RefineElementDialog__DowngradeUIOpen
 Skipped: unbound method cython_function_or_method object must be called with RefineElementDialog instance as first argument (got nothing instead)
-_RefineElementDialog__ClickAcceptButton,		<cyfunction RefineElementDialog.__ClickAcceptButton at 0x08B1ACE8>
+_RefineElementDialog__ClickAcceptButton,		<cyfunction RefineElementDialog.__ClickAcceptButton at 0x082652F0>
 	arg0: self
 
 submodule._RefineElementDialog__ClickAcceptButton
 Skipped: unbound method cython_function_or_method object must be called with RefineElementDialog instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction RefineElementDialog.OnUpdate at 0x08B1A9D0>
+OnUpdate,		<cyfunction RefineElementDialog.OnUpdate at 0x08264FA8>
 	arg0: self
 
 submodule.OnUpdate
@@ -266,7 +267,7 @@ __slots__,		('__is_loaded', '__inven', '__board', '__titlebar', '__title_name', 
 submodule.__slots__
 
 
-_RefineElementDialog__MakeThinBoard,		<cyfunction RefineElementDialog.__MakeThinBoard at 0x08B1A978>
+_RefineElementDialog__MakeThinBoard,		<cyfunction RefineElementDialog.__MakeThinBoard at 0x08264F50>
 	arg0: self
 
 submodule._RefineElementDialog__MakeThinBoard
@@ -279,12 +280,12 @@ __module__,		uiRefine
 submodule.__module__
 
 
-_RefineDialog__LoadQuestionDialog,		<cyfunction RefineDialog.__LoadQuestionDialog at 0x08B0BD98>
+_RefineDialog__LoadQuestionDialog,		<cyfunction RefineDialog.__LoadQuestionDialog at 0x08264240>
 	arg0: self
 
 submodule._RefineDialog__LoadQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with RefineDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction RefineDialog.__del__ at 0x08B0BD40>
+__del__,		<cyfunction RefineDialog.__del__ at 0x082641E8>
 	arg0: self
 
 submodule.__del__
@@ -294,34 +295,34 @@ upgradeStoneSuccessPercentage,		(30, 29, 28, 27, 26, 25, 24, 23, 22)
 submodule.upgradeStoneSuccessPercentage
 
 
-GetRefineSuccessPercentage,		<cyfunction RefineDialog.GetRefineSuccessPercentage at 0x08B0BE48>
+GetRefineSuccessPercentage,		<cyfunction RefineDialog.GetRefineSuccessPercentage at 0x082642F0>
 	arg0: self
 	arg1: scrollSlotIndex
 	arg2: itemSlotIndex
 
 submodule.GetRefineSuccessPercentage
 Skipped: unbound method cython_function_or_method object must be called with RefineDialog instance as first argument (got nothing instead)
-IsShow,		<cyfunction RefineDialog.IsShow at 0x08B1A0E0>
+IsShow,		<cyfunction RefineDialog.IsShow at 0x08264558>
 	arg0: self
 
 submodule.IsShow
 Skipped: unbound method cython_function_or_method object must be called with RefineDialog instance as first argument (got nothing instead)
-OpenQuestionDialog,		<cyfunction RefineDialog.OpenQuestionDialog at 0x08B0BF50>
+OpenQuestionDialog,		<cyfunction RefineDialog.OpenQuestionDialog at 0x082643F8>
 	arg0: self
 
 submodule.OpenQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with RefineDialog instance as first argument (got nothing instead)
-_RefineDialog__LoadScript,		<cyfunction RefineDialog.__LoadScript at 0x08B0BCE8>
+_RefineDialog__LoadScript,		<cyfunction RefineDialog.__LoadScript at 0x08264190>
 	arg0: self
 
 submodule._RefineDialog__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with RefineDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction RefineDialog.OnPressEscapeKey at 0x08B1A088>
+OnPressEscapeKey,		<cyfunction RefineDialog.OnPressEscapeKey at 0x08264500>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with RefineDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction RefineDialog.Destroy at 0x08B0BDF0>
+Destroy,		<cyfunction RefineDialog.Destroy at 0x08264298>
 	arg0: self
 
 submodule.Destroy
@@ -331,12 +332,12 @@ upgradeAccessorySuccessPercentage,		(99, 88, 77, 66, 33, 33, 33, 33, 33)
 submodule.upgradeAccessorySuccessPercentage
 
 
-UpdateDialog,		<cyfunction RefineDialog.UpdateDialog at 0x08B0BEF8>
+UpdateDialog,		<cyfunction RefineDialog.UpdateDialog at 0x082643A0>
 	arg0: self
 
 submodule.UpdateDialog
 Skipped: unbound method cython_function_or_method object must be called with RefineDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction RefineDialog.__init__ at 0x08B0BC90>
+__init__,		<cyfunction RefineDialog.__init__ at 0x08264138>
 	arg0: self
 
 submodule.__init__
@@ -356,7 +357,7 @@ upgradeSuccessPercentage,		(99, 66, 33, 33, 33, 33, 33, 33, 33)
 submodule.upgradeSuccessPercentage
 
 
-Accept,		<cyfunction RefineDialog.Accept at 0x08B0BFA8>
+Accept,		<cyfunction RefineDialog.Accept at 0x08264450>
 	arg0: self
 
 submodule.Accept
@@ -366,12 +367,12 @@ __qualname__,		RefineDialog
 submodule.__qualname__
 
 
-Close,		<cyfunction RefineDialog.Close at 0x08B1A030>
+Close,		<cyfunction RefineDialog.Close at 0x082644A8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with RefineDialog instance as first argument (got nothing instead)
-Open,		<cyfunction RefineDialog.Open at 0x08B0BEA0>
+Open,		<cyfunction RefineDialog.Open at 0x08264348>
 	arg0: self
 	arg1: scrollItemPos
 	arg2: targetItemPos
@@ -406,7 +407,7 @@ _RefineElementChangeDialog__apply_type,		<member '_RefineElementChangeDialog__ap
 submodule._RefineElementChangeDialog__apply_type
 
 
-__del__,		<cyfunction RefineElementChangeDialog.__del__ at 0x08B1AEF8>
+__del__,		<cyfunction RefineElementChangeDialog.__del__ at 0x08265500>
 	arg0: self
 
 submodule.__del__
@@ -421,23 +422,23 @@ _RefineElementChangeDialog__item_name,		<member '_RefineElementChangeDialog__ite
 submodule._RefineElementChangeDialog__item_name
 
 
-_RefineElementChangeDialog__Clear,		<cyfunction RefineElementChangeDialog.__Clear at 0x08B1C348>
+_RefineElementChangeDialog__Clear,		<cyfunction RefineElementChangeDialog.__Clear at 0x08265920>
 	arg0: self
 
 submodule._RefineElementChangeDialog__Clear
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-_RefineElementChangeDialog__LoadScript,		<cyfunction RefineElementChangeDialog.__LoadScript at 0x08B1AFA8>
+_RefineElementChangeDialog__LoadScript,		<cyfunction RefineElementChangeDialog.__LoadScript at 0x082655B0>
 	arg0: self
 
 submodule._RefineElementChangeDialog__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-_RefineElementChangeDialog__DisableButton,		<cyfunction RefineElementChangeDialog.__DisableButton at 0x08B1C2F0>
+_RefineElementChangeDialog__DisableButton,		<cyfunction RefineElementChangeDialog.__DisableButton at 0x082658C8>
 	arg0: self
 	arg1: key
 
 submodule._RefineElementChangeDialog__DisableButton
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-CanRefineElementChange,		<classmethod object at 0x08B17DD0>
+CanRefineElementChange,		<classmethod object at 0x08260FD0>
 	arg0: cls
 	arg1: material_window
 	arg2: material_pos
@@ -450,7 +451,7 @@ CanRefineElementChange,		<classmethod object at 0x08B17DD0>
 
 submodule.CanRefineElementChange
 Skipped: CanRefineElementChange() takes at least 5 positional arguments (1 given)
-OnPressEscapeKey,		<cyfunction RefineElementChangeDialog.OnPressEscapeKey at 0x08B1C138>
+OnPressEscapeKey,		<cyfunction RefineElementChangeDialog.OnPressEscapeKey at 0x08265710>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -460,7 +461,7 @@ _RefineElementChangeDialog__inven,		<member '_RefineElementChangeDialog__inven' 
 submodule._RefineElementChangeDialog__inven
 
 
-Destroy,		<cyfunction RefineElementChangeDialog.Destroy at 0x08B1AF50>
+Destroy,		<cyfunction RefineElementChangeDialog.Destroy at 0x08265558>
 	arg0: self
 
 submodule.Destroy
@@ -470,23 +471,23 @@ _RefineElementChangeDialog__refine_type,		<member '_RefineElementChangeDialog__r
 submodule._RefineElementChangeDialog__refine_type
 
 
-SetInven,		<cyfunction RefineElementChangeDialog.SetInven at 0x08B1C0E0>
+SetInven,		<cyfunction RefineElementChangeDialog.SetInven at 0x082656B8>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction RefineElementChangeDialog.__init__ at 0x08B1AEA0>
+__init__,		<cyfunction RefineElementChangeDialog.__init__ at 0x082654A8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-_RefineElementChangeDialog__BindEvent,		<cyfunction RefineElementChangeDialog.__BindEvent at 0x08B1C088>
+_RefineElementChangeDialog__BindEvent,		<cyfunction RefineElementChangeDialog.__BindEvent at 0x08265660>
 	arg0: self
 
 submodule._RefineElementChangeDialog__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction RefineElementChangeDialog.OnUpdate at 0x08B1C190>
+OnUpdate,		<cyfunction RefineElementChangeDialog.OnUpdate at 0x08265768>
 	arg0: self
 
 submodule.OnUpdate
@@ -516,7 +517,7 @@ __slots__,		('__is_loaded', '__inven', '__tabButtonDict', '__cost_text', '__popu
 submodule.__slots__
 
 
-RefineElementChangeProcess,		<cyfunction RefineElementChangeDialog.RefineElementChangeProcess at 0x08B1C450>
+RefineElementChangeProcess,		<cyfunction RefineElementChangeDialog.RefineElementChangeProcess at 0x08265A28>
 	arg0: self
 	arg1: type
 	arg2: refine_type
@@ -534,12 +535,12 @@ __qualname__,		RefineElementChangeDialog
 submodule.__qualname__
 
 
-_RefineElementChangeDialog__BindObject,		<cyfunction RefineElementChangeDialog.__BindObject at 0x08B1C030>
+_RefineElementChangeDialog__BindObject,		<cyfunction RefineElementChangeDialog.__BindObject at 0x08265608>
 	arg0: self
 
 submodule._RefineElementChangeDialog__BindObject
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-_RefineElementChangeDialog__Open,		<cyfunction RefineElementChangeDialog.__Open at 0x08B1C3A0>
+_RefineElementChangeDialog__Open,		<cyfunction RefineElementChangeDialog.__Open at 0x08265978>
 	arg0: self
 	arg1: refine_type
 	arg2: material_pos
@@ -547,18 +548,18 @@ _RefineElementChangeDialog__Open,		<cyfunction RefineElementChangeDialog.__Open 
 
 submodule._RefineElementChangeDialog__Open
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-_RefineElementChangeDialog__OnClickTabButton,		<cyfunction RefineElementChangeDialog.__OnClickTabButton at 0x08B1C298>
+_RefineElementChangeDialog__OnClickTabButton,		<cyfunction RefineElementChangeDialog.__OnClickTabButton at 0x08265870>
 	arg0: self
 	arg1: key
 
 submodule._RefineElementChangeDialog__OnClickTabButton
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-_RefineElementChangeDialog__ClickAcceptButton,		<cyfunction RefineElementChangeDialog.__ClickAcceptButton at 0x08B1C240>
+_RefineElementChangeDialog__ClickAcceptButton,		<cyfunction RefineElementChangeDialog.__ClickAcceptButton at 0x08265818>
 	arg0: self
 
 submodule._RefineElementChangeDialog__ClickAcceptButton
 Skipped: unbound method cython_function_or_method object must be called with RefineElementChangeDialog instance as first argument (got nothing instead)
-_RefineElementChangeDialog__SetMouseEventSlot,		<cyfunction RefineElementChangeDialog.__SetMouseEventSlot at 0x08B1C1E8>
+_RefineElementChangeDialog__SetMouseEventSlot,		<cyfunction RefineElementChangeDialog.__SetMouseEventSlot at 0x082657C0>
 	arg0: self
 	arg1: is_cant_mouse_event
 
@@ -569,7 +570,7 @@ _RefineElementChangeDialog__material_pos,		<member '_RefineElementChangeDialog__
 submodule._RefineElementChangeDialog__material_pos
 
 
-_RefineElementChangeDialog__CancelRefine,		<cyfunction RefineElementChangeDialog.__CancelRefine at 0x08B1C3F8>
+_RefineElementChangeDialog__CancelRefine,		<cyfunction RefineElementChangeDialog.__CancelRefine at 0x082659D0>
 	arg0: self
 
 submodule._RefineElementChangeDialog__CancelRefine
@@ -577,69 +578,92 @@ Skipped: unbound method cython_function_or_method object must be called with Ref
 
 
 class RefineDialogNew:
+_RefineDialogNew__SetMouseEventSlot,		<cyfunction RefineDialogNew.__SetMouseEventSlot at 0x08264920>
+	arg0: self
+	arg1: is_cant_mouse_event
+
+submodule._RefineDialogNew__SetMouseEventSlot
+Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
 __module__,		uiRefine
 
 submodule.__module__
 
 
-__del__,		<cyfunction RefineDialogNew.__del__ at 0x08B1A240>
+RefineQuestionWarningAccept,		<cyfunction RefineDialogNew.RefineQuestionWarningAccept at 0x082648C8>
+	arg0: self
+
+submodule.RefineQuestionWarningAccept
+Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
+__del__,		<cyfunction RefineDialogNew.__del__ at 0x082646B8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-OpenQuestionDialog,		<cyfunction RefineDialogNew.OpenQuestionDialog at 0x08B1A558>
+OpenQuestionDialog,		<cyfunction RefineDialogNew.OpenQuestionDialog at 0x08264AD8>
 	arg0: self
 
 submodule.OpenQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-_RefineDialogNew__Initialize,		<cyfunction RefineDialogNew.__Initialize at 0x08B1A190>
+_RefineDialogNew__Initialize,		<cyfunction RefineDialogNew.__Initialize at 0x08264608>
 	arg0: self
 
 submodule._RefineDialogNew__Initialize
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-_RefineDialogNew__LoadScript,		<cyfunction RefineDialogNew.__LoadScript at 0x08B1A1E8>
+_RefineDialogNew__LoadScript,		<cyfunction RefineDialogNew.__LoadScript at 0x08264660>
 	arg0: self
 
 submodule._RefineDialogNew__LoadScript
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction RefineDialogNew.OnPressEscapeKey at 0x08B1A660>
+OnPressEscapeKey,		<cyfunction RefineDialogNew.OnPressEscapeKey at 0x08264C38>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-Destroy,		<cyfunction RefineDialogNew.Destroy at 0x08B1A3A0>
+Destroy,		<cyfunction RefineDialogNew.Destroy at 0x08264818>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-UpdateDialog,		<cyfunction RefineDialogNew.UpdateDialog at 0x08B1A500>
+UpdateDialog,		<cyfunction RefineDialogNew.UpdateDialog at 0x08264A80>
 	arg0: self
 
 submodule.UpdateDialog
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-_RefineDialogNew__MakeThinBoard,		<cyfunction RefineDialogNew.__MakeThinBoard at 0x08B1A348>
+SetInven,		<cyfunction RefineDialogNew.SetInven at 0x08264870>
+	arg0: self
+	arg1: inven
+
+submodule.SetInven
+Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
+__init__,		<cyfunction RefineDialogNew.__init__ at 0x082645B0>
 	arg0: self
 
-submodule._RefineDialogNew__MakeThinBoard
+submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction RefineDialogNew.OnUpdate at 0x08B1A6B8>
+OpenCubemakeQuestionDialog,		<cyfunction RefineDialogNew.OpenCubemakeQuestionDialog at 0x08264B88>
+	arg0: self
+	arg1: text
+
+submodule.OpenCubemakeQuestionDialog
+Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
+OnUpdate,		<cyfunction RefineDialogNew.OnUpdate at 0x08264C90>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-AppendMaterial,		<cyfunction RefineDialogNew.AppendMaterial at 0x08B1A4A8>
+AppendMaterial,		<cyfunction RefineDialogNew.AppendMaterial at 0x08264A28>
 	arg0: self
 	arg1: vnum
 	arg2: count
 
 submodule.AppendMaterial
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-_RefineDialogNew__MakeItemImage,		<cyfunction RefineDialogNew.__MakeItemImage at 0x08B1A2F0>
+_RefineDialogNew__MakeItemImage,		<cyfunction RefineDialogNew.__MakeItemImage at 0x08264768>
 	arg0: self
 
 submodule._RefineDialogNew__MakeItemImage
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-Accept,		<cyfunction RefineDialogNew.Accept at 0x08B1A5B0>
+Accept,		<cyfunction RefineDialogNew.Accept at 0x08264B30>
 	arg0: self
 
 submodule.Accept
@@ -649,33 +673,35 @@ __qualname__,		RefineDialogNew
 submodule.__qualname__
 
 
-_RefineDialogNew__MakeSlot,		<cyfunction RefineDialogNew.__MakeSlot at 0x08B1A298>
+_RefineDialogNew__MakeSlot,		<cyfunction RefineDialogNew.__MakeSlot at 0x08264710>
 	arg0: self
 
 submodule._RefineDialogNew__MakeSlot
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-__init__,		<cyfunction RefineDialogNew.__init__ at 0x08B1A138>
+_RefineDialogNew__MakeThinBoard,		<cyfunction RefineDialogNew.__MakeThinBoard at 0x082647C0>
 	arg0: self
 
-submodule.__init__
+submodule._RefineDialogNew__MakeThinBoard
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-CancelRefine,		<cyfunction RefineDialogNew.CancelRefine at 0x08B1A608>
+CancelRefine,		<cyfunction RefineDialogNew.CancelRefine at 0x08264BE0>
 	arg0: self
 
 submodule.CancelRefine
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-Close,		<cyfunction RefineDialogNew.Close at 0x08B1A450>
+Close,		<cyfunction RefineDialogNew.Close at 0x082649D0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)
-Open,		<cyfunction RefineDialogNew.Open at 0x08B1A3F8>
+Open,		<cyfunction RefineDialogNew.Open at 0x08264978>
 	arg0: self
 	arg1: targetItemPos
 	arg2: nextGradeItemVnum
 	arg3: cost
 	arg4: prob
 	arg5: type
+	arg6: apply_random_list
+	arg7: src_vnum
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with RefineDialogNew instance as first argument (got nothing instead)

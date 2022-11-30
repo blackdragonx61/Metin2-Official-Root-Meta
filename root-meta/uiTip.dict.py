@@ -82,7 +82,7 @@
             'var': [{'name': 'FONT_HEIGHT', 'type': 'int', 'value': 15},
                     {'name': 'LINE_HEIGHT', 'type': 'int', 'value': 20},
                     {'name': 'LONG_TEXT_START_X', 'type': 'int', 'value': 300},
-                    {'name': 'SCREEN_WIDTH', 'type': 'int', 'value': 1024},
+                    {'name': 'SCREEN_WIDTH', 'type': 'int', 'value': 1600},
                     {'name': 'STEP_HEIGHT', 'type': 'int', 'value': 25},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'uiTip'},
