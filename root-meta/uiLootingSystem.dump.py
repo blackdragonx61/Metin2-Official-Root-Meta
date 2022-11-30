@@ -62,7 +62,7 @@ key: ui, val: <module 'ui' (built-in)>
 key: SUB_TOPIC_INDEX_CATEGORY_DS, val: 6
 key: SUB_TOPIC_INDEX_CATEGORY_UNIQUE, val: 7
 key: MAIN_TOPIC_INDEX_FISH_MINING, val: 9
-key: os, val: <module 'os' from 'C:\m2\.DE\metin2\de-DE\lib\os.pyc'>
+key: os, val: <module 'os' from 'C:\m2\.HU\lib\os.pyc'>
 key: LootingSystemLoca, val: <class 'uiLootingSystem.LootingSystemLoca'>
 key: SUB_TOPIC_INDEX_CATEGORY_ETC, val: 12
 
@@ -97,7 +97,7 @@ _MainTopic__is_on,		<member '_MainTopic__is_on' of 'MainTopic' objects>
 submodule._MainTopic__is_on
 
 
-__init__,		<cyfunction MainTopic.__init__ at 0x1717B818>
+__init__,		<cyfunction MainTopic.__init__ at 0x1E2EE7C0>
 	arg0: self
 	arg1: root_parent_window
 	arg2: parent_object
@@ -110,7 +110,7 @@ _MainTopic__title_text_window,		<member '_MainTopic__title_text_window' of 'Main
 submodule._MainTopic__title_text_window
 
 
-_MainTopic__OnClickOff,		<cyfunction MainTopic.__OnClickOff at 0x1717B978>
+_MainTopic__OnClickOff,		<cyfunction MainTopic.__OnClickOff at 0x1E2EE920>
 	arg0: self
 
 submodule._MainTopic__OnClickOff
@@ -120,7 +120,7 @@ _MainTopic__title_image_object,		<member '_MainTopic__title_image_object' of 'Ma
 submodule._MainTopic__title_image_object
 
 
-_MainTopic__CreateObject,		<cyfunction MainTopic.__CreateObject at 0x1717B8C8>
+_MainTopic__CreateObject,		<cyfunction MainTopic.__CreateObject at 0x1E2EE870>
 	arg0: self
 
 submodule._MainTopic__CreateObject
@@ -145,12 +145,12 @@ _MainTopic__onoff_button_object,		<member '_MainTopic__onoff_button_object' of '
 submodule._MainTopic__onoff_button_object
 
 
-_MainTopic__OnClickOn,		<cyfunction MainTopic.__OnClickOn at 0x1717B920>
+_MainTopic__OnClickOn,		<cyfunction MainTopic.__OnClickOn at 0x1E2EE8C8>
 	arg0: self
 
 submodule._MainTopic__OnClickOn
 Skipped: unbound method cython_function_or_method object must be called with MainTopic instance as first argument (got nothing instead)
-__del__,		<cyfunction MainTopic.__del__ at 0x1717B870>
+__del__,		<cyfunction MainTopic.__del__ at 0x1E2EE818>
 	arg0: self
 
 submodule.__del__
@@ -160,7 +160,7 @@ _MainTopic__title_text,		<member '_MainTopic__title_text' of 'MainTopic' objects
 submodule._MainTopic__title_text
 
 
-Record,		<cyfunction MainTopic.Record at 0x1717B9D0>
+Record,		<cyfunction MainTopic.Record at 0x1E2EE978>
 	arg0: self
 
 submodule.Record
@@ -180,7 +180,7 @@ _MainTopic__title_text_object,		<member '_MainTopic__title_text_object' of 'Main
 submodule._MainTopic__title_text_object
 
 
-Reload,		<cyfunction MainTopic.Reload at 0x1717BA28>
+Reload,		<cyfunction MainTopic.Reload at 0x1E2EE9D0>
 	arg0: self
 
 submodule.Reload
@@ -203,7 +203,7 @@ _SubTopic__title_text_object,		<member '_SubTopic__title_text_object' of 'SubTop
 submodule._SubTopic__title_text_object
 
 
-_SubTopic__ArrangeCheckObject,		<cyfunction SubTopic.__ArrangeCheckObject at 0x1717B558>
+_SubTopic__ArrangeCheckObject,		<cyfunction SubTopic.__ArrangeCheckObject at 0x1E2EE500>
 	arg0: self
 
 submodule._SubTopic__ArrangeCheckObject
@@ -213,7 +213,7 @@ _SubTopic__is_checked_sura,		<member '_SubTopic__is_checked_sura' of 'SubTopic' 
 submodule._SubTopic__is_checked_sura
 
 
-Hide,		<cyfunction SubTopic.Hide at 0x1717B450>
+Hide,		<cyfunction SubTopic.Hide at 0x1E2EE3F8>
 	arg0: self
 
 submodule.Hide
@@ -228,7 +228,7 @@ _SubTopic__title_text_window,		<member '_SubTopic__title_text_window' of 'SubTop
 submodule._SubTopic__title_text_window
 
 
-__del__,		<cyfunction SubTopic.__del__ at 0x1717B3F8>
+__del__,		<cyfunction SubTopic.__del__ at 0x1E2EE3A0>
 	arg0: self
 
 submodule.__del__
@@ -248,7 +248,7 @@ _SubTopic__select_area_window,		<member '_SubTopic__select_area_window' of 'SubT
 submodule._SubTopic__select_area_window
 
 
-Reload,		<cyfunction SubTopic.Reload at 0x1717B768>
+Reload,		<cyfunction SubTopic.Reload at 0x1E2EE710>
 	arg0: self
 
 submodule.Reload
@@ -258,17 +258,17 @@ _SubTopic__is_checked_warrior,		<member '_SubTopic__is_checked_warrior' of 'SubT
 submodule._SubTopic__is_checked_warrior
 
 
-_SubTopic__MaxValueTabEnterFunc,		<cyfunction SubTopic.__MaxValueTabEnterFunc at 0x1717B660>
+_SubTopic__MaxValueTabEnterFunc,		<cyfunction SubTopic.__MaxValueTabEnterFunc at 0x1E2EE608>
 	arg0: self
 
 submodule._SubTopic__MaxValueTabEnterFunc
 Skipped: unbound method cython_function_or_method object must be called with SubTopic instance as first argument (got nothing instead)
-_SubTopic__MinValueTabEnterFunc,		<cyfunction SubTopic.__MinValueTabEnterFunc at 0x1717B608>
+_SubTopic__MinValueTabEnterFunc,		<cyfunction SubTopic.__MinValueTabEnterFunc at 0x1E2EE5B0>
 	arg0: self
 
 submodule._SubTopic__MinValueTabEnterFunc
 Skipped: unbound method cython_function_or_method object must be called with SubTopic instance as first argument (got nothing instead)
-_SubTopic__SetDefaultMinMaxValue,		<cyfunction SubTopic.__SetDefaultMinMaxValue at 0x1717B5B0>
+_SubTopic__SetDefaultMinMaxValue,		<cyfunction SubTopic.__SetDefaultMinMaxValue at 0x1E2EE558>
 	arg0: self
 
 submodule._SubTopic__SetDefaultMinMaxValue
@@ -298,7 +298,7 @@ _SubTopic__is_checked_shaman,		<member '_SubTopic__is_checked_shaman' of 'SubTop
 submodule._SubTopic__is_checked_shaman
 
 
-__init__,		<cyfunction SubTopic.__init__ at 0x1717B3A0>
+__init__,		<cyfunction SubTopic.__init__ at 0x1E2EE348>
 	arg0: self
 	arg1: root_parent_window
 	arg2: parent_object
@@ -312,7 +312,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_SubTopic__CreateObject,		<cyfunction SubTopic.__CreateObject at 0x1717B4A8>
+_SubTopic__CreateObject,		<cyfunction SubTopic.__CreateObject at 0x1E2EE450>
 	arg0: self
 	arg1: root_parent_window
 	arg2: parent_object
@@ -326,7 +326,7 @@ _SubTopic__x,		<member '_SubTopic__x' of 'SubTopic' objects>
 submodule._SubTopic__x
 
 
-Record,		<cyfunction SubTopic.Record at 0x1717B710>
+Record,		<cyfunction SubTopic.Record at 0x1E2EE6B8>
 	arg0: self
 
 submodule.Record
@@ -336,7 +336,7 @@ _SubTopic__y,		<member '_SubTopic__y' of 'SubTopic' objects>
 submodule._SubTopic__y
 
 
-_SubTopic__AdjustMinMaxValue,		<cyfunction SubTopic.__AdjustMinMaxValue at 0x1717B6B8>
+_SubTopic__AdjustMinMaxValue,		<cyfunction SubTopic.__AdjustMinMaxValue at 0x1E2EE660>
 	arg0: self
 
 submodule._SubTopic__AdjustMinMaxValue
@@ -358,7 +358,7 @@ __qualname__,		SubTopic
 submodule.__qualname__
 
 
-_SubTopic__CreateSelectObject,		<cyfunction SubTopic.__CreateSelectObject at 0x1717B500>
+_SubTopic__CreateSelectObject,		<cyfunction SubTopic.__CreateSelectObject at 0x1E2EE4A8>
 	arg0: self
 
 submodule._SubTopic__CreateSelectObject
@@ -383,7 +383,7 @@ _SubTopic__height,		<member '_SubTopic__height' of 'SubTopic' objects>
 submodule._SubTopic__height
 
 
-EditLineKillFocus,		<cyfunction SubTopic.EditLineKillFocus at 0x1717B7C0>
+EditLineKillFocus,		<cyfunction SubTopic.EditLineKillFocus at 0x1E2EE768>
 	arg0: self
 
 submodule.EditLineKillFocus
@@ -406,7 +406,7 @@ submodule.INNER_OBJECT_START_POSITION_X
 
 
 class LootingSystem:
-_LootingSystem__OpenCloseQuestionDialog,		<cyfunction LootingSystem.__OpenCloseQuestionDialog at 0x171865B0>
+_LootingSystem__OpenCloseQuestionDialog,		<cyfunction LootingSystem.__OpenCloseQuestionDialog at 0x1E2FE558>
 	arg0: self
 
 submodule._LootingSystem__OpenCloseQuestionDialog
@@ -416,17 +416,17 @@ __module__,		uiLootingSystem
 submodule.__module__
 
 
-_LootingSystem__RefreshMessageText,		<cyfunction LootingSystem.__RefreshMessageText at 0x171862F0>
+_LootingSystem__RefreshMessageText,		<cyfunction LootingSystem.__RefreshMessageText at 0x1E2FE298>
 	arg0: self
 
 submodule._LootingSystem__RefreshMessageText
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-Hide,		<cyfunction LootingSystem.Hide at 0x17186240>
+Hide,		<cyfunction LootingSystem.Hide at 0x1E2FE1E8>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__OnClickSaveButton,		<cyfunction LootingSystem.__OnClickSaveButton at 0x17186818>
+_LootingSystem__OnClickSaveButton,		<cyfunction LootingSystem.__OnClickSaveButton at 0x1E2FE7C0>
 	arg0: self
 
 submodule._LootingSystem__OnClickSaveButton
@@ -436,22 +436,22 @@ _LootingSystem__message_text,		<member '_LootingSystem__message_text' of 'Lootin
 submodule._LootingSystem__message_text
 
 
-_LootingSystem__SaveAccept,		<cyfunction LootingSystem.__SaveAccept at 0x17186870>
+_LootingSystem__SaveAccept,		<cyfunction LootingSystem.__SaveAccept at 0x1E2FE818>
 	arg0: self
 
 submodule._LootingSystem__SaveAccept
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__CloseAccept,		<cyfunction LootingSystem.__CloseAccept at 0x17186608>
+_LootingSystem__CloseAccept,		<cyfunction LootingSystem.__CloseAccept at 0x1E2FE5B0>
 	arg0: self
 
 submodule._LootingSystem__CloseAccept
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__InitCancel,		<cyfunction LootingSystem.__InitCancel at 0x171867C0>
+_LootingSystem__InitCancel,		<cyfunction LootingSystem.__InitCancel at 0x1E2FE768>
 	arg0: self
 
 submodule._LootingSystem__InitCancel
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction LootingSystem.OnMouseWheelButtonUp at 0x17186450>
+OnMouseWheelButtonUp,		<cyfunction LootingSystem.OnMouseWheelButtonUp at 0x1E2FE3F8>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
@@ -461,42 +461,42 @@ _LootingSystem__save_question_dialog,		<member '_LootingSystem__save_question_di
 submodule._LootingSystem__save_question_dialog
 
 
-__init__,		<cyfunction LootingSystem.__init__ at 0x1717BEF8>
+__init__,		<cyfunction LootingSystem.__init__ at 0x1E2EEEA0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__SaveFile,		<cyfunction LootingSystem.__SaveFile at 0x17186920>
+_LootingSystem__SaveFile,		<cyfunction LootingSystem.__SaveFile at 0x1E2FE8C8>
 	arg0: self
 
 submodule._LootingSystem__SaveFile
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__BindEvent,		<cyfunction LootingSystem.__BindEvent at 0x17186088>
+_LootingSystem__BindEvent,		<cyfunction LootingSystem.__BindEvent at 0x1E2FE030>
 	arg0: self
 
 submodule._LootingSystem__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-ArrangeObject,		<cyfunction LootingSystem.ArrangeObject at 0x171863F8>
+ArrangeObject,		<cyfunction LootingSystem.ArrangeObject at 0x1E2FE3A0>
 	arg0: self
 
 submodule.ArrangeObject
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__LoadWindow,		<cyfunction LootingSystem.__LoadWindow at 0x1717BFA8>
+_LootingSystem__LoadWindow,		<cyfunction LootingSystem.__LoadWindow at 0x1E2EEF50>
 	arg0: self
 
 submodule._LootingSystem__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-SetTop,		<cyfunction LootingSystem.SetTop at 0x17186190>
+SetTop,		<cyfunction LootingSystem.SetTop at 0x1E2FE138>
 	arg0: self
 
 submodule.SetTop
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__InitTopic,		<cyfunction LootingSystem.__InitTopic at 0x171866B8>
+_LootingSystem__InitTopic,		<cyfunction LootingSystem.__InitTopic at 0x1E2FE660>
 	arg0: self
 
 submodule._LootingSystem__InitTopic
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-__del__,		<cyfunction LootingSystem.__del__ at 0x1717BF50>
+__del__,		<cyfunction LootingSystem.__del__ at 0x1E2EEEF8>
 	arg0: self
 
 submodule.__del__
@@ -506,7 +506,7 @@ _LootingSystem__init_question_dialog,		<member '_LootingSystem__init_question_di
 submodule._LootingSystem__init_question_dialog
 
 
-_LootingSystem__ScrollEvent,		<cyfunction LootingSystem.__ScrollEvent at 0x171863A0>
+_LootingSystem__ScrollEvent,		<cyfunction LootingSystem.__ScrollEvent at 0x1E2FE348>
 	arg0: self
 
 submodule._LootingSystem__ScrollEvent
@@ -521,7 +521,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OnMouseWheelButtonDown,		<cyfunction LootingSystem.OnMouseWheelButtonDown at 0x171864A8>
+OnMouseWheelButtonDown,		<cyfunction LootingSystem.OnMouseWheelButtonDown at 0x1E2FE450>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
@@ -531,17 +531,17 @@ _LootingSystem__init_button__save_button,		<member '_LootingSystem__init_button_
 submodule._LootingSystem__init_button__save_button
 
 
-_LootingSystem__CloseCancel,		<cyfunction LootingSystem.__CloseCancel at 0x17186660>
+_LootingSystem__CloseCancel,		<cyfunction LootingSystem.__CloseCancel at 0x1E2FE608>
 	arg0: self
 
 submodule._LootingSystem__CloseCancel
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__SaveCancel,		<cyfunction LootingSystem.__SaveCancel at 0x171868C8>
+_LootingSystem__SaveCancel,		<cyfunction LootingSystem.__SaveCancel at 0x1E2FE870>
 	arg0: self
 
 submodule._LootingSystem__SaveCancel
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-LootingSystemProcess,		<cyfunction LootingSystem.LootingSystemProcess at 0x17186A28>
+LootingSystemProcess,		<cyfunction LootingSystem.LootingSystemProcess at 0x1E2FE9D0>
 	arg0: self
 
 submodule.LootingSystemProcess
@@ -551,33 +551,33 @@ _LootingSystem__scrollbar,		<member '_LootingSystem__scrollbar' of 'LootingSyste
 submodule._LootingSystem__scrollbar
 
 
-_LootingSystem__OnClickInitButton,		<cyfunction LootingSystem.__OnClickInitButton at 0x17186710>
+_LootingSystem__OnClickInitButton,		<cyfunction LootingSystem.__OnClickInitButton at 0x1E2FE6B8>
 	arg0: self
 
 submodule._LootingSystem__OnClickInitButton
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__SendLootingSettings,		<cyfunction LootingSystem.__SendLootingSettings at 0x171869D0>
+_LootingSystem__SendLootingSettings,		<cyfunction LootingSystem.__SendLootingSettings at 0x1E2FE978>
 	arg0: self
 
 submodule._LootingSystem__SendLootingSettings
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-OverOutQuestionButton,		<cyfunction LootingSystem.OverOutQuestionButton at 0x17186558>
+OverOutQuestionButton,		<cyfunction LootingSystem.OverOutQuestionButton at 0x1E2FE500>
 	arg0: self
 	arg1: main_topic_index
 
 submodule.OverOutQuestionButton
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction LootingSystem.OnPressEscapeKey at 0x17186138>
+OnPressEscapeKey,		<cyfunction LootingSystem.OnPressEscapeKey at 0x1E2FE0E0>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__CreateObject,		<cyfunction LootingSystem.__CreateObject at 0x17186348>
+_LootingSystem__CreateObject,		<cyfunction LootingSystem.__CreateObject at 0x1E2FE2F0>
 	arg0: self
 
 submodule._LootingSystem__CreateObject
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__BindObject,		<cyfunction LootingSystem.__BindObject at 0x17186030>
+_LootingSystem__BindObject,		<cyfunction LootingSystem.__BindObject at 0x1E2EEFA8>
 	arg0: self
 
 submodule._LootingSystem__BindObject
@@ -587,7 +587,7 @@ _LootingSystem__looting_topic_dict,		<member '_LootingSystem__looting_topic_dict
 submodule._LootingSystem__looting_topic_dict
 
 
-_LootingSystem__LoadFile,		<cyfunction LootingSystem.__LoadFile at 0x17186978>
+_LootingSystem__LoadFile,		<cyfunction LootingSystem.__LoadFile at 0x1E2FE920>
 	arg0: self
 
 submodule._LootingSystem__LoadFile
@@ -597,12 +597,12 @@ _LootingSystem__close_question_dialog,		<member '_LootingSystem__close_question_
 submodule._LootingSystem__close_question_dialog
 
 
-Show,		<cyfunction LootingSystem.Show at 0x171861E8>
+Show,		<cyfunction LootingSystem.Show at 0x1E2FE190>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-_LootingSystem__InitAccept,		<cyfunction LootingSystem.__InitAccept at 0x17186768>
+_LootingSystem__InitAccept,		<cyfunction LootingSystem.__InitAccept at 0x1E2FE710>
 	arg0: self
 
 submodule._LootingSystem__InitAccept
@@ -622,7 +622,7 @@ _LootingSystem__diff_height,		<member '_LootingSystem__diff_height' of 'LootingS
 submodule._LootingSystem__diff_height
 
 
-Close,		<cyfunction LootingSystem.Close at 0x171860E0>
+Close,		<cyfunction LootingSystem.Close at 0x1E2FE088>
 	arg0: self
 
 submodule.Close
@@ -632,12 +632,12 @@ _LootingSystem__object_area_window,		<member '_LootingSystem__object_area_window
 submodule._LootingSystem__object_area_window
 
 
-Open,		<cyfunction LootingSystem.Open at 0x17186298>
+Open,		<cyfunction LootingSystem.Open at 0x1E2FE240>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with LootingSystem instance as first argument (got nothing instead)
-OverInQuestionButton,		<cyfunction LootingSystem.OverInQuestionButton at 0x17186500>
+OverInQuestionButton,		<cyfunction LootingSystem.OverInQuestionButton at 0x1E2FE4A8>
 	arg0: self
 	arg1: main_topic_index
 
@@ -651,17 +651,17 @@ __module__,		uiLootingSystem
 submodule.__module__
 
 
-GetDict,		<cyfunction LootingTopic.GetDict at 0x1717BD40>
+GetDict,		<cyfunction LootingTopic.GetDict at 0x1E2EECE8>
 	arg0: self
 
 submodule.GetDict
 Skipped: unbound method cython_function_or_method object must be called with LootingTopic instance as first argument (got nothing instead)
-Hide,		<cyfunction LootingTopic.Hide at 0x1717BB88>
+Hide,		<cyfunction LootingTopic.Hide at 0x1E2EEB30>
 	arg0: self
 
 submodule.Hide
 Skipped: unbound method cython_function_or_method object must be called with LootingTopic instance as first argument (got nothing instead)
-__del__,		<cyfunction LootingTopic.__del__ at 0x1717BAD8>
+__del__,		<cyfunction LootingTopic.__del__ at 0x1E2EEA80>
 	arg0: self
 
 submodule.__del__
@@ -671,13 +671,13 @@ _LootingTopic__height,		<member '_LootingTopic__height' of 'LootingTopic' object
 submodule._LootingTopic__height
 
 
-SetDict,		<cyfunction LootingTopic.SetDict at 0x1717BCE8>
+SetDict,		<cyfunction LootingTopic.SetDict at 0x1E2EEC90>
 	arg0: self
 	arg1: new_dict
 
 submodule.SetDict
 Skipped: unbound method cython_function_or_method object must be called with LootingTopic instance as first argument (got nothing instead)
-Reload,		<cyfunction LootingTopic.Reload at 0x1717BE48>
+Reload,		<cyfunction LootingTopic.Reload at 0x1E2EEDF0>
 	arg0: self
 
 submodule.Reload
@@ -692,12 +692,12 @@ _LootingTopic__sub_topic_list,		<member '_LootingTopic__sub_topic_list' of 'Loot
 submodule._LootingTopic__sub_topic_list
 
 
-Record,		<cyfunction LootingTopic.Record at 0x1717BD98>
+Record,		<cyfunction LootingTopic.Record at 0x1E2EED40>
 	arg0: self
 
 submodule.Record
 Skipped: unbound method cython_function_or_method object must be called with LootingTopic instance as first argument (got nothing instead)
-GetData,		<cyfunction LootingTopic.GetData at 0x1717BC90>
+GetData,		<cyfunction LootingTopic.GetData at 0x1E2EEC38>
 	arg0: self
 	arg1: key
 	arg2: default
@@ -715,7 +715,7 @@ _LootingTopic__root_parent_window,		<member '_LootingTopic__root_parent_window' 
 submodule._LootingTopic__root_parent_window
 
 
-__init__,		<cyfunction LootingTopic.__init__ at 0x1717BA80>
+__init__,		<cyfunction LootingTopic.__init__ at 0x1E2EEA28>
 	arg0: self
 	arg1: root_parent_window
 	arg2: parent_object
@@ -725,19 +725,19 @@ __init__,		<cyfunction LootingTopic.__init__ at 0x1717BA80>
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with LootingTopic instance as first argument (got nothing instead)
-SetData,		<cyfunction LootingTopic.SetData at 0x1717BC38>
+SetData,		<cyfunction LootingTopic.SetData at 0x1E2EEBE0>
 	arg0: self
 	arg1: key
 	arg2: value
 
 submodule.SetData
 Skipped: unbound method cython_function_or_method object must be called with LootingTopic instance as first argument (got nothing instead)
-Show,		<cyfunction LootingTopic.Show at 0x1717BB30>
+Show,		<cyfunction LootingTopic.Show at 0x1E2EEAD8>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with LootingTopic instance as first argument (got nothing instead)
-ArrangeObject,		<cyfunction LootingTopic.ArrangeObject at 0x1717BBE0>
+ArrangeObject,		<cyfunction LootingTopic.ArrangeObject at 0x1E2EEB88>
 	arg0: self
 
 submodule.ArrangeObject
@@ -767,14 +767,14 @@ _LootingTopic__x,		<member '_LootingTopic__x' of 'LootingTopic' objects>
 submodule._LootingTopic__x
 
 
-SaveData,		<cyfunction LootingTopic.SaveData at 0x1717BDF0>
+SaveData,		<cyfunction LootingTopic.SaveData at 0x1E2EED98>
 	arg0: self
 	arg1: key
 	arg2: record_file
 
 submodule.SaveData
 Skipped: unbound method cython_function_or_method object must be called with LootingTopic instance as first argument (got nothing instead)
-SetPosition,		<cyfunction LootingTopic.SetPosition at 0x1717BEA0>
+SetPosition,		<cyfunction LootingTopic.SetPosition at 0x1E2EEE48>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -799,7 +799,7 @@ __module__,		uiLootingSystem
 submodule.__module__
 
 
-GetMainTopicTitleLoca,		<classmethod object at 0x17182C70>
+GetMainTopicTitleLoca,		<classmethod object at 0x1E2FB210>
 	arg0: cls
 	arg1: main_topic_index
 
@@ -820,13 +820,13 @@ __dict__,		<attribute '__dict__' of 'LootingSystemLoca' objects>
 submodule.__dict__
 
 
-GetSubTopicTitleLoca,		<classmethod object at 0x17182C90>
+GetSubTopicTitleLoca,		<classmethod object at 0x1E2FB230>
 	arg0: cls
 	arg1: sub_topic_index
 
 submodule.GetSubTopicTitleLoca
 Skipped: GetSubTopicTitleLoca() takes exactly 2 positional arguments (1 given)
-GetQuestionTooltipDescList,		<classmethod object at 0x17182C50>
+GetQuestionTooltipDescList,		<classmethod object at 0x1E2FB1F0>
 	arg0: cls
 	arg1: main_topic_index
 

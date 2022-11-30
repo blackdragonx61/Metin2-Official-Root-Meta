@@ -179,6 +179,7 @@
                      {'args': ['self', 'text'], 'defaults': [], 'name': '__SendPartyChatPacket'},
                      {'args': ['self', 'text'], 'defaults': [], 'name': '__SendShoutChatPacket'},
                      {'args': ['self', 'text'], 'defaults': [], 'name': '__SendTalkingChatPacket'},
+                     {'args': ['self', 'text'], 'defaults': [], 'name': '__SetChatType'},
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],
             'import': [],
@@ -431,4 +432,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'uiChat'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'chatInputSetList', 'type': 'list', 'value': [<uiChat.ChatInputSet object at 0x1722D4B0>, <uiChat.ChatInputSet object at 0x1736D8D0>]}]}
+         {'name': 'chatInputSetList', 'type': 'list', 'value': [<uiChat.ChatInputSet object at 0x1E3899F0>, <uiChat.ChatInputSet object at 0x1E67D310>]}]}

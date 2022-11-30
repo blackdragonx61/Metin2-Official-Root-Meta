@@ -55,6 +55,7 @@
          {'name': 'SHOP_COIN_TYPE_GOLD', 'type': 'int', 'value': 0},
          {'name': 'SHOP_COIN_TYPE_MEDAL_OF_HONOR', 'type': 'int', 'value': 4},
          {'name': 'SHOP_COIN_TYPE_SECONDARY_COIN', 'type': 'int', 'value': 1},
+         {'name': 'SHOP_COIN_TYPE_TREE_FRUIT', 'type': 'int', 'value': 6},
          {'name': 'SHOP_HOST_ITEM_MAX', 'type': 'int', 'value': 80},
          {'name': 'SHOP_SLOT_COUNT', 'type': 'int', 'value': 40},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},

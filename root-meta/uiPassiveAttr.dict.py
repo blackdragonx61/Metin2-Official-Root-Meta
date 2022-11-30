@@ -50,7 +50,7 @@
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
                      {'args': ['self'], 'defaults': [], 'name': '__init__'}],
             'import': [],
-            'var': [{'name': 'CantAttachToPassiveSlot', 'type': 'classmethod', 'value': <classmethod object at 0x17168230>},
+            'var': [{'name': 'CantAttachToPassiveSlot', 'type': 'classmethod', 'value': <classmethod object at 0x1E2D57D0>},
                     {'name': '_PassiveAttr__COOLTIME_SECOND_ACTIVATE', 'type': 'int', 'value': 5},
                     {'name': '_PassiveAttr__COOLTIME_SECOND_EQUIPMENT', 'type': 'int', 'value': 5},
                     {'name': '_PassiveAttr__COOLTIME_SECOND_UNEQUIPMENT', 'type': 'int', 'value': 5},

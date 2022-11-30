@@ -2,7 +2,7 @@
  'ElementDictionary': {},
  'eventAccept': 0,
  'eventClose': 0,
- 'hWnd': 717439232,
+ 'hWnd': 764751272,
  'maxValue': 0,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,

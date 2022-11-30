@@ -2,15 +2,15 @@ key: cStringIO, val: <module 'cStringIO' (built-in)>
 key: app, val: <module 'app' (built-in)>
 key: dbg, val: <module 'dbg' (built-in)>
 key: STATE_COLOR_LIST, val: [4294967295L, 4292532954L, 4278255360L, 4294950912L, 4294901760L]
-key: path, val: pack\locale_de.addr
-key: MARKADDR_DICT, val: {70: {'tcp_port': 12205, 'ip': '79.110.92.27', 'symbol_path': '70', 'mark': '70.tga'}, 40: {'tcp_port': 12205, 'ip': '79.110.92.53', 'symbol_path': '40', 'mark': '40.tga'}, 10: {'tcp_port': 12205, 'ip': '79.110.92.69', 'symbol_path': '10', 'mark': '10.tga'}, 80: {'tcp_port': 12205, 'ip': '79.110.92.12', 'symbol_path': '80', 'mark': '80.tga'}, 50: {'tcp_port': 12205, 'ip': '79.110.92.34', 'symbol_path': '50', 'mark': '50.tga'}, 20: {'tcp_port': 12205, 'ip': '79.110.92.59', 'symbol_path': '20', 'mark': '20.tga'}, 90: {'tcp_port': 12205, 'ip': '79.110.92.6', 'symbol_path': '90', 'mark': '90.tga'}, 60: {'tcp_port': 12205, 'ip': '79.110.92.31', 'symbol_path': '60', 'mark': '60.tga'}, 30: {'tcp_port': 12205, 'ip': '79.110.92.56', 'symbol_path': '30', 'mark': '30.tga'}}
+key: path, val: pack\locale_hu.addr
+key: MARKADDR_DICT, val: {70: {'tcp_port': 12205, 'ip': '79.110.92.83', 'symbol_path': '70', 'mark': '70.tga'}, 40: {'tcp_port': 12205, 'ip': '79.110.92.101', 'symbol_path': '40', 'mark': '40.tga'}, 10: {'tcp_port': 12205, 'ip': '79.110.92.123', 'symbol_path': '10', 'mark': '10.tga'}, 80: {'tcp_port': 12205, 'ip': '79.110.92.81', 'symbol_path': '80', 'mark': '80.tga'}, 50: {'tcp_port': 12205, 'ip': '79.110.92.89', 'symbol_path': '50', 'mark': '50.tga'}, 20: {'tcp_port': 12205, 'ip': '79.110.92.121', 'symbol_path': '20', 'mark': '20.tga'}, 90: {'tcp_port': 12205, 'ip': '79.110.92.77', 'symbol_path': '90', 'mark': '90.tga'}, 60: {'tcp_port': 12205, 'ip': '79.110.92.87', 'symbol_path': '60', 'mark': '60.tga'}, 30: {'tcp_port': 12205, 'ip': '79.110.92.105', 'symbol_path': '30', 'mark': '30.tga'}}
 key: STATE_NONE, val: Ismeretlen
 key: STATE_COLOR_DICT, val: {'...': 4292532954L, 'Aj\xe1nlott': 4278255360L, 'Kev\xe9s j\xe1t\xe9kos': 4292532954L, 'Ismeretlen': 4294967295L, 'Sok j\xe1t\xe9kos': 4294950912L, 'Betelt': 4294901760L}
 key: SERVER_STATE_DICT, val: {'STANDBY': 4, 'NEW': 1, 'NONE': 0, 'SPECIAL': 2, 'CLOSE': 3}
-key: BuildServerList, val: <cyfunction BuildServerList at 0x09F307C0>
+key: BuildServerList, val: <cyfunction BuildServerList at 0x0CF06B88>
 key: __package__, val: None
 key: SERVER_ID_DICT, val: {1: '', 2: '', 3: '', 4: '', 5: '', 6: '', 7: '', 8: '', 9: ''}
-key: REGION_NAME_DICT, val: {0: 'Deutschland'}
+key: REGION_NAME_DICT, val: {0: 'Polen'}
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
 key: cPickle, val: <module 'cPickle' (built-in)>
@@ -18,9 +18,9 @@ key: __builtins__, val: <module '__builtin__' (built-in)>
 key: STATE_REVERSE_DICT, val: {'Sok j\xe1t\xe9kos': 3, 'Betelt': 4, 'Aj\xe1nlott': 2, 'Kev\xe9s j\xe1t\xe9kos': 1, 'Ismeretlen': 0}
 key: STATE_DICT, val: {0: 'Ismeretlen', 1: 'Kev\xe9s j\xe1t\xe9kos', 2: 'Aj\xe1nlott', 3: 'Sok j\xe1t\xe9kos', 4: 'Betelt'}
 key: __test__, val: {}
-key: LoadLoginInfo, val: <cyfunction LoadLoginInfo at 0x09F30768>
+key: LoadLoginInfo, val: <cyfunction LoadLoginInfo at 0x0CF06B30>
 key: key, val: 4
-key: REGION_AUTH_SERVER_DICT, val: {0: {1: {'ip': '79.110.92.68', 'port': 11151}, 2: {'ip': '79.110.92.57', 'port': 11151}, 3: {'ip': '79.110.92.55', 'port': 11151}, 4: {'ip': '79.110.92.40', 'port': 11151}, 5: {'ip': '79.110.92.33', 'port': 11151}, 6: {'ip': '79.110.92.30', 'port': 11151}, 7: {'ip': '79.110.92.26', 'port': 11151}, 8: {'ip': '79.110.92.10', 'port': 11151}, 9: {'ip': '79.110.92.5', 'port': 11151}}}
+key: REGION_AUTH_SERVER_DICT, val: {0: {1: {'ip': '79.110.92.122', 'port': 11151}, 2: {'ip': '79.110.92.111', 'port': 11151}, 3: {'ip': '79.110.92.102', 'port': 11151}, 4: {'ip': '79.110.92.90', 'port': 11151}, 5: {'ip': '79.110.92.88', 'port': 11151}, 6: {'ip': '79.110.92.86', 'port': 11151}, 7: {'ip': '79.110.92.82', 'port': 11151}, 8: {'ip': '79.110.92.80', 'port': 11151}, 9: {'ip': '79.110.92.72', 'port': 11151}}}
 key: __name__, val: serverInfo
 key: data, val: (dp1
 S'MARKADDR'
@@ -30,7 +30,7 @@ I70
 (dp4
 S'ip'
 p5
-S'79.110.92.27'
+S'79.110.92.83'
 p6
 sS'mark'
 p7
@@ -46,7 +46,7 @@ I12205
 ssI40
 (dp12
 g5
-S'79.110.92.53'
+S'79.110.92.101'
 p13
 sg7
 S'40.tga'
@@ -59,7 +59,7 @@ I12205
 ssI10
 (dp16
 g5
-S'79.110.92.69'
+S'79.110.92.123'
 p17
 sg7
 S'10.tga'
@@ -72,7 +72,7 @@ I12205
 ssI80
 (dp20
 g5
-S'79.110.92.12'
+S'79.110.92.81'
 p21
 sg7
 S'80.tga'
@@ -85,7 +85,7 @@ I12205
 ssI50
 (dp24
 g5
-S'79.110.92.34'
+S'79.110.92.89'
 p25
 sg7
 S'50.tga'
@@ -98,7 +98,7 @@ I12205
 ssI20
 (dp28
 g5
-S'79.110.92.59'
+S'79.110.92.121'
 p29
 sg7
 S'20.tga'
@@ -111,7 +111,7 @@ I12205
 ssI90
 (dp32
 g5
-S'79.110.92.6'
+S'79.110.92.77'
 p33
 sg7
 S'90.tga'
@@ -124,7 +124,7 @@ I12205
 ssI60
 (dp36
 g5
-S'79.110.92.31'
+S'79.110.92.87'
 p37
 sg7
 S'60.tga'
@@ -137,7 +137,7 @@ I12205
 ssI30
 (dp40
 g5
-S'79.110.92.56'
+S'79.110.92.105'
 p41
 sg7
 S'30.tga'
@@ -177,7 +177,7 @@ I1
 (dp49
 S'state'
 p50
-S'NEW'
+S'NEW|SPECIAL'
 p51
 sS'flag'
 p52
@@ -185,7 +185,7 @@ VEU
 p53
 sS'name'
 p54
-S'Felis'
+S'[RUBY] Kirin'
 p55
 sS'channel'
 p56
@@ -196,7 +196,7 @@ g54
 S'CH1   '
 p59
 sg5
-S'79.110.92.68'
+S'79.110.92.122'
 p60
 sS'udp_port'
 p61
@@ -230,7 +230,7 @@ g54
 S'CH3   '
 p67
 sg5
-S'79.110.92.68'
+S'79.110.92.122'
 p68
 sg61
 I12305
@@ -246,7 +246,7 @@ g54
 S'CH4   '
 p70
 sg5
-S'79.110.92.69'
+S'79.110.92.123'
 p71
 sg61
 I12405
@@ -262,7 +262,7 @@ g54
 S'CH5   '
 p73
 sg5
-S'79.110.92.68'
+S'79.110.92.122'
 p74
 sg61
 I12505
@@ -278,7 +278,7 @@ g54
 S'CH6   '
 p76
 sg5
-S'79.110.92.69'
+S'79.110.92.123'
 p77
 sg61
 I12605
@@ -291,13 +291,13 @@ I12605
 ssssI2
 (dp78
 g50
-S'SPECIAL'
+S'NEW'
 p79
 sg52
 VEU
 p80
 sg54
-S'Tigerghost'
+S'Lynx'
 p81
 sg56
 (dp82
@@ -306,7 +306,7 @@ I1
 g54
 g59
 sg5
-S'79.110.92.57'
+S'79.110.92.111'
 p84
 sg61
 I12105
@@ -335,7 +335,7 @@ ssI3
 g54
 g67
 sg5
-S'79.110.92.57'
+S'79.110.92.111'
 p87
 sg61
 I12305
@@ -350,7 +350,7 @@ ssI4
 g54
 g70
 sg5
-S'79.110.92.59'
+S'79.110.92.121'
 p89
 sg61
 I12405
@@ -365,7 +365,7 @@ ssI5
 g54
 g73
 sg5
-S'79.110.92.57'
+S'79.110.92.111'
 p91
 sg61
 I12505
@@ -380,7 +380,7 @@ ssI6
 g54
 g76
 sg5
-S'79.110.92.59'
+S'79.110.92.121'
 p93
 sg61
 I12605
@@ -393,13 +393,13 @@ I12605
 ssssI3
 (dp94
 g50
-S'STANDBY'
+S'SPECIAL|STANDBY'
 p95
 sg52
 VEU
 p96
 sg54
-S'Azrael'
+S'Polyphemos'
 p97
 sg56
 (dp98
@@ -408,7 +408,7 @@ I1
 g54
 g59
 sg5
-S'79.110.92.55'
+S'79.110.92.102'
 p100
 sg61
 I12105
@@ -437,7 +437,7 @@ ssI3
 g54
 g67
 sg5
-S'79.110.92.55'
+S'79.110.92.102'
 p103
 sg61
 I12305
@@ -452,7 +452,7 @@ ssI4
 g54
 g70
 sg5
-S'79.110.92.56'
+S'79.110.92.105'
 p105
 sg61
 I12405
@@ -467,7 +467,7 @@ ssI5
 g54
 g73
 sg5
-S'79.110.92.55'
+S'79.110.92.102'
 p107
 sg61
 I12505
@@ -482,7 +482,7 @@ ssI6
 g54
 g76
 sg5
-S'79.110.92.56'
+S'79.110.92.105'
 p109
 sg61
 I12605
@@ -497,10 +497,10 @@ ssssI4
 g50
 S''
 sg52
-VES
+VPL
 p111
 sg54
-S'Espa\xf1a'
+S'Polska'
 p112
 sg56
 (dp113
@@ -509,7 +509,7 @@ I1
 g54
 g59
 sg5
-S'79.110.92.40'
+S'79.110.92.90'
 p115
 sg61
 I12105
@@ -538,7 +538,7 @@ ssI3
 g54
 g67
 sg5
-S'79.110.92.40'
+S'79.110.92.90'
 p118
 sg61
 I12305
@@ -553,7 +553,7 @@ ssI4
 g54
 g70
 sg5
-S'79.110.92.53'
+S'79.110.92.101'
 p120
 sg61
 I12405
@@ -568,7 +568,7 @@ ssI5
 g54
 g73
 sg5
-S'79.110.92.40'
+S'79.110.92.90'
 p122
 sg61
 I12505
@@ -583,7 +583,7 @@ ssI6
 g54
 g76
 sg5
-S'79.110.92.53'
+S'79.110.92.101'
 p124
 sg61
 I12605
@@ -598,10 +598,10 @@ ssssI5
 g50
 S''
 sg52
-VPT
+VCZ
 p126
 sg54
-S'Portugal'
+S'\xc8esko'
 p127
 sg56
 (dp128
@@ -610,7 +610,7 @@ I1
 g54
 g59
 sg5
-S'79.110.92.33'
+S'79.110.92.88'
 p130
 sg61
 I12105
@@ -639,7 +639,7 @@ ssI3
 g54
 g67
 sg5
-S'79.110.92.33'
+S'79.110.92.88'
 p133
 sg61
 I12305
@@ -654,7 +654,7 @@ ssI4
 g54
 g70
 sg5
-S'79.110.92.34'
+S'79.110.92.89'
 p135
 sg61
 I12405
@@ -669,7 +669,7 @@ ssI5
 g54
 g73
 sg5
-S'79.110.92.33'
+S'79.110.92.88'
 p137
 sg61
 I12505
@@ -684,7 +684,7 @@ ssI6
 g54
 g76
 sg5
-S'79.110.92.34'
+S'79.110.92.89'
 p139
 sg61
 I12605
@@ -699,10 +699,10 @@ ssssI6
 g50
 S''
 sg52
-VIT
+VHU
 p141
 sg54
-S'Italia'
+S'Magyarorsz\xe1g'
 p142
 sg56
 (dp143
@@ -711,7 +711,7 @@ I1
 g54
 g59
 sg5
-S'79.110.92.30'
+S'79.110.92.86'
 p145
 sg61
 I12105
@@ -740,7 +740,7 @@ ssI3
 g54
 g67
 sg5
-S'79.110.92.30'
+S'79.110.92.86'
 p148
 sg61
 I12305
@@ -755,7 +755,7 @@ ssI4
 g54
 g70
 sg5
-S'79.110.92.31'
+S'79.110.92.87'
 p150
 sg61
 I12405
@@ -770,7 +770,7 @@ ssI5
 g54
 g73
 sg5
-S'79.110.92.30'
+S'79.110.92.86'
 p152
 sg61
 I12505
@@ -785,7 +785,7 @@ ssI6
 g54
 g76
 sg5
-S'79.110.92.31'
+S'79.110.92.87'
 p154
 sg61
 I12605
@@ -798,22 +798,23 @@ I12605
 ssssI7
 (dp155
 g50
-S''
+S'SPECIAL'
+p156
 sg52
 VEU
-p156
-sg54
-S'Europe'
 p157
+sg54
+S'Carpathians'
+p158
 sg56
-(dp158
-I1
 (dp159
+I1
+(dp160
 g54
 g59
 sg5
-S'79.110.92.26'
-p160
+S'79.110.92.82'
+p161
 sg61
 I12105
 sg50
@@ -823,7 +824,7 @@ I71
 sg11
 I12105
 ssI2
-(dp161
+(dp162
 g54
 g65
 sg5
@@ -837,12 +838,12 @@ I72
 sg11
 I12205
 ssI3
-(dp162
+(dp163
 g54
 g67
 sg5
-S'79.110.92.26'
-p163
+S'79.110.92.82'
+p164
 sg61
 I12305
 sg50
@@ -852,12 +853,12 @@ I73
 sg11
 I12305
 ssI4
-(dp164
+(dp165
 g54
 g70
 sg5
-S'79.110.92.27'
-p165
+S'79.110.92.83'
+p166
 sg61
 I12405
 sg50
@@ -867,12 +868,12 @@ I74
 sg11
 I12405
 ssI5
-(dp166
+(dp167
 g54
 g73
 sg5
-S'79.110.92.26'
-p167
+S'79.110.92.82'
+p168
 sg61
 I12505
 sg50
@@ -882,12 +883,12 @@ I75
 sg11
 I12505
 ssI6
-(dp168
+(dp169
 g54
 g76
 sg5
-S'79.110.92.27'
-p169
+S'79.110.92.83'
+p170
 sg61
 I12605
 sg50
@@ -897,24 +898,24 @@ I76
 sg11
 I12605
 ssssI8
-(dp170
+(dp171
 g50
 S''
 sg52
-VDE
-p171
-sg54
-S'Teutonia'
+VRO
 p172
+sg54
+S'Tara Rom\xe2neasc\xe3'
+p173
 sg56
-(dp173
-I1
 (dp174
+I1
+(dp175
 g54
 g59
 sg5
-S'79.110.92.10'
-p175
+S'79.110.92.80'
+p176
 sg61
 I12105
 sg50
@@ -924,7 +925,7 @@ I81
 sg11
 I12105
 ssI2
-(dp176
+(dp177
 g54
 g65
 sg5
@@ -938,12 +939,12 @@ I82
 sg11
 I12205
 ssI3
-(dp177
+(dp178
 g54
 g67
 sg5
-S'79.110.92.10'
-p178
+S'79.110.92.80'
+p179
 sg61
 I12305
 sg50
@@ -953,12 +954,12 @@ I83
 sg11
 I12305
 ssI4
-(dp179
+(dp180
 g54
 g70
 sg5
-S'79.110.92.12'
-p180
+S'79.110.92.81'
+p181
 sg61
 I12405
 sg50
@@ -968,12 +969,12 @@ I84
 sg11
 I12405
 ssI5
-(dp181
+(dp182
 g54
 g73
 sg5
-S'79.110.92.10'
-p182
+S'79.110.92.80'
+p183
 sg61
 I12505
 sg50
@@ -983,12 +984,12 @@ I85
 sg11
 I12505
 ssI6
-(dp183
+(dp184
 g54
 g76
 sg5
-S'79.110.92.12'
-p184
+S'79.110.92.81'
+p185
 sg61
 I12605
 sg50
@@ -998,24 +999,24 @@ I86
 sg11
 I12605
 ssssI9
-(dp185
+(dp186
 g50
 S''
 sg52
-VDE
-p186
-sg54
-S'Germania'
+VRO
 p187
+sg54
+S'Rom\xe2nia'
+p188
 sg56
-(dp188
-I1
 (dp189
+I1
+(dp190
 g54
 g59
 sg5
-S'79.110.92.5'
-p190
+S'79.110.92.72'
+p191
 sg61
 I12105
 sg50
@@ -1025,7 +1026,7 @@ I91
 sg11
 I12105
 ssI2
-(dp191
+(dp192
 g54
 g65
 sg5
@@ -1039,12 +1040,12 @@ I92
 sg11
 I12205
 ssI3
-(dp192
+(dp193
 g54
 g67
 sg5
-S'79.110.92.5'
-p193
+S'79.110.92.72'
+p194
 sg61
 I12305
 sg50
@@ -1054,12 +1055,12 @@ I93
 sg11
 I12305
 ssI4
-(dp194
+(dp195
 g54
 g70
 sg5
-S'79.110.92.6'
-p195
+S'79.110.92.77'
+p196
 sg61
 I12405
 sg50
@@ -1069,12 +1070,12 @@ I94
 sg11
 I12405
 ssI5
-(dp196
+(dp197
 g54
 g73
 sg5
-S'79.110.92.5'
-p197
+S'79.110.92.72'
+p198
 sg61
 I12505
 sg50
@@ -1084,12 +1085,12 @@ I95
 sg11
 I12505
 ssI6
-(dp198
+(dp199
 g54
 g76
 sg5
-S'79.110.92.6'
-p199
+S'79.110.92.77'
+p200
 sg61
 I12605
 sg50
@@ -1099,88 +1100,88 @@ I96
 sg11
 I12605
 ssssssS'NAME'
-p200
-(dp201
+p201
+(dp202
 I0
-S'Deutschland'
-p202
-ssS'AUTHADDR'
+S'Polen'
 p203
-(dp204
-I0
+ssS'AUTHADDR'
+p204
 (dp205
-I1
+I0
 (dp206
+I1
+(dp207
 g5
-S'79.110.92.68'
-p207
-sS'port'
+S'79.110.92.122'
 p208
+sS'port'
+p209
 I11151
 ssI2
-(dp209
+(dp210
 g5
-S'79.110.92.57'
-p210
-sg208
+S'79.110.92.111'
+p211
+sg209
 I11151
 ssI3
-(dp211
+(dp212
 g5
-S'79.110.92.55'
-p212
-sg208
+S'79.110.92.102'
+p213
+sg209
 I11151
 ssI4
-(dp213
+(dp214
 g5
-S'79.110.92.40'
-p214
-sg208
+S'79.110.92.90'
+p215
+sg209
 I11151
 ssI5
-(dp215
+(dp216
 g5
-S'79.110.92.33'
-p216
-sg208
+S'79.110.92.88'
+p217
+sg209
 I11151
 ssI6
-(dp217
+(dp218
 g5
-S'79.110.92.30'
-p218
-sg208
+S'79.110.92.86'
+p219
+sg209
 I11151
 ssI7
-(dp219
+(dp220
 g5
-S'79.110.92.26'
-p220
-sg208
+S'79.110.92.82'
+p221
+sg209
 I11151
 ssI8
-(dp221
+(dp222
 g5
-S'79.110.92.10'
-p222
-sg208
+S'79.110.92.80'
+p223
+sg209
 I11151
 ssI9
-(dp223
+(dp224
 g5
-S'79.110.92.5'
-p224
-sg208
+S'79.110.92.72'
+p225
+sg209
 I11151
 ssss.
 key: CHINA_PORT, val: 50000
-key: info, val: {'AUTHADDR': {0: {1: {'ip': '79.110.92.68', 'port': 11151}, 2: {'ip': '79.110.92.57', 'port': 11151}, 3: {'ip': '79.110.92.55', 'port': 11151}, 4: {'ip': '79.110.92.40', 'port': 11151}, 5: {'ip': '79.110.92.33', 'port': 11151}, 6: {'ip': '79.110.92.30', 'port': 11151}, 7: {'ip': '79.110.92.26', 'port': 11151}, 8: {'ip': '79.110.92.10', 'port': 11151}, 9: {'ip': '79.110.92.5', 'port': 11151}}}, 'MARKADDR': {70: {'tcp_port': 12205, 'ip': '79.110.92.27', 'symbol_path': '70', 'mark': '70.tga'}, 40: {'tcp_port': 12205, 'ip': '79.110.92.53', 'symbol_path': '40', 'mark': '40.tga'}, 10: {'tcp_port': 12205, 'ip': '79.110.92.69', 'symbol_path': '10', 'mark': '10.tga'}, 80: {'tcp_port': 12205, 'ip': '79.110.92.12', 'symbol_path': '80', 'mark': '80.tga'}, 50: {'tcp_port': 12205, 'ip': '79.110.92.34', 'symbol_path': '50', 'mark': '50.tga'}, 20: {'tcp_port': 12205, 'ip': '79.110.92.59', 'symbol_path': '20', 'mark': '20.tga'}, 90: {'tcp_port': 12205, 'ip': '79.110.92.6', 'symbol_path': '90', 'mark': '90.tga'}, 60: {'tcp_port': 12205, 'ip': '79.110.92.31', 'symbol_path': '60', 'mark': '60.tga'}, 30: {'tcp_port': 12205, 'ip': '79.110.92.56', 'symbol_path': '30', 'mark': '30.tga'}}, 'GAMEADDR': {0: {1: {'state': 'NEW', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': 'Ismeretlen', 'key': 11, 'ip': '79.110.92.68'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': 'Ismeretlen', 'key': 12, 'ip': '79.110.92.69'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': 'Ismeretlen', 'key': 13, 'ip': '79.110.92.68'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': 'Ismeretlen', 'key': 14, 'ip': '79.110.92.69'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': 'Ismeretlen', 'key': 15, 'ip': '79.110.92.68'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': 'Ismeretlen', 'key': 16, 'ip': '79.110.92.69'}}, 'name': 'Felis'}, 2: {'state': 'SPECIAL', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 21, 'ip': '79.110.92.57'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 22, 'ip': '79.110.92.59'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 23, 'ip': '79.110.92.57'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 24, 'ip': '79.110.92.59'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 25, 'ip': '79.110.92.57'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 26, 'ip': '79.110.92.59'}}, 'name': 'Tigerghost'}, 3: {'state': 'STANDBY', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': 'Sok j\xe1t\xe9kos', 'key': 31, 'ip': '79.110.92.55'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': 'Aj\xe1nlott', 'key': 32, 'ip': '79.110.92.56'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': 'Aj\xe1nlott', 'key': 33, 'ip': '79.110.92.55'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': 'Aj\xe1nlott', 'key': 34, 'ip': '79.110.92.56'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': 'Kev\xe9s j\xe1t\xe9kos', 'key': 35, 'ip': '79.110.92.55'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': 'Kev\xe9s j\xe1t\xe9kos', 'key': 36, 'ip': '79.110.92.56'}}, 'name': 'Azrael'}, 4: {'state': '', 'flag': u'ES', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 41, 'ip': '79.110.92.40'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 42, 'ip': '79.110.92.53'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 43, 'ip': '79.110.92.40'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 44, 'ip': '79.110.92.53'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 45, 'ip': '79.110.92.40'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 46, 'ip': '79.110.92.53'}}, 'name': 'Espa\xf1a'}, 5: {'state': '', 'flag': u'PT', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 51, 'ip': '79.110.92.33'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 52, 'ip': '79.110.92.34'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 53, 'ip': '79.110.92.33'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 54, 'ip': '79.110.92.34'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 55, 'ip': '79.110.92.33'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 56, 'ip': '79.110.92.34'}}, 'name': 'Portugal'}, 6: {'state': '', 'flag': u'IT', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 61, 'ip': '79.110.92.30'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 62, 'ip': '79.110.92.31'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 63, 'ip': '79.110.92.30'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 64, 'ip': '79.110.92.31'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 65, 'ip': '79.110.92.30'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 66, 'ip': '79.110.92.31'}}, 'name': 'Italia'}, 7: {'state': '', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': 'Ismeretlen', 'key': 71, 'ip': '79.110.92.26'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': 'Ismeretlen', 'key': 72, 'ip': '79.110.92.27'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': 'Ismeretlen', 'key': 73, 'ip': '79.110.92.26'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': 'Ismeretlen', 'key': 74, 'ip': '79.110.92.27'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': 'Ismeretlen', 'key': 75, 'ip': '79.110.92.26'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': 'Ismeretlen', 'key': 76, 'ip': '79.110.92.27'}}, 'name': 'Europe'}, 8: {'state': '', 'flag': u'DE', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 81, 'ip': '79.110.92.10'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 82, 'ip': '79.110.92.12'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 83, 'ip': '79.110.92.10'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 84, 'ip': '79.110.92.12'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 85, 'ip': '79.110.92.10'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 86, 'ip': '79.110.92.12'}}, 'name': 'Teutonia'}, 9: {'state': '', 'flag': u'DE', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 91, 'ip': '79.110.92.5'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 92, 'ip': '79.110.92.6'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 93, 'ip': '79.110.92.5'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 94, 'ip': '79.110.92.6'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 95, 'ip': '79.110.92.5'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 96, 'ip': '79.110.92.6'}}, 'name': 'Germania'}}}, 'SERVERID': {1: '', 2: '', 3: '', 4: '', 5: '', 6: '', 7: '', 8: '', 9: ''}, 'NAME': {0: 'Deutschland'}}
-key: name, val: locale_de.addr
+key: info, val: {'AUTHADDR': {0: {1: {'ip': '79.110.92.122', 'port': 11151}, 2: {'ip': '79.110.92.111', 'port': 11151}, 3: {'ip': '79.110.92.102', 'port': 11151}, 4: {'ip': '79.110.92.90', 'port': 11151}, 5: {'ip': '79.110.92.88', 'port': 11151}, 6: {'ip': '79.110.92.86', 'port': 11151}, 7: {'ip': '79.110.92.82', 'port': 11151}, 8: {'ip': '79.110.92.80', 'port': 11151}, 9: {'ip': '79.110.92.72', 'port': 11151}}}, 'MARKADDR': {70: {'tcp_port': 12205, 'ip': '79.110.92.83', 'symbol_path': '70', 'mark': '70.tga'}, 40: {'tcp_port': 12205, 'ip': '79.110.92.101', 'symbol_path': '40', 'mark': '40.tga'}, 10: {'tcp_port': 12205, 'ip': '79.110.92.123', 'symbol_path': '10', 'mark': '10.tga'}, 80: {'tcp_port': 12205, 'ip': '79.110.92.81', 'symbol_path': '80', 'mark': '80.tga'}, 50: {'tcp_port': 12205, 'ip': '79.110.92.89', 'symbol_path': '50', 'mark': '50.tga'}, 20: {'tcp_port': 12205, 'ip': '79.110.92.121', 'symbol_path': '20', 'mark': '20.tga'}, 90: {'tcp_port': 12205, 'ip': '79.110.92.77', 'symbol_path': '90', 'mark': '90.tga'}, 60: {'tcp_port': 12205, 'ip': '79.110.92.87', 'symbol_path': '60', 'mark': '60.tga'}, 30: {'tcp_port': 12205, 'ip': '79.110.92.105', 'symbol_path': '30', 'mark': '30.tga'}}, 'GAMEADDR': {0: {1: {'state': 'NEW|SPECIAL', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 11, 'ip': '79.110.92.122'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 12, 'ip': '79.110.92.123'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 13, 'ip': '79.110.92.122'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 14, 'ip': '79.110.92.123'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 15, 'ip': '79.110.92.122'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 16, 'ip': '79.110.92.123'}}, 'name': '[RUBY] Kirin'}, 2: {'state': 'NEW', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 21, 'ip': '79.110.92.111'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 22, 'ip': '79.110.92.121'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 23, 'ip': '79.110.92.111'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 24, 'ip': '79.110.92.121'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 25, 'ip': '79.110.92.111'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 26, 'ip': '79.110.92.121'}}, 'name': 'Lynx'}, 3: {'state': 'SPECIAL|STANDBY', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 31, 'ip': '79.110.92.102'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 32, 'ip': '79.110.92.105'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 33, 'ip': '79.110.92.102'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 34, 'ip': '79.110.92.105'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 35, 'ip': '79.110.92.102'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 36, 'ip': '79.110.92.105'}}, 'name': 'Polyphemos'}, 4: {'state': '', 'flag': u'PL', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 41, 'ip': '79.110.92.90'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 42, 'ip': '79.110.92.101'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 43, 'ip': '79.110.92.90'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 44, 'ip': '79.110.92.101'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 45, 'ip': '79.110.92.90'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 46, 'ip': '79.110.92.101'}}, 'name': 'Polska'}, 5: {'state': '', 'flag': u'CZ', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 51, 'ip': '79.110.92.88'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 52, 'ip': '79.110.92.89'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 53, 'ip': '79.110.92.88'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 54, 'ip': '79.110.92.89'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 55, 'ip': '79.110.92.88'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 56, 'ip': '79.110.92.89'}}, 'name': '\xc8esko'}, 6: {'state': '', 'flag': u'HU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': 'Ismeretlen', 'key': 61, 'ip': '79.110.92.86'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': 'Ismeretlen', 'key': 62, 'ip': '79.110.92.87'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': 'Ismeretlen', 'key': 63, 'ip': '79.110.92.86'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': 'Ismeretlen', 'key': 64, 'ip': '79.110.92.87'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': 'Ismeretlen', 'key': 65, 'ip': '79.110.92.86'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': 'Ismeretlen', 'key': 66, 'ip': '79.110.92.87'}}, 'name': 'Magyarorsz\xe1g'}, 7: {'state': 'SPECIAL', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 71, 'ip': '79.110.92.82'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 72, 'ip': '79.110.92.83'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 73, 'ip': '79.110.92.82'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 74, 'ip': '79.110.92.83'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 75, 'ip': '79.110.92.82'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 76, 'ip': '79.110.92.83'}}, 'name': 'Carpathians'}, 8: {'state': '', 'flag': u'RO', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 81, 'ip': '79.110.92.80'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 82, 'ip': '79.110.92.81'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 83, 'ip': '79.110.92.80'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 84, 'ip': '79.110.92.81'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 85, 'ip': '79.110.92.80'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 86, 'ip': '79.110.92.81'}}, 'name': 'Tara Rom\xe2neasc\xe3'}, 9: {'state': '', 'flag': u'RO', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 91, 'ip': '79.110.92.72'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 92, 'ip': '79.110.92.77'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 93, 'ip': '79.110.92.72'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 94, 'ip': '79.110.92.77'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 95, 'ip': '79.110.92.72'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 96, 'ip': '79.110.92.77'}}, 'name': 'Rom\xe2nia'}}}, 'SERVERID': {1: '', 2: '', 3: '', 4: '', 5: '', 6: '', 7: '', 8: '', 9: ''}, 'NAME': {0: 'Polen'}}
+key: name, val: locale_hu.addr
 key: idx, val: 5
 key: debugInfo, val: <module 'debugInfo' (built-in)>
-key: REGION_DICT, val: {0: {1: {'state': 'NEW', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': 'Ismeretlen', 'key': 11, 'ip': '79.110.92.68'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': 'Ismeretlen', 'key': 12, 'ip': '79.110.92.69'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': 'Ismeretlen', 'key': 13, 'ip': '79.110.92.68'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': 'Ismeretlen', 'key': 14, 'ip': '79.110.92.69'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': 'Ismeretlen', 'key': 15, 'ip': '79.110.92.68'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': 'Ismeretlen', 'key': 16, 'ip': '79.110.92.69'}}, 'name': 'Felis'}, 2: {'state': 'SPECIAL', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 21, 'ip': '79.110.92.57'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 22, 'ip': '79.110.92.59'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 23, 'ip': '79.110.92.57'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 24, 'ip': '79.110.92.59'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 25, 'ip': '79.110.92.57'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 26, 'ip': '79.110.92.59'}}, 'name': 'Tigerghost'}, 3: {'state': 'STANDBY', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': 'Sok j\xe1t\xe9kos', 'key': 31, 'ip': '79.110.92.55'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': 'Aj\xe1nlott', 'key': 32, 'ip': '79.110.92.56'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': 'Aj\xe1nlott', 'key': 33, 'ip': '79.110.92.55'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': 'Aj\xe1nlott', 'key': 34, 'ip': '79.110.92.56'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': 'Kev\xe9s j\xe1t\xe9kos', 'key': 35, 'ip': '79.110.92.55'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': 'Kev\xe9s j\xe1t\xe9kos', 'key': 36, 'ip': '79.110.92.56'}}, 'name': 'Azrael'}, 4: {'state': '', 'flag': u'ES', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 41, 'ip': '79.110.92.40'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 42, 'ip': '79.110.92.53'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 43, 'ip': '79.110.92.40'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 44, 'ip': '79.110.92.53'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 45, 'ip': '79.110.92.40'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 46, 'ip': '79.110.92.53'}}, 'name': 'Espa\xf1a'}, 5: {'state': '', 'flag': u'PT', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 51, 'ip': '79.110.92.33'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 52, 'ip': '79.110.92.34'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 53, 'ip': '79.110.92.33'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 54, 'ip': '79.110.92.34'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 55, 'ip': '79.110.92.33'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 56, 'ip': '79.110.92.34'}}, 'name': 'Portugal'}, 6: {'state': '', 'flag': u'IT', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 61, 'ip': '79.110.92.30'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 62, 'ip': '79.110.92.31'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 63, 'ip': '79.110.92.30'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 64, 'ip': '79.110.92.31'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 65, 'ip': '79.110.92.30'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 66, 'ip': '79.110.92.31'}}, 'name': 'Italia'}, 7: {'state': '', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': 'Ismeretlen', 'key': 71, 'ip': '79.110.92.26'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': 'Ismeretlen', 'key': 72, 'ip': '79.110.92.27'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': 'Ismeretlen', 'key': 73, 'ip': '79.110.92.26'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': 'Ismeretlen', 'key': 74, 'ip': '79.110.92.27'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': 'Ismeretlen', 'key': 75, 'ip': '79.110.92.26'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': 'Ismeretlen', 'key': 76, 'ip': '79.110.92.27'}}, 'name': 'Europe'}, 8: {'state': '', 'flag': u'DE', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 81, 'ip': '79.110.92.10'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 82, 'ip': '79.110.92.12'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 83, 'ip': '79.110.92.10'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 84, 'ip': '79.110.92.12'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 85, 'ip': '79.110.92.10'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 86, 'ip': '79.110.92.12'}}, 'name': 'Teutonia'}, 9: {'state': '', 'flag': u'DE', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 91, 'ip': '79.110.92.5'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 92, 'ip': '79.110.92.6'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 93, 'ip': '79.110.92.5'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 94, 'ip': '79.110.92.6'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 95, 'ip': '79.110.92.5'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 96, 'ip': '79.110.92.6'}}, 'name': 'Germania'}}}
+key: REGION_DICT, val: {0: {1: {'state': 'NEW|SPECIAL', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 11, 'ip': '79.110.92.122'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 12, 'ip': '79.110.92.123'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 13, 'ip': '79.110.92.122'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 14, 'ip': '79.110.92.123'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 15, 'ip': '79.110.92.122'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 16, 'ip': '79.110.92.123'}}, 'name': '[RUBY] Kirin'}, 2: {'state': 'NEW', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 21, 'ip': '79.110.92.111'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 22, 'ip': '79.110.92.121'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 23, 'ip': '79.110.92.111'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 24, 'ip': '79.110.92.121'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 25, 'ip': '79.110.92.111'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 26, 'ip': '79.110.92.121'}}, 'name': 'Lynx'}, 3: {'state': 'SPECIAL|STANDBY', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 31, 'ip': '79.110.92.102'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 32, 'ip': '79.110.92.105'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 33, 'ip': '79.110.92.102'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 34, 'ip': '79.110.92.105'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 35, 'ip': '79.110.92.102'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 36, 'ip': '79.110.92.105'}}, 'name': 'Polyphemos'}, 4: {'state': '', 'flag': u'PL', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 41, 'ip': '79.110.92.90'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 42, 'ip': '79.110.92.101'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 43, 'ip': '79.110.92.90'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 44, 'ip': '79.110.92.101'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 45, 'ip': '79.110.92.90'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 46, 'ip': '79.110.92.101'}}, 'name': 'Polska'}, 5: {'state': '', 'flag': u'CZ', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 51, 'ip': '79.110.92.88'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 52, 'ip': '79.110.92.89'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 53, 'ip': '79.110.92.88'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 54, 'ip': '79.110.92.89'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 55, 'ip': '79.110.92.88'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 56, 'ip': '79.110.92.89'}}, 'name': '\xc8esko'}, 6: {'state': '', 'flag': u'HU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': 'Ismeretlen', 'key': 61, 'ip': '79.110.92.86'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': 'Ismeretlen', 'key': 62, 'ip': '79.110.92.87'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': 'Ismeretlen', 'key': 63, 'ip': '79.110.92.86'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': 'Ismeretlen', 'key': 64, 'ip': '79.110.92.87'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': 'Ismeretlen', 'key': 65, 'ip': '79.110.92.86'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': 'Ismeretlen', 'key': 66, 'ip': '79.110.92.87'}}, 'name': 'Magyarorsz\xe1g'}, 7: {'state': 'SPECIAL', 'flag': u'EU', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 71, 'ip': '79.110.92.82'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 72, 'ip': '79.110.92.83'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 73, 'ip': '79.110.92.82'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 74, 'ip': '79.110.92.83'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 75, 'ip': '79.110.92.82'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 76, 'ip': '79.110.92.83'}}, 'name': 'Carpathians'}, 8: {'state': '', 'flag': u'RO', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 81, 'ip': '79.110.92.80'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 82, 'ip': '79.110.92.81'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 83, 'ip': '79.110.92.80'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 84, 'ip': '79.110.92.81'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 85, 'ip': '79.110.92.80'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 86, 'ip': '79.110.92.81'}}, 'name': 'Tara Rom\xe2neasc\xe3'}, 9: {'state': '', 'flag': u'RO', 'channel': {1: {'name': 'CH1   ', 'tcp_port': 12105, 'udp_port': 12105, 'state': '...', 'key': 91, 'ip': '79.110.92.72'}, 2: {'name': 'CH2   ', 'tcp_port': 12205, 'udp_port': 12205, 'state': '...', 'key': 92, 'ip': '79.110.92.77'}, 3: {'name': 'CH3   ', 'tcp_port': 12305, 'udp_port': 12305, 'state': '...', 'key': 93, 'ip': '79.110.92.72'}, 4: {'name': 'CH4   ', 'tcp_port': 12405, 'udp_port': 12405, 'state': '...', 'key': 94, 'ip': '79.110.92.77'}, 5: {'name': 'CH5   ', 'tcp_port': 12505, 'udp_port': 12505, 'state': '...', 'key': 95, 'ip': '79.110.92.72'}, 6: {'name': 'CH6   ', 'tcp_port': 12605, 'udp_port': 12605, 'state': '...', 'key': 96, 'ip': '79.110.92.77'}}, 'name': 'Rom\xe2nia'}}}
 key: value, val: Betelt
-key: os, val: <module 'os' from 'C:\m2\.DE\metin2\de-DE\lib\os.pyc'>
+key: os, val: <module 'os' from 'C:\m2\.HU\lib\os.pyc'>
 
 

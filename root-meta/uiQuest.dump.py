@@ -31,7 +31,7 @@ key: QuestDialog, val: <class 'uiQuest.QuestDialog'>
 
 
 class QuestCurtain:
-OnUpdate,		<cyfunction QuestCurtain.OnUpdate at 0x0A1DB8C8>
+OnUpdate,		<cyfunction QuestCurtain.OnUpdate at 0x0CD3CB30>
 	arg0: self
 
 submodule.OnUpdate
@@ -46,7 +46,7 @@ CURTAIN_TIME,		0.25
 submodule.CURTAIN_TIME
 
 
-__del__,		<cyfunction QuestCurtain.__del__ at 0x0A1DB818>
+__del__,		<cyfunction QuestCurtain.__del__ at 0x0CD3CA80>
 	arg0: self
 
 submodule.__del__
@@ -71,7 +71,7 @@ CURTAIN_SPEED,		200
 submodule.CURTAIN_SPEED
 
 
-Close,		<cyfunction QuestCurtain.Close at 0x0A1DB870>
+Close,		<cyfunction QuestCurtain.Close at 0x0CD3CAD8>
 	arg0: self
 
 submodule.Close
@@ -81,7 +81,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction QuestCurtain.__init__ at 0x0A1DB7C0>
+__init__,		<cyfunction QuestCurtain.__init__ at 0x0CD3CA28>
 	arg0: self
 	arg1: layer
 	default: TOP_MOST
@@ -96,12 +96,12 @@ __module__,		uiQuest
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction ItemToolTipImageBox.OnMouseOverOut at 0x0A1DB3A0>
+OnMouseOverOut,		<cyfunction ItemToolTipImageBox.OnMouseOverOut at 0x0CD3C608>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTipImageBox instance as first argument (got nothing instead)
-__del__,		<cyfunction ItemToolTipImageBox.__del__ at 0x0A1DB240>
+__del__,		<cyfunction ItemToolTipImageBox.__del__ at 0x0CD3C4A8>
 	arg0: self
 
 submodule.__del__
@@ -111,7 +111,7 @@ __qualname__,		ItemToolTipImageBox
 submodule.__qualname__
 
 
-CreateToolTip,		<cyfunction ItemToolTipImageBox.CreateToolTip at 0x0A1DB298>
+CreateToolTip,		<cyfunction ItemToolTipImageBox.CreateToolTip at 0x0CD3C500>
 	arg0: self
 	arg1: parent
 	arg2: x
@@ -120,12 +120,12 @@ CreateToolTip,		<cyfunction ItemToolTipImageBox.CreateToolTip at 0x0A1DB298>
 
 submodule.CreateToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTipImageBox instance as first argument (got nothing instead)
-DestroyToolTip,		<cyfunction ItemToolTipImageBox.DestroyToolTip at 0x0A1DB2F0>
+DestroyToolTip,		<cyfunction ItemToolTipImageBox.DestroyToolTip at 0x0CD3C558>
 	arg0: self
 
 submodule.DestroyToolTip
 Skipped: unbound method cython_function_or_method object must be called with ItemToolTipImageBox instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction ItemToolTipImageBox.OnMouseOverIn at 0x0A1DB348>
+OnMouseOverIn,		<cyfunction ItemToolTipImageBox.OnMouseOverIn at 0x0CD3C5B0>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -135,7 +135,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ItemToolTipImageBox.__init__ at 0x0A1DB1E8>
+__init__,		<cyfunction ItemToolTipImageBox.__init__ at 0x0CD3C450>
 	arg0: self
 
 submodule.__init__
@@ -148,7 +148,7 @@ __module__,		uiQuest
 submodule.__module__
 
 
-__del__,		<cyfunction EventCurtain.__del__ at 0x0A1DB978>
+__del__,		<cyfunction EventCurtain.__del__ at 0x0CD3CBE0>
 	arg0: self
 
 submodule.__del__
@@ -158,13 +158,13 @@ STATE_IN,		2
 submodule.STATE_IN
 
 
-SetAlpha,		<cyfunction EventCurtain.SetAlpha at 0x0A1DB9D0>
+SetAlpha,		<cyfunction EventCurtain.SetAlpha at 0x0CD3CC38>
 	arg0: self
 	arg1: alpha
 
 submodule.SetAlpha
 Skipped: unbound method cython_function_or_method object must be called with EventCurtain instance as first argument (got nothing instead)
-WhiteIn,		<cyfunction EventCurtain.WhiteIn at 0x0A1DBB30>
+WhiteIn,		<cyfunction EventCurtain.WhiteIn at 0x0CD3CD98>
 	arg0: self
 	arg1: speed
 
@@ -180,7 +180,7 @@ STATE_WAIT,		0
 submodule.STATE_WAIT
 
 
-_EventCurtain__EndFade,		<cyfunction EventCurtain.__EndFade at 0x0A1DBBE0>
+_EventCurtain__EndFade,		<cyfunction EventCurtain.__EndFade at 0x0CD3CE48>
 	arg0: self
 
 submodule._EventCurtain__EndFade
@@ -190,12 +190,12 @@ STATE_OUT,		1
 submodule.STATE_OUT
 
 
-OnUpdate,		<cyfunction EventCurtain.OnUpdate at 0x0A1DBC38>
+OnUpdate,		<cyfunction EventCurtain.OnUpdate at 0x0CD3CEA0>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with EventCurtain instance as first argument (got nothing instead)
-FadeOut,		<cyfunction EventCurtain.FadeOut at 0x0A1DBA28>
+FadeOut,		<cyfunction EventCurtain.FadeOut at 0x0CD3CC90>
 	arg0: self
 	arg1: speed
 
@@ -206,7 +206,7 @@ COLOR_WHITE,		0.0
 submodule.COLOR_WHITE
 
 
-_EventCurtain__StartFade,		<cyfunction EventCurtain.__StartFade at 0x0A1DBB88>
+_EventCurtain__StartFade,		<cyfunction EventCurtain.__StartFade at 0x0CD3CDF0>
 	arg0: self
 	arg1: state
 	arg2: color
@@ -224,13 +224,13 @@ COLOR_BLACK,		1.0
 submodule.COLOR_BLACK
 
 
-WhiteOut,		<cyfunction EventCurtain.WhiteOut at 0x0A1DBAD8>
+WhiteOut,		<cyfunction EventCurtain.WhiteOut at 0x0CD3CD40>
 	arg0: self
 	arg1: speed
 
 submodule.WhiteOut
 Skipped: unbound method cython_function_or_method object must be called with EventCurtain instance as first argument (got nothing instead)
-__init__,		<cyfunction EventCurtain.__init__ at 0x0A1DB920>
+__init__,		<cyfunction EventCurtain.__init__ at 0x0CD3CB88>
 	arg0: self
 	arg1: index
 
@@ -241,7 +241,7 @@ __doc__,		None
 submodule.__doc__
 
 
-FadeIn,		<cyfunction EventCurtain.FadeIn at 0x0A1DBA80>
+FadeIn,		<cyfunction EventCurtain.FadeIn at 0x0CD3CCE8>
 	arg0: self
 	arg1: speed
 
@@ -255,12 +255,12 @@ __module__,		uiQuest
 submodule.__module__
 
 
-OnRender,		<cyfunction DescriptionWindow.OnRender at 0x0A1DBFA8>
+OnRender,		<cyfunction DescriptionWindow.OnRender at 0x0CD46240>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with DescriptionWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction DescriptionWindow.__del__ at 0x0A1DBF50>
+__del__,		<cyfunction DescriptionWindow.__del__ at 0x0CD461E8>
 	arg0: self
 
 submodule.__del__
@@ -275,7 +275,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction DescriptionWindow.__init__ at 0x0A1DBEF8>
+__init__,		<cyfunction DescriptionWindow.__init__ at 0x0CD46190>
 	arg0: self
 	arg1: idx
 
@@ -289,12 +289,12 @@ __module__,		uiQuest
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction ToolTipImageBox.OnMouseOverOut at 0x0A1DB768>
+OnMouseOverOut,		<cyfunction ToolTipImageBox.OnMouseOverOut at 0x0CD3C9D0>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with ToolTipImageBox instance as first argument (got nothing instead)
-__del__,		<cyfunction ToolTipImageBox.__del__ at 0x0A1DB608>
+__del__,		<cyfunction ToolTipImageBox.__del__ at 0x0CD3C870>
 	arg0: self
 
 submodule.__del__
@@ -304,7 +304,7 @@ __qualname__,		ToolTipImageBox
 submodule.__qualname__
 
 
-CreateToolTip,		<cyfunction ToolTipImageBox.CreateToolTip at 0x0A1DB660>
+CreateToolTip,		<cyfunction ToolTipImageBox.CreateToolTip at 0x0CD3C8C8>
 	arg0: self
 	arg1: parent
 	arg2: title
@@ -314,12 +314,12 @@ CreateToolTip,		<cyfunction ToolTipImageBox.CreateToolTip at 0x0A1DB660>
 
 submodule.CreateToolTip
 Skipped: unbound method cython_function_or_method object must be called with ToolTipImageBox instance as first argument (got nothing instead)
-DestroyToolTip,		<cyfunction ToolTipImageBox.DestroyToolTip at 0x0A1DB6B8>
+DestroyToolTip,		<cyfunction ToolTipImageBox.DestroyToolTip at 0x0CD3C920>
 	arg0: self
 
 submodule.DestroyToolTip
 Skipped: unbound method cython_function_or_method object must be called with ToolTipImageBox instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction ToolTipImageBox.OnMouseOverIn at 0x0A1DB710>
+OnMouseOverIn,		<cyfunction ToolTipImageBox.OnMouseOverIn at 0x0CD3C978>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -329,7 +329,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction ToolTipImageBox.__init__ at 0x0A1DB5B0>
+__init__,		<cyfunction ToolTipImageBox.__init__ at 0x0CD3C818>
 	arg0: self
 
 submodule.__init__
@@ -342,17 +342,17 @@ ColorUp,		1083808153
 submodule.ColorUp
 
 
-HideToolTip,		<cyfunction BarButton.HideToolTip at 0x0A1DBEA0>
+HideToolTip,		<cyfunction BarButton.HideToolTip at 0x0CD46138>
 	arg0: self
 
 submodule.HideToolTip
 Skipped: unbound method cython_function_or_method object must be called with BarButton instance as first argument (got nothing instead)
-OnRender,		<cyfunction BarButton.OnRender at 0x0A1DBD40>
+OnRender,		<cyfunction BarButton.OnRender at 0x0CD3CFA8>
 	arg0: self
 
 submodule.OnRender
 Skipped: unbound method cython_function_or_method object must be called with BarButton instance as first argument (got nothing instead)
-CallEvent,		<cyfunction BarButton.CallEvent at 0x0A1DBD98>
+CallEvent,		<cyfunction BarButton.CallEvent at 0x0CD46030>
 	arg0: self
 
 submodule.CallEvent
@@ -367,7 +367,7 @@ OVER,		2
 submodule.OVER
 
 
-ShowToolTip,		<cyfunction BarButton.ShowToolTip at 0x0A1DBE48>
+ShowToolTip,		<cyfunction BarButton.ShowToolTip at 0x0CD460E0>
 	arg0: self
 
 submodule.ShowToolTip
@@ -387,12 +387,12 @@ __qualname__,		BarButton
 submodule.__qualname__
 
 
-__del__,		<cyfunction BarButton.__del__ at 0x0A1DBCE8>
+__del__,		<cyfunction BarButton.__del__ at 0x0CD3CF50>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with BarButton instance as first argument (got nothing instead)
-DownEvent,		<cyfunction BarButton.DownEvent at 0x0A1DBDF0>
+DownEvent,		<cyfunction BarButton.DownEvent at 0x0CD46088>
 	arg0: self
 
 submodule.DownEvent
@@ -412,7 +412,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction BarButton.__init__ at 0x0A1DBC90>
+__init__,		<cyfunction BarButton.__init__ at 0x0CD3CEF8>
 	arg0: self
 	arg1: layer
 	arg2: aColorUp
@@ -433,7 +433,7 @@ __qualname__,		CellItemToolTipImageBox
 submodule.__qualname__
 
 
-CreateToolTip,		<cyfunction CellItemToolTipImageBox.CreateToolTip at 0x0A1DB4A8>
+CreateToolTip,		<cyfunction CellItemToolTipImageBox.CreateToolTip at 0x0CD3C710>
 	arg0: self
 	arg1: parent
 	arg2: x
@@ -448,17 +448,17 @@ __module__,		uiQuest
 submodule.__module__
 
 
-OnMouseOverOut,		<cyfunction CellItemToolTipImageBox.OnMouseOverOut at 0x0A1DB558>
+OnMouseOverOut,		<cyfunction CellItemToolTipImageBox.OnMouseOverOut at 0x0CD3C7C0>
 	arg0: self
 
 submodule.OnMouseOverOut
 Skipped: unbound method cython_function_or_method object must be called with CellItemToolTipImageBox instance as first argument (got nothing instead)
-__del__,		<cyfunction CellItemToolTipImageBox.__del__ at 0x0A1DB450>
+__del__,		<cyfunction CellItemToolTipImageBox.__del__ at 0x0CD3C6B8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with CellItemToolTipImageBox instance as first argument (got nothing instead)
-OnMouseOverIn,		<cyfunction CellItemToolTipImageBox.OnMouseOverIn at 0x0A1DB500>
+OnMouseOverIn,		<cyfunction CellItemToolTipImageBox.OnMouseOverIn at 0x0CD3C768>
 	arg0: self
 
 submodule.OnMouseOverIn
@@ -468,7 +468,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction CellItemToolTipImageBox.__init__ at 0x0A1DB3F8>
+__init__,		<cyfunction CellItemToolTipImageBox.__init__ at 0x0CD3C660>
 	arg0: self
 
 submodule.__init__
@@ -481,21 +481,21 @@ TITLE_STATE_SHOW,		2
 submodule.TITLE_STATE_SHOW
 
 
-NextQuestPageEvent,		<cyfunction QuestDialog.NextQuestPageEvent at 0x0A1E2768>
+NextQuestPageEvent,		<cyfunction QuestDialog.NextQuestPageEvent at 0x0CD469D0>
 	arg0: self
 	arg1: one
 	arg2: n
 
 submodule.NextQuestPageEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-AppendQuestion,		<cyfunction QuestDialog.AppendQuestion at 0x0A1E2870>
+AppendQuestion,		<cyfunction QuestDialog.AppendQuestion at 0x0CD46AD8>
 	arg0: self
 	arg1: name
 	arg2: idx
 
 submodule.AppendQuestion
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-MakeCancelButton,		<cyfunction QuestDialog.MakeCancelButton at 0x0A1E2558>
+MakeCancelButton,		<cyfunction QuestDialog.MakeCancelButton at 0x0CD467C0>
 	arg0: self
 
 submodule.MakeCancelButton
@@ -505,12 +505,12 @@ TITLE_STATE_NONE,		0
 submodule.TITLE_STATE_NONE
 
 
-DoneEvent,		<cyfunction QuestDialog.DoneEvent at 0x0A1E2A28>
+DoneEvent,		<cyfunction QuestDialog.DoneEvent at 0x0CD46C90>
 	arg0: self
 
 submodule.DoneEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-SetOnCloseEvent,		<cyfunction QuestDialog.SetOnCloseEvent at 0x0A1E2348>
+SetOnCloseEvent,		<cyfunction QuestDialog.SetOnCloseEvent at 0x0CD465B0>
 	arg0: self
 	arg1: f
 
@@ -526,44 +526,44 @@ __module__,		uiQuest
 submodule.__module__
 
 
-AdjustEventSetPosition,		<cyfunction QuestDialog.AdjustEventSetPosition at 0x0A1E23F8>
+AdjustEventSetPosition,		<cyfunction QuestDialog.AdjustEventSetPosition at 0x0CD46660>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.AdjustEventSetPosition
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-AddOnCloseEvent,		<cyfunction QuestDialog.AddOnCloseEvent at 0x0A1E2298>
+AddOnCloseEvent,		<cyfunction QuestDialog.AddOnCloseEvent at 0x0CD46500>
 	arg0: self
 	arg1: f
 
 submodule.AddOnCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnLeftImage,		<cyfunction QuestDialog.OnLeftImage at 0x0A1E2FA8>
+OnLeftImage,		<cyfunction QuestDialog.OnLeftImage at 0x0CD47240>
 	arg0: self
 	arg1: imgfile
 
 submodule.OnLeftImage
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-MakeNextandCancelButton,		<cyfunction QuestDialog.MakeNextandCancelButton at 0x0A1E24A8>
+MakeNextandCancelButton,		<cyfunction QuestDialog.MakeNextandCancelButton at 0x0CD46710>
 	arg0: self
 
 submodule.MakeNextandCancelButton
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnTitleImage,		<cyfunction QuestDialog.OnTitleImage at 0x0A1E2F50>
+OnTitleImage,		<cyfunction QuestDialog.OnTitleImage at 0x0CD471E8>
 	arg0: self
 	arg1: filename
 
 submodule.OnTitleImage
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-PrevQuestPageEvent,		<cyfunction QuestDialog.PrevQuestPageEvent at 0x0A1E27C0>
+PrevQuestPageEvent,		<cyfunction QuestDialog.PrevQuestPageEvent at 0x0CD46A28>
 	arg0: self
 	arg1: one
 	arg2: n
 
 submodule.PrevQuestPageEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-WhiteIn,		<cyfunction QuestDialog.WhiteIn at 0x0A1E29D0>
+WhiteIn,		<cyfunction QuestDialog.WhiteIn at 0x0CD46C38>
 	arg0: self
 	arg1: speed
 
@@ -574,17 +574,17 @@ TITLE_STATE_DISAPPEAR,		3
 submodule.TITLE_STATE_DISAPPEAR
 
 
-Destroy,		<cyfunction QuestDialog.Destroy at 0x0A1E21E8>
+Destroy,		<cyfunction QuestDialog.Destroy at 0x0CD46450>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnLongInput,		<cyfunction QuestDialog.OnLongInput at 0x0A1E2CE8>
+OnLongInput,		<cyfunction QuestDialog.OnLongInput at 0x0CD46F50>
 	arg0: self
 
 submodule.OnLongInput
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnImage,		<cyfunction QuestDialog.OnImage at 0x0A1E2D40>
+OnImage,		<cyfunction QuestDialog.OnImage at 0x0CD46FA8>
 	arg0: self
 	arg1: x
 	arg2: y
@@ -594,46 +594,46 @@ OnImage,		<cyfunction QuestDialog.OnImage at 0x0A1E2D40>
 
 submodule.OnImage
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction QuestDialog.__init__ at 0x0A1E2030>
+__init__,		<cyfunction QuestDialog.__init__ at 0x0CD46298>
 	arg0: self
 	arg1: skin
 	arg2: idx
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-RefreshQuestPage,		<cyfunction QuestDialog.RefreshQuestPage at 0x0A1E2710>
+RefreshQuestPage,		<cyfunction QuestDialog.RefreshQuestPage at 0x0CD46978>
 	arg0: self
 	arg1: n
 
 submodule.RefreshQuestPage
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction QuestDialog.OnUpdate at 0x0A1E2240>
+OnUpdate,		<cyfunction QuestDialog.OnUpdate at 0x0CD464A8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnCancel,		<cyfunction QuestDialog.OnCancel at 0x0A1E2138>
+OnCancel,		<cyfunction QuestDialog.OnCancel at 0x0CD463A0>
 	arg0: self
 
 submodule.OnCancel
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction QuestDialog.OnPressEscapeKey at 0x0A1E2B30>
+OnPressEscapeKey,		<cyfunction QuestDialog.OnPressEscapeKey at 0x0CD46D98>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnKeyDown,		<cyfunction QuestDialog.OnKeyDown at 0x0A1E2AD8>
+OnKeyDown,		<cyfunction QuestDialog.OnKeyDown at 0x0CD46D40>
 	arg0: self
 	arg1: key
 
 submodule.OnKeyDown
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnIMEUpdate,		<cyfunction QuestDialog.OnIMEUpdate at 0x0A1E2BE0>
+OnIMEUpdate,		<cyfunction QuestDialog.OnIMEUpdate at 0x0CD46E48>
 	arg0: self
 
 submodule.OnIMEUpdate
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnInsertImageShowItemToolTip,		<cyfunction QuestDialog.OnInsertImageShowItemToolTip at 0x0A1E2E48>
+OnInsertImageShowItemToolTip,		<cyfunction QuestDialog.OnInsertImageShowItemToolTip at 0x0CD470E0>
 	arg0: self
 	arg1: vnum
 	arg2: index
@@ -648,71 +648,71 @@ SKIN_NONE,		0
 submodule.SKIN_NONE
 
 
-MakeEachButton,		<cyfunction QuestDialog.MakeEachButton at 0x0A1E2660>
+MakeEachButton,		<cyfunction QuestDialog.MakeEachButton at 0x0CD468C8>
 	arg0: self
 	arg1: i
 
 submodule.MakeEachButton
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-WhiteOut,		<cyfunction QuestDialog.WhiteOut at 0x0A1E2978>
+WhiteOut,		<cyfunction QuestDialog.WhiteOut at 0x0CD46BE0>
 	arg0: self
 	arg1: speed
 
 submodule.WhiteOut
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-QuestCurtain,		<uiQuest.QuestCurtain object at 0x0A170FD0>
+QuestCurtain,		<uiQuest.QuestCurtain object at 0x2DE898F0>
 
 submodule.QuestCurtain
 
 
-SetEventSetPosition,		<cyfunction QuestDialog.SetEventSetPosition at 0x0A1E23A0>
+SetEventSetPosition,		<cyfunction QuestDialog.SetEventSetPosition at 0x0CD46608>
 	arg0: self
 	arg1: x
 	arg2: y
 
 submodule.SetEventSetPosition
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-CloseSelf,		<cyfunction QuestDialog.CloseSelf at 0x0A1E2190>
+CloseSelf,		<cyfunction QuestDialog.CloseSelf at 0x0CD463F8>
 	arg0: self
 
 submodule.CloseSelf
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-ClickAnswerEvent,		<cyfunction QuestDialog.ClickAnswerEvent at 0x0A1E2818>
+ClickAnswerEvent,		<cyfunction QuestDialog.ClickAnswerEvent at 0x0CD46A80>
 	arg0: self
 	arg1: ai
 
 submodule.ClickAnswerEvent
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnInsertImageShowItemToolTipByCell,		<cyfunction QuestDialog.OnInsertImageShowItemToolTipByCell at 0x0A1E2EA0>
+OnInsertImageShowItemToolTipByCell,		<cyfunction QuestDialog.OnInsertImageShowItemToolTipByCell at 0x0CD47138>
 	arg0: self
 	arg1: window_type
 	arg2: cell
 
 submodule.OnInsertImageShowItemToolTipByCell
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnTopImage,		<cyfunction QuestDialog.OnTopImage at 0x0A1E3030>
+OnTopImage,		<cyfunction QuestDialog.OnTopImage at 0x0CD47298>
 	arg0: self
 	arg1: imgfile
 
 submodule.OnTopImage
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction QuestDialog.__del__ at 0x0A1E2088>
+__del__,		<cyfunction QuestDialog.__del__ at 0x0CD462F0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-MakeNextPrevPageButton,		<cyfunction QuestDialog.MakeNextPrevPageButton at 0x0A1E26B8>
+MakeNextPrevPageButton,		<cyfunction QuestDialog.MakeNextPrevPageButton at 0x0CD46920>
 	arg0: self
 
 submodule.MakeNextPrevPageButton
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-_QuestDialog__GetQuestImageFileName,		<cyfunction QuestDialog.__GetQuestImageFileName at 0x0A1E2A80>
+_QuestDialog__GetQuestImageFileName,		<cyfunction QuestDialog.__GetQuestImageFileName at 0x0CD46CE8>
 	arg0: self
 	arg1: filename
 
 submodule._QuestDialog__GetQuestImageFileName
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnBackgroundImage,		<cyfunction QuestDialog.OnBackgroundImage at 0x0A1E3088>
+OnBackgroundImage,		<cyfunction QuestDialog.OnBackgroundImage at 0x0CD472F0>
 	arg0: self
 	arg1: imgfile
 
@@ -723,13 +723,13 @@ SKIN_CINEMA,		5
 submodule.SKIN_CINEMA
 
 
-LoadDialog,		<cyfunction QuestDialog.LoadDialog at 0x0A1E20E0>
+LoadDialog,		<cyfunction QuestDialog.LoadDialog at 0x0CD46348>
 	arg0: self
 	arg1: skin
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-AddOnDoneEvent,		<cyfunction QuestDialog.AddOnDoneEvent at 0x0A1E22F0>
+AddOnDoneEvent,		<cyfunction QuestDialog.AddOnDoneEvent at 0x0CD46558>
 	arg0: self
 	arg1: f
 
@@ -740,14 +740,14 @@ TITLE_STATE_APPEAR,		1
 submodule.TITLE_STATE_APPEAR
 
 
-OnSize,		<cyfunction QuestDialog.OnSize at 0x0A1E2EF8>
+OnSize,		<cyfunction QuestDialog.OnSize at 0x0CD47190>
 	arg0: self
 	arg1: width
 	arg2: height
 
 submodule.OnSize
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnInsertImage,		<cyfunction QuestDialog.OnInsertImage at 0x0A1E2DF0>
+OnInsertImage,		<cyfunction QuestDialog.OnInsertImage at 0x0CD47088>
 	arg0: self
 	arg1: filename
 	arg2: underTitle
@@ -760,13 +760,13 @@ OnInsertImage,		<cyfunction QuestDialog.OnInsertImage at 0x0A1E2DF0>
 
 submodule.OnInsertImage
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-MakeQuestion,		<cyfunction QuestDialog.MakeQuestion at 0x0A1E2608>
+MakeQuestion,		<cyfunction QuestDialog.MakeQuestion at 0x0CD46870>
 	arg0: self
 	arg1: n
 
 submodule.MakeQuestion
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnInput,		<cyfunction QuestDialog.OnInput at 0x0A1E2C38>
+OnInput,		<cyfunction QuestDialog.OnInput at 0x0CD46EA0>
 	arg0: self
 	arg1: maxLen
 
@@ -777,18 +777,18 @@ QUEST_CUT_WIDTH_LIMIT,		50
 submodule.QUEST_CUT_WIDTH_LIMIT
 
 
-FadeOut,		<cyfunction QuestDialog.FadeOut at 0x0A1E28C8>
+FadeOut,		<cyfunction QuestDialog.FadeOut at 0x0CD46B30>
 	arg0: self
 	arg1: speed
 
 submodule.FadeOut
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnPressCancelButton,		<cyfunction QuestDialog.OnPressCancelButton at 0x0A1E2500>
+OnPressCancelButton,		<cyfunction QuestDialog.OnPressCancelButton at 0x0CD46768>
 	arg0: self
 
 submodule.OnPressCancelButton
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnInsertItemIcon,		<cyfunction QuestDialog.OnInsertItemIcon at 0x0A1E2D98>
+OnInsertItemIcon,		<cyfunction QuestDialog.OnInsertItemIcon at 0x0CD47030>
 	arg0: self
 	arg1: type
 	arg2: idx
@@ -811,29 +811,29 @@ __qualname__,		QuestDialog
 submodule.__qualname__
 
 
-MakeNextButton,		<cyfunction QuestDialog.MakeNextButton at 0x0A1E2450>
+MakeNextButton,		<cyfunction QuestDialog.MakeNextButton at 0x0CD466B8>
 	arg0: self
 	arg1: button_type
 
 submodule.MakeNextButton
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnInputAddcancel,		<cyfunction QuestDialog.OnInputAddcancel at 0x0A1E2C90>
+OnInputAddcancel,		<cyfunction QuestDialog.OnInputAddcancel at 0x0CD46EF8>
 	arg0: self
 
 submodule.OnInputAddcancel
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-OnIMEReturn,		<cyfunction QuestDialog.OnIMEReturn at 0x0A1E2B88>
+OnIMEReturn,		<cyfunction QuestDialog.OnIMEReturn at 0x0CD46DF0>
 	arg0: self
 
 submodule.OnIMEReturn
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-MakeQuestionWithCancelButton,		<cyfunction QuestDialog.MakeQuestionWithCancelButton at 0x0A1E25B0>
+MakeQuestionWithCancelButton,		<cyfunction QuestDialog.MakeQuestionWithCancelButton at 0x0CD46818>
 	arg0: self
 	arg1: n
 
 submodule.MakeQuestionWithCancelButton
 Skipped: unbound method cython_function_or_method object must be called with QuestDialog instance as first argument (got nothing instead)
-FadeIn,		<cyfunction QuestDialog.FadeIn at 0x0A1E2920>
+FadeIn,		<cyfunction QuestDialog.FadeIn at 0x0CD46B88>
 	arg0: self
 	arg1: speed
 

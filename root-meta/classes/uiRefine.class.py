@@ -8,7 +8,7 @@
  'cost': 0,
  'dialogHeight': 0,
  'dlgQuestion': None,
- 'hWnd': 717446032,
+ 'hWnd': 764764168,
  'isLoaded': False,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,
@@ -21,7 +21,7 @@
  'refine_window_start_position_x': 0,
  'refine_window_start_position_y': 0,
  'targetItemPos': -1,
- 'type': 0,
+ 'type': -2,
  'vnum': 0,
  'window_horizontal_align': 0,
  'window_vertical_align': 0}

@@ -24,12 +24,12 @@ key: Reward12ziWindow, val: <class 'ui12zi.Reward12ziWindow'>
 
 
 class FloorLimitTimeWindow:
-_FloorLimitTimeWindow__LoadWindow,		<cyfunction FloorLimitTimeWindow.__LoadWindow at 0x0A1FB660>
+_FloorLimitTimeWindow__LoadWindow,		<cyfunction FloorLimitTimeWindow.__LoadWindow at 0x0D1A3BE0>
 	arg0: self
 
 submodule._FloorLimitTimeWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with FloorLimitTimeWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction FloorLimitTimeWindow.OnUpdate at 0x0A1FB710>
+OnUpdate,		<cyfunction FloorLimitTimeWindow.OnUpdate at 0x0D1A3C90>
 	arg0: self
 
 submodule.OnUpdate
@@ -39,17 +39,17 @@ __module__,		ui12zi
 submodule.__module__
 
 
-Show12ziJumpButton,		<cyfunction FloorLimitTimeWindow.Show12ziJumpButton at 0x0A1FB818>
+Show12ziJumpButton,		<cyfunction FloorLimitTimeWindow.Show12ziJumpButton at 0x0D1A3D98>
 	arg0: self
 
 submodule.Show12ziJumpButton
 Skipped: unbound method cython_function_or_method object must be called with FloorLimitTimeWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction FloorLimitTimeWindow.__del__ at 0x0A1FB608>
+__del__,		<cyfunction FloorLimitTimeWindow.__del__ at 0x0D1A3B88>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with FloorLimitTimeWindow instance as first argument (got nothing instead)
-NextMission,		<cyfunction FloorLimitTimeWindow.NextMission at 0x0A1FB8C8>
+NextMission,		<cyfunction FloorLimitTimeWindow.NextMission at 0x0D1A3E48>
 	arg0: self
 
 submodule.NextMission
@@ -59,13 +59,13 @@ __qualname__,		FloorLimitTimeWindow
 submodule.__qualname__
 
 
-StartCoolTime,		<cyfunction FloorLimitTimeWindow.StartCoolTime at 0x0A1FB768>
+StartCoolTime,		<cyfunction FloorLimitTimeWindow.StartCoolTime at 0x0D1A3CE8>
 	arg0: self
 	arg1: time
 
 submodule.StartCoolTime
 Skipped: unbound method cython_function_or_method object must be called with FloorLimitTimeWindow instance as first argument (got nothing instead)
-Refresh12ziTimer,		<cyfunction FloorLimitTimeWindow.Refresh12ziTimer at 0x0A1FB7C0>
+Refresh12ziTimer,		<cyfunction FloorLimitTimeWindow.Refresh12ziTimer at 0x0D1A3D40>
 	arg0: self
 	arg1: currentFloor
 	arg2: jumpCount
@@ -74,22 +74,22 @@ Refresh12ziTimer,		<cyfunction FloorLimitTimeWindow.Refresh12ziTimer at 0x0A1FB7
 
 submodule.Refresh12ziTimer
 Skipped: unbound method cython_function_or_method object must be called with FloorLimitTimeWindow instance as first argument (got nothing instead)
-PressJumpButton,		<cyfunction FloorLimitTimeWindow.PressJumpButton at 0x0A1FB870>
+PressJumpButton,		<cyfunction FloorLimitTimeWindow.PressJumpButton at 0x0D1A3DF0>
 	arg0: self
 
 submodule.PressJumpButton
 Skipped: unbound method cython_function_or_method object must be called with FloorLimitTimeWindow instance as first argument (got nothing instead)
-Close,		<cyfunction FloorLimitTimeWindow.Close at 0x0A1FB920>
+Close,		<cyfunction FloorLimitTimeWindow.Close at 0x0D1A3EA0>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with FloorLimitTimeWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction FloorLimitTimeWindow.Destroy at 0x0A1FB978>
+Destroy,		<cyfunction FloorLimitTimeWindow.Destroy at 0x0D1A3EF8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with FloorLimitTimeWindow instance as first argument (got nothing instead)
-Open,		<cyfunction FloorLimitTimeWindow.Open at 0x0A1FB6B8>
+Open,		<cyfunction FloorLimitTimeWindow.Open at 0x0D1A3C38>
 	arg0: self
 
 submodule.Open
@@ -99,7 +99,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction FloorLimitTimeWindow.__init__ at 0x0A1FB5B0>
+__init__,		<cyfunction FloorLimitTimeWindow.__init__ at 0x0D1A3B30>
 	arg0: self
 
 submodule.__init__
@@ -107,7 +107,7 @@ Skipped: unbound method cython_function_or_method object must be called with Flo
 
 
 class BeadWindow:
-NextBeadUpdateTime,		<cyfunction BeadWindow.NextBeadUpdateTime at 0x0A1FB450>
+NextBeadUpdateTime,		<cyfunction BeadWindow.NextBeadUpdateTime at 0x0D1A39D0>
 	arg0: self
 	arg1: value
 
@@ -118,12 +118,12 @@ __module__,		ui12zi
 submodule.__module__
 
 
-__del__,		<cyfunction BeadWindow.__del__ at 0x0A1FB348>
+__del__,		<cyfunction BeadWindow.__del__ at 0x0D1A38C8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with BeadWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction BeadWindow.OnUpdate at 0x0A1FB3F8>
+OnUpdate,		<cyfunction BeadWindow.OnUpdate at 0x0D1A3978>
 	arg0: self
 
 submodule.OnUpdate
@@ -133,23 +133,23 @@ __qualname__,		BeadWindow
 submodule.__qualname__
 
 
-SetBeadCount,		<cyfunction BeadWindow.SetBeadCount at 0x0A1FB4A8>
+SetBeadCount,		<cyfunction BeadWindow.SetBeadCount at 0x0D1A3A28>
 	arg0: self
 	arg1: value
 
 submodule.SetBeadCount
 Skipped: unbound method cython_function_or_method object must be called with BeadWindow instance as first argument (got nothing instead)
-Close,		<cyfunction BeadWindow.Close at 0x0A1FB500>
+Close,		<cyfunction BeadWindow.Close at 0x0D1A3A80>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with BeadWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction BeadWindow.Destroy at 0x0A1FB558>
+Destroy,		<cyfunction BeadWindow.Destroy at 0x0D1A3AD8>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with BeadWindow instance as first argument (got nothing instead)
-_BeadWindow__LoadWindow,		<cyfunction BeadWindow.__LoadWindow at 0x0A1FB3A0>
+_BeadWindow__LoadWindow,		<cyfunction BeadWindow.__LoadWindow at 0x0D1A3920>
 	arg0: self
 
 submodule._BeadWindow__LoadWindow
@@ -159,7 +159,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction BeadWindow.__init__ at 0x0A1FB2F0>
+__init__,		<cyfunction BeadWindow.__init__ at 0x0D1A3870>
 	arg0: self
 
 submodule.__init__
@@ -172,12 +172,12 @@ __module__,		ui12zi
 submodule.__module__
 
 
-__del__,		<cyfunction MapTextToolTip.__del__ at 0x0A1FB138>
+__del__,		<cyfunction MapTextToolTip.__del__ at 0x0D1A36B8>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-SetText,		<cyfunction MapTextToolTip.SetText at 0x0A1FB190>
+SetText,		<cyfunction MapTextToolTip.SetText at 0x0D1A3710>
 	arg0: self
 	arg1: text
 
@@ -193,24 +193,24 @@ __qualname__,		MapTextToolTip
 submodule.__qualname__
 
 
-GetTextSize,		<cyfunction MapTextToolTip.GetTextSize at 0x0A1FB298>
+GetTextSize,		<cyfunction MapTextToolTip.GetTextSize at 0x0D1A3818>
 	arg0: self
 
 submodule.GetTextSize
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-__init__,		<cyfunction MapTextToolTip.__init__ at 0x0A1FB0E0>
+__init__,		<cyfunction MapTextToolTip.__init__ at 0x0D1A3660>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-SetTooltipPosition,		<cyfunction MapTextToolTip.SetTooltipPosition at 0x0A1FB1E8>
+SetTooltipPosition,		<cyfunction MapTextToolTip.SetTooltipPosition at 0x0D1A3768>
 	arg0: self
 	arg1: PosX
 	arg2: PosY
 
 submodule.SetTooltipPosition
 Skipped: unbound method cython_function_or_method object must be called with MapTextToolTip instance as first argument (got nothing instead)
-SetTextColor,		<cyfunction MapTextToolTip.SetTextColor at 0x0A1FB240>
+SetTextColor,		<cyfunction MapTextToolTip.SetTextColor at 0x0D1A37C0>
 	arg0: self
 	arg1: TextColor
 
@@ -224,13 +224,13 @@ __module__,		ui12zi
 submodule.__module__
 
 
-PressButton,		<cyfunction Reward12ziWindow.PressButton at 0x0A1FBD40>
+PressButton,		<cyfunction Reward12ziWindow.PressButton at 0x0D1A82F0>
 	arg0: self
 	arg1: type
 
 submodule.PressButton
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction Reward12ziWindow.__del__ at 0x0A1FBA28>
+__del__,		<cyfunction Reward12ziWindow.__del__ at 0x0D1A3FA8>
 	arg0: self
 
 submodule.__del__
@@ -240,37 +240,37 @@ COLUMN_ITEM_LIST,		(33001, 33002, 33003, 33004, 33005, 33006, 33007, 33008, 3300
 submodule.COLUMN_ITEM_LIST
 
 
-Close,		<cyfunction Reward12ziWindow.Close at 0x0A1FBEF8>
+Close,		<cyfunction Reward12ziWindow.Close at 0x0D1A84A8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-ButtonToolTipProgress,		<cyfunction Reward12ziWindow.ButtonToolTipProgress at 0x0A1FBB30>
+ButtonToolTipProgress,		<cyfunction Reward12ziWindow.ButtonToolTipProgress at 0x0D1A80E0>
 	arg0: self
 
 submodule.ButtonToolTipProgress
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction Reward12ziWindow.OnPressEscapeKey at 0x0A1FBF50>
+OnPressEscapeKey,		<cyfunction Reward12ziWindow.OnPressEscapeKey at 0x0D1A8500>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-_Reward12ziWindow__LoadWindow,		<cyfunction Reward12ziWindow.__LoadWindow at 0x0A1FBCE8>
+_Reward12ziWindow__LoadWindow,		<cyfunction Reward12ziWindow.__LoadWindow at 0x0D1A8298>
 	arg0: self
 
 submodule._Reward12ziWindow__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-Destroy,		<cyfunction Reward12ziWindow.Destroy at 0x0A1FBFA8>
+Destroy,		<cyfunction Reward12ziWindow.Destroy at 0x0D1A8558>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-__init__,		<cyfunction Reward12ziWindow.__init__ at 0x0A1FB9D0>
+__init__,		<cyfunction Reward12ziWindow.__init__ at 0x0D1A3F50>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-OverOutToolTipButton,		<cyfunction Reward12ziWindow.OverOutToolTipButton at 0x0A1FBAD8>
+OverOutToolTipButton,		<cyfunction Reward12ziWindow.OverOutToolTipButton at 0x0D1A8088>
 	arg0: self
 
 submodule.OverOutToolTipButton
@@ -280,7 +280,7 @@ ROW_ITEM_LIST,		(33013, 33014, 33015, 33016, 33017, 33018, 33019, 33020, 33021, 
 submodule.ROW_ITEM_LIST
 
 
-SetItemToolTip,		<cyfunction Reward12ziWindow.SetItemToolTip at 0x0A1FBBE0>
+SetItemToolTip,		<cyfunction Reward12ziWindow.SetItemToolTip at 0x0D1A8190>
 	arg0: self
 	arg1: tooltipItem
 
@@ -301,29 +301,29 @@ WEEKLY_COLUMN_LIST,		('H\xe9tf\xf5', 'Kedd', 'Szerda', 'Cs\xfct\xf6rt\xf6k', 'P\
 submodule.WEEKLY_COLUMN_LIST
 
 
-SendClear,		<cyfunction Reward12ziWindow.SendClear at 0x0A1FBDF0>
+SendClear,		<cyfunction Reward12ziWindow.SendClear at 0x0D1A83A0>
 	arg0: self
 	arg1: value
 
 submodule.SendClear
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction Reward12ziWindow.OnUpdate at 0x0A1FBC90>
+OnUpdate,		<cyfunction Reward12ziWindow.OnUpdate at 0x0D1A8240>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-PressCheckButton,		<cyfunction Reward12ziWindow.PressCheckButton at 0x0A1FBD98>
+PressCheckButton,		<cyfunction Reward12ziWindow.PressCheckButton at 0x0D1A8348>
 	arg0: self
 	arg1: value
 
 submodule.PressCheckButton
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-OnCloseQuestionDialog,		<cyfunction Reward12ziWindow.OnCloseQuestionDialog at 0x0A1FBE48>
+OnCloseQuestionDialog,		<cyfunction Reward12ziWindow.OnCloseQuestionDialog at 0x0D1A83F8>
 	arg0: self
 
 submodule.OnCloseQuestionDialog
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-EventProgress,		<cyfunction Reward12ziWindow.EventProgress at 0x0A1FBB88>
+EventProgress,		<cyfunction Reward12ziWindow.EventProgress at 0x0D1A8138>
 	arg0: self
 	arg1: event_type
 	arg2: arg
@@ -340,7 +340,7 @@ COLUMN_SIZE,		12
 submodule.COLUMN_SIZE
 
 
-Open,		<cyfunction Reward12ziWindow.Open at 0x0A1FBEA0>
+Open,		<cyfunction Reward12ziWindow.Open at 0x0D1A8450>
 	arg0: self
 	arg1: yellowmark
 	arg2: greenmark
@@ -355,14 +355,14 @@ __doc__,		None
 submodule.__doc__
 
 
-ItemToolTipEvent,		<cyfunction Reward12ziWindow.ItemToolTipEvent at 0x0A1FBC38>
+ItemToolTipEvent,		<cyfunction Reward12ziWindow.ItemToolTipEvent at 0x0D1A81E8>
 	arg0: self
 	arg1: event_type
 	arg2: arg
 
 submodule.ItemToolTipEvent
 Skipped: unbound method cython_function_or_method object must be called with Reward12ziWindow instance as first argument (got nothing instead)
-OverInToolTipButton,		<cyfunction Reward12ziWindow.OverInToolTipButton at 0x0A1FBA80>
+OverInToolTipButton,		<cyfunction Reward12ziWindow.OverInToolTipButton at 0x0D1A8030>
 	arg0: self
 	arg1: arg
 

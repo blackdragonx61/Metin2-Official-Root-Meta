@@ -3,7 +3,7 @@
  'chequeMaxValue': 0,
  'eventAccept': 0,
  'eventClose': 0,
- 'hWnd': 717441432,
+ 'hWnd': 764748568,
  'maxValue': 0,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,

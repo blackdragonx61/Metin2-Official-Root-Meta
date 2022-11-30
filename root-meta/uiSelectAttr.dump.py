@@ -25,13 +25,13 @@ __module__,		uiSelectAttr
 submodule.__module__
 
 
-GetAttributeStringList,		<cyfunction SelectAttrWindow.GetAttributeStringList at 0x0A20D8C8>
+GetAttributeStringList,		<cyfunction SelectAttrWindow.GetAttributeStringList at 0x0D1B5E48>
 	arg0: self
 	arg1: attrSlot
 
 submodule.GetAttributeStringList
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-Open,		<cyfunction SelectAttrWindow.Open at 0x0A20D768>
+Open,		<cyfunction SelectAttrWindow.Open at 0x0D1B5CE8>
 	arg0: self
 	arg1: vid
 	arg2: window_type
@@ -39,58 +39,58 @@ Open,		<cyfunction SelectAttrWindow.Open at 0x0A20D768>
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-SelectButton,		<cyfunction SelectAttrWindow.SelectButton at 0x0A20D978>
+SelectButton,		<cyfunction SelectAttrWindow.SelectButton at 0x0D1B5EF8>
 	arg0: self
 	arg1: idx
 
 submodule.SelectButton
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-SetInven,		<cyfunction SelectAttrWindow.SetInven at 0x0A20DA80>
+SetInven,		<cyfunction SelectAttrWindow.SetInven at 0x0D1B6030>
 	arg0: self
 	arg1: inven
 
 submodule.SetInven
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction SelectAttrWindow.OnUpdate at 0x0A20DAD8>
+OnUpdate,		<cyfunction SelectAttrWindow.OnUpdate at 0x0D1B6088>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-__del__,		<cyfunction SelectAttrWindow.__del__ at 0x0A20D710>
+__del__,		<cyfunction SelectAttrWindow.__del__ at 0x0D1B5C90>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-OverOutItem,		<cyfunction SelectAttrWindow.OverOutItem at 0x0A20D870>
+OverOutItem,		<cyfunction SelectAttrWindow.OverOutItem at 0x0D1B5DF0>
 	arg0: self
 
 submodule.OverOutItem
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-OverInItem,		<cyfunction SelectAttrWindow.OverInItem at 0x0A20D818>
+OverInItem,		<cyfunction SelectAttrWindow.OverInItem at 0x0D1B5D98>
 	arg0: self
 
 submodule.OverInItem
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-Close,		<cyfunction SelectAttrWindow.Close at 0x0A20D7C0>
+Close,		<cyfunction SelectAttrWindow.Close at 0x0D1B5D40>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-SetCantMouseEventSlot,		<cyfunction SelectAttrWindow.SetCantMouseEventSlot at 0x0A20DA28>
+SetCantMouseEventSlot,		<cyfunction SelectAttrWindow.SetCantMouseEventSlot at 0x0D1B5FA8>
 	arg0: self
 	arg1: win_type
 	arg2: idx
 
 submodule.SetCantMouseEventSlot
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-SetCanMouseEventSlot,		<cyfunction SelectAttrWindow.SetCanMouseEventSlot at 0x0A20D9D0>
+SetCanMouseEventSlot,		<cyfunction SelectAttrWindow.SetCanMouseEventSlot at 0x0D1B5F50>
 	arg0: self
 	arg1: win_type
 	arg2: idx
 
 submodule.SetCanMouseEventSlot
 Skipped: unbound method cython_function_or_method object must be called with SelectAttrWindow instance as first argument (got nothing instead)
-SetFontColor,		<cyfunction SelectAttrWindow.SetFontColor at 0x0A20D920>
+SetFontColor,		<cyfunction SelectAttrWindow.SetFontColor at 0x0D1B5EA0>
 	arg0: self
 	arg1: idx
 
@@ -101,7 +101,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction SelectAttrWindow.__init__ at 0x0A20D6B8>
+__init__,		<cyfunction SelectAttrWindow.__init__ at 0x0D1B5C38>
 	arg0: self
 
 submodule.__init__

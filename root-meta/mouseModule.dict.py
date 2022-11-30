@@ -14,6 +14,7 @@
                     {'name': '__weakref__', 'type': 'getset_descriptor', 'value': <attribute '__weakref__' of 'CursorImage' objects>}]},
            {'class': [],
             'func': [{'args': ['self', 'owner', 'shape', 'img_handle', 'adjust_x', 'adjust_y', 'width', 'height'], 'defaults': [], 'name': 'AttachFishPiece'},
+                     {'args': ['self', 'owner', 'slot_index', 'count', 'img_handle', 'adjust_x', 'adjust_y', 'width', 'height'], 'defaults': [], 'name': 'AttachGoldenLandFruit'},
                      {'args': ['self', 'owner', 'type', 'count', 'cheque'], 'defaults': [0], 'name': 'AttachMoney'},
                      {'args': ['self', 'Owner', 'Type', 'SlotNumber', 'ItemIndex', 'count'], 'defaults': [0], 'name': 'AttachObject'},
                      {'args': ['self', 'cursorNum'], 'defaults': [], 'name': 'ChangeCursor'},
@@ -36,7 +37,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'Render'},
                      {'args': ['self', 'type'], 'defaults': [], 'name': 'RunCallBack'},
                      {'args': ['self', 'flag'], 'defaults': [], 'name': 'SetAttachedIconRender'},
-                     {'args': ['self', 'type', 'event'], 'defaults': [<cyfunction CMouseController.<lambda> at 0x09DDA5B0>], 'name': 'SetCallBack'},
+                     {'args': ['self', 'type', 'event'], 'defaults': [<cyfunction CMouseController.<lambda> at 0x0CDBA870>], 'name': 'SetCallBack'},
                      {'args': ['self', 'cheque'], 'defaults': [], 'name': 'SetCheque'},
                      {'args': ['self', 'x', 'y'], 'defaults': [], 'name': 'Update'},
                      {'args': ['self'], 'defaults': [], 'name': '__del__'},
@@ -54,4 +55,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'mouseModule'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'mouseController', 'type': 'CMouseController', 'value': <mouseModule.CMouseController object at 0x09DD5210>}]}
+         {'name': 'mouseController', 'type': 'CMouseController', 'value': <mouseModule.CMouseController object at 0x0CDAA5F0>}]}

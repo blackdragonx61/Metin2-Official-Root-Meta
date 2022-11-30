@@ -15,22 +15,22 @@ __module__,		uiPointReset
 submodule.__module__
 
 
-Destroy,		<cyfunction PointResetDialog.Destroy at 0x0A0871E8>
+Destroy,		<cyfunction PointResetDialog.Destroy at 0x0D16D5B0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PointResetDialog instance as first argument (got nothing instead)
-ResetPoint,		<cyfunction PointResetDialog.ResetPoint at 0x0A0872F0>
+ResetPoint,		<cyfunction PointResetDialog.ResetPoint at 0x0D16D6B8>
 	arg0: self
 
 submodule.ResetPoint
 Skipped: unbound method cython_function_or_method object must be called with PointResetDialog instance as first argument (got nothing instead)
-__del__,		<cyfunction PointResetDialog.__del__ at 0x0A087138>
+__del__,		<cyfunction PointResetDialog.__del__ at 0x0D16D500>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PointResetDialog instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction PointResetDialog.LoadDialog at 0x0A087190>
+LoadDialog,		<cyfunction PointResetDialog.LoadDialog at 0x0D16D558>
 	arg0: self
 
 submodule.LoadDialog
@@ -40,22 +40,22 @@ __qualname__,		PointResetDialog
 submodule.__qualname__
 
 
-OpenDialog,		<cyfunction PointResetDialog.OpenDialog at 0x0A087240>
+OpenDialog,		<cyfunction PointResetDialog.OpenDialog at 0x0D16D608>
 	arg0: self
 
 submodule.OpenDialog
 Skipped: unbound method cython_function_or_method object must be called with PointResetDialog instance as first argument (got nothing instead)
-OnPressEscapeKey,		<cyfunction PointResetDialog.OnPressEscapeKey at 0x0A0873A0>
+OnPressEscapeKey,		<cyfunction PointResetDialog.OnPressEscapeKey at 0x0D16D768>
 	arg0: self
 
 submodule.OnPressEscapeKey
 Skipped: unbound method cython_function_or_method object must be called with PointResetDialog instance as first argument (got nothing instead)
-OpenConfirmDialog,		<cyfunction PointResetDialog.OpenConfirmDialog at 0x0A087298>
+OpenConfirmDialog,		<cyfunction PointResetDialog.OpenConfirmDialog at 0x0D16D660>
 	arg0: self
 
 submodule.OpenConfirmDialog
 Skipped: unbound method cython_function_or_method object must be called with PointResetDialog instance as first argument (got nothing instead)
-Close,		<cyfunction PointResetDialog.Close at 0x0A087348>
+Close,		<cyfunction PointResetDialog.Close at 0x0D16D710>
 	arg0: self
 
 submodule.Close
@@ -65,7 +65,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction PointResetDialog.__init__ at 0x0A0870E0>
+__init__,		<cyfunction PointResetDialog.__init__ at 0x0D16D4A8>
 	arg0: self
 
 submodule.__init__

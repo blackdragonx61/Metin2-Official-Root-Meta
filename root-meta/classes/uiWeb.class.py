@@ -1,7 +1,7 @@
 {'Children': [],
  'ElementDictionary': {},
  'IsShowWindowValue': False,
- 'hWnd': 717484232,
+ 'hWnd': 764799944,
  'oldPos': None,
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,

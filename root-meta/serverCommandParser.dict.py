@@ -12,6 +12,8 @@
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__DayMode_Update'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FishEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FlowerEvent'},
+                     {'args': ['self', 'end_time'], 'defaults': [], 'name': '__GoldenLand'},
+                     {'args': ['self', 'reward_item_vnum', 'reward_item_count'], 'defaults': [], 'name': '__GoldenLandReward'},
                      {'args': ['self', 'state', 'running_time', 'map_index', 'pos_x', 'pos_y', 'interval_sec'], 'defaults': [], 'name': '__GuildSiteAuctionNotice'},
                      {'args': ['self', 'abndon_time', 'interval_sec'], 'defaults': [], 'name': '__GuildSiteTaxInfo'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__Halloween_box_event'},
@@ -28,9 +30,11 @@
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__OtherWorld'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__OtherWorldEve'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__PartyMatchOff'},
+                     {'args': ['self', 'type', 'is_checked', 'url'], 'defaults': [], 'name': '__PopupNoticeProcess'},
                      {'args': ['self', 'line'], 'defaults': [], 'name': '__PreserveCommand'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__RamadanEvent'},
                      {'args': ['self'], 'defaults': [], 'name': '__ServerCommand_Build'},
+                     {'args': ['self', 'flag_value', 'is_enter'], 'defaults': [], 'name': '__SetPopupNoticeEventFlag'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__SummerEvent'},
                      {'args': ['self', 'state', 'open_time'], 'defaults': [], 'name': '__SungmaheeGateState'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__ValentineEvent'},
@@ -51,4 +55,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x09F85030>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0CF7FA30>}]}

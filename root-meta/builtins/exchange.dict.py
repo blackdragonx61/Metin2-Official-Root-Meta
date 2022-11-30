@@ -23,6 +23,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetItemVnumFromTarget'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetLevelFromTarget'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'GetNameFromTarget'},
-          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'InitTrading'}],
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'InitTrading'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'isTrading'}],
  'import': [],
  'var': [{'name': 'EXCHANGE_ITEM_MAX_NUM', 'type': 'int', 'value': 12}, {'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'exchange'}, {'name': '__package__', 'type': 'NoneType', 'value': None}]}

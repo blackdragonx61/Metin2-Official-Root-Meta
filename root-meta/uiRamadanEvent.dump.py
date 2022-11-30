@@ -23,7 +23,7 @@ __module__,		uiRamadanEvent
 submodule.__module__
 
 
-OnPressEscapeKey,		<cyfunction RamadanEvent.OnPressEscapeKey at 0x2BE77EF8>
+OnPressEscapeKey,		<cyfunction RamadanEvent.OnPressEscapeKey at 0x2E13FDF0>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -33,7 +33,7 @@ _RamadanEvent__item_count_text_list__item_count,		<member '_RamadanEvent__item_c
 submodule._RamadanEvent__item_count_text_list__item_count
 
 
-__del__,		<cyfunction RamadanEvent.__del__ at 0x2BE77EA0>
+__del__,		<cyfunction RamadanEvent.__del__ at 0x2E13FFA8>
 	arg0: self
 
 submodule.__del__
@@ -60,25 +60,25 @@ submodule._RamadanEvent__tooltip
 
 DescriptionBox,		<class 'uiRamadanEvent.DescriptionBox'>
 Skip: type object 'DescriptionBox' has no attribute 'func_code'
-_RamadanEvent__SlotOverInItem,		<cyfunction RamadanEvent.__SlotOverInItem at 0x2BE77978>
+_RamadanEvent__SlotOverInItem,		<cyfunction RamadanEvent.__SlotOverInItem at 0x2E13FB30>
 	arg0: self
 	arg1: vnum
 
 submodule._RamadanEvent__SlotOverInItem
 Skipped: unbound method cython_function_or_method object must be called with RamadanEvent instance as first argument (got nothing instead)
-_abc_registry,		<_weakrefset.WeakSet object at 0x2BE48530>
+_abc_registry,		<_weakrefset.WeakSet object at 0x2E13DC30>
 
 submodule._abc_registry
 
 
-_RamadanEvent__RamadanEventUpdateItemCount,		<cyfunction RamadanEvent.__RamadanEventUpdateItemCount at 0x2BE77FA8>
+_RamadanEvent__RamadanEventUpdateItemCount,		<cyfunction RamadanEvent.__RamadanEventUpdateItemCount at 0x2E13F920>
 	arg0: self
 	arg1: flag_type
 	arg2: count
 
 submodule._RamadanEvent__RamadanEventUpdateItemCount
 Skipped: unbound method cython_function_or_method object must be called with RamadanEvent instance as first argument (got nothing instead)
-Destroy,		<cyfunction RamadanEvent.Destroy at 0x2BE77C38>
+Destroy,		<cyfunction RamadanEvent.Destroy at 0x2E13FC90>
 	arg0: self
 
 submodule.Destroy
@@ -88,13 +88,13 @@ _RamadanEvent__desc_prev_button,		<member '_RamadanEvent__desc_prev_button' of '
 submodule._RamadanEvent__desc_prev_button
 
 
-SetItemToolTip,		<cyfunction RamadanEvent.SetItemToolTip at 0x2BE77CE8>
+SetItemToolTip,		<cyfunction RamadanEvent.SetItemToolTip at 0x2E13FAD8>
 	arg0: self
 	arg1: tooltip
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with RamadanEvent instance as first argument (got nothing instead)
-_abc_negative_cache,		<_weakrefset.WeakSet object at 0x2BE48A90>
+_abc_negative_cache,		<_weakrefset.WeakSet object at 0x2E13D570>
 
 submodule._abc_negative_cache
 
@@ -104,22 +104,22 @@ _RamadanEvent__desc_index,		<member '_RamadanEvent__desc_index' of 'RamadanEvent
 submodule._RamadanEvent__desc_index
 
 
-_RamadanEvent__LoadWindow,		<cyfunction RamadanEvent.__LoadWindow at 0x2BE77F50>
+_RamadanEvent__LoadWindow,		<cyfunction RamadanEvent.__LoadWindow at 0x2E13F7C0>
 	arg0: self
 
 submodule._RamadanEvent__LoadWindow
 Skipped: unbound method cython_function_or_method object must be called with RamadanEvent instance as first argument (got nothing instead)
-_abc_cache,		<_weakrefset.WeakSet object at 0x2BE48A30>
+_abc_cache,		<_weakrefset.WeakSet object at 0x2E13DE70>
 
 submodule._abc_cache
 
 
-OnUpdate,		<cyfunction RamadanEvent.OnUpdate at 0x2BE77DF0>
+OnUpdate,		<cyfunction RamadanEvent.OnUpdate at 0x2E13FCE8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with RamadanEvent instance as first argument (got nothing instead)
-_RamadanEvent__Initialize,		<cyfunction RamadanEvent.__Initialize at 0x2BE77AD8>
+_RamadanEvent__Initialize,		<cyfunction RamadanEvent.__Initialize at 0x2E13F978>
 	arg0: self
 
 submodule._RamadanEvent__Initialize
@@ -139,7 +139,7 @@ __abstractmethods__,		frozenset([])
 submodule.__abstractmethods__
 
 
-_RamadanEvent__PrevDescriptionPage,		<cyfunction RamadanEvent.__PrevDescriptionPage at 0x2BE77A80>
+_RamadanEvent__PrevDescriptionPage,		<cyfunction RamadanEvent.__PrevDescriptionPage at 0x2E13F870>
 	arg0: self
 
 submodule._RamadanEvent__PrevDescriptionPage
@@ -149,7 +149,7 @@ __doc__,		None
 submodule.__doc__
 
 
-_RamadanEvent__SlotOverOutItem,		<cyfunction RamadanEvent.__SlotOverOutItem at 0x2BE77870>
+_RamadanEvent__SlotOverOutItem,		<cyfunction RamadanEvent.__SlotOverOutItem at 0x2E13F9D0>
 	arg0: self
 
 submodule._RamadanEvent__SlotOverOutItem
@@ -169,12 +169,12 @@ _RamadanEvent__desc_board,		<member '_RamadanEvent__desc_board' of 'RamadanEvent
 submodule._RamadanEvent__desc_board
 
 
-__init__,		<cyfunction RamadanEvent.__init__ at 0x2BE77A28>
+__init__,		<cyfunction RamadanEvent.__init__ at 0x2E13FEA0>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with RamadanEvent instance as first argument (got nothing instead)
-InGameEventProcess,		<cyfunction RamadanEvent.InGameEventProcess at 0x2BE778C8>
+InGameEventProcess,		<cyfunction RamadanEvent.InGameEventProcess at 0x2E13FA28>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -187,17 +187,17 @@ _RamadanEvent__description_box,		<member '_RamadanEvent__description_box' of 'Ra
 submodule._RamadanEvent__description_box
 
 
-Close,		<cyfunction RamadanEvent.Close at 0x2BE77B88>
+Close,		<cyfunction RamadanEvent.Close at 0x2E13FC38>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with RamadanEvent instance as first argument (got nothing instead)
-Open,		<cyfunction RamadanEvent.Open at 0x2BE77D98>
+Open,		<cyfunction RamadanEvent.Open at 0x2E13F768>
 	arg0: self
 
 submodule.Open
 Skipped: unbound method cython_function_or_method object must be called with RamadanEvent instance as first argument (got nothing instead)
-_RamadanEvent__NextDescriptionPage,		<cyfunction RamadanEvent.__NextDescriptionPage at 0x2BE77920>
+_RamadanEvent__NextDescriptionPage,		<cyfunction RamadanEvent.__NextDescriptionPage at 0x2E13FE48>
 	arg0: self
 
 submodule._RamadanEvent__NextDescriptionPage
@@ -225,13 +225,13 @@ _RamadanEventUtil__RAMADAN_EVENT_LOCA,		{0: 'Szerezt\xe9l 1 Kenyeret.', 1: 'Szer
 submodule._RamadanEventUtil__RAMADAN_EVENT_LOCA
 
 
-RamadanEventGetItemMessage,		<classmethod object at 0x2BE489F0>
+RamadanEventGetItemMessage,		<classmethod object at 0x2E13DDB0>
 	arg0: cls
 	arg1: flag_type
 
 submodule.RamadanEventGetItemMessage
 Skipped: RamadanEventGetItemMessage() takes exactly 2 positional arguments (1 given)
-RamadanEventMessage,		<classmethod object at 0x2BE48F50>
+RamadanEventMessage,		<classmethod object at 0x2E13D470>
 	arg0: cls
 	arg1: chat_type
 
@@ -252,7 +252,7 @@ __slots__,		__GET_ITEM_MESSAGE_TYPE__RAMADAN_EVENT_LOCA
 submodule.__slots__
 
 
-IsRamadanEventEnd,		<classmethod object at 0x2BE48F30>
+IsRamadanEventEnd,		<classmethod object at 0x2E13DEB0>
 	arg0: cls
 
 submodule.IsRamadanEventEnd
