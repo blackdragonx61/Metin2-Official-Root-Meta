@@ -1,1 +1,14 @@
-{'Children': [], 'CloseEvent': 0, 'ElementDictionary': {}, 'hWnd': 711593496, 'onMouseLeftButtonUpEvent': None, 'onMouseLeftButtonUpEventArgs': None, 'overArgs': None, 'overFunc': None, 'overOutArgs': None, 'overOutFunc': None, 'parentWindow': 0, 'window_horizontal_align': 0, 'window_vertical_align': 0}
+{'Children': [],
+ 'CloseEvent': 0,
+ 'ElementDictionary': {},
+ 'hWnd': 729525440,
+ 'message_type': None,
+ 'onMouseLeftButtonUpEvent': None,
+ 'onMouseLeftButtonUpEventArgs': None,
+ 'overArgs': None,
+ 'overFunc': None,
+ 'overOutArgs': None,
+ 'overOutFunc': None,
+ 'parentWindow': 0,
+ 'window_horizontal_align': 0,
+ 'window_vertical_align': 0}

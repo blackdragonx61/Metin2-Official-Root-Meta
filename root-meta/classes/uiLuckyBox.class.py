@@ -2,7 +2,7 @@
  'ElementDictionary': {},
  'ItemVnum': None,
  'action': None,
- 'hWnd': 713223440,
+ 'hWnd': 733012720,
  'interface': None,
  'inven': None,
  'isLoaded': 0,

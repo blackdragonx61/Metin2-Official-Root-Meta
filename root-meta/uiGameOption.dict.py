@@ -71,5 +71,5 @@
          {'name': '__name__', 'type': 'str', 'value': 'uiGameOption'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'blockMode', 'type': 'int', 'value': 60},
+         {'name': 'blockMode', 'type': 'int', 'value': 0},
          {'name': 'viewChatMode', 'type': 'int', 'value': 0}]}

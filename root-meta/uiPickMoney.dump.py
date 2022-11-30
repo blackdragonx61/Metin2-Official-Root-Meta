@@ -12,7 +12,7 @@ key: __doc__, val: None
 
 
 class PickMoneyDialog:
-SetFocus,		<cyfunction PickMoneyDialog.SetFocus at 0x0CCB7190>
+SetFocus,		<cyfunction PickMoneyDialog.SetFocus at 0x0EA02558>
 	arg0: self
 	arg1: focus_idx
 
@@ -23,56 +23,56 @@ __module__,		uiPickMoney
 submodule.__module__
 
 
-__del__,		<cyfunction PickMoneyDialog.__del__ at 0x0CCB3EF8>
+__del__,		<cyfunction PickMoneyDialog.__del__ at 0x0EA022F0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-SetCloseEvent,		<cyfunction PickMoneyDialog.SetCloseEvent at 0x0CCB70E0>
+SetCloseEvent,		<cyfunction PickMoneyDialog.SetCloseEvent at 0x0EA024A8>
 	arg0: self
 	arg1: event
 
 submodule.SetCloseEvent
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-_PickMoneyDialog__ClickValueEditLine,		<cyfunction PickMoneyDialog.__ClickValueEditLine at 0x0CCB7240>
+_PickMoneyDialog__ClickValueEditLine,		<cyfunction PickMoneyDialog.__ClickValueEditLine at 0x0EA02608>
 	arg0: self
 
 submodule._PickMoneyDialog__ClickValueEditLine
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-SetMax,		<cyfunction PickMoneyDialog.SetMax at 0x0CCB7138>
+SetMax,		<cyfunction PickMoneyDialog.SetMax at 0x0EA02500>
 	arg0: self
 	arg1: max
 
 submodule.SetMax
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-SetAcceptEvent,		<cyfunction PickMoneyDialog.SetAcceptEvent at 0x0CCB7088>
+SetAcceptEvent,		<cyfunction PickMoneyDialog.SetAcceptEvent at 0x0EA02450>
 	arg0: self
 	arg1: event
 
 submodule.SetAcceptEvent
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-LoadDialog,		<cyfunction PickMoneyDialog.LoadDialog at 0x0CCB3F50>
+LoadDialog,		<cyfunction PickMoneyDialog.LoadDialog at 0x0EA02348>
 	arg0: self
 
 submodule.LoadDialog
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-Destroy,		<cyfunction PickMoneyDialog.Destroy at 0x0CCB3FA8>
+Destroy,		<cyfunction PickMoneyDialog.Destroy at 0x0EA023A0>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-SetTitleName,		<cyfunction PickMoneyDialog.SetTitleName at 0x0CCB7030>
+SetTitleName,		<cyfunction PickMoneyDialog.SetTitleName at 0x0EA023F8>
 	arg0: self
 	arg1: text
 
 submodule.SetTitleName
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-__init__,		<cyfunction PickMoneyDialog.__init__ at 0x0CCB3EA0>
+__init__,		<cyfunction PickMoneyDialog.__init__ at 0x0EA02298>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-OnAccept,		<cyfunction PickMoneyDialog.OnAccept at 0x0CCB7348>
+OnAccept,		<cyfunction PickMoneyDialog.OnAccept at 0x0EA02710>
 	arg0: self
 
 submodule.OnAccept
@@ -82,17 +82,17 @@ __qualname__,		PickMoneyDialog
 submodule.__qualname__
 
 
-_PickMoneyDialog__ClickChequeEditLine,		<cyfunction PickMoneyDialog.__ClickChequeEditLine at 0x0CCB71E8>
+_PickMoneyDialog__ClickChequeEditLine,		<cyfunction PickMoneyDialog.__ClickChequeEditLine at 0x0EA025B0>
 	arg0: self
 
 submodule._PickMoneyDialog__ClickChequeEditLine
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-Close,		<cyfunction PickMoneyDialog.Close at 0x0CCB72F0>
+Close,		<cyfunction PickMoneyDialog.Close at 0x0EA026B8>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with PickMoneyDialog instance as first argument (got nothing instead)
-Open,		<cyfunction PickMoneyDialog.Open at 0x0CCB7298>
+Open,		<cyfunction PickMoneyDialog.Open at 0x0EA02660>
 	arg0: self
 	arg1: maxValue
 	arg2: chequeMaxValue

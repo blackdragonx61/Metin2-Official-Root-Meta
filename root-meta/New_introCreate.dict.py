@@ -62,7 +62,7 @@
                     {'name': '__module__', 'type': 'str', 'value': 'New_introCreate'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'CreateCharacterWindow'}]}],
  'func': [],
- 'import': ['app', 'playerSettingModule', 'm2netm2g', 'networkModule', 'event', 'grp', 'uiToolTip', 'systemSetting', 'chr', 'uiScriptLocale', 'musicInfo', 'localeInfo', 'snd', '__builtin__', 'wndMgr', 'ui'],
+ 'import': ['app', 'playerSettingModule', 'm2netm2g', 'playerm2g2', 'networkModule', 'event', 'grp', 'uiToolTip', 'systemSetting', 'chr', 'uiScriptLocale', 'musicInfo', 'localeInfo', 'snd', '__builtin__', 'wndMgr', 'ui'],
  'var': [{'name': 'MAN', 'type': 'int', 'value': 0},
          {'name': 'WOMAN', 'type': 'int', 'value': 1},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},

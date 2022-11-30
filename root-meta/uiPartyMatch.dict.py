@@ -34,7 +34,7 @@
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiPartyMatch'}, {'name': '__qualname__', 'type': 'str', 'value': 'PartyMatch'}]}],
  'func': [],
- 'import': ['constInfo', '__builtin__', 'chatm2g', 'app', 'wndMgr', 'chrmgrm2g', 'item', 'm2netm2g', 'playerm2g2', 'ui', 'uiScriptLocale', 'localeInfo'],
+ 'import': ['chatm2g', 'app', 'm2netm2g', 'playerm2g2', 'constInfo', 'chrmgrm2g', 'uiScriptLocale', 'localeInfo', 'uiCommon', '__builtin__', 'wndMgr', 'item', 'ui'],
  'var': [{'name': 'MATCH_STATE_NONE', 'type': 'int', 'value': 0},
          {'name': 'MATCH_STATE_SEARCHING', 'type': 'int', 'value': 1},
          {'name': 'PARTY_MEMBER_MAX', 'type': 'int', 'value': 8},

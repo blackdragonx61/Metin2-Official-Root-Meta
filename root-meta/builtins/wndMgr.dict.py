@@ -88,6 +88,7 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterBar3D'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterBox'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterButton'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterCircle'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterDragButton'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterExpandedImageBox'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RegisterFishEventGridSlotWindow'},

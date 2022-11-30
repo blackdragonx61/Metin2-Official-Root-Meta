@@ -39,7 +39,7 @@
                     {'name': 'RANK_1', 'type': 'int', 'value': 0},
                     {'name': 'RANK_2', 'type': 'int', 'value': 1},
                     {'name': 'RANK_3', 'type': 'int', 'value': 2},
-                    {'name': 'SOLO_RANK_BOARD_NAME', 'type': 'dict', 'value': {0: ('', '', ''), 1: ('', '', ''), 2: ('', '', ''), 3: ('', '', '')}},
+                    {'name': 'SOLO_RANK_BOARD_NAME', 'type': 'dict', 'value': {0: ('', '', ''), 1: ('', '', ''), 2: ('', '', ''), 3: ('', '', ''), 7: ('Battle Royale', 'Gy\xf5zelmek', '')}},
                     {'name': '__doc__', 'type': 'NoneType', 'value': None},
                     {'name': '__module__', 'type': 'str', 'value': 'uiRankingBoard'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'RankingBoardWindow'}]}],

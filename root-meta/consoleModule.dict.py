@@ -47,7 +47,8 @@
                      {'args': ['self', 'arg'], 'defaults': [], 'name': 'SetMovingSpeed'},
                      {'args': ['self', 'arg'], 'defaults': [], 'name': 'SetMusicVolume'},
                      {'args': ['self', 'newPathName'], 'defaults': [], 'name': 'SetPath'},
-                     {'args': ['self', 'arg'], 'defaults': [], 'name': 'SetShadowLevel'},
+                     {'args': ['self', 'arg'], 'defaults': [], 'name': 'SetShadowQualityLevel'},
+                     {'args': ['self', 'arg'], 'defaults': [], 'name': 'SetShadowTargetLevel'},
                      {'args': ['self', 'range'], 'defaults': [], 'name': 'SetSight'},
                      {'args': ['self', 'index'], 'defaults': [], 'name': 'SetSkillGroupFake'},
                      {'args': ['self', 'arg'], 'defaults': [], 'name': 'SetSoundScale'},
@@ -127,5 +128,5 @@
                     {'name': '__module__', 'type': 'str', 'value': 'consoleModule'},
                     {'name': '__qualname__', 'type': 'str', 'value': 'ConsoleWindow'}]}],
  'func': [],
- 'import': ['app', 'snd', 'm2netm2g', 'playerm2g2', 'grp', 'chrmgrm2g', 'chr', 'uiScriptLocale', 'localeInfo', 'stat', '__builtin__', 'sys', 'background', 'wndMgr', 'ui', 'os'],
+ 'import': ['app', 'snd', 'm2netm2g', 'playerm2g2', 'grp', 'chrmgrm2g', 'systemSetting', 'chr', 'uiScriptLocale', 'localeInfo', 'stat', '__builtin__', 'sys', 'background', 'wndMgr', 'ui', 'os'],
  'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'consoleModule'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

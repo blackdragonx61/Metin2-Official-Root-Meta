@@ -125,6 +125,7 @@
                      {'args': ['self'], 'defaults': [], 'name': 'GuildWarEnd'},
                      {'args': ['self', 'guildSelf', 'Oppguild'], 'defaults': [], 'name': 'GuildWarOppGuildNameSetting'},
                      {'args': ['self', 'gainGuildID', 'guildOpp', 'point', 'winpoint'], 'defaults': [], 'name': 'GuildWarScoreSetting'},
+                     {'args': ['self'], 'defaults': [], 'name': 'LandTaxPayNoticeUpdate'},
                      {'args': ['self'], 'defaults': [], 'name': 'OnChangeGradeName'},
                      {'args': ['self', 'lineIndex', 'gradeNumber'], 'defaults': [], 'name': 'OnChangeMemberGrade'},
                      {'args': ['self', 'argIndex', 'argAuthority'], 'defaults': [], 'name': 'OnCheckAuthority'},

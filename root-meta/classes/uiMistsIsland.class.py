@@ -1,5 +1,5 @@
 {'atlasWindow': None,
- 'hWnd': 715651448,
+ 'hWnd': 734982456,
  'isOpen': {1: True, 2: True},
  'onMouseLeftButtonUpEvent': None,
  'onMouseLeftButtonUpEventArgs': None,

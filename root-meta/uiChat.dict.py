@@ -152,11 +152,11 @@
             'import': [],
             'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__module__', 'type': 'str', 'value': 'uiChat'}, {'name': '__qualname__', 'type': 'str', 'value': 'ChatLine'}]}],
  'func': [{'args': [], 'defaults': [], 'name': 'DestroyChatInputSetWindow'}, {'args': ['wnd'], 'defaults': [], 'name': 'InsertChatInputSetWindow'}, {'args': [], 'defaults': [], 'name': 'RefreshChatMode'}],
- 'import': ['chatm2g', 'app', 'm2netm2g', 'ime', 'grp', 'systemSetting', 'colorInfo', 'localeInfo', '__builtin__', 'wndMgr', 'constInfo', 'ui'],
+ 'import': ['chatm2g', 'app', 'm2netm2g', 'battleRoyaleMgr', 'ime', 'grp', 'systemSetting', 'colorInfo', 'localeInfo', '__builtin__', 'background', 'wndMgr', 'constInfo', 'ui'],
  'var': [{'name': 'ENABLE_INSULT_CHECK', 'type': 'bool', 'value': True},
          {'name': 'ENABLE_LAST_SENTENCE_STACK', 'type': 'bool', 'value': True},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
          {'name': '__name__', 'type': 'str', 'value': 'uiChat'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'chatInputSetList', 'type': 'list', 'value': [<uiChat.ChatInputSet object at 0x1C751370>, <uiChat.ChatInputSet object at 0x1CB9DD50>]}]}
+         {'name': 'chatInputSetList', 'type': 'list', 'value': [<uiChat.ChatInputSet object at 0x1CCDB830>, <uiChat.ChatInputSet object at 0x1D126770>]}]}

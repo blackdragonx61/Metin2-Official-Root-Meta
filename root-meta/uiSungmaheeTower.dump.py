@@ -6,8 +6,9 @@ key: playerm2g2, val: <module 'playerm2g2' (built-in)>
 key: SungmaheeTowerInterface, val: <class 'uiSungmaheeTower.SungmaheeTowerInterface'>
 key: uiToolTip, val: <module 'uiToolTip' (built-in)>
 key: __package__, val: None
-key: re, val: <module 're' from 'C:\m2\.HU\lib\re.pyc'>
+key: re, val: <module 're' from 'C:\m2\.DE\metin2\de-DE\lib\re.pyc'>
 key: chr, val: <module 'chr' (built-in)>
+key: mouseModule, val: <module 'mouseModule' (built-in)>
 key: uiScriptLocale, val: <module 'uiScriptLocale' (built-in)>
 key: localeInfo, val: <module 'localeInfo' (built-in)>
 key: __doc__, val: None
@@ -28,7 +29,7 @@ _SungmaheeTowerEnter__REWARD_TABLE_TOKEN_SIZE,		11
 submodule._SungmaheeTowerEnter__REWARD_TABLE_TOKEN_SIZE
 
 
-Hide,		<cyfunction SungmaheeTowerEnter.Hide at 0x0CEF38C8>
+Hide,		<cyfunction SungmaheeTowerEnter.Hide at 0x1CB946B8>
 	arg0: self
 
 submodule.Hide
@@ -43,7 +44,7 @@ _SungmaheeTowerEnter__element_text_window,		<member '_SungmaheeTowerEnter__eleme
 submodule._SungmaheeTowerEnter__element_text_window
 
 
-_SungmaheeTowerEnter__OverInElementText,		<cyfunction SungmaheeTowerEnter.__OverInElementText at 0x0CEF35B0>
+_SungmaheeTowerEnter__OverInElementText,		<cyfunction SungmaheeTowerEnter.__OverInElementText at 0x1CB943A0>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__OverInElementText
@@ -58,7 +59,7 @@ _SungmaheeTowerEnter__floor_object_tuple,		<member '_SungmaheeTowerEnter__floor_
 submodule._SungmaheeTowerEnter__floor_object_tuple
 
 
-_SungmaheeTowerEnter__LoadWindow,		<cyfunction SungmaheeTowerEnter.__LoadWindow at 0x0CEF33F8>
+_SungmaheeTowerEnter__LoadWindow,		<cyfunction SungmaheeTowerEnter.__LoadWindow at 0x1CB941E8>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__LoadWindow
@@ -68,17 +69,17 @@ _SungmaheeTowerEnter__RANKING_SHOW_MAX,		99
 submodule._SungmaheeTowerEnter__RANKING_SHOW_MAX
 
 
-OnMouseWheelButtonDown,		<cyfunction SungmaheeTowerEnter.OnMouseWheelButtonDown at 0x0CEF3870>
+OnMouseWheelButtonDown,		<cyfunction SungmaheeTowerEnter.OnMouseWheelButtonDown at 0x1CB94660>
 	arg0: self
 
 submodule.OnMouseWheelButtonDown
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__BindObject,		<cyfunction SungmaheeTowerEnter.__BindObject at 0x0CEF3450>
+_SungmaheeTowerEnter__BindObject,		<cyfunction SungmaheeTowerEnter.__BindObject at 0x1CB94240>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__BindObject
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__SetFloorDisplay,		<cyfunction SungmaheeTowerEnter.__SetFloorDisplay at 0x0CEF3BE0>
+_SungmaheeTowerEnter__SetFloorDisplay,		<cyfunction SungmaheeTowerEnter.__SetFloorDisplay at 0x1CB94A28>
 	arg0: self
 	arg1: floor
 	arg2: rank
@@ -86,28 +87,28 @@ _SungmaheeTowerEnter__SetFloorDisplay,		<cyfunction SungmaheeTowerEnter.__SetFlo
 
 submodule._SungmaheeTowerEnter__SetFloorDisplay
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__CreateFloorObject,		<cyfunction SungmaheeTowerEnter.__CreateFloorObject at 0x0CEF37C0>
+_SungmaheeTowerEnter__CreateFloorObject,		<cyfunction SungmaheeTowerEnter.__CreateFloorObject at 0x1CB945B0>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__CreateFloorObject
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__OverInRewardSlot,		<cyfunction SungmaheeTowerEnter.__OverInRewardSlot at 0x0CEF3500>
+_SungmaheeTowerEnter__OverInRewardSlot,		<cyfunction SungmaheeTowerEnter.__OverInRewardSlot at 0x1CB942F0>
 	arg0: self
 	arg1: slot_index
 
 submodule._SungmaheeTowerEnter__OverInRewardSlot
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__RefreshFloorList,		<cyfunction SungmaheeTowerEnter.__RefreshFloorList at 0x0CEF3A80>
+_SungmaheeTowerEnter__RefreshFloorList,		<cyfunction SungmaheeTowerEnter.__RefreshFloorList at 0x1CB948C8>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__RefreshFloorList
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-Destroy,		<cyfunction SungmaheeTowerEnter.Destroy at 0x0CEF3348>
+Destroy,		<cyfunction SungmaheeTowerEnter.Destroy at 0x1CB94138>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-OnMouseWheelButtonUp,		<cyfunction SungmaheeTowerEnter.OnMouseWheelButtonUp at 0x0CEF3818>
+OnMouseWheelButtonUp,		<cyfunction SungmaheeTowerEnter.OnMouseWheelButtonUp at 0x1CB94608>
 	arg0: self
 
 submodule.OnMouseWheelButtonUp
@@ -117,12 +118,17 @@ _SungmaheeTowerEnter__element_text,		<member '_SungmaheeTowerEnter__element_text
 submodule._SungmaheeTowerEnter__element_text
 
 
-_SungmaheeTowerEnter__IsPossibleSungmaheeTowerEnter,		<cyfunction SungmaheeTowerEnter.__IsPossibleSungmaheeTowerEnter at 0x0CEF3E48>
+_SungmaheeTowerEnter__IsPossibleSungmaheeTowerEnter,		<cyfunction SungmaheeTowerEnter.__IsPossibleSungmaheeTowerEnter at 0x1CB94C90>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__IsPossibleSungmaheeTowerEnter
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-__init__,		<cyfunction SungmaheeTowerEnter.__init__ at 0x0CEF3298>
+_SungmaheeTowerEnter__scrollbar,		<member '_SungmaheeTowerEnter__scrollbar' of 'SungmaheeTowerEnter' objects>
+
+submodule._SungmaheeTowerEnter__scrollbar
+
+
+__init__,		<cyfunction SungmaheeTowerEnter.__init__ at 0x1CB94088>
 	arg0: self
 
 submodule.__init__
@@ -132,12 +138,12 @@ _SungmaheeTowerEnter__floor_element_table_dict,		<member '_SungmaheeTowerEnter__
 submodule._SungmaheeTowerEnter__floor_element_table_dict
 
 
-_SungmaheeTowerEnter__scrollbar,		<member '_SungmaheeTowerEnter__scrollbar' of 'SungmaheeTowerEnter' objects>
+OnUpdate,		<cyfunction SungmaheeTowerEnter.OnUpdate at 0x1CB94768>
+	arg0: self
 
-submodule._SungmaheeTowerEnter__scrollbar
-
-
-_SungmaheeTowerEnter__CalculScrollPos,		<cyfunction SungmaheeTowerEnter.__CalculScrollPos at 0x0CEF3A28>
+submodule.OnUpdate
+Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
+_SungmaheeTowerEnter__CalculScrollPos,		<cyfunction SungmaheeTowerEnter.__CalculScrollPos at 0x1CB94870>
 	arg0: self
 	arg1: floor
 
@@ -148,7 +154,7 @@ _SungmaheeTowerEnter__clear_top_floor,		<member '_SungmaheeTowerEnter__clear_top
 submodule._SungmaheeTowerEnter__clear_top_floor
 
 
-_SungmaheeTowerEnter__OverOutRewardSlot,		<cyfunction SungmaheeTowerEnter.__OverOutRewardSlot at 0x0CEF3558>
+_SungmaheeTowerEnter__OverOutRewardSlot,		<cyfunction SungmaheeTowerEnter.__OverOutRewardSlot at 0x1CB94348>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__OverOutRewardSlot
@@ -158,20 +164,20 @@ _SungmaheeTowerEnter__tooltip,		<member '_SungmaheeTowerEnter__tooltip' of 'Sung
 submodule._SungmaheeTowerEnter__tooltip
 
 
-_SungmaheeTowerEnter__SetFloorReward,		<cyfunction SungmaheeTowerEnter.__SetFloorReward at 0x0CEF3CE8>
+_SungmaheeTowerEnter__SetFloorReward,		<cyfunction SungmaheeTowerEnter.__SetFloorReward at 0x1CB94B30>
 	arg0: self
 	arg1: floor
 
 submodule._SungmaheeTowerEnter__SetFloorReward
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__GetTextLinesFromGroupUseRegex,		<cyfunction SungmaheeTowerEnter.__GetTextLinesFromGroupUseRegex at 0x0CEF3660>
+_SungmaheeTowerEnter__GetTextLinesFromGroupUseRegex,		<cyfunction SungmaheeTowerEnter.__GetTextLinesFromGroupUseRegex at 0x1CB94450>
 	arg0: self
 	arg1: group_name
 	arg2: source_text
 
 submodule._SungmaheeTowerEnter__GetTextLinesFromGroupUseRegex
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__FloorButtonRefresh,		<cyfunction SungmaheeTowerEnter.__FloorButtonRefresh at 0x0CEF3AD8>
+_SungmaheeTowerEnter__FloorButtonRefresh,		<cyfunction SungmaheeTowerEnter.__FloorButtonRefresh at 0x1CB94920>
 	arg0: self
 	arg1: down_floor
 
@@ -184,7 +190,7 @@ PACKET_PROCESS_KIND_TUPLE,		(0, 1, 2)
 submodule.PACKET_PROCESS_KIND_TUPLE
 
 
-_SungmaheeTowerEnter__SetRankText,		<cyfunction SungmaheeTowerEnter.__SetRankText at 0x0CEF3C90>
+_SungmaheeTowerEnter__SetRankText,		<cyfunction SungmaheeTowerEnter.__SetRankText at 0x1CB94AD8>
 	arg0: self
 	arg1: rank
 	arg2: clear_time_second
@@ -196,12 +202,17 @@ _SungmaheeTowerEnter__REWARD_ITEM_SIZE,		5
 submodule._SungmaheeTowerEnter__REWARD_ITEM_SIZE
 
 
+_SungmaheeTowerEnter__open_pos_x,		<member '_SungmaheeTowerEnter__open_pos_x' of 'SungmaheeTowerEnter' objects>
+
+submodule._SungmaheeTowerEnter__open_pos_x
+
+
 _SungmaheeTowerEnter__floor_list_max,		<member '_SungmaheeTowerEnter__floor_list_max' of 'SungmaheeTowerEnter' objects>
 
 submodule._SungmaheeTowerEnter__floor_list_max
 
 
-_SungmaheeTowerEnter__SetRankData,		<cyfunction SungmaheeTowerEnter.__SetRankData at 0x0CEF3C38>
+_SungmaheeTowerEnter__SetRankData,		<cyfunction SungmaheeTowerEnter.__SetRankData at 0x1CB94A80>
 	arg0: self
 	arg1: floor
 	arg2: rank
@@ -214,17 +225,17 @@ _SungmaheeTowerEnter__FLOOR_BUTTON_VIEW_COUNT,		5
 submodule._SungmaheeTowerEnter__FLOOR_BUTTON_VIEW_COUNT
 
 
-_SungmaheeTowerEnter__LoadRewardFile,		<cyfunction SungmaheeTowerEnter.__LoadRewardFile at 0x0CEF3768>
+_SungmaheeTowerEnter__LoadRewardFile,		<cyfunction SungmaheeTowerEnter.__LoadRewardFile at 0x1CB94558>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__LoadRewardFile
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__BindEvent,		<cyfunction SungmaheeTowerEnter.__BindEvent at 0x0CEF34A8>
+_SungmaheeTowerEnter__BindEvent,		<cyfunction SungmaheeTowerEnter.__BindEvent at 0x1CB94298>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__BindEvent
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-OnClickFloorButton,		<cyfunction SungmaheeTowerEnter.OnClickFloorButton at 0x0CEF3B88>
+OnClickFloorButton,		<cyfunction SungmaheeTowerEnter.OnClickFloorButton at 0x1CB949D0>
 	arg0: self
 	arg1: is_request_data
 	arg2: click_floor
@@ -233,12 +244,12 @@ OnClickFloorButton,		<cyfunction SungmaheeTowerEnter.OnClickFloorButton at 0x0CE
 
 submodule.OnClickFloorButton
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-__del__,		<cyfunction SungmaheeTowerEnter.__del__ at 0x0CEF32F0>
+__del__,		<cyfunction SungmaheeTowerEnter.__del__ at 0x1CB940E0>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__ClearIconRefresh,		<cyfunction SungmaheeTowerEnter.__ClearIconRefresh at 0x0CEF3B30>
+_SungmaheeTowerEnter__ClearIconRefresh,		<cyfunction SungmaheeTowerEnter.__ClearIconRefresh at 0x1CB94978>
 	arg0: self
 	arg1: clear_top_floor
 
@@ -249,7 +260,7 @@ _SungmaheeTowerEnter__floor_reward_table_dict,		<member '_SungmaheeTowerEnter__f
 submodule._SungmaheeTowerEnter__floor_reward_table_dict
 
 
-_SungmaheeTowerEnter__UIOpenResultProcess,		<cyfunction SungmaheeTowerEnter.__UIOpenResultProcess at 0x0CEF3EA0>
+_SungmaheeTowerEnter__UIOpenResultProcess,		<cyfunction SungmaheeTowerEnter.__UIOpenResultProcess at 0x1CB94CE8>
 	arg0: self
 	arg1: result_type
 	arg2: orgin_clear_top_floor
@@ -263,13 +274,13 @@ _SungmaheeTowerEnter__floor_reward_slot__enter_button,		<member '_SungmaheeTower
 submodule._SungmaheeTowerEnter__floor_reward_slot__enter_button
 
 
-_SungmaheeTowerEnter__DungeonEnterResultProcess,		<cyfunction SungmaheeTowerEnter.__DungeonEnterResultProcess at 0x0CEF3EF8>
+_SungmaheeTowerEnter__DungeonEnterResultProcess,		<cyfunction SungmaheeTowerEnter.__DungeonEnterResultProcess at 0x1CB94D40>
 	arg0: self
 	arg1: enter_result_type
 
 submodule._SungmaheeTowerEnter__DungeonEnterResultProcess
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__SetElementText,		<cyfunction SungmaheeTowerEnter.__SetElementText at 0x0CEF3D40>
+_SungmaheeTowerEnter__SetElementText,		<cyfunction SungmaheeTowerEnter.__SetElementText at 0x1CB94B88>
 	arg0: self
 	arg1: floor
 
@@ -280,7 +291,7 @@ __doc__,		None
 submodule.__doc__
 
 
-OnPressEscapeKey,		<cyfunction SungmaheeTowerEnter.OnPressEscapeKey at 0x0CEF3978>
+OnPressEscapeKey,		<cyfunction SungmaheeTowerEnter.OnPressEscapeKey at 0x1CB947C0>
 	arg0: self
 
 submodule.OnPressEscapeKey
@@ -290,12 +301,12 @@ _SungmaheeTowerEnter__tooltip_item,		<member '_SungmaheeTowerEnter__tooltip_item
 submodule._SungmaheeTowerEnter__tooltip_item
 
 
-_SungmaheeTowerEnter__OnClickEnterButton,		<cyfunction SungmaheeTowerEnter.__OnClickEnterButton at 0x0CEF3D98>
+_SungmaheeTowerEnter__OnClickEnterButton,		<cyfunction SungmaheeTowerEnter.__OnClickEnterButton at 0x1CB94BE0>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__OnClickEnterButton
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__OverOutElementText,		<cyfunction SungmaheeTowerEnter.__OverOutElementText at 0x0CEF3608>
+_SungmaheeTowerEnter__OverOutElementText,		<cyfunction SungmaheeTowerEnter.__OverOutElementText at 0x1CB943F8>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__OverOutElementText
@@ -305,7 +316,7 @@ _SungmaheeTowerEnter__selected_floor,		<member '_SungmaheeTowerEnter__selected_f
 submodule._SungmaheeTowerEnter__selected_floor
 
 
-SetItemToolTip,		<cyfunction SungmaheeTowerEnter.SetItemToolTip at 0x0CEF33A0>
+SetItemToolTip,		<cyfunction SungmaheeTowerEnter.SetItemToolTip at 0x1CB94190>
 	arg0: self
 	arg1: tooltip_item
 
@@ -321,17 +332,17 @@ _SungmaheeTowerEnter__is_loaded,		<member '_SungmaheeTowerEnter__is_loaded' of '
 submodule._SungmaheeTowerEnter__is_loaded
 
 
-Show,		<cyfunction SungmaheeTowerEnter.Show at 0x0CEF39D0>
+Show,		<cyfunction SungmaheeTowerEnter.Show at 0x1CB94818>
 	arg0: self
 
 submodule.Show
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__LoadDataFile,		<cyfunction SungmaheeTowerEnter.__LoadDataFile at 0x0CEF36B8>
+_SungmaheeTowerEnter__LoadDataFile,		<cyfunction SungmaheeTowerEnter.__LoadDataFile at 0x1CB944A8>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__LoadDataFile
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-_SungmaheeTowerEnter__SendSungmaheeTowerDungeonEnter,		<cyfunction SungmaheeTowerEnter.__SendSungmaheeTowerDungeonEnter at 0x0CEF3DF0>
+_SungmaheeTowerEnter__SendSungmaheeTowerDungeonEnter,		<cyfunction SungmaheeTowerEnter.__SendSungmaheeTowerDungeonEnter at 0x1CB94C38>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__SendSungmaheeTowerDungeonEnter
@@ -356,7 +367,12 @@ __qualname__,		SungmaheeTowerEnter
 submodule.__qualname__
 
 
-__slots__,		('__is_loaded', '__floor_list_window', '__scrollbar', '__my_rank_text', '__my_rank_time_text', '__floor_reward_slot__enter_button', '__element_text', '__element_text_window', '__tooltip', '__tooltip_item', '__floor_element_table_dict', '__floor_reward_table_dict', '__enter_question_popup', '__floor_object_tuple', '__floor_list_max', '__selected_floor', '__clear_top_floor', '__is_requesting_floor_data', '__is_requesting_enter')
+_SungmaheeTowerEnter__open_pos_y,		<member '_SungmaheeTowerEnter__open_pos_y' of 'SungmaheeTowerEnter' objects>
+
+submodule._SungmaheeTowerEnter__open_pos_y
+
+
+__slots__,		('__is_loaded', '__floor_list_window', '__scrollbar', '__my_rank_text', '__my_rank_time_text', '__floor_reward_slot__enter_button', '__element_text', '__element_text_window', '__tooltip', '__tooltip_item', '__floor_element_table_dict', '__floor_reward_table_dict', '__enter_question_popup', '__floor_object_tuple', '__floor_list_max', '__selected_floor', '__clear_top_floor', '__is_requesting_floor_data', '__is_requesting_enter', '__open_pos_x', '__open_pos_y')
 
 submodule.__slots__
 
@@ -366,17 +382,17 @@ _SungmaheeTowerEnter__my_rank_text,		<member '_SungmaheeTowerEnter__my_rank_text
 submodule._SungmaheeTowerEnter__my_rank_text
 
 
-_SungmaheeTowerEnter__LoadElementFile,		<cyfunction SungmaheeTowerEnter.__LoadElementFile at 0x0CEF3710>
+_SungmaheeTowerEnter__LoadElementFile,		<cyfunction SungmaheeTowerEnter.__LoadElementFile at 0x1CB94500>
 	arg0: self
 
 submodule._SungmaheeTowerEnter__LoadElementFile
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-Close,		<cyfunction SungmaheeTowerEnter.Close at 0x0CEF3920>
+Close,		<cyfunction SungmaheeTowerEnter.Close at 0x1CB94710>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerEnter instance as first argument (got nothing instead)
-SungmaheeTowerEnterPacketProcess,		<cyfunction SungmaheeTowerEnter.SungmaheeTowerEnterPacketProcess at 0x0CEF3F50>
+SungmaheeTowerEnterPacketProcess,		<cyfunction SungmaheeTowerEnter.SungmaheeTowerEnterPacketProcess at 0x1CB94D98>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -396,7 +412,7 @@ submodule._SungmaheeTowerEnter__my_rank_time_text
 
 
 class SungmaheeTowerInterface:
-SungmaheeTowerProcess,		<cyfunction SungmaheeTowerInterface.SungmaheeTowerProcess at 0x0CEF5C90>
+SungmaheeTowerProcess,		<cyfunction SungmaheeTowerInterface.SungmaheeTowerProcess at 0x1CB96AD8>
 	arg0: self
 	arg1: type
 	arg2: data
@@ -408,18 +424,18 @@ __module__,		uiSungmaheeTower
 submodule.__module__
 
 
-SetItemToolTip,		<cyfunction SungmaheeTowerInterface.SetItemToolTip at 0x0CEF5B30>
+SetItemToolTip,		<cyfunction SungmaheeTowerInterface.SetItemToolTip at 0x1CB96978>
 	arg0: self
 	arg1: tooltip_item
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInterface instance as first argument (got nothing instead)
-__del__,		<cyfunction SungmaheeTowerInterface.__del__ at 0x0CEF5AD8>
+__del__,		<cyfunction SungmaheeTowerInterface.__del__ at 0x1CB96920>
 	arg0: self
 
 submodule.__del__
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInterface instance as first argument (got nothing instead)
-Destroy,		<cyfunction SungmaheeTowerInterface.Destroy at 0x0CEF5B88>
+Destroy,		<cyfunction SungmaheeTowerInterface.Destroy at 0x1CB969D0>
 	arg0: self
 
 submodule.Destroy
@@ -439,12 +455,12 @@ _SungmaheeTowerInterface__tooltip_item,		<member '_SungmaheeTowerInterface__tool
 submodule._SungmaheeTowerInterface__tooltip_item
 
 
-Close,		<cyfunction SungmaheeTowerInterface.Close at 0x0CEF5C38>
+Close,		<cyfunction SungmaheeTowerInterface.Close at 0x1CB96A80>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInterface instance as first argument (got nothing instead)
-Hide,		<cyfunction SungmaheeTowerInterface.Hide at 0x0CEF5BE0>
+Hide,		<cyfunction SungmaheeTowerInterface.Hide at 0x1CB96A28>
 	arg0: self
 
 submodule.Hide
@@ -459,7 +475,7 @@ __doc__,		None
 submodule.__doc__
 
 
-__init__,		<cyfunction SungmaheeTowerInterface.__init__ at 0x0CEF5A80>
+__init__,		<cyfunction SungmaheeTowerInterface.__init__ at 0x1CB968C8>
 	arg0: self
 
 submodule.__init__
@@ -467,14 +483,14 @@ Skipped: unbound method cython_function_or_method object must be called with Sun
 
 
 class SungmaheeTowerInformationBoard:
-SungmaheeTowerInfoBoardPacketProcess,		<cyfunction SungmaheeTowerInformationBoard.SungmaheeTowerInfoBoardPacketProcess at 0x0CEF5978>
+SungmaheeTowerInfoBoardPacketProcess,		<cyfunction SungmaheeTowerInformationBoard.SungmaheeTowerInfoBoardPacketProcess at 0x1CB967C0>
 	arg0: self
 	arg1: type
 	arg2: data
 
 submodule.SungmaheeTowerInfoBoardPacketProcess
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-_SungmaheeTowerInformationBoard__ArrangeAffectList,		<cyfunction SungmaheeTowerInformationBoard.__ArrangeAffectList at 0x0CEF5920>
+_SungmaheeTowerInformationBoard__ArrangeAffectList,		<cyfunction SungmaheeTowerInformationBoard.__ArrangeAffectList at 0x1CB96768>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__ArrangeAffectList
@@ -484,7 +500,7 @@ _SungmaheeTowerInformationBoard__cur_stage_limit_time_second,		<member '_Sungmah
 submodule._SungmaheeTowerInformationBoard__cur_stage_limit_time_second
 
 
-_SungmaheeTowerInformationBoard__SungmaheeTowerAddAffect,		<cyfunction SungmaheeTowerInformationBoard.__SungmaheeTowerAddAffect at 0x0CEF5870>
+_SungmaheeTowerInformationBoard__SungmaheeTowerAddAffect,		<cyfunction SungmaheeTowerInformationBoard.__SungmaheeTowerAddAffect at 0x1CB966B8>
 	arg0: self
 	arg1: affect_type
 	arg2: point_type
@@ -514,7 +530,7 @@ _SungmaheeTowerInformationBoard__is_loaded,		<member '_SungmaheeTowerInformation
 submodule._SungmaheeTowerInformationBoard__is_loaded
 
 
-_SungmaheeTowerInformationBoard__BindEvent,		<cyfunction SungmaheeTowerInformationBoard.__BindEvent at 0x0CEF53F8>
+_SungmaheeTowerInformationBoard__BindEvent,		<cyfunction SungmaheeTowerInformationBoard.__BindEvent at 0x1CB96240>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__BindEvent
@@ -524,32 +540,32 @@ _SungmaheeTowerInformationBoard__cur_stage_end_time,		<member '_SungmaheeTowerIn
 submodule._SungmaheeTowerInformationBoard__cur_stage_end_time
 
 
-_SungmaheeTowerInformationBoard__MissionTypeTextUpdate,		<cyfunction SungmaheeTowerInformationBoard.__MissionTypeTextUpdate at 0x0CEF56B8>
+_SungmaheeTowerInformationBoard__MissionTypeTextUpdate,		<cyfunction SungmaheeTowerInformationBoard.__MissionTypeTextUpdate at 0x1CB96500>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__MissionTypeTextUpdate
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-Destroy,		<cyfunction SungmaheeTowerInformationBoard.Destroy at 0x0CEF5240>
+Destroy,		<cyfunction SungmaheeTowerInformationBoard.Destroy at 0x1CB96088>
 	arg0: self
 
 submodule.Destroy
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-__init__,		<cyfunction SungmaheeTowerInformationBoard.__init__ at 0x0CEF5190>
+__init__,		<cyfunction SungmaheeTowerInformationBoard.__init__ at 0x1CB94FA8>
 	arg0: self
 
 submodule.__init__
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-OnUpdate,		<cyfunction SungmaheeTowerInformationBoard.OnUpdate at 0x0CEF5660>
+OnUpdate,		<cyfunction SungmaheeTowerInformationBoard.OnUpdate at 0x1CB964A8>
 	arg0: self
 
 submodule.OnUpdate
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-_SungmaheeTowerInformationBoard__SendSungmaheeTowerDungeonExit,		<cyfunction SungmaheeTowerInformationBoard.__SendSungmaheeTowerDungeonExit at 0x0CEF5500>
+_SungmaheeTowerInformationBoard__SendSungmaheeTowerDungeonExit,		<cyfunction SungmaheeTowerInformationBoard.__SendSungmaheeTowerDungeonExit at 0x1CB96348>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__SendSungmaheeTowerDungeonExit
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-_SungmaheeTowerInformationBoard__DungeonExitResultProcess,		<cyfunction SungmaheeTowerInformationBoard.__DungeonExitResultProcess at 0x0CEF57C0>
+_SungmaheeTowerInformationBoard__DungeonExitResultProcess,		<cyfunction SungmaheeTowerInformationBoard.__DungeonExitResultProcess at 0x1CB96608>
 	arg0: self
 	arg1: exit_result_type
 
@@ -570,12 +586,12 @@ _SungmaheeTowerInformationBoard__floor_text,		<member '_SungmaheeTowerInformatio
 submodule._SungmaheeTowerInformationBoard__floor_text
 
 
-_SungmaheeTowerInformationBoard__TimeTextUpdate,		<cyfunction SungmaheeTowerInformationBoard.__TimeTextUpdate at 0x0CEF5768>
+_SungmaheeTowerInformationBoard__TimeTextUpdate,		<cyfunction SungmaheeTowerInformationBoard.__TimeTextUpdate at 0x1CB965B0>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__TimeTextUpdate
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-_SungmaheeTowerInformationBoard__OnClickExitButton,		<cyfunction SungmaheeTowerInformationBoard.__OnClickExitButton at 0x0CEF54A8>
+_SungmaheeTowerInformationBoard__OnClickExitButton,		<cyfunction SungmaheeTowerInformationBoard.__OnClickExitButton at 0x1CB962F0>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__OnClickExitButton
@@ -590,13 +606,13 @@ BOARD_WIDTH,		136
 submodule.BOARD_WIDTH
 
 
-_SungmaheeTowerInformationBoard__SetFloorText,		<cyfunction SungmaheeTowerInformationBoard.__SetFloorText at 0x0CEF5558>
+_SungmaheeTowerInformationBoard__SetFloorText,		<cyfunction SungmaheeTowerInformationBoard.__SetFloorText at 0x1CB963A0>
 	arg0: self
 	arg1: floor
 
 submodule._SungmaheeTowerInformationBoard__SetFloorText
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-_SungmaheeTowerInformationBoard__SetMissionText,		<cyfunction SungmaheeTowerInformationBoard.__SetMissionText at 0x0CEF55B0>
+_SungmaheeTowerInformationBoard__SetMissionText,		<cyfunction SungmaheeTowerInformationBoard.__SetMissionText at 0x1CB963F8>
 	arg0: self
 	arg1: mission_type
 
@@ -607,12 +623,12 @@ __doc__,		None
 submodule.__doc__
 
 
-_SungmaheeTowerInformationBoard__BindObject,		<cyfunction SungmaheeTowerInformationBoard.__BindObject at 0x0CEF53A0>
+_SungmaheeTowerInformationBoard__BindObject,		<cyfunction SungmaheeTowerInformationBoard.__BindObject at 0x1CB961E8>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__BindObject
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-__del__,		<cyfunction SungmaheeTowerInformationBoard.__del__ at 0x0CEF51E8>
+__del__,		<cyfunction SungmaheeTowerInformationBoard.__del__ at 0x1CB96030>
 	arg0: self
 
 submodule.__del__
@@ -637,7 +653,7 @@ AFFECT_START_GAP,		10
 submodule.AFFECT_START_GAP
 
 
-_SungmaheeTowerInformationBoard__SettingData,		<cyfunction SungmaheeTowerInformationBoard.__SettingData at 0x0CEF5450>
+_SungmaheeTowerInformationBoard__SettingData,		<cyfunction SungmaheeTowerInformationBoard.__SettingData at 0x1CB96298>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__SettingData
@@ -657,7 +673,7 @@ _SungmaheeTowerInformationBoard__stage_clear_img_tuple,		<member '_SungmaheeTowe
 submodule._SungmaheeTowerInformationBoard__stage_clear_img_tuple
 
 
-_SungmaheeTowerInformationBoard__SungmaheeTowerRemoveAffect,		<cyfunction SungmaheeTowerInformationBoard.__SungmaheeTowerRemoveAffect at 0x0CEF58C8>
+_SungmaheeTowerInformationBoard__SungmaheeTowerRemoveAffect,		<cyfunction SungmaheeTowerInformationBoard.__SungmaheeTowerRemoveAffect at 0x1CB96710>
 	arg0: self
 	arg1: erase_affect_type
 	arg2: erase_point_type
@@ -670,7 +686,7 @@ AFFECT_GAP,		3
 submodule.AFFECT_GAP
 
 
-_SungmaheeTowerInformationBoard__SetTimeGauge,		<cyfunction SungmaheeTowerInformationBoard.__SetTimeGauge at 0x0CEF5608>
+_SungmaheeTowerInformationBoard__SetTimeGauge,		<cyfunction SungmaheeTowerInformationBoard.__SetTimeGauge at 0x1CB96450>
 	arg0: self
 	arg1: cur_gauge
 	arg2: max_gauge
@@ -679,19 +695,19 @@ submodule._SungmaheeTowerInformationBoard__SetTimeGauge
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
 _SungmaheeTowerInformationBoard__SungmaheeTowerAffect,		<class 'uiSungmaheeTower.__SungmaheeTowerAffect'>
 Skip: type object '__SungmaheeTowerAffect' has no attribute 'func_code'
-_SungmaheeTowerInformationBoard__StageClearIconRefresh,		<cyfunction SungmaheeTowerInformationBoard.__StageClearIconRefresh at 0x0CEF5818>
+_SungmaheeTowerInformationBoard__StageClearIconRefresh,		<cyfunction SungmaheeTowerInformationBoard.__StageClearIconRefresh at 0x1CB96660>
 	arg0: self
 	arg1: last_clear_stage
 
 submodule._SungmaheeTowerInformationBoard__StageClearIconRefresh
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-SetItemToolTip,		<cyfunction SungmaheeTowerInformationBoard.SetItemToolTip at 0x0CEF5298>
+SetItemToolTip,		<cyfunction SungmaheeTowerInformationBoard.SetItemToolTip at 0x1CB960E0>
 	arg0: self
 	arg1: tooltip_item
 
 submodule.SetItemToolTip
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-_SungmaheeTowerInformationBoard__SetTimeText,		<cyfunction SungmaheeTowerInformationBoard.__SetTimeText at 0x0CEF5710>
+_SungmaheeTowerInformationBoard__SetTimeText,		<cyfunction SungmaheeTowerInformationBoard.__SetTimeText at 0x1CB96558>
 	arg0: self
 	arg1: stage_limit_time
 	arg2: stage_clear_time
@@ -723,12 +739,12 @@ _SungmaheeTowerInformationBoard__alarm_text,		<member '_SungmaheeTowerInformatio
 submodule._SungmaheeTowerInformationBoard__alarm_text
 
 
-Close,		<cyfunction SungmaheeTowerInformationBoard.Close at 0x0CEF52F0>
+Close,		<cyfunction SungmaheeTowerInformationBoard.Close at 0x1CB96138>
 	arg0: self
 
 submodule.Close
 Skipped: unbound method cython_function_or_method object must be called with SungmaheeTowerInformationBoard instance as first argument (got nothing instead)
-_SungmaheeTowerInformationBoard__LoadWindow,		<cyfunction SungmaheeTowerInformationBoard.__LoadWindow at 0x0CEF5348>
+_SungmaheeTowerInformationBoard__LoadWindow,		<cyfunction SungmaheeTowerInformationBoard.__LoadWindow at 0x1CB96190>
 	arg0: self
 
 submodule._SungmaheeTowerInformationBoard__LoadWindow

@@ -9,6 +9,7 @@
                      {'args': ['self', 'open'], 'defaults': [], 'name': '__BattleFieldEventOpen'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__BattleFieldInfo'},
                      {'args': ['self', 'open'], 'defaults': [], 'name': '__BattleFieldOpen'},
+                     {'args': ['self', 'enable'], 'defaults': [], 'name': '__BattleRoyale'},
                      {'args': ['self', 'mode'], 'defaults': [], 'name': '__DayMode_Update'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FishEvent'},
                      {'args': ['self', 'enable'], 'defaults': [], 'name': '__FlowerEvent'},
@@ -47,4 +48,4 @@
          {'name': '__name__', 'type': 'str', 'value': 'serverCommandParser'},
          {'name': '__package__', 'type': 'NoneType', 'value': None},
          {'name': '__test__', 'type': 'dict', 'value': {}},
-         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0CC1F7D0>}]}
+         {'name': 'parserWnd', 'type': 'ServerCommandParser', 'value': <serverCommandParser.ServerCommandParser object at 0x0E96C1F0>}]}

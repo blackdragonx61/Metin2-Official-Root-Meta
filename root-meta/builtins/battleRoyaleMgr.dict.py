@@ -1,0 +1,10 @@
+{'class': [],
+ 'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsDropItemDialogDisabled'}, {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsPCTextTailHided'}],
+ 'import': [],
+ 'var': [{'name': 'BATTLE_ROYALE_CHAT_DISABLED', 'type': 'int', 'value': 1},
+         {'name': 'BATTLE_ROYALE_INVENTORY_EXTEND_BUTTON_MAX_RANGE', 'type': 'int', 'value': 9},
+         {'name': 'BATTLE_ROYALE_INVENTORY_EXTEND_BUTTON_MIN_RANGE', 'type': 'int', 'value': 3},
+         {'name': 'ITEM_VNUM_BATTLE_ROYALE_INFINITE_STAMINA', 'type': 'int', 'value': 91059},
+         {'name': '__doc__', 'type': 'NoneType', 'value': None},
+         {'name': '__name__', 'type': 'str', 'value': 'battleRoyaleMgr'},
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}

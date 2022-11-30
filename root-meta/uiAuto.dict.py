@@ -70,6 +70,7 @@
                     {'name': '_AutoWindow__auto_tooltip', 'type': 'member_descriptor', 'value': <member '_AutoWindow__auto_tooltip' of 'AutoWindow' objects>},
                     {'name': '_AutoWindow__auto_tooltip_button', 'type': 'member_descriptor', 'value': <member '_AutoWindow__auto_tooltip_button' of 'AutoWindow' objects>},
                     {'name': '_AutoWindow__auto_tooltip_clear', 'type': 'member_descriptor', 'value': <member '_AutoWindow__auto_tooltip_clear' of 'AutoWindow' objects>},
+                    {'name': '_AutoWindow__hackPunishmentPopupDialog', 'type': 'member_descriptor', 'value': <member '_AutoWindow__hackPunishmentPopupDialog' of 'AutoWindow' objects>},
                     {'name': '_AutoWindow__is_loaded', 'type': 'member_descriptor', 'value': <member '_AutoWindow__is_loaded' of 'AutoWindow' objects>},
                     {'name': '_AutoWindow__is_read', 'type': 'member_descriptor', 'value': <member '_AutoWindow__is_read' of 'AutoWindow' objects>},
                     {'name': '_AutoWindow__time_edit_list', 'type': 'member_descriptor', 'value': <member '_AutoWindow__time_edit_list' of 'AutoWindow' objects>},
@@ -95,7 +96,8 @@
                                '__auto_tooltip_button',
                                '__auto_tooltip',
                                '__auto_system_tooltip_list',
-                               '__auto_tooltip_clear')}]}],
+                               '__auto_tooltip_clear',
+                               '__hackPunishmentPopupDialog')}]}],
  'func': [],
- 'import': ['guild', 'uiToolTip', '__builtin__', 'localeInfo', 'app', 'uiScriptLocale', 'chrmgrm2g', 'item', 'chr', 'playerm2g2', 'ui', 'mouseModule', 'wndMgr', 'skill', 'os'],
+ 'import': ['app', 'm2netm2g', 'playerm2g2', 'skill', 'uiToolTip', 'chr', 'chrmgrm2g', 'mouseModule', 'uiScriptLocale', 'localeInfo', 'uiCommon', '__builtin__', 'wndMgr', 'guild', 'item', 'ui', 'os'],
  'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'uiAuto'}, {'name': '__package__', 'type': 'NoneType', 'value': None}, {'name': '__test__', 'type': 'dict', 'value': {}}]}

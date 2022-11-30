@@ -13,7 +13,7 @@ key: __doc__, val: None
 
 
 class Window:
-ClearDictionary,		<cyfunction Window.ClearDictionary at 0x1CE37C38>
+ClearDictionary,		<cyfunction Window.ClearDictionary at 0x30A456B8>
 	arg0: self
 
 submodule.ClearDictionary
@@ -23,7 +23,7 @@ __module__,		uiEx
 submodule.__module__
 
 
-__del__,		<cyfunction Window.__del__ at 0x1CE37EA0>
+__del__,		<cyfunction Window.__del__ at 0x30A45768>
 	arg0: self
 
 submodule.__del__
@@ -38,32 +38,32 @@ __qualname__,		Window
 submodule.__qualname__
 
 
-InsertChild,		<cyfunction Window.InsertChild at 0x1CE37D98>
+InsertChild,		<cyfunction Window.InsertChild at 0x30A457C0>
 	arg0: self
 	arg1: name
 	arg2: child
 
 submodule.InsertChild
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-GetChild,		<cyfunction Window.GetChild at 0x1CE37E48>
+GetChild,		<cyfunction Window.GetChild at 0x30A45710>
 	arg0: self
 	arg1: name
 
 submodule.GetChild
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-_Window__LoadSkin,		<cyfunction Window.__LoadSkin at 0x1CE37EF8>
+_Window__LoadSkin,		<cyfunction Window.__LoadSkin at 0x30A45870>
 	arg0: self
 	arg1: fileName
 
 submodule._Window__LoadSkin
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-IsChild,		<cyfunction Window.IsChild at 0x1CE37D40>
+IsChild,		<cyfunction Window.IsChild at 0x30A45608>
 	arg0: self
 	arg1: name
 
 submodule.IsChild
 Skipped: unbound method cython_function_or_method object must be called with Window instance as first argument (got nothing instead)
-__init__,		<cyfunction Window.__init__ at 0x1CE37BE0>
+__init__,		<cyfunction Window.__init__ at 0x30A45818>
 	arg0: self
 	arg1: skinFileName
 	default: 

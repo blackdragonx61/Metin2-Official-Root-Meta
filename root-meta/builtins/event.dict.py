@@ -32,6 +32,7 @@
          {'name': 'BUTTON_TYPE_CANCEL', 'type': 'int', 'value': 2},
          {'name': 'BUTTON_TYPE_DONE', 'type': 'int', 'value': 1},
          {'name': 'BUTTON_TYPE_NEXT', 'type': 'int', 'value': 0},
+         {'name': 'DEFAULT_LINE_HEIGHT', 'type': 'int', 'value': 16},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
          {'name': '__name__', 'type': 'str', 'value': 'event'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}
