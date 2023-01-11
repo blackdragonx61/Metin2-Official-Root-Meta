@@ -16,4 +16,6 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'UpdateAllTextTail'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'UpdateShowingTextTail'}],
  'import': [],
- 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'textTail'}, {'name': '__package__', 'type': 'NoneType', 'value': None}]}
+ 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None},
+         {'name': '__name__', 'type': 'str', 'value': 'KBzeLgOS'},
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}

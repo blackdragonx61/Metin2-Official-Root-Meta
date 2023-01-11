@@ -6,4 +6,6 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetAuth'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'Update'}],
  'import': [],
- 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'ServerStateChecker'}, {'name': '__package__', 'type': 'NoneType', 'value': None}]}
+ 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None},
+         {'name': '__name__', 'type': 'str', 'value': 'ServerStateChecker'},
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}

@@ -31,4 +31,6 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetText'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetUserMax'}],
  'import': [],
- 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'ime'}, {'name': '__package__', 'type': 'NoneType', 'value': None}]}
+ 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None},
+         {'name': '__name__', 'type': 'str', 'value': 'PYL'},
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}

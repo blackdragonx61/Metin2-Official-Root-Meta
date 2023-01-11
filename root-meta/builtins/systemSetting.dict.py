@@ -48,5 +48,5 @@
          {'name': 'WINDOW_SOCIETY', 'type': 'int', 'value': 3},
          {'name': 'WINDOW_STATUS', 'type': 'int', 'value': 0},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'systemSetting'},
+         {'name': '__name__', 'type': 'str', 'value': 'KHIDKDuRHpAwD'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

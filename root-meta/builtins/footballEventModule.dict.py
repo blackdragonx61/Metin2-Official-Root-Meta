@@ -1,5 +1,6 @@
 {'class': [],
- 'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RequestStatusInfo'}, {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RequestUseQuestFlag'}],
+ 'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RequestStatusInfo'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RequestUseQuestFlag'}],
  'import': [],
  'var': [{'name': 'FOOTBALL_EVENT_ENABLE', 'type': 'int', 'value': 4},
          {'name': 'FOOTBALL_EVENT_GC_SUBHEADER_ADD_QUEST_FLAG', 'type': 'int', 'value': 1},

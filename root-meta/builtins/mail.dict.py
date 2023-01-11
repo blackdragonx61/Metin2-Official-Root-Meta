@@ -60,5 +60,5 @@
          {'name': 'POST_WRITE_WRONG_TITLE', 'type': 'int', 'value': 6},
          {'name': 'POST_WRITE_YANG_NOT_ENOUGHT', 'type': 'int', 'value': 7},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'mail'},
+         {'name': '__name__', 'type': 'str', 'value': 'ITSF'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

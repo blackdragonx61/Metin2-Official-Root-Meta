@@ -239,5 +239,5 @@
          {'name': 'REFINE_ELEMENT_CATEGORY_MAX', 'type': 'int', 'value': 6},
          {'name': 'REFINE_ELEMENT_CATEGORY_WIND', 'type': 'int', 'value': 3},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'chrmgrm2g'},
+         {'name': '__name__', 'type': 'str', 'value': 'sCeFFCdLD'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

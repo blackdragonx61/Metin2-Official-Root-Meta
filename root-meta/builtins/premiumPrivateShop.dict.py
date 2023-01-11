@@ -15,5 +15,5 @@
          {'name': 'PREMIUM_PRIVATE_SHOP_SUBHEADER_GC_UI_OPEN', 'type': 'int', 'value': 2},
          {'name': 'PREMIUM_PRIVATE_SHOP_SUBHEADER_GC_UI_OPEN_READY', 'type': 'int', 'value': 1},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'premiumPrivateShop'},
+         {'name': '__name__', 'type': 'str', 'value': 'hhRKxIfCBCjEiEAzho'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

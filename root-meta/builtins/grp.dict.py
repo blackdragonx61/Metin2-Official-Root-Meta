@@ -39,4 +39,6 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'TextBarSetTextColor'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'TextBarTextOut'}],
  'import': [],
- 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'grp'}, {'name': '__package__', 'type': 'NoneType', 'value': None}]}
+ 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None},
+         {'name': '__name__', 'type': 'str', 'value': 'ISQ'},
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}

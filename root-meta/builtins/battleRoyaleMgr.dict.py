@@ -1,5 +1,6 @@
 {'class': [],
- 'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsDropItemDialogDisabled'}, {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsPCTextTailHided'}],
+ 'func': [{'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsDropItemDialogDisabled'},
+          {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'IsPCTextTailHided'}],
  'import': [],
  'var': [{'name': 'BATTLE_ROYALE_CHAT_DISABLED', 'type': 'int', 'value': 1},
          {'name': 'BATTLE_ROYALE_INVENTORY_EXTEND_BUTTON_MAX_RANGE', 'type': 'int', 'value': 9},

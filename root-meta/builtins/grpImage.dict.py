@@ -9,4 +9,6 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetDiffuseColor'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetPosition'}],
  'import': [],
- 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'grpImage'}, {'name': '__package__', 'type': 'NoneType', 'value': None}]}
+ 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None},
+         {'name': '__name__', 'type': 'str', 'value': 'fGxVTGEk'},
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}

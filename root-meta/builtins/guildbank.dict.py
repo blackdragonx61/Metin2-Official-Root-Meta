@@ -17,5 +17,5 @@
          {'name': 'GUILDBANK_SLOT_X_COUNT', 'type': 'int', 'value': 5},
          {'name': 'GUILDBANK_SLOT_Y_COUNT', 'type': 'int', 'value': 8},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'guildbank'},
+         {'name': '__name__', 'type': 'str', 'value': 'ZAIDmCDqK'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

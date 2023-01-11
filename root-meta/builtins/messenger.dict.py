@@ -8,4 +8,6 @@
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'RemoveFriend'},
           {'args': ['bad-module'], 'defaults': ['bad-module'], 'name': 'SetMessengerHandler'}],
  'import': [],
- 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None}, {'name': '__name__', 'type': 'str', 'value': 'messenger'}, {'name': '__package__', 'type': 'NoneType', 'value': None}]}
+ 'var': [{'name': '__doc__', 'type': 'NoneType', 'value': None},
+         {'name': '__name__', 'type': 'str', 'value': 'VLKtzCKWb'},
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}

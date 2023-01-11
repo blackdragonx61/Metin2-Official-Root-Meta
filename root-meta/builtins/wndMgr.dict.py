@@ -239,5 +239,5 @@
          {'name': 'VERTICAL_ALIGN_CENTER', 'type': 'int', 'value': 1},
          {'name': 'VERTICAL_ALIGN_TOP', 'type': 'int', 'value': 0},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'wndMgr'},
+         {'name': '__name__', 'type': 'str', 'value': 'skUCjC'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

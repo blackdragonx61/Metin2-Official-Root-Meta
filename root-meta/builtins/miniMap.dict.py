@@ -33,5 +33,5 @@
          {'name': 'TYPE_WARP', 'type': 'int', 'value': 5},
          {'name': 'TYPE_WAYPOINT', 'type': 'int', 'value': 6},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'miniMap'},
+         {'name': '__name__', 'type': 'str', 'value': 'AvsvCIc'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

@@ -26,5 +26,5 @@
          {'name': 'QUEST_TYPE_SYSTEM', 'type': 'int', 'value': 5},
          {'name': 'QUEST_TYPE_UNEXPOSED', 'type': 'int', 'value': 8},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'quest'},
+         {'name': '__name__', 'type': 'str', 'value': 'JTNdx'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

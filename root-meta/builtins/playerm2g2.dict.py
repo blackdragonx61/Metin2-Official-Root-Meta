@@ -1136,5 +1136,5 @@
          {'name': 'YUTNORI_GC_SUBHEADER_SET_YUT_BOARD_FLAG', 'type': 'int', 'value': 11},
          {'name': 'YUTNORI_GC_SUBHEADER_SET_YUT_PIECE_FLAG', 'type': 'int', 'value': 10},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'playerm2g2'},
+         {'name': '__name__', 'type': 'str', 'value': 'EPoqMjnDAG'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

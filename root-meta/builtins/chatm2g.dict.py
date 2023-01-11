@@ -135,5 +135,5 @@
          {'name': 'WHISPER_TYPE_GM', 'type': 'int', 'value': 5},
          {'name': 'WHISPER_TYPE_SYSTEM', 'type': 'int', 'value': 255},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'chatm2g'},
+         {'name': '__name__', 'type': 'str', 'value': 'kqKNavM'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

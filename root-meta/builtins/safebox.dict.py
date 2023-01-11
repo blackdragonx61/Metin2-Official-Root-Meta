@@ -24,5 +24,5 @@
          {'name': 'SAFEBOX_SLOT_X_COUNT', 'type': 'int', 'value': 5},
          {'name': 'SAFEBOX_SLOT_Y_COUNT', 'type': 'int', 'value': 9},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'safebox'},
+         {'name': '__name__', 'type': 'str', 'value': 'KwqQKFm'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

@@ -59,5 +59,5 @@
          {'name': 'SHOP_HOST_ITEM_MAX', 'type': 'int', 'value': 80},
          {'name': 'SHOP_SLOT_COUNT', 'type': 'int', 'value': 40},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'shop'},
+         {'name': '__name__', 'type': 'str', 'value': 'PMGD'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

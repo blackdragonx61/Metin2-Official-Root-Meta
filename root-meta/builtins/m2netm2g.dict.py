@@ -490,5 +490,5 @@
          {'name': 'SKILLBOOK_COMBINATION_TYPE_NONE', 'type': 'int', 'value': 0},
          {'name': 'SKILLBOOK_COMBINATION_TYPE_SKILLBOOK', 'type': 'int', 'value': 1},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'm2netm2g'},
+         {'name': '__name__', 'type': 'str', 'value': 'pWxytFLG'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

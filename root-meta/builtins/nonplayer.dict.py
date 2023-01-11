@@ -52,5 +52,5 @@
          {'name': 'S_KNIGHT', 'type': 'int', 'value': 3},
          {'name': 'S_PAWN', 'type': 'int', 'value': 1},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'nonplayer'},
+         {'name': '__name__', 'type': 'str', 'value': 'azuxLDgDK'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

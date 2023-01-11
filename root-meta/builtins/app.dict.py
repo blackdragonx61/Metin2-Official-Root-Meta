@@ -387,10 +387,9 @@
          {'name': 'SEARCH_PACK', 'type': 'int', 'value': 1},
          {'name': 'SELL', 'type': 'int', 'value': 10},
          {'name': 'SPECIAL_ACTION_START_INDEX', 'type': 'int', 'value': 101},
-         {'name': 'ServerName', 'type': 'NoneType', 'value': None},
          {'name': 'TALK', 'type': 'int', 'value': 3},
          {'name': 'TARGET', 'type': 'int', 'value': 2},
-         {'name': 'VERSION', 'type': 'str', 'value': 'Ver. 22,5,3'},
+         {'name': 'VERSION', 'type': 'str', 'value': 'Ver. 22,5,7'},
          {'name': 'VK_BACK', 'type': 'int', 'value': 8},
          {'name': 'VK_DELETE', 'type': 'int', 'value': 46},
          {'name': 'VK_DOWN', 'type': 'int', 'value': 40},
@@ -404,5 +403,4 @@
          {'name': '__COMMAND_LINE__', 'type': 'str', 'value': "'--gf  '"},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
          {'name': '__name__', 'type': 'str', 'value': 'app'},
-         {'name': '__package__', 'type': 'NoneType', 'value': None},
-         {'name': 'loggined', 'type': 'bool', 'value': False}]}
+         {'name': '__package__', 'type': 'NoneType', 'value': None}]}

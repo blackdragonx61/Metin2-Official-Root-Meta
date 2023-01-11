@@ -87,5 +87,5 @@
          {'name': 'SKILL_TYPE_NONE', 'type': 'int', 'value': 0},
          {'name': 'SKILL_TYPE_SUPPORT', 'type': 'int', 'value': 2},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'skill'},
+         {'name': '__name__', 'type': 'str', 'value': 'GFNic'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}

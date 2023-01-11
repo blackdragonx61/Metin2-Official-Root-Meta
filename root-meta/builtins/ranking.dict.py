@@ -39,5 +39,5 @@
          {'name': 'TYPE_RK_PARTY', 'type': 'int', 'value': 1},
          {'name': 'TYPE_RK_SOLO', 'type': 'int', 'value': 0},
          {'name': '__doc__', 'type': 'NoneType', 'value': None},
-         {'name': '__name__', 'type': 'str', 'value': 'ranking'},
+         {'name': '__name__', 'type': 'str', 'value': 'oQhQgFw'},
          {'name': '__package__', 'type': 'NoneType', 'value': None}]}
